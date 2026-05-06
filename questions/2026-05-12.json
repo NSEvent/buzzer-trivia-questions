@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-12",
+  "categories": [
+    {
+      "name": "WORLD CAPITALS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This city, not Sydney or Melbourne, is the official capital of Australia.",
+          "choices": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Sitting over 3,600 meters above sea level, this South American city is the world's highest capital.",
+          "choices": [
+            "Quito",
+            "La Paz",
+            "Bogot\u00e1",
+            "Lima"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Named after a U.S. president, this West African capital was founded by freed American slaves in 1847.",
+          "choices": [
+            "Freetown",
+            "Accra",
+            "Monrovia",
+            "Abuja"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "This atoll capital of Kiribati shares its name with a pivotal 1943 World War II Pacific battle.",
+          "choices": [
+            "Funafuti",
+            "South Tarawa",
+            "Majuro",
+            "Palikir"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Vaduz is the capital of this doubly landlocked European principality bordered by Switzerland and Austria.",
+          "choices": [
+            "San Marino",
+            "Liechtenstein",
+            "Monaco",
+            "Andorra"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "SCIENCE & NATURE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "As of 2024, this planet holds the record for the most known moons in our solar system with over 140.",
+          "choices": [
+            "Uranus",
+            "Neptune",
+            "Saturn",
+            "Jupiter"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "This chemical element with symbol Au and atomic number 79 has long been prized for currency and jewelry.",
+          "choices": [
+            "Silver",
+            "Gold",
+            "Copper",
+            "Platinum"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Watson and Crick published their landmark paper describing DNA's double helix structure in this year.",
+          "choices": [
+            "1943",
+            "1953",
+            "1963",
+            "1973"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This scientist formulated the three laws of planetary motion in the early 17th century.",
+          "choices": [
+            "Galileo Galilei",
+            "Nicolaus Copernicus",
+            "Johannes Kepler",
+            "Tycho Brahe"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Proposed in 1964 and confirmed at CERN in 2012, this particle is nicknamed the 'God particle.'",
+          "choices": [
+            "Neutrino",
+            "Higgs boson",
+            "Graviton",
+            "Muon"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "MOVIES & TELEVISION",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This actor portrayed Tony Stark, aka Iron Man, across multiple Marvel Cinematic Universe films.",
+          "choices": [
+            "Chris Evans",
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "This HBO fantasy epic based on George R.R. Martin's novels concluded its eight-season run in 2019.",
+          "choices": [
+            "The Wire",
+            "Succession",
+            "Game of Thrones",
+            "Rome"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This British-American director helmed both 'Inception' (2010) and the Oscar-winning 'Oppenheimer' (2023).",
+          "choices": [
+            "Steven Spielberg",
+            "Ridley Scott",
+            "Christopher Nolan",
+            "Denis Villeneuve"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "This streaming platform released 'Squid Game,' the South Korean series that became a global phenomenon in 2021.",
+          "choices": [
+            "HBO Max",
+            "Hulu",
+            "Amazon Prime",
+            "Netflix"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Marlon Brando won the Best Actor Oscar playing this character in Francis Ford Coppola's 1972 'The Godfather.'",
+          "choices": [
+            "Michael Corleone",
+            "Vito Corleone",
+            "Sonny Corleone",
+            "Tom Hagen"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "MOVIES & TELEVISION",
+    "clue": "This 1994 Quentin Tarantino film features an iconic twist contest dance between John Travolta and Uma Thurman.",
+    "choices": [
+      "Reservoir Dogs",
+      "Pulp Fiction",
+      "Jackie Brown",
+      "Kill Bill"
+    ],
+    "correctIndex": 1
+  }
+}

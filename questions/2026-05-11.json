@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-11",
+  "categories": [
+    {
+      "name": "World History",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This ancient wonder, a massive lighthouse, stood on the island of Pharos near Alexandria, Egypt.",
+          "choices": [
+            "The Colossus of Rhodes",
+            "The Temple of Artemis",
+            "The Lighthouse of Alexandria",
+            "The Mausoleum at Halicarnassus"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Napoleon Bonaparte was exiled to this remote South Atlantic island after his final defeat at Waterloo in 1815.",
+          "choices": [
+            "Elba",
+            "Saint Helena",
+            "Corsica",
+            "R\u00e9union"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "The 1648 Peace of Westphalia brought an end to this devastating conflict that ravaged Central Europe for three decades.",
+          "choices": [
+            "The Hundred Years' War",
+            "The Thirty Years' War",
+            "The Seven Years' War",
+            "The War of the Spanish Succession"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This Ottoman sultan, called 'the Magnificent' in the West, ruled the empire at its greatest territorial extent in the 16th century.",
+          "choices": [
+            "Selim I",
+            "Murad II",
+            "Suleiman I",
+            "Mehmed II"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "The 1896 Battle of Adwa saw this African nation decisively defeat Italian colonial forces and preserve its independence.",
+          "choices": [
+            "Somalia",
+            "Sudan",
+            "Ethiopia",
+            "Eritrea"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "Science & Nature",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This gas makes up approximately 78% of Earth's atmosphere by volume.",
+          "choices": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Argon"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Mitochondria are called the 'powerhouse of the cell' because they produce this primary energy-carrying molecule.",
+          "choices": [
+            "DNA",
+            "ATP",
+            "RNA",
+            "ADP"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "This layer of Earth's atmosphere contains the ozone layer that shields life from harmful ultraviolet radiation.",
+          "choices": [
+            "Troposphere",
+            "Mesosphere",
+            "Thermosphere",
+            "Stratosphere"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "The Coriolis effect causes hurricanes in the Northern Hemisphere to rotate in this direction.",
+          "choices": [
+            "Clockwise",
+            "Counterclockwise",
+            "Alternating directions",
+            "No consistent direction"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "With atomic number 43, this element was the first to be artificially produced in a laboratory, achieved in 1937.",
+          "choices": [
+            "Promethium",
+            "Francium",
+            "Technetium",
+            "Astatine"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "Pop Culture",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This 2023 Greta Gerwig film starring Margot Robbie became one of the highest-grossing movies in history.",
+          "choices": [
+            "The Little Mermaid",
+            "Barbie",
+            "Indiana Jones and the Dial of Destiny",
+            "Oppenheimer"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Taylor Swift's 2023 Eras Tour opened each show with songs from this album era.",
+          "choices": [
+            "Fearless",
+            "Lover",
+            "1989",
+            "Speak Now"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "This 2021 Korean survival drama became Netflix's most-watched series of all time upon its debut.",
+          "choices": [
+            "Squid Game",
+            "Stranger Things",
+            "The Crown",
+            "Bridgerton"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Kendrick Lamar headlined the halftime show at Super Bowl LIX, held in this city in February 2025.",
+          "choices": [
+            "Las Vegas",
+            "New Orleans",
+            "Los Angeles",
+            "New York"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Britpop legends Oasis reunited for a massive 2025 world tour with this Gallagher brother as lead vocalist.",
+          "choices": [
+            "Noel Gallagher",
+            "Liam Gallagher",
+            "Paul Gallagher",
+            "Andy Bell"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "World History",
+    "clue": "This Mongol ruler founded the largest contiguous land empire in history during the 13th century.",
+    "choices": [
+      "Kublai Khan",
+      "Timur",
+      "Genghis Khan",
+      "\u00d6gedei Khan"
+    ],
+    "correctIndex": 2
+  }
+}

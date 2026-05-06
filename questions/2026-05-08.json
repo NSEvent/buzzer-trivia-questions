@@ -1,0 +1,197 @@
+{
+  "date": "2026-05-08",
+  "categories": [
+    {
+      "name": "World Geography",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The Amazon River flows primarily through this South American country.",
+          "choices": [
+            "Argentina",
+            "Brazil",
+            "Colombia",
+            "Peru"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "This African nation actually has more ancient pyramids than Egypt.",
+          "choices": [
+            "Sudan",
+            "Ethiopia",
+            "Libya",
+            "Chad"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "The Strait of Malacca separates the Malay Peninsula from this large Indonesian island.",
+          "choices": [
+            "Borneo",
+            "Sumatra",
+            "Java",
+            "Sulawesi"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Lake Titicaca, the world's highest navigable lake, sits on the border of Peru and this country.",
+          "choices": [
+            "Chile",
+            "Ecuador",
+            "Bolivia",
+            "Brazil"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "The Lesotho Highlands Water Project transfers fresh water to this neighboring nation.",
+          "choices": [
+            "Mozambique",
+            "Zimbabwe",
+            "Botswana",
+            "South Africa"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "Science & Nature",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The chemical symbol Au on the periodic table stands for this precious metal.",
+          "choices": [
+            "Silver",
+            "Copper",
+            "Gold",
+            "Aluminum"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "A healthy adult human skeleton contains this many bones.",
+          "choices": [
+            "206",
+            "212",
+            "198",
+            "220"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Of all planets in our solar system, this gas giant has the shortest day at roughly 10 hours.",
+          "choices": [
+            "Saturn",
+            "Neptune",
+            "Mars",
+            "Jupiter"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Earth's rotation produces this deflection effect that steers winds and ocean currents.",
+          "choices": [
+            "Bernoulli Effect",
+            "Doppler Effect",
+            "Coriolis Effect",
+            "Venturi Effect"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "A covalent bond forms when two atoms do this with their outer electrons.",
+          "choices": [
+            "Transfer them",
+            "Share them",
+            "Lose them",
+            "Gain them"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "Pop Culture",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Taylor Swift's record-breaking 2023\u20132024 worldwide concert tour was named this.",
+          "choices": [
+            "The Eras Tour",
+            "The Folklore Tour",
+            "The Reputation Tour",
+            "The Midnights Tour"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "The sci-fi horror series 'Stranger Things' streams exclusively on this platform.",
+          "choices": [
+            "HBO Max",
+            "Disney+",
+            "Netflix",
+            "Amazon Prime"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Christopher Nolan's film about the Manhattan Project took home Best Picture at the 2024 Oscars.",
+          "choices": [
+            "Oppenheimer",
+            "Poor Things",
+            "The Zone of Interest",
+            "Killers of the Flower Moon"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Hero Link embarks on adventures to rescue Princess Zelda in this Nintendo franchise.",
+          "choices": [
+            "Final Fantasy",
+            "The Legend of Zelda",
+            "Dragon Quest",
+            "Fire Emblem"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "This Colombian author penned the magical realist masterpiece 'One Hundred Years of Solitude'.",
+          "choices": [
+            "Pablo Neruda",
+            "Jorge Luis Borges",
+            "Gabriel Garc\u00eda M\u00e1rquez",
+            "Isabel Allende"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "Science & Nature",
+    "value": 600,
+    "clue": "Of all planets in our solar system, this gas giant has the shortest day at roughly 10 hours.",
+    "choices": [
+      "Saturn",
+      "Neptune",
+      "Mars",
+      "Jupiter"
+    ],
+    "correctIndex": 3
+  }
+}

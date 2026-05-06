@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-06",
+  "categories": [
+    {
+      "name": "World Geography",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This city, not Sydney, is the capital of Australia.",
+          "choices": [
+            "Brisbane",
+            "Canberra",
+            "Melbourne",
+            "Perth"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "This mountain range is considered the natural boundary between Europe and Asia.",
+          "choices": [
+            "Alps",
+            "Caucasus Mountains",
+            "Ural Mountains",
+            "Carpathians"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "The Amazon River empties into this ocean off the coast of Brazil.",
+          "choices": [
+            "Pacific Ocean",
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Lake Baikal, the world's deepest freshwater lake, lies within this country.",
+          "choices": [
+            "Mongolia",
+            "Kazakhstan",
+            "Russia",
+            "China"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "This landlocked microstate, one of the world's oldest republics, is entirely surrounded by Italy.",
+          "choices": [
+            "Monaco",
+            "Liechtenstein",
+            "Vatican City",
+            "San Marino"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "Science & Technology",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Water molecules are made of two hydrogen atoms bonded to one atom of this element.",
+          "choices": [
+            "Carbon",
+            "Oxygen",
+            "Nitrogen",
+            "Helium"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "The fourth planet from the Sun, nicknamed the Red Planet.",
+          "choices": [
+            "Venus",
+            "Mercury",
+            "Mars",
+            "Jupiter"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This cellular organelle is often called the powerhouse of the cell.",
+          "choices": [
+            "Nucleus",
+            "Mitochondria",
+            "Ribosome",
+            "Golgi apparatus"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Scottish bacteriologist Alexander Fleming discovered this life-saving antibiotic in 1928.",
+          "choices": [
+            "Tetracycline",
+            "Streptomycin",
+            "Penicillin",
+            "Amoxicillin"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "This European research laboratory confirmed the existence of the Higgs boson particle in 2012.",
+          "choices": [
+            "Fermilab",
+            "SLAC",
+            "CERN",
+            "Brookhaven"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "Film & Television",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Jennifer Lawrence stars as Katniss Everdeen in this dystopian film franchise.",
+          "choices": [
+            "Divergent",
+            "The Hunger Games",
+            "The Maze Runner",
+            "Twilight"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Lin-Manuel Miranda wrote the songs for this 2021 Disney animated film set in Colombia.",
+          "choices": [
+            "Coco",
+            "Moana",
+            "Encanto",
+            "Luca"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Sony's Naughty Dog studio created this post-apocalyptic game series that became an HBO show.",
+          "choices": [
+            "Uncharted",
+            "God of War",
+            "The Last of Us",
+            "Horizon Zero Dawn"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "This Netflix series, premiering in 2016, features the Upside Down and a boy named Will Byers.",
+          "choices": [
+            "Dark",
+            "Mindhunter",
+            "Outer Banks",
+            "Stranger Things"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "South Korean director Bong Joon-ho's 'Parasite' was the first non-English film to win Best Picture at this ceremony.",
+          "choices": [
+            "BAFTA Awards",
+            "Cannes Film Festival",
+            "Academy Awards",
+            "Golden Globe Awards"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "Science & Technology",
+    "clue": "With atomic number 79 and chemical symbol Au, this precious metal is used widely in jewelry and electronics.",
+    "choices": [
+      "Platinum",
+      "Gold",
+      "Silver",
+      "Copper"
+    ],
+    "correctIndex": 1
+  }
+}

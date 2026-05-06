@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Daily Game",
+  "type": "object",
+  "required": ["date", "categories", "dailyDouble"],
+  "properties": {
+    "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "categories": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "required": ["name", "questions"],
+        "properties": {
+          "name": { "type": "string" },
+          "questions": {
+            "type": "array",
+            "minItems": 5,
+            "maxItems": 5,
+            "items": {
+              "type": "object",
+              "required": ["value", "clue", "choices", "correctIndex"],
+              "properties": {
+                "value": { "type": "integer", "enum": [200, 400, 600, 800, 1000] },
+                "clue": { "type": "string" },
+                "choices": {
+                  "type": "array",
+                  "minItems": 4,
+                  "maxItems": 4,
+                  "items": { "type": "string" }
+                },
+                "correctIndex": { "type": "integer", "minimum": 0, "maximum": 3 }
+              }
+            }
+          }
+        }
+      }
+    },
+    "dailyDouble": {
+      "type": "object",
+      "required": ["category", "clue", "choices", "correctIndex"],
+      "properties": {
+        "category": { "type": "string" },
+        "clue": { "type": "string" },
+        "choices": {
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 4,
+          "items": { "type": "string" }
+        },
+        "correctIndex": { "type": "integer", "minimum": 0, "maximum": 3 }
+      }
+    },
+    "bonusRound": {
+      "type": "object",
+      "required": ["category", "clue", "choices", "correctIndex"],
+      "properties": {
+        "category": { "type": "string" },
+        "clue": { "type": "string" },
+        "choices": {
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 4,
+          "items": { "type": "string" }
+        },
+        "correctIndex": { "type": "integer", "minimum": 0, "maximum": 3 }
+      }
+    }
+  }
+}

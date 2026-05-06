@@ -1,0 +1,207 @@
+{
+  "date": "2026-05-09",
+  "categories": [
+    {
+      "name": "LITERARY GIANTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This author wrote the 1813 novel 'Pride and Prejudice.'",
+          "choices": [
+            "Charlotte Bront\u00eb",
+            "Jane Austen",
+            "George Eliot",
+            "Mary Shelley"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "'To be, or not to be' opens a soliloquy in this Shakespeare tragedy.",
+          "choices": [
+            "Macbeth",
+            "Othello",
+            "Hamlet",
+            "King Lear"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "George Orwell's 'Nineteen Eighty-Four' features a totalitarian ruler known by this name.",
+          "choices": [
+            "The Party",
+            "Big Brother",
+            "O'Brien",
+            "Emmanuel Goldstein"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This Russian author penned 'War and Peace' in 1869.",
+          "choices": [
+            "Fyodor Dostoevsky",
+            "Anton Chekhov",
+            "Leo Tolstoy",
+            "Ivan Turgenev"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "'One Hundred Years of Solitude' was written by this Colombian Nobel laureate.",
+          "choices": [
+            "Mario Vargas Llosa",
+            "Jorge Luis Borges",
+            "Gabriel Garc\u00eda M\u00e1rquez",
+            "Pablo Neruda"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "PERIODIC TABLE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This element, symbol Fe, is the primary component of Earth's inner core.",
+          "choices": [
+            "Copper",
+            "Iron",
+            "Zinc",
+            "Cobalt"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "The lightest and most abundant element in the universe.",
+          "choices": [
+            "Helium",
+            "Hydrogen",
+            "Lithium",
+            "Carbon"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Atomic number 79, this precious metal has been prized since antiquity.",
+          "choices": [
+            "Silver",
+            "Platinum",
+            "Gold",
+            "Palladium"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "One of only two elements liquid at room temperature, it was long used in traditional thermometers.",
+          "choices": [
+            "Bromine",
+            "Mercury",
+            "Gallium",
+            "Cesium"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "This noble gas, atomic number 10, illuminates the colorful signs that bear its name.",
+          "choices": [
+            "Argon",
+            "Neon",
+            "Krypton",
+            "Xenon"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "CAPITALS OF THE WORLD",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This planned inland city, not Sydney, serves as Australia's capital.",
+          "choices": [
+            "Melbourne",
+            "Sydney",
+            "Canberra",
+            "Brisbane"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "This city is both the capital of Belgium and the de facto seat of the European Union.",
+          "choices": [
+            "Amsterdam",
+            "Brussels",
+            "Luxembourg City",
+            "Strasbourg"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Ottawa is the capital of this G7 nation.",
+          "choices": [
+            "Australia",
+            "New Zealand",
+            "Ireland",
+            "Canada"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Astana (formerly Nur-Sultan) is the capital of this vast Central Asian country.",
+          "choices": [
+            "Uzbekistan",
+            "Kyrgyzstan",
+            "Kazakhstan",
+            "Turkmenistan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Myanmar relocated its capital from Yangon to this purpose-built city in 2006.",
+          "choices": [
+            "Mandalay",
+            "Naypyidaw",
+            "Bagan",
+            "Mawlamyine"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "PERIODIC TABLE",
+    "clue": "Discovered in 1898 by Marie Curie, this radioactive element was named after her homeland Poland.",
+    "choices": [
+      "Radium",
+      "Polonium",
+      "Curium",
+      "Francium"
+    ],
+    "correctIndex": 1
+  },
+  "bonusRound": {
+    "category": "SATURDAY SUPERSTARS",
+    "clue": "This Minneapolis musician released the album 'Purple Rain' in 1984 and later performed under an unpronounceable symbol.",
+    "choices": [
+      "David Bowie",
+      "Prince",
+      "Michael Jackson",
+      "Freddie Mercury"
+    ],
+    "correctIndex": 1
+  }
+}

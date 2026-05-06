@@ -1,0 +1,197 @@
+{
+  "date": "2026-05-10",
+  "categories": [
+    {
+      "name": "World History",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This 1215 document signed at Runnymede limited the power of the English king.",
+          "choices": [
+            "Domesday Book",
+            "Magna Carta",
+            "Bill of Rights",
+            "Habeas Corpus"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "After his defeat at Waterloo, Napoleon Bonaparte was exiled to this remote South Atlantic island.",
+          "choices": [
+            "Elba",
+            "Corsica",
+            "Malta",
+            "Saint Helena"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "The 1648 Peace of Westphalia brought an end to this devastating European conflict.",
+          "choices": [
+            "Hundred Years' War",
+            "Seven Years' War",
+            "Thirty Years' War",
+            "War of Spanish Succession"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Howard Carter discovered this pharaoh's intact tomb in Egypt's Valley of the Kings in 1922.",
+          "choices": [
+            "Ramesses II",
+            "Akhenaten",
+            "Nefertiti",
+            "Tutankhamun"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "The 1757 Battle of Plassey gave the British East India Company control over this wealthy Indian region.",
+          "choices": [
+            "Punjab",
+            "Bengal",
+            "Madras",
+            "Maharashtra"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "Science & Nature",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This lightest element on the periodic table has atomic number 1.",
+          "choices": [
+            "Helium",
+            "Lithium",
+            "Hydrogen",
+            "Carbon"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "This organ in the human body is responsible for producing the hormone insulin.",
+          "choices": [
+            "Liver",
+            "Spleen",
+            "Kidney",
+            "Pancreas"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "DNA's double helix structure was first described in 1953 by James Watson and this British scientist.",
+          "choices": [
+            "Rosalind Franklin",
+            "Francis Crick",
+            "Linus Pauling",
+            "Max Perutz"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This planet has the shortest day in our solar system, completing one rotation in about 10 hours.",
+          "choices": [
+            "Saturn",
+            "Neptune",
+            "Jupiter",
+            "Uranus"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "The Mpemba effect describes the counterintuitive phenomenon where hot water can freeze faster than this.",
+          "choices": [
+            "Boiling water",
+            "Salt water",
+            "Cold water",
+            "Distilled water"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "Pop Culture",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This 2013 Disney animated film introduced the ice-queen character Elsa and her sister Anna.",
+          "choices": [
+            "Brave",
+            "Tangled",
+            "Moana",
+            "Frozen"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Taylor Swift's record-breaking 2023\u20132024 concert tour was officially titled this.",
+          "choices": [
+            "The Reputation Tour",
+            "The Eras Tour",
+            "The Folklore Tour",
+            "The Fearless Tour"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "AMC's hit drama 'Breaking Bad' follows chemistry teacher Walter White in this New Mexico city.",
+          "choices": [
+            "Santa Fe",
+            "Las Cruces",
+            "Albuquerque",
+            "Roswell"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Robert Downey Jr. first portrayed this Marvel superhero in a 2008 solo film that launched the MCU.",
+          "choices": [
+            "Captain America",
+            "Thor",
+            "Hawkeye",
+            "Iron Man"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Radiohead released this critically acclaimed 1997 album featuring the songs 'Karma Police' and 'Paranoid Android'.",
+          "choices": [
+            "The Bends",
+            "Pablo Honey",
+            "OK Computer",
+            "Kid A"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "Science & Nature",
+    "value": 600,
+    "clue": "DNA's double helix structure was first described in 1953 by James Watson and this British scientist.",
+    "choices": [
+      "Rosalind Franklin",
+      "Francis Crick",
+      "Linus Pauling",
+      "Max Perutz"
+    ],
+    "correctIndex": 1
+  }
+}
