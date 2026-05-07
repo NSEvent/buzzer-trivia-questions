@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-01",
+  "categories": [
+    {
+      "name": "AMERICAN MUSIC",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"The Yanks are coming, the Yanks are coming\" in this George M. Cohan song",
+          "choices": [
+            "What is \\\"Over There\\\"?",
+            "What is \"Yankee Doodle\"?",
+            "What is \"You're a Grand Old Flag\"?",
+            "What is \"The Stars and Stripes Forever\"?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This American composed most of \"An American In Paris\" in Paris",
+          "choices": [
+            "Who is Aaron Copland?",
+            "Who is Cole Porter?",
+            "Who is Irving Berlin?",
+            "What is George Gershwin?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "He 1st played the cornet in a reform school \"Waifs' Band\" & took up the trumpet in 1924",
+          "choices": [
+            "Who is Miles Davis?",
+            "What is Louis Armstrong?",
+            "Who is Dizzy Gillespie?",
+            "Who is Buddy Bolden?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Associated with antebellum South,1 of these shows ran in London from the early 1960s to late 1970s",
+          "choices": [
+            "What is a vaudeville show?",
+            "What is a medicine show?",
+            "What is a minstrel show?",
+            "What is a burlesque show?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "In the 1820s members of this tribe published a Christian hymnal written in Sequoyah's syllabary",
+          "choices": [
+            "What is the Choctaw?",
+            "What is the Creek?",
+            "What is the Cherokee?",
+            "What is the Ojibwe?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "BEGINS & ENDS IN \"K\\\"",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Lucy wouldn't let Charlie Brown do this to the football",
+          "choices": [
+            "What is kneel?",
+            "What is kick-start?",
+            "What is knock?",
+            "What is Kick?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Mark Twain once worked as a printer in this Iowa town",
+          "choices": [
+            "What is Kirkuk?",
+            "What is Kankakee?",
+            "What is Kalamazoo?",
+            "What is Keokuk?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This TV cop wasn't played by a Teletubby, but by a Telly Savalas",
+          "choices": [
+            "Who is Kolchak?",
+            "Who is Kowalski?",
+            "What is Kojak?",
+            "Who is Klink?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Noted Czech astronomer...okay, we'll give you more; the comet named for him was sort of visible in 1973",
+          "choices": [
+            "Who is Anton\u00edn Kopeck\u00fd?",
+            "Who is Karel Kv\u00ed\u010dala?",
+            "Who is Vladim\u00edr Koudelka?",
+            "What is Lubos Kohoutek?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This coin was named from the Russian word for \"spear\" because originally a rider with a spear was depicted on it",
+          "choices": [
+            "What is a kroon?",
+            "What is a krone?",
+            "What is a kopeck?",
+            "What is a koruna?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "STATELY LITERATURE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"A ____ Yankee In King Arthur's Court\\\"",
+          "choices": [
+            "What is Connecticut?",
+            "What is Massachusetts?",
+            "What is Vermont?",
+            "What is Rhode Island?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "The play \"Abe Lincoln in ____\\\"",
+          "choices": [
+            "What is Indiana?",
+            "What is Illinois?",
+            "What is Kentucky?",
+            "What is Ohio?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "\\\"East of Eden\\\"",
+          "choices": [
+            "What is Oregon?",
+            "What is Nevada?",
+            "What is California?",
+            "What is Arizona?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "\\\"The Jungle\\\"",
+          "choices": [
+            "What is Pennsylvania?",
+            "What is Indiana?",
+            "What is Ohio?",
+            "What is Illinois?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"Winesburg, ____\\\"",
+          "choices": [
+            "What is Indiana?",
+            "What is Ohio?",
+            "What is Iowa?",
+            "What is Kansas?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "STEPHEN FOSTER LYRICS",
+    "clue": "The Camptown racetrack was this many \"miles long, oh! doo-dah-day!\\\"",
+    "choices": [
+      "What is 3 miles long?",
+      "What is 10 miles long?",
+      "What is 5 miles long?",
+      "What is 7 miles long?"
+    ],
+    "correctIndex": 2
+  }
+}

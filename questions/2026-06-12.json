@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-12",
+  "categories": [
+    {
+      "name": "FAMOUS ARTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1992 this columnist won a lawsuit which held that his idea was the basis for the movie \"Coming to America\\\"",
+          "choices": [
+            "Who is Dave Barry?",
+            "What is Art Buchwald?",
+            "Who is Mike Royko?",
+            "Who is Erma Bombeck?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "This game show host didn't put guests in \"Jeopardy!\" as an usher at David Eisenhower & Julie Nixon's wedding",
+          "choices": [
+            "What is Art Fleming?",
+            "Who is Alex Trebek?",
+            "Who is Bob Barker?",
+            "Who is Dick Clark?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "He wrote & illustrated the graphic novel \"Maus: A Survivor's Tale\\\"",
+          "choices": [
+            "Who is Alan Moore?",
+            "Who is Neil Gaiman?",
+            "Who is Frank Miller?",
+            "What is Art Spiegelman?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "(Hi, I'm Art Alexakis of the rock band Everclear) This American jazz drummer formed the Jazz Messengers & was a pioneer in the bebop movement",
+          "choices": [
+            "Who is Art Tatum?",
+            "What is Art Blakey?",
+            "Who is Art Pepper?",
+            "Who is Art Farmer?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "In 1992 this Washington Redskin became the NFL's career receptions leader with his 820th catch",
+          "choices": [
+            "Who is Art Shell?",
+            "What is Art Monk?",
+            "Who is Art Still?",
+            "Who is Art Donovan?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "-OLOGY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Aka graphology, analyzing this, whether cursive or print, can tell you a lot about people",
+          "choices": [
+            "What is body language?",
+            "What is fingerprinting?",
+            "What is handwriting?",
+            "What is facial expressions?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Logically, one of these is used as the symbol of each biennial International Congress of Vexillology",
+          "choices": [
+            "What is a compass?",
+            "What is a flag?",
+            "What is a globe?",
+            "What is a map?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "In \"Middlemarch\" Mr. Casaubon is writing a book on this & in debating \"the solar deities, he had become indifferent to the sunlight\\\"",
+          "choices": [
+            "What is theology?",
+            "What is mythology?",
+            "What is astrology?",
+            "What is archaeology?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "The first 3 letters are an abbreviation some have discarded, but this is still the study of flying saucers & the like",
+          "choices": [
+            "What is cryptology?",
+            "What is Ufology (UFOlogy)?",
+            "What is exobiology?",
+            "What is parapsychology?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Boston bike paths are named for Dr. Paul Dudley White, a founder of preventive this -ology",
+          "choices": [
+            "What is neurology?",
+            "What is nephrology?",
+            "What is pulmonology?",
+            "What is cardiology?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "SPY NOVELS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Published posthumously in 2021, \"Silverview\" is the 26th & last completed book by this British spy turned novelist",
+          "choices": [
+            "Who is Ian Fleming?",
+            "What is Le Carr\u00e9?",
+            "Who is Frederick Forsyth?",
+            "Who is John le Carr\u00e9's son?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "This author's 1821 novel \"The Spy\" was written before frontier tales like \"The Pioneers\\\"",
+          "choices": [
+            "Who is Washington Irving?",
+            "What is James Fenimore Cooper?",
+            "Who is Nathaniel Hawthorne?",
+            "Who is Herman Melville?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Singular pseudonym of Rodney Whitaker, who authored 2 \"Sanction\" books, \"Loo\" & \"Eiger\\\"",
+          "choices": [
+            "What is Trevanian?",
+            "Who is Deighton?",
+            "Who is Household?",
+            "Who is Ambler?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "In a Tom Clancy novel, it's the code name of Col. Mikhail Filitov, the CIA's highest agent in the Kremlin, whom Jack Ryan must rescue",
+          "choices": [
+            "What is the Bishop of Moscow?",
+            "What is the Red Falcon?",
+            "What is the Cardinal of the Kremlin?",
+            "What is the Ghost of the Kremlin?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Spy novelist Helen whose works include \"Decision at Delphi\" & \"Cloak of Darkness\\\"",
+          "choices": [
+            "Who is Allingham?",
+            "What is MacInnes?",
+            "Who is Rendell?",
+            "Who is Marsh?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "ANCIENT SYMBOLS",
+    "clue": "This 4-letter wading bird was sacred to ancient Egyptians",
+    "choices": [
+      "What is a heron?",
+      "What is a crane?",
+      "What is an ibis?",
+      "What is a stork?"
+    ],
+    "correctIndex": 2
+  }
+}

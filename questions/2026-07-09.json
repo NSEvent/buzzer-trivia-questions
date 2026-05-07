@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-09",
+  "categories": [
+    {
+      "name": "DUDE-ERONOMY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In Americana, a dude was an Easterner who went to vacation at one of these places",
+          "choices": [
+            "What is a resort?",
+            "What is a plantation?",
+            "What is a frontier town?",
+            "What is a ranch?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "The OED says a \"dude\" has \"fastidiousness in dress\", then as a synonym, uses this word that also has 2 \"D\"s",
+          "choices": [
+            "What is a dapper?",
+            "What is a fop?",
+            "What is a dandy?",
+            "What is a swell?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Though never elected to the office, he earned the nickname \"Dude President\" after attaining the post in 1881",
+          "choices": [
+            "Who is Garfield?",
+            "Who is Hayes?",
+            "What is Arthur?",
+            "Who is Cleveland?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Grab your surfboard, rad boy! In Deuteronomy, this sea is referred to as the \"salt sea\\\"",
+          "choices": [
+            "What is the Red Sea?",
+            "What is the Sea of Galilee?",
+            "What is the Mediterranean Sea?",
+            "What is Dead Sea?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Party on, dude! This guy gets appointed to be the new leader of the Israelites!",
+          "choices": [
+            "Who is Caleb?",
+            "Who is Aaron?",
+            "Who is Eleazar?",
+            "What is Joshua?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "NAME'S THE SAME",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Abolitionist whom Lincoln made ambassador to Russia, or boxer Muhammad Ali",
+          "choices": [
+            "Who is Jack Johnson?",
+            "Who is Joe Louis?",
+            "Who is Sugar Ray Leonard?",
+            "What is Cassius Clay?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "A 1959 Top 10 hit by The Crests, or a 1984 film starring Molly Ringwald",
+          "choices": [
+            "What is Pretty in Pink?",
+            "What is Sixteen Candles?",
+            "What is The Breakfast Club?",
+            "What is Sixteen Going on Seventeen?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Roman goddess associated with the Greek Nike, or the capital of British Columbia",
+          "choices": [
+            "What is Victoria?",
+            "What is Diana?",
+            "What is Aurora?",
+            "What is Regina?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "An island in Antarctica & an island in N.Y.'s East River, both named for our 32nd president, not our 26th",
+          "choices": [
+            "What is Lincoln Island?",
+            "What is Roosevelt Island?",
+            "What is Jefferson Island?",
+            "What is Wilson Island?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "A leader of the Chicago School of Architecture, or the current Secretary of Health & Human Services",
+          "choices": [
+            "Who is Daniel Burnham?",
+            "What is Louis Sullivan?",
+            "Who is Frank Lloyd Wright?",
+            "Who is John Root?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "FAMILY FILMS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Steve Martin played hapless dad George Banks in this 1991 matrimonial comedy",
+          "choices": [
+            "What is Parenthood?",
+            "What is The Family Man?",
+            "What is Cheaper by the Dozen?",
+            "What is Father of the Bride?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Gaby Hoffmann & Macaulay Culkin play niece & nephew to John Candy in this 1989 comedy",
+          "choices": [
+            "What is Uncle Buck?",
+            "What is The Great Outdoors?",
+            "What is Planes, Trains and Automobiles?",
+            "What is Home Alone?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Rosalind Russell brings up her orphaned nephew in this 1958 classic",
+          "choices": [
+            "What is Auntie Mame?",
+            "What is Mame?",
+            "What is My Man Godfrey?",
+            "What is Sabrina?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "This film from Joel & Ethan Coen was partly based on Homer's \"Odyssey\\\"",
+          "choices": [
+            "What is O Brother, Where Art Thou??",
+            "What is No Country for Old Men?",
+            "What is Miller's Crossing?",
+            "What is The Big Lebowski?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Barbara Bel Geddes reminisces about her Norwegian mother, Irene Dunne, in this 1948 drama",
+          "choices": [
+            "What is Since You Went Away?",
+            "What is How Green Was My Valley?",
+            "What is The Best Years of Our Lives?",
+            "What is I Remember Mama?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "SISTERS",
+    "clue": "1 of 2 actresses who played sisters & sang \"Sisters\" in the movie \"White Christmas\\\"",
+    "choices": [
+      "What is Rosemary Clooney or Vera-Ellen?",
+      "Who is Doris Day?",
+      "Who is Betty Hutton?",
+      "Who is Janet Leigh?"
+    ],
+    "correctIndex": 0
+  }
+}

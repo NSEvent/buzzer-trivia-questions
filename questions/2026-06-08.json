@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-08",
+  "categories": [
+    {
+      "name": "SONG BIRDS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Bird mentioned in opening line of \"My Blue Heaven\\\"",
+          "choices": [
+            "What is whippoorwill?",
+            "What is a nightingale?",
+            "What is a mockingbird?",
+            "What is a robin?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This songs begins \"He rocks in the tree tops all day long, hoppin' and a-boppin' and singing his song\\\"",
+          "choices": [
+            "What is \\\"Rockin' Robin\\\"?",
+            "What is \"Surfin' Bird\"?",
+            "What is \"When the Red, Red Robin\"?",
+            "What is \"Bye Bye Blackbird\"?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "\\\"I'll raise you like a\" this mythical bird, sang Fall Out Boy, who rhymed it with remix",
+          "choices": [
+            "What is a griffin?",
+            "What is a dragon?",
+            "What is a roc?",
+            "What is a phoenix?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "In 1977 Steve Miller was in the top 10 with \"Jet Airliner\" & this other song about soaring",
+          "choices": [
+            "What is \"Free Bird\"?",
+            "What is \\\"Fly Like An Eagle\\\"?",
+            "What is \"Learning to Fly\"?",
+            "What is \"Spread Your Wings\"?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Like Shelley, Johnny Mercer & Hoagy Carmichael wrote an ode to this title bird",
+          "choices": [
+            "What is a nightingale?",
+            "What is a bluebird?",
+            "What is skylark?",
+            "What is a swallow?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "VICE-PRESIDENTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Most frequent last name of vice presidents, those serving under Van Buren, Lincoln & Kennedy had it",
+          "choices": [
+            "What is Adams?",
+            "What is Johnson?",
+            "What is Wilson?",
+            "What is Tyler?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "The only vice president from California",
+          "choices": [
+            "What is Kamala Harris?",
+            "What is William Brennan?",
+            "What is Richard Nixon?",
+            "What is Earl Warren?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Harry Truman was exceptionally pleased with the performance of this vice president",
+          "choices": [
+            "What is Henry Wallace?",
+            "What is Alben Barkley?",
+            "What is John Nance Garner?",
+            "What is Charles Curtis?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "V.P. who also served as ambassador to U.N. & director of the C.I.A.",
+          "choices": [
+            "What is Walter Mondale?",
+            "What is Hubert Humphrey?",
+            "What is George Bush?",
+            "What is Nelson Rockefeller?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Both George Clinton & Elbridge Gerry died while serving as vice president to him, the 4th president",
+          "choices": [
+            "What is Madison?",
+            "What is Jefferson?",
+            "What is Monroe?",
+            "What is Adams?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "STARTS & ENDS WITH DIFFERENT VOWELS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Leo Durocher said that he \"never questioned the integrity of\" one; his eyesight, yes",
+          "choices": [
+            "What is an athlete?",
+            "What is an empire?",
+            "What is umpire?",
+            "What is an uncle?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Dull, or a type of angle",
+          "choices": [
+            "What is obtuse?",
+            "What is oblique?",
+            "What is opaque?",
+            "What is acute?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "From the Latin for \"not known\", it means having one's identity concealed",
+          "choices": [
+            "What is anonymous?",
+            "What is incognito?",
+            "What is invisible?",
+            "What is obscure?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Plurals end in J in this language devised in the 19th century",
+          "choices": [
+            "What is Ido?",
+            "What is Esperanto?",
+            "What is Interlingua?",
+            "What is Volap\u00fck?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "You stand with arms this way with your hands on your hips & your elbows bent outward",
+          "choices": [
+            "What is askew?",
+            "What is agape?",
+            "What is awry?",
+            "What is akimbo?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "POP CULTURE DOUBLE TALK",
+    "clue": "Jessie J, Nicki Minaj & Ariana Grande collaborated on this catchy 2014 hit",
+    "choices": [
+      "What is \"Side to Side\"?",
+      "What is \"Problem\"?",
+      "What is \\\"Bang Bang\\\"?",
+      "What is \"Super Bass\"?"
+    ],
+    "correctIndex": 2
+  }
+}

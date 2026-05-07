@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-27",
+  "categories": [
+    {
+      "name": "LITERARY TERMS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Shakespeare's 3-part \"Henry VI\" is an example of this, a series of 3 related novels, plays or operas",
+          "choices": [
+            "What is a tetralogy?",
+            "What is a duology?",
+            "What is a trilogy?",
+            "What is a saga?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Dude, that was so this! A long narrative poem that tells of the deeds & adventures of a hero",
+          "choices": [
+            "What is an ode?",
+            "What is a ballad?",
+            "What is epic?",
+            "What is a sonnet?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Alexander Pope called it \"My Weapon\"; George S. Kaufman said it's what closes on Saturday night",
+          "choices": [
+            "What is satire?",
+            "What is a parody?",
+            "What is an allegory?",
+            "What is irony?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "The pathetic fallacy is a type of this, attributing human traits to inanimate objects",
+          "choices": [
+            "What is personification?",
+            "What is anthropomorphism?",
+            "What is a metaphor?",
+            "What is allegory?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Shaw's plays are comedies of ideas; Congreve's plays are comedies of these",
+          "choices": [
+            "What is errors?",
+            "What is wit?",
+            "What is manners?",
+            "What is morals?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "SORT THROUGH THE WORD PROBLEM",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Sally has 1/3 of a 5th Avenue candy bar, Eddie has 7/8 of a Mr. Goodbar; both are made by this company",
+          "choices": [
+            "What is Mars?",
+            "What is Hershey?",
+            "What is Nestl\u00e9?",
+            "What is Cadbury?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Mr. Jenkins has 3 nickels, 13 dimes & 54 pennies; he can't afford a 2009 Phantom from this car company",
+          "choices": [
+            "What is Bentley?",
+            "What is Rolls-Royce?",
+            "What is Bugatti?",
+            "What is Lamborghini?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Bo makes 86 snow-balls in 1 3/4 hrs.; when will Bo know he has this 9-letter problem where ice crystals form in body tissues?",
+          "choices": [
+            "What is frostbite?",
+            "What is chilblain?",
+            "What is snowblind?",
+            "What is windchill?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "The Statue of Liberty weighs 225 tons; how many have read this woman's poem \"The New Colossus\" on the pedestal wall?",
+          "choices": [
+            "Who is Phillis Wheatley?",
+            "Who is Edna St. Vincent Millay?",
+            "What is Emma Lazarus?",
+            "Who is Amy Lowell?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Bo makes 86 snowballs in 1 3/4 hrs.; when will Bo know he has this 9-letter problem where ice crystals form in body tissues?",
+          "choices": [
+            "What is chilblain?",
+            "What is frostbite?",
+            "What is snowblind?",
+            "What is windchill?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "STATES' FORMER CAPITALS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Omaha (1854-1867)",
+          "choices": [
+            "What is Iowa?",
+            "What is Kansas?",
+            "What is Missouri?",
+            "What is Nebraska?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Natchez (1798-1802 & 1817-1821)",
+          "choices": [
+            "What is Alabama?",
+            "What is Louisiana?",
+            "What is Mississippi?",
+            "What is Arkansas?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Poughkeepsie",
+          "choices": [
+            "What is Connecticut?",
+            "What is New York?",
+            "What is New Jersey?",
+            "What is Massachusetts?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Murfreesboro (1819-1825)",
+          "choices": [
+            "What is Kentucky?",
+            "What is Tennessee?",
+            "What is Alabama?",
+            "What is North Carolina?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Augusta (1786-1795)",
+          "choices": [
+            "What is Georgia?",
+            "What is South Carolina?",
+            "What is Virginia?",
+            "What is North Carolina?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "A \"HA\"!",
+    "clue": "A shrewish woman is sometimes called this, after a mythical monster that was part woman & part vulture",
+    "choices": [
+      "What is a banshee?",
+      "What is a medusa?",
+      "What is a harpy?",
+      "What is a fury?"
+    ],
+    "correctIndex": 2
+  }
+}

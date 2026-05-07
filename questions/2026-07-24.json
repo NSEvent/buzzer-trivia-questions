@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-24",
+  "categories": [
+    {
+      "name": "\\\"O\" THE PLACES YOU'LL GO",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Have a magical time at this oldest British university where you can see filming locations from the \"Harry Potter\" movies",
+          "choices": [
+            "What is Oxford?",
+            "What is Cambridge?",
+            "What is Edinburgh?",
+            "What is St. Andrews?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "You can go lots of places flying out of this busiest airport in the Midwest",
+          "choices": [
+            "What is O'Hare?",
+            "What is Midway?",
+            "What is Lambert?",
+            "What is Indianapolis International?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "...Like my hometown of Sudbury that's in this second-largest & southernmost Canadian province",
+          "choices": [
+            "What is Quebec?",
+            "What is British Columbia?",
+            "What is Alberta?",
+            "What is Ontario?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "You're headed to this island region of the Pacific that includes Melanesia, Micronesia & Polynesia",
+          "choices": [
+            "What is Oceania?",
+            "What is the Caribbean?",
+            "What is Southeast Asia?",
+            "What is the Indian Subcontinent?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "It's the Mexican state that lies between Chiapas & Guerrero",
+          "choices": [
+            "What is Veracruz?",
+            "What is Oaxaca?",
+            "What is Tabasco?",
+            "What is Puebla?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "HITS OF THE '80s",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This song by Olivia Newton-John \"worked out\" to be No. 1 longer than any other song in '81",
+          "choices": [
+            "What is \"Let's Get Physical\"?",
+            "What is \"Morning Train\"?",
+            "What is \"Xanadu\"?",
+            "What is \\\"Physical\\\"?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "1 of 2 No. 1 songs of 1981 with \"Eyes\" in the title",
+          "choices": [
+            "What is \"Angel Eyes\"?",
+            "What is \"Eye of the Tiger\"?",
+            "What is \"Eyes of a Stranger\"?",
+            "What is \\\"Bette Davis Eyes\" (or \"Private Eyes\")?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "The profits from this Sager/Bacharach Grammy-winning 1986 single go to AIDS research",
+          "choices": [
+            "What is \"We Are the World\"?",
+            "What is \"Don't They Know It's Christmas\"?",
+            "What is \\\"That's What Friends Are For\\\"?",
+            "What is \"Ebony and Ivory\"?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "This Juice Newton song has been the biggest hit of the '80s to start with a \"Q\\\"",
+          "choices": [
+            "What is \"Quarterflash\"?",
+            "What is \"Quicksand\"?",
+            "What is \"Questions\"?",
+            "What is \\\"Queen of Hearts\\\"?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"All Out Of Love\", \"Lost In Love\" & \"The One That You Love\" were 3 hits by this Aussie group",
+          "choices": [
+            "What is Men at Work?",
+            "What is Air Supply?",
+            "What is INXS?",
+            "What is Little River Band?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "PLANT PARENTHOOD",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Named for the Virgin Mary, these carnivorous little red beetles can help rid your garden of aphids & other insects",
+          "choices": [
+            "What are praying mantises?",
+            "What are lacewings?",
+            "What is ladybugs?",
+            "What are ground beetles?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "(Sarah of the Clue Crew in the laboratory) A must for any gardener, a soil testing kit is used to take a reading of this level, a measure of acidity",
+          "choices": [
+            "What is nitrogen content?",
+            "What is moisture level?",
+            "What is phosphorus level?",
+            "What is pH level?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Juniper & maple are good trees to use in this cultivating art whose name means \"plant in a tray\" in Japanese",
+          "choices": [
+            "What is bonsai?",
+            "What is ikebana?",
+            "What is topiary?",
+            "What is espalier?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "It's the genus of the plant known as marijuana",
+          "choices": [
+            "What is Cannabis?",
+            "What is Nicotiana?",
+            "What is Humulus?",
+            "What is Erythroxylum?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "So named because some mimic animal sensibilities, this plant shares its name with a popular brunch potent potable",
+          "choices": [
+            "What is a bloody mary?",
+            "What is a bellini?",
+            "What is a mimosa?",
+            "What is a screwdriver?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "ON THE MENU",
+    "clue": "The name of this beef cut next to the rib implies that it melts in your mouth",
+    "choices": [
+      "What is the ribeye?",
+      "What is the sirloin?",
+      "What is tenderloin?",
+      "What is the T-bone?"
+    ],
+    "correctIndex": 2
+  }
+}

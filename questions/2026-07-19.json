@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-19",
+  "categories": [
+    {
+      "name": "\\\"A\" IN MYTHOLOGY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "They could be called the 50 fleece fetchers",
+          "choices": [
+            "Who are the Olympians?",
+            "What is the Argonauts?",
+            "Who are the Spartans?",
+            "Who are the Myrmidons?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Sophocles wrote a play about this daughter of the incestuous union between Oedipus & Jocasta",
+          "choices": [
+            "Who is Electra?",
+            "What is Antigone?",
+            "Who is Ismene?",
+            "Who is Cassandra?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Roman goddess of dawn for whom certain nightlights in the sky are named",
+          "choices": [
+            "Who is Diana?",
+            "What is Aurora?",
+            "Who is Selene?",
+            "Who is Iris?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "The Trojan hero of a masterpiece by Virgil",
+          "choices": [
+            "Who is Hector?",
+            "Who is Achilles?",
+            "Who is Odysseus?",
+            "What is Aeneas?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Among the \"A\" men this Greek goddess of love loved were Aries, Adonis & Anchises",
+          "choices": [
+            "Who is Artemis?",
+            "Who is Hera?",
+            "What is Aphrodite?",
+            "Who is Athena?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "NO MAN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This Babylonian, not messing around with his \"code\": \"if a son strike his father, his hands shall be hewn off\\\"",
+          "choices": [
+            "Who is Nebuchadnezzar?",
+            "Who is Ashurbanipal?",
+            "What is Hammurabi?",
+            "Who is Gilgamesh?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "In this 1944 battle named for the shape of opposing lines, U.S. General Anthony McAuliffe replied \"Nuts!\" to a demand for surrender",
+          "choices": [
+            "What is Battle of the Bulge?",
+            "What is the Battle of the Bulge?",
+            "What is Operation Market Garden?",
+            "What is the Battle of Anzio?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Dear Diary, in 1662 he was not a fan of \"A Midsummer Night's Dream\", \"which I had never seen before, nor shall ever again\\\"",
+          "choices": [
+            "Who is John Evelyn?",
+            "Who is Jonathan Swift?",
+            "What is (Samuel) Pepys?",
+            "Who is Daniel Defoe?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Grover Cleveland holds the record for these in a single session of Congress with 212",
+          "choices": [
+            "What is a pocket veto?",
+            "What is a veto?",
+            "What is a filibuster?",
+            "What is a line-item veto?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Sir Richard Owen, who had been Mr. Biology in Britain, wrote a bitter, negative review of this seminal 1859 book",
+          "choices": [
+            "What is On the Origin of Species?",
+            "What is 'The Descent of Man'?",
+            "What is 'Principles of Geology'?",
+            "What is 'Zoonomia'?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "READING BY THE NUMBERS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In this sci-fi novel Guy Montag is a \"fireman\" with a burning desire to read",
+          "choices": [
+            "What is '1984'?",
+            "What is 'Brave New World'?",
+            "What is Fahrenheit 451?",
+            "What is 'The Martian Chronicles'?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Pooh on you if you don't know that \"Now We Are Six\" is a book of light verse by this author",
+          "choices": [
+            "Who is Lewis Carroll?",
+            "Who is Beatrix Potter?",
+            "What is A.A. Milne?",
+            "Who is J.M. Barrie?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This book of poetry & wisdom has 150 chapters, the most in the Bible",
+          "choices": [
+            "What is Proverbs?",
+            "What is Isaiah?",
+            "What is Revelation?",
+            "What is Psalms?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "\\\"Four Blind Mice\" by this man is an Alex Cross thriller about a series of murders with strange links to the Vietnam War",
+          "choices": [
+            "Who is John Grisham?",
+            "What is (James) Patterson?",
+            "Who is Tom Clancy?",
+            "Who is Lee Child?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "This Englishman's \"Two Treatises of Government\" held the key to the writing of the Declaration of Independence",
+          "choices": [
+            "Who is Thomas Hobbes?",
+            "Who is Jean-Jacques Rousseau?",
+            "What is (John) Locke?",
+            "Who is Edmund Burke?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "BLUE",
+    "clue": "The Fightin' Blue Hens represent the university of this state",
+    "choices": [
+      "What is Rhode Island?",
+      "What is Maryland?",
+      "What is New Hampshire?",
+      "What is Delaware?"
+    ],
+    "correctIndex": 3
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-29",
+  "categories": [
+    {
+      "name": "EARLS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "By the time he died in 1992, his \"Any Car, Any Color\" offer had risen from $29.95 to $119.95",
+          "choices": [
+            "Who is Earl Scheib?",
+            "What is Maaco?",
+            "What is Earl Scheib?",
+            "Who is Earl Muntz?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "We don't know if the Earl Granville gave advice on outhouses as lord president of this council from 1751 to 1763",
+          "choices": [
+            "What is the House of Lords?",
+            "What is Parliament?",
+            "What is the Star Chamber?",
+            "What is Privy Council?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This 1623 edition of Shakespeare is dedicated to the Earls of Pembroke & Montgomery",
+          "choices": [
+            "What is the Second Quarto?",
+            "What is the Third Folio?",
+            "What is First Folio?",
+            "What is the Bad Quarto?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "In 1896, commanding Egypt's army, Earl Kitchener invaded this country to the south",
+          "choices": [
+            "What is Sudan?",
+            "What is Ethiopia?",
+            "What is Libya?",
+            "What is Chad?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "He narrated, no doubt resonantly, the 1972 documentary \"Malcolm X\\\"",
+          "choices": [
+            "Who is James Earl Ray?",
+            "What is James Earl Jones?",
+            "Who is Earl Holliman?",
+            "Who is James Earl Carter?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "BUDDHISM",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "On February 2, 1986, Pope John Paul II met with this exiled Buddhist leader",
+          "choices": [
+            "Who is Thich Nhat Hanh?",
+            "What is the Dalai Lama?",
+            "Who is the Panchen Lama?",
+            "Who is D.T. Suzuki?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "(Jimmy of the Clue Crew stands beneath a tree in Cambodia.) Ficus religiosa is the fitting name of this type of common Asian tree under which Buddha gained enlightenment",
+          "choices": [
+            "What is the banyan tree?",
+            "What is the lotus?",
+            "What is the bodhi (the bo tree accepted)?",
+            "What is the bamboo?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Buddha is a title; this was his real name",
+          "choices": [
+            "Who is Ananda?",
+            "What is (Siddhartha) Gautama?",
+            "Who is Ashoka?",
+            "Who is Mahavira?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "The name of this universal law of cause & effect is Sanskrit for \"deed\\\"",
+          "choices": [
+            "What is dharma?",
+            "What is karma?",
+            "What is nirvana?",
+            "What is samsara?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Not a riddle in the real sense, solving one of these paradoxical problems requires leaps of comprehension",
+          "choices": [
+            "What is koan?",
+            "What is a mantra?",
+            "What is a sutra?",
+            "What is a mandala?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "SOUNDS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Viscount Melville Sound, part of the Northwest Passage, is an arm of this ocean",
+          "choices": [
+            "What is the Pacific Ocean?",
+            "What is the Atlantic Ocean?",
+            "What is Hudson Bay?",
+            "What is the Arctic Ocean?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "As in an old kitchen-based catchphrase meaning things are going well, \"Now we're\" doing this",
+          "choices": [
+            "What is cooking with gas?",
+            "What is firing on all cylinders?",
+            "What is rolling in the dough?",
+            "What is firing up the burners?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "2-word term for a long, sustained siren sound heard after an air raid or other danger is over",
+          "choices": [
+            "What is a warning shot?",
+            "What is a cease fire?",
+            "What is an all clear?",
+            "What is a standby alert?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "A feud ensued in the 1840s when Edwin Forrest made this sibilant sound watching rival actor William Macready",
+          "choices": [
+            "What is hissing?",
+            "What is booing?",
+            "What is heckling?",
+            "What is catcalling?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Some dictionaries give \"thump\" as a synonym of this dull sound that's often on the same page",
+          "choices": [
+            "What is a thwack?",
+            "What is a clunk?",
+            "What is a bump?",
+            "What is thud (thunk accepted)?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "20th CENTURY SPORTS",
+    "clue": "This 1972 newsmaker became the \"King of Amateur Swimming\\\"",
+    "choices": [
+      "Who is Shane Gould?",
+      "What is Mark Spitz?",
+      "Who is Don Schollander?",
+      "Who is Johnny Weissmuller?"
+    ],
+    "correctIndex": 1
+  }
+}

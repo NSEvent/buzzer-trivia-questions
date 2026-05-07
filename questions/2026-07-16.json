@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-16",
+  "categories": [
+    {
+      "name": "SCIENCE LAB",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "These oral receptors are divided into 4 types: acid, salty, bitter & sweet",
+          "choices": [
+            "What are olfactory receptors?",
+            "What is taste buds?",
+            "What are papillae?",
+            "What are nerve endings?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "In 1969 Marcian Hoff Jr. condensed all of a computer's arithmetic functions to this one tiny chip",
+          "choices": [
+            "What is a transistor?",
+            "What is a microprocessor chip?",
+            "What is an integrated circuit?",
+            "What is a logic gate?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "(Kelly of the Clue Crew juices a lemon in the chemistry lab.) This acid\u2014C6H8O7\u2014is found in the juice I'm extracting",
+          "choices": [
+            "What is citric acid?",
+            "What is ascorbic acid?",
+            "What is malic acid?",
+            "What is tartaric acid?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "A leading lab technique, Western blot helps us identify specific sequences in these chains of amino acids",
+          "choices": [
+            "What are nucleotides?",
+            "What is proteins?",
+            "What are lipids?",
+            "What are polysaccharides?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "William Gilbert coined the word electricity, which comes from the Latin word for this fossil resin",
+          "choices": [
+            "What is amber?",
+            "What is jet?",
+            "What is copal?",
+            "What is obsidian?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "PARTY TIME",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Uninvited guests who barge in on a party are said to do this, whether or not they wreck their cars",
+          "choices": [
+            "What is crash it?",
+            "What is bomb it?",
+            "What is raid it?",
+            "What is storm it?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "The couple being feted at an anniversary party often stands in one of these lines to greet guests",
+          "choices": [
+            "What is a buffet line?",
+            "What is a chorus line?",
+            "What is a receiving line?",
+            "What is a welcome queue?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This word for a festive dance party may be an alteration of shindy, a synonym for an uproar",
+          "choices": [
+            "What is shindig?",
+            "What is a hootenanny?",
+            "What is a hoedown?",
+            "What is a hullabaloo?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "French for \"good journey\", or a type of party that's often held aboard ship",
+          "choices": [
+            "What is a soir\u00e9e?",
+            "What is a bon voyage?",
+            "What is a f\u00eate?",
+            "What is a d\u00e9jeuner?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Schussboomers know the name of this after-schussing party contains the French word for \"after\\\"",
+          "choices": [
+            "What is apr\u00e8s-race?",
+            "What is Apres-ski?",
+            "What is apr\u00e8s-match?",
+            "What is apr\u00e8s-piste?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "RAIN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A 1979 tropical storm set the lower 48 record for rainfall, dumping 42 inches in 24 hours near Galveston Bay in this state",
+          "choices": [
+            "What is Louisiana?",
+            "What is Texas?",
+            "What is Florida?",
+            "What is Mississippi?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "For acid rain, the EPA says this measure is about 4.3",
+          "choices": [
+            "What is the alkalinity level?",
+            "What is the sulfate index?",
+            "What is the conductivity reading?",
+            "What is pH?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "At a warm one you get regular rain; at a cold one, thunderstorms",
+          "choices": [
+            "What is a pressure system?",
+            "What is a squall line?",
+            "What is an air mass?",
+            "What is a front?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "For big raindrops, this fatal-sounding top speed reached at equilibrium between gravity & air resistance can approach 25 mph",
+          "choices": [
+            "What is escape velocity?",
+            "What is maximum velocity?",
+            "What is terminal velocity?",
+            "What is free fall speed?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Orographic precipitation is caused by moist air rising over one or more of these, oros in Greek",
+          "choices": [
+            "What are hills?",
+            "What is mountains?",
+            "What are plateaus?",
+            "What are ridges?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "STUCK IN THE MIDDLE WORD WITH YOU",
+    "clue": "To intend something, or to be malicious",
+    "choices": [
+      "What is spite?",
+      "What is mean?",
+      "What is nasty?",
+      "What is plan?"
+    ],
+    "correctIndex": 1
+  }
+}

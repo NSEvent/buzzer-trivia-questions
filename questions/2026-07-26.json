@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-26",
+  "categories": [
+    {
+      "name": "\\'60s BRITISH ROCK",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1966, they followed \"Bus Stop\" with \"Stop, Stop, Stop\\\"",
+          "choices": [
+            "What is The Hollies?",
+            "What is The Kinks?",
+            "What is The Animals?",
+            "What is The Searchers?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "When he cut his first song with this group, Peter Noone was only 16",
+          "choices": [
+            "What is The Dave Clark Five?",
+            "What is The Yardbirds?",
+            "What is Freddie and the Dreamers?",
+            "What is Herman's Hermits?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "A \"British Bob Dylan\", he switched to \"flower power\", sending an \"Epistle To Dippy\" in 1967",
+          "choices": [
+            "What is Donovan?",
+            "Who is Cat Stevens?",
+            "Who is Nick Drake?",
+            "Who is Van Morrison?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Songs these 2 wrote for groups other than their own included \"Bad To Me\" for B. J. Kramer & the Dakotas",
+          "choices": [
+            "Who are Page & Plant?",
+            "What is McCartney & Lennon?",
+            "Who are Jagger & Richards?",
+            "Who are Davies & Davies?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "DC5's \"Greatest Hits\" album says they were only group to play on this influential U.S. TV show over 10 times",
+          "choices": [
+            "What is The Tonight Show?",
+            "What is The Ed Sullivan Show?",
+            "What is American Bandstand?",
+            "What is The Ed Sullivan Show?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "ADDRESSES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "At night you'll have no trouble spotting this stadium at 1060 W. Addison St., Chicago\u2014it's now lighted",
+          "choices": [
+            "What is Comiskey Park?",
+            "What is US Cellular Field?",
+            "What is Wrigley Field?",
+            "What is Guaranteed Rate Field?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "The Blues Brothers registered their car to this ballpark address, 1060 West Addison, Chicago",
+          "choices": [
+            "What is Comiskey Park?",
+            "What is Soldier Field?",
+            "What is US Cellular Field?",
+            "What is Wrigley Field?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Life is very different for this kids' book bear at 32 Windsor Gardens than it was in Darkest Peru",
+          "choices": [
+            "Who is Winnie-the-Pooh?",
+            "What is Paddington?",
+            "Who is Babar?",
+            "Who is Rupert Bear?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "If you want to see this 1949 architectural landmark, or see through it, head for 199 Elm Street in New Canaan, Connecticut",
+          "choices": [
+            "What is the Farnsworth House?",
+            "What is Fallingwater?",
+            "What is The Glass House?",
+            "What is the Seagram Building?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "This series of 10 books by Armistead Maupin chronicles the lives of San Franciscans who resided at 28 Barbary Lane",
+          "choices": [
+            "What is Armistead Maupin's San Francisco?",
+            "What is Tales of the City?",
+            "What is The Castro Chronicles?",
+            "What is Further Tales of the City?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "SOCIOLOGY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It's a society in which the father is the tribal head & descent is traced through the male line",
+          "choices": [
+            "What is a matriarchy?",
+            "What is a theocracy?",
+            "What is an oligarchy?",
+            "What is Patriarchy?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Charles Barkley declared that he was not one of these people to imitate; Tim Tebow thinks an athlete should be one",
+          "choices": [
+            "What is a coach?",
+            "What is a role model?",
+            "What is a mentor?",
+            "What is a teammate?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "A nation expanding its power over other lands is this -ism; selling Coca-cola abroad is \"cultural\" this -ism",
+          "choices": [
+            "What is imperialism?",
+            "What is colonialism?",
+            "What is nationalism?",
+            "What is expansionism?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Someone who hates humanity; Moliere's Alceste turned into a title one",
+          "choices": [
+            "What is a misogynist?",
+            "What is a nihilist?",
+            "What is a misanthrope?",
+            "What is a sociopath?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "In his 1899 work \"The Theory of the Leisure Class\", Thorstein Veblen coined the term \"conspicuous\" this",
+          "choices": [
+            "What is production?",
+            "What is consumption?",
+            "What is competition?",
+            "What is accumulation?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THE $1 BILL",
+    "clue": "(Kelly of the Clue Crew shows currency on the monitor.) At the end of the 19th century, the U.S. issued a $1 bill featuring her, the only woman ever to appear on a U.S. currency note",
+    "choices": [
+      "Who is Dolley Madison?",
+      "What is Martha Washington?",
+      "Who is Susan B. Anthony?",
+      "Who is Sacagawea?"
+    ],
+    "correctIndex": 1
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-22",
+  "categories": [
+    {
+      "name": "ATHLETES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "At age 11 in 1972, he scored 378 goals for the Brantford (Ontario) Nadrofsky Steelers",
+          "choices": [
+            "Who is Bobby Orr?",
+            "Who is Mario Lemieux?",
+            "What is Wayne Gretzky?",
+            "Who is Guy Lafleur?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "A 7-time batting champion in Japan, he took the American League by storm with Seattle in 2001",
+          "choices": [
+            "Who is Hideki Matsui?",
+            "Who is Hideo Nomo?",
+            "Who is Kazuhiro Sasaki?",
+            "What is Ichiro (Suzuki)?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This Packers quarterback was the NFL's MVP in 1995, '96 & '97",
+          "choices": [
+            "Who is Jim McMahon?",
+            "Who is Randall Cunningham?",
+            "Who is Steve Young?",
+            "What is Brett Favre?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Red Sox fans will never forget his bloody sock in a 2004 postseason game",
+          "choices": [
+            "What is Curt Schilling?",
+            "Who is Pedro Martinez?",
+            "Who is Keith Foulke?",
+            "Who is Tim Wakefield?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "This Yankee SS: \"If you're going to play... you're out to win. Baseball, board games, playing 'Jeopardy!', I hate to lose\\\"",
+          "choices": [
+            "What is Derek Jeter?",
+            "Who is Alex Rodriguez?",
+            "Who is Cal Ripken Jr.?",
+            "Who is Nomar Garciaparra?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "GAS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Gasohol is usually a mixture of gasoline & this",
+          "choices": [
+            "What is ethanol?",
+            "What is alcohol?",
+            "What is methanol?",
+            "What is diesel?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "(Sofia of the Clue Crew reports from the Goodyear Blimp's home base.) Having learned from the Hindenburg, modern non-rigid airships use helium in place of this explosive gas",
+          "choices": [
+            "What is hydrogen?",
+            "What is methane?",
+            "What is propane?",
+            "What is natural gas?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Used in WWI & against Iraq's Kurds, it's named for its smell",
+          "choices": [
+            "What is chlorine gas?",
+            "What is phosgene?",
+            "What is nerve gas?",
+            "What is mustard gas?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "The atmosphere of Venus, the heaviest of any planet, is mainly this common gas 1.5 times heavier than air",
+          "choices": [
+            "What is nitrogen?",
+            "What is sulfur dioxide?",
+            "What is carbon dioxide?",
+            "What is methane?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "In 1817, this eastern port city was 1st in U.S. to use gas for lighting its streets",
+          "choices": [
+            "What is Philadelphia, Pennsylvania?",
+            "What is Baltimore, Maryland?",
+            "What is Boston, Massachusetts?",
+            "What is New York City?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "THEIR FIRST FEATURE FILMS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Her first album was \"All Hail the Queen\"; her first film was Spike Lee's \"Jungle Fever\\\"",
+          "choices": [
+            "Who is Salt-N-Pepa?",
+            "What is Queen Latifah?",
+            "Who is MC Lyte?",
+            "Who is Mary J. Blige?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Falling off a chair at her audition helped her win the role of the klutzy princess in \"The Princess Diaries\\\"",
+          "choices": [
+            "Who is Lindsay Lohan?",
+            "Who is Mandy Moore?",
+            "What is (Anne) Hathaway?",
+            "Who is Amanda Bynes?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Julie Harris was in her mid-20s when she debuted as 12-year-old Frankie in this film based on a Carson McCullers novel",
+          "choices": [
+            "What is 'The Heart Is a Lonely Hunter'?",
+            "What is Member of the Wedding?",
+            "What is 'To Kill a Mockingbird'?",
+            "What is 'A Tree Grows in Brooklyn'?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This \"American Beauty\" star stole into films as the guy who robs Meryl Streep's therapy group in \"Heartburn\\\"",
+          "choices": [
+            "Who is Matt Damon?",
+            "What is Kevin Spacey?",
+            "Who is Edward Norton?",
+            "Who is Jeff Bridges?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Tommy Lee Jones, who played football at Harvard, debuted as a Harvard pal of Ryan O'Neal's in this film",
+          "choices": [
+            "What is 'The Paper Chase'?",
+            "What is 'Harvard Man'?",
+            "What is Love Story?",
+            "What is 'Goodbye, Columbus'?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "GLOBIN\\'",
+    "clue": "The Juan de Fuca Strait separates parts of the U.S. from this country",
+    "choices": [
+      "What is Canada?",
+      "What is Mexico?",
+      "What is Russia?",
+      "What is Great Britain?"
+    ],
+    "correctIndex": 0
+  }
+}

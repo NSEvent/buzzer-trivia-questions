@@ -1,0 +1,207 @@
+{
+  "date": "2026-06-13",
+  "categories": [
+    {
+      "name": "FAMOUS MEN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The middle one of 5 brothers, he was on the winning side in the gunfight at the O.K. Corral",
+          "choices": [
+            "Who is Virgil Earp?",
+            "Who is Doc Holliday?",
+            "What is Wyatt Earp?",
+            "Who is Jesse James?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "In 1843, 2 sisters, Sarah & Adelaide Yates, married these twins made famous by P.T. Barnum",
+          "choices": [
+            "Who are the Hilton Sisters?",
+            "Who are the Tocci Brothers?",
+            "Who are Romulus and Remus?",
+            "What is the Siamese twins (Chang & Eng)?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This fashion photographer who died in 2004 defined the \"Cosmo Girl\", shooting covers for 3 decades",
+          "choices": [
+            "Who is Richard Avedon?",
+            "Who is Helmut Newton?",
+            "Who is Irving Penn?",
+            "What is Francesco Scavullo?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "This member of the Marsalis family played sax on \"The Dream of the Blue Turtles\", Sting's first solo album",
+          "choices": [
+            "Who is Wynton?",
+            "Who is Delfeayo?",
+            "What is Branford?",
+            "Who is Ellis?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "In \"Green Shadow, White Whale\", this sci-fi author recalls writing the \"Moby Dick\" screenplay while living in Ireland",
+          "choices": [
+            "Who is Isaac Asimov?",
+            "Who is Arthur C. Clarke?",
+            "What is (Ray) Bradbury?",
+            "Who is Kurt Vonnegut?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "INTERNATIONAL SPORTS STARS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This Nigerian-born athlete who rocketed to fame playing center for the Rockets became a U.S. citizen in 1993",
+          "choices": [
+            "Who is Dikembe Mutombo?",
+            "What is Hakeem Olajuwon?",
+            "Who is Manute Bol?",
+            "Who is Patrick Ewing?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Matt Burke played fullback for the Qantas Wallabies in the Australian League of this sport similar to football",
+          "choices": [
+            "What is rugby?",
+            "What is Australian rules football?",
+            "What is rugby league?",
+            "What is Gaelic football?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "This \"Shark\" from Australia is the all-time leading money winner on the PGA Tour",
+          "choices": [
+            "Who is Adam Scott?",
+            "Who is Jason Day?",
+            "Who is David Graham?",
+            "What is Greg Norman?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Jan Ulrich, a German standout in this sport, has been nicknamed \"Der Tourminator\\\"",
+          "choices": [
+            "What is marathon running?",
+            "What is triathlon?",
+            "What is cross-country skiing?",
+            "What is cycling?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "In 1998 this beautiful German figure skater played the mistress of a Russian mobster in the movie \"Ronin\\\"",
+          "choices": [
+            "Who is Surya Bonaly?",
+            "Who is Irina Slutskaya?",
+            "Who is Oksana Baiul?",
+            "What is Katarina Witt?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "BUSINESS PAIRINGS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Always in fashion: Dolce & ____",
+          "choices": [
+            "What is Gabbana?",
+            "What is Versace?",
+            "What is Valentino?",
+            "What is Ferragamo?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Sons of guns who partnered up in 1852: Smith & ____",
+          "choices": [
+            "What is Cole?",
+            "What is Warren?",
+            "What is Remington?",
+            "What is Wesson?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "The last name of aviator Glenn, it comes afer Lockheed & before Marietta",
+          "choices": [
+            "What is Curtis?",
+            "What is Wright?",
+            "What is Davis?",
+            "What is Martin?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "You've probably used some of their products: Crest, Gleem, Scope, Ivory",
+          "choices": [
+            "What is Procter & Gamble?",
+            "Who is Colgate-Palmolive?",
+            "Who is Unilever?",
+            "Who is Johnson & Johnson?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Peter Bang's partner in hi-fi's",
+          "choices": [
+            "Who is Henrik Larsen?",
+            "Who is Erik Christiansen?",
+            "Who is Lars Nielsen?",
+            "What is Svend Olufsen?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THE DATING GAME",
+    "clue": "Scientists map human genome; Elian Gonzalez returned to Cuba",
+    "choices": [
+      "What is 1999?",
+      "What is 2000?",
+      "What is 2001?",
+      "What is 2002?"
+    ],
+    "correctIndex": 1
+  },
+  "bonusRound": {
+    "category": "BROADWAY SONGS",
+    "clue": "Anthony Newley sang, \"Why can't I fall in love like any other man and maybe then I'll know\" this",
+    "choices": [
+      "What is \"Gonna Build a Mountain\"?",
+      "What is \"Being Alive\"?",
+      "What is \\\"What Kind Of Fool I Am\\\"?",
+      "What is \"Once in a Lifetime\"?"
+    ],
+    "correctIndex": 2
+  }
+}

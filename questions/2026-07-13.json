@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-13",
+  "categories": [
+    {
+      "name": "THE HIGHEST-SCORING SCRABBLE WORD",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Copper, zinc, brass",
+          "choices": [
+            "What is zinc?",
+            "What is copper?",
+            "What is bronze?",
+            "What is iron?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Jaguar, waves or kilts",
+          "choices": [
+            "What is cheetah?",
+            "What is jaguar?",
+            "What is tartan?",
+            "What is cobra?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Butter, milk or cheese",
+          "choices": [
+            "What is cheese?",
+            "What is butter?",
+            "What is cream?",
+            "What is yogurt?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Cozy, wax or quilt",
+          "choices": [
+            "What is wax?",
+            "What is warm?",
+            "What is cozy?",
+            "What is quilt?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Poof, quest or wax",
+          "choices": [
+            "What is quest?",
+            "What is poof?",
+            "What is wax?",
+            "What is quiz?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "SPORTS ON FILM",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"Blades of Glory\" with Will Ferrell",
+          "choices": [
+            "What is hockey?",
+            "What is skiing?",
+            "What is ice skating?",
+            "What is curling?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "\\\"Breaking Away\\\"",
+          "choices": [
+            "What is motorcycle racing?",
+            "What is marathon running?",
+            "What is bicycle racing?",
+            "What is horse racing?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "\\\"Foxcatcher\\\"",
+          "choices": [
+            "What is wrestling?",
+            "What is boxing?",
+            "What is judo?",
+            "What is weightlifting?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "\\\"Ladybugs\\\"",
+          "choices": [
+            "What is football?",
+            "What is basketball?",
+            "What is soccer?",
+            "What is field hockey?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"The Legend of Bagger Vance\\\"",
+          "choices": [
+            "What is tennis?",
+            "What is golf?",
+            "What is polo?",
+            "What is croquet?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "PLACES IN THE NEWS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In May 2013 hearts rejoiced when 3 women missing for nearly a decade escaped to freedom in this city",
+          "choices": [
+            "What is Detroit?",
+            "What is Cincinnati?",
+            "What is Pittsburgh?",
+            "What is Cleveland?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "In August 2013 ex-president Pervez Musharraf of this country was charged with the murder of Benazir Bhutto",
+          "choices": [
+            "What is India?",
+            "What is Afghanistan?",
+            "What is Bangladesh?",
+            "What is Pakistan?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This leaker of NSA secrets had quite a layover, 5 weeks, in Moscow's Sheremetyevo Airport",
+          "choices": [
+            "What is Snowden?",
+            "Who is Assange?",
+            "Who is Manning?",
+            "Who is Ellsberg?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "A coup against this country's president Hugo Chavez fizzled in 2002",
+          "choices": [
+            "What is Bolivia?",
+            "What is Cuba?",
+            "What is Ecuador?",
+            "What is Venezuela?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "In 2013 this Boston-area town was in the news as a marathon bombing suspect was captured there",
+          "choices": [
+            "What is Newton?",
+            "What is Watertown?",
+            "What is Brookline?",
+            "What is Somerville?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "INTERNAL RHYME TIME",
+    "clue": "It's used of tasks not finished or laces not tied",
+    "choices": [
+      "What is undone?",
+      "What is incomplete?",
+      "What is untied?",
+      "What is unfinished?"
+    ],
+    "correctIndex": 0
+  }
+}

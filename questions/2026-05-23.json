@@ -1,0 +1,207 @@
+{
+  "date": "2026-05-23",
+  "categories": [
+    {
+      "name": "SURROUNDED BY WATER",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Alcatraz Island",
+          "choices": [
+            "What is Lake Tahoe?",
+            "What is San Francisco Bay?",
+            "What is Puget Sound?",
+            "What is San Diego Bay?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "The Gulf of Batabano separates the Isle of Pines from the rest of this island country",
+          "choices": [
+            "What is Jamaica?",
+            "What is Cuba?",
+            "What is Hispaniola?",
+            "What is Puerto Rico?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "The first lighthouse on California's coast was on this island in San Francisco Bay later more famous for something else",
+          "choices": [
+            "What is Angel Island?",
+            "What is Treasure Island?",
+            "What is Yerba Buena Island?",
+            "What is Alcatraz?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "More than 30 islands make up this small Arab nation surrounded by the waters of the Persian Gulf",
+          "choices": [
+            "What is Qatar?",
+            "What is Kuwait?",
+            "What is Bahrain?",
+            "What is the United Arab Emirates?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Chechen Island\u2014this salt lake",
+          "choices": [
+            "What is the Aral Sea?",
+            "What is the Caspian?",
+            "What is Lake Baikal?",
+            "What is the Black Sea?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "SOUTHERN COOKING",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "An oyster dish was named for this wealthy family, perhaps because of the \"green stuff\" that tops it",
+          "choices": [
+            "What is Oysters Rockefeller?",
+            "What is Oysters Vanderbilt?",
+            "What is Oysters Carnegie?",
+            "What is Oysters Astor?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Oysters Rockefeller originated in this southern city, not New York",
+          "choices": [
+            "What is Charleston?",
+            "What is Savannah?",
+            "What is Mobile?",
+            "What is New Orleans?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "French meaning \"lost bread\", Creole \"pain perdu\" is known elsewhere as this",
+          "choices": [
+            "What is a crepe?",
+            "What is brioche?",
+            "What is a beignet?",
+            "What is French toast?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Another name for okra, or a thick soup using it",
+          "choices": [
+            "What is grits?",
+            "What is gumbo?",
+            "What is jambalaya?",
+            "What is \u00e9touff\u00e9e?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Some experts say red-eye gravy is made with water, others say to use this \"breakfast\" beverage",
+          "choices": [
+            "What is coffee?",
+            "What is orange juice?",
+            "What is buttermilk?",
+            "What is sweet tea?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "ROYAL WOMEN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 2019 she shared her first Instagram photo, a letter from Charles Babbage to her g-g-gf Prince Albert",
+          "choices": [
+            "What is Princess Anne?",
+            "What is Princess Beatrice?",
+            "What is Princess Eugenie?",
+            "What is Queen Elizabeth II?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "This archduchess of Austria was the eldest daughter of Holy Roman Emperor Charles VI",
+          "choices": [
+            "What is Catherine the Great?",
+            "What is Maria Theresa?",
+            "What is Marie Antoinette?",
+            "What is Empress Josephine?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "This country's Jagiellonian University was largely built by Queen Jadwiga",
+          "choices": [
+            "What is Hungary?",
+            "What is Poland?",
+            "What is Lithuania?",
+            "What is Czech Republic?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "After dating an elephant trainer & traveling with his circus, this Monaco royal married an acrobat",
+          "choices": [
+            "What is Princess Stephanie?",
+            "What is Princess Caroline?",
+            "What is Princess Grace?",
+            "What is Princess Charlotte?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "While King Felipe of Spain's daughter Leonor is a princess, his younger daughter Sofia has this title",
+          "choices": [
+            "What is duchess?",
+            "What is countess?",
+            "What is infanta?",
+            "What is lady?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "MIRROR WORDS",
+    "clue": "Your best buddies & an open hand smack to the face",
+    "choices": [
+      "What is mates & steam?",
+      "What is chums & punch?",
+      "What is pals & slap?",
+      "What is buds & swat?"
+    ],
+    "correctIndex": 2
+  },
+  "bonusRound": {
+    "category": "\\\"SH\\\"",
+    "clue": "It's a synonym for bashful",
+    "choices": [
+      "What is sheepish?",
+      "What is shamefaced?",
+      "What is shy?",
+      "What is shrinking?"
+    ],
+    "correctIndex": 2
+  }
+}

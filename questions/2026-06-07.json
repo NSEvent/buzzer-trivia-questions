@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-07",
+  "categories": [
+    {
+      "name": "SEPTEMBER",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "On Sept. 8, 1858, in a speech in Clinton, Ill., he said his \"You can fool all of the people...\" line",
+          "choices": [
+            "Who is Stephen Douglas?",
+            "What is Abraham Lincoln?",
+            "Who is Ulysses S. Grant?",
+            "Who is Andrew Jackson?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "September is the heritage month for this style of music that rose to new heights in the Black church",
+          "choices": [
+            "What is jazz?",
+            "What is gospel music?",
+            "What is blues?",
+            "What is spirituals?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Only state admitted to Union in Sept., its largest city was founded by Spanish settlers in Sept. 1781",
+          "choices": [
+            "What is Texas?",
+            "What is Florida?",
+            "What is Arizona?",
+            "What is California?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "In September 1986 Congress voted to make this the USA's national flower",
+          "choices": [
+            "What is the sunflower?",
+            "What is the daisy?",
+            "What is rose?",
+            "What is the lily?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "On Sept. 12, 1922 the Protestant Episcopal house of bishops voted to remove this word from the marriage rite",
+          "choices": [
+            "What is obey?",
+            "What is honor?",
+            "What is cherish?",
+            "What is serve?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "KNOW YOUR EARTH",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The book \"The Earth\" calls this the most potent geomorphological agent there is, causing the most damage",
+          "choices": [
+            "What is man?",
+            "What is water?",
+            "What is wind?",
+            "What is glaciers?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Giovanni Arduino classified rocks oldest to newest as primary, secondary & this, a term still used",
+          "choices": [
+            "What is quaternary?",
+            "What is igneous?",
+            "What is tertiary?",
+            "What is sedimentary?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Essential minerals can give rocks their names: ferromagnesian minerals contain this &/or magnesium",
+          "choices": [
+            "What is calcium?",
+            "What is silicon?",
+            "What is aluminum?",
+            "What is iron?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "(Cheryl of the Clue Crew shows a ribboned timeline on the monitor.) Named for the tiny time period that followed it, this interval covers 80% of geological time",
+          "choices": [
+            "What is the Paleozoic?",
+            "What is the Mesozoic?",
+            "What is Precambrian?",
+            "What is the Cambrian?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Filling this reservoir behind Hoover Dam caused earthquakes in the area until the land settled",
+          "choices": [
+            "What is Lake Powell?",
+            "What is Lake Mead?",
+            "What is Lake Tahoe?",
+            "What is the Colorado River?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "\\\"TRUE\" OR \"FALSE\\\"",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Rhyming phrase that describes a loyal person, not someone who's holding his breath",
+          "choices": [
+            "What is True blue?",
+            "What is tried and true?",
+            "What is black and blue?",
+            "What is through and through?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "The sender of gifts in \"The Twelve Days of Christmas\\\"",
+          "choices": [
+            "What is my best friend?",
+            "What is my one and only?",
+            "What is my secret admirer?",
+            "What is My true love?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "When you get older, a prosthodontist might fit you with a set of these",
+          "choices": [
+            "What is false nails?",
+            "What is false eyelashes?",
+            "What is false starts?",
+            "What is false teeth?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "It's a call to the fire department when there truly is no fire",
+          "choices": [
+            "What is a false positive?",
+            "What is False alarm?",
+            "What is a prank call?",
+            "What is a false flag?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "It can refer to a person whose identity won't fade or a kind of dye that won't fade",
+          "choices": [
+            "What is tried and true?",
+            "What is true blue?",
+            "What is black and blue?",
+            "What is true grit?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "ANAGRAM PAIRS",
+    "clue": "A violent disturbance by a group of people & a band such as the Police",
+    "choices": [
+      "What is tune & unit?",
+      "What is lore & role?",
+      "What is pint & nip?",
+      "What is riot & trio?"
+    ],
+    "correctIndex": 3
+  }
+}

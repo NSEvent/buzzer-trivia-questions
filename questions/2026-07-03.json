@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-03",
+  "categories": [
+    {
+      "name": "WHAT THE HECK IS IT?",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "On a snail, on ommatophore is a stalk with this at the end",
+          "choices": [
+            "What is an eye?",
+            "What is an antenna?",
+            "What is a shell?",
+            "What is a tentacle?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "If you set some Chinese punk on fire, it's because Chinese punk is this, like sandalwood",
+          "choices": [
+            "What is incense?",
+            "What is a spice?",
+            "What is a dye?",
+            "What is a medicine?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "It's your medium of travel if you're in a hoy",
+          "choices": [
+            "What is air?",
+            "What is land?",
+            "What is water?",
+            "What is ice?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Mimic thrush",
+          "choices": [
+            "What is a reptile?",
+            "What is an insect?",
+            "What is a mammal?",
+            "What is bird?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "A celesta is one of these, struck by hammers",
+          "choices": [
+            "What is a woodwind instrument?",
+            "What is a musical instrument (an instrument accepted)?",
+            "What is a string instrument?",
+            "What is a brass instrument?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "THE FAMILY JULES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Architect Jules Hardouin-Mansart designed the Church of the Dome in the Invalides in this city",
+          "choices": [
+            "What is Rome?",
+            "What is Versailles?",
+            "What is Vienna?",
+            "What is Paris?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "His novels have inspired many movies, beginning with Georges Melies' \"A Trip to the Moon\\\"",
+          "choices": [
+            "What is Jules Verne?",
+            "Who is H.G. Wells?",
+            "Who is Alexandre Dumas?",
+            "Who is Victor Hugo?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Jules Favre defended Felice Orsini, who tried to assassinate this emperor also known as Louis Napoleon",
+          "choices": [
+            "Who is Napoleon I?",
+            "What is Napoleon III?",
+            "Who is King Louis-Philippe?",
+            "Who is Emperor Franz Joseph?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Jules Massenet's most famous opera is \"Manon\", based on this Abbe Prevost novel",
+          "choices": [
+            "What is Carmen?",
+            "What is Manon Lescaut?",
+            "What is La Boh\u00e8me?",
+            "What is Madama Butterfly?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "This Village Voice cartoonist could have his black-leotarded dancer do a dance to Jeopardy!",
+          "choices": [
+            "Who is Charles Schulz?",
+            "Who is Gary Trudeau?",
+            "Who is Art Spiegelman?",
+            "What is Jules Feiffer?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "LATIN AMERICAN HISTORY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1542 Francisco de Orellana began traveling down this river from Ecuador, reaching its mouth on the Atlantic",
+          "choices": [
+            "What is the Orinoco?",
+            "What is the Paran\u00e1?",
+            "What is the Rio Negro?",
+            "What is the Amazon?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Ebenezer Bassett, the 1st Black U.S. diplomat, was named consul general to this French-speaking nation in 1869",
+          "choices": [
+            "What is Martinique?",
+            "What is Guadeloupe?",
+            "What is French Guiana?",
+            "What is Haiti?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "The Central American nation now known as this was a British colony from 1862 to 1981",
+          "choices": [
+            "What is Belize?",
+            "What is Honduras?",
+            "What is Guatemala?",
+            "What is Guyana?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "In 1824 this Brazilian emperor granted his country a constitution",
+          "choices": [
+            "What is Dom Pedro?",
+            "Who is Dom Jo\u00e3o?",
+            "Who is Dom Miguel?",
+            "Who is Dom Afonso?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "In 1541 Pedro de Valdivia, a soldier of this Inca conqueror, founded the city of Santiago in Chile",
+          "choices": [
+            "What is Pizarro?",
+            "Who is Cort\u00e9s?",
+            "Who is Balboa?",
+            "Who is De Soto?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "FAMOUS PROFESSORS",
+    "clue": "This former U.N. Secretary General taught international law at Cairo University from 1949 to 1977",
+    "choices": [
+      "Who is Kofi Annan?",
+      "Who is Kurt Waldheim?",
+      "What is Boutros Boutros-Ghali?",
+      "Who is U Thant?"
+    ],
+    "correctIndex": 2
+  }
+}

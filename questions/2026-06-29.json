@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-29",
+  "categories": [
+    {
+      "name": "FLY ME TO THE MOON",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "(Scarlett Johansson presents the clue.) In \"Airplane II\", Moon base commander Buck Murdock was played by this actor; at one point, he sees the Starship Enterprise on a periscope",
+          "choices": [
+            "Who is John Travolta?",
+            "Who is Lloyd Bridges?",
+            "Who is Charlton Heston?",
+            "What is Shatner?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "(Scarlett Johansson presents the clue.) In \"A Grand Day Out\", this man-&-dog stop-motion duo get a hankering for some cheese, so they decide to build a rocket & head to the Moon for a tasting",
+          "choices": [
+            "What is Wallace & Gromit?",
+            "Who are Tom & Jerry?",
+            "Who are Shaun & Timmy?",
+            "Who are Postman Pat & Jess?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "He may have been second to walk on the moon but he's the guy MTV modeled the \"Moon Man\" VMA trophy after",
+          "choices": [
+            "What is Buzz Aldrin?",
+            "Who is Neil Armstrong?",
+            "Who is Michael Collins?",
+            "Who is Pete Conrad?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Apollo missions 7-10 were not designed for moon landings; this mission was, but did not",
+          "choices": [
+            "What is Apollo 11?",
+            "What is Apollo 12?",
+            "What is Apollo 13?",
+            "What is Apollo 14?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "The USA's first man in space, he cracked a 6-iron golf shot \"miles & miles\" on the moon 10 years later",
+          "choices": [
+            "Who is John Glenn?",
+            "Who is Gus Grissom?",
+            "What is Alan Shepard?",
+            "Who is Scott Carpenter?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "TENNIS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The court is 78 by 27 feet for singles & 78 by 36 feet for this type of play",
+          "choices": [
+            "What is mixed?",
+            "What is exhibition?",
+            "What is doubles?",
+            "What is team?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "(Hi, I'm Martina Navratilova and the answer is) In 1973 Billie Jean King & Bobby Riggs played the first \"Battle of the Sexes\"; I played this \"Bad Boy\" in 1992's battle",
+          "choices": [
+            "What is Jimmy Connors?",
+            "Who is Andre Agassi?",
+            "Who is John McEnroe?",
+            "Who is Pete Sampras?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "This coveted prize in team tennis was originally known as the International Lawn Tennis Challenge Trophy",
+          "choices": [
+            "What is the Fed Cup?",
+            "What is Davis Cup?",
+            "What is the Hopman Cup?",
+            "What is the Wightman Cup?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Though he sits in a high chair, this official at matches is expected to act mature",
+          "choices": [
+            "Who is the line judge?",
+            "What is the umpire?",
+            "Who is the ball boy?",
+            "Who is the referee?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "In April 2007 Switzerland issued its very first stamp of a living person, a 1-franc stamp depicting this tennis player",
+          "choices": [
+            "Who is Stan Wawrinka?",
+            "Who is Martina Hingis?",
+            "What is Roger Federer?",
+            "Who is Marc Rosset?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "DELICACIES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This delicacy is created by overfeeding geese & depriving them of excercise",
+          "choices": [
+            "What is black truffle?",
+            "What is p\u00e2t\u00e9 de foie gras?",
+            "What is beluga caviar?",
+            "What is Wagyu beef?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "I prefer that my smoked salmon be served on these diagonally-cut pieces of bread",
+          "choices": [
+            "What is toast points?",
+            "What are bagel chips?",
+            "What are water crackers?",
+            "What are blini?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Found throughout the eastern U.S., the Virginia species of this marsupial is a southern delicacy",
+          "choices": [
+            "What is a raccoon?",
+            "What is an opossum?",
+            "What is a nutria?",
+            "What is an armadillo?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This lobster dish may get its name from the Revolutionary month in which Napoleon first ate it",
+          "choices": [
+            "What is lobster bisque?",
+            "What is lobster Newberg?",
+            "What is lobster am\u00e9ricaine?",
+            "What is lobster thermidor?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Tasty, costly steaks result from this process of hanging meat in the open air for up to 14 days at 50-75% humidity",
+          "choices": [
+            "What is dry aging?",
+            "What is wet aging?",
+            "What is brining?",
+            "What is marinating?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "\\\"LAND\" HO!",
+    "clue": "It's New Mexico's nickname",
+    "choices": [
+      "What is Land of the Rising Sun?",
+      "What is Land of Lincoln?",
+      "What is Land of Enchantment?",
+      "What is Land of 10,000 Lakes?"
+    ],
+    "correctIndex": 2
+  }
+}

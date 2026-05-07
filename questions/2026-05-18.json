@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-18",
+  "categories": [
+    {
+      "name": "\\\"EN\" THE BEGINNING",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Google, Looksmart & Ask Jeeves are search ones",
+          "choices": [
+            "What are entries?",
+            "What is engines?",
+            "What are enhancers?",
+            "What are endpoints?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "These peptide hormones in the brain reduce the sensation of pain",
+          "choices": [
+            "What are enkephalins?",
+            "What are endocannabinoids?",
+            "What are endomorphins?",
+            "What is endorphins?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This Baja California port city is known as \"Yellowtail Capital of the World\\\"",
+          "choices": [
+            "What is Encinitas?",
+            "What is Encarnaci\u00f3n?",
+            "What is Entrerr\u00edos?",
+            "What is Ensenada?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "2-word term for the consumer, for whom a computer is ultimately designed",
+          "choices": [
+            "What is an end user?",
+            "What is an end buyer?",
+            "What is an end consumer?",
+            "What is an end client?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "It's a territory belonging to one country but lying within another, such as Spain's Ceuta & Melilla in Morocco",
+          "choices": [
+            "What is an exclave?",
+            "What is an entrepot?",
+            "What is an enclave?",
+            "What is an enclosure?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "50 YEARS AGO",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Argentina's new 1949 constitution meant this incumbent president could succeed himself",
+          "choices": [
+            "Who is Edelmiro Farrell?",
+            "Who is Arturo Frondizi?",
+            "Who is Ram\u00f3n Castillo?",
+            "What is Juan Peron?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "On July 20, 1949 this country signed the final armistice of its 1948 war of independence, with Syria",
+          "choices": [
+            "What is Jordan?",
+            "What is Egypt?",
+            "What is Israel?",
+            "What is Lebanon?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This country legend's \"Cold, Cold Heart\" hit No. 1 on the country charts on March 17, 1951",
+          "choices": [
+            "Who is Lefty Frizzell?",
+            "What is Hank Williams?",
+            "Who is Ernest Tubb?",
+            "Who is Eddy Arnold?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "No sacraments for Sergei: The Vatican approved excommunication of those spreading this doctrine",
+          "choices": [
+            "What is Socialism?",
+            "What is Fascism?",
+            "What is Communism?",
+            "What is Anarchism?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Ireland became a republic on this post-holiday Monday, the anniversary of the 1916 \"Rising\\\"",
+          "choices": [
+            "What is St. Patrick's Day?",
+            "What is Easter?",
+            "What is Good Friday?",
+            "What is Whit Monday?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "RAINY SONGS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "She sang, \"Now that it's raining more than ever... you can stand under my umbrella... ella, ella, eh eh eh\\\"",
+          "choices": [
+            "Who is Beyonc\u00e9?",
+            "Who is Katy Perry?",
+            "Who is Lady Gaga?",
+            "What is Rihanna?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Neil Sedaka chuckled all the way to the bank with his #1 comeback song in 1974",
+          "choices": [
+            "What is \"Bad Blood\"?",
+            "What is \\\"Laughter In The Rain\\\"?",
+            "What is \"Solitaire\"?",
+            "What is \"The Immigrant\"?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "In \"The Perfect\" this genre \"Song\", \"I was drunk the day my mom got out of prison, & I went to pick her up in the rain\\\"",
+          "choices": [
+            "What is bluegrass?",
+            "What is country?",
+            "What is western?",
+            "What is folk?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "\\\"So never mind the darkness, we still can find a way, 'cause nothin' lasts forever, even cold November rain\", they sang",
+          "choices": [
+            "Who are Bon Jovi?",
+            "Who are Aerosmith?",
+            "Who are Def Leppard?",
+            "What is Guns N' Roses?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This duo, in 1984: \"Here comes the rain again, falling on my head like a memory, falling on my head like a new emotion\\\"",
+          "choices": [
+            "What is the Eurythmics?",
+            "Who are Hall & Oates?",
+            "Who are Wham!?",
+            "Who are Yazoo?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "FOR THE KIDS",
+    "clue": "Animal that went both ways in \"Dr. Doolittle\\\"",
+    "choices": [
+      "What is the Wiff-Waff?",
+      "What is the Quilliphant?",
+      "What is the Bliffendorf?",
+      "What is a Pushmi-Pullyu?"
+    ],
+    "correctIndex": 3
+  }
+}

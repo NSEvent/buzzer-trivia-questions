@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-17",
+  "categories": [
+    {
+      "name": "AS EASY AS A-B-C",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It describes Shakespeare's pentameter",
+          "choices": [
+            "What is iambic?",
+            "What is trochaic?",
+            "What is dactylic?",
+            "What is spondaic?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "It means to construct, or to fake, as in your excuse for being late",
+          "choices": [
+            "What is fabricate?",
+            "What is corroborate?",
+            "What is exaggerate?",
+            "What is fabricate?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "The title of a Lewis Carroll poem, it now means meaningless words or gibberish",
+          "choices": [
+            "What is \"Bandersnatch\"?",
+            "What is \\\"Jabberwocky\\\"?",
+            "What is \"Snark\"?",
+            "What is \"Mimsy\"?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This gem of a word can precede rattlesnake, terrapin & moth",
+          "choices": [
+            "What is copperhead?",
+            "What is timber?",
+            "What is sidewinder?",
+            "What is diamondback?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Lewis Carroll coined this term for meaningless words or gibberish",
+          "choices": [
+            "What is balderdash?",
+            "What is gobbledygook?",
+            "What is jabberwocky?",
+            "What is twaddle?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "FROM THE GERMAN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "If you say \"he took a lot of\" this, either he was criticized or his plane was shot at",
+          "choices": [
+            "What is blitz?",
+            "What is strafe?",
+            "What is flak?",
+            "What is schrapnel?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "You may have this German desire for travel, but snap out of it\u2014there's a game to play!",
+          "choices": [
+            "What is fernweh?",
+            "What is wanderlust?",
+            "What is schadenfreude?",
+            "What is heimweh?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "In 1969 the first watch using this mineral to keep time came on the market",
+          "choices": [
+            "What is silicon?",
+            "What is quartz?",
+            "What is titanium?",
+            "What is sapphire?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "U2 could tell you it's a German word for \"attention\", baby!",
+          "choices": [
+            "What is verboten?",
+            "What is danke?",
+            "What is gesundheit?",
+            "What is achtung?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "From this writer's \"Tin Drum\": \"Even bad books are books and therefore sacred\\\"",
+          "choices": [
+            "Who is (Heinrich) B\u00f6ll?",
+            "Who is (Thomas) Mann?",
+            "What is (Gunter) Grass?",
+            "Who is (Hermann) Hesse?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "EXIT THROUGH THE GIFT SHOP",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "(Jimmy of the Clue Crew reports from Valley Forge Nat'l Historical Park in Pennsylvania.) At the Valley Forge Encampment Store, treat yourself to a pencil sharpener version of this man's headquarters",
+          "choices": [
+            "Who is Benjamin Franklin?",
+            "Who is Thomas Jefferson?",
+            "Who is Marquis de Lafayette?",
+            "What is George Washington?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "The gift shop at this author's home sells a china shepherdess just like the one Ma loved in the books",
+          "choices": [
+            "Who is Louisa May Alcott?",
+            "What is Laura Ingalls Wilder?",
+            "Who is Lucy Maud Montgomery?",
+            "Who is Frances Hodgson Burnett?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "(Kelly of the Clue Crew reports from NASA Glenn Research Center in Cleveland, OH.) At the NASA gift shop, you can get a T-shirt of a phrase associated with this harrowing mission",
+          "choices": [
+            "What is Apollo 13?",
+            "What is Apollo 11?",
+            "What is Challenger?",
+            "What is Apollo 1?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Pick up a video at the gift shop of Gaudi's masterpiece La Sagrada Familia in this city in Spain",
+          "choices": [
+            "What is Madrid?",
+            "What is Barcelona?",
+            "What is Seville?",
+            "What is Valencia?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "(Kelly of the Clue Crew shows us a figurine at the Parthenon in Nashville, TN.) Available at the gift shop of Nashville's Parthenon is a 9\" replica of the 42' statue of this warrior goddess",
+          "choices": [
+            "Who is Artemis?",
+            "Who is Nike?",
+            "What is Athena?",
+            "Who is Hera?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "FEBRUARY",
+    "clue": "On Feb. 20, 1971 this major general promoted himself to general & President of Uganda",
+    "choices": [
+      "Who is Mobutu Sese Seko?",
+      "Who is Jean-B\u00e9del Bokassa?",
+      "What is Idi Amin?",
+      "Who is Robert Mugabe?"
+    ],
+    "correctIndex": 2
+  }
+}

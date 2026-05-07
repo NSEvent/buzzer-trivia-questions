@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-30",
+  "categories": [
+    {
+      "name": "MEN OF LETTERS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Alan Alexander...",
+          "choices": [
+            "Who is A.E. Housman?",
+            "What is A.A. Milne?",
+            "Who is A.S. Byatt?",
+            "Who is A.J. Cronin?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "The movies \"A Passage to India\" & \"A Room with a View\" were based on his novels",
+          "choices": [
+            "Who is D.H. Lawrence?",
+            "What is E.M. Forster?",
+            "Who is Graham Greene?",
+            "Who is Evelyn Waugh?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Vidiadhar Surajprasad...",
+          "choices": [
+            "Who is V.S. Pritchett?",
+            "What is V.S. Naipaul?",
+            "Who is V.S. Ramachandran?",
+            "Who is V.K. Narayanan?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "A noted essayist, he also spun the tale of \"Charlotte's Web\\\"",
+          "choices": [
+            "What is E.B. White?",
+            "Who is E.M. Forster?",
+            "Who is E.B. Browning?",
+            "Who is E.L. Doctorow?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "(I'm Hill Harper of CSI: NY.) My motivational book \"Letters to a Young Brother\" was inspired by this book written 100 years ago by Rainer Maria Rilke",
+          "choices": [
+            "What is Letters to a Young Man?",
+            "What is Letters to a Young Artist?",
+            "What is Letters to a Young Poet?",
+            "What is Letters to a Young Soldier?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "THE 11th CENTURY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1096 Peter the Hermit led a group of these to Asia Minor, where they were annihilated",
+          "choices": [
+            "What is Crusaders?",
+            "Who are Pilgrims?",
+            "Who are Vikings?",
+            "Who are Monks?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Spanish Hero whose full nickname ends in \"Campeador\"; most shorten it to this",
+          "choices": [
+            "What is El Matador?",
+            "What is El Conquistador?",
+            "What is El Cid?",
+            "What is El Capitan?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Pope Gregory VII did this to German emperor Henry IV, but relented when Henry begged for 3 days",
+          "choices": [
+            "What is abdication?",
+            "What is imprisonment?",
+            "What is Excommunication?",
+            "What is interdict?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Canute the Great forced this country's Olaf into exile in 1028 & put his own son on the throne",
+          "choices": [
+            "What is Denmark?",
+            "What is Norway?",
+            "What is Sweden?",
+            "What is England?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "While traveling to Constantinople in 1096, this French hermit sacked Belgrade",
+          "choices": [
+            "What is Peter the Hermit?",
+            "Who is Godfrey of Bouillon?",
+            "Who is Hugh of Vermandois?",
+            "Who is Raymond of Toulouse?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "ALL GONE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "We give a hoot that the whekau, or laughing this bird of New Zealand, laughs no more",
+          "choices": [
+            "What is a parrot?",
+            "What is a crane?",
+            "What is a kiwi?",
+            "What is an owl?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "The giant rice rat of Martinique hasn't been seen since 1897; the introduction of this cobra foe may be responsible",
+          "choices": [
+            "What is a mongoose?",
+            "What is a ferret?",
+            "What is a weasel?",
+            "What is a rat snake?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "No one can claim to be related to this author, his last direct descendant, Elizabeth, died in 1670",
+          "choices": [
+            "Who is Chaucer?",
+            "Who is Milton?",
+            "Who is Marlowe?",
+            "What is Shakespeare?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "The last known thylacine, or \"tiger\" of this Australian island, died in 1936",
+          "choices": [
+            "What is Tasmania?",
+            "What is Queensland?",
+            "What is Victoria?",
+            "What is New South Wales?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "The dwarf woolly type of this roamed Russia's Wrangel Island a few centuries after the Great Pyramid was built",
+          "choices": [
+            "What is a mammoth?",
+            "What is a mastodon?",
+            "What is a giant sloth?",
+            "What is a saber-toothed cat?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "FOLK MUSIC",
+    "clue": "Bob Shane, Dave Guard & Nick Reynolds",
+    "choices": [
+      "Who is Peter, Paul and Mary?",
+      "What is The Kingston Trio?",
+      "Who is the Weavers?",
+      "Who is the Limeliters?"
+    ],
+    "correctIndex": 1
+  }
+}

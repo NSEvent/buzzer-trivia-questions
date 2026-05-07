@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-21",
+  "categories": [
+    {
+      "name": "19th CENTURY FRANCE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Twain said of this dance, \"I placed my hands before my face for very shame, but I looked through my fingers\\\"",
+          "choices": [
+            "What is the waltz?",
+            "What is the polka?",
+            "What is the quadrille?",
+            "What is the cancan?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "We don't know if she was statuesque, but Rose Beuret was the longtime love of this sculptor",
+          "choices": [
+            "Who is Monet?",
+            "Who is Renoir?",
+            "Who is C\u00e9zanne?",
+            "What is Rodin?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "In the 1870s this type of bon vivant, so called for the wide streets he frequented, came into vogue",
+          "choices": [
+            "What is a boulevardier?",
+            "What is a fl\u00e2neur?",
+            "What is a dandy?",
+            "What is a rou\u00e9?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Attending the 1867 Paris World's Fair, Jules Verne became fascinated with a navy exhibit on a submersible & wrote this novel",
+          "choices": [
+            "What is Journey to the Center of the Earth?",
+            "What is Around the World in Eighty Days?",
+            "What is From the Earth to the Moon?",
+            "What is Twenty Thousand Leagues Under the Sea?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This son of the King of Holland followed uncle Napoleon's example & became Emperor of the French in 1852",
+          "choices": [
+            "Who is Joseph Bonaparte?",
+            "Who is Lucien Bonaparte?",
+            "What is Napoleon III (or Louis-Napoleon)?",
+            "Who is J\u00e9r\u00f4me Bonaparte?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "GO TO \"H\\\"",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Buzz in when you know this one \u2014 in ancient times, this sweet, sticky liquid was used to treat wounds",
+          "choices": [
+            "What is Honey?",
+            "What is vinegar?",
+            "What is olive oil?",
+            "What is beeswax?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "It's the term for an animal that feeds mainly on grass & other plants",
+          "choices": [
+            "What is an omnivore?",
+            "What is a ruminant?",
+            "What is a grazer?",
+            "What is Herbivore?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This royal family ruled Great Britain from 1714 to 1901",
+          "choices": [
+            "What is Windsor?",
+            "What is Tudor?",
+            "What is Stuart?",
+            "What is Hanover?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "It's the medical term for bad breath",
+          "choices": [
+            "What is gingivitis?",
+            "What is halitosis?",
+            "What is tonsillitis?",
+            "What is xerostomia?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "He wrote the oldest extant major Greek prose work & the 1st history in Western civilization",
+          "choices": [
+            "Who is Thucydides?",
+            "Who is Xenophon?",
+            "What is Herodotus?",
+            "Who is Plutarch?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "HALOGENS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Halogen elements produce these compounds, like the \"table\" kind",
+          "choices": [
+            "What are acids?",
+            "What is salts?",
+            "What are oxides?",
+            "What are hydroxides?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "As this halogen, atomic number 17, kills bacteria, it's used to purify drinking & pool water",
+          "choices": [
+            "What is chlorine?",
+            "What is bromine?",
+            "What is fluorine?",
+            "What is iodine?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Astatine is the only halogen whose isotopes are all this, which is why they have half-lives",
+          "choices": [
+            "What is synthetic?",
+            "What is unstable?",
+            "What is radioactive?",
+            "What is inert?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "It takes about 15,000 tons of seawater to get one ton of this reddish-brown liquid used in sedatives",
+          "choices": [
+            "What is bromine?",
+            "What is iodine?",
+            "What is chlorine?",
+            "What is fluorine?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "It combines with other elements more readily than any other element & reduces tooth decay",
+          "choices": [
+            "What is chlorine?",
+            "What is fluorine?",
+            "What is iodine?",
+            "What is bromine?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "FORBES' BILLIONAIRES",
+    "clue": "Ironically, Dhanin Chearavanont made a fortune with this kind of \"feed\", slang for a small amount of money",
+    "choices": [
+      "What is pig feed?",
+      "What is chicken feed?",
+      "What is cattle feed?",
+      "What is fish feed?"
+    ],
+    "correctIndex": 1
+  }
+}

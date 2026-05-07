@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-05",
+  "categories": [
+    {
+      "name": "WHO'S THE BOSS?",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "...of the Federal Reserve System, 1987-2006",
+          "choices": [
+            "What is Alan Greenspan?",
+            "Who is Paul Volcker?",
+            "Who is Ben Bernanke?",
+            "Who is Janet Yellen?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Agent Phil Coulson, who survived death on the big screen",
+          "choices": [
+            "What is Agents of S.H.I.E.L.D.?",
+            "What is Heroes?",
+            "What is Arrow?",
+            "What is Daredevil?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Wehrmacht Colonel Wilhelm Klink",
+          "choices": [
+            "What is M*A*S*H?",
+            "What is Stalag 17?",
+            "What is Dad's Army?",
+            "What is Hogan's Heroes?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Richie Finestra, founder & president of American Century Records",
+          "choices": [
+            "What is Vinyl?",
+            "What is Empire?",
+            "What is Roadies?",
+            "What is Mixtape?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Milwaukee restaurauteur Arnold Takahashi, succeeded later by Al Delvecchio",
+          "choices": [
+            "What is Laverne & Shirley?",
+            "What is Happy Days?",
+            "What is Mork & Mindy?",
+            "What is Cheers?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "THE KILLERS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Murderers are figuratively said to have the \"mark\" of this biblical man",
+          "choices": [
+            "Who is Abel?",
+            "What is Cain?",
+            "Who is Judas?",
+            "Who is Goliath?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Bodyguards Satwant & Beant Singh killed this female leader of India in 1984",
+          "choices": [
+            "Who is Benazir Bhutto?",
+            "Who is Sirimavo Bandaranaike?",
+            "Who is Sheikh Hasina?",
+            "What is Indira Gandhi?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "In 1924 these 2 Chicago intellectuals kidnapped & killed 14-year-old Bobby Franks",
+          "choices": [
+            "Who are Sacco & Vanzetti?",
+            "What is Leopold & Loeb?",
+            "Who are Bonnie & Clyde?",
+            "Who are Kray & Kray?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This \"insect\" of a gangster was a real-life hit man for Murder Incorporated in the 1930s & '40s",
+          "choices": [
+            "Who is Lucky Luciano?",
+            "Who is Dutch Schultz?",
+            "Who is Louis Lepke?",
+            "What is Bugsy Siegel?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Pausanius, a young Macedonian noble, killed this man, Alexander's dad, in 336 B.C.",
+          "choices": [
+            "Who is Ptolemy?",
+            "What is Philip?",
+            "Who is Darius?",
+            "Who is Perdiccas?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "THE MAGNA CARTA",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The charter called for this with representation, something the American colonies later fought for",
+          "choices": [
+            "What is taxation?",
+            "What is trial by jury?",
+            "What is habeas corpus?",
+            "What is due process?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Fearing its limits on the clergy, this man officially annulled the document after a few months",
+          "choices": [
+            "Who is King John?",
+            "What is the Pope?",
+            "Who is the Archbishop of Canterbury?",
+            "Who is the Holy Roman Emperor?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "The First Clause grants this body freedom from government intervention",
+          "choices": [
+            "What is the nobility?",
+            "What is Parliament?",
+            "What is the merchant class?",
+            "What is the clergy?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "This English king was forced to agree to the Magna Carta after a group of Barons captured London",
+          "choices": [
+            "Who is King Henry III?",
+            "Who is King Richard I?",
+            "Who is King Edward I?",
+            "What is King John?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "In 1957 the ABA, this group, acknowledge the debt U.S. law owed the Magna Carta & erected a U.K. monument",
+          "choices": [
+            "What is the American Civil Liberties Union?",
+            "What is the Supreme Court?",
+            "What is the Library of Congress?",
+            "What is the American Bar Association?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "HISTORICAL TRIVIA",
+    "clue": "Once France's richest colony, this now-impoverished country was 2nd in the New World to gain independence",
+    "choices": [
+      "What is Jamaica?",
+      "What is Cuba?",
+      "What is Haiti?",
+      "What is Martinique?"
+    ],
+    "correctIndex": 2
+  }
+}

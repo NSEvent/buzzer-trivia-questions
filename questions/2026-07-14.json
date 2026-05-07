@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-14",
+  "categories": [
+    {
+      "name": "POETIC WOMEN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1949, at just 38, Elizabeth Bishop was named Chair of Poetry at this D.C. library",
+          "choices": [
+            "What is the Folger Shakespeare Library?",
+            "What is the Smithsonian Institution Libraries?",
+            "What is the Library of Congress?",
+            "What is the National Archives?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "The Nancy in this Scot's \"A Fond Kiss\" was Agnes McLehose",
+          "choices": [
+            "Who is Walter Scott?",
+            "What is Robert Burns?",
+            "Who is Robert Louis Stevenson?",
+            "Who is James Hogg?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Before her first novel, \"Fear of Flying\", she published a poetry collection about some bawdy \"Fruits & Vegetables\\\"",
+          "choices": [
+            "What is (Erica) Jong?",
+            "Who is Anne Sexton?",
+            "Who is Adrienne Rich?",
+            "Who is Sylvia Plath?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "This American's earliest poem, \"Awake ye muses nine, sing me a strain divine\", dates to Valentine week 1850",
+          "choices": [
+            "Who is Louisa May Alcott?",
+            "Who is Lydia Sigourney?",
+            "What is Emily Dickinson?",
+            "Who is Harriet Beecher Stowe?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "This poet who wrote \"The New Colossus\" has been called one of the first successful Jewish-American authors",
+          "choices": [
+            "Who is Muriel Rukeyser?",
+            "Who is Edna St. Vincent Millay?",
+            "Who is Adelheid Wette?",
+            "What is Emma Lazarus?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "THE BILL OF RIGHTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This amendment guarantees that a person cannot be forced to testify against himself",
+          "choices": [
+            "What is the Fourth Amendment?",
+            "What is the Fifth Amendment?",
+            "What is the Sixth Amendment?",
+            "What is the Eighth Amendment?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "The First Amendment gives people the right to do this as long as they do it \"peaceably\\\"",
+          "choices": [
+            "What is assemble?",
+            "What is march?",
+            "What is protest?",
+            "What is demonstrate?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "In Federalist Paper No. 84, he argued that a bill of rights was \"unnecessary\" & \"dangerous\\\"",
+          "choices": [
+            "Who is Madison?",
+            "Who is Jay?",
+            "What is Hamilton?",
+            "Who is Jefferson?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "On April 19, 1939, this \"Nutmeg State\" became the last of the original 13 states to ratify the Bill of Rights",
+          "choices": [
+            "What is Rhode Island?",
+            "What is Massachusetts?",
+            "What is Georgia?",
+            "What is Connecticut?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "In the Federalist Papers, this statesman argued that a bill of rights was \"unnecessary\" & \"dangerous\\\"",
+          "choices": [
+            "Who is James Madison?",
+            "Who is John Jay?",
+            "Who is Thomas Jefferson?",
+            "What is Alexander Hamilton?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "TRIPLE TALK",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 19th c. hymn, words preceding \"Lord God almighty! Early in the morning our song shall rise to Thee\\\"",
+          "choices": [
+            "What is glory, glory, glory?",
+            "What is praise, praise, praise?",
+            "What is Holy, holy, holy?",
+            "What is blessed, blessed, blessed?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "According to The Teddy Bears' 1958 hit \"To know, know, know him is\" this",
+          "choices": [
+            "What is to need, need, need him?",
+            "What is to want, want, want him?",
+            "What is To love, love, love him?",
+            "What is to miss, miss, miss him?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "While the trolley went \"clang, clang, clang\" my heartstrings went this",
+          "choices": [
+            "What is ring, ring, ring?",
+            "What is sing, sing, sing?",
+            "What is zing, zing, zing?",
+            "What is ping, ping, ping?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Precedes \"It's Fat Albert!\\\"",
+          "choices": [
+            "What is yo, yo, yo?",
+            "What is Hey, Hey, Hey?",
+            "What is ho, ho, ho?",
+            "What is oh, oh, oh?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Tho he may never have said it himself, most people imitate Cary Grant by saying this",
+          "choices": [
+            "What is Judy, Judy, Judy?",
+            "What is darling, darling, darling?",
+            "What is Archie, Archie, Archie?",
+            "What is baby, baby, baby?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "20th CENTURY ARTISTS",
+    "clue": "This Belgian's \"Mysteries Of The Horizon\" shows 3 men in bowler hats; a sliver of moon hangs above each of them",
+    "choices": [
+      "Who is Paul Delvaux?",
+      "Who is Salvador Dali?",
+      "Who is Giorgio de Chirico?",
+      "What is Magritte?"
+    ],
+    "correctIndex": 3
+  }
+}

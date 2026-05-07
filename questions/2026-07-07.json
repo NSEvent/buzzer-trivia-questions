@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-07",
+  "categories": [
+    {
+      "name": "IDAHO",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Though the University of Idaho is in this city, you won't find the students reading Pravda",
+          "choices": [
+            "What is Boise?",
+            "What is Nampa?",
+            "What is Moscow?",
+            "What is Lewiston?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "This 83-square-mile national monument is made up of \"lunar\" basaltic volcanic features",
+          "choices": [
+            "What is Hagerman Fossil Beds National Monument?",
+            "What is Craters of the Moon National Park?",
+            "What is City of Rocks National Reserve?",
+            "What is Minidoka National Historic Site?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "This city named for a Bannock Indian is home to Idaho State University",
+          "choices": [
+            "What is Twin Falls?",
+            "What is Pocatello?",
+            "What is Idaho Falls?",
+            "What is Lewiston?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "To attract more travelers, i 1936 the Union Pacific RR began developing this famed winter sports resort",
+          "choices": [
+            "What is Sun Valley?",
+            "What is Park City?",
+            "What is Aspen?",
+            "What is Lake Placid?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "The Blackfoot, Big Wood & Salmon Rivers all flow into this 1 that drains most of the state",
+          "choices": [
+            "What is the Columbia?",
+            "What is the Boise?",
+            "What is the Bear?",
+            "What is the Snake?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "1993",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In October \"Jurassic Park\" surpassed this film to become the highest-grossing movie of all time",
+          "choices": [
+            "What is Star Wars?",
+            "What is E.T.?",
+            "What is Jaws?",
+            "What is Home Alone?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "In June the U.S. fired on this country in retaliation for their plot to kill George Bush",
+          "choices": [
+            "What is Libya?",
+            "What is Iran?",
+            "What is Iraq?",
+            "What is Somalia?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "On November 2 the Senate voted 94-6 to subpoena 3,000 pages of his diary",
+          "choices": [
+            "What is Oliver North?",
+            "What is Robert Packwood?",
+            "What is Bob Dole?",
+            "What is Newt Gingrich?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This treaty on European unity went into effect on November 1",
+          "choices": [
+            "What is Maastricht Treaty?",
+            "What is the Treaty of Rome?",
+            "What is the Schengen Agreement?",
+            "What is the Single European Act?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "These 2 women were given t-shirts that read \"The Supremes\\\"",
+          "choices": [
+            "What is Sandra Day O'Connor & Sonia Sotomayor?",
+            "What is Sandra Day O'Connor & (Ruth) Ginsburg?",
+            "What is Elena Kagan & Ruth Ginsburg?",
+            "What is Sandra Day O'Connor & Sandra Lynch?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "ERAS & AGES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Kicked off by the Russians in October 1957, it's also an adjective meaning \"shiny & modern\\\"",
+          "choices": [
+            "What is the Space Age?",
+            "What is the Jet Age?",
+            "What is the Atomic Age?",
+            "What is the Digital Age?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Mark Twain wrote for the journal The Golden Era before co-writing the 1873 novel titled this \"Age\\\"",
+          "choices": [
+            "What is the Bronze Age?",
+            "What is the Golden Age?",
+            "What is the Progressive Age?",
+            "What is The Gilded Age?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Nobel laureate Paul Crutzen said the Anthropocene epoch began with rising levels of these gases like CO2 around 1800",
+          "choices": [
+            "What is greenhouse gases?",
+            "What is nitrogen compounds?",
+            "What is radioactive isotopes?",
+            "What is particulate matter?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "\u2014Hey, Dante! \u2014Yeah, Plutarch! \u2014It's almost 1300. Time to start this \"rebirth\\\"",
+          "choices": [
+            "What is the Reformation?",
+            "What is the Renaissance?",
+            "What is the Enlightenment?",
+            "What is the Inquisition?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Japan underwent Westernization in the period named for Mutsuhito, who took this royal \"M\" name & died in 1912",
+          "choices": [
+            "What is the Meiji Restoration?",
+            "What is the Taisho Restoration?",
+            "What is the Tokugawa Restoration?",
+            "What is the Showa Restoration?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "CANADIAN GEOGRAPHY",
+    "clue": "Lying between the 49th & the 60th parallels of latitude, it's the only province with no natural features defining its border",
+    "choices": [
+      "What is Alberta?",
+      "What is Saskatchewan?",
+      "What is Manitoba?",
+      "What is New Brunswick?"
+    ],
+    "correctIndex": 1
+  }
+}

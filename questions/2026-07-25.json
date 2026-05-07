@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-25",
+  "categories": [
+    {
+      "name": "OSCAR-NOMINATED SONGS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"A Whole New World\" (1992)",
+          "choices": [
+            "What is The Little Mermaid?",
+            "What is Aladdin?",
+            "What is Beauty and the Beast?",
+            "What is Mulan?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "\\\"Be Our Guest\" (1991)",
+          "choices": [
+            "What is The Little Mermaid?",
+            "What is Beauty and the Beast?",
+            "What is Aladdin?",
+            "What is Cinderella?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "\\\"Zip-A-Dee-Doo-Dah\" (1947)",
+          "choices": [
+            "What is Bambi?",
+            "What is Song of the South?",
+            "What is Fantasia?",
+            "What is Dumbo?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "\\\"Let's Hear It For The Boy\" (1984)",
+          "choices": [
+            "What is Flashdance?",
+            "What is Dirty Dancing?",
+            "What is Footloose?",
+            "What is Fame?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"Papa, Can You Hear Me?\" (1983)",
+          "choices": [
+            "What is Yentl?",
+            "What is Tootsie?",
+            "What is The Way We Were?",
+            "What is Funny Girl?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "LOOSE CHANGE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The first dime featuring his image was issued on Jan. 30, 1946, a little more than 9 months after his death",
+          "choices": [
+            "Who is Lincoln?",
+            "Who is Washington?",
+            "Who is Jefferson?",
+            "What is FDR?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "The bison depicted on this coin, 1913 to 1938, was Black Diamond, an animal on exhibit at the N.Y. Zoological Gardens",
+          "choices": [
+            "What is the quarter?",
+            "What is the penny?",
+            "What is the nickel?",
+            "What is the half dollar?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This Latin phrase, which means \"out of many, one\", must appear on all U.S. coins",
+          "choices": [
+            "What is E Pluribus Unum?",
+            "What is Annuit Coeptis?",
+            "What is In God We Trust?",
+            "What is Novus Ordo Seclorum?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "On Feb. 12, 1959 a new design for the back of this coin was introduced",
+          "choices": [
+            "What is the quarter?",
+            "What is the Lincoln penny?",
+            "What is the nickel?",
+            "What is the half dollar?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "The reverse of this current U.S. coin depicts an olive branch, an oak branch & a torch",
+          "choices": [
+            "What is a nickel?",
+            "What is a quarter?",
+            "What is a penny?",
+            "What is a dime (or ten-cent piece)?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "NO LONGER AROUND",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 2011 this U.N. organization, FAO for short, declared the first eradication of an animal disease, rinderpest",
+          "choices": [
+            "What is the World Health Organization?",
+            "What is the United Nations Environment Programme?",
+            "What is the Food and Agricultural Organization?",
+            "What is the International Labour Organization?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "As of summer 1999, you could no longer hail one of these iconic rides in New York",
+          "choices": [
+            "What is a horse-drawn carriage?",
+            "What is a double-decker bus?",
+            "What is a checker cab?",
+            "What is a rickshaw?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This clear malt beverage whose name is Russian for \"winter\" got the cold shoulder from Coors in 2008",
+          "choices": [
+            "What is Zima Gold?",
+            "What is Bartles & Jaymes?",
+            "What is Zima?",
+            "What is Clearly Canadian?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Answering its own musical question \"Should I Stay Or Should I Go?\", in 1986 this group went",
+          "choices": [
+            "What is The Police?",
+            "What is The Clash?",
+            "What is The Jam?",
+            "What is Joy Division?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "This province made up the northeastern paart of South Africa until 1994",
+          "choices": [
+            "What is Transvaal?",
+            "What is Natal?",
+            "What is Rhodesia?",
+            "What is the Orange Free State?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "PROTESTANTISM",
+    "clue": "Organized in Augusta, Georgia, the largest U.S. Protestant denomination is the SBC, or this convention",
+    "choices": [
+      "What is the Northern Baptists?",
+      "What is the American Baptists?",
+      "What is the Free Will Baptists?",
+      "What is the Southern Baptists?"
+    ],
+    "correctIndex": 3
+  },
+  "bonusRound": {
+    "category": "WORLD OF POETRY",
+    "clue": "This country's poet known as Odidere Ayekooto, \"the loquacious parrot\", is a rock star among his Yoruba people",
+    "choices": [
+      "What is Ghana?",
+      "What is Nigeria?",
+      "What is Senegal?",
+      "What is Cameroon?"
+    ],
+    "correctIndex": 1
+  }
+}

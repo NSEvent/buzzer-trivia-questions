@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-18",
+  "categories": [
+    {
+      "name": "SPORTS TALK",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Oh I do say, sticky wicket is a term that comes from this team sport",
+          "choices": [
+            "What is polo?",
+            "What is cricket?",
+            "What is lacrosse?",
+            "What is croquet?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "(Jimmy of the Clue Crew shows an animation on the monitor.) In bowling, try to get your ball in this area, between the 1 & 2 or 1 & 3 pin to get a strike",
+          "choices": [
+            "What is the lane?",
+            "What is the gutter?",
+            "What is the head pin?",
+            "What is the pocket?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This 5-letter rugby play also means \"hubbub\" or \"confusion\\\"",
+          "choices": [
+            "What is a ruck?",
+            "What is scrum?",
+            "What is a maul?",
+            "What is a lineout?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "In track, the \"metric mile\" is this many meters",
+          "choices": [
+            "What is 1,600?",
+            "What is 1,500?",
+            "What is 1,000?",
+            "What is 1,200?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "It's a race in which 4 swimmers on a team each do a different stroke",
+          "choices": [
+            "What is a freestyle relay?",
+            "What is an individual medley?",
+            "What is a butterfly relay?",
+            "What is a medley?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "DAD, GUM IT",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Nicorette is a gum designed to help your dad stop doing this",
+          "choices": [
+            "What is drinking?",
+            "What is chewing tobacco?",
+            "What is overeating?",
+            "What is smoking?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Born Frances Gumm, she made her singing debut at age 2 in her dad's theater & then went on to visit Oz",
+          "choices": [
+            "Who is Ethel Merman?",
+            "What is (Judy) Garland?",
+            "Who is Doris Day?",
+            "Who is Liza Minnelli?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "This \"colorful\" gum-chewing girl has a golden ticket that gets her & her dad in to see Willy Wonka",
+          "choices": [
+            "Who is Veruca Salt?",
+            "Who is Charlie Bucket?",
+            "Who is Augustus Gloop?",
+            "What is Violet Beauregarde?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Gumby's father has this name, also a Bantu word for \"okra\\\"",
+          "choices": [
+            "What is Pokey?",
+            "What is Prickle?",
+            "What is Gumbo?",
+            "What is Minga?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Gumby's father has this name, from a Bantu word for \"okra\\\"",
+          "choices": [
+            "What is Pokey?",
+            "What is Gumbo?",
+            "What is Prickle?",
+            "What is Minga?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "POLITICAL PARTIES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In '68, this group's \"non-leader\" Abbie Hoffman said it's \"A party \u2014 not a political movement\\\"",
+          "choices": [
+            "What are the Zippies?",
+            "What are the Hippies?",
+            "What is Yippies?",
+            "What are the Weathermen?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "In Benin this party is called \"les Verts du Benin\"; in Belgium it's called \"Ecolo\\\"",
+          "choices": [
+            "What is the Green Party?",
+            "What is the Ecology Party?",
+            "What is the Environmental Party?",
+            "What is the Progressive Party?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "This party, named for the paper money issued during & after the Civil War, elected 18 men to Congress in 1878",
+          "choices": [
+            "What is the Free Soil Party?",
+            "What is the Greenbacks?",
+            "What is the Know-Nothing Party?",
+            "What is the Populist Party?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Whoopee! When he got 2 A.M. word of his reelection, he ordered bacon & eggs for himself, Colson & Haldeman",
+          "choices": [
+            "Who is Ford?",
+            "Who is Johnson?",
+            "What is Nixon?",
+            "Who is Eisenhower?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "As president, Georges Pompidou was a member of the political party named for this man who served before him",
+          "choices": [
+            "What is de Gaulle?",
+            "Who is Mitterrand?",
+            "Who is Giscard d'Estaing?",
+            "Who is P\u00e9tain?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THE SHAPE OF YOU",
+    "clue": "These 2 words that both start with the same 3 letters mean curving inward & curving outward",
+    "choices": [
+      "What is convex & concave?",
+      "What are convex & congruent?",
+      "What are concave & cylindrical?",
+      "What are curved & concentric?"
+    ],
+    "correctIndex": 0
+  },
+  "bonusRound": {
+    "category": "\\\"POT\"s & \"PAN\"s",
+    "clue": "Isolated by Sir Humphry Davy, this second-lightest metal could make you go bananas",
+    "choices": [
+      "What is lithium?",
+      "What is magnesium?",
+      "What is aluminum?",
+      "What is potassium?"
+    ],
+    "correctIndex": 3
+  }
+}

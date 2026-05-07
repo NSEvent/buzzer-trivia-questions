@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-22",
+  "categories": [
+    {
+      "name": "3-SYLLABLE VERBS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Sometimes combined with \"guess\", it means to calculate approximately the amount of something",
+          "choices": [
+            "What is tabulate?",
+            "What is calibrate?",
+            "What is approximate?",
+            "What is estimate?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Sprout like a plant, or lie on a couch like a useless slug, watching TV & eating chips",
+          "choices": [
+            "What is hibernate?",
+            "What is vegetate?",
+            "What is pollinate?",
+            "What is cultivate?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "It can mean to think or focus really, really hard, or to rally all forces towards one specific goal",
+          "choices": [
+            "What is meditate?",
+            "What is motivate?",
+            "What is concentrate?",
+            "What is dedicate?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Pronounced one way it's an adjective describing a close friend; pronounced as a verb, it means to imply indirectly or suggest",
+          "choices": [
+            "What is simulate?",
+            "What is intimate?",
+            "What is indicate?",
+            "What is validate?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "The Latin for \"speak against\" gives us this verb of refutation",
+          "choices": [
+            "What is counteract?",
+            "What is replicate?",
+            "What is demonstrate?",
+            "What is contradict?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "CANADIAN CAPITALS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It's the capital of the province of Ontario",
+          "choices": [
+            "What is Ottawa?",
+            "What is Toronto?",
+            "What is Quebec City?",
+            "What is Vancouver?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "During WWII this capital of Nova Scotia was Canada's main naval base",
+          "choices": [
+            "What is Fredericton?",
+            "What is Halifax?",
+            "What is Charlottetown?",
+            "What is St. John's?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Vancouver isn't on Vancouver Island, but this capital, named for a queen, is",
+          "choices": [
+            "What is Nanaimo?",
+            "What is Victoria?",
+            "What is Kelowna?",
+            "What is Prince Rupert?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "It's the capital & second-largest city of Saskatchewan",
+          "choices": [
+            "What is Saskatoon?",
+            "What is Moose Jaw?",
+            "What is Prince Albert?",
+            "What is Regina?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This British Columbia capital was the capital of the colony of Vancouver Island 1848-1866",
+          "choices": [
+            "What is Victoria?",
+            "What is Kamloops?",
+            "What is Nanaimo?",
+            "What is Prince George?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "ART & DESIGN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In the 1930s Isamu Noguchi designed an early one of these for parents; the receiver was called \"radio nurse\\\"",
+          "choices": [
+            "What is a baby carriage?",
+            "What is a smoke detector?",
+            "What is a portable crib?",
+            "What is a baby monitor?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "This name refers to any depiction of the Virgin holding the dead Christ, not just Michelangelo's sculpture",
+          "choices": [
+            "What is a Madonna?",
+            "What is a Annunciation?",
+            "What is Pieta?",
+            "What is a Deposition?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "The National Company made the instruments he sings about in \"Graceland\"\u2014\"The Mississippi Delta was shining like National guitar\\\"",
+          "choices": [
+            "What is (Bob) Dylan?",
+            "What is (Paul) Simon?",
+            "What is (James) Taylor?",
+            "What is (Art) Garfunkel?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Ludwig Mies Van Der Rohe & Philip Johnson designed this NYC skyscraper named for a liquor company",
+          "choices": [
+            "What is the Chrysler Building?",
+            "What is Rockefeller Center?",
+            "What is the Lever House?",
+            "What is Seagram's Building/Tower?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "The opening sequence for \"Mystery!\" on PBS was based on the work of this American illustrator of the appalling fates of children",
+          "choices": [
+            "What is (Charles) Addams?",
+            "What is (Maurice) Sendak?",
+            "What is (Edward) Gorey?",
+            "What is (Shel) Silverstein?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "IT ENDS WITH \"US\\\"",
+    "clue": "After the Trojan War, he wandered for 10 years before returning home to Ithaca",
+    "choices": [
+      "What is Odysseus?",
+      "What is Aeneas?",
+      "What is Achilles?",
+      "What is Agamemnon?"
+    ],
+    "correctIndex": 0
+  }
+}

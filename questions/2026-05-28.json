@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-28",
+  "categories": [
+    {
+      "name": "COLLEGE FOOTBALL STADIUM NICKNAMES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This team plays its home games in \"The House That Rockne Built\\\"",
+          "choices": [
+            "What is Michigan?",
+            "What is Alabama?",
+            "What is Notre Dame?",
+            "What is Nebraska?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "\\\"Death Valley\" is the home of the Tigers, this SEC team in \"Red Stick\\\"",
+          "choices": [
+            "What is Alabama?",
+            "What is Auburn?",
+            "What is Mississippi State?",
+            "What is LSU?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "\\\"Death Valley\" is the home of the Tigers, this ACC team in South Carolina",
+          "choices": [
+            "What is Auburn?",
+            "What is Clemson?",
+            "What is Georgia?",
+            "What is Tennessee?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This Big Ten team's stadium is called \"the Horseshoe\" because, well, it looks like a horseshoe",
+          "choices": [
+            "What is Michigan?",
+            "What is Ohio State?",
+            "What is Penn State?",
+            "What is Wisconsin?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Here's a white-out at Beaver Stadium, also known as Happy Valley, the home of this Keystone university",
+          "choices": [
+            "What is Pittsburgh?",
+            "What is Michigan State?",
+            "What is Penn State?",
+            "What is Purdue?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "GOLDEN GIRLS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Winning four in 2016, she tied the record for the most gold medals won in a single Olympics by a female gymnast",
+          "choices": [
+            "Who is Gabby Douglas?",
+            "Who is Aly Raisman?",
+            "Who is Nastia Liukin?",
+            "What is Simone Biles?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Make a racket for these 2 siblings who won the gold in women's doubles tennis at the 2000, 2008 & 2012 Olympics",
+          "choices": [
+            "What is Venus & Serena Williams?",
+            "Who are Mary Joe Fernandez and Gigi Fernandez?",
+            "Who are Martina Navratilova and Pam Shriver?",
+            "Who are Steffi Graf and Anke Huber?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "She paired with Sergei Grinkov to win figure skating gold in 1988 & 1994",
+          "choices": [
+            "What is Ekaterina Gordeeva?",
+            "Who is Katarina Witt?",
+            "Who is Oksana Baiul?",
+            "Who is Irina Rodnina?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Must be something in the water\u2014this Olympian swimmer with 10 medals, including 7 gold, hails from Maryland like Michael Phelps",
+          "choices": [
+            "Who is Missy Franklin?",
+            "Who is Natalie Coughlin?",
+            "What is Ledecky?",
+            "Who is Amanda Beard?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "This Norwegian ice skater & future movie star won the first of her Olympic gold medals at age 15 at the 1928 Games in St. Moritz",
+          "choices": [
+            "Who is Peggy Fleming?",
+            "Who is Katarina Witt?",
+            "Who is Tara Lipinski?",
+            "What is Sonja Henie?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "THAT 1870s SHOW",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Bo pays his sister to do a book report on this 1872 Jules Verne novel & gets almost 3 months in detention",
+          "choices": [
+            "What is Twenty Thousand Leagues Under the Sea?",
+            "What is Around the World in Eighty Days?",
+            "What is Journey to the Center of the Earth?",
+            "What is The Mysterious Island?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "In a special episode, Marcy finds out her boyfriend Jerry was killed in this June 25, 1876 battle",
+          "choices": [
+            "What is Gettysburg?",
+            "What is Wounded Knee?",
+            "What is Bull Run?",
+            "What is Little Big Horn?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "\\\"Thespis\", the first collaboration by this pair, opened in London in Dec. 1871 & ran for 2 months; they'd do better later",
+          "choices": [
+            "Who are Rodgers and Hammerstein?",
+            "Who are Lerner and Loewe?",
+            "Who are Webber and Rice?",
+            "What is Gilbert and Sullivan?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "This city just northeast of Nuremberg got on the opera map with the 1876 premiere of the full \"Ring\" cycle",
+          "choices": [
+            "What is Bayreuth?",
+            "What is Salzburg?",
+            "What is Dresden?",
+            "What is Leipzig?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "In a wacky episode, Clovis spills acid, prompting this inventor to make his call to Watson on March 10, 1876",
+          "choices": [
+            "What is Alexander Graham Bell?",
+            "Who is Thomas Edison?",
+            "Who is Samuel Morse?",
+            "Who is Nikola Tesla?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "BUGS",
+    "clue": "Also called the 17-year locust, this loud insect reaches over 100 decibels",
+    "choices": [
+      "What is a cricket?",
+      "What is a cicada?",
+      "What is a grasshopper?",
+      "What is a katydid?"
+    ],
+    "correctIndex": 1
+  }
+}

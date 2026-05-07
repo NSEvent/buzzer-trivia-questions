@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-14",
+  "categories": [
+    {
+      "name": "THE CONFEDERACY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The Confederacy tried to pressure England & France for support using the threat of withholding this \"white gold\\\"",
+          "choices": [
+            "What is tobacco?",
+            "What is cotton?",
+            "What is indigo?",
+            "What is rice?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Henry Wirz, commander of this prison where some 13,000 died, was hanged for murder in 1865",
+          "choices": [
+            "What is Andersonville?",
+            "What is Libby Prison?",
+            "What is Fort Delaware?",
+            "What is Camp Douglas?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Not surprisingly, there was more turnover in this cabinet post than any other; 6 people held it",
+          "choices": [
+            "What is Secretary of State?",
+            "What is Treasury Secretary?",
+            "What is Secretary of the Navy?",
+            "What is War Secretary?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Originally, Union guerrillas were called jayhawkers & Southern ones were these \"vegetation strikers\\\"",
+          "choices": [
+            "What are nightriders?",
+            "What are copperheads?",
+            "What is bushwhackers?",
+            "What are guerrillas?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Union agent James Andrews stole a train headed from Marietta, Georgia toward this Tennessee city",
+          "choices": [
+            "What is Nashville?",
+            "What is Knoxville?",
+            "What is Memphis?",
+            "What is Chattanooga?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "COUNTRIES OF THE WORLD",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Since 1864 the Ionian Islands have been part of this country",
+          "choices": [
+            "What is Italy?",
+            "What is Albania?",
+            "What is Turkey?",
+            "What is Greece?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Christchurch is the capital of Canterbury Provincial District on this country's South Island",
+          "choices": [
+            "What is Australia?",
+            "What is Canada?",
+            "What is New Zealand?",
+            "What is Ireland?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Tikal National Park is part of this country's Maya Biosphere Reserve",
+          "choices": [
+            "What is Belize?",
+            "What is Guatemala?",
+            "What is Mexico?",
+            "What is Honduras?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "The Czech Republic is bordered on the north by Poland, on the east by Slovakia & on the west by this country",
+          "choices": [
+            "What is Austria?",
+            "What is France?",
+            "What is Germany?",
+            "What is the Netherlands?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "After it was stolen from India, the Peacock Throne became a symbol of this country's monarchy",
+          "choices": [
+            "What is Afghanistan?",
+            "What is Turkey?",
+            "What is Iraq?",
+            "What is Iran?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "THE NOBEL PRIZE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1978 Menachem Begin shared the Nobel Peace Prize with this Egyptian president",
+          "choices": [
+            "Who is Yasser Arafat?",
+            "What is Anwar Sadat?",
+            "Who is Hosni Mubarak?",
+            "Who is Gamal Abdel Nasser?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "For his work on digestion, this Russian physiologist won a Nobel Prize in 1904",
+          "choices": [
+            "What is Pavlov?",
+            "Who is Mendeleev?",
+            "Who is Metchnikoff?",
+            "Who is Sechenov?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Dennis Gabor won the 1971 Physics Prize for his invention of this 3-D photographic process",
+          "choices": [
+            "What is holography?",
+            "What is stereoscopy?",
+            "What is interferometry?",
+            "What is radiography?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "This Russian physiologist's 1904 Nobel Prize was for his work on the physiology of digestion",
+          "choices": [
+            "Who is Nikolai Bogolyubov?",
+            "What is Ivan Pavlov?",
+            "Who is Ilya Mechnikov?",
+            "Who is Dmitri Mendeleev?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "The Royal Caroline Institute in Stockholm awards the Nobel Prize in this category",
+          "choices": [
+            "What is Medicine?",
+            "What is Chemistry?",
+            "What is Physics?",
+            "What is Literature?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "WRITERS' RHYME TIME",
+    "clue": "Philip's tree-hanging mammals",
+    "choices": [
+      "What are Updike's strikes?",
+      "What are Frost's costs?",
+      "What is Roth's sloths?",
+      "What are Hughes's blues?"
+    ],
+    "correctIndex": 2
+  }
+}

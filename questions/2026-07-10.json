@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-10",
+  "categories": [
+    {
+      "name": "HISTORIC GEOGRAPHY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Once the center of the Hittite Empire, Bogazkoy is located in this country's Anatolia region",
+          "choices": [
+            "What is Turkey?",
+            "What is Greece?",
+            "What is Syria?",
+            "What is Iran?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "On April 1, 1945 U.S. forces landed on this largest of the Ryukyu Islands; in 1972 we gave it back to Japan",
+          "choices": [
+            "What is Iwo Jima?",
+            "What is Okinawa?",
+            "What is Guam?",
+            "What is Guadalcanal?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Xerxes built a bridge of boats across it to invade Greece; Leander could have walked",
+          "choices": [
+            "What is the Bosphorus?",
+            "What is the Aegean Sea?",
+            "What is Hellespont?",
+            "What is the Strait of Corinth?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Used in World War II to train Germany's Africa Corps, the Bledowska Desert in this country, is one of the few deserts in Europe",
+          "choices": [
+            "What is Poland?",
+            "What is Hungary?",
+            "What is Ukraine?",
+            "What is Romania?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "This city in northern Italy, the country's industrial center, got Europe's first electric power plant in 1883",
+          "choices": [
+            "What is Turin?",
+            "What is Genoa?",
+            "What is Milan?",
+            "What is Bologna?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "ACTING PRESIDENTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Peter Sellers had 3 roles in this film, U.S. President Merkin Muffley, Captain Lionel Mandrake & this title character",
+          "choices": [
+            "Who is General Buck Turgidson?",
+            "What is Dr. Strangelove?",
+            "Who is Colonel Bat Guano?",
+            "Who is Major Kong?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "President Harrison Ford personally battles hijacker Gary Oldman in this 1997 thriller",
+          "choices": [
+            "What is Air Force One?",
+            "What is \"The Rock\"?",
+            "What is \"Executive Decision\"?",
+            "What is \"Broken Arrow\"?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Thanks to the magic of digital technology, this man (a method actor?) played the president in 1997's \"Contact\\\"",
+          "choices": [
+            "What is Bill Clinton?",
+            "Who is George H.W. Bush?",
+            "Who is Ronald Reagan?",
+            "Who is Jimmy Carter?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "On FX in 2021 you could see Annaleigh Ashford as Paula Jones opposite Clive Owen as him",
+          "choices": [
+            "Who is Donald Trump?",
+            "What is Bill Clinton?",
+            "Who is George W. Bush?",
+            "Who is Barack Obama?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Charlton Heston portrayed him wooing Rachel in \"The President's Lady\" & during his War of 1812 days in \"The Buccaneer\\\"",
+          "choices": [
+            "Who is Abraham Lincoln?",
+            "What is Andrew Jackson?",
+            "Who is George Washington?",
+            "Who is James Polk?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "PROVERB VS. PROVERB",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "I'm supposed to \"beware of Greeks bearing gifts\"\u2014but if they bring me a gift one of these, I shouldn't look in its mouth...hmmm",
+          "choices": [
+            "What is a cat?",
+            "What is a horse?",
+            "What is a dog?",
+            "What is a camel?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "OK, OK\u2014\"he who hesitates is lost\"...but aren't I supposed to do this before I leap?",
+          "choices": [
+            "What is look?",
+            "What is \"think\"?",
+            "What is \"wait\"?",
+            "What is \"pray\"?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "OK, OK\u2014\"He who hesitates is lost\"... but aren't I supposed to do this before I leap?",
+          "choices": [
+            "What is \"think\"?",
+            "What is look?",
+            "What is \"wait\"?",
+            "What is \"pray\"?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "If this is \"mightier than the sword\", then why the heck do \"actions speak louder than words\"?",
+          "choices": [
+            "What is a shield?",
+            "What is a fist?",
+            "What is a spear?",
+            "What is a pen?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "So do I need a bigger kitchen, or not? \"Many hands make light work\", but \"Too many cooks spoil\" this stuff",
+          "choices": [
+            "What is the stew (the broth)?",
+            "What is the soup?",
+            "What is the sauce?",
+            "What is the dough?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "COMING TO AMERICA",
+    "clue": "A little bird told us this artist, born in Santo Domingo in 1785, came to America when he was 18",
+    "choices": [
+      "What is Audubon?",
+      "Who is Frederic Chopin?",
+      "Who is Edvard Grieg?",
+      "Who is Franz Liszt?"
+    ],
+    "correctIndex": 0
+  }
+}

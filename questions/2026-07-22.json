@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-22",
+  "categories": [
+    {
+      "name": "PLAYWRIGHTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "He wrote for radio before succeeding on Broadway with \"All My Sons\" in 1947",
+          "choices": [
+            "Who is Eugene O'Neill?",
+            "What is Arthur Miller?",
+            "Who is Tennessee Williams?",
+            "Who is Clifford Odets?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "This South African playwright published his first novel \"Tsotsi\" in 1980",
+          "choices": [
+            "Who is Wole Soyinka?",
+            "Who is Ngugi wa Thiong'o?",
+            "What is Athol Fugard?",
+            "Who is Derek Walcott?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Although he was Irish-born, most of his works after WWII, including \"Waiting for Godot\", were written in French",
+          "choices": [
+            "Who is Brendan Behan?",
+            "Who is Sean O'Casey?",
+            "What is Beckett?",
+            "Who is Oscar Wilde?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "He added concept of 3rd actor to Greek tragedy &, at 28, beat Aeschylus in dramatic competition",
+          "choices": [
+            "Who is Euripides?",
+            "What is Sophocles?",
+            "Who is Aristophanes?",
+            "Who is Aeschylus?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "These British twin brother playwrights wrote mystery novels under the rather obvious alias Peter Anthony",
+          "choices": [
+            "Who are Gilbert & Sullivan?",
+            "Who are Lee & Robert Woodham?",
+            "Who are Charles & John Boland?",
+            "What is Peter & Anthony Shaffer?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "A LOVELY PORT",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Port got a boost from the 1703 Methuen Treaty, which gave Portuguese goods low tariffs in this country",
+          "choices": [
+            "What is France?",
+            "What is Spain?",
+            "What is Great Britain/England?",
+            "What is the Netherlands?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "5 years as an unsold slave in this north African capital inspired Cervantes' play \"El Trato de Angel\\\"",
+          "choices": [
+            "What is Algiers?",
+            "What is Tunis?",
+            "What is Tripoli?",
+            "What is Tangier?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Because of the deposit it leaves in the bottle, one must do this to crusted port before serving",
+          "choices": [
+            "What is freeze it?",
+            "What is Decant/strain it?",
+            "What is shake it vigorously?",
+            "What is serve it in a sealed bottle?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Port gets its name from this second-largest Portuguese city that's 2 letters longer",
+          "choices": [
+            "What is Lisbon?",
+            "What is Oporto?",
+            "What is Coimbra?",
+            "What is Braga?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "If you take the last train to this Tennessee port, you'll be at the junction of the Red & Cumberland Rivers",
+          "choices": [
+            "What is Clarksville?",
+            "What is Nashville?",
+            "What is Memphis?",
+            "What is Chattanooga?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "COMPUTERESE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Like a waiter, a network computer might say \"I'll be your\" this & store files or manage printers",
+          "choices": [
+            "What is a router?",
+            "What is Server?",
+            "What is a host?",
+            "What is a node?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "DOS is an acronym for this",
+          "choices": [
+            "What is digital operating software?",
+            "What is data output system?",
+            "What is disk operating system?",
+            "What is digital output storage?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "It's one instruction that stands for a series of commonly used keystrokes",
+          "choices": [
+            "What is macro?",
+            "What is a shortcut?",
+            "What is a subroutine?",
+            "What is a script?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "On a regular typerwriter it's the return key; on a computer keyboard it's usually labeled this",
+          "choices": [
+            "What is execute?",
+            "What is submit?",
+            "What is enter?",
+            "What is confirm?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "A \"hot\" World Wide Web browser is written in this programming language created by Sun Microsystems",
+          "choices": [
+            "What is C++?",
+            "What is Python?",
+            "What is Java?",
+            "What is COBOL?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "BROADWAY MUSICALS BY CHARACTERS",
+    "clue": "Tevye, Yente, Lazar Wolf",
+    "choices": [
+      "What is Cabaret?",
+      "What is Fiddler on the Roof?",
+      "What is The Producers?",
+      "What is A Little Night Music?"
+    ],
+    "correctIndex": 1
+  }
+}

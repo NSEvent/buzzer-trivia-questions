@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-01",
+  "categories": [
+    {
+      "name": "ASTRONOMY & SPACE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Corvus, a small constellation south of Virgo, is said to represent this black bird",
+          "choices": [
+            "What is a raven?",
+            "What is the crow?",
+            "What is a magpie?",
+            "What is a blackbird?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "In April 1990 the Hubble Telescope was put into orbit by the crew of this space shuttle",
+          "choices": [
+            "What is Discovery?",
+            "What is Atlantis?",
+            "What is Columbia?",
+            "What is Challenger?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "In April 1997 one of these named Hale-Bopp will be among the brightest objects in the night sky",
+          "choices": [
+            "What is an asteroid?",
+            "What is a meteor?",
+            "What is a nebula?",
+            "What is Comet?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "The ISS for short, it's considered the largest cooperative scientific project in history",
+          "choices": [
+            "What is the Integrated Space System?",
+            "What is the Interplanetary Space Station?",
+            "What is the International Science Satellite?",
+            "What is the International Space Station?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "In 1992, aboard the Endeavour, she became the 1st African-American woman in space",
+          "choices": [
+            "Who is Sally Ride?",
+            "Who is Judith Resnik?",
+            "Who is Kathryn Sullivan?",
+            "What is Mae Jemison?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "MILITARY AIRCRAFT",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1949, the, \"Lucky Lady II\" became 1st airplane to complete this, taking 94 hours & 1 minute",
+          "choices": [
+            "What is a solo transatlantic crossing?",
+            "What is a non-stop trip around the world?",
+            "What is a non-stop transpacific flight?",
+            "What is a supersonic transcontinental run?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "In 1921, 3 biplane bombers helped this general prove planes could sink battleships",
+          "choices": [
+            "Who is John Pershing?",
+            "Who is Hap Arnold?",
+            "Who is Eddie Rickenbacker?",
+            "What is Billy Mitchell?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This country's big bomber of the 1950s was the TU-95 Bear",
+          "choices": [
+            "What is China?",
+            "What is Great Britain?",
+            "What is Germany?",
+            "What is the Soviet Union?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Vertol, later Boeing Vertol, developed these, like the Sea Knight & the Chinook",
+          "choices": [
+            "What are fighter jets?",
+            "What is helicopters?",
+            "What are transport planes?",
+            "What are gliders?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "The primary letter & number identification of the Boeing \"Superfortress\" of WWII",
+          "choices": [
+            "What is the B-17?",
+            "What is the B-24?",
+            "What is the B-29?",
+            "What is the B-52?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "WILDLIFE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The glass snake is really a lizard without these",
+          "choices": [
+            "What is legs?",
+            "What are scales?",
+            "What are eyelids?",
+            "What are ears?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Its vascular system has special valves that allow blood to reach the brain, which is over 6' higher than the heart",
+          "choices": [
+            "What is an elephant?",
+            "What is a camel?",
+            "What is a bison?",
+            "What is giraffe?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "A group of these normally consists of a few females, offspring & an adult male known as a silverback",
+          "choices": [
+            "What are chimpanzees?",
+            "What is gorillas?",
+            "What are baboons?",
+            "What are orangutans?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This stinging arachnid bears its young live & the mother carries the young on her back until they molt",
+          "choices": [
+            "What is a spider?",
+            "What is a tarantula?",
+            "What is scorpion?",
+            "What is a tick?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "In North America it's sometimes called a short-tailed weasel",
+          "choices": [
+            "What is a mink?",
+            "What is a ferret?",
+            "What is ermine?",
+            "What is a marten?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "ART APPRECIATION",
+    "clue": "In 1953 he had 3 TV shows on air with his name in the titles & in 2001 he was inducted into the Ukulele Hall of Fame",
+    "choices": [
+      "Who is Ed Sullivan?",
+      "What is Arthur Godfrey?",
+      "Who is Milton Berle?",
+      "Who is Jack Benny?"
+    ],
+    "correctIndex": 1
+  }
+}

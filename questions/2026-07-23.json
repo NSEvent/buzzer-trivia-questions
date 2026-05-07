@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-23",
+  "categories": [
+    {
+      "name": "MOVIE TAG LINES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "1992: \"You'll laugh, you'll cry, you'll hurl.\\\"",
+          "choices": [
+            "What is Bill & Ted's Excellent Adventure?",
+            "What is Ace Ventura: Pet Detective?",
+            "What is Clerks?",
+            "What is Wayne's World?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "\\\"Lather. Rinse. Save the world\" advertised this Adam Sandler comedy",
+          "choices": [
+            "What is Billy Madison?",
+            "What is You Don't Mess with the Zohan?",
+            "What is Happy Gilmore?",
+            "What is The Waterboy?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "1997: \"Collide with destiny\\\"",
+          "choices": [
+            "What is The Poseidon Adventure?",
+            "What is Waterworld?",
+            "What is Titanic?",
+            "What is The Perfect Storm?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "1982 film that showed \"A world inside a computer where man has never been. Never before now\\\"",
+          "choices": [
+            "What is WarGames?",
+            "What is The Last Starfighter?",
+            "What is Tron: Legacy?",
+            "What is Tron?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "1999: \"Catch her if you can\\\"",
+          "choices": [
+            "What is Speed?",
+            "What is My Best Friend's Wedding?",
+            "What is The Fugitive?",
+            "What is Runaway Bride?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "AVIATION HISTORY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Cleared by the FAA in 2021, the Terrafugia Transition is this, wished for by so many in bumper-to-bumper traffic",
+          "choices": [
+            "What is a self-driving car?",
+            "What is a flying car?",
+            "What is a hovercraft?",
+            "What is a jetpack?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Benjamin Davis Jr. became the first to lead this all-black Alabama flying unit also known as the Red Tails",
+          "choices": [
+            "What is the Tuskegee Airmen?",
+            "What are the Buffalo Soldiers?",
+            "What are the Harlem Hellfighters?",
+            "What are the Triple Nickles?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "In 1926 Charles Lindbergh was an airmail pilot flying the route between Chicago & this city whose name he'd later take aloft",
+          "choices": [
+            "What is St. Louis?",
+            "What is Kansas City?",
+            "What is Memphis?",
+            "What is Detroit?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Named for this strong guy, the C-130 transport has had mission-specific variants like a ski-equipped one",
+          "choices": [
+            "What is (the C-130) Hercules?",
+            "What is Atlas?",
+            "What is Titan?",
+            "What is Goliath?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "It's the avian nickname for the SR-71 reconnaissance aircraft that could hit 2,200 miles per hour & an altitude above 85,000 feet",
+          "choices": [
+            "What is a Nighthawk?",
+            "What is a Valkyrie?",
+            "What is a Blackbird?",
+            "What is a Tomcat?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "HOLLYWOOD",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In November 1986, 5000 ties, 2000 cufflinks & a megaphone were found in this late singer's attic",
+          "choices": [
+            "What is Rudy Vall\u00e9e?",
+            "Who is Bing Crosby?",
+            "Who is Frank Sinatra?",
+            "Who is Al Jolson?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Founded by Adolph Zukor, it's the only major film studio actually based in Hollywood",
+          "choices": [
+            "What is Warner Bros.?",
+            "What is Universal Pictures?",
+            "What is 20th Century Fox?",
+            "What is Paramount Pictures?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "To make it fit the category too, this producer might have named his film \"Saturday Knot Fever\\\"",
+          "choices": [
+            "What is (Robert) Stigwood?",
+            "Who is (Dino) De Laurentiis?",
+            "Who is (David) Geffen?",
+            "Who is (Joel) Silver?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "\\\"Symphonies Under the Stars\" was the first official season of this amphitheater that was built in 1919",
+          "choices": [
+            "What is the Hollywood Bowl?",
+            "What is the Greek Theatre?",
+            "What is Red Rocks Amphitheatre?",
+            "What is the Palladium?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "A Dome-A-Rama built in 1963 is named for this spectacular three-film projector process of the day",
+          "choices": [
+            "What is Cinerama?",
+            "What is Panavision?",
+            "What is CinemaScope?",
+            "What is VistaVision?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "LITERARY HODGEPODGE",
+    "clue": "In 1827 it was finally revealed that this Edinburgh native had written the \"Waverley Novels\\\"",
+    "choices": [
+      "Who is Robert Burns?",
+      "Who is James Boswell?",
+      "What is Sir Walter Scott?",
+      "Who is John Galt?"
+    ],
+    "correctIndex": 2
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2026-08-01",
+  "categories": [
+    {
+      "name": "IS THERE A DOCTOR IN THE HOUSE?",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Imhotep of this ancient civilization is honored as the first doctor known by name",
+          "choices": [
+            "What is Mesopotamia?",
+            "What is Greece?",
+            "What is Persia?",
+            "What is Egypt?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Apollo & Asclepius are 2 gods mentioned in his oath",
+          "choices": [
+            "Who is Galen?",
+            "Who is Socrates?",
+            "Who is Aristotle?",
+            "What is Hippocrates?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "If you have warts, you'd resort to this specialty that also deals with blisters & burns",
+          "choices": [
+            "Who is a rheumatologist?",
+            "Who is a podiatrist?",
+            "What is a dermatologist?",
+            "Who is an orthopedist?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "In 1962 this famed pediatrician joined the anti-nuclear group SANE",
+          "choices": [
+            "What is Dr. Spock?",
+            "Who is Dr. Salk?",
+            "Who is Dr. Kevorkian?",
+            "Who is Dr. Shockley?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "He got a life sentence for treating John Wilkes Booth in 1865 but was pardoned before the decade ended",
+          "choices": [
+            "Who is (John) Watson?",
+            "Who is (Joseph) Barnes?",
+            "What is (Samuel) Mudd?",
+            "Who is (Charles) Leale?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "POETIC WORDS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It's the word for a quotation at the beginning of a poem or other text",
+          "choices": [
+            "What is an epigraph?",
+            "What is a prologue?",
+            "What is a preface?",
+            "What is an epigram?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "\\\"L'allegro\" by Milton uses this 4-letter word for a deep shade of black, a shortening of the name of a wood",
+          "choices": [
+            "What is onyx?",
+            "What is noir?",
+            "What is ebon?",
+            "What is soot?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "A \"heroic\" one of these is 2 rhyming lines of iambic pentameter",
+          "choices": [
+            "What is a sonnet?",
+            "What is a stanza?",
+            "What is couplet?",
+            "What is a tercet?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "A poem by Robert Burns taught us that \"gang aft\" this means \"often go wrong\\\"",
+          "choices": [
+            "What is awry?",
+            "What is astray?",
+            "What is agley?",
+            "What is amiss?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "This pause in the middle of a line of poetry is from caedere, Latin for \"to cut\\\"",
+          "choices": [
+            "What is an enjambment?",
+            "What is a diaeresis?",
+            "What is a spondee?",
+            "What is caesura?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "BUSINESS TERMS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Look up! It's this term for the ongoing costs of a business' operation that aren't related to creating a product or service",
+          "choices": [
+            "What is revenue?",
+            "What is depreciation?",
+            "What is capital expenditure?",
+            "What is overhead?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Term for the amount a retailer adds to the cost price of a product; it may not be all profit",
+          "choices": [
+            "What is margin?",
+            "What is commission?",
+            "What is premium?",
+            "What is Mark-up?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This type of physical-sounding buyout takes place when one company borrows lots of money in order to acquire another",
+          "choices": [
+            "What is a hostile takeover?",
+            "What is a merger?",
+            "What is a leveraged buyout?",
+            "What is a management buyout?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Let's check the glossary: AGI is adjusted this",
+          "choices": [
+            "What is general income?",
+            "What is guaranteed income?",
+            "What is gross income?",
+            "What is group income?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "An asset that gets its value from that of an underlying asset is one of these, also a term used in calculus",
+          "choices": [
+            "What is a dividend?",
+            "What is an index?",
+            "What is a futures contract?",
+            "What is derivative?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "AUTOMOBILES",
+    "clue": "This company is the largest British automaker",
+    "choices": [
+      "What is Rolls-Royce?",
+      "What is British Leyland?",
+      "What is Jaguar?",
+      "What is Bentley?"
+    ],
+    "correctIndex": 1
+  },
+  "bonusRound": {
+    "category": "FROM A TO E",
+    "clue": "Along with Lorraine, this French province was annexed by Germany in 1871",
+    "choices": [
+      "What is Alsace?",
+      "What is Normandy?",
+      "What is Burgundy?",
+      "What is Brittany?"
+    ],
+    "correctIndex": 0
+  }
+}

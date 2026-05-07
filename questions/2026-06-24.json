@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-24",
+  "categories": [
+    {
+      "name": "EUPHEMISMS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In prison, it's known as \"the hair curler\" because it gives you a \"permanent wave\\\"",
+          "choices": [
+            "What is an electric chair?",
+            "What is a gas chamber?",
+            "What is a guillotine?",
+            "What is a firing squad?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Nations once called 'backward\" are now called this, like a Polaroid print",
+          "choices": [
+            "What is emerging?",
+            "What is underdeveloped?",
+            "What is Developing?",
+            "What is third-world?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "In \"The Women's Room\" Mira finds this euphemism crossed off the toilet door",
+          "choices": [
+            "What is women?",
+            "What is females?",
+            "What is ladies?",
+            "What is dames?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "It's done to an error or a course, & it refers delicately to a fall in stock prices",
+          "choices": [
+            "What is an adjustment?",
+            "What is a pullback?",
+            "What is a retracement?",
+            "What is Correction?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "It's \"the, bottomless pit , \"Gehenna\", \"blazes\", \"blue blazes\", or \"you-know-where\\\"",
+          "choices": [
+            "What is Hades (Hell)?",
+            "What is Sheol?",
+            "What is Tartarus?",
+            "What is purgatory?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "ANATOMICAL PHRASES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "To get one of these is to gain an initial opportunity or introduction; don't get it caught in there",
+          "choices": [
+            "What is a leg in the door?",
+            "What is a foot in the door?",
+            "What is a hand in the door?",
+            "What is an arm in the door?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "To be rubbing these is to mingle; to bend them is to drink booze",
+          "choices": [
+            "What is shoulders?",
+            "What is knees?",
+            "What is wrists?",
+            "What is elbows?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "As a noun, it's a bony covering for a joint; as a verb, it means to disable that joint, or to really mess someone or something up",
+          "choices": [
+            "What is a kneecap?",
+            "What is a jawbone?",
+            "What is a shinbone?",
+            "What is a collarbone?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Quick-sounding term for a sudden feeling of euphoria, or a feeling of dizziness when you get up too fast",
+          "choices": [
+            "What is a brain freeze?",
+            "What is a sugar rush?",
+            "What is a nose bleed?",
+            "What is a head rush?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "A boss may threaten his employees with dismissal by saying these \"will roll\\\"",
+          "choices": [
+            "What is necks?",
+            "What is hides?",
+            "What is scalps?",
+            "What is heads?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "\\\"EZ\" DOES IT",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In the classic sitcom he's the patriarch of \"The Addams Family\\\"",
+          "choices": [
+            "Who is Uncle Fester?",
+            "Who is Herman Munster?",
+            "What is Gomez?",
+            "Who is Lurch?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "He was ruler of the Aztecs at the time Cortes came a-calling",
+          "choices": [
+            "Who is Cuauht\u00e9moc?",
+            "Who is Cuitl\u00e1huac?",
+            "Who is Itzcoatl?",
+            "What is Montezuma?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "He headed the Soviet Union's Communist party from 1964 until his death in 1982",
+          "choices": [
+            "Who is Nikita Khrushchev?",
+            "Who is Yuri Andropov?",
+            "What is Leonid Brezhnev?",
+            "Who is Konstantin Chernenko?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Columbus' first landing on the mainland of the Americas was on the coast of what is now this country",
+          "choices": [
+            "What is Honduras?",
+            "What is Venezuela?",
+            "What is Colombia?",
+            "What is Panama?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "In 1975 Cambodia seized this American merchant ship on the Gulf of Siam, claiming it was a spy vessel",
+          "choices": [
+            "What is the Pueblo?",
+            "What is Mayaguez?",
+            "What is the Stark?",
+            "What is the Vincennes?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "AMERICAN SIGN LANGUAGE",
+    "clue": "Here is the sign for this geometry term",
+    "choices": [
+      "What is a parallel?",
+      "What is a tangent?",
+      "What is a perpendicular?",
+      "What is a bisector?"
+    ],
+    "correctIndex": 2
+  }
+}

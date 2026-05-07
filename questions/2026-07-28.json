@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-28",
+  "categories": [
+    {
+      "name": "NOT NO. 1",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "As this, Abbie Rabine would become Miss America 2002 if Katie Harman throws in the sash",
+          "choices": [
+            "What is first runner-up?",
+            "What is second runner-up?",
+            "What is Miss Congeniality?",
+            "What is third runner-up?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "A major Red Sea port, Jeddah is this country's second most populous city",
+          "choices": [
+            "What is Saudi Arabia?",
+            "What is Jordan?",
+            "What is Egypt?",
+            "What is Yemen?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "For the Glen Campbell 45-rpm version of \"Wichita Lineman\", it was \"True Grit\\\"",
+          "choices": [
+            "What is the A-side?",
+            "What is the title track?",
+            "What is the lead single?",
+            "What is flip side?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "It's the position of the horse that comes in second",
+          "choices": [
+            "What is place?",
+            "What is show?",
+            "What is win?",
+            "What is across the board?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "In her second book Nancy Drew's title concern was \"the hidden\" this",
+          "choices": [
+            "What is the window?",
+            "What is the attic?",
+            "What is staircase?",
+            "What is the passage?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "THE DONALD",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A popular urban legend says that Finland banned Donald Duck because he doesn't wear these",
+          "choices": [
+            "What is a shirt?",
+            "What is shoes?",
+            "What is pants?",
+            "What is a hat?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Donald's pet name for her was Toots",
+          "choices": [
+            "Who is Minnie?",
+            "Who is Clarabelle?",
+            "What is Daisy?",
+            "Who is Della?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "It's Donald Duck's home town",
+          "choices": [
+            "What is Mouseton?",
+            "What is Duckburg?",
+            "What is St. Canard?",
+            "What is Goosetown?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This Donald Lipski sculpture shares its name with a Marjorie Kinnan Rawlings work",
+          "choices": [
+            "What is Cross Creek?",
+            "What is The Sojourner?",
+            "What is South Moon Under?",
+            "What is The Yearling?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Donald Glaser's invention of this \"chamber\" used to view subatomic particles made him a 1960 Nobel Prize winner",
+          "choices": [
+            "What is a cloud chamber?",
+            "What is a spark chamber?",
+            "What is a drift chamber?",
+            "What is a bubble chamber?"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "MOVIE ROYALTY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Racy Rhonda Fleming role in \"Serpent of the Nile\", opposite Raymond Burr's Mark Antony",
+          "choices": [
+            "What is Cleopatra?",
+            "Who is Nefertiti?",
+            "Who is Hatshepsut?",
+            "Who is Berenice?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Anthony Hopkins played this \"Lion\" of the Crusades in \"The Lion in Winter\\\"",
+          "choices": [
+            "Who is King John?",
+            "Who is Philip II of France?",
+            "Who is Saladin?",
+            "What is Richard the Lionhearted?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Dressed in men's clothes, Garbo played not a drag queen but this Swedish queen",
+          "choices": [
+            "Who is Queen Anne?",
+            "What is Queen Christina?",
+            "Who is Queen Ulrika Eleonora?",
+            "Who is Queen Margaret?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Richard Harris headed the cast, but Alec Guinness lost his head as this king in \"Cromwell\\\"",
+          "choices": [
+            "Who is James I?",
+            "Who is Charles II?",
+            "Who is Henry VIII?",
+            "What is Charles I?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Flora Robson played this 16th c. queen twice, in \"The Sea Hawk\" & \"Fire Over England\\\"",
+          "choices": [
+            "Who is Queen Mary I?",
+            "What is Queen Elizabeth I?",
+            "Who is Lady Jane Grey?",
+            "Who is Queen Anne?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THE POPES",
+    "clue": "Pius X's original name was Giuseppe Sarto; sarto means this, one of the first craftsmen a new pope sees",
+    "choices": [
+      "What is a cobbler?",
+      "What is a carpenter?",
+      "What is tailor?",
+      "What is a baker?"
+    ],
+    "correctIndex": 2
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-30",
+  "categories": [
+    {
+      "name": "20TH CENTURY PERSONALITIES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1925, he dictated his autobiography to fellow prisoner Rudolf Hess",
+          "choices": [
+            "Who is Joseph Goebbels?",
+            "Who is Hermann G\u00f6ring?",
+            "What is Adolf Hitler?",
+            "Who is Martin Bormann?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "This former first lady interviewed Khrushchev in '57 at Yalta, site of her husband's famous conference",
+          "choices": [
+            "Who is Bess Truman?",
+            "What is Eleanor Roosevelt?",
+            "Who is Mamie Eisenhower?",
+            "Who is Edith Wilson?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "When he died in 1926, all movie studios suspended production for 2 minutes in his honor",
+          "choices": [
+            "What is Valentino?",
+            "Who is Charlie Chaplin?",
+            "Who is Douglas Fairbanks?",
+            "Who is John Barrymore?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "It's said both of his salaries, as Archbishop & President of Cyprus, were given to charities",
+          "choices": [
+            "Who is Pope Pius XII?",
+            "Who is Cardinal Mindszenty?",
+            "What is Archbishop Makarios?",
+            "Who is Haile Selassie?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "After coaching football at Connecticut's Wesleyan University, he went on to be President of Princeton",
+          "choices": [
+            "Who is Theodore Roosevelt?",
+            "What is Woodrow Wilson?",
+            "Who is Dwight D. Eisenhower?",
+            "Who is Warren G. Harding?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "\\\"CAN\"NED WORDS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1963 the Four Seasons were \"Happy As Can Be\" with this sweet \"Girl\\\"",
+          "choices": [
+            "What is Sugar?",
+            "What is Honey?",
+            "What is Cookie?",
+            "What is Candy?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "The floor of a boxing ring",
+          "choices": [
+            "What is canopy?",
+            "What is canteen?",
+            "What is canto?",
+            "What is canvas?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "A slang term for a French Canadian, or an NHL player from the other side of the country",
+          "choices": [
+            "What is a Canayen?",
+            "What is a Quebecker?",
+            "What is a Canucker?",
+            "What is a Canuck?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Ill-tempered & quarrelsome",
+          "choices": [
+            "What is cankerous?",
+            "What is canorous?",
+            "What is cankered?",
+            "What is cantankerous?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This Christian festival celebrates the day the infant Jesus was taken to the temple by Mary",
+          "choices": [
+            "What is Candlemas?",
+            "What is Canonization?",
+            "What is Cana?",
+            "What is Canterbury?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "EUROPEAN GEOGRAPHY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It's the name of the peninsula that includes Sweden & Norway as well as the region that also includes Denmark",
+          "choices": [
+            "What is Scandinavia?",
+            "What is the Iberian Peninsula?",
+            "What is Jutland?",
+            "What is the Balkan Peninsula?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "The Gulf of Taranto separates the Calabria & Salentina peninsulas of this country",
+          "choices": [
+            "What is Italy?",
+            "What is Greece?",
+            "What is Albania?",
+            "What is Yugoslavia?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "This German seaport's full name calls it a Free & Hanseatic City",
+          "choices": [
+            "What is Hamburg?",
+            "What is Bremen?",
+            "What is L\u00fcbeck?",
+            "What is Danzig?"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Icebound from December to April, the Gulf of Riga is part of this 160,000-square-mile body of water",
+          "choices": [
+            "What is the North Sea?",
+            "What is the Baltic Sea?",
+            "What is the Black Sea?",
+            "What is the Adriatic Sea?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "This city on the Vistula river was Poland's capital from 1038 to 1596",
+          "choices": [
+            "What is Gdansk?",
+            "What is Poznan?",
+            "What is Krakow?",
+            "What is Lublin?"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "HERE'S YOUR HAT",
+    "clue": "A hat with this Spanish occupational name resembles the top of a bull's head, with 2 projections like horns",
+    "choices": [
+      "What is matador (toreador accepted)?",
+      "What is a picador?",
+      "What is a banderillero?",
+      "What is a torero?"
+    ],
+    "correctIndex": 0
+  }
+}

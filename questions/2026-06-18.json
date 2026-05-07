@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-18",
+  "categories": [
+    {
+      "name": "SPELLBOUND",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Afrikaaners would spell this 1985 Schwarzenegger ex-military man film with a \"K\\\"",
+          "choices": [
+            "What is Predator?",
+            "What is Commando?",
+            "What is Raw Deal?",
+            "What is The Terminator?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "In a 1991 movie, a group of working-class Dubliners form a band that plays '60s soul music & take this name",
+          "choices": [
+            "What is C-O-N-V-I-C-T-I-O-N-S?",
+            "What is C-O-M-M-I-T-M-E-N-T-S?",
+            "What is C-O-N-N-E-C-T-I-O-N-S?",
+            "What is C-O-L-L-E-C-T-I-O-N-S?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "It's the adjective for a 150th anniversary celebration",
+          "choices": [
+            "What is B-I-C-E-N-T-E-N-N-I-A-L?",
+            "What is C-E-N-T-E-N-N-I-A-L?",
+            "What is S-E-M-I-Q-U-I-N-C-E-N-T-E-N-N-I-A-L?",
+            "What is S-E-S-Q-U-I-C-E-N-T-E-N-N-I-A-L?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "The Swahili word that means \"I'm fine\" is pronounced like this \"Show Me State\" but spelled differently",
+          "choices": [
+            "What is Mississippi?",
+            "What is Montana?",
+            "What is Missouri?",
+            "What is Minnesota?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Chinese thought says this energy force flows through the body; it can be spelled with a \"Q\" or a \"CH\\\"",
+          "choices": [
+            "What is ki?",
+            "What is chi?",
+            "What is prana?",
+            "What is mana?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "AN ACTOR'S LIFE FOR ME",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "He received Oscar nominations for acting in & directing \"Million Dollar Baby\\\"",
+          "choices": [
+            "Who is Kevin Costner?",
+            "Who is Mel Gibson?",
+            "Who is Warren Beatty?",
+            "What is Clint Eastwood?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Sean Connery's introduction to show biz was as a sailor in a British production of this musical",
+          "choices": [
+            "What is 'Oklahoma!'?",
+            "What is \\\"South Pacific\\\"?",
+            "What is 'Guys and Dolls'?",
+            "What is 'Annie Get Your Gun'?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "J.K. Simmons played this newspaper man in \"Spider-Man\" movies & voiced him in many cartoons & a video game",
+          "choices": [
+            "Who is Norman Osborn?",
+            "Who is Robbie Robertson?",
+            "Who is Flash Thompson?",
+            "What is J. Jonah Jameson?"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "(Cheryl of the Clue Crew reads from Girls and Boys Town.) He sent his \"Boys Town\" Oscar to Father Flanagan, saying his \"great human qualities were strong enough to shine through my humble efforts\\\"",
+          "choices": [
+            "Who is (Mickey) Rooney?",
+            "What is (Spencer) Tracy?",
+            "Who is (Clark) Gable?",
+            "Who is (James) Cagney?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "World drama was changed forever in 1898 when this director & acting teacher opened the Moscow Art Theater",
+          "choices": [
+            "Who is Vsevolod Meyerhold?",
+            "What is Constantin Stanislavski?",
+            "Who is Bertolt Brecht?",
+            "Who is Anton Chekhov?"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "STATES' HIGHEST POINTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Mount McKinley in Denali Borough",
+          "choices": [
+            "What is Colorado?",
+            "What is Montana?",
+            "What is Alaska?",
+            "What is Wyoming?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Mount Whitney",
+          "choices": [
+            "What is Nevada?",
+            "What is Utah?",
+            "What is California?",
+            "What is Colorado?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Cheaha Mountain in the Talladega National Forest",
+          "choices": [
+            "What is Georgia?",
+            "What is Mississippi?",
+            "What is Alabama?",
+            "What is Tennessee?"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Taum Sauk Mountain, convenient to the Ozark Trail",
+          "choices": [
+            "What is Arkansas?",
+            "What is Missouri?",
+            "What is Illinois?",
+            "What is Kansas?"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Black Mesa in Cimarron County",
+          "choices": [
+            "What is Oklahoma?",
+            "What is Kansas?",
+            "What is Texas?",
+            "What is New Mexico?"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "MORE THAN AN ATHLETE",
+    "clue": "This Red Sox legend had a brother who died of leukemia, helping inspire his timeless work with the Jimmy Fund starting in 1953",
+    "choices": [
+      "What is Ted Williams?",
+      "Who is Carl Yastrzemski?",
+      "Who is Bobby Doerr?",
+      "Who is Johnny Pesky?"
+    ],
+    "correctIndex": 0
+  }
+}
