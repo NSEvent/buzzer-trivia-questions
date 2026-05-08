@@ -6,12 +6,12 @@
       "questions": [
         {
           "value": 200,
-          "clue": "7-letter beach danger\u2014at least keep it to first degree",
+          "clue": "7-letter beach danger—at least keep it to first degree",
           "choices": [
-            "riptide",
-            "heatstroke",
-            "jellyfish sting",
-            "sunburn"
+            "Riptide",
+            "Heatstroke",
+            "Jellyfish sting",
+            "Sunburn"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "It's his business to embalm you when the time comes",
           "choices": [
-            "a mortician",
-            "a coroner",
-            "undertaker",
-            "an embalmer"
+            "A mortician",
+            "A coroner",
+            "Undertaker",
+            "An embalmer"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Rare except in \"Jeopardy!\" clues & nature films, this adjective means relating to or typical of bears",
           "choices": [
-            "lupine",
-            "ursine",
-            "bovine",
-            "feline"
+            "Lupine",
+            "Ursine",
+            "Bovine",
+            "Feline"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "German prefix for \"beyond\", \"over\" or \"super\\\"",
           "choices": [
-            "ober",
-            "vor",
-            "\u00fcber",
-            "super"
+            "Ober",
+            "Vor",
+            "Über",
+            "Super"
           ],
           "correctIndex": 2
         },
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "It's the point of maximum velocity in a pendulum's swing",
           "choices": [
-            "the top of the arc",
-            "the midpoint of the swing",
-            "the point of maximum displacement",
-            "the bottom of the arc in equilibrium"
+            "The top of the arc",
+            "The midpoint of the swing",
+            "The point of maximum displacement",
+            "The bottom of the arc in equilibrium"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "A stapler is an example of this simple machine, with the hinge serving as the fulcrum",
           "choices": [
-            "a lever",
-            "a pulley",
-            "a wedge",
-            "an inclined plane"
+            "A lever",
+            "A pulley",
+            "A wedge",
+            "An inclined plane"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Before this element can be used in a fission reactor, it has to be enriched to increase the level of its 235 isotope",
           "choices": [
-            "plutonium",
-            "uranium",
-            "thorium",
-            "radium"
+            "Plutonium",
+            "Uranium",
+            "Thorium",
+            "Radium"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "This positively charged nuclear particle has almost 2,000 times the mass of the negatively charged electron",
           "choices": [
-            "a neutron",
-            "a positron",
-            "a quark",
-            "a proton"
+            "A neutron",
+            "A positron",
+            "A quark",
+            "A proton"
           ],
           "correctIndex": 3
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Branch of physics dealing with motion, like the bumping of molecules in a gas",
           "choices": [
-            "kinetics",
-            "dynamics",
-            "kinematics",
-            "mechanics"
+            "Kinetics",
+            "Dynamics",
+            "Kinematics",
+            "Mechanics"
           ],
           "correctIndex": 0
         }
@@ -186,10 +186,10 @@
     "category": "HIPPO-POURRI",
     "clue": "A bronze hippo is the unofficial mascot of George Washington Univ., as legend says hippos once swam in this river",
     "choices": [
-      "the Susquehanna",
-      "the Anacostia",
-      "the Shenandoah",
-      "the Potomac"
+      "The Susquehanna",
+      "The Anacostia",
+      "The Shenandoah",
+      "The Potomac"
     ],
     "correctIndex": 3
   }

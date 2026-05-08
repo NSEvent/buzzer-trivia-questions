@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Midsummer's Eve festivities might include a jaunty dance around one of these",
           "choices": [
-            "a maypole",
-            "a bonfire",
-            "a maypole dance",
-            "a harvest wreath"
+            "A maypole",
+            "A bonfire",
+            "A maypole dance",
+            "A harvest wreath"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "After the fall, God's punishment of Eve included the pain of this",
           "choices": [
-            "exile",
-            "childbirth",
-            "mortality",
-            "toil"
+            "Exile",
+            "Childbirth",
+            "Mortality",
+            "Toil"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "The mitochondrial Eve theory suggests everyone inherited their mitochondrial this from one woman in Africa",
           "choices": [
-            "a genome",
-            "a chromosome",
+            "A genome",
+            "A chromosome",
             "DNA",
-            "a gene"
+            "A gene"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Eve, & the Adam, ate fruit from the tree called this, which God specifically said not to do",
           "choices": [
-            "the Tree of Life",
-            "the Tree of Wisdom",
-            "the Tree of Eden",
-            "the Tree of Knowledge (of Good and Evil)"
+            "The Tree of Life",
+            "The Tree of Wisdom",
+            "The Tree of Eden",
+            "The Tree of Knowledge (of Good and Evil)"
           ],
           "correctIndex": 3
         }
@@ -66,12 +66,12 @@
       "questions": [
         {
           "value": 200,
-          "clue": "A brolly is one of these\u2014don't leave home without it on a rainy day",
+          "clue": "A brolly is one of these—don't leave home without it on a rainy day",
           "choices": [
-            "an umbrella",
-            "a raincoat",
-            "a Wellington boot",
-            "a mackintosh"
+            "An umbrella",
+            "A raincoat",
+            "A Wellington boot",
+            "A mackintosh"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "We fill our cars with gasoline; Brits fill theirs with this",
           "choices": [
-            "diesel",
-            "petrol",
-            "fuel",
-            "benzine"
+            "Diesel",
+            "Petrol",
+            "Fuel",
+            "Benzine"
           ],
           "correctIndex": 1
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "While Americans put gas in their cars, the British put in this 6-letter equivalent",
           "choices": [
-            "petrol",
-            "diesel",
-            "leaded",
-            "benzol"
+            "Petrol",
+            "Diesel",
+            "Leaded",
+            "Benzol"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "In bangers 'n mash they're what bangers are",
           "choices": [
-            "puddings",
-            "kippers",
-            "rashers",
-            "sausages"
+            "Puddings",
+            "Kippers",
+            "Rashers",
+            "Sausages"
           ],
           "correctIndex": 3
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "For sports & working out, you need a good pair of trainers, which are these",
           "choices": [
-            "cleats",
+            "Cleats",
             "(running) shoes",
-            "plimsolls",
-            "wellies"
+            "Plimsolls",
+            "Wellies"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "It can be a group riding exhibition performed to music or a merry-go-round",
           "choices": [
-            "a cavalcade",
-            "a caravan",
-            "a cabaret",
-            "carousel"
+            "A cavalcade",
+            "A caravan",
+            "A cabaret",
+            "Carousel"
           ],
           "correctIndex": 3
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "A 10-letter word for a crotchety old miser, not a crotchety old dog",
           "choices": [
-            "cantankerous",
-            "curmudgeon",
-            "contrarian",
-            "censorious"
+            "Cantankerous",
+            "Curmudgeon",
+            "Contrarian",
+            "Censorious"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "To move along making loud noises, or to drink a glass of liquid quickly",
           "choices": [
-            "to clatter",
-            "to clunk",
-            "to churn",
-            "to chug"
+            "To clatter",
+            "To clunk",
+            "To churn",
+            "To chug"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "The Holy Grail, or any cup used to hold consecrated wine for the Eucharist",
           "choices": [
-            "a ciborium",
-            "a censer",
-            "a chalice",
-            "a cruet"
+            "A ciborium",
+            "A censer",
+            "A chalice",
+            "A cruet"
           ],
           "correctIndex": 2
         }
@@ -186,10 +186,10 @@
     "category": "ANCIENT BABYLON",
     "clue": "An Oxford researcher says this terraced marvel that helped make Babylon famous was actually in Assyria",
     "choices": [
-      "the Hanging Gardens",
-      "the Tower of Babel",
-      "the Ishtar Gate",
-      "the Ziggurat of Ur"
+      "The Hanging Gardens",
+      "The Tower of Babel",
+      "The Ishtar Gate",
+      "The Ziggurat of Ur"
     ],
     "correctIndex": 0
   }

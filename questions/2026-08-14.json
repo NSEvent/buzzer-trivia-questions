@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-14",
+  "categories": [
+    {
+      "name": "NAME THE DIRECTOR",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"Always\", \"E.T.\", \"Jurassic Park\\\"",
+          "choices": [
+            "Francis Ford Coppola",
+            "Steven Spielberg",
+            "Martin Scorsese",
+            "Christopher Nolan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "1935: taking \"The 39 Steps\\\"",
+          "choices": [
+            "Hitchcock",
+            "Roman Polanski",
+            "Ridley Scott",
+            "David Lean"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "In 2017, a man unafraid of explosions: \"Transformers: The Last Knight\\\"",
+          "choices": [
+            "James Cameron",
+            "Quentin Tarantino",
+            "Paul Verhoeven",
+            "Michael Bay"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "1991: \"Point Break\" (she'd win a directing Oscar for a later film)",
+          "choices": [
+            "Jane Campion",
+            "Greta Gerwig",
+            "Ava DuVernay",
+            "(Kathryn) Bigelow"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"JFK', \"Talk Radio\", \"Born on the Fourth of July\\\"",
+          "choices": [
+            "Francis Ford Coppola",
+            "Martin Scorsese",
+            "Steven Spielberg",
+            "Oliver Stone"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "HIGH SOCIETY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The holder of this title of Devonshire welcomes tourists to his stately home, Chatsworth",
+          "choices": [
+            "Earl",
+            "Marquis",
+            "Duke",
+            "Viscount"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "The Palm Beach estate Mar-a-Lago was the home of this cereal heiress",
+          "choices": [
+            "Marjorie Merriweather Post",
+            "Alva Vanderbilt",
+            "Doris Duke",
+            "Brooke Astor"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Born on this island, Giuseppe di Lampedusa chronicled its declining aristocracy in \"The Leopard\\\"",
+          "choices": [
+            "Sardinia",
+            "Sicily",
+            "Corsica",
+            "Crete"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "In 1938, Brenda Frazier was the talk of society as this type of beginner",
+          "choices": [
+            "A debutante",
+            "A society matron",
+            "A debut ball chaperone",
+            "A high society hostess"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "In 1955 this five-and-dime heiress split from husband No. 5, playboy Porfirio Rubirosa, & married a baron",
+          "choices": [
+            "Gloria Vanderbilt",
+            "Barbara Hutton",
+            "Babe Paley",
+            "Daisy Fellowes"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "WHIPS & CHAINS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Used for flogging, it's a whip with 9 knotted cords fastened to a handle",
+          "choices": [
+            "Cat o' Two Tails",
+            "Bullwhip",
+            "Cat o' Nine Lives",
+            "Cat o' Nine Tails"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "With pathologist Howard Florey, biochemist Ernst Chain isolated & purified this antibiotic for general clinical use",
+          "choices": [
+            "Streptomycin",
+            "Tetracycline",
+            "Sulfanilamide",
+            "Penicillin"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Whip & hip whip are maneuvers in this sport portrayed in the movie \"Whip It\\\"",
+          "choices": [
+            "Roller derby",
+            "Ice hockey",
+            "Motocross",
+            "Track cycling"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Bitcoin uses this technology as its transaction record",
+          "choices": [
+            "Blockchain",
+            "Smart contract",
+            "Neural network",
+            "Cloud computing"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "It's a group of convicts linked together for outdoor labor",
+          "choices": [
+            "Labor camp",
+            "Penal colony",
+            "A chain gang",
+            "Convict lease"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "AMAZING ANIMALS",
+    "clue": "More than 140 species of these reef makers all spawn at the same time in the world's largest event of its kind",
+    "choices": [
+      "Sea anemone",
+      "Coral",
+      "Kelp",
+      "Sponge"
+    ],
+    "correctIndex": 1
+  }
+}

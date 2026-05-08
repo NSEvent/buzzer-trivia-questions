@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-19",
+  "categories": [
+    {
+      "name": "DANCE COMPANIES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Twyla Tharp choreographed \"Push Comes to Shove\" for this dance company abbreviated ABT",
+          "choices": [
+            "The American Ballet Theatre",
+            "The Royal Ballet",
+            "The Bolshoi Ballet",
+            "The New York City Ballet"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "In 1992 Joaquin Cortes formed his own company that featured this gypsy dance",
+          "choices": [
+            "Salsa",
+            "Tango",
+            "Flamenco",
+            "Capoeira"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "In 1991 this ballet company was officially renamed the St. Petersburg Ballet",
+          "choices": [
+            "The Bolshoi Ballet",
+            "The Kirov",
+            "The Royal Ballet",
+            "The Paris Opera Ballet"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This company's present artistic director is, fittingly, Kevin McKenzie from the good old United States",
+          "choices": [
+            "The New York City Ballet",
+            "The San Francisco Ballet",
+            "The American Ballet Theater",
+            "The Joffrey Ballet"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "In 1974 the Agnes De Mille Heritage Dance Theatre was founded at the North Carolina School of the Arts in this 2-name city",
+          "choices": [
+            "Winston-Salem",
+            "Wilmington",
+            "Charlotte",
+            "Greensboro"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "CHICKENS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The top producer of broilers in the U.S., this \"Razorback\" state turns out over ¾ of a billion annually",
+          "choices": [
+            "Georgia",
+            "Alabama",
+            "North Carolina",
+            "Arkansas"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Chickens were probably 1st domesticated on this continent",
+          "choices": [
+            "Africa",
+            "Asia",
+            "South America",
+            "Europe"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Of 7, 23, or 69 billion, approximate # of eggs laid in U.S. each year",
+          "choices": [
+            "7 billion",
+            "23 billion",
+            "12 billion",
+            "69 billion"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Some experts believe these fleshy features help chickens to keep cool",
+          "choices": [
+            "Wattles",
+            "Combs",
+            "Snoods",
+            "Earlobes"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Of 20, 45 or 60 lbs., the amount of chicken eaten per person each year in the U.S.",
+          "choices": [
+            "40 lbs.",
+            "50 lbs.",
+            "75 lbs.",
+            "60 lbs."
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "NFL COACHES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 2004 LSU coach Nick Saban was tapped to be the new head coach for this team",
+          "choices": [
+            "The Cleveland Browns",
+            "The New England Patriots",
+            "The Miami Dolphins",
+            "The Buffalo Bills"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Of current head coaches, this reigning Super Bowl champ has the longest consecutive tenure with 1 team",
+          "choices": [
+            "Tony Dungy",
+            "Bill Cowher",
+            "Mike Holmgren",
+            "Jon Gruden"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "The Raiders rehired this man in 2006, 17 years after making him the first black head coach in the modern NFL",
+          "choices": [
+            "Norv Turner",
+            "Jon Gruden",
+            "Art Shell",
+            "Tony Dungy"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "He spent his entire 29-year NFL head coaching career with one team",
+          "choices": [
+            "Don Shula",
+            "Bill Belichick",
+            "Paul Brown",
+            "Tom Landry"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "He won 112 games as coach of the Raiders & has since won over a dozen Emmys for his football commentating",
+          "choices": [
+            "Jon Gruden",
+            "John Madden",
+            "Pat Summerall",
+            "Mike Ditka"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "1988",
+    "clue": "On Broadway, \"Carrie\" & \"Chess\" closed quickly, but this musical with Michael Crawford was a hit",
+    "choices": [
+      "Les Misérables",
+      "Phantom Of The Opera",
+      "Starlight Express",
+      "Miss Saigon"
+    ],
+    "correctIndex": 1
+  }
+}

@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Shake \"it\" off a fundamental force & it's all this, sauce for turkey & mashed potatoes",
           "choices": [
-            "gravy",
-            "gravy (from gravity)",
-            "drizzle",
-            "jus"
+            "Gravy",
+            "Gravy (from gravity)",
+            "Drizzle",
+            "Jus"
           ],
           "correctIndex": 1
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Beignets are usually covered with piles of this stuff, so you may want to shake a little off if you don't want a mess",
           "choices": [
-            "cinnamon sugar",
-            "cocoa powder",
-            "granulated sugar",
-            "powdered sugar"
+            "Cinnamon sugar",
+            "Cocoa powder",
+            "Granulated sugar",
+            "Powdered sugar"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Here's this breed of herding dog shake, shake, shaking it off",
           "choices": [
-            "an Australian Shepherd",
-            "a Shetland Sheepdog",
-            "a Border Collie",
-            "a Welsh Corgi"
+            "An Australian Shepherd",
+            "A Shetland Sheepdog",
+            "A Border Collie",
+            "A Welsh Corgi"
           ],
           "correctIndex": 2
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Shake \"it\" off from something more important than other things to get this type of religious house",
           "choices": [
-            "a monastery",
-            "an abbey",
-            "a convent",
-            "a priory (from priority)"
+            "A monastery",
+            "An abbey",
+            "A convent",
+            "A priory (from priority)"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "If you're \"anti-\" allergies, you can shake off symptoms with one of these drugs like Zyrtec",
           "choices": [
-            "a decongestant",
-            "a corticosteroid",
-            "an epinephrine",
-            "an antihistamine"
+            "A decongestant",
+            "A corticosteroid",
+            "An epinephrine",
+            "An antihistamine"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "The Belle Chasse Ferry takes people from Belle Chasse, Louisiana across this big river",
           "choices": [
-            "the Missouri",
-            "the Mississippi",
-            "the Red River",
-            "the Atchafalaya"
+            "The Missouri",
+            "The Mississippi",
+            "The Red River",
+            "The Atchafalaya"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "About 120 times a day Texas' Los Ebanos Ferry is pulled by hand across this river",
           "choices": [
-            "the Colorado River",
+            "The Colorado River",
             "Rio Grande",
-            "the Pecos River",
-            "the Nueces River"
+            "The Pecos River",
+            "The Nueces River"
           ],
           "correctIndex": 1
         },
@@ -188,8 +188,8 @@
     "choices": [
       "Route 40",
       "Route 66",
-      "the Lincoln Highway",
-      "the Santa Fe Trail"
+      "The Lincoln Highway",
+      "The Santa Fe Trail"
     ],
     "correctIndex": 1
   },

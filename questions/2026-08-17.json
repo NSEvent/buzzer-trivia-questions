@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-17",
+  "categories": [
+    {
+      "name": "PUERTO RICO",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The vast majority of Puerto Ricans are of this religion",
+          "choices": [
+            "Protestant",
+            "Muslim",
+            "Jewish",
+            "Catholic"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "In 1509 he became Puerto Rico's first governor; 4 years later he sailed for Florida",
+          "choices": [
+            "Ponce de Leon",
+            "Hernán Cortés",
+            "Francisco Pizarro",
+            "Vasco Núñez de Balboa"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Now a popular tourist attraction, El Morro Fortress was built by the Spaniards to guard this city's bay",
+          "choices": [
+            "Ponce",
+            "Mayagüez",
+            "San Juan",
+            "Arecibo"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "An annual music festival was founded by this cellist who moved to Puerto Rico in 1956",
+          "choices": [
+            "Yo-Yo Ma",
+            "Pablo Casals",
+            "Mstislav Rostropovich",
+            "Jacqueline du Pré"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "In 1987 this king became the first Spanish monarch ever to visit Puerto Rico",
+          "choices": [
+            "Philip II",
+            "Alfonso XII",
+            "Ferdinand VII",
+            "Juan Carlos"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "GEOGRAPHIC NICKNAMES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It's \"The City of David\\\"",
+          "choices": [
+            "Hebron",
+            "Jerusalem",
+            "Bethlehem",
+            "Nazareth"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "The poet Tibullus called this city \"Urbs Aeterna\\\"",
+          "choices": [
+            "Athens",
+            "Rome",
+            "Florence",
+            "Venice"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "State capital that's \"the Mormon Metropolis\\\"",
+          "choices": [
+            "Salt Lake City",
+            "Denver",
+            "Carson City",
+            "Boise"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Before it blew its top, this U.S. peak was the Fuji of the West",
+          "choices": [
+            "Mount Rainier",
+            "Mount St. Helens",
+            "Mount Hood",
+            "Mount Shasta"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Portland, Oregon is \"The City of\" these flowers",
+          "choices": [
+            "Tulips",
+            "Roses",
+            "Daffodils",
+            "Orchids"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "SAINTS BE PRAISED",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The first American citizen canonized was an immigrant from this country",
+          "choices": [
+            "Ireland",
+            "Poland",
+            "Germany",
+            "Italy (Mother Cabrini)"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "A Memphis hospital is named for this patron saint of desperate causes",
+          "choices": [
+            "Saint Jude",
+            "Saint Anthony",
+            "Saint Christopher",
+            "Saint Francis"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "This female mystic from Avila was a contemporary of El Greco",
+          "choices": [
+            "Saint Catherine of Siena",
+            "Saint Joan of Arc",
+            "Saint Thérèse of Lisieux",
+            "Saint Teresa of Avila"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "An immigrant herself, this Italian-American mother is the patron saint of immigrants",
+          "choices": [
+            "Mother Teresa",
+            "Saint Elizabeth Ann Seton",
+            "Mother Cabrini",
+            "Saint Katharine Drexel"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "This New Testament martyr is the patron saint of bricklayers",
+          "choices": [
+            "Saint Peter",
+            "Saint Stephen",
+            "Saint Lawrence",
+            "Saint Bartholomew"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "HIGH",
+    "clue": "The Gross-Glocknerstrasse highway rises to about 8,000 feet when passing through this mountain range",
+    "choices": [
+      "The Pyrenees",
+      "The Carpathians",
+      "The Alps",
+      "The Apennines"
+    ],
+    "correctIndex": 2
+  }
+}

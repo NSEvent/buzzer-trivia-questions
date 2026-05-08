@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "In a Stendhal novel, Julien must choose between joining the army or the church, symbolized by these 2 colors",
           "choices": [
-            "the blue and the gold",
-            "the red and the black",
-            "the black and the white",
-            "the blue and the black"
+            "The blue and the gold",
+            "The red and the black",
+            "The black and the white",
+            "The blue and the black"
           ],
           "correctIndex": 1
         },
@@ -69,9 +69,9 @@
           "clue": "Herman Tarnower & Nathan Pritikin rode the bestseller lists with books on doing this",
           "choices": [
             "Dieting",
-            "exercising",
-            "investing",
-            "meditating"
+            "Exercising",
+            "Investing",
+            "Meditating"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "In December, the price of this precious metal topped $500 per troy ounce for the first time",
           "choices": [
-            "gold",
-            "silver",
-            "platinum",
-            "oil"
+            "Gold",
+            "Silver",
+            "Platinum",
+            "Oil"
           ],
           "correctIndex": 0
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "He's Dr. Dolittle's mythical 2-headed llama-like creature",
           "choices": [
-            "pushmi-pullyu",
-            "the crocodile",
-            "the gazelle",
-            "the hippogriff"
+            "Pushmi-pullyu",
+            "The crocodile",
+            "The gazelle",
+            "The hippogriff"
           ],
           "correctIndex": 0
         },
@@ -172,9 +172,9 @@
           "value": 1000,
           "clue": "Appropriately, this Andersen heroine had \"eyes as blue as the deepest sea\\\"",
           "choices": [
-            "the Snow Queen",
+            "The Snow Queen",
             "Gerda",
-            "the Little Mermaid",
+            "The Little Mermaid",
             "Thumbelina"
           ],
           "correctIndex": 2

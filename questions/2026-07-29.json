@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "To call this ever-\"changing\" place, ring on 7930 4832\u2014you never know, maybe Her Majesty will pick up",
+          "clue": "To call this ever-\"changing\" place, ring on 7930 4832—you never know, maybe Her Majesty will pick up",
           "choices": [
             "Buckingham Palace",
             "Windsor Castle",
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Call 7887 8888 to make sure the Magrittes & Picassos are hanging straight at this \"Modern\" place",
           "choices": [
-            "the National Gallery",
-            "the Tate",
-            "the Victoria and Albert Museum",
-            "the Courtauld Gallery"
+            "The National Gallery",
+            "The Tate",
+            "The Victoria and Albert Museum",
+            "The Courtauld Gallery"
           ],
           "correctIndex": 1
         },
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Robinson Crusoe wanted to brew this drink, but he had no hops, yeast or barrels to put it in",
           "choices": [
-            "beer",
-            "wine",
-            "mead",
-            "cider"
+            "Beer",
+            "Wine",
+            "Mead",
+            "Cider"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "It's the potent potable mentioned in a ditty in \"Treasure Island\\\"",
           "choices": [
-            "rum",
-            "gin",
-            "brandy",
-            "ale"
+            "Rum",
+            "Gin",
+            "Brandy",
+            "Ale"
           ],
           "correctIndex": 0
         },
@@ -186,10 +186,10 @@
     "category": "\\\"LING\" O",
     "clue": "\\\"Digit\"-al baby fish",
     "choices": [
-      "a fingerling",
-      "a thumbling",
-      "a toeling",
-      "a kneeling"
+      "A fingerling",
+      "A thumbling",
+      "A toeling",
+      "A kneeling"
     ],
     "correctIndex": 0
   }

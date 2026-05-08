@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-24",
+  "categories": [
+    {
+      "name": "PARTY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This type of shindig with all-white garb was made popular by the film \"Animal House\\\"",
+          "choices": [
+            "A masquerade ball",
+            "A toga party",
+            "A luau",
+            "A costume party"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Guess the girth is a popular game at this type of get-together",
+          "choices": [
+            "A bridal shower",
+            "A gender reveal party",
+            "A baby shower",
+            "A housewarming party"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Must have been quite a \"party\"; the British passed 1774's \"Intolerable Acts\" to punish Massachusetts for it",
+          "choices": [
+            "The Stamp Act protest",
+            "The Philadelphia Convention",
+            "The Boston Massacre",
+            "The Boston Tea Party"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "It's the beverage that would be most appropriate at the wild, riotous bacchanalia we've got planned",
+          "choices": [
+            "Champagne",
+            "Cider",
+            "Brandy",
+            "Wine"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This European party is named for the time of year when it's thrown",
+          "choices": [
+            "Oktoberfest",
+            "Carnival",
+            "La Tomatina",
+            "Mardi Gras"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "5 PEOPLE WHO'VE NEVER BEEN IN MY KITCHEN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Regis could tell you that this woman played Kathie Honey on \"Hee Haw Honeys\\\"",
+          "choices": [
+            "Ellen DeGeneres",
+            "Oprah Winfrey",
+            "Barbara Walters",
+            "Kathie Lee Gifford"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "The mojito, a rum & lime juice drink, was said to be a favorite of this \"Old Man and the Sea\" author",
+          "choices": [
+            "F. Scott Fitzgerald",
+            "Ernest Hemingway",
+            "John Steinbeck",
+            "Mark Twain"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "He died on May 5, 1821 on the island of St. Helena",
+          "choices": [
+            "Alexander the Great",
+            "King Louis XVI",
+            "Sir Ernest Shackleton",
+            "Napoleon Bonaparte"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "In 1976 Judy Rankin became the first woman to win more than $100,000 in a year playing this pro sport",
+          "choices": [
+            "Tennis",
+            "Basketball",
+            "Golf",
+            "Soccer"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Beating out better-known contenders, she was named Senator from New York in 2009",
+          "choices": [
+            "Hillary Clinton",
+            "Elizabeth Warren",
+            "Carolyn Maloney",
+            "Kirsten Gillibrand"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "BAND PRACTICE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Baton twirlers who perform with marching bands are called these",
+          "choices": [
+            "Cheerleaders",
+            "Drum majors",
+            "Field generals",
+            "Majorettes"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "The only common marching band instrument beaten on both sides",
+          "choices": [
+            "The bass drum",
+            "Snare drum",
+            "Timpani",
+            "Tenor drums"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "It's a long piece of music for a solo performer & symphony orchestra",
+          "choices": [
+            "Symphony",
+            "Sonata",
+            "Overture",
+            "Concerto"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Since 1801 this band has played at the inauguration of every American President",
+          "choices": [
+            "Army Band",
+            "Marine Corps",
+            "Navy Band",
+            "Air Force Band"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Traditionally, wind instruments are divided into woodwinds & these",
+          "choices": [
+            "Brass instruments",
+            "Percussion instruments",
+            "String instruments",
+            "Keyboard instruments"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THE FIRST MILLENNIUM",
+    "clue": "A major battle in 9 A.D. established this river as the boundary between the Roman Empire and Germany",
+    "choices": [
+      "The Danube",
+      "The Elbe",
+      "The Oder",
+      "The Rhine"
+    ],
+    "correctIndex": 3
+  }
+}

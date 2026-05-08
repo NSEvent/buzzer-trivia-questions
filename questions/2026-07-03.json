@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "On a snail, on ommatophore is a stalk with this at the end",
           "choices": [
-            "an eye",
-            "an antenna",
-            "a shell",
-            "a tentacle"
+            "An eye",
+            "An antenna",
+            "A shell",
+            "A tentacle"
           ],
           "correctIndex": 0
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "If you set some Chinese punk on fire, it's because Chinese punk is this, like sandalwood",
           "choices": [
-            "incense",
-            "a spice",
-            "a dye",
-            "a medicine"
+            "Incense",
+            "A spice",
+            "A dye",
+            "A medicine"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "It's your medium of travel if you're in a hoy",
           "choices": [
-            "air",
-            "land",
-            "water",
-            "ice"
+            "Air",
+            "Land",
+            "Water",
+            "Ice"
           ],
           "correctIndex": 2
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Mimic thrush",
           "choices": [
-            "a reptile",
-            "an insect",
-            "a mammal",
-            "bird"
+            "A reptile",
+            "An insect",
+            "A mammal",
+            "Bird"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "A celesta is one of these, struck by hammers",
           "choices": [
-            "a woodwind instrument",
-            "a musical instrument (an instrument accepted)",
-            "a string instrument",
-            "a brass instrument"
+            "A woodwind instrument",
+            "A musical instrument (an instrument accepted)",
+            "A string instrument",
+            "A brass instrument"
           ],
           "correctIndex": 1
         }
@@ -103,7 +103,7 @@
           "choices": [
             "Carmen",
             "Manon Lescaut",
-            "La Boh\u00e8me",
+            "La Bohème",
             "Madama Butterfly"
           ],
           "correctIndex": 1
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "In 1542 Francisco de Orellana began traveling down this river from Ecuador, reaching its mouth on the Atlantic",
           "choices": [
-            "the Orinoco",
-            "the Paran\u00e1",
-            "the Rio Negro",
-            "the Amazon"
+            "The Orinoco",
+            "The Paraná",
+            "The Rio Negro",
+            "The Amazon"
           ],
           "correctIndex": 3
         },
@@ -162,7 +162,7 @@
           "clue": "In 1824 this Brazilian emperor granted his country a constitution",
           "choices": [
             "Dom Pedro",
-            "Dom Jo\u00e3o",
+            "Dom João",
             "Dom Miguel",
             "Dom Afonso"
           ],
@@ -173,7 +173,7 @@
           "clue": "In 1541 Pedro de Valdivia, a soldier of this Inca conqueror, founded the city of Santiago in Chile",
           "choices": [
             "Pizarro",
-            "Cort\u00e9s",
+            "Cortés",
             "Balboa",
             "De Soto"
           ],

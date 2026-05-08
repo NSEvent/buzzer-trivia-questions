@@ -19,9 +19,9 @@
           "value": 400,
           "clue": "We don't know if the Earl Granville gave advice on outhouses as lord president of this council from 1751 to 1763",
           "choices": [
-            "the House of Lords",
+            "The House of Lords",
             "Parliament",
-            "the Star Chamber",
+            "The Star Chamber",
             "Privy Council"
           ],
           "correctIndex": 3
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "This 1623 edition of Shakespeare is dedicated to the Earls of Pembroke & Montgomery",
           "choices": [
-            "the Second Quarto",
-            "the Third Folio",
+            "The Second Quarto",
+            "The Third Folio",
             "First Folio",
-            "the Bad Quarto"
+            "The Bad Quarto"
           ],
           "correctIndex": 2
         },
@@ -69,8 +69,8 @@
           "clue": "On February 2, 1986, Pope John Paul II met with this exiled Buddhist leader",
           "choices": [
             "Thich Nhat Hanh",
-            "the Dalai Lama",
-            "the Panchen Lama",
+            "The Dalai Lama",
+            "The Panchen Lama",
             "D.T. Suzuki"
           ],
           "correctIndex": 1
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "(Jimmy of the Clue Crew stands beneath a tree in Cambodia.) Ficus religiosa is the fitting name of this type of common Asian tree under which Buddha gained enlightenment",
           "choices": [
-            "the banyan tree",
-            "the lotus",
-            "the bodhi (the bo tree accepted)",
-            "the bamboo"
+            "The banyan tree",
+            "The lotus",
+            "The bodhi (the bo tree accepted)",
+            "The bamboo"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "The name of this universal law of cause & effect is Sanskrit for \"deed\\\"",
           "choices": [
-            "dharma",
-            "karma",
-            "nirvana",
-            "samsara"
+            "Dharma",
+            "Karma",
+            "Nirvana",
+            "Samsara"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Not a riddle in the real sense, solving one of these paradoxical problems requires leaps of comprehension",
           "choices": [
-            "koan",
-            "a mantra",
-            "a sutra",
-            "a mandala"
+            "Koan",
+            "A mantra",
+            "A sutra",
+            "A mandala"
           ],
           "correctIndex": 0
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Viscount Melville Sound, part of the Northwest Passage, is an arm of this ocean",
           "choices": [
-            "the Pacific Ocean",
-            "the Atlantic Ocean",
+            "The Pacific Ocean",
+            "The Atlantic Ocean",
             "Hudson Bay",
-            "the Arctic Ocean"
+            "The Arctic Ocean"
           ],
           "correctIndex": 3
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "As in an old kitchen-based catchphrase meaning things are going well, \"Now we're\" doing this",
           "choices": [
-            "cooking with gas",
-            "firing on all cylinders",
-            "rolling in the dough",
-            "firing up the burners"
+            "Cooking with gas",
+            "Firing on all cylinders",
+            "Rolling in the dough",
+            "Firing up the burners"
           ],
           "correctIndex": 0
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "2-word term for a long, sustained siren sound heard after an air raid or other danger is over",
           "choices": [
-            "a warning shot",
-            "a cease fire",
-            "an all clear",
-            "a standby alert"
+            "A warning shot",
+            "A cease fire",
+            "An all clear",
+            "A standby alert"
           ],
           "correctIndex": 2
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "A feud ensued in the 1840s when Edwin Forrest made this sibilant sound watching rival actor William Macready",
           "choices": [
-            "hissing",
-            "booing",
-            "heckling",
-            "catcalling"
+            "Hissing",
+            "Booing",
+            "Heckling",
+            "Catcalling"
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Some dictionaries give \"thump\" as a synonym of this dull sound that's often on the same page",
           "choices": [
-            "a thwack",
-            "a clunk",
-            "a bump",
-            "thud (thunk accepted)"
+            "A thwack",
+            "A clunk",
+            "A bump",
+            "Thud (thunk accepted)"
           ],
           "correctIndex": 3
         }

@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "The 2 main gases in a star; fusion changes one into the other",
           "choices": [
-            "hydrogen & nitrogen",
-            "helium & oxygen",
-            "carbon & hydrogen",
-            "hydrogen & helium"
+            "Hydrogen & nitrogen",
+            "Helium & oxygen",
+            "Carbon & hydrogen",
+            "Hydrogen & helium"
           ],
           "correctIndex": 3
         },
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "You can recognize mule deer & elk tracks: they have this many toes per print",
           "choices": [
-            "four",
-            "two",
-            "three",
-            "six"
+            "Four",
+            "Two",
+            "Three",
+            "Six"
           ],
           "correctIndex": 1
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "(Sarah of the Clue Crew reports from Alaska.) In spring & summer, an elk's antlers are covered with material called this, like a \"crushed\" fabric",
           "choices": [
-            "suede",
-            "felt",
-            "cashmere",
-            "velvet"
+            "Suede",
+            "Felt",
+            "Cashmere",
+            "Velvet"
           ],
           "correctIndex": 3
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "The male of this small deer is prized for an oily excretion that's used to scent perfumes & soaps",
           "choices": [
-            "a civet",
-            "a sika deer",
-            "a caribou",
-            "a musk deer"
+            "A civet",
+            "A sika deer",
+            "A caribou",
+            "A musk deer"
           ],
           "correctIndex": 3
         }
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "The name of this lowest valued chess piece is from the Latin for \"foot soldier\\\"",
           "choices": [
-            "a pawn",
-            "a rook",
-            "a bishop",
-            "a knight"
+            "A pawn",
+            "A rook",
+            "A bishop",
+            "A knight"
           ],
           "correctIndex": 0
         },
@@ -199,7 +199,7 @@
     "choices": [
       "Yom Kippur",
       "Passover",
-      "the Sabbath",
+      "The Sabbath",
       "Rosh Hashanah"
     ],
     "correctIndex": 2

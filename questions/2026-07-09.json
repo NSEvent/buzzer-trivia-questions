@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "In Americana, a dude was an Easterner who went to vacation at one of these places",
           "choices": [
-            "a resort",
-            "a plantation",
-            "a frontier town",
-            "a ranch"
+            "A resort",
+            "A plantation",
+            "A frontier town",
+            "A ranch"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "The OED says a \"dude\" has \"fastidiousness in dress\", then as a synonym, uses this word that also has 2 \"D\"s",
           "choices": [
-            "a dapper",
-            "a fop",
-            "a dandy",
-            "a swell"
+            "A dapper",
+            "A fop",
+            "A dandy",
+            "A swell"
           ],
           "correctIndex": 2
         },
@@ -41,9 +41,9 @@
           "value": 800,
           "clue": "Grab your surfboard, rad boy! In Deuteronomy, this sea is referred to as the \"salt sea\\\"",
           "choices": [
-            "the Red Sea",
-            "the Sea of Galilee",
-            "the Mediterranean Sea",
+            "The Red Sea",
+            "The Sea of Galilee",
+            "The Mediterranean Sea",
             "Dead Sea"
           ],
           "correctIndex": 3

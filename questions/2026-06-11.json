@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "The doctrine of papal this was adopted in 1870 by a vote of 533-2; the 2 promptly declared, \"Now I believe\\\"",
           "choices": [
-            "sovereignty",
-            "infallibility",
-            "supremacy",
-            "infallibility"
+            "Sovereignty",
+            "Infallibility",
+            "Supremacy",
+            "Infallibility"
           ],
           "correctIndex": 1
         },
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Stuck traffic, especially because cars don't clear the intersection",
           "choices": [
-            "gridlock",
-            "a deadlock",
-            "a bottleneck",
-            "a standstill"
+            "Gridlock",
+            "A deadlock",
+            "A bottleneck",
+            "A standstill"
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "A ring projecting above the gunwale of a small boat",
           "choices": [
-            "an oarlock",
-            "a cleat",
-            "a rowlock",
-            "a davit"
+            "An oarlock",
+            "A cleat",
+            "A rowlock",
+            "A davit"
           ],
           "correctIndex": 0
         }
@@ -186,10 +186,10 @@
     "category": "AD-JECTIVES",
     "clue": "This column may precede \"tingling\" in ad copy for haunted houses & mystery novels",
     "choices": [
-      "neck",
-      "hair",
-      "spine",
-      "bone"
+      "Neck",
+      "Hair",
+      "Spine",
+      "Bone"
     ],
     "correctIndex": 2
   }

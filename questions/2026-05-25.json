@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Fought in 2 stages during the 1940s, the Greek Civil War saw those of this political philosophy try & fail to take control",
           "choices": [
-            "the Fascists",
-            "the Monarchists",
+            "The Fascists",
+            "The Monarchists",
             "Communists",
-            "the Nationalists"
+            "The Nationalists"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "In 2015 Greece signed a 3-year bailout program & this fund agreed to help if Europe restructured the debt",
           "choices": [
-            "the World Bank",
-            "the European Central Bank",
-            "the Federal Reserve",
-            "the IMF (the International Monetary Fund)"
+            "The World Bank",
+            "The European Central Bank",
+            "The Federal Reserve",
+            "The IMF (the International Monetary Fund)"
           ],
           "correctIndex": 3
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "In 1967 Greece's politicians worried about a coup by generals, but a group of this lower rank took over for 7 years",
           "choices": [
-            "the lieutenants",
-            "the majors",
-            "the sergeants",
-            "the colonels"
+            "The lieutenants",
+            "The majors",
+            "The sergeants",
+            "The colonels"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "In 2010 Greece was on the financial brink dealing with these \"measures\" whose name comes from a word meaning \"severe\\\"",
           "choices": [
-            "harsh measures",
-            "austere measures (austerity)",
-            "strict measures",
-            "drastic measures"
+            "Harsh measures",
+            "Austere measures (austerity)",
+            "Strict measures",
+            "Drastic measures"
           ],
           "correctIndex": 1
         }

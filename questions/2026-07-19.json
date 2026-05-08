@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "They could be called the 50 fleece fetchers",
           "choices": [
-            "the Olympians",
-            "the Argonauts",
-            "the Spartans",
-            "the Myrmidons"
+            "The Olympians",
+            "The Argonauts",
+            "The Spartans",
+            "The Myrmidons"
           ],
           "correctIndex": 1
         },
@@ -80,9 +80,9 @@
           "clue": "In this 1944 battle named for the shape of opposing lines, U.S. General Anthony McAuliffe replied \"Nuts!\" to a demand for surrender",
           "choices": [
             "Battle of the Bulge",
-            "the Battle of the Bulge",
+            "The Battle of the Bulge",
             "Operation Market Garden",
-            "the Battle of Anzio"
+            "The Battle of Anzio"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Grover Cleveland holds the record for these in a single session of Congress with 212",
           "choices": [
-            "a pocket veto",
-            "a veto",
-            "a filibuster",
-            "a line-item veto"
+            "A pocket veto",
+            "A veto",
+            "A filibuster",
+            "A line-item veto"
           ],
           "correctIndex": 1
         },

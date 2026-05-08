@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Only 2 senators voted against the Tonkin Resolution, which immersed us in this war",
           "choices": [
-            "the Korean War",
-            "the Gulf War",
-            "the Vietnam War",
-            "the Spanish-American War"
+            "The Korean War",
+            "The Gulf War",
+            "The Vietnam War",
+            "The Spanish-American War"
           ],
           "correctIndex": 2
         },
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "A home run with the bases loaded",
           "choices": [
-            "a go-ahead run",
-            "a golden run",
-            "a grand prix",
-            "a grand slam"
+            "A go-ahead run",
+            "A golden run",
+            "A grand prix",
+            "A grand slam"
           ],
           "correctIndex": 3
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "It's the 2-word nickname for the Mongol army that overran Eastern Europe",
           "choices": [
-            "the Green Dragon",
-            "the Great Horde",
-            "the Golden Horde",
-            "the Ghost Army"
+            "The Green Dragon",
+            "The Great Horde",
+            "The Golden Horde",
+            "The Ghost Army"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "It's not dad's dad, it's a large gray dolphin with a blunt snout",
           "choices": [
-            "a grampus",
-            "a grouper",
-            "a gannet",
-            "a gudgeon"
+            "A grampus",
+            "A grouper",
+            "A gannet",
+            "A gudgeon"
           ],
           "correctIndex": 0
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "This colorless oil is also called liquid petrolatum",
           "choices": [
-            "machine oil",
-            "mineral oil",
-            "motor oil",
-            "methanol"
+            "Machine oil",
+            "Mineral oil",
+            "Motor oil",
+            "Methanol"
           ],
           "correctIndex": 1
         },
@@ -161,7 +161,7 @@
           "value": 800,
           "clue": "Called Peru's chief tourist attraction, it was discovered by an American, Hiram Bingham",
           "choices": [
-            "Monte Alb\u00e1n",
+            "Monte Albán",
             "Mohenjo-daro",
             "Machu Picchu",
             "Montezuma's Castle"
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "In Britain's M1, which opened in 1959 & links north to south, M stands for this",
           "choices": [
-            "a main road",
-            "a macadam",
-            "a median",
-            "motorway"
+            "A main road",
+            "A macadam",
+            "A median",
+            "Motorway"
           ],
           "correctIndex": 3
         }

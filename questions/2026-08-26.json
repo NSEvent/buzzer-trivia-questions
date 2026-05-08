@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-26",
+  "categories": [
+    {
+      "name": "NEW ENGLAND",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It's the largest city in New England",
+          "choices": [
+            "Providence",
+            "Portland",
+            "Boston",
+            "Hartford"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "In the early 18th century the sperm oil trade originated on this island 25 miles south of Cape Cod",
+          "choices": [
+            "Nantucket",
+            "Martha's Vineyard",
+            "Block Island",
+            "Monhegan Island"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "It's the only U.S. military academy located in New England",
+          "choices": [
+            "The Coast Guard Academy",
+            "United States Military Academy",
+            "United States Naval Academy",
+            "United States Air Force Academy"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Of this state's 8 incorporated cities, 7 are located in the Narragansett Bay area",
+          "choices": [
+            "Rhode Island",
+            "Connecticut",
+            "Massachusetts",
+            "New Hampshire"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "When the British tried to take back Conn.'s charter, it was hidden, tradition says, in this type of tree",
+          "choices": [
+            "Elm",
+            "Sycamore",
+            "Maple",
+            "Oak"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "AUTO SHOP",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It keeps your neck warm in the winter, or your engine quiet all year",
+          "choices": [
+            "A muffler",
+            "A radiator",
+            "A spark plug",
+            "A brake pad"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "You might throw a fit if you \"throw\" this part joining the crankshaft & piston",
+          "choices": [
+            "A piston pin",
+            "A crankshaft",
+            "A connecting rod",
+            "A camshaft"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "It changes exhaust hydrocarbons and carbon monoxide into carbon dioxide and water",
+          "choices": [
+            "An oxygen sensor",
+            "A fuel injector",
+            "A charcoal canister",
+            "A catalytic converter"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Part that is capped after putting in points and a condenser",
+          "choices": [
+            "The ignition coil",
+            "The spark plug",
+            "The distributor",
+            "The rotor"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "In newer cars it has generally replaced the generator for keeping the battery charged",
+          "choices": [
+            "The voltage regulator",
+            "The starter motor",
+            "The dynamo",
+            "An alternator"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "TOUGH LIT",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Tennyson's \"Ode On the Death of the Duke Of\" this place was considered pretty beefy by some",
+          "choices": [
+            "Wellington",
+            "Waterloo",
+            "York",
+            "Somerset"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This author's \"The Awakening\" finds Mme. Pontellier shaken by the appropriate strains of a Polish composer",
+          "choices": [
+            "Chopin",
+            "Paderewski",
+            "Szymanowski",
+            "Moniuszko"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "He dedicated his \"Barrack-Room Ballads\" to Wolcott Balestier, an American publisher who was his brother-in-law",
+          "choices": [
+            "Joseph Conrad",
+            "(Rudyard) Kipling",
+            "H.G. Wells",
+            "Robert Louis Stevenson"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Hawthorne's \"The Marble\" this was inspired by a Praxiteles sculpture",
+          "choices": [
+            "Satyr",
+            "Minotaur",
+            "Faun",
+            "Centaur"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "In 1929 the Nobel Prize for Literature was bestowed on this \"Magic Mountain\" author",
+          "choices": [
+            "Thomas Mann",
+            "Hermann Hesse",
+            "Franz Kafka",
+            "Stefan Zweig"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "10-LETTER NAMES",
+    "clue": "This feminine name, a diminutive of Bernard, is especially popular at Lourdes",
+    "choices": [
+      "Genevieve",
+      "Bernadette",
+      "Claudette",
+      "Marcelle"
+    ],
+    "correctIndex": 1
+  }
+}

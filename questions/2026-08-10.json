@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-10",
+  "categories": [
+    {
+      "name": "\\\"CHECK\" MATE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The procedure involving paying your hotel bill & leaving",
+          "choices": [
+            "Concierge",
+            "Room service",
+            "Checkout",
+            "Valet"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "It's given by a store as a price guarantee when it runs out of a sale item",
+          "choices": [
+            "Store credit",
+            "Gift certificate",
+            "A rain check",
+            "Loyalty card"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "In 1960 & 1962 he twisted his way into the No. 1 spot on the charts with \"The Twist\\\"",
+          "choices": [
+            "Chuck Berry",
+            "Little Richard",
+            "Chubby Checker",
+            "Dick Clark"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "A coupon that guarantees an offer that cannot be fulfilled at the present time",
+          "choices": [
+            "Promotional voucher",
+            "Rain check",
+            "Price match coupon",
+            "Store credit"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "It's where police inspect vehicles at a border crossing",
+          "choices": [
+            "Checkpoint",
+            "Roadblock",
+            "Outpost",
+            "Barrier"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "BLUE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It's the only \"blue\" book Dr. Seuss published",
+          "choices": [
+            "\"The Cat in the Hat\"",
+            "\\\"One Fish, Two Fish, Red Fish, Blue Fish\\\"",
+            "\"Green Eggs and Ham\"",
+            "\"How the Grinch Stole Christmas!\""
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Until 1969 Project Blue Book investigated these phenomena; of the 12,618 sightings, only 701 have not been identified",
+          "choices": [
+            "UAPs",
+            "ETs",
+            "Spacemen",
+            "UFOs"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Coral reefs are home to the blue fish known by this 4-letter name",
+          "choices": [
+            "A goby",
+            "A pike",
+            "A tang",
+            "A carp"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "A's owner Charlie Finley wanted this pitcher to change his first name to \"True\\\"",
+          "choices": [
+            "Blue Moon Odom",
+            "Vida Blue",
+            "Catfish Hunter",
+            "Rollie Fingers"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "In Ethiopia, it's known as the Abbai",
+          "choices": [
+            "Blue Nile",
+            "White Nile",
+            "Niger River",
+            "Blue Danube"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "DATES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "D-Day, the day on which Allied forces invaded Western Europe, occurred on this date in 1944",
+          "choices": [
+            "June 5",
+            "June 7",
+            "May 6",
+            "June 6"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "It's Joan of Arc's feast day, & the traditional date of Memorial Day",
+          "choices": [
+            "May 29",
+            "May 31",
+            "May 30",
+            "June 1"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Until it was moved up to January 20, this was the official presidential inauguration date",
+          "choices": [
+            "February 4th",
+            "April 20th",
+            "January 15th",
+            "March 4th"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "1926 date on which Houdini died",
+          "choices": [
+            "October 31st",
+            "September 30th",
+            "December 25th",
+            "November 1st"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "The Dominion of Canada was proclaimed on this date in 1867",
+          "choices": [
+            "July 1st",
+            "August 15th",
+            "June 14th",
+            "May 31st"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "TV SISTERS",
+    "clue": "1 of the 4 adult actresses who play the 4 sisters on \"Sisters\\\"",
+    "choices": [
+      "Linda Hamilton",
+      "Cybill Shepherd",
+      "Jane Seymour",
+      "(1 of) Swoosie Kurtz (Julianne Phillips, Sela Ward or Patricia Kalember)"
+    ],
+    "correctIndex": 3
+  }
+}

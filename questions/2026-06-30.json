@@ -9,7 +9,7 @@
           "clue": "In 1925, he dictated his autobiography to fellow prisoner Rudolf Hess",
           "choices": [
             "Joseph Goebbels",
-            "Hermann G\u00f6ring",
+            "Hermann Göring",
             "Adolf Hitler",
             "Martin Bormann"
           ],
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "The floor of a boxing ring",
           "choices": [
-            "canopy",
-            "canteen",
-            "canto",
-            "canvas"
+            "Canopy",
+            "Canteen",
+            "Canto",
+            "Canvas"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "A slang term for a French Canadian, or an NHL player from the other side of the country",
           "choices": [
-            "a Canayen",
-            "a Quebecker",
-            "a Canucker",
-            "a Canuck"
+            "A Canayen",
+            "A Quebecker",
+            "A Canucker",
+            "A Canuck"
           ],
           "correctIndex": 3
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Ill-tempered & quarrelsome",
           "choices": [
-            "cankerous",
-            "canorous",
-            "cankered",
-            "cantankerous"
+            "Cankerous",
+            "Canorous",
+            "Cankered",
+            "Cantankerous"
           ],
           "correctIndex": 3
         },
@@ -129,9 +129,9 @@
           "clue": "It's the name of the peninsula that includes Sweden & Norway as well as the region that also includes Denmark",
           "choices": [
             "Scandinavia",
-            "the Iberian Peninsula",
+            "The Iberian Peninsula",
             "Jutland",
-            "the Balkan Peninsula"
+            "The Balkan Peninsula"
           ],
           "correctIndex": 0
         },
@@ -152,7 +152,7 @@
           "choices": [
             "Hamburg",
             "Bremen",
-            "L\u00fcbeck",
+            "Lübeck",
             "Danzig"
           ],
           "correctIndex": 0
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Icebound from December to April, the Gulf of Riga is part of this 160,000-square-mile body of water",
           "choices": [
-            "the North Sea",
-            "the Baltic Sea",
-            "the Black Sea",
-            "the Adriatic Sea"
+            "The North Sea",
+            "The Baltic Sea",
+            "The Black Sea",
+            "The Adriatic Sea"
           ],
           "correctIndex": 1
         },
@@ -186,10 +186,10 @@
     "category": "HERE'S YOUR HAT",
     "clue": "A hat with this Spanish occupational name resembles the top of a bull's head, with 2 projections like horns",
     "choices": [
-      "matador (toreador accepted)",
-      "a picador",
-      "a banderillero",
-      "a torero"
+      "Matador (toreador accepted)",
+      "A picador",
+      "A banderillero",
+      "A torero"
     ],
     "correctIndex": 0
   }

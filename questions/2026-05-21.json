@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Twain said of this dance, \"I placed my hands before my face for very shame, but I looked through my fingers\\\"",
           "choices": [
-            "the waltz",
-            "the polka",
-            "the quadrille",
-            "the cancan"
+            "The waltz",
+            "The polka",
+            "The quadrille",
+            "The cancan"
           ],
           "correctIndex": 3
         },
@@ -21,7 +21,7 @@
           "choices": [
             "Monet",
             "Renoir",
-            "C\u00e9zanne",
+            "Cézanne",
             "Rodin"
           ],
           "correctIndex": 3
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "In the 1870s this type of bon vivant, so called for the wide streets he frequented, came into vogue",
           "choices": [
-            "a boulevardier",
-            "a fl\u00e2neur",
-            "a dandy",
-            "a rou\u00e9"
+            "A boulevardier",
+            "A flâneur",
+            "A dandy",
+            "A roué"
           ],
           "correctIndex": 0
         },
@@ -55,7 +55,7 @@
             "Joseph Bonaparte",
             "Lucien Bonaparte",
             "Napoleon III (or Louis-Napoleon)",
-            "J\u00e9r\u00f4me Bonaparte"
+            "Jérôme Bonaparte"
           ],
           "correctIndex": 2
         }
@@ -66,12 +66,12 @@
       "questions": [
         {
           "value": 200,
-          "clue": "Buzz in when you know this one \u2014 in ancient times, this sweet, sticky liquid was used to treat wounds",
+          "clue": "Buzz in when you know this one — in ancient times, this sweet, sticky liquid was used to treat wounds",
           "choices": [
             "Honey",
-            "vinegar",
-            "olive oil",
-            "beeswax"
+            "Vinegar",
+            "Olive oil",
+            "Beeswax"
           ],
           "correctIndex": 0
         },
@@ -79,9 +79,9 @@
           "value": 400,
           "clue": "It's the term for an animal that feeds mainly on grass & other plants",
           "choices": [
-            "an omnivore",
-            "a ruminant",
-            "a grazer",
+            "An omnivore",
+            "A ruminant",
+            "A grazer",
             "Herbivore"
           ],
           "correctIndex": 3
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "It's the medical term for bad breath",
           "choices": [
-            "gingivitis",
-            "halitosis",
-            "tonsillitis",
-            "xerostomia"
+            "Gingivitis",
+            "Halitosis",
+            "Tonsillitis",
+            "Xerostomia"
           ],
           "correctIndex": 1
         },
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Halogen elements produce these compounds, like the \"table\" kind",
           "choices": [
-            "acids",
-            "salts",
-            "oxides",
-            "hydroxides"
+            "Acids",
+            "Salts",
+            "Oxides",
+            "Hydroxides"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "As this halogen, atomic number 17, kills bacteria, it's used to purify drinking & pool water",
           "choices": [
-            "chlorine",
-            "bromine",
-            "fluorine",
-            "iodine"
+            "Chlorine",
+            "Bromine",
+            "Fluorine",
+            "Iodine"
           ],
           "correctIndex": 0
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Astatine is the only halogen whose isotopes are all this, which is why they have half-lives",
           "choices": [
-            "synthetic",
-            "unstable",
-            "radioactive",
-            "inert"
+            "Synthetic",
+            "Unstable",
+            "Radioactive",
+            "Inert"
           ],
           "correctIndex": 2
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "It takes about 15,000 tons of seawater to get one ton of this reddish-brown liquid used in sedatives",
           "choices": [
-            "bromine",
-            "iodine",
-            "chlorine",
-            "fluorine"
+            "Bromine",
+            "Iodine",
+            "Chlorine",
+            "Fluorine"
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "It combines with other elements more readily than any other element & reduces tooth decay",
           "choices": [
-            "chlorine",
-            "fluorine",
-            "iodine",
-            "bromine"
+            "Chlorine",
+            "Fluorine",
+            "Iodine",
+            "Bromine"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "FORBES' BILLIONAIRES",
     "clue": "Ironically, Dhanin Chearavanont made a fortune with this kind of \"feed\", slang for a small amount of money",
     "choices": [
-      "pig feed",
-      "chicken feed",
-      "cattle feed",
-      "fish feed"
+      "Pig feed",
+      "Chicken feed",
+      "Cattle feed",
+      "Fish feed"
     ],
     "correctIndex": 1
   }

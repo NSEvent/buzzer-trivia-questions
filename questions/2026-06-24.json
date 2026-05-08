@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "In prison, it's known as \"the hair curler\" because it gives you a \"permanent wave\\\"",
           "choices": [
-            "an electric chair",
-            "a gas chamber",
-            "a guillotine",
-            "a firing squad"
+            "An electric chair",
+            "A gas chamber",
+            "A guillotine",
+            "A firing squad"
           ],
           "correctIndex": 0
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Nations once called 'backward\" are now called this, like a Polaroid print",
           "choices": [
-            "emerging",
-            "underdeveloped",
+            "Emerging",
+            "Underdeveloped",
             "Developing",
-            "third-world"
+            "Third-world"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "In \"The Women's Room\" Mira finds this euphemism crossed off the toilet door",
           "choices": [
-            "women",
-            "females",
-            "ladies",
-            "dames"
+            "Women",
+            "Females",
+            "Ladies",
+            "Dames"
           ],
           "correctIndex": 2
         },
@@ -41,9 +41,9 @@
           "value": 800,
           "clue": "It's done to an error or a course, & it refers delicately to a fall in stock prices",
           "choices": [
-            "an adjustment",
-            "a pullback",
-            "a retracement",
+            "An adjustment",
+            "A pullback",
+            "A retracement",
             "Correction"
           ],
           "correctIndex": 3
@@ -55,7 +55,7 @@
             "Hades (Hell)",
             "Sheol",
             "Tartarus",
-            "purgatory"
+            "Purgatory"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "To get one of these is to gain an initial opportunity or introduction; don't get it caught in there",
           "choices": [
-            "a leg in the door",
-            "a foot in the door",
-            "a hand in the door",
-            "an arm in the door"
+            "A leg in the door",
+            "A foot in the door",
+            "A hand in the door",
+            "An arm in the door"
           ],
           "correctIndex": 1
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "To be rubbing these is to mingle; to bend them is to drink booze",
           "choices": [
-            "shoulders",
-            "knees",
-            "wrists",
-            "elbows"
+            "Shoulders",
+            "Knees",
+            "Wrists",
+            "Elbows"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "As a noun, it's a bony covering for a joint; as a verb, it means to disable that joint, or to really mess someone or something up",
           "choices": [
-            "a kneecap",
-            "a jawbone",
-            "a shinbone",
-            "a collarbone"
+            "A kneecap",
+            "A jawbone",
+            "A shinbone",
+            "A collarbone"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Quick-sounding term for a sudden feeling of euphoria, or a feeling of dizziness when you get up too fast",
           "choices": [
-            "a brain freeze",
-            "a sugar rush",
-            "a nose bleed",
-            "a head rush"
+            "A brain freeze",
+            "A sugar rush",
+            "A nose bleed",
+            "A head rush"
           ],
           "correctIndex": 3
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "A boss may threaten his employees with dismissal by saying these \"will roll\\\"",
           "choices": [
-            "necks",
-            "hides",
-            "scalps",
-            "heads"
+            "Necks",
+            "Hides",
+            "Scalps",
+            "Heads"
           ],
           "correctIndex": 3
         }
@@ -139,8 +139,8 @@
           "value": 400,
           "clue": "He was ruler of the Aztecs at the time Cortes came a-calling",
           "choices": [
-            "Cuauht\u00e9moc",
-            "Cuitl\u00e1huac",
+            "Cuauhtémoc",
+            "Cuitláhuac",
             "Itzcoatl",
             "Montezuma"
           ],
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "In 1975 Cambodia seized this American merchant ship on the Gulf of Siam, claiming it was a spy vessel",
           "choices": [
-            "the Pueblo",
+            "The Pueblo",
             "Mayaguez",
-            "the Stark",
-            "the Vincennes"
+            "The Stark",
+            "The Vincennes"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "AMERICAN SIGN LANGUAGE",
     "clue": "Here is the sign for this geometry term",
     "choices": [
-      "a parallel",
-      "a tangent",
-      "a perpendicular",
-      "a bisector"
+      "A parallel",
+      "A tangent",
+      "A perpendicular",
+      "A bisector"
     ],
     "correctIndex": 2
   }

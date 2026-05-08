@@ -28,11 +28,11 @@
         },
         {
           "value": 600,
-          "clue": "You're 20 years late\u2014Lagos was replaced in 1991 as the capital of this country",
+          "clue": "You're 20 years late—Lagos was replaced in 1991 as the capital of this country",
           "choices": [
             "Nigeria",
             "Tanzania",
-            "C\u00f4te d'Ivoire",
+            "Côte d'Ivoire",
             "Ghana"
           ],
           "correctIndex": 0
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "I'm afraid the Canary Islands weren't named for birds but for these",
           "choices": [
-            "dogs",
-            "canaries",
-            "goats",
-            "seals"
+            "Dogs",
+            "Canaries",
+            "Goats",
+            "Seals"
           ],
           "correctIndex": 0
         },
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "In Biblical times, this horn proclaimed the anointing of a new king",
           "choices": [
-            "a silver trumpet",
-            "a cornet",
-            "a lur",
-            "a shofar"
+            "A silver trumpet",
+            "A cornet",
+            "A lur",
+            "A shofar"
           ],
           "correctIndex": 3
         },
@@ -150,27 +150,27 @@
           "value": 600,
           "clue": "Washington Irving's 1835 \"A Tour on the Prairies\" describes one of these colorful novices who \"knew nothing of the woods\\\"",
           "choices": [
-            "a tenderfoot",
-            "a rookie",
-            "a greenhorn",
-            "a pilgrim"
+            "A tenderfoot",
+            "A rookie",
+            "A greenhorn",
+            "A pilgrim"
           ],
           "correctIndex": 2
         },
         {
           "value": 800,
-          "clue": "This wooden Swiss horn can be up to 10 feet long\u2014Ricola!",
+          "clue": "This wooden Swiss horn can be up to 10 feet long—Ricola!",
           "choices": [
-            "a didgeridoo",
-            "an alpenhorn",
-            "a recorder",
-            "a hurdy-gurdy"
+            "A didgeridoo",
+            "An alpenhorn",
+            "A recorder",
+            "A hurdy-gurdy"
           ],
           "correctIndex": 1
         },
         {
           "value": 1000,
-          "clue": "This British naval captain \"Endeavour\"ed to sail around the Horn\u2014& did in 1769",
+          "clue": "This British naval captain \"Endeavour\"ed to sail around the Horn—& did in 1769",
           "choices": [
             "Cook",
             "Captain Bligh",

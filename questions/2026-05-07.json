@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "This is the official currency of Japan, symbolized by the yen sign.",
           "choices": [
-            "the Won",
-            "the Yuan",
-            "the Yen",
-            "the Ringgit"
+            "The Won",
+            "The Yuan",
+            "The Yen",
+            "The Ringgit"
           ],
           "correctIndex": 2
         },
@@ -140,7 +140,7 @@
           "clue": "The pound sterling is the official currency of this island nation, the oldest currency still in use.",
           "choices": [
             "Ireland",
-            "the United Kingdom",
+            "The United Kingdom",
             "Iceland",
             "Australia"
           ],
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "This South African currency is named after the Witwatersrand ridge, where most of the country's gold deposits were found.",
           "choices": [
-            "the Rand",
-            "the Shilling",
-            "the Pula",
-            "the Kwacha"
+            "The Rand",
+            "The Shilling",
+            "The Pula",
+            "The Kwacha"
           ],
           "correctIndex": 0
         },
@@ -186,10 +186,10 @@
     "category": "Animal Architects",
     "clue": "This Australian bird builds the most elaborate structures of any animal, decorating its avenue-shaped bower with colorful objects to attract mates.",
     "choices": [
-      "the Lyrebird",
-      "the Bowerbird",
-      "the Weaver Finch",
-      "the Malleefowl"
+      "The Lyrebird",
+      "The Bowerbird",
+      "The Weaver Finch",
+      "The Malleefowl"
     ],
     "correctIndex": 1
   }

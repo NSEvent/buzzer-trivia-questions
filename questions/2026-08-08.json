@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-08",
+  "categories": [
+    {
+      "name": "GRAB A \"B\"ITE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It's just side pork that's been cured & smoked",
+          "choices": [
+            "Bacon",
+            "Beef",
+            "Bologna",
+            "Brisket"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Pears available in winter include the Bosc & this one",
+          "choices": [
+            "Banana",
+            "Blackberry",
+            "Bartlett",
+            "Boysenberry"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Try some borscht, traditionally made with these root vegetables",
+          "choices": [
+            "Beets",
+            "Beans",
+            "Broccoli",
+            "Bulbs"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Resembling tiny heads of cabbage, these are referenced as being in Belgium as early as the 13th century",
+          "choices": [
+            "Broccoli",
+            "Brussels sprouts",
+            "Bok choy",
+            "Brussels cabbage"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "How about a Caprese salad: fresh mozzarella, tomatoes & this herb",
+          "choices": [
+            "Oregano",
+            "Basil",
+            "Parsley",
+            "Thyme"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "COLLEGE HODGEPODGE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Check it out: in 2000, 17-year-old M.I.T. freshman Elina Groverman was the U.S. women's co-champ in this board game",
+          "choices": [
+            "Checkers",
+            "Backgammon",
+            "Chess",
+            "Go"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "This adjective for a second-year student is defined as \"intellectually pretentious\", \"conceited\" & \"immature\\\"",
+          "choices": [
+            "Freshman",
+            "Sophomoric",
+            "Junior",
+            "Senior"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "At Juilliard, not drama but this other \"d\"ivision requires students to take courses in anatomy & partnering",
+          "choices": [
+            "Dance",
+            "Ballet",
+            "Opera",
+            "Music"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "At Cambridge, this \"Lord\" of poetry became a lifelong friend of John Cam Hobhouse, who later went to Greece with him",
+          "choices": [
+            "Shelley",
+            "Wordsworth",
+            "Byron",
+            "Keats"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "(Hi. I'm Keith Olberman.) I started when I was 16 and I graduated at 20 with a B.S. in communications at this Ivy League school in Ithaca",
+          "choices": [
+            "Cornell",
+            "Harvard",
+            "Yale",
+            "Princeton"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "STARTS & ENDS WITH \"L\\\"",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Fatal, deadly",
+          "choices": [
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "Lethal"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Permitted by law, licit (5 letters)",
+          "choices": [
+            "Legal",
+            "Label",
+            "Layer",
+            "Level"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Ace to five & deuce to seven are types of this 5-card draw poker game",
+          "choices": [
+            "Omaha",
+            "Lowball",
+            "Razz",
+            "Stud"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Reasonable, makes perfect sense",
+          "choices": [
+            "Logical",
+            "Unknown",
+            "Unknown",
+            "Unknown"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "I'm gonna make a 4 \"A\" to the fridge, flop on the couch & be this adjective for lazy or without enthusiasm",
+          "choices": [
+            "Unknown",
+            "Unknown",
+            "Unknown",
+            "Lackadaisical"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "OHIO",
+    "clue": "Elected to the Senate in 1974, this Ohio native was even more famous for something he did 12 years before",
+    "choices": [
+      "John Glenn",
+      "Howard Metzenbaum",
+      "Neil Armstrong",
+      "Ted Strickland"
+    ],
+    "correctIndex": 0
+  }
+}

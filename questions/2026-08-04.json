@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-04",
+  "categories": [
+    {
+      "name": "ROCK STARS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Jay-Z joins her on \"Heartbreaker\\\"",
+          "choices": [
+            "Mariah Carey",
+            "Whitney Houston",
+            "Janet Jackson",
+            "Beyoncé"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Formerly known as Prince, he's now calling himself by this 2-word name",
+          "choices": [
+            "The Revolution",
+            "The Artist",
+            "The Kid",
+            "The Creator"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Son of another famous singer, he's the frontman for The Wallflowers",
+          "choices": [
+            "Jesse Dylan",
+            "Lenny Kravitz",
+            "Ryan Adams",
+            "Jakob Dylan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Serjical Strike is the label of Serj Tankian, known for starting this group in 1995",
+          "choices": [
+            "System of a Down",
+            "Slipknot",
+            "Tool",
+            "Linkin Park"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "This singer-songwriter helped create the California sound",
+          "choices": [
+            "Joni Mitchell",
+            "Jackson Browne",
+            "Warren Zevon",
+            "Stephen Stills"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "COCA-COLA",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "For a 1931 Coke calendar, he may have knocked out his artwork on a Saturday evening",
+          "choices": [
+            "Norman Rockwell",
+            "J.C. Leyendecker",
+            "Rockwell Kent",
+            "Maxfield Parrish"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This Hollywood star who later married the president of Pepsi once appeared in a Coke ad",
+          "choices": [
+            "Mae West",
+            "Joan Crawford",
+            "Rita Hayworth",
+            "Barbara Stanwyck"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Coca-Cola first advertised on live network TV in 1950 as a sponsor of this ventriloquist",
+          "choices": [
+            "Jimmy Nelson",
+            "Shari Lewis",
+            "Paul Winchell",
+            "Edgar Bergen"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "A part of Coca-Cola, this company named for its orange juice also makes Hi-C",
+          "choices": [
+            "Minute Maid",
+            "Tropicana",
+            "Simply Orange",
+            "Odwalla"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "In 1929 Coke first used the slogan \"The pause that\" does this",
+          "choices": [
+            "Revives",
+            "Refreshes",
+            "Energizes",
+            "Satisfies"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "\\\"D\" BRIEFING",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Necrolatry is the worship of this group who don't get around much anymore",
+          "choices": [
+            "The elderly",
+            "The dead",
+            "Ancestors",
+            "Spirits"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Edison liked it best: DC",
+          "choices": [
+            "Alternating current",
+            "Static electricity",
+            "Direct current",
+            "Magnetic flux"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This undemocratic type of government comes from the Latin for \"to say\\\"",
+          "choices": [
+            "A dictatorship",
+            "A monarchy",
+            "A theocracy",
+            "A tyranny"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Until 1971 college students could get these delays of military service & avoid Vietnam",
+          "choices": [
+            "Exemptions",
+            "Postponements",
+            "Deferments",
+            "Waivers"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Humorous poetry with irregular rhythm is known by this canine name",
+          "choices": [
+            "Limerick",
+            "Haiku",
+            "Ballad",
+            "Doggerel"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "ART CLASS",
+    "clue": "Though these colored chalklike sticks are synonymous with soft colors, many come in brilliant hues",
+    "choices": [
+      "Pastels",
+      "Charcoals",
+      "Crayons",
+      "Colored pencils"
+    ],
+    "correctIndex": 0
+  }
+}

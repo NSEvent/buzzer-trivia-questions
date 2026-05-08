@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-15",
+  "categories": [
+    {
+      "name": "WOODY GUTHRIE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "He's Woody's folk singer son, known for \"Alice's Restaurant\\\"",
+          "choices": [
+            "Pete Seeger",
+            "Ramblin' Jack Elliott",
+            "Arlo Guthrie",
+            "Phil Ochs"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "The title of this 1943 Woody autobiography is lifted from a song about a train",
+          "choices": [
+            "\\\"Bound For Glory\\\"",
+            "Dust Bowl Ballads",
+            "Pastures of Plenty",
+            "Hard Travelin'"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "The aging, ailing Woody was visited by Joan Baez & other stars in the early-'60s revival of this 4-letter style of music",
+          "choices": [
+            "Folk music",
+            "Blues",
+            "Jazz",
+            "Soul"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "In May 1939 Guthrie began writing his column \"Woody Sez\" for People's World, this party's newspaper",
+          "choices": [
+            "The Communist Party",
+            "The Socialist Party",
+            "The Democratic Party",
+            "The Labor Party"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Guthrie took the title for this 1943 autobiography from one of his songs about a train",
+          "choices": [
+            "Dust Bowl Ballads",
+            "The Long Haul",
+            "American Machine",
+            "Bound for Glory"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "NONPOTENT POTABLES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Hey this man! He started softening water in the '20s & founded his company in 1936",
+          "choices": [
+            "Hiram Fisher",
+            "Emmett Culligan",
+            "John Harbottle",
+            "Charles Seeberger"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "This soft drink was first sold in 1929 as \"Bib-Label Lithiated Lemon-Lime Soda\\\"",
+          "choices": [
+            "7 Up",
+            "Dr Pepper",
+            "Vernors",
+            "Canada Dry"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "In the '60s and '70s Anita Bryant told us it's \"not just for breakfast anymore\\\"",
+          "choices": [
+            "Grapefruit juice",
+            "Orange juice",
+            "Apple cider",
+            "Tomato juice"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Consumers named this citrus drink \"Code Red\" because its cherry rush captured it spirit",
+          "choices": [
+            "Pepsi",
+            "Coca-Cola",
+            "Orange Crush",
+            "Mountain Dew"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Herb Bishop named his soft drink Squirt because he thought it squirted this tangy citrus flavor",
+          "choices": [
+            "Lemon",
+            "Lime",
+            "Tangerine",
+            "Grapefruit"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "I REPRESENT",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Rep. Dick Gephardt",
+          "choices": [
+            "Missouri",
+            "Illinois",
+            "Kansas",
+            "Kentucky"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Sen. Evan Bayh",
+          "choices": [
+            "Ohio",
+            "Indiana",
+            "Michigan",
+            "Illinois"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Rep. Jesse Jackson Jr.",
+          "choices": [
+            "Mississippi",
+            "Illinois",
+            "Indiana",
+            "Georgia"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Rep. Barney Frank",
+          "choices": [
+            "New York",
+            "California",
+            "Connecticut",
+            "Massachusetts"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Rep. Mary Bono",
+          "choices": [
+            "New York",
+            "Florida",
+            "California",
+            "Texas"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "VOCABULARY",
+    "clue": "Hebrew for \"beasts\", this \"B\" word for something huge derives from the name of a beast in the Book of Job",
+    "choices": [
+      "Leviathan",
+      "Behemoth",
+      "Basilisk",
+      "Mammoth"
+    ],
+    "correctIndex": 1
+  }
+}

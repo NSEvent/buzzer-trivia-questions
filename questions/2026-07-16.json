@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "These oral receptors are divided into 4 types: acid, salty, bitter & sweet",
           "choices": [
-            "olfactory receptors",
-            "taste buds",
-            "papillae",
-            "nerve endings"
+            "Olfactory receptors",
+            "Taste buds",
+            "Papillae",
+            "Nerve endings"
           ],
           "correctIndex": 1
         },
@@ -19,21 +19,21 @@
           "value": 400,
           "clue": "In 1969 Marcian Hoff Jr. condensed all of a computer's arithmetic functions to this one tiny chip",
           "choices": [
-            "a transistor",
-            "a microprocessor chip",
-            "an integrated circuit",
-            "a logic gate"
+            "A transistor",
+            "A microprocessor chip",
+            "An integrated circuit",
+            "A logic gate"
           ],
           "correctIndex": 1
         },
         {
           "value": 600,
-          "clue": "(Kelly of the Clue Crew juices a lemon in the chemistry lab.) This acid\u2014C6H8O7\u2014is found in the juice I'm extracting",
+          "clue": "(Kelly of the Clue Crew juices a lemon in the chemistry lab.) This acid—C6H8O7—is found in the juice I'm extracting",
           "choices": [
-            "citric acid",
-            "ascorbic acid",
-            "malic acid",
-            "tartaric acid"
+            "Citric acid",
+            "Ascorbic acid",
+            "Malic acid",
+            "Tartaric acid"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "A leading lab technique, Western blot helps us identify specific sequences in these chains of amino acids",
           "choices": [
-            "nucleotides",
-            "proteins",
-            "lipids",
-            "polysaccharides"
+            "Nucleotides",
+            "Proteins",
+            "Lipids",
+            "Polysaccharides"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "William Gilbert coined the word electricity, which comes from the Latin word for this fossil resin",
           "choices": [
-            "amber",
-            "jet",
-            "copal",
-            "obsidian"
+            "Amber",
+            "Jet",
+            "Copal",
+            "Obsidian"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Uninvited guests who barge in on a party are said to do this, whether or not they wreck their cars",
           "choices": [
-            "crash it",
-            "bomb it",
-            "raid it",
-            "storm it"
+            "Crash it",
+            "Bomb it",
+            "Raid it",
+            "Storm it"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "The couple being feted at an anniversary party often stands in one of these lines to greet guests",
           "choices": [
-            "a buffet line",
-            "a chorus line",
-            "a receiving line",
-            "a welcome queue"
+            "A buffet line",
+            "A chorus line",
+            "A receiving line",
+            "A welcome queue"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "This word for a festive dance party may be an alteration of shindy, a synonym for an uproar",
           "choices": [
-            "shindig",
-            "a hootenanny",
-            "a hoedown",
-            "a hullabaloo"
+            "Shindig",
+            "A hootenanny",
+            "A hoedown",
+            "A hullabaloo"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "French for \"good journey\", or a type of party that's often held aboard ship",
           "choices": [
-            "a soir\u00e9e",
-            "a bon voyage",
-            "a f\u00eate",
-            "a d\u00e9jeuner"
+            "A soirée",
+            "A bon voyage",
+            "A fête",
+            "A déjeuner"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Schussboomers know the name of this after-schussing party contains the French word for \"after\\\"",
           "choices": [
-            "apr\u00e8s-race",
+            "Après-race",
             "Apres-ski",
-            "apr\u00e8s-match",
-            "apr\u00e8s-piste"
+            "Après-match",
+            "Après-piste"
           ],
           "correctIndex": 1
         }
@@ -139,9 +139,9 @@
           "value": 400,
           "clue": "For acid rain, the EPA says this measure is about 4.3",
           "choices": [
-            "the alkalinity level",
-            "the sulfate index",
-            "the conductivity reading",
+            "The alkalinity level",
+            "The sulfate index",
+            "The conductivity reading",
             "pH"
           ],
           "correctIndex": 3
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "At a warm one you get regular rain; at a cold one, thunderstorms",
           "choices": [
-            "a pressure system",
-            "a squall line",
-            "an air mass",
-            "a front"
+            "A pressure system",
+            "A squall line",
+            "An air mass",
+            "A front"
           ],
           "correctIndex": 3
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "For big raindrops, this fatal-sounding top speed reached at equilibrium between gravity & air resistance can approach 25 mph",
           "choices": [
-            "escape velocity",
-            "maximum velocity",
-            "terminal velocity",
-            "free fall speed"
+            "Escape velocity",
+            "Maximum velocity",
+            "Terminal velocity",
+            "Free fall speed"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Orographic precipitation is caused by moist air rising over one or more of these, oros in Greek",
           "choices": [
-            "hills",
-            "mountains",
-            "plateaus",
-            "ridges"
+            "Hills",
+            "Mountains",
+            "Plateaus",
+            "Ridges"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "STUCK IN THE MIDDLE WORD WITH YOU",
     "clue": "To intend something, or to be malicious",
     "choices": [
-      "spite",
-      "mean",
-      "nasty",
-      "plan"
+      "Spite",
+      "Mean",
+      "Nasty",
+      "Plan"
     ],
     "correctIndex": 1
   }

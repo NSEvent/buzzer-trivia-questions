@@ -10,7 +10,7 @@
           "choices": [
             "AAA",
             "AARP",
-            "the Good Sam Club",
+            "The Good Sam Club",
             "Allstate Motor Club"
           ],
           "correctIndex": 0
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "An allergy info card may list this one of the \"Big 9\", preventing a potentially deadly administration of tahini",
           "choices": [
-            "sesame",
-            "peanuts",
-            "shellfish",
-            "tree nuts"
+            "Sesame",
+            "Peanuts",
+            "Shellfish",
+            "Tree nuts"
           ],
           "correctIndex": 0
         },
@@ -41,21 +41,21 @@
           "value": 800,
           "clue": "A ticket stub from a concert at this outdoor venue, the summer home of the L.A. Philharmonic",
           "choices": [
-            "the Greek Theatre",
-            "the Hollywood Bowl",
-            "the Ravinia Festival",
+            "The Greek Theatre",
+            "The Hollywood Bowl",
+            "The Ravinia Festival",
             "Red Rocks Amphitheatre"
           ],
           "correctIndex": 1
         },
         {
           "value": 1000,
-          "clue": "A picture of my pooch\u2014this Swiss mountain dog",
+          "clue": "A picture of my pooch—this Swiss mountain dog",
           "choices": [
-            "an Appenzeller",
-            "a Bernese",
-            "a Greater Swiss Mountain Dog",
-            "an Entlebucher"
+            "An Appenzeller",
+            "A Bernese",
+            "A Greater Swiss Mountain Dog",
+            "An Entlebucher"
           ],
           "correctIndex": 1
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "They go in the left column on an accounting statement",
           "choices": [
-            "credits",
-            "assets",
-            "debits",
-            "liabilities"
+            "Credits",
+            "Assets",
+            "Debits",
+            "Liabilities"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "From the French for \"leading off\", it's a young woman introduced to fashionable society",
           "choices": [
-            "debutante",
-            "a socialite",
-            "an ing\u00e9nue",
-            "a cotillion"
+            "Debutante",
+            "A socialite",
+            "An ingénue",
+            "A cotillion"
           ],
           "correctIndex": 0
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "In 1858 Douglas & Lincoln engaged in 7 of them about slavery",
           "choices": [
-            "debates",
-            "orations",
-            "forums",
-            "speeches"
+            "Debates",
+            "Orations",
+            "Forums",
+            "Speeches"
           ],
           "correctIndex": 0
         }
@@ -150,7 +150,7 @@
           "value": 600,
           "clue": "The OED defines this 3-letter word from Mexican Spanish as \"a form of address for a man\\\"",
           "choices": [
-            "ese",
+            "Ese",
             "'vato'",
             "'hombre'",
             "'amigo'"
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "German for \"substitute\", like cubic zirconia for diamond",
           "choices": [
-            "facsimile",
+            "Facsimile",
             "Ersatz",
-            "surrogate",
-            "simulacrum"
+            "Surrogate",
+            "Simulacrum"
           ],
           "correctIndex": 1
         }

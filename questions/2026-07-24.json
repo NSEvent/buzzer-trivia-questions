@@ -42,9 +42,9 @@
           "clue": "You're headed to this island region of the Pacific that includes Melanesia, Micronesia & Polynesia",
           "choices": [
             "Oceania",
-            "the Caribbean",
+            "The Caribbean",
             "Southeast Asia",
-            "the Indian Subcontinent"
+            "The Indian Subcontinent"
           ],
           "correctIndex": 0
         },
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Named for the Virgin Mary, these carnivorous little red beetles can help rid your garden of aphids & other insects",
           "choices": [
-            "praying mantises",
-            "lacewings",
-            "ladybugs",
-            "ground beetles"
+            "Praying mantises",
+            "Lacewings",
+            "Ladybugs",
+            "Ground beetles"
           ],
           "correctIndex": 2
         },
@@ -139,9 +139,9 @@
           "value": 400,
           "clue": "(Sarah of the Clue Crew in the laboratory) A must for any gardener, a soil testing kit is used to take a reading of this level, a measure of acidity",
           "choices": [
-            "nitrogen content",
-            "moisture level",
-            "phosphorus level",
+            "Nitrogen content",
+            "Moisture level",
+            "Phosphorus level",
             "pH level"
           ],
           "correctIndex": 3
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Juniper & maple are good trees to use in this cultivating art whose name means \"plant in a tray\" in Japanese",
           "choices": [
-            "bonsai",
-            "ikebana",
-            "topiary",
-            "espalier"
+            "Bonsai",
+            "Ikebana",
+            "Topiary",
+            "Espalier"
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "So named because some mimic animal sensibilities, this plant shares its name with a popular brunch potent potable",
           "choices": [
-            "a bloody mary",
-            "a bellini",
-            "a mimosa",
-            "a screwdriver"
+            "A bloody mary",
+            "A bellini",
+            "A mimosa",
+            "A screwdriver"
           ],
           "correctIndex": 2
         }
@@ -186,10 +186,10 @@
     "category": "ON THE MENU",
     "clue": "The name of this beef cut next to the rib implies that it melts in your mouth",
     "choices": [
-      "the ribeye",
-      "the sirloin",
-      "tenderloin",
-      "the T-bone"
+      "The ribeye",
+      "The sirloin",
+      "Tenderloin",
+      "The T-bone"
     ],
     "correctIndex": 2
   }

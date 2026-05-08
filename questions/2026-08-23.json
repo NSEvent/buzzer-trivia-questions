@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-23",
+  "categories": [
+    {
+      "name": "THE WORLD AT WAR",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In October 1940 Italy launched an invasion of this country only to get routed by the gyros of General Papagos",
+          "choices": [
+            "Albania",
+            "Greece",
+            "Yugoslavia",
+            "Romania"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "In 1619 Rene Descartes went to join the army of the Duke of Bavaria during this decades-long war",
+          "choices": [
+            "The Hundred Years War",
+            "The 30 Years War",
+            "The Eighty Years War",
+            "The War of the Roses"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "On Dec. 2, 1941 German troops who wished they'd packed heavier got to the suburbs of this capital but no further",
+          "choices": [
+            "Kiev",
+            "Minsk",
+            "Moscow",
+            "Warsaw"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "On Oct. 20, 1944 Douglas MacArthur fulfilled this 3-word promise he'd made to the Philippine people in 1942",
+          "choices": [
+            "We will return",
+            "\\\"I shall return\\\"",
+            "Back I come soon",
+            "Soon we go home"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "This Japanese admiral planned and led the 1941 attack on Pearl Harbor",
+          "choices": [
+            "Admiral Yamamoto",
+            "Admiral Chuichi Nagumo",
+            "Admiral Jisaburō Ozawa",
+            "Admiral Soemu Toyoda"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "DISNEY FILM VOICES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Jerry Orbach looked very animated when he sang \"Be Our Guest\" in this 1991 film",
+          "choices": [
+            "Aladdin",
+            "The Lion King",
+            "Beauty and the Beast",
+            "The Little Mermaid"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Ellen DeGeneres was adorable as Dory, a fish with short-term memory loss, in this 2003 hit",
+          "choices": [
+            "Finding Nemo",
+            "A Bug's Life",
+            "Monsters, Inc.",
+            "Toy Story"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Eddie Murphy was dragon around as a dragon named Mushu in this 1998 release",
+          "choices": [
+            "Mulan",
+            "Pocahontas",
+            "Tangled",
+            "Brave"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Idina Menzel voiced the snow queen in 2013's \"Frozen\", while this \"Veronica Mars\" actress played her sister Anna",
+          "choices": [
+            "Kristen Bell",
+            "Alyson Hannigan",
+            "Zooey Deschanel",
+            "Aubrey Plaza"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Eleanor Audley played Eddie Albert's mother on \"Green Acres\" after voicing this villainess in \"Sleeping Beauty\\\"",
+          "choices": [
+            "Cruella de Vil",
+            "Ursula",
+            "Queen Grimhilde",
+            "Maleficent"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "WAR OF THE WORDS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A public official might have this war word \"of interest\" & have to recuse himself",
+          "choices": [
+            "A bias",
+            "A financial stake",
+            "A conflict",
+            "A personal connection"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Gore Vidal said he loathed this \"In Cold Blood\" writer \"the way you might loathe... a filthy animal\\\"",
+          "choices": [
+            "Norman Mailer",
+            "Tom Wolfe",
+            "Capote",
+            "Hunter S. Thompson"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Not the Pickwick but the Garrick Club was the site of conversations that caused a falling out between Thackeray & this author",
+          "choices": [
+            "George Eliot",
+            "Dickens",
+            "Anthony Trollope",
+            "Wilkie Collins"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Poet Wallace Stevens' feud with this novelist erupted into punches in a Key West street",
+          "choices": [
+            "Tennessee Williams",
+            "Hemingway",
+            "F. Scott Fitzgerald",
+            "James Jones"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "In 1976, Mario Vargas Llosa gave this other 3-named South American Nobelist a literal black eye",
+          "choices": [
+            "Gabriel García Márquez",
+            "Miguel Ángel Asturias",
+            "Octavio Paz",
+            "Jorge Amado"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "HEALTH CARE",
+    "clue": "It's the AL in ALFA, an association of communities for seniors who don't quite need nursing homes",
+    "choices": [
+      "Independent living",
+      "Memory care",
+      "Assisted living",
+      "Skilled nursing"
+    ],
+    "correctIndex": 2
+  }
+}

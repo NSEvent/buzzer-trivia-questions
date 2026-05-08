@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-06",
+  "categories": [
+    {
+      "name": "OLD NEWS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1989 this president vetoed a bill that would raise the minimum wage",
+          "choices": [
+            "Ronald Reagan",
+            "Bill Clinton",
+            "Jimmy Carter",
+            "George H. W. Bush"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "In the 10th century he moved to Iceland with his father, Thorvald Asvaldsson",
+          "choices": [
+            "Leif Erikson",
+            "Erik the Red",
+            "Harald Fairhair",
+            "Ragnar Lothbrok"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "In 1982 this country's Ayatollah Khomeini called upon the Iraqi people to overthrow Saddam Hussein",
+          "choices": [
+            "Iraq",
+            "Afghanistan",
+            "Saudi Arabia",
+            "Iran"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "In 1980 the U.N. approved a resolution deploring this country's invasion of Afghanistan",
+          "choices": [
+            "United States",
+            "Russia (or the USSR)",
+            "China",
+            "North Korea"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "In 1985 Greek & Turkish community leaders failed to reach an agreement for this island's reunification",
+          "choices": [
+            "Crete",
+            "Malta",
+            "Cyprus",
+            "Sicily"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "FOOD, GLORIOUS FOOD",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Many enjoy these \"love apples\" sun-dried",
+          "choices": [
+            "Peppers",
+            "Tomatoes",
+            "Eggplants",
+            "Potatoes"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Devonshire clotted cream is a traditional topping for these biscuit-like treats",
+          "choices": [
+            "Scones",
+            "Shortcakes",
+            "Muffins",
+            "Croissants"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "She wrote the ever-popular \"Boston Cooking School Cook Book\" in 1896",
+          "choices": [
+            "Julia Child",
+            "Isabella Beeton",
+            "Fannie Farmer",
+            "Irma Rombauer"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Italian for \"cooked\", it's a pork & beef salami that contains whole peppercorns",
+          "choices": [
+            "Prosciutto",
+            "Cotto",
+            "Mortadella",
+            "Pancetta"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Texas grows a Texas-sized amount of blue corn, often used to make these unleavened flat breads",
+          "choices": [
+            "Tortas",
+            "Tamales",
+            "Tostadas",
+            "Tortillas"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "BOOK TO MOVIE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"Shoeless Joe\" by W.P. Kinsella",
+          "choices": [
+            "Field of Dreams",
+            "The Natural",
+            "A League of Their Own",
+            "Bull Durham"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "1905's \"The Clansman\" by Thomas Dixon, Jr. became this silent D.W. Griffith classic",
+          "choices": [
+            "Intolerance",
+            "Birth of a Nation",
+            "The Kid",
+            "Metropolis"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "The novella \"The Body\" by Stephen King",
+          "choices": [
+            "The Shawshank Redemption",
+            "It",
+            "Cujo",
+            "Stand By Me"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Larry McMurtry's \"Horseman, Pass By\" inspired this 1963 Paul Newman film",
+          "choices": [
+            "Hud",
+            "Cool Hand Luke",
+            "The Hustler",
+            "The Sting"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Kubrick filmed \"Dream Story\" by Arthur Schnitzler under this title",
+          "choices": [
+            "A Clockwork Orange",
+            "The Shining",
+            "Eyes Wide Shut",
+            "2001: A Space Odyssey"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "SURVEYS",
+    "clue": "By order of popularity, the top 5 in L.A. are Lady, Max, Brandy, Duke & Rocky",
+    "choices": [
+      "Cat names",
+      "Baby names",
+      "Dog names",
+      "Horse names"
+    ],
+    "correctIndex": 2
+  }
+}

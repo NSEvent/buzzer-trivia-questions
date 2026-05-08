@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Walk like a duck",
           "choices": [
-            "toddle",
-            "shuffle",
-            "waddle",
-            "wobble"
+            "Toddle",
+            "Shuffle",
+            "Waddle",
+            "Wobble"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "A golf club schlepper",
           "choices": [
-            "a looper",
-            "a porter",
-            "a bagman",
-            "caddie"
+            "A looper",
+            "A porter",
+            "A bagman",
+            "Caddie"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "To interfere unwantedly in someone else's affairs",
           "choices": [
-            "tamper",
-            "intrude",
-            "meddle",
-            "interfere"
+            "Tamper",
+            "Intrude",
+            "Meddle",
+            "Interfere"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "You can do it to eggs or pampered kids, with very different results",
           "choices": [
-            "poach",
-            "spoil",
-            "cradle",
-            "coddle"
+            "Poach",
+            "Spoil",
+            "Cradle",
+            "Coddle"
           ],
           "correctIndex": 3
         }
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "(Edward Albee delivers the clue.) In my one-act play \"The Sandbox\", Grandma meets a handsome young man who turns out to be the angel of this",
           "choices": [
-            "darkness",
-            "death",
-            "mercy",
-            "destruction"
+            "Darkness",
+            "Death",
+            "Mercy",
+            "Destruction"
           ],
           "correctIndex": 1
         },
@@ -186,10 +186,10 @@
     "category": "GARDENS",
     "clue": "Term given the home vegetable gardens planted by patriotic Americans during WWII",
     "choices": [
-      "liberty gardens",
-      "victory gardens",
-      "war gardens",
-      "ration gardens"
+      "Liberty gardens",
+      "Victory gardens",
+      "War gardens",
+      "Ration gardens"
     ],
     "correctIndex": 1
   }

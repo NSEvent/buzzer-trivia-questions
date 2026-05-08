@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-18",
+  "categories": [
+    {
+      "name": "PRESIDENTIAL TRIVIA",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "When this President took ill, some referred to his wife as the \"Presidentress of the U.S.\\\"",
+          "choices": [
+            "John Adams",
+            "Woodrow Wilson",
+            "Harry S. Truman",
+            "Andrew Jackson"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "The 1st picture of him in Life Magazine identified him as \"Col. D.D. Ersenbean\\\"",
+          "choices": [
+            "(Dwight David) Eisenhower",
+            "Chester A. Arthur",
+            "Millard Fillmore",
+            "Herbert Hoover"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "This president dedicated the Statue of Liberty on Oct. 28, 1886",
+          "choices": [
+            "Grover Cleveland",
+            "Benjamin Harrison",
+            "Theodore Roosevelt",
+            "William McKinley"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "He received the Ben Hogan Award for continuing to play golf despite a physical ailment",
+          "choices": [
+            "Calvin Coolidge",
+            "Franklin Pierce",
+            "Eisenhower",
+            "James Buchanan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "This future president decisively defeated the Creek Indians at Horseshoe Bend in 1814",
+          "choices": [
+            "Thomas Jefferson",
+            "(Andrew) Jackson",
+            "James Madison",
+            "William Henry Harrison"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "BIBLICAL QUOTES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Of the forbidden fruit, Eve said, this creature \"beguiled me, and I did eat\\\"",
+          "choices": [
+            "The fox",
+            "The lion",
+            "The wolf",
+            "The serpent"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Gathering his first disciples, Peter & Andrew, Jesus said, \"Follow me, and I shall make you\" these",
+          "choices": [
+            "Fishers of men",
+            "Fishers of souls",
+            "Shepherds of flocks",
+            "Gatherers of grain"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "As this first Christian martyr was being martyred, he prayed, \"Lord, lay not this sin to their charge\\\"",
+          "choices": [
+            "St. Peter",
+            "St. Paul",
+            "(St.) Stephen",
+            "St. James"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Job 28:18 tells us \"the price of wisdom is above\" these gems",
+          "choices": [
+            "Diamonds",
+            "Rubies",
+            "Sapphires",
+            "Pearls"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "In I Samuel he admitted to David, \"I have played the fool and have erred exceedingly\\\"",
+          "choices": [
+            "David",
+            "Solomon",
+            "Ahab",
+            "(King) Saul"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "BIBLE QUOTATIONS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A passage from Luke says, \"ye will surely say unto me this proverb, physician,\" do this",
+          "choices": [
+            "Heal the sick",
+            "Cast out demons",
+            "Forgive sins",
+            "Heal thyself"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Completes the line from Ecclesiastes, \"there is no new thing...\\\"",
+          "choices": [
+            "Under the Sun",
+            "Above the Stars",
+            "Beneath the Sky",
+            "Within the Earth"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "He admitted in Luke 23:14 that \"I, having examined him before you, have found no fault in this man...\\\"",
+          "choices": [
+            "(Pontius) Pilate",
+            "Herod",
+            "Caiaphas",
+            "Annas"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "A familiar line from Matthew says, \"What... God hath joined together, let not man\" do this",
+          "choices": [
+            "Separate",
+            "Divide",
+            "Break apart",
+            "Put asunder"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "In his sorrow this Old Testament figure said, \"The Lord gave, and the Lord hath taken away\\\"",
+          "choices": [
+            "Abraham",
+            "Job",
+            "David",
+            "Solomon"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "INDOORS",
+    "clue": "3-letter area where cubs sleep or where you can sit & watch the cubs play",
+    "choices": [
+      "Den",
+      "Pen",
+      "Bur",
+      "Box"
+    ],
+    "correctIndex": 0
+  }
+}

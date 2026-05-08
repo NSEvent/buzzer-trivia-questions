@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-25",
+  "categories": [
+    {
+      "name": "THEY RULED!",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "At one time, he was first secretary of the Sverdlovsk Party Committee",
+          "choices": [
+            "Gorbachev",
+            "Putin",
+            "Khrushchev",
+            "Yeltsin"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "A less-than-pleasant Russian (1547-84)",
+          "choices": [
+            "Peter the Great",
+            "Catherine the Great",
+            "Nicholas II",
+            "Ivan the Terrible"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "In 1979, this leader had to flee his own country",
+          "choices": [
+            "The Sultan",
+            "The Emperor",
+            "The Shah",
+            "The King"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Spain management (1939-75)",
+          "choices": [
+            "Philip II",
+            "Isabella I",
+            "Adolfo Suarez",
+            "Franco"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Roman around (27 B.C. to 14 A.D.)",
+          "choices": [
+            "Augustus (Caesar)",
+            "Tiberius",
+            "Caligula",
+            "Claudius"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "\\\"A.C.\"/\"D.C.\\\"",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "He played Atahualpa on Broadway in \"The Royal Hunt of the Sun\" before starring in \"Kung Fu\" on TV",
+          "choices": [
+            "Kevin Costner",
+            "Marlon Brando",
+            "Patrick Swayze",
+            "David Carradine"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "These critters yowl in the spaces between buildings",
+          "choices": [
+            "Feral dogs",
+            "Alley cats",
+            "Urban foxes",
+            "Stray raccoons"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "As an example, jackets & ties for men in a restaurant; there's not one of these in the \"Jeopardy!\" office",
+          "choices": [
+            "Dress standard",
+            "Attire policy",
+            "Dress code",
+            "Wardrobe regulation"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Pressing & bagging are the final steps in this process",
+          "choices": [
+            "Dry cleaning",
+            "Wet cleaning",
+            "Spot treatment",
+            "Professional laundering"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "This type of brief, Latin for \"friend of the court\", is common in cases of public interest",
+          "choices": [
+            "Pro bono",
+            "Habeas corpus",
+            "Amicus curiae",
+            "Prima facie"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "SHAKESPEAREAN 1ST LINES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This fairy king's first line is \"Ill met by moonlight, proud Titania\\\"",
+          "choices": [
+            "Puck",
+            "Titania",
+            "Oberon",
+            "Mustardseed"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "In Troy there lies the scene of this tragic title couple's story",
+          "choices": [
+            "Troilus and Cressida",
+            "Romeo and Juliet",
+            "Antony and Cleopatra",
+            "Coriolanus"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "\\\"Who's there?\" \"Nay, answer me. Stand & unfold yourself.\\\"",
+          "choices": [
+            "Othello",
+            "Macbeth",
+            "Hamlet",
+            "King Lear"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "This play subtitled \"Or What You Will\" opens, \"If music be the food of love, play on\\\"",
+          "choices": [
+            "As You Like It",
+            "The Tempest",
+            "Much Ado About Nothing",
+            "Twelfth Night"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"Now fair Hippolyta, our nuptial hour draws on apace...\\\"",
+          "choices": [
+            "The Merchant of Venice",
+            "Romeo and Juliet",
+            "A Midsummer Night's Dream",
+            "Julius Caesar"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "SCIENCE TIMELINE",
+    "clue": "1880: Jacques & Pierre Curie discover \"piezo-\" this, emitted by certain crystals when they're put under pressure",
+    "choices": [
+      "Magnetism",
+      "Electricity",
+      "Sound",
+      "Heat"
+    ],
+    "correctIndex": 1
+  }
+}

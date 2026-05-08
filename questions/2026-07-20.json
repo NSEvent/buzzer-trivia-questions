@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Pioneering computer programmer Grace Murray Hopper coined this term for a mysterious computer problem",
           "choices": [
-            "glitch",
-            "crash",
-            "error",
-            "bug"
+            "Glitch",
+            "Crash",
+            "Error",
+            "Bug"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Nobel laureate Gertrude Elion helped develop drugs to treat herpes, gout & this, cancer of the bone marrow",
           "choices": [
-            "lymphoma",
-            "leukemia",
-            "melanoma",
-            "myeloma"
+            "Lymphoma",
+            "Leukemia",
+            "Melanoma",
+            "Myeloma"
           ],
           "correctIndex": 1
         },
@@ -92,8 +92,8 @@
           "choices": [
             "DNA",
             "RNA",
-            "a protein",
-            "a chromosome"
+            "A protein",
+            "A chromosome"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "In 1963 Maria Goeppert Mayer received a Nobel Prize in Physics for her \"shell model\" of this part of an atom",
           "choices": [
-            "the electron",
-            "the proton",
+            "The electron",
+            "The proton",
             "Nucleus",
-            "the neutron"
+            "The neutron"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "This weapon was the defining characteristic of a German panzer division",
           "choices": [
-            "the submarine",
-            "tank",
-            "the fighter plane",
-            "the artillery cannon"
+            "The submarine",
+            "Tank",
+            "The fighter plane",
+            "The artillery cannon"
           ],
           "correctIndex": 1
         },
@@ -163,7 +163,7 @@
           "choices": [
             "Midway",
             "Iwo Jima",
-            "island of Guadalcanal",
+            "Island of Guadalcanal",
             "Okinawa"
           ],
           "correctIndex": 2
@@ -186,10 +186,10 @@
     "category": "NATURE",
     "clue": "Despite its length, the neck of the giraffe has only 7 of these bones, but they are elongated",
     "choices": [
-      "muscles",
-      "tendons",
-      "cartilage discs",
-      "vertebrae"
+      "Muscles",
+      "Tendons",
+      "Cartilage discs",
+      "Vertebrae"
     ],
     "correctIndex": 3
   }

@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Because it grew slowly & produced less meat, this famous Texas breed almost vanished by the 1920s",
           "choices": [
-            "the Hereford",
-            "the Brahman",
-            "the Shorthorn",
-            "longhorn"
+            "The Hereford",
+            "The Brahman",
+            "The Shorthorn",
+            "Longhorn"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "This term is used for cows until they've given birth",
           "choices": [
-            "heifers",
-            "does",
-            "fillies",
-            "yearlings"
+            "Heifers",
+            "Does",
+            "Fillies",
+            "Yearlings"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "The determining characteristic of \"polled\" cattle",
           "choices": [
-            "that they have short legs",
-            "that they are albino",
-            "that they have no tail",
-            "they have no horns"
+            "That they have short legs",
+            "That they are albino",
+            "That they have no tail",
+            "They have no horns"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Cape Spartel, 6 miles west of Tangier, is the point where the Atlantic Ocean & this strait meet",
           "choices": [
-            "the Suez Canal",
+            "The Suez Canal",
             "Gibraltar",
-            "the Strait of Messina",
-            "the English Channel"
+            "The Strait of Messina",
+            "The English Channel"
           ],
           "correctIndex": 1
         }

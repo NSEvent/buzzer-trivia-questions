@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "The court is 78 by 27 feet for singles & 78 by 36 feet for this type of play",
           "choices": [
-            "mixed",
-            "exhibition",
-            "doubles",
-            "team"
+            "Mixed",
+            "Exhibition",
+            "Doubles",
+            "Team"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "This coveted prize in team tennis was originally known as the International Lawn Tennis Challenge Trophy",
           "choices": [
-            "the Fed Cup",
+            "The Fed Cup",
             "Davis Cup",
-            "the Hopman Cup",
-            "the Wightman Cup"
+            "The Hopman Cup",
+            "The Wightman Cup"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Though he sits in a high chair, this official at matches is expected to act mature",
           "choices": [
-            "the line judge",
-            "the umpire",
-            "the ball boy",
-            "the referee"
+            "The line judge",
+            "The umpire",
+            "The ball boy",
+            "The referee"
           ],
           "correctIndex": 1
         },
@@ -128,9 +128,9 @@
           "value": 200,
           "clue": "This delicacy is created by overfeeding geese & depriving them of excercise",
           "choices": [
-            "black truffle",
-            "p\u00e2t\u00e9 de foie gras",
-            "beluga caviar",
+            "Black truffle",
+            "Pâté de foie gras",
+            "Beluga caviar",
             "Wagyu beef"
           ],
           "correctIndex": 1
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "I prefer that my smoked salmon be served on these diagonally-cut pieces of bread",
           "choices": [
-            "toast points",
-            "bagel chips",
-            "water crackers",
-            "blini"
+            "Toast points",
+            "Bagel chips",
+            "Water crackers",
+            "Blini"
           ],
           "correctIndex": 0
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Found throughout the eastern U.S., the Virginia species of this marsupial is a southern delicacy",
           "choices": [
-            "a raccoon",
-            "an opossum",
-            "a nutria",
-            "an armadillo"
+            "A raccoon",
+            "An opossum",
+            "A nutria",
+            "An armadillo"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "This lobster dish may get its name from the Revolutionary month in which Napoleon first ate it",
           "choices": [
-            "lobster bisque",
-            "lobster Newberg",
-            "lobster am\u00e9ricaine",
-            "lobster thermidor"
+            "Lobster bisque",
+            "Lobster Newberg",
+            "Lobster américaine",
+            "Lobster thermidor"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Tasty, costly steaks result from this process of hanging meat in the open air for up to 14 days at 50-75% humidity",
           "choices": [
-            "dry aging",
-            "wet aging",
-            "brining",
-            "marinating"
+            "Dry aging",
+            "Wet aging",
+            "Brining",
+            "Marinating"
           ],
           "correctIndex": 0
         }

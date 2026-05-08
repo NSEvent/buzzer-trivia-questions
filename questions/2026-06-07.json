@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "September is the heritage month for this style of music that rose to new heights in the Black church",
           "choices": [
-            "jazz",
-            "gospel music",
-            "blues",
-            "spirituals"
+            "Jazz",
+            "Gospel music",
+            "Blues",
+            "Spirituals"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "In September 1986 Congress voted to make this the USA's national flower",
           "choices": [
-            "the sunflower",
-            "the daisy",
-            "rose",
-            "the lily"
+            "The sunflower",
+            "The daisy",
+            "Rose",
+            "The lily"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "On Sept. 12, 1922 the Protestant Episcopal house of bishops voted to remove this word from the marriage rite",
           "choices": [
-            "obey",
-            "honor",
-            "cherish",
-            "serve"
+            "Obey",
+            "Honor",
+            "Cherish",
+            "Serve"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "The book \"The Earth\" calls this the most potent geomorphological agent there is, causing the most damage",
           "choices": [
-            "man",
-            "water",
-            "wind",
-            "glaciers"
+            "Man",
+            "Water",
+            "Wind",
+            "Glaciers"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Giovanni Arduino classified rocks oldest to newest as primary, secondary & this, a term still used",
           "choices": [
-            "quaternary",
-            "igneous",
-            "tertiary",
-            "sedimentary"
+            "Quaternary",
+            "Igneous",
+            "Tertiary",
+            "Sedimentary"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Essential minerals can give rocks their names: ferromagnesian minerals contain this &/or magnesium",
           "choices": [
-            "calcium",
-            "silicon",
-            "aluminum",
-            "iron"
+            "Calcium",
+            "Silicon",
+            "Aluminum",
+            "Iron"
           ],
           "correctIndex": 3
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "(Cheryl of the Clue Crew shows a ribboned timeline on the monitor.) Named for the tiny time period that followed it, this interval covers 80% of geological time",
           "choices": [
-            "the Paleozoic",
-            "the Mesozoic",
+            "The Paleozoic",
+            "The Mesozoic",
             "Precambrian",
-            "the Cambrian"
+            "The Cambrian"
           ],
           "correctIndex": 2
         },
@@ -115,7 +115,7 @@
             "Lake Powell",
             "Lake Mead",
             "Lake Tahoe",
-            "the Colorado River"
+            "The Colorado River"
           ],
           "correctIndex": 1
         }
@@ -129,9 +129,9 @@
           "clue": "Rhyming phrase that describes a loyal person, not someone who's holding his breath",
           "choices": [
             "True blue",
-            "tried and true",
-            "black and blue",
-            "through and through"
+            "Tried and true",
+            "Black and blue",
+            "Through and through"
           ],
           "correctIndex": 0
         },
@@ -139,9 +139,9 @@
           "value": 400,
           "clue": "The sender of gifts in \"The Twelve Days of Christmas\\\"",
           "choices": [
-            "my best friend",
-            "my one and only",
-            "my secret admirer",
+            "My best friend",
+            "My one and only",
+            "My secret admirer",
             "My true love"
           ],
           "correctIndex": 3
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "When you get older, a prosthodontist might fit you with a set of these",
           "choices": [
-            "false nails",
-            "false eyelashes",
-            "false starts",
-            "false teeth"
+            "False nails",
+            "False eyelashes",
+            "False starts",
+            "False teeth"
           ],
           "correctIndex": 3
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "It's a call to the fire department when there truly is no fire",
           "choices": [
-            "a false positive",
+            "A false positive",
             "False alarm",
-            "a prank call",
-            "a false flag"
+            "A prank call",
+            "A false flag"
           ],
           "correctIndex": 1
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "It can refer to a person whose identity won't fade or a kind of dye that won't fade",
           "choices": [
-            "tried and true",
-            "true blue",
-            "black and blue",
-            "true grit"
+            "Tried and true",
+            "True blue",
+            "Black and blue",
+            "True grit"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "ANAGRAM PAIRS",
     "clue": "A violent disturbance by a group of people & a band such as the Police",
     "choices": [
-      "tune & unit",
-      "lore & role",
-      "pint & nip",
-      "riot & trio"
+      "Tune & unit",
+      "Lore & role",
+      "Pint & nip",
+      "Riot & trio"
     ],
     "correctIndex": 3
   }

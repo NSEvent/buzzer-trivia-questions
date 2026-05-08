@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Xerxes built a bridge of boats across it to invade Greece; Leander could have walked",
           "choices": [
-            "the Bosphorus",
-            "the Aegean Sea",
+            "The Bosphorus",
+            "The Aegean Sea",
             "Hellespont",
-            "the Strait of Corinth"
+            "The Strait of Corinth"
           ],
           "correctIndex": 2
         },
@@ -126,20 +126,20 @@
       "questions": [
         {
           "value": 200,
-          "clue": "I'm supposed to \"beware of Greeks bearing gifts\"\u2014but if they bring me a gift one of these, I shouldn't look in its mouth...hmmm",
+          "clue": "I'm supposed to \"beware of Greeks bearing gifts\"—but if they bring me a gift one of these, I shouldn't look in its mouth...hmmm",
           "choices": [
-            "a cat",
-            "a horse",
-            "a dog",
-            "a camel"
+            "A cat",
+            "A horse",
+            "A dog",
+            "A camel"
           ],
           "correctIndex": 1
         },
         {
           "value": 400,
-          "clue": "OK, OK\u2014\"he who hesitates is lost\"...but aren't I supposed to do this before I leap?",
+          "clue": "OK, OK—\"he who hesitates is lost\"...but aren't I supposed to do this before I leap?",
           "choices": [
-            "look",
+            "Look",
             "\"think\"",
             "\"wait\"",
             "\"pray\""
@@ -148,10 +148,10 @@
         },
         {
           "value": 600,
-          "clue": "OK, OK\u2014\"He who hesitates is lost\"... but aren't I supposed to do this before I leap?",
+          "clue": "OK, OK—\"He who hesitates is lost\"... but aren't I supposed to do this before I leap?",
           "choices": [
             "\"think\"",
-            "look",
+            "Look",
             "\"wait\"",
             "\"pray\""
           ],
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "If this is \"mightier than the sword\", then why the heck do \"actions speak louder than words\"?",
           "choices": [
-            "a shield",
-            "a fist",
-            "a spear",
-            "a pen"
+            "A shield",
+            "A fist",
+            "A spear",
+            "A pen"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "So do I need a bigger kitchen, or not? \"Many hands make light work\", but \"Too many cooks spoil\" this stuff",
           "choices": [
-            "the stew (the broth)",
-            "the soup",
-            "the sauce",
-            "the dough"
+            "The stew (the broth)",
+            "The soup",
+            "The sauce",
+            "The dough"
           ],
           "correctIndex": 0
         }

@@ -11,7 +11,7 @@
             "Lazarus",
             "Lazarus of Bethany's brother Simon",
             "Jairus",
-            "the rich man Dives"
+            "The rich man Dives"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Nearing the end, Jesus receives the vinegar in John 19, says, \"It is finished\", then \"bowed his head, and gave up\" this",
           "choices": [
-            "his spirit",
-            "his soul",
-            "the ghost",
-            "his life"
+            "His spirit",
+            "His soul",
+            "The ghost",
+            "His life"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Matthew 6 says do not do this in public, but \"to thy Father...in secret; and thy Father which seeth in secret shall reward thee\\\"",
           "choices": [
-            "fast",
-            "give alms",
-            "worship",
-            "pray"
+            "Fast",
+            "Give alms",
+            "Worship",
+            "Pray"
           ],
           "correctIndex": 3
         }

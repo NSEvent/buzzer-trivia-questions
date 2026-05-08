@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Shakespeare's 3-part \"Henry VI\" is an example of this, a series of 3 related novels, plays or operas",
           "choices": [
-            "a tetralogy",
-            "a duology",
-            "a trilogy",
-            "a saga"
+            "A tetralogy",
+            "A duology",
+            "A trilogy",
+            "A saga"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Dude, that was so this! A long narrative poem that tells of the deeds & adventures of a hero",
           "choices": [
-            "an ode",
-            "a ballad",
-            "epic",
-            "a sonnet"
+            "An ode",
+            "A ballad",
+            "Epic",
+            "A sonnet"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Alexander Pope called it \"My Weapon\"; George S. Kaufman said it's what closes on Saturday night",
           "choices": [
-            "satire",
-            "a parody",
-            "an allegory",
-            "irony"
+            "Satire",
+            "A parody",
+            "An allegory",
+            "Irony"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "The pathetic fallacy is a type of this, attributing human traits to inanimate objects",
           "choices": [
-            "personification",
-            "anthropomorphism",
-            "a metaphor",
-            "allegory"
+            "Personification",
+            "Anthropomorphism",
+            "A metaphor",
+            "Allegory"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Shaw's plays are comedies of ideas; Congreve's plays are comedies of these",
           "choices": [
-            "errors",
-            "wit",
-            "manners",
-            "morals"
+            "Errors",
+            "Wit",
+            "Manners",
+            "Morals"
           ],
           "correctIndex": 2
         }
@@ -70,7 +70,7 @@
           "choices": [
             "Mars",
             "Hershey",
-            "Nestl\u00e9",
+            "Nestlé",
             "Cadbury"
           ],
           "correctIndex": 1
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Bo makes 86 snow-balls in 1 3/4 hrs.; when will Bo know he has this 9-letter problem where ice crystals form in body tissues?",
           "choices": [
-            "frostbite",
-            "chilblain",
-            "snowblind",
-            "windchill"
+            "Frostbite",
+            "Chilblain",
+            "Snowblind",
+            "Windchill"
           ],
           "correctIndex": 0
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Bo makes 86 snowballs in 1 3/4 hrs.; when will Bo know he has this 9-letter problem where ice crystals form in body tissues?",
           "choices": [
-            "chilblain",
-            "frostbite",
-            "snowblind",
-            "windchill"
+            "Chilblain",
+            "Frostbite",
+            "Snowblind",
+            "Windchill"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "A \"HA\"!",
     "clue": "A shrewish woman is sometimes called this, after a mythical monster that was part woman & part vulture",
     "choices": [
-      "a banshee",
-      "a medusa",
-      "a harpy",
-      "a fury"
+      "A banshee",
+      "A medusa",
+      "A harpy",
+      "A fury"
     ],
     "correctIndex": 2
   }

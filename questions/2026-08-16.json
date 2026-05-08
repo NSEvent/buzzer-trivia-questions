@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-16",
+  "categories": [
+    {
+      "name": "FRANK SINATRA",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Frank was paid $8,000 to play Maggio in this 1953 film that helped revive his career",
+          "choices": [
+            "From Here To Eternity",
+            "A Streetcar Named Desire",
+            "On the Waterfront",
+            "The Wild One"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Frank is associated with this late-night tune that begins, \"It's quarter to three...\\\"",
+          "choices": [
+            "Fly Me to the Moon",
+            "My Way",
+            "\\\"One For My Baby (And One More For The Road)\\\"",
+            "The Lady Is a Tramp"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "The first names of 2 of Frank's 4 wives",
+          "choices": [
+            "(2 of) Nancy, Ava, Mia, & Barbara",
+            "Marilyn, Grace, Jackie, Barbra",
+            "Judy, Liza, Angie, Cher",
+            "Elizabeth, Catherine, Margaret, Diana"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Frank won an Oscar for \"From Here to Eternity\" & got a 2nd acting nomination for this film about drug addiction",
+          "choices": [
+            "The Lost Weekend",
+            "Rebel Without a Cause",
+            "The Man with the Golden Arm",
+            "A Streetcar Named Desire"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "A fireman's son, Francis was born in this New Jersey city on Dec. 12, 1915",
+          "choices": [
+            "Hoboken",
+            "Newark",
+            "Jersey City",
+            "Trenton"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "\\\"S\" & \"M\\\"",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Avast mateys! We're nearing this Caribbean Sea area through which galleons passed",
+          "choices": [
+            "The Silver Coast",
+            "The Spanish Main",
+            "The Southern Passage",
+            "The Maroon Route"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "In the theater, this person runs a production from behind the scenes",
+          "choices": [
+            "The director",
+            "The producer",
+            "The stage manager",
+            "The lighting designer"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "First names of the Krofft Brothers who \"pulled the strings\" on \"D.C. Follies\" & \"Lidsville\\\"",
+          "choices": [
+            "Sam & Max",
+            "Scott & Mike",
+            "Sid & Marty",
+            "Steve & Marty"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "St. Augustine's mom",
+          "choices": [
+            "Saint Monica",
+            "Saint Monica",
+            "Saint Monica",
+            "Saint Monica"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "He's the Church's patron of paratroopers",
+          "choices": [
+            "Saint Michael",
+            "St. Michael",
+            "Saint Michael",
+            "Saint Michael"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "\\\"NORTH\\\"",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Farms & ranches cover 90% of this border state's land",
+          "choices": [
+            "North Dakota",
+            "North Dakota",
+            "North Dakota",
+            "North Dakota"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Begun in 1948, this university's African studies program was 1st of its kind in U.S.",
+          "choices": [
+            "Northwestern",
+            "Northwestern",
+            "Northwestern",
+            "Northwestern"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "The founder of this aircraft company also helped form its competitor Lockheed",
+          "choices": [
+            "Douglas",
+            "Grumman",
+            "Northrop",
+            "Curtiss"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Robert Duvall portrayed Jesse James in this 1972 film about an 1876 bank robbery",
+          "choices": [
+            "Pat Garrett and Billy the Kid",
+            "The Great Northfield Minnesota Raid",
+            "The Outlaw Josey Wales",
+            "Butch Cassidy and the Sundance Kid"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "This university's 2 campuses in Chicago & Evanston, Illinois both front on Lake Michigan",
+          "choices": [
+            "Northwestern",
+            "University of Chicago",
+            "DePaul",
+            "Loyola"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "NEW YORK TIMES HEADLINES",
+    "clue": "April 19, 1923: \"74,200 see Yankees open new stadium\"; he \"hits home run\\\"",
+    "choices": [
+      "Lou Gehrig",
+      "Babe Ruth",
+      "Joe DiMaggio",
+      "Ted Williams"
+    ],
+    "correctIndex": 1
+  }
+}

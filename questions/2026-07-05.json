@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "The charter called for this with representation, something the American colonies later fought for",
           "choices": [
-            "taxation",
-            "trial by jury",
-            "habeas corpus",
-            "due process"
+            "Taxation",
+            "Trial by jury",
+            "Habeas corpus",
+            "Due process"
           ],
           "correctIndex": 0
         },
@@ -140,9 +140,9 @@
           "clue": "Fearing its limits on the clergy, this man officially annulled the document after a few months",
           "choices": [
             "King John",
-            "the Pope",
-            "the Archbishop of Canterbury",
-            "the Holy Roman Emperor"
+            "The Pope",
+            "The Archbishop of Canterbury",
+            "The Holy Roman Emperor"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "The First Clause grants this body freedom from government intervention",
           "choices": [
-            "the nobility",
+            "The nobility",
             "Parliament",
-            "the merchant class",
-            "the clergy"
+            "The merchant class",
+            "The clergy"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "In 1957 the ABA, this group, acknowledge the debt U.S. law owed the Magna Carta & erected a U.K. monument",
           "choices": [
-            "the American Civil Liberties Union",
-            "the Supreme Court",
-            "the Library of Congress",
-            "the American Bar Association"
+            "The American Civil Liberties Union",
+            "The Supreme Court",
+            "The Library of Congress",
+            "The American Bar Association"
           ],
           "correctIndex": 3
         }

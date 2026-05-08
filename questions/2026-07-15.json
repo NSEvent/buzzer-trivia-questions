@@ -9,9 +9,9 @@
           "clue": "As the moon changes from new to full, it's said to be doing this; then it wanes",
           "choices": [
             "Waxing",
-            "waning",
-            "eclipsing",
-            "gibbous"
+            "Waning",
+            "Eclipsing",
+            "Gibbous"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "At 183 miles wide & 13,000 feet deep, Bailly is the largest distinct one of these",
           "choices": [
-            "a mare",
-            "crater",
-            "a rille",
-            "a mountain"
+            "A mare",
+            "Crater",
+            "A rille",
+            "A mountain"
           ],
           "correctIndex": 1
         },
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Michigan's fish is not the lake but the brook variety of this",
           "choices": [
-            "bass",
-            "walleye",
-            "salmon",
-            "trout"
+            "Bass",
+            "Walleye",
+            "Salmon",
+            "Trout"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Of an official dog, cat, or bird, the one that Maine has that no other state does",
           "choices": [
-            "a dog",
-            "a bird",
-            "a cat",
-            "a fish"
+            "A dog",
+            "A bird",
+            "A cat",
+            "A fish"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "The beignet, featured at New Orleans' Cafe Du Monde, is this state object of Louisiana",
           "choices": [
-            "a pastry",
-            "a biscuit",
-            "a fritter",
-            "a doughnut"
+            "A pastry",
+            "A biscuit",
+            "A fritter",
+            "A doughnut"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Amy Schumer made waves with the photo she posted in honor of this swimsuit's day, July 5, its 71st anniversary",
           "choices": [
-            "the one-piece",
-            "the bikini",
-            "the monokini",
-            "the tankini"
+            "The one-piece",
+            "The bikini",
+            "The monokini",
+            "The tankini"
           ],
           "correctIndex": 1
         },
@@ -140,9 +140,9 @@
           "clue": "Learn how to save a person who's choking on June 1, the national day for this, also known as an abdominal thrust",
           "choices": [
             "CPR",
-            "the Heimlich",
-            "mouth-to-mouth",
-            "the Heimlich maneuver"
+            "The Heimlich",
+            "Mouth-to-mouth",
+            "The Heimlich maneuver"
           ],
           "correctIndex": 3
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Aug. 4 honors this military branch whose forebear, the Revenue Cutter Service, was founded on that day in 1790",
           "choices": [
-            "the Navy",
-            "the Marines",
-            "the Army",
-            "the Coast Guard"
+            "The Navy",
+            "The Marines",
+            "The Army",
+            "The Coast Guard"
           ],
           "correctIndex": 3
         },

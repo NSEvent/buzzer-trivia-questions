@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-27",
+  "categories": [
+    {
+      "name": "AWARDS & PRIZES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Named for an owner in this league, the Art Rooney Award honors sportsmanship on the field",
+          "choices": [
+            "the NBA",
+            "the MLB",
+            "the NHL",
+            "the NFL"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Archie Griffin of Ohio State is the only 2-time winner of this coveted award",
+          "choices": [
+            "the Heisman",
+            "the Maxwell Award",
+            "the Davey O'Brien Award",
+            "the Outland Trophy"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Since 1982 skeptics of the paranormal & pseudoscientific have offered outrageous offenders the \"Bent\" this utensil award",
+          "choices": [
+            "fork",
+            "ladle",
+            "spoon",
+            "whisk"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Given to persons of African descent & American citizenship, it's the NAACP's highest honor",
+          "choices": [
+            "the Pulitzer Prize",
+            "the MacArthur Fellowship",
+            "the Presidential Medal of Freedom",
+            "Spingarn (the Spingarn Medal)"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This vaunted trophy is given out each year in the south of France; the first one went to Delbert Mann for his film \"Marty\" in 1955",
+          "choices": [
+            "the Golden Globe",
+            "the Academy Award",
+            "the Golden Lion",
+            "the Palme d'Or"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "CELEBRITY MOMS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "She's the \"Momager\" who's mom to 6 kids, including Kim, Kourtney & Kendall",
+          "choices": [
+            "Patti Hansen",
+            "Kris Jenner",
+            "Linda Thompson",
+            "Jane Fonda"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Mom to 3 girls & a boy with Ryan Reynolds, she says family is \"where my heart is\\\"",
+          "choices": [
+            "Jessica Biel",
+            "Anne Hathaway",
+            "Blake Lively",
+            "Scarlett Johansson"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Seen on the right, Lenny Kravitz's mom, Roxie Roker, is best remembered for playing Helen Willis, neighbor to this sitcom family",
+          "choices": [
+            "the Cleavers",
+            "the Brady Bunch",
+            "the Jeffersons",
+            "the Partridge Family"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "In 2009 this rocker & rock widow lost custody of her daughter Frances Bean Cobain",
+          "choices": [
+            "Sharon Osbourne",
+            "Brook Shields",
+            "Courtney Love",
+            "Nicole Richie"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Blythe Danner is mom to this actress, a mother of 2 herself",
+          "choices": [
+            "Kate Hudson",
+            "Julia Roberts",
+            "Gwyneth Paltrow",
+            "Sarah Jessica Parker"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "FLIGHTLESS BIRDS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Nearly half of the height of this largest living bird is neck",
+          "choices": [
+            "the emu",
+            "the rhea",
+            "the ostrich",
+            "the cassowary"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "This largest penguin breeds in the coldest environment of any bird",
+          "choices": [
+            "the king",
+            "the emperor",
+            "the gentoo",
+            "the rockhopper"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Now extinct, this native of Mauritius is a character in \"Alice's Adventures in Wonderland\\\"",
+          "choices": [
+            "the moa",
+            "the great auk",
+            "the elephant bird",
+            "the dodo"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "The rudimentary wings of this national bird of Australia are useless for flying, but it is an excellent swimmer",
+          "choices": [
+            "the ostrich",
+            "the kiwi",
+            "the emu",
+            "the cassowary"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "In central Argentina, gauchos with bolas hunt this large bird for sport",
+          "choices": [
+            "rhea",
+            "the ostrich",
+            "the cassowary",
+            "the kiwi"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "WHAT THE DICKENS!",
+    "clue": "\\\"The Parish Boy's Progress\" is the subtitle of this 1838 novel",
+    "choices": [
+      "David Copperfield",
+      "A Tale of Two Cities",
+      "Oliver Twist",
+      "Great Expectations"
+    ],
+    "correctIndex": 2
+  }
+}

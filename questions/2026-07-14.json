@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "In 1949, at just 38, Elizabeth Bishop was named Chair of Poetry at this D.C. library",
           "choices": [
-            "the Folger Shakespeare Library",
-            "the Smithsonian Institution Libraries",
-            "the Library of Congress",
-            "the National Archives"
+            "The Folger Shakespeare Library",
+            "The Smithsonian Institution Libraries",
+            "The Library of Congress",
+            "The National Archives"
           ],
           "correctIndex": 2
         },
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "This amendment guarantees that a person cannot be forced to testify against himself",
           "choices": [
-            "the Fourth Amendment",
-            "the Fifth Amendment",
-            "the Sixth Amendment",
-            "the Eighth Amendment"
+            "The Fourth Amendment",
+            "The Fifth Amendment",
+            "The Sixth Amendment",
+            "The Eighth Amendment"
           ],
           "correctIndex": 1
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "The First Amendment gives people the right to do this as long as they do it \"peaceably\\\"",
           "choices": [
-            "assemble",
-            "march",
-            "protest",
-            "demonstrate"
+            "Assemble",
+            "March",
+            "Protest",
+            "Demonstrate"
           ],
           "correctIndex": 0
         },
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "In 19th c. hymn, words preceding \"Lord God almighty! Early in the morning our song shall rise to Thee\\\"",
           "choices": [
-            "glory, glory, glory",
-            "praise, praise, praise",
+            "Glory, glory, glory",
+            "Praise, praise, praise",
             "Holy, holy, holy",
-            "blessed, blessed, blessed"
+            "Blessed, blessed, blessed"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "According to The Teddy Bears' 1958 hit \"To know, know, know him is\" this",
           "choices": [
-            "to need, need, need him",
-            "to want, want, want him",
+            "To need, need, need him",
+            "To want, want, want him",
             "To love, love, love him",
-            "to miss, miss, miss him"
+            "To miss, miss, miss him"
           ],
           "correctIndex": 2
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "While the trolley went \"clang, clang, clang\" my heartstrings went this",
           "choices": [
-            "ring, ring, ring",
-            "sing, sing, sing",
-            "zing, zing, zing",
-            "ping, ping, ping"
+            "Ring, ring, ring",
+            "Sing, sing, sing",
+            "Zing, zing, zing",
+            "Ping, ping, ping"
           ],
           "correctIndex": 2
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Precedes \"It's Fat Albert!\\\"",
           "choices": [
-            "yo, yo, yo",
+            "Yo, yo, yo",
             "Hey, Hey, Hey",
-            "ho, ho, ho",
-            "oh, oh, oh"
+            "Ho, ho, ho",
+            "Oh, oh, oh"
           ],
           "correctIndex": 1
         },
@@ -173,9 +173,9 @@
           "clue": "Tho he may never have said it himself, most people imitate Cary Grant by saying this",
           "choices": [
             "Judy, Judy, Judy",
-            "darling, darling, darling",
+            "Darling, darling, darling",
             "Archie, Archie, Archie",
-            "baby, baby, baby"
+            "Baby, baby, baby"
           ],
           "correctIndex": 0
         }

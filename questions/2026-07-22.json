@@ -71,7 +71,7 @@
             "France",
             "Spain",
             "Great Britain/England",
-            "the Netherlands"
+            "The Netherlands"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Because of the deposit it leaves in the bottle, one must do this to crusted port before serving",
           "choices": [
-            "freeze it",
+            "Freeze it",
             "Decant/strain it",
-            "shake it vigorously",
-            "serve it in a sealed bottle"
+            "Shake it vigorously",
+            "Serve it in a sealed bottle"
           ],
           "correctIndex": 1
         },
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Like a waiter, a network computer might say \"I'll be your\" this & store files or manage printers",
           "choices": [
-            "a router",
+            "A router",
             "Server",
-            "a host",
-            "a node"
+            "A host",
+            "A node"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "DOS is an acronym for this",
           "choices": [
-            "digital operating software",
-            "data output system",
-            "disk operating system",
-            "digital output storage"
+            "Digital operating software",
+            "Data output system",
+            "Disk operating system",
+            "Digital output storage"
           ],
           "correctIndex": 2
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "It's one instruction that stands for a series of commonly used keystrokes",
           "choices": [
-            "macro",
-            "a shortcut",
-            "a subroutine",
-            "a script"
+            "Macro",
+            "A shortcut",
+            "A subroutine",
+            "A script"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "On a regular typerwriter it's the return key; on a computer keyboard it's usually labeled this",
           "choices": [
-            "execute",
-            "submit",
-            "enter",
-            "confirm"
+            "Execute",
+            "Submit",
+            "Enter",
+            "Confirm"
           ],
           "correctIndex": 2
         },

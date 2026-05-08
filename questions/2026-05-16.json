@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "In 1871, cartoonist Thomas Nast used this animal as symbol of NYC's corrupt Tammany Hall",
           "choices": [
-            "tiger",
-            "a donkey",
-            "an elephant",
-            "a snake"
+            "Tiger",
+            "A donkey",
+            "An elephant",
+            "A snake"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Called the 1st national party in the U.S., it was organized by Alexander Hamilton",
           "choices": [
-            "the Democratic-Republicans",
+            "The Democratic-Republicans",
             "Federalists",
-            "the Whigs",
-            "the Anti-Masonic Party"
+            "The Whigs",
+            "The Anti-Masonic Party"
           ],
           "correctIndex": 1
         },
@@ -52,7 +52,7 @@
           "value": 1000,
           "clue": "In 1986, Salvador Laurel, already vice-president, was also appointed foreign minister & prime minister of this country",
           "choices": [
-            "the Philippines",
+            "The Philippines",
             "Indonesia",
             "Malaysia",
             "Thailand"
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Ohio: This redbird",
           "choices": [
-            "a bluebird",
-            "a goldfinch",
-            "a cardinal",
-            "a robin"
+            "A bluebird",
+            "A goldfinch",
+            "A cardinal",
+            "A robin"
           ],
           "correctIndex": 2
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "This pouched state bird of Louisiana has been designated an endangered species in North America",
           "choices": [
-            "the pelican",
-            "the egret",
-            "the heron",
-            "the ibis"
+            "The pelican",
+            "The egret",
+            "The heron",
+            "The ibis"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Texas adopted this mimic as its state bird in 1927; Tennessee mimicked the pick in 1933",
           "choices": [
-            "a bluebird",
-            "a mockingbird",
-            "a cardinal",
-            "a meadowlark"
+            "A bluebird",
+            "A mockingbird",
+            "A cardinal",
+            "A meadowlark"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Both Montana & Nebraska have the western type of this bird",
           "choices": [
-            "the robin",
-            "the bluebird",
-            "the oriole",
-            "meadowlark"
+            "The robin",
+            "The bluebird",
+            "The oriole",
+            "Meadowlark"
           ],
           "correctIndex": 3
         }
@@ -197,10 +197,10 @@
     "category": "STATES' LOWEST POINTS",
     "clue": "Idaho's lowest point lies in Nez Perce County along this river",
     "choices": [
-      "the Salmon River",
-      "the Snake River",
-      "the Clearwater River",
-      "the Boise River"
+      "The Salmon River",
+      "The Snake River",
+      "The Clearwater River",
+      "The Boise River"
     ],
     "correctIndex": 1
   }

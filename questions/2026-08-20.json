@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-20",
+  "categories": [
+    {
+      "name": "IMMORTALITY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Elder Zhang Guo, one of the Chinese 8 immortals, is depicted as carrying this clingstone fruit",
+          "choices": [
+            "A nectarine",
+            "A peach",
+            "A plum",
+            "An apricot"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "He shared his immortality with his brother Castor, who was killed by Idas",
+          "choices": [
+            "Orion",
+            "Hercules",
+            "Pollux",
+            "Theseus"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Legend says that an Arawak chief named Sequene went in search of this pool of immortality on the Island of Bimini",
+          "choices": [
+            "The River Styx",
+            "The Holy Grail",
+            "The Fountain of Youth",
+            "The Lost City of Atlantis"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Immortelles are these that retain their color & shape when dried",
+          "choices": [
+            "Leaves",
+            "Stems",
+            "Herbs",
+            "Flowers"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Mormons believe these 2 members of the godhead have physical bodies but are immortal",
+          "choices": [
+            "Adam & Eve",
+            "Moses & Elijah",
+            "Joseph Smith & Brigham Young",
+            "God the Father & Jesus Christ"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "HOLLYWOOD SQUARES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Hey, lady! In 1963, as Julius Kelp in \"The Nutty Professor\", he played a square",
+          "choices": [
+            "Jerry Lewis",
+            "Bob Hope",
+            "Dean Martin",
+            "Jackie Gleason"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Uncool Sarah Jessica Parker & Amy Linker tried to fit in as freshmen in this early '80s sitcom",
+          "choices": [
+            "Punky Brewster",
+            "The Facts of Life",
+            "Square Pegs",
+            "Silver Spoons"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Judd Apatow produced this 1999 TV series about weirdos & dweebs",
+          "choices": [
+            "Dawson's Creek",
+            "Felicity",
+            "Scrubs",
+            "Freaks and Geeks"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "The geeky Lambda Lambda Lambda fraternity rises up against the jocks of Alpha Beta in this 1984 big screen comedy",
+          "choices": [
+            "The Breakfast Club",
+            "Ferris Bueller's Day Off",
+            "National Lampoon's Class of '84",
+            "Revenge of the Nerds"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This ubernerd became the breakout character of \"Family Matters\\\"",
+          "choices": [
+            "Harriette",
+            "Carl",
+            "Urkel",
+            "Byron"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "GOLF TALK",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "(Peter Jacobsen gives the clue) Keep the club head low through your swing when hitting these, a term for any wood other than the driver",
+          "choices": [
+            "Irons",
+            "Putters",
+            "Hybrids",
+            "Fairway woods"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Hey Verne! An around the world is a round of golf played in this many strokes",
+          "choices": [
+            "75",
+            "85",
+            "90",
+            "80"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Type of bird you've achieved if you get a hole in one on a par 3",
+          "choices": [
+            "Eagle",
+            "Birdie",
+            "Albatross",
+            "Condor"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "A general term for a course, or the sandy, treeless Scottish area where golf was often played",
+          "choices": [
+            "Parkland",
+            "Links",
+            "Fairway",
+            "Rough"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "(Peter Jacobsen gives the clue) On this type of long putt, you don't aim to hole out, but to leave yourself a short one",
+          "choices": [
+            "Reading",
+            "Lining",
+            "Stroking",
+            "Lag"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "SCIENCE CLASS",
+    "clue": "During this plant process, carbon dioxide & water combine with light energy to create oxygen & glucose",
+    "choices": [
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Germination"
+    ],
+    "correctIndex": 1
+  }
+}

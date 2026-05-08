@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-07",
+  "categories": [
+    {
+      "name": "COUNTRY RHYME TIME",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A cooling device from Sapporo",
+          "choices": [
+            "A Japan fan",
+            "A France pan",
+            "A Spain rain",
+            "A China rain"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Dried strips of beef in Ankara",
+          "choices": [
+            "Greece peace",
+            "Sweden end",
+            "Italy stay",
+            "Turkey jerky"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "A Scandinavian entranceway",
+          "choices": [
+            "A France pane",
+            "A Spain rain",
+            "A China rain",
+            "A Norway doorway"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "A song's chorus in Kiev",
+          "choices": [
+            "A Italy stay",
+            "A Ukraine refrain",
+            "A Greece peace",
+            "A Sweden end"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Filled tortilla food item from Rabat",
+          "choices": [
+            "Mexico burrito",
+            "Morocco taco",
+            "Spain empanada",
+            "Italy calzone"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "GOOD KNIGHT",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "When a woman gets a knighthood from the British, she gets this title before her name",
+          "choices": [
+            "Dame",
+            "Sir",
+            "Baroness",
+            "Countess"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "\\\"The Hedge Knight\" is a graphic novel set in the same world as this author's \"A Song of Ice and Fire\\\"",
+          "choices": [
+            "Brandon Sanderson",
+            "George R.R. Martin",
+            "J.R.R. Tolkien",
+            "Neil Gaiman"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Sturm Brightblade is a knight of Solamnia in this series named for a weapon that sounds like it could kill Smaug",
+          "choices": [
+            "The Wheel of Time",
+            "The Sword of Truth",
+            "Dragonlance",
+            "A Clash of Kings"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Maurice could tell you this other name for a knight is from the French for \"horseman\\\"",
+          "choices": [
+            "Squire",
+            "Esquire",
+            "Paladin",
+            "Chevalier"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This highest \"order\" in England is composed of the Prince of Wales & 24 knights & other lucky members",
+          "choices": [
+            "The Order of the Bath",
+            "The Order of the Thistle",
+            "The Order of the Garter",
+            "The Order of the British Empire"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "INTERNAL RHYME TIME",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The U.S. code says it's first degree if it happens as part of arson or burglary",
+          "choices": [
+            "Manslaughter",
+            "Homicide",
+            "Murder",
+            "Assault"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Title of each of the first 10 leaders of Sikhism",
+          "choices": [
+            "Guru",
+            "Lama",
+            "Rabbi",
+            "Swami"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "It can be a heterogeneous mixture of stuff or a category on your favorite quiz show",
+          "choices": [
+            "Smorgasbord",
+            "Melting pot",
+            "Hodgepodge",
+            "Potpourri"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "To fire someone, or simply to tell him to leave your presence",
+          "choices": [
+            "To sack",
+            "To let go",
+            "To dismiss",
+            "To discharge"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "A message of distress from a ship or an airplane",
+          "choices": [
+            "SOS",
+            "Mayday",
+            "Pan-pan",
+            "CQD"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "TELEVISION",
+    "clue": "(Hi, I'm Laura Lee Bell from The Young and the Restless.) My parents William & Lee Bell created both \"The Young and the Restless\" & this soap opera which premiered in 1987",
+    "choices": [
+      "General Hospital",
+      "The Bold and the Beautiful",
+      "Days of Our Lives",
+      "Santa Barbara"
+    ],
+    "correctIndex": 1
+  }
+}

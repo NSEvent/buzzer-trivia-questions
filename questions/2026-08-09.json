@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-09",
+  "categories": [
+    {
+      "name": "HISTORIC QUOTATIONS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1862 he told the Confederates, \"No terms except an unconditional and immediate surrender can be accepted\\\"",
+          "choices": [
+            "Lee",
+            "Grant",
+            "Sherman",
+            "Jackson"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "In January 1981 this Secretary of State designate said, \"There are worse things than war\\\"",
+          "choices": [
+            "(Alexander) Haig",
+            "Kissinger",
+            "Shultz",
+            "Powell"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "When he landed on Leyte Island in October 1944, he said, \"The hour of your redemption is here\\\"",
+          "choices": [
+            "Bradley",
+            "Patton",
+            "Eisenhower",
+            "MacArthur"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Fritz Hollings, 1983: If the Marines are \"there to fight, then there are far too few. If... there to be killed, there are far too many\\\"",
+          "choices": [
+            "Iraq",
+            "Somalia",
+            "Lebanon",
+            "Grenada"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Samuel Johnson is quoted as saying, \"Patriotism is the last refuge of\" one of these",
+          "choices": [
+            "Rogue",
+            "Fraud",
+            "Coward",
+            "Scoundrel"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "THE \"BIG\" SCREEN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "1983: With Jeff Goldblum",
+          "choices": [
+            "The Big Lebowski",
+            "The Big Chill",
+            "The Big Easy",
+            "The Big Picture"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "1988: Starring Michael J. Fox",
+          "choices": [
+            "The Secret of My Success",
+            "Light of Day",
+            "Youngblood",
+            "Bright Lights, Big City"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "1974: Starring Angie DIckinson",
+          "choices": [
+            "Big Bad Mama",
+            "The Big Sleep",
+            "The Big Fix",
+            "The Big Bounce"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "If Disney starts a soccer team, they'll probably name it for this 1995 film with Olivia d'Abo",
+          "choices": [
+            "The Mighty Ducks",
+            "Little Giants",
+            "The Big Green",
+            "Big"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "1986: Starring Kurt Russell",
+          "choices": [
+            "Big Trouble in Little China",
+            "The Thing",
+            "Escape from New York",
+            "Big Top Pee-wee"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "NEWER WORDS & PHRASES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "If you're \"throwing\" this, you're not giving someone protection from the Sun—you're dissing them",
+          "choices": [
+            "Roast",
+            "Burn",
+            "Shade",
+            "Tea"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "As Andy Grammer mavens know, this phrase used to only mean you were OK; now it can mean \"No thanks\\\"",
+          "choices": [
+            "\\\"I'm good\\\"",
+            "I'm fine",
+            "That's okay",
+            "No thank you"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Singing this folk & summer camp tune has become a sarcastic phrase for a veneer of brotherhood & co-operation",
+          "choices": [
+            "\\\"Kumbaya\\\"",
+            "We Shall Overcome",
+            "Blowin' in the Wind",
+            "Amazing Grace"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Coined in 1970 but big in the 20-teens, \"micro\" this refers to casual remarks that make minority folks feel bad",
+          "choices": [
+            "Microexpressions",
+            "Microcheating",
+            "Microaggressions",
+            "Microtransactions"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "This hyphenated term describes an athletic shoe designed for various activities like aerobics & muscle building",
+          "choices": [
+            "Cross-trainer",
+            "Cross-country",
+            "Cross-fit",
+            "Cross-over"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "DROP A LETTER",
+    "clue": "..from a word meaning \"easily bent\"; now you have this word meaning \"legally responsible\\\"",
+    "choices": [
+      "Answerable",
+      "Accountable",
+      "Responsible",
+      "Liable (from pliable)"
+    ],
+    "correctIndex": 3
+  }
+}

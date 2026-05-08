@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "If you have warts, you'd resort to this specialty that also deals with blisters & burns",
           "choices": [
-            "a rheumatologist",
-            "a podiatrist",
-            "a dermatologist",
-            "an orthopedist"
+            "A rheumatologist",
+            "A podiatrist",
+            "A dermatologist",
+            "An orthopedist"
           ],
           "correctIndex": 2
         },
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "It's the word for a quotation at the beginning of a poem or other text",
           "choices": [
-            "an epigraph",
-            "a prologue",
-            "a preface",
-            "an epigram"
+            "An epigraph",
+            "A prologue",
+            "A preface",
+            "An epigram"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "\\\"L'allegro\" by Milton uses this 4-letter word for a deep shade of black, a shortening of the name of a wood",
           "choices": [
-            "onyx",
-            "noir",
-            "ebon",
-            "soot"
+            "Onyx",
+            "Noir",
+            "Ebon",
+            "Soot"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "A \"heroic\" one of these is 2 rhyming lines of iambic pentameter",
           "choices": [
-            "a sonnet",
-            "a stanza",
-            "couplet",
-            "a tercet"
+            "A sonnet",
+            "A stanza",
+            "Couplet",
+            "A tercet"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "A poem by Robert Burns taught us that \"gang aft\" this means \"often go wrong\\\"",
           "choices": [
-            "awry",
-            "astray",
-            "agley",
-            "amiss"
+            "Awry",
+            "Astray",
+            "Agley",
+            "Amiss"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "This pause in the middle of a line of poetry is from caedere, Latin for \"to cut\\\"",
           "choices": [
-            "an enjambment",
-            "a diaeresis",
-            "a spondee",
-            "caesura"
+            "An enjambment",
+            "A diaeresis",
+            "A spondee",
+            "Caesura"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Look up! It's this term for the ongoing costs of a business' operation that aren't related to creating a product or service",
           "choices": [
-            "revenue",
-            "depreciation",
-            "capital expenditure",
-            "overhead"
+            "Revenue",
+            "Depreciation",
+            "Capital expenditure",
+            "Overhead"
           ],
           "correctIndex": 3
         },
@@ -139,9 +139,9 @@
           "value": 400,
           "clue": "Term for the amount a retailer adds to the cost price of a product; it may not be all profit",
           "choices": [
-            "margin",
-            "commission",
-            "premium",
+            "Margin",
+            "Commission",
+            "Premium",
             "Mark-up"
           ],
           "correctIndex": 3
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "This type of physical-sounding buyout takes place when one company borrows lots of money in order to acquire another",
           "choices": [
-            "a hostile takeover",
-            "a merger",
-            "a leveraged buyout",
-            "a management buyout"
+            "A hostile takeover",
+            "A merger",
+            "A leveraged buyout",
+            "A management buyout"
           ],
           "correctIndex": 2
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Let's check the glossary: AGI is adjusted this",
           "choices": [
-            "general income",
-            "guaranteed income",
-            "gross income",
-            "group income"
+            "General income",
+            "Guaranteed income",
+            "Gross income",
+            "Group income"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "An asset that gets its value from that of an underlying asset is one of these, also a term used in calculus",
           "choices": [
-            "a dividend",
-            "an index",
-            "a futures contract",
-            "derivative"
+            "A dividend",
+            "An index",
+            "A futures contract",
+            "Derivative"
           ],
           "correctIndex": 3
         }

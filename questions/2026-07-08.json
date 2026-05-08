@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "The feet of this arctic ursine creature are partly webbed & have hairy soles to help with traction",
           "choices": [
-            "polar bear",
-            "a grizzly bear",
-            "a walrus",
-            "an Arctic fox"
+            "Polar bear",
+            "A grizzly bear",
+            "A walrus",
+            "An Arctic fox"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Dudes, it's the \"fishy\" hairstyle worn by David Spade in \"Joe Dirt\\\"",
           "choices": [
-            "the mohawk",
-            "the mullet",
-            "the fauxhawk",
-            "the pompadour"
+            "The mohawk",
+            "The mullet",
+            "The fauxhawk",
+            "The pompadour"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "There are bird-eating & trap door varieties in this hairy spider family",
           "choices": [
-            "a wolf spider",
-            "a funnel-web spider",
-            "a jumping spider",
-            "tarantula"
+            "A wolf spider",
+            "A funnel-web spider",
+            "A jumping spider",
+            "Tarantula"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "From the Latin for \"to clip\", it's the shaved patch on the crowns of the heads of some monks",
           "choices": [
-            "a cowl",
-            "a wimple",
-            "tonsure",
-            "a cilice"
+            "A cowl",
+            "A wimple",
+            "Tonsure",
+            "A cilice"
           ],
           "correctIndex": 2
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Tocantins, Madeira, Rio Negro",
           "choices": [
-            "the Amazon",
-            "the Nile",
-            "the Congo",
-            "the Orinoco"
+            "The Amazon",
+            "The Nile",
+            "The Congo",
+            "The Orinoco"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Moselle, Main, Neckar",
           "choices": [
-            "the Danube",
-            "the Elbe",
-            "the Rhine",
-            "the Seine"
+            "The Danube",
+            "The Elbe",
+            "The Rhine",
+            "The Seine"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Parma, Trebbia, Ticino",
           "choices": [
-            "the Arno",
-            "the Tiber",
-            "the Po",
-            "the Adige"
+            "The Arno",
+            "The Tiber",
+            "The Po",
+            "The Adige"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Nam Ca Dinh, Songkhram, Mun",
           "choices": [
-            "the Irrawaddy",
-            "the Mekong",
-            "the Chao Phraya",
-            "the Yangtze"
+            "The Irrawaddy",
+            "The Mekong",
+            "The Chao Phraya",
+            "The Yangtze"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Big Salmon, Pelly, Klondike",
           "choices": [
-            "the Mackenzie",
-            "the Yukon",
-            "the Columbia",
-            "the Fraser"
+            "The Mackenzie",
+            "The Yukon",
+            "The Columbia",
+            "The Fraser"
           ],
           "correctIndex": 1
         }
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "In 1919 Lady Astor became the first woman to take a seat in this body & kept the chair until 1945",
           "choices": [
-            "the House of Lords",
+            "The House of Lords",
             "House of Commons",
-            "the Senate",
-            "the European Parliament"
+            "The Senate",
+            "The European Parliament"
           ],
           "correctIndex": 1
         },
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "The death sentence for treason had been suspended in 1553 for this lady\u2014a teen, really\u2014but after dad rebelled in '54... not so much",
+          "clue": "The death sentence for treason had been suspended in 1553 for this lady—a teen, really—but after dad rebelled in '54... not so much",
           "choices": [
             "Mary Queen of Scots",
             "Anne Boleyn",

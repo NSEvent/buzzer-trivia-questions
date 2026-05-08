@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Like mustard & wasabi, this related root is prepared & used as a condiment",
           "choices": [
-            "ginger",
-            "turmeric",
-            "radish",
-            "horseradish"
+            "Ginger",
+            "Turmeric",
+            "Radish",
+            "Horseradish"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Turkish candy made with sesame seeds & honey",
           "choices": [
-            "baklava",
-            "marzipan",
-            "halva",
-            "halvah"
+            "Baklava",
+            "Marzipan",
+            "Halva",
+            "Halvah"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Grown from bulbs, this colorful spring flower was named for a youth Apollo loved",
           "choices": [
-            "a dahlia",
-            "a tulip",
-            "a hyacinth",
-            "a hollyhock"
+            "A dahlia",
+            "A tulip",
+            "A hyacinth",
+            "A hollyhock"
           ],
           "correctIndex": 2
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "In music it can mean \"sharp\\\"",
           "choices": [
-            "harmony",
-            "half step",
-            "forte",
-            "high"
+            "Harmony",
+            "Half step",
+            "Forte",
+            "High"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "To secretly devise something, like a plan for a really good door on my boat",
           "choices": [
-            "harbor",
-            "hinge",
-            "hatch",
-            "helm"
+            "Harbor",
+            "Hinge",
+            "Hatch",
+            "Helm"
           ],
           "correctIndex": 2
         }
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Derived from the Italian for \"nephew\", it's favoritism shown to nephews or other relatives",
           "choices": [
-            "nepotism",
-            "cronyism",
-            "patronage",
-            "simony"
+            "Nepotism",
+            "Cronyism",
+            "Patronage",
+            "Simony"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "The Esperanto word for this female relative is onklino",
           "choices": [
-            "a niece",
-            "a sister",
-            "a cousin",
-            "aunt"
+            "A niece",
+            "A sister",
+            "A cousin",
+            "Aunt"
           ],
           "correctIndex": 3
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Its the term for the relationship of the children of first cousins to each other",
           "choices": [
-            "third cousins",
-            "second cousins",
-            "cousins once removed",
-            "half cousins"
+            "Third cousins",
+            "Second cousins",
+            "Cousins once removed",
+            "Half cousins"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "An informal term for a grandmother, or the kind of knot she might tie",
           "choices": [
-            "nana",
-            "mimi",
-            "nan",
-            "granny"
+            "Nana",
+            "Mimi",
+            "Nan",
+            "Granny"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "The caribou",
           "choices": [
-            "an elk",
-            "a moose",
+            "An elk",
+            "A moose",
             "Reindeer",
-            "a musk ox"
+            "A musk ox"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "This arachnid that resembles a spider is also called a harvestman",
           "choices": [
-            "a daddy long-legs",
-            "a scorpion",
-            "a tick",
-            "a vinegaroon"
+            "A daddy long-legs",
+            "A scorpion",
+            "A tick",
+            "A vinegaroon"
           ],
           "correctIndex": 0
         },
@@ -151,9 +151,9 @@
           "clue": "Hard-shell or littleneck clam",
           "choices": [
             "Quahog",
-            "a cherrystone",
-            "an oyster",
-            "a geoduck"
+            "A cherrystone",
+            "An oyster",
+            "A geoduck"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "The dugong or the manatee",
           "choices": [
-            "a narwhal",
-            "a beluga",
+            "A narwhal",
+            "A beluga",
             "Sea cow",
-            "a porpoise"
+            "A porpoise"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "American buffalo",
           "choices": [
-            "a yak",
+            "A yak",
             "Bison",
-            "a wildebeest",
-            "a musk ox"
+            "A wildebeest",
+            "A musk ox"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "ANATOMY",
     "clue": "The meniscus disks in your knee are a type of this material that may tear if you twist wrong",
     "choices": [
-      "tendon",
-      "cartilage",
-      "ligament",
-      "fascia"
+      "Tendon",
+      "Cartilage",
+      "Ligament",
+      "Fascia"
     ],
     "correctIndex": 1
   },

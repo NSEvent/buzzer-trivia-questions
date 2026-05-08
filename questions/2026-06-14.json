@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "The Confederacy tried to pressure England & France for support using the threat of withholding this \"white gold\\\"",
           "choices": [
-            "tobacco",
-            "cotton",
-            "indigo",
-            "rice"
+            "Tobacco",
+            "Cotton",
+            "Indigo",
+            "Rice"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Originally, Union guerrillas were called jayhawkers & Southern ones were these \"vegetation strikers\\\"",
           "choices": [
-            "nightriders",
-            "copperheads",
-            "bushwhackers",
-            "guerrillas"
+            "Nightriders",
+            "Copperheads",
+            "Bushwhackers",
+            "Guerrillas"
           ],
           "correctIndex": 2
         },
@@ -104,7 +104,7 @@
             "Austria",
             "France",
             "Germany",
-            "the Netherlands"
+            "The Netherlands"
           ],
           "correctIndex": 2
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Dennis Gabor won the 1971 Physics Prize for his invention of this 3-D photographic process",
           "choices": [
-            "holography",
-            "stereoscopy",
-            "interferometry",
-            "radiography"
+            "Holography",
+            "Stereoscopy",
+            "Interferometry",
+            "Radiography"
           ],
           "correctIndex": 0
         },

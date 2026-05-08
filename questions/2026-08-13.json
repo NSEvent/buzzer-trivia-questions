@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-13",
+  "categories": [
+    {
+      "name": "THE FIRST MILLENNIUM A.D.",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Around 500 Indian astronomer Aryabhata was one of the first to mark this as the start of a day",
+          "choices": [
+            "Midnight",
+            "Dawn",
+            "Noon",
+            "Sunrise"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "In 553 missionaries smuggled silkworms out of this country, thus beginning the European silk industry",
+          "choices": [
+            "India",
+            "Persia",
+            "China",
+            "Byzantium"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "In the 9th c. this \"Great\" king of Wessex invited foreign scholars to England to teach & translate great literature",
+          "choices": [
+            "Charlemagne",
+            "William the Conqueror",
+            "Edward the Elder",
+            "Alfred the Great"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "French kings in the chaotic years around 700 were called Faineants, meaning this; it's what Truman once called Congress",
+          "choices": [
+            "Shirkers",
+            "Idlers",
+            "Busybodies",
+            "Do-Nothings"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This king called \"the Great\" beat the Danes in 886 to keep all of England from being conquered",
+          "choices": [
+            "William the Conqueror",
+            "Charlemagne",
+            "Edward the Elder",
+            "Alfred"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "NOVEL PLOTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Life on the Mississippi with an orphan & a runaway slave",
+          "choices": [
+            "Tom Sawyer",
+            "The Grapes of Wrath",
+            "Lonesome Dove",
+            "Huckleberry Finn"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Rudolf Rassendyll has a close shave when he's mistaken for the King of Ruritania",
+          "choices": [
+            "The Prisoner of Zenda",
+            "The Three Musketeers",
+            "Ivanhoe",
+            "Ben-Hur"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "The 2nd Mrs. Maxim de Winter's memories of menace at Manderley",
+          "choices": [
+            "Wuthering Heights",
+            "Jane Eyre",
+            "The Turn of the Screw",
+            "Rebecca"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Emma takes poison after using up her husband's inheritance to finance her love affair",
+          "choices": [
+            "Anna Karenina",
+            "Thérèse Raquin",
+            "The Red and the Black",
+            "Madame Bovary"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "The old priest Stephen Kumalo sadly tracks down his son in Johannesburg in this Alan Paton novel",
+          "choices": [
+            "Things Fall Apart",
+            "The Grapes of Wrath",
+            "Native Son",
+            "Cry, the Beloved Country"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "MYSTERIES & THRILLERS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "For his novel \"Inferno\", Dan Brown drew on a poem by this Italian",
+          "choices": [
+            "Petrarch",
+            "Dante",
+            "Boccaccio",
+            "Ariosto"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "After a fatal stabbing in this classic mystery, Hercule Poirot asks for \"a plan of the Istanbul-Calais Coach\\\"",
+          "choices": [
+            "Death on the Nile",
+            "The ABC Murders",
+            "Murder on the Orient Express",
+            "Peril at End House"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Time magazine named this Gillian Flynn thriller one of the \"10 Best Fiction Books of the 2010s\\\"",
+          "choices": [
+            "The Girl on the Train",
+            "Sharp Objects",
+            "Gone Girl",
+            "The Silent Patient"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "A review for this Ruth Ware bestseller set at sea says it \"just may do to cruise vacations what 'Jaws' did to ocean swimming\\\"",
+          "choices": [
+            "The Woman in Cabin 10",
+            "The Guest List",
+            "The Turn of the Key",
+            "One by One"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"The Thin Man\" by this author is about a former detective & his rich wife solving a murder amid high society",
+          "choices": [
+            "Raymond Chandler",
+            "Dashiell Hammett",
+            "Agatha Christie",
+            "Arthur Conan Doyle"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "JOKERS",
+    "clue": "Mel Brooks & this man created \"Get Smart!\\\"",
+    "choices": [
+      "Carl Reiner",
+      "Norman Lear",
+      "Buck Henry",
+      "Lorne Michaels"
+    ],
+    "correctIndex": 2
+  }
+}

@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "It was introduced to the public in 1935; in the '50s Ernst Haas was one of the first professionals to use it exclusively",
           "choices": [
-            "color photography/film",
-            "black and white photography",
-            "daguerreotype",
-            "digital photography"
+            "Color photography/film",
+            "Black and white photography",
+            "Daguerreotype",
+            "Digital photography"
           ],
           "correctIndex": 0
         },
@@ -20,7 +20,7 @@
           "clue": "This American-born Dadaist was known for his \"cameraless\" pictures, which he called rayographs",
           "choices": [
             "Marcel Duchamp",
-            "L\u00e1szl\u00f3 Moholy-Nagy",
+            "László Moholy-Nagy",
             "Francis Picabia",
             "Man Ray"
           ],
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "The Gossamer Albatross was the first plane powered by one of these to cross the English Channel",
           "choices": [
-            "solar power",
+            "Solar power",
             "Person",
-            "wind power",
-            "a jet engine"
+            "Wind power",
+            "A jet engine"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Not necessarily a \"menace\", it's a specter or ghost, or something illusory",
           "choices": [
-            "a specter",
-            "a phantom",
-            "an illusion",
-            "a wraith"
+            "A specter",
+            "A phantom",
+            "An illusion",
+            "A wraith"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "The French know that this optical phenomenon can be seen not only in the desert but also at sea",
           "choices": [
-            "a rainbow",
-            "a hallucination",
-            "a refraction",
-            "a mirage"
+            "A rainbow",
+            "A hallucination",
+            "A refraction",
+            "A mirage"
           ],
           "correctIndex": 3
         },
@@ -172,9 +172,9 @@
           "value": 1000,
           "clue": "When Lindbergh took this plane on a test flight, he set a California-to-New York speed record",
           "choices": [
-            "the Winnie Mae",
-            "the Flyer",
-            "the Vin Fiz",
+            "The Winnie Mae",
+            "The Flyer",
+            "The Vin Fiz",
             "Spirit of St. Louis"
           ],
           "correctIndex": 3
@@ -186,10 +186,10 @@
     "category": "OUTSIDE",
     "clue": "On your next beach vacation, make sure your bindings are tight for this activity",
     "choices": [
-      "surfing",
-      "kiteboarding",
-      "wakeboarding",
-      "water skiing"
+      "Surfing",
+      "Kiteboarding",
+      "Wakeboarding",
+      "Water skiing"
     ],
     "correctIndex": 2
   }

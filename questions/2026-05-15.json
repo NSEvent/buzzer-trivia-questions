@@ -52,7 +52,7 @@
           "value": 1000,
           "clue": "This French version of a girls' name important in the New Testament is also given to boys, like the Marquis de Lafayette",
           "choices": [
-            "Ren\u00e9",
+            "René",
             "Dominique",
             "Marie",
             "Claude"
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Smooth meadow grass, or Kentucky this, was brought to our continent from Europe & Asia",
           "choices": [
-            "bluegrass",
-            "ryegrass",
-            "fescue",
-            "bermuda grass"
+            "Bluegrass",
+            "Ryegrass",
+            "Fescue",
+            "Bermuda grass"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "This \"crustacean\" lawn weed has tricky stems that can make the plant shed more seed as you mow",
           "choices": [
-            "dandelion",
-            "crab grass",
-            "clover",
-            "chickweed"
+            "Dandelion",
+            "Crab grass",
+            "Clover",
+            "Chickweed"
           ],
           "correctIndex": 1
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Wolverines feed on this rodent of Norway, known for its periodic mass migrations that can lead to mass drownings",
           "choices": [
-            "lemmings",
-            "voles",
-            "muskrats",
-            "shrews"
+            "Lemmings",
+            "Voles",
+            "Muskrats",
+            "Shrews"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Rock on! This, composed of silicon dioxide, is the most abundant mineral in the continental crust",
           "choices": [
-            "quartz",
-            "feldspar",
-            "calcite",
-            "mica"
+            "Quartz",
+            "Feldspar",
+            "Calcite",
+            "Mica"
           ],
           "correctIndex": 0
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Luther Burbank developed the Shasta type of this flower, whose blossoms can measure 4 inches across",
           "choices": [
-            "chrysanthemums",
-            "marigolds",
-            "sunflowers",
-            "daisies"
+            "Chrysanthemums",
+            "Marigolds",
+            "Sunflowers",
+            "Daisies"
           ],
           "correctIndex": 3
         }
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Bruno Mars: \"Treasure, that is what you are, Honey, you're my ____ ____\\\"",
           "choices": [
-            "shining light",
-            "golden star",
-            "precious gem",
-            "lucky charm"
+            "Shining light",
+            "Golden star",
+            "Precious gem",
+            "Lucky charm"
           ],
           "correctIndex": 1
         },
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "fun.: \"This is it boys, This is ____ \u2014 What are we waiting for?\\\"",
+          "clue": "fun.: \"This is it boys, This is ____ — What are we waiting for?\\\"",
           "choices": [
             "'it'",
             "'over'",
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "The White Stripes: \"I'm gonna fight 'em off,\" this military group \"couldn't hold me back\\\"",
           "choices": [
-            "a Five Star General",
-            "a Seven Nation Army",
-            "a Thousand Soldier March",
-            "a Ten Man Brigade"
+            "A Five Star General",
+            "A Seven Nation Army",
+            "A Thousand Soldier March",
+            "A Ten Man Brigade"
           ],
           "correctIndex": 1
         }

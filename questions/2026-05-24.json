@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Mx. is a title that you can use when referring to someone when you don't know this about them",
           "choices": [
-            "their gender",
-            "their age",
-            "their nationality",
-            "their religion"
+            "Their gender",
+            "Their age",
+            "Their nationality",
+            "Their religion"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "It sounds like a meal's last course, but this word is usually paired with \"just\" to describe karmic retribution",
           "choices": [
-            "desserts",
-            "deserts",
-            "dues",
-            "fate"
+            "Desserts",
+            "Deserts",
+            "Dues",
+            "Fate"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Make a designer finish for a wall by pressing small stones into this material & you've got depreter",
           "choices": [
-            "concrete",
-            "stucco (plaster)",
-            "mortar",
-            "grout"
+            "Concrete",
+            "Stucco (plaster)",
+            "Mortar",
+            "Grout"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "It's a person of great learning in a variety of subjects, though it sounds like only in trig & calculus",
           "choices": [
-            "polymath",
-            "a bibliophile",
-            "a dilettante",
-            "a sophist"
+            "Polymath",
+            "A bibliophile",
+            "A dilettante",
+            "A sophist"
           ],
           "correctIndex": 0
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "15 million Vietnamese live in this river's delta",
           "choices": [
-            "the Red River",
-            "the Irrawaddy",
-            "the Yangtze",
-            "the Mekong"
+            "The Red River",
+            "The Irrawaddy",
+            "The Yangtze",
+            "The Mekong"
           ],
           "correctIndex": 3
         },
@@ -140,7 +140,7 @@
           "clue": "The Syr Darya, one of central Asia's major rivers, flows through 3 countries whose names end in this syllable",
           "choices": [
             "-abad",
-            "stan",
+            "Stan",
             "-baijan",
             "-ia"
           ],
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "This river's most notable tributaries, including the Ravi & Sutlej, are located in the Punjab plain",
           "choices": [
-            "the Ganges",
-            "the Indus",
-            "the Brahmaputra",
-            "the Yamuna"
+            "The Ganges",
+            "The Indus",
+            "The Brahmaputra",
+            "The Yamuna"
           ],
           "correctIndex": 1
         },
@@ -172,9 +172,9 @@
           "value": 1000,
           "clue": "At Al Qurnah, Iraq, it joins the Euphrates to form the Shatt al Arab",
           "choices": [
-            "the Karun",
-            "the Zab",
-            "the Diyala",
+            "The Karun",
+            "The Zab",
+            "The Diyala",
             "Tigris (River)"
           ],
           "correctIndex": 3

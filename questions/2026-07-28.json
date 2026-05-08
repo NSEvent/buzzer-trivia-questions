@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "As this, Abbie Rabine would become Miss America 2002 if Katie Harman throws in the sash",
           "choices": [
-            "first runner-up",
-            "second runner-up",
+            "First runner-up",
+            "Second runner-up",
             "Miss Congeniality",
-            "third runner-up"
+            "Third runner-up"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "For the Glen Campbell 45-rpm version of \"Wichita Lineman\", it was \"True Grit\\\"",
           "choices": [
-            "the A-side",
-            "the title track",
-            "the lead single",
-            "flip side"
+            "The A-side",
+            "The title track",
+            "The lead single",
+            "Flip side"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "It's the position of the horse that comes in second",
           "choices": [
-            "place",
-            "show",
-            "win",
-            "across the board"
+            "Place",
+            "Show",
+            "Win",
+            "Across the board"
           ],
           "correctIndex": 0
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "In her second book Nancy Drew's title concern was \"the hidden\" this",
           "choices": [
-            "the window",
-            "the attic",
-            "staircase",
-            "the passage"
+            "The window",
+            "The attic",
+            "Staircase",
+            "The passage"
           ],
           "correctIndex": 2
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "A popular urban legend says that Finland banned Donald Duck because he doesn't wear these",
           "choices": [
-            "a shirt",
-            "shoes",
-            "pants",
-            "a hat"
+            "A shirt",
+            "Shoes",
+            "Pants",
+            "A hat"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Donald Glaser's invention of this \"chamber\" used to view subatomic particles made him a 1960 Nobel Prize winner",
           "choices": [
-            "a cloud chamber",
-            "a spark chamber",
-            "a drift chamber",
-            "a bubble chamber"
+            "A cloud chamber",
+            "A spark chamber",
+            "A drift chamber",
+            "A bubble chamber"
           ],
           "correctIndex": 3
         }
@@ -186,10 +186,10 @@
     "category": "THE POPES",
     "clue": "Pius X's original name was Giuseppe Sarto; sarto means this, one of the first craftsmen a new pope sees",
     "choices": [
-      "a cobbler",
-      "a carpenter",
-      "tailor",
-      "a baker"
+      "A cobbler",
+      "A carpenter",
+      "Tailor",
+      "A baker"
     ],
     "correctIndex": 2
   }

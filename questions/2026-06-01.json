@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Corvus, a small constellation south of Virgo, is said to represent this black bird",
           "choices": [
-            "a raven",
-            "the crow",
-            "a magpie",
-            "a blackbird"
+            "A raven",
+            "The crow",
+            "A magpie",
+            "A blackbird"
           ],
           "correctIndex": 1
         },
@@ -30,9 +30,9 @@
           "value": 600,
           "clue": "In April 1997 one of these named Hale-Bopp will be among the brightest objects in the night sky",
           "choices": [
-            "an asteroid",
-            "a meteor",
-            "a nebula",
+            "An asteroid",
+            "A meteor",
+            "A nebula",
             "Comet"
           ],
           "correctIndex": 3
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "The ISS for short, it's considered the largest cooperative scientific project in history",
           "choices": [
-            "the Integrated Space System",
-            "the Interplanetary Space Station",
-            "the International Science Satellite",
-            "the International Space Station"
+            "The Integrated Space System",
+            "The Interplanetary Space Station",
+            "The International Science Satellite",
+            "The International Space Station"
           ],
           "correctIndex": 3
         },
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "In 1949, the, \"Lucky Lady II\" became 1st airplane to complete this, taking 94 hours & 1 minute",
           "choices": [
-            "a solo transatlantic crossing",
-            "a non-stop trip around the world",
-            "a non-stop transpacific flight",
-            "a supersonic transcontinental run"
+            "A solo transatlantic crossing",
+            "A non-stop trip around the world",
+            "A non-stop transpacific flight",
+            "A supersonic transcontinental run"
           ],
           "correctIndex": 1
         },
@@ -93,7 +93,7 @@
             "China",
             "Great Britain",
             "Germany",
-            "the Soviet Union"
+            "The Soviet Union"
           ],
           "correctIndex": 3
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Vertol, later Boeing Vertol, developed these, like the Sea Knight & the Chinook",
           "choices": [
-            "fighter jets",
-            "helicopters",
-            "transport planes",
-            "gliders"
+            "Fighter jets",
+            "Helicopters",
+            "Transport planes",
+            "Gliders"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "The primary letter & number identification of the Boeing \"Superfortress\" of WWII",
           "choices": [
-            "the B-17",
-            "the B-24",
-            "the B-29",
-            "the B-52"
+            "The B-17",
+            "The B-24",
+            "The B-29",
+            "The B-52"
           ],
           "correctIndex": 2
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "The glass snake is really a lizard without these",
           "choices": [
-            "legs",
-            "scales",
-            "eyelids",
-            "ears"
+            "Legs",
+            "Scales",
+            "Eyelids",
+            "Ears"
           ],
           "correctIndex": 0
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Its vascular system has special valves that allow blood to reach the brain, which is over 6' higher than the heart",
           "choices": [
-            "an elephant",
-            "a camel",
-            "a bison",
-            "giraffe"
+            "An elephant",
+            "A camel",
+            "A bison",
+            "Giraffe"
           ],
           "correctIndex": 3
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "A group of these normally consists of a few females, offspring & an adult male known as a silverback",
           "choices": [
-            "chimpanzees",
-            "gorillas",
-            "baboons",
-            "orangutans"
+            "Chimpanzees",
+            "Gorillas",
+            "Baboons",
+            "Orangutans"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "This stinging arachnid bears its young live & the mother carries the young on her back until they molt",
           "choices": [
-            "a spider",
-            "a tarantula",
-            "scorpion",
-            "a tick"
+            "A spider",
+            "A tarantula",
+            "Scorpion",
+            "A tick"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "In North America it's sometimes called a short-tailed weasel",
           "choices": [
-            "a mink",
-            "a ferret",
-            "ermine",
-            "a marten"
+            "A mink",
+            "A ferret",
+            "Ermine",
+            "A marten"
           ],
           "correctIndex": 2
         }

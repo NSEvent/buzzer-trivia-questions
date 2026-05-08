@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Copper, zinc, brass",
           "choices": [
-            "zinc",
-            "copper",
-            "bronze",
-            "iron"
+            "Zinc",
+            "Copper",
+            "Bronze",
+            "Iron"
           ],
           "correctIndex": 0
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Jaguar, waves or kilts",
           "choices": [
-            "cheetah",
-            "jaguar",
-            "tartan",
-            "cobra"
+            "Cheetah",
+            "Jaguar",
+            "Tartan",
+            "Cobra"
           ],
           "correctIndex": 1
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Butter, milk or cheese",
           "choices": [
-            "cheese",
-            "butter",
-            "cream",
-            "yogurt"
+            "Cheese",
+            "Butter",
+            "Cream",
+            "Yogurt"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Cozy, wax or quilt",
           "choices": [
-            "wax",
-            "warm",
-            "cozy",
-            "quilt"
+            "Wax",
+            "Warm",
+            "Cozy",
+            "Quilt"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Poof, quest or wax",
           "choices": [
-            "quest",
-            "poof",
-            "wax",
-            "quiz"
+            "Quest",
+            "Poof",
+            "Wax",
+            "Quiz"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "\\\"Blades of Glory\" with Will Ferrell",
           "choices": [
-            "hockey",
-            "skiing",
-            "ice skating",
-            "curling"
+            "Hockey",
+            "Skiing",
+            "Ice skating",
+            "Curling"
           ],
           "correctIndex": 2
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "\\\"Breaking Away\\\"",
           "choices": [
-            "motorcycle racing",
-            "marathon running",
-            "bicycle racing",
-            "horse racing"
+            "Motorcycle racing",
+            "Marathon running",
+            "Bicycle racing",
+            "Horse racing"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "\\\"Foxcatcher\\\"",
           "choices": [
-            "wrestling",
-            "boxing",
-            "judo",
-            "weightlifting"
+            "Wrestling",
+            "Boxing",
+            "Judo",
+            "Weightlifting"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "\\\"Ladybugs\\\"",
           "choices": [
-            "football",
-            "basketball",
-            "soccer",
-            "field hockey"
+            "Football",
+            "Basketball",
+            "Soccer",
+            "Field hockey"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "\\\"The Legend of Bagger Vance\\\"",
           "choices": [
-            "tennis",
-            "golf",
-            "polo",
-            "croquet"
+            "Tennis",
+            "Golf",
+            "Polo",
+            "Croquet"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "INTERNAL RHYME TIME",
     "clue": "It's used of tasks not finished or laces not tied",
     "choices": [
-      "undone",
-      "incomplete",
-      "untied",
-      "unfinished"
+      "Undone",
+      "Incomplete",
+      "Untied",
+      "Unfinished"
     ],
     "correctIndex": 0
   }

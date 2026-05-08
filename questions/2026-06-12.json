@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Aka graphology, analyzing this, whether cursive or print, can tell you a lot about people",
           "choices": [
-            "body language",
-            "fingerprinting",
-            "handwriting",
-            "facial expressions"
+            "Body language",
+            "Fingerprinting",
+            "Handwriting",
+            "Facial expressions"
           ],
           "correctIndex": 2
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Logically, one of these is used as the symbol of each biennial International Congress of Vexillology",
           "choices": [
-            "a compass",
-            "a flag",
-            "a globe",
-            "a map"
+            "A compass",
+            "A flag",
+            "A globe",
+            "A map"
           ],
           "correctIndex": 1
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "In \"Middlemarch\" Mr. Casaubon is writing a book on this & in debating \"the solar deities, he had become indifferent to the sunlight\\\"",
           "choices": [
-            "theology",
-            "mythology",
-            "astrology",
-            "archaeology"
+            "Theology",
+            "Mythology",
+            "Astrology",
+            "Archaeology"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "The first 3 letters are an abbreviation some have discarded, but this is still the study of flying saucers & the like",
           "choices": [
-            "cryptology",
+            "Cryptology",
             "Ufology (UFOlogy)",
-            "exobiology",
-            "parapsychology"
+            "Exobiology",
+            "Parapsychology"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Boston bike paths are named for Dr. Paul Dudley White, a founder of preventive this -ology",
           "choices": [
-            "neurology",
-            "nephrology",
-            "pulmonology",
-            "cardiology"
+            "Neurology",
+            "Nephrology",
+            "Pulmonology",
+            "Cardiology"
           ],
           "correctIndex": 3
         }
@@ -129,9 +129,9 @@
           "clue": "Published posthumously in 2021, \"Silverview\" is the 26th & last completed book by this British spy turned novelist",
           "choices": [
             "Ian Fleming",
-            "Le Carr\u00e9",
+            "Le Carré",
             "Frederick Forsyth",
-            "John le Carr\u00e9's son"
+            "John le Carré's son"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "In a Tom Clancy novel, it's the code name of Col. Mikhail Filitov, the CIA's highest agent in the Kremlin, whom Jack Ryan must rescue",
           "choices": [
-            "the Bishop of Moscow",
-            "the Red Falcon",
-            "the Cardinal of the Kremlin",
-            "the Ghost of the Kremlin"
+            "The Bishop of Moscow",
+            "The Red Falcon",
+            "The Cardinal of the Kremlin",
+            "The Ghost of the Kremlin"
           ],
           "correctIndex": 2
         },
@@ -186,10 +186,10 @@
     "category": "ANCIENT SYMBOLS",
     "clue": "This 4-letter wading bird was sacred to ancient Egyptians",
     "choices": [
-      "a heron",
-      "a crane",
-      "an ibis",
-      "a stork"
+      "A heron",
+      "A crane",
+      "An ibis",
+      "A stork"
     ],
     "correctIndex": 2
   }

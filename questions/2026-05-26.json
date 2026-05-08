@@ -68,9 +68,9 @@
           "value": 200,
           "clue": "Sinatra as a swinger (What a stretch!): \"Come Blow Your ____\\\"",
           "choices": [
-            "a trumpet",
-            "a flute",
-            "a tuba",
+            "A trumpet",
+            "A flute",
+            "A tuba",
             "Horn"
           ],
           "correctIndex": 3
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Bix Biederbecke's bio: \"Young Man With A ____\\\"",
           "choices": [
-            "trumpet",
-            "trombone",
+            "Trumpet",
+            "Trombone",
             "Horn",
-            "saxophone"
+            "Saxophone"
           ],
           "correctIndex": 2
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Crescent, kaiser, Parker House",
           "choices": [
-            "biscuits",
-            "croissants",
-            "loaves",
-            "rolls"
+            "Biscuits",
+            "Croissants",
+            "Loaves",
+            "Rolls"
           ],
           "correctIndex": 3
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Red globe, Thompson seedless, Concord",
           "choices": [
-            "a berry",
-            "a melon",
-            "a plum",
-            "a grape"
+            "A berry",
+            "A melon",
+            "A plum",
+            "A grape"
           ],
           "correctIndex": 3
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Bigoli, cavatelli, conchiglie",
           "choices": [
-            "pasta",
-            "cheeses",
-            "dumplings",
-            "breads"
+            "Pasta",
+            "Cheeses",
+            "Dumplings",
+            "Breads"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Blood, bockwurst, chorizo",
           "choices": [
-            "sausages",
-            "cheeses",
-            "steaks",
-            "stews"
+            "Sausages",
+            "Cheeses",
+            "Steaks",
+            "Stews"
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Button, enoki, chanterelle",
           "choices": [
-            "truffles",
-            "ferns",
-            "mushrooms",
-            "lichens"
+            "Truffles",
+            "Ferns",
+            "Mushrooms",
+            "Lichens"
           ],
           "correctIndex": 2
         }
@@ -186,10 +186,10 @@
     "category": "QUOTABLE NOTABLES",
     "clue": "A maxim from Friedrich Nietzsche says, \"What does not kill me, makes me\" this",
     "choices": [
-      "wiser",
-      "harder",
-      "stronger",
-      "braver"
+      "Wiser",
+      "Harder",
+      "Stronger",
+      "Braver"
     ],
     "correctIndex": 2
   }

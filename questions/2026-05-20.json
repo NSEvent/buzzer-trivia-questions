@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "If you want to \"be in\" this, Chicago's official downtown area, use the Quincy & Clark/Lake \"L\" stops",
           "choices": [
-            "the Loop",
-            "the Magnificent Mile",
-            "the Gold Coast",
-            "the Near North Side"
+            "The Loop",
+            "The Magnificent Mile",
+            "The Gold Coast",
+            "The Near North Side"
           ],
           "correctIndex": 0
         },
@@ -69,9 +69,9 @@
           "clue": "It's an old name for a Chinese seaport, or what the Swiss call their states",
           "choices": [
             "Canton",
-            "a province",
-            "a prefecture",
-            "a borough"
+            "A province",
+            "A prefecture",
+            "A borough"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "The main administrative municipality in a U.S. county",
           "choices": [
-            "a parish",
-            "a precinct",
-            "a township",
-            "a county seat"
+            "A parish",
+            "A precinct",
+            "A township",
+            "A county seat"
           ],
           "correctIndex": 3
         },
@@ -91,9 +91,9 @@
           "clue": "It's not the building where I keep my Perrier, it's the elevated tract of ground between 2 drainage areas",
           "choices": [
             "Watershed",
-            "a plateau",
-            "a divide",
-            "a ridge"
+            "A plateau",
+            "A divide",
+            "A ridge"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "5-letter term for a territory ruled by a duke",
           "choices": [
-            "a realm",
-            "a duchy",
-            "a fiefdom",
-            "a march"
+            "A realm",
+            "A duchy",
+            "A fiefdom",
+            "A march"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "It's a bay formed by a bend in a coastline, like the one \"of Benin\\\"",
           "choices": [
-            "a fjord",
-            "a bight",
-            "a strait",
-            "a gulf"
+            "A fjord",
+            "A bight",
+            "A strait",
+            "A gulf"
           ],
           "correctIndex": 1
         }

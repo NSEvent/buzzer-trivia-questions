@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "It describes Shakespeare's pentameter",
           "choices": [
-            "iambic",
-            "trochaic",
-            "dactylic",
-            "spondaic"
+            "Iambic",
+            "Trochaic",
+            "Dactylic",
+            "Spondaic"
           ],
           "correctIndex": 0
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "It means to construct, or to fake, as in your excuse for being late",
           "choices": [
-            "fabricate",
-            "corroborate",
-            "exaggerate",
-            "fabricate"
+            "Fabricate",
+            "Corroborate",
+            "Exaggerate",
+            "Fabricate"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "This gem of a word can precede rattlesnake, terrapin & moth",
           "choices": [
-            "copperhead",
-            "timber",
-            "sidewinder",
-            "diamondback"
+            "Copperhead",
+            "Timber",
+            "Sidewinder",
+            "Diamondback"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Lewis Carroll coined this term for meaningless words or gibberish",
           "choices": [
-            "balderdash",
-            "gobbledygook",
-            "jabberwocky",
-            "twaddle"
+            "Balderdash",
+            "Gobbledygook",
+            "Jabberwocky",
+            "Twaddle"
           ],
           "correctIndex": 2
         }
@@ -68,21 +68,21 @@
           "value": 200,
           "clue": "If you say \"he took a lot of\" this, either he was criticized or his plane was shot at",
           "choices": [
-            "blitz",
-            "strafe",
-            "flak",
-            "schrapnel"
+            "Blitz",
+            "Strafe",
+            "Flak",
+            "Schrapnel"
           ],
           "correctIndex": 2
         },
         {
           "value": 400,
-          "clue": "You may have this German desire for travel, but snap out of it\u2014there's a game to play!",
+          "clue": "You may have this German desire for travel, but snap out of it—there's a game to play!",
           "choices": [
-            "fernweh",
-            "wanderlust",
-            "schadenfreude",
-            "heimweh"
+            "Fernweh",
+            "Wanderlust",
+            "Schadenfreude",
+            "Heimweh"
           ],
           "correctIndex": 1
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "In 1969 the first watch using this mineral to keep time came on the market",
           "choices": [
-            "silicon",
-            "quartz",
-            "titanium",
-            "sapphire"
+            "Silicon",
+            "Quartz",
+            "Titanium",
+            "Sapphire"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "U2 could tell you it's a German word for \"attention\", baby!",
           "choices": [
-            "verboten",
-            "danke",
-            "gesundheit",
-            "achtung"
+            "Verboten",
+            "Danke",
+            "Gesundheit",
+            "Achtung"
           ],
           "correctIndex": 3
         },
@@ -112,7 +112,7 @@
           "value": 1000,
           "clue": "From this writer's \"Tin Drum\": \"Even bad books are books and therefore sacred\\\"",
           "choices": [
-            "(Heinrich) B\u00f6ll",
+            "(Heinrich) Böll",
             "(Thomas) Mann",
             "(Gunter) Grass",
             "(Hermann) Hesse"
@@ -187,7 +187,7 @@
     "clue": "On Feb. 20, 1971 this major general promoted himself to general & President of Uganda",
     "choices": [
       "Mobutu Sese Seko",
-      "Jean-B\u00e9del Bokassa",
+      "Jean-Bédel Bokassa",
       "Idi Amin",
       "Robert Mugabe"
     ],

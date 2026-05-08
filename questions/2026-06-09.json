@@ -22,7 +22,7 @@
             "U.K. (or England)",
             "France",
             "Ireland",
-            "the Netherlands"
+            "The Netherlands"
           ],
           "correctIndex": 0
         },
@@ -41,7 +41,7 @@
           "value": 800,
           "clue": "Brusselae Kaas",
           "choices": [
-            "the Netherlands",
+            "The Netherlands",
             "Belgium",
             "France",
             "Luxembourg"
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "In South Dakota GOP primaries, delegates are awarded not proportionally but this 3-word way",
           "choices": [
-            "winner take all",
-            "proportional representation",
-            "ranked choice voting",
-            "caucus selection"
+            "Winner take all",
+            "Proportional representation",
+            "Ranked choice voting",
+            "Caucus selection"
           ],
           "correctIndex": 0
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Because of material shortages caused by this war, the gov't froze TV station construction",
           "choices": [
-            "the Korean War",
+            "The Korean War",
             "World War I",
             "Second World War",
-            "the Cold War"
+            "The Cold War"
           ],
           "correctIndex": 2
         },

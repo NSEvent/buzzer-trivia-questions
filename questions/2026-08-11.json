@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-11",
+  "categories": [
+    {
+      "name": "TRAVEL BOOKS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Modern travel book writing got a boost in 1977 with Bruce Chatwin's account of his trip \"In\" this southern Argentine region",
+          "choices": [
+            "Patagonia",
+            "Tierra del Fuego",
+            "Pampas",
+            "Chubut"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Alice Steinbach's intimate memoir of her world travels is titled \"Without\" these, what you might need to get a good table",
+          "choices": [
+            "Reservations",
+            "Passports",
+            "Visas",
+            "Luggage"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Referring to advice on facing animals, \"Whatever You do, Don't Run\" tells of Peter Allison's time as a guide on this type of trip",
+          "choices": [
+            "Expedition",
+            "Cruise",
+            "Trekking",
+            "Safari"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "He wrote about a bus trip & other kinds of trips in 1968's \"The Electric Kool-Aid Acid Test\\\"",
+          "choices": [
+            "Hunter S. Thompson",
+            "Jack Kerouac",
+            "(Tom) Wolfe",
+            "Norman Mailer"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Robert Kaplan's historic travelog \"Balkan Ghosts\" looks at ethnic warfare from the '90s back to this June 28, 1914 event",
+          "choices": [
+            "Assassination of Archduke Franz Ferdinand",
+            "Assassination of Julius Caesar",
+            "Storming of the Bastille",
+            "Treaty of Versailles"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "ALL THINGS CONSIDERED",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1984 this delivery company \"absolutely, positively\" began service outside North America",
+          "choices": [
+            "FedEx",
+            "United Parcel Service",
+            "DHL Express",
+            "United States Postal Service"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "\\\"Much ado\" about this Shakespeare woman whose name means \"she who blesses\" & she blesses Benedick with her presence",
+          "choices": [
+            "Juliet",
+            "Rosalind",
+            "Ophelia",
+            "Beatrice"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Quaff this drink, 2 oz. gin &1/2 oz. triple sec, & try to sail around the Cape of Good Hope on the ghost ship of the same name",
+          "choices": [
+            "Singapore Sling",
+            "Tom Collins",
+            "Flying Dutchman",
+            "Blue Lagoon"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "In the Bible, Satan tells the Lord, \"touch his bone and his flesh, and he will curse thee to thy face\\\"",
+          "choices": [
+            "Job",
+            "Esau",
+            "Isaac",
+            "Jacob"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "In late 1999 controversy erupted over custody of this 6-year-old Cuban shipwreck survivor",
+          "choices": [
+            "José Martínez",
+            "Carlos Vega",
+            "Miguel Ángel",
+            "Elián González"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "BIBLICAL FIRST NAMES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Country singers Combs & Bryan both go by this first name",
+          "choices": [
+            "Matthew",
+            "James",
+            "David",
+            "Luke"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "One meaning of this name is \"seductive\", which is perfect for the woman who seduced & deceived Samson",
+          "choices": [
+            "Delilah",
+            "Ruth",
+            "Naomi",
+            "Esther"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "It's the name shared by actress Watts & model Campbell",
+          "choices": [
+            "Naomi",
+            "Ruth",
+            "Esther",
+            "Deborah"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "From Hebrew for \"the Lord exalts\", it's a good name for prophets, boys & bullfrogs",
+          "choices": [
+            "Jeremiah",
+            "Isaiah",
+            "Daniel",
+            "Micah"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Zeke is often short for this name of an Old Testament prophet whose book follows Lamentations",
+          "choices": [
+            "Obadiah",
+            "Ezekiel",
+            "Jonah",
+            "Malachi"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THE 7 WONDERS OF THE ANCIENT WORLD",
+    "clue": "It's the only one of the ancient wonders that was located in present-day Iraq",
+    "choices": [
+      "Great Pyramid of Giza",
+      "Colossus of Rhodes",
+      "Lighthouse of Alexandria",
+      "The Hanging Gardens of Babylon"
+    ],
+    "correctIndex": 3
+  }
+}

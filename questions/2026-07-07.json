@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "The Blackfoot, Big Wood & Salmon Rivers all flow into this 1 that drains most of the state",
           "choices": [
-            "the Columbia",
-            "the Boise",
-            "the Bear",
-            "the Snake"
+            "The Columbia",
+            "The Boise",
+            "The Bear",
+            "The Snake"
           ],
           "correctIndex": 3
         }
@@ -102,9 +102,9 @@
           "clue": "This treaty on European unity went into effect on November 1",
           "choices": [
             "Maastricht Treaty",
-            "the Treaty of Rome",
-            "the Schengen Agreement",
-            "the Single European Act"
+            "The Treaty of Rome",
+            "The Schengen Agreement",
+            "The Single European Act"
           ],
           "correctIndex": 0
         },
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Kicked off by the Russians in October 1957, it's also an adjective meaning \"shiny & modern\\\"",
           "choices": [
-            "the Space Age",
-            "the Jet Age",
-            "the Atomic Age",
-            "the Digital Age"
+            "The Space Age",
+            "The Jet Age",
+            "The Atomic Age",
+            "The Digital Age"
           ],
           "correctIndex": 0
         },
@@ -139,9 +139,9 @@
           "value": 400,
           "clue": "Mark Twain wrote for the journal The Golden Era before co-writing the 1873 novel titled this \"Age\\\"",
           "choices": [
-            "the Bronze Age",
-            "the Golden Age",
-            "the Progressive Age",
+            "The Bronze Age",
+            "The Golden Age",
+            "The Progressive Age",
             "The Gilded Age"
           ],
           "correctIndex": 3
@@ -150,21 +150,21 @@
           "value": 600,
           "clue": "Nobel laureate Paul Crutzen said the Anthropocene epoch began with rising levels of these gases like CO2 around 1800",
           "choices": [
-            "greenhouse gases",
-            "nitrogen compounds",
-            "radioactive isotopes",
-            "particulate matter"
+            "Greenhouse gases",
+            "Nitrogen compounds",
+            "Radioactive isotopes",
+            "Particulate matter"
           ],
           "correctIndex": 0
         },
         {
           "value": 800,
-          "clue": "\u2014Hey, Dante! \u2014Yeah, Plutarch! \u2014It's almost 1300. Time to start this \"rebirth\\\"",
+          "clue": "—Hey, Dante! —Yeah, Plutarch! —It's almost 1300. Time to start this \"rebirth\\\"",
           "choices": [
-            "the Reformation",
-            "the Renaissance",
-            "the Enlightenment",
-            "the Inquisition"
+            "The Reformation",
+            "The Renaissance",
+            "The Enlightenment",
+            "The Inquisition"
           ],
           "correctIndex": 1
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Japan underwent Westernization in the period named for Mutsuhito, who took this royal \"M\" name & died in 1912",
           "choices": [
-            "the Meiji Restoration",
-            "the Taisho Restoration",
-            "the Tokugawa Restoration",
-            "the Showa Restoration"
+            "The Meiji Restoration",
+            "The Taisho Restoration",
+            "The Tokugawa Restoration",
+            "The Showa Restoration"
           ],
           "correctIndex": 0
         }

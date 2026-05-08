@@ -33,7 +33,7 @@
             "Rumi",
             "Hafez",
             "Al-Ghazali",
-            "(Omar) Khayy\u00e1m"
+            "(Omar) Khayyám"
           ],
           "correctIndex": 3
         },
@@ -42,7 +42,7 @@
           "clue": "The title character of this Voltaire work discovers gardening will make him happy",
           "choices": [
             "Zadig",
-            "Microm\u00e9gas",
+            "Micromégas",
             "Candide",
             "Rasselas"
           ],
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "In 1893 the U.S. got a new diplomatic rank: Thomas Bayard, our first official one of these, was off to Great Britain",
           "choices": [
-            "ambassador (to the Court of St. James)",
-            "a minister plenipotentiary",
-            "a consul general",
-            "an envoy extraordinary"
+            "Ambassador (to the Court of St. James)",
+            "A minister plenipotentiary",
+            "A consul general",
+            "An envoy extraordinary"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Pepsi's Harvey Russell was the first black exec to reach this high rank (though not highest) in a Fortune 500 co.",
           "choices": [
-            "treasurer",
-            "controller",
-            "director",
-            "vice president"
+            "Treasurer",
+            "Controller",
+            "Director",
+            "Vice president"
           ],
           "correctIndex": 3
         },
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Prince Boris Golitzen invented an electromagnetic one of these, & was probably paid \"Richter\" scale",
           "choices": [
-            "a magnetometer",
-            "a barograph",
+            "A magnetometer",
+            "A barograph",
             "Seismograph",
-            "a galvanometer"
+            "A galvanometer"
           ],
           "correctIndex": 2
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "In 1930 Thomas Midgley discovered this refrigerant that has become an environmental hazard",
           "choices": [
-            "ammonia",
-            "sulfur dioxide",
-            "carbon tetrachloride",
-            "freon"
+            "Ammonia",
+            "Sulfur dioxide",
+            "Carbon tetrachloride",
+            "Freon"
           ],
           "correctIndex": 3
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "In July of 1995, leptin was in the news; it's a protein that caused some mice to do this",
           "choices": [
-            "grow larger",
-            "live longer",
-            "lose weight",
-            "reproduce faster"
+            "Grow larger",
+            "Live longer",
+            "Lose weight",
+            "Reproduce faster"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Before these saddle parts were invented, foot soldiers, not knights on horses, did most of the fighting",
           "choices": [
-            "saddle horns",
-            "stirrups",
-            "spurs",
-            "bridles"
+            "Saddle horns",
+            "Stirrups",
+            "Spurs",
+            "Bridles"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "WORLD BUSINESS",
     "clue": "Since 1959 more than 500 million examples of this toy created by Ruth Handler have been sold",
     "choices": [
-      "the G.I. Joe",
-      "the Barbie doll",
-      "the Cabbage Patch Kid",
-      "the Raggedy Ann doll"
+      "The G.I. Joe",
+      "The Barbie doll",
+      "The Cabbage Patch Kid",
+      "The Raggedy Ann doll"
     ],
     "correctIndex": 1
   }

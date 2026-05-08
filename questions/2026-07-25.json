@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "The bison depicted on this coin, 1913 to 1938, was Black Diamond, an animal on exhibit at the N.Y. Zoological Gardens",
           "choices": [
-            "the quarter",
-            "the penny",
-            "the nickel",
-            "the half dollar"
+            "The quarter",
+            "The penny",
+            "The nickel",
+            "The half dollar"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "On Feb. 12, 1959 a new design for the back of this coin was introduced",
           "choices": [
-            "the quarter",
-            "the Lincoln penny",
-            "the nickel",
-            "the half dollar"
+            "The quarter",
+            "The Lincoln penny",
+            "The nickel",
+            "The half dollar"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "The reverse of this current U.S. coin depicts an olive branch, an oak branch & a torch",
           "choices": [
-            "a nickel",
-            "a quarter",
-            "a penny",
-            "a dime (or ten-cent piece)"
+            "A nickel",
+            "A quarter",
+            "A penny",
+            "A dime (or ten-cent piece)"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "In 2011 this U.N. organization, FAO for short, declared the first eradication of an animal disease, rinderpest",
           "choices": [
-            "the World Health Organization",
-            "the United Nations Environment Programme",
-            "the Food and Agricultural Organization",
-            "the International Labour Organization"
+            "The World Health Organization",
+            "The United Nations Environment Programme",
+            "The Food and Agricultural Organization",
+            "The International Labour Organization"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "As of summer 1999, you could no longer hail one of these iconic rides in New York",
           "choices": [
-            "a horse-drawn carriage",
-            "a double-decker bus",
-            "a checker cab",
-            "a rickshaw"
+            "A horse-drawn carriage",
+            "A double-decker bus",
+            "A checker cab",
+            "A rickshaw"
           ],
           "correctIndex": 2
         },
@@ -175,7 +175,7 @@
             "Transvaal",
             "Natal",
             "Rhodesia",
-            "the Orange Free State"
+            "The Orange Free State"
           ],
           "correctIndex": 0
         }
@@ -186,10 +186,10 @@
     "category": "PROTESTANTISM",
     "clue": "Organized in Augusta, Georgia, the largest U.S. Protestant denomination is the SBC, or this convention",
     "choices": [
-      "the Northern Baptists",
-      "the American Baptists",
-      "the Free Will Baptists",
-      "the Southern Baptists"
+      "The Northern Baptists",
+      "The American Baptists",
+      "The Free Will Baptists",
+      "The Southern Baptists"
     ],
     "correctIndex": 3
   },

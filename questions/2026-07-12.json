@@ -20,9 +20,9 @@
           "clue": "An English word for an ill-mannered person is related to this term for a South African settler",
           "choices": [
             "Boer",
-            "a Voortrekker",
-            "an Afrikaner",
-            "a Uitlander"
+            "A Voortrekker",
+            "An Afrikaner",
+            "A Uitlander"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Led by Mangosuthu Buthelezi, the Inkatha Freedom Party's support is based in this Bantu group",
           "choices": [
-            "the Xhosa",
-            "the Sotho",
-            "the Zulus",
-            "the Ndebele"
+            "The Xhosa",
+            "The Sotho",
+            "The Zulus",
+            "The Ndebele"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Death can result from a subdural this, a collection of blood in the tissue caused by blunt-force trauma",
           "choices": [
-            "an aneurysm",
-            "a contusion",
-            "hematoma",
-            "an embolism"
+            "An aneurysm",
+            "A contusion",
+            "Hematoma",
+            "An embolism"
           ],
           "correctIndex": 2
         },
@@ -151,9 +151,9 @@
           "clue": "One of the 2 main types of chemical bonds",
           "choices": [
             "(either of) ionic or covalent",
-            "hydrogen or metallic",
-            "polar or nonpolar",
-            "oxidative or reductive"
+            "Hydrogen or metallic",
+            "Polar or nonpolar",
+            "Oxidative or reductive"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "(Kelly of the Clue Crew reports.) Give a length of paper a half-twist, join the ends, & you've created one of these one-sided strips named for a German topologist",
           "choices": [
-            "a Klein bottle",
-            "a M\u00f6bius strip",
-            "a torus",
-            "a Riemann surface"
+            "A Klein bottle",
+            "A Möbius strip",
+            "A torus",
+            "A Riemann surface"
           ],
           "correctIndex": 1
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Humans can drink sea water once it has been desalinated, meaning this has been removed",
           "choices": [
-            "bacteria",
-            "algae",
-            "salt",
-            "minerals"
+            "Bacteria",
+            "Algae",
+            "Salt",
+            "Minerals"
           ],
           "correctIndex": 2
         }
@@ -186,10 +186,10 @@
     "category": "TURN OF THE CENTURY",
     "clue": "The Chinese secret society, \"The Righteous and Harmonious Fists\", was commonly called this",
     "choices": [
-      "the Taiping",
-      "the Triads",
-      "the White Lotus",
-      "the Boxers"
+      "The Taiping",
+      "The Triads",
+      "The White Lotus",
+      "The Boxers"
     ],
     "correctIndex": 3
   }

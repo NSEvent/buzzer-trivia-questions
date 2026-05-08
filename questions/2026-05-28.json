@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "Must be something in the water\u2014this Olympian swimmer with 10 medals, including 7 gold, hails from Maryland like Michael Phelps",
+          "clue": "Must be something in the water—this Olympian swimmer with 10 medals, including 7 gold, hails from Maryland like Michael Phelps",
           "choices": [
             "Missy Franklin",
             "Natalie Coughlin",
@@ -186,10 +186,10 @@
     "category": "BUGS",
     "clue": "Also called the 17-year locust, this loud insect reaches over 100 decibels",
     "choices": [
-      "a cricket",
-      "a cicada",
-      "a grasshopper",
-      "a katydid"
+      "A cricket",
+      "A cicada",
+      "A grasshopper",
+      "A katydid"
     ],
     "correctIndex": 1
   }

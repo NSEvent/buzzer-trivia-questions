@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "A sinister presence at court is Sir Francis Bryan who lost that eye in one of these sporting events",
           "choices": [
-            "a joust",
-            "a tournament",
-            "a duel",
-            "a fox hunt"
+            "A joust",
+            "A tournament",
+            "A duel",
+            "A fox hunt"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "The Great House of Easement at the Tudors' Hampton Court Palace was this type of room",
           "choices": [
-            "a kitchen",
-            "a throne room",
-            "a bathroom",
-            "a chapel"
+            "A kitchen",
+            "A throne room",
+            "A bathroom",
+            "A chapel"
           ],
           "correctIndex": 2
         },
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Working these muscles, including the transverse & oblique ones, can give you a \"six-pack\\\"",
           "choices": [
-            "back muscles",
-            "stomach muscles (or your abs)",
-            "chest muscles",
-            "leg muscles"
+            "Back muscles",
+            "Stomach muscles (or your abs)",
+            "Chest muscles",
+            "Leg muscles"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "During strenuous activity, the glycogen in your muscles is converted into this \"milky\" acid, C3H6O3",
           "choices": [
-            "citric acid",
-            "lactic acid",
-            "pyruvic acid",
-            "acetic acid"
+            "Citric acid",
+            "Lactic acid",
+            "Pyruvic acid",
+            "Acetic acid"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "4 muscles make up this \"cuff\" that pitchers dread tearing",
           "choices": [
-            "rotator",
-            "hamstring",
-            "quadriceps",
-            "deltoid"
+            "Rotator",
+            "Hamstring",
+            "Quadriceps",
+            "Deltoid"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "In humans, muscles are defined as striated, cardiac or this type",
           "choices": [
-            "smooth muscles",
-            "voluntary muscles",
-            "skeletal muscles",
-            "fibrous muscles"
+            "Smooth muscles",
+            "Voluntary muscles",
+            "Skeletal muscles",
+            "Fibrous muscles"
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "A muscle that draws a body part away from the middle of the body, or a synonym for \"kidnapper\\\"",
           "choices": [
-            "an adductor",
-            "an abductor",
-            "a flexor",
-            "an extensor"
+            "An adductor",
+            "An abductor",
+            "A flexor",
+            "An extensor"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "MORE THAN ONE MEANING",
     "clue": "This word can refer to the boat on the left or the pile on the right",
     "choices": [
-      "lumber",
-      "junk",
-      "port",
-      "scrap"
+      "Lumber",
+      "Junk",
+      "Port",
+      "Scrap"
     ],
     "correctIndex": 1
   }

@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-12",
+  "categories": [
+    {
+      "name": "U.S. COUNTIES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "At least 14 states have Wayne Counties named for this \"Mad\"man",
+          "choices": [
+            "General William Tecumseh Sherman",
+            "General John Stark",
+            "General Anthony Wayne",
+            "General Zachary Taylor"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "This Illinois county has the largest African American population of any U.S. county, with about 1.5 million",
+          "choices": [
+            "DuPage County",
+            "Lake County",
+            "Will County",
+            "Cook County"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "State which consists of only Sussex, Kent & New Castle counties",
+          "choices": [
+            "Rhode Island",
+            "Delaware",
+            "Hawaii",
+            "Connecticut"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "In 1997 \"Miami\" was added to the name of this county that honors a fallen soldier",
+          "choices": [
+            "Hillsborough County",
+            "Brevard County",
+            "Dade County",
+            "Pinellas County"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "This Oklahoma county is in the title of Tracy Letts' play about a dysfunctional family",
+          "choices": [
+            "Pawnee County",
+            "Osage County",
+            "Creek County",
+            "Cherokee County"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "IT BORDERS CHINA",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A 2014 USA Today headline said the leader of this country was \"'elected' with 100% of the vote\\\"",
+          "choices": [
+            "Mongolia",
+            "North Korea",
+            "India",
+            "Russia"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Under French rule since the 1800s, this landlocked country became fully independent in the 1950s",
+          "choices": [
+            "Myanmar",
+            "Vietnam",
+            "Afghanistan",
+            "Laos"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "One of the 2 monarchies that border China",
+          "choices": [
+            "Kazakhstan",
+            "Kyrgyzstan",
+            "Nepal (or Bhutan)",
+            "Tajikistan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "The one country that borders both China & the Yellow Sea",
+          "choices": [
+            "South Korea",
+            "Vietnam",
+            "North Korea",
+            "Russia"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Its national university was founded in Ulaanbaatar in 1942",
+          "choices": [
+            "Mongolia",
+            "Kazakhstan",
+            "Myanmar",
+            "Laos"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "HISTORY ON FILM",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1958, Pan Am inaugurated scheduled jet service across this pond",
+          "choices": [
+            "The Atlantic Ocean",
+            "The Pacific Ocean",
+            "The Indian Ocean",
+            "The Mediterranean Sea"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This British medical student made mid-20th century sports history",
+          "choices": [
+            "Roger Bannister",
+            "John Landy",
+            "Peter Snell",
+            "Herb Elliott"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "This senator from Maine announced her run for the presidency in 1964",
+          "choices": [
+            "Eleanor Roosevelt",
+            "Barbara Boxer",
+            "Margaret Chase Smith",
+            "Shirley Chisholm"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "In \"American Made\" it's the 1980s & Tom Cruise is flying guns to these Nicaraguans battling the Sandinistas",
+          "choices": [
+            "The FMLN",
+            "The Contras",
+            "The Tupamaros",
+            "The Mujahideen"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Among this 1995 Oscar-winning film's less historically accurate moments—the Battle of Stirling Bridge is fought in a field",
+          "choices": [
+            "Braveheart",
+            "Troy",
+            "Kingdom of Heaven",
+            "Alexander"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "-ISMs",
+    "clue": "The belief that all people deserve the same rights; the word comes from those revolutionary French",
+    "choices": [
+      "Egalitarianism",
+      "Utilitarianism",
+      "Libertarianism",
+      "Socialism"
+    ],
+    "correctIndex": 0
+  }
+}

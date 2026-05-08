@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "In a theater, the mezzanine is the lowest one",
           "choices": [
-            "a balustrade",
-            "a loge",
-            "a balcony",
-            "an orchestra pit"
+            "A balustrade",
+            "A loge",
+            "A balcony",
+            "An orchestra pit"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "All hail the grain of this plant, used in making beer",
           "choices": [
-            "buckwheat",
-            "rye",
-            "millet",
-            "barley"
+            "Buckwheat",
+            "Rye",
+            "Millet",
+            "Barley"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "In mountain climbing, this verb means to secure a person to an end of a rope",
           "choices": [
-            "belay",
-            "bivouac",
-            "rappel",
-            "crampon"
+            "Belay",
+            "Bivouac",
+            "Rappel",
+            "Crampon"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "If you're having this 3-word episode, you might have to explain that you're not going for a mohawk or mullet",
           "choices": [
-            "a bad back ache",
-            "a bad hair day",
-            "a bad break up",
-            "a bad blood clot"
+            "A bad back ache",
+            "A bad hair day",
+            "A bad break up",
+            "A bad blood clot"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "A medieval book of animals",
           "choices": [
-            "a breviary",
-            "a bestiary",
-            "a bestiary of saints",
-            "a biblical codex"
+            "A breviary",
+            "A bestiary",
+            "A bestiary of saints",
+            "A biblical codex"
           ],
           "correctIndex": 1
         }
@@ -66,12 +66,12 @@
       "questions": [
         {
           "value": 200,
-          "clue": "The 1924 Games saw the debut of the motto \"Citius, Altius, Fortius\"\u2014faster, higher, this",
+          "clue": "The 1924 Games saw the debut of the motto \"Citius, Altius, Fortius\"—faster, higher, this",
           "choices": [
-            "swifter",
-            "stronger",
-            "bolder",
-            "braver"
+            "Swifter",
+            "Stronger",
+            "Bolder",
+            "Braver"
           ],
           "correctIndex": 1
         },
@@ -90,7 +90,7 @@
           "value": 600,
           "clue": "This country has hosted the summer Olympics 4 times, more than any other",
           "choices": [
-            "the U.S.",
+            "The U.S.",
             "Great Britain",
             "France",
             "Germany"
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "In 1904 Ralph Rose & Martin Sheridan broke a tie with a \"throw-off\" in this field event; Sheridan won with a spin of 127' 10 1/4\\\"",
           "choices": [
-            "the hammer throw",
-            "the shot put",
-            "the javelin",
-            "discus"
+            "The hammer throw",
+            "The shot put",
+            "The javelin",
+            "Discus"
           ],
           "correctIndex": 3
         },
@@ -139,9 +139,9 @@
           "value": 400,
           "clue": "\\\"(Kinshasa)\" sometimes follows the name of this country",
           "choices": [
-            "the Republic of the Congo",
-            "the Democratic Republic of the Congo",
-            "the Central African Republic",
+            "The Republic of the Congo",
+            "The Democratic Republic of the Congo",
+            "The Central African Republic",
             "Cameroon"
           ],
           "correctIndex": 1
@@ -152,7 +152,7 @@
           "choices": [
             "Gabon",
             "Cameroon",
-            "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+            "São Tomé and Príncipe",
             "Equatorial Guinea"
           ],
           "correctIndex": 3
@@ -186,10 +186,10 @@
     "category": "ACES",
     "clue": "An ace is slang for this amount of U.S. money",
     "choices": [
-      "one dollar",
-      "five dollars",
-      "a dime",
-      "a quarter"
+      "One dollar",
+      "Five dollars",
+      "A dime",
+      "A quarter"
     ],
     "correctIndex": 0
   }

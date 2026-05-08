@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Bird mentioned in opening line of \"My Blue Heaven\\\"",
           "choices": [
-            "whippoorwill",
-            "a nightingale",
-            "a mockingbird",
-            "a robin"
+            "Whippoorwill",
+            "A nightingale",
+            "A mockingbird",
+            "A robin"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "\\\"I'll raise you like a\" this mythical bird, sang Fall Out Boy, who rhymed it with remix",
           "choices": [
-            "a griffin",
-            "a dragon",
-            "a roc",
-            "a phoenix"
+            "A griffin",
+            "A dragon",
+            "A roc",
+            "A phoenix"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Like Shelley, Johnny Mercer & Hoagy Carmichael wrote an ode to this title bird",
           "choices": [
-            "a nightingale",
-            "a bluebird",
-            "skylark",
-            "a swallow"
+            "A nightingale",
+            "A bluebird",
+            "Skylark",
+            "A swallow"
           ],
           "correctIndex": 2
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Leo Durocher said that he \"never questioned the integrity of\" one; his eyesight, yes",
           "choices": [
-            "an athlete",
-            "an empire",
-            "umpire",
-            "an uncle"
+            "An athlete",
+            "An empire",
+            "Umpire",
+            "An uncle"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Dull, or a type of angle",
           "choices": [
-            "obtuse",
-            "oblique",
-            "opaque",
-            "acute"
+            "Obtuse",
+            "Oblique",
+            "Opaque",
+            "Acute"
           ],
           "correctIndex": 0
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "From the Latin for \"not known\", it means having one's identity concealed",
           "choices": [
-            "anonymous",
-            "incognito",
-            "invisible",
-            "obscure"
+            "Anonymous",
+            "Incognito",
+            "Invisible",
+            "Obscure"
           ],
           "correctIndex": 1
         },
@@ -164,7 +164,7 @@
             "Ido",
             "Esperanto",
             "Interlingua",
-            "Volap\u00fck"
+            "Volapük"
           ],
           "correctIndex": 1
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "You stand with arms this way with your hands on your hips & your elbows bent outward",
           "choices": [
-            "askew",
-            "agape",
-            "awry",
-            "akimbo"
+            "Askew",
+            "Agape",
+            "Awry",
+            "Akimbo"
           ],
           "correctIndex": 3
         }

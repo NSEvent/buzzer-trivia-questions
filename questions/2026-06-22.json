@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Sometimes combined with \"guess\", it means to calculate approximately the amount of something",
           "choices": [
-            "tabulate",
-            "calibrate",
-            "approximate",
-            "estimate"
+            "Tabulate",
+            "Calibrate",
+            "Approximate",
+            "Estimate"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Sprout like a plant, or lie on a couch like a useless slug, watching TV & eating chips",
           "choices": [
-            "hibernate",
-            "vegetate",
-            "pollinate",
-            "cultivate"
+            "Hibernate",
+            "Vegetate",
+            "Pollinate",
+            "Cultivate"
           ],
           "correctIndex": 1
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "It can mean to think or focus really, really hard, or to rally all forces towards one specific goal",
           "choices": [
-            "meditate",
-            "motivate",
-            "concentrate",
-            "dedicate"
+            "Meditate",
+            "Motivate",
+            "Concentrate",
+            "Dedicate"
           ],
           "correctIndex": 2
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Pronounced one way it's an adjective describing a close friend; pronounced as a verb, it means to imply indirectly or suggest",
           "choices": [
-            "simulate",
-            "intimate",
-            "indicate",
-            "validate"
+            "Simulate",
+            "Intimate",
+            "Indicate",
+            "Validate"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "The Latin for \"speak against\" gives us this verb of refutation",
           "choices": [
-            "counteract",
-            "replicate",
-            "demonstrate",
-            "contradict"
+            "Counteract",
+            "Replicate",
+            "Demonstrate",
+            "Contradict"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "In the 1930s Isamu Noguchi designed an early one of these for parents; the receiver was called \"radio nurse\\\"",
           "choices": [
-            "a baby carriage",
-            "a smoke detector",
-            "a portable crib",
-            "a baby monitor"
+            "A baby carriage",
+            "A smoke detector",
+            "A portable crib",
+            "A baby monitor"
           ],
           "correctIndex": 3
         },
@@ -139,16 +139,16 @@
           "value": 400,
           "clue": "This name refers to any depiction of the Virgin holding the dead Christ, not just Michelangelo's sculpture",
           "choices": [
-            "a Madonna",
-            "a Annunciation",
+            "A Madonna",
+            "A Annunciation",
             "Pieta",
-            "a Deposition"
+            "A Deposition"
           ],
           "correctIndex": 2
         },
         {
           "value": 600,
-          "clue": "The National Company made the instruments he sings about in \"Graceland\"\u2014\"The Mississippi Delta was shining like National guitar\\\"",
+          "clue": "The National Company made the instruments he sings about in \"Graceland\"—\"The Mississippi Delta was shining like National guitar\\\"",
           "choices": [
             "(Bob) Dylan",
             "(Paul) Simon",
@@ -161,9 +161,9 @@
           "value": 800,
           "clue": "Ludwig Mies Van Der Rohe & Philip Johnson designed this NYC skyscraper named for a liquor company",
           "choices": [
-            "the Chrysler Building",
+            "The Chrysler Building",
             "Rockefeller Center",
-            "the Lever House",
+            "The Lever House",
             "Seagram's Building/Tower"
           ],
           "correctIndex": 3

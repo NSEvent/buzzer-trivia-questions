@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Pope Gregory VII did this to German emperor Henry IV, but relented when Henry begged for 3 days",
           "choices": [
-            "abdication",
-            "imprisonment",
+            "Abdication",
+            "Imprisonment",
             "Excommunication",
-            "interdict"
+            "Interdict"
           ],
           "correctIndex": 2
         },
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "We give a hoot that the whekau, or laughing this bird of New Zealand, laughs no more",
           "choices": [
-            "a parrot",
-            "a crane",
-            "a kiwi",
-            "an owl"
+            "A parrot",
+            "A crane",
+            "A kiwi",
+            "An owl"
           ],
           "correctIndex": 3
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "The giant rice rat of Martinique hasn't been seen since 1897; the introduction of this cobra foe may be responsible",
           "choices": [
-            "a mongoose",
-            "a ferret",
-            "a weasel",
-            "a rat snake"
+            "A mongoose",
+            "A ferret",
+            "A weasel",
+            "A rat snake"
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "The dwarf woolly type of this roamed Russia's Wrangel Island a few centuries after the Great Pyramid was built",
           "choices": [
-            "a mammoth",
-            "a mastodon",
-            "a giant sloth",
-            "a saber-toothed cat"
+            "A mammoth",
+            "A mastodon",
+            "A giant sloth",
+            "A saber-toothed cat"
           ],
           "correctIndex": 0
         }
@@ -188,8 +188,8 @@
     "choices": [
       "Peter, Paul and Mary",
       "The Kingston Trio",
-      "the Weavers",
-      "the Limeliters"
+      "The Weavers",
+      "The Limeliters"
     ],
     "correctIndex": 1
   }

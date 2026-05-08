@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Google, Looksmart & Ask Jeeves are search ones",
           "choices": [
-            "entries",
-            "engines",
-            "enhancers",
-            "endpoints"
+            "Entries",
+            "Engines",
+            "Enhancers",
+            "Endpoints"
           ],
           "correctIndex": 1
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "These peptide hormones in the brain reduce the sensation of pain",
           "choices": [
-            "enkephalins",
-            "endocannabinoids",
-            "endomorphins",
-            "endorphins"
+            "Enkephalins",
+            "Endocannabinoids",
+            "Endomorphins",
+            "Endorphins"
           ],
           "correctIndex": 3
         },
@@ -31,8 +31,8 @@
           "clue": "This Baja California port city is known as \"Yellowtail Capital of the World\\\"",
           "choices": [
             "Encinitas",
-            "Encarnaci\u00f3n",
-            "Entrerr\u00edos",
+            "Encarnación",
+            "Entrerríos",
             "Ensenada"
           ],
           "correctIndex": 3
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "2-word term for the consumer, for whom a computer is ultimately designed",
           "choices": [
-            "an end user",
-            "an end buyer",
-            "an end consumer",
-            "an end client"
+            "An end user",
+            "An end buyer",
+            "An end consumer",
+            "An end client"
           ],
           "correctIndex": 0
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "It's a territory belonging to one country but lying within another, such as Spain's Ceuta & Melilla in Morocco",
           "choices": [
-            "an exclave",
-            "an entrepot",
-            "an enclave",
-            "an enclosure"
+            "An exclave",
+            "An entrepot",
+            "An enclave",
+            "An enclosure"
           ],
           "correctIndex": 2
         }
@@ -70,7 +70,7 @@
           "choices": [
             "Edelmiro Farrell",
             "Arturo Frondizi",
-            "Ram\u00f3n Castillo",
+            "Ramón Castillo",
             "Juan Peron"
           ],
           "correctIndex": 3
@@ -128,7 +128,7 @@
           "value": 200,
           "clue": "She sang, \"Now that it's raining more than ever... you can stand under my umbrella... ella, ella, eh eh eh\\\"",
           "choices": [
-            "Beyonc\u00e9",
+            "Beyoncé",
             "Katy Perry",
             "Lady Gaga",
             "Rihanna"
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "In \"The Perfect\" this genre \"Song\", \"I was drunk the day my mom got out of prison, & I went to pick her up in the rain\\\"",
           "choices": [
-            "bluegrass",
-            "country",
-            "western",
-            "folk"
+            "Bluegrass",
+            "Country",
+            "Western",
+            "Folk"
           ],
           "correctIndex": 1
         },
@@ -172,7 +172,7 @@
           "value": 1000,
           "clue": "This duo, in 1984: \"Here comes the rain again, falling on my head like a memory, falling on my head like a new emotion\\\"",
           "choices": [
-            "the Eurythmics",
+            "The Eurythmics",
             "Hall & Oates",
             "Wham!",
             "Yazoo"
@@ -186,10 +186,10 @@
     "category": "FOR THE KIDS",
     "clue": "Animal that went both ways in \"Dr. Doolittle\\\"",
     "choices": [
-      "the Wiff-Waff",
-      "the Quilliphant",
-      "the Bliffendorf",
-      "a Pushmi-Pullyu"
+      "The Wiff-Waff",
+      "The Quilliphant",
+      "The Bliffendorf",
+      "A Pushmi-Pullyu"
     ],
     "correctIndex": 3
   }

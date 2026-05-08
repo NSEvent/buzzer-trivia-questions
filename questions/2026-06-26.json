@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "The Teamsters Union is formally called an \"International\" one of these",
           "choices": [
-            "a federation",
-            "a society",
-            "an alliance",
-            "a brotherhood"
+            "A federation",
+            "A society",
+            "An alliance",
+            "A brotherhood"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Woodrow Wilson lived to see this organization grow out of the last of his 14 points",
           "choices": [
-            "the United Nations",
-            "the World Court",
-            "the International Labor Organization",
-            "the League of Nations"
+            "The United Nations",
+            "The World Court",
+            "The International Labor Organization",
+            "The League of Nations"
           ],
           "correctIndex": 3
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Woodrow Wilson lived to see this organization grow out of the last of his 14 Points",
           "choices": [
-            "the League of Nations",
-            "the United Nations",
-            "the International Labor Organization",
-            "the World Health Organization"
+            "The League of Nations",
+            "The United Nations",
+            "The International Labor Organization",
+            "The World Health Organization"
           ],
           "correctIndex": 0
         },
@@ -128,9 +128,9 @@
           "value": 200,
           "clue": "\\\"Peter Pan\" is subtitled \"The Boy Who Would Not...\" do this",
           "choices": [
-            "fly",
-            "fight",
-            "leave",
+            "Fly",
+            "Fight",
+            "Leave",
             "Grow Up"
           ],
           "correctIndex": 3
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Before he died, J.M. Barrie assigned these to the Great Ormond Street Hospital for Children in London",
           "choices": [
-            "royalties (copyrights)",
-            "his manuscripts",
-            "the film rights",
-            "the stage rights"
+            "Royalties (copyrights)",
+            "His manuscripts",
+            "The film rights",
+            "The stage rights"
           ],
           "correctIndex": 0
         }

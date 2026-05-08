@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Intense small cyclone that blew Dorothy to the Land of Oz",
           "choices": [
-            "a hurricane",
-            "a tornado",
-            "a blizzard",
-            "a thunderstorm"
+            "A hurricane",
+            "A tornado",
+            "A blizzard",
+            "A thunderstorm"
           ],
           "correctIndex": 1
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "In 79 A.D. one of these destroyed the Roman cities of Pompeii & Herculaneum",
           "choices": [
-            "an earthquake",
-            "a volcanic eruption",
-            "a tsunami",
-            "a flood"
+            "An earthquake",
+            "A volcanic eruption",
+            "A tsunami",
+            "A flood"
           ],
           "correctIndex": 1
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Phenomenon known as \"the white death\\\"",
           "choices": [
-            "a blizzard",
-            "a mudslide",
-            "a glacier",
-            "an avalanche"
+            "A blizzard",
+            "A mudslide",
+            "A glacier",
+            "An avalanche"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "The tallest, New Zealand's \"Waimanga\", killed 4 when it last erupted in 1917",
           "choices": [
-            "a volcano",
-            "a hot spring",
-            "a geyser",
-            "a fumarole"
+            "A volcano",
+            "A hot spring",
+            "A geyser",
+            "A fumarole"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Sort of a dry avalanche, it's a fall of earth & rocks down the side of a mountain",
           "choices": [
-            "an avalanche",
-            "a landslide",
-            "an earthquake",
-            "a mudslide"
+            "An avalanche",
+            "A landslide",
+            "An earthquake",
+            "A mudslide"
           ],
           "correctIndex": 1
         }
@@ -71,7 +71,7 @@
             "Bugs Bunny",
             "Daffy Duck",
             "Tweety Bird",
-            "the Road Runner"
+            "The Road Runner"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "(Sarah of the Clue Crew leans over the open hood of a 1970 Plymouth Barracuda.) The 1970 Plymouth Barracuda got some extra muscle from its six-barreled setup of these devices",
           "choices": [
-            "pistons",
-            "fuel injectors",
-            "carburetors",
-            "camshafts"
+            "Pistons",
+            "Fuel injectors",
+            "Carburetors",
+            "Camshafts"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "V-8 engines with major displacement are alliteratively called \"big\" this",
           "choices": [
-            "big block",
-            "big bore",
-            "big bang",
-            "big iron"
+            "Big block",
+            "Big bore",
+            "Big bang",
+            "Big iron"
           ],
           "correctIndex": 0
         }

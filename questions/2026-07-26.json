@@ -66,7 +66,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "At night you'll have no trouble spotting this stadium at 1060 W. Addison St., Chicago\u2014it's now lighted",
+          "clue": "At night you'll have no trouble spotting this stadium at 1060 W. Addison St., Chicago—it's now lighted",
           "choices": [
             "Comiskey Park",
             "US Cellular Field",
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "If you want to see this 1949 architectural landmark, or see through it, head for 199 Elm Street in New Canaan, Connecticut",
           "choices": [
-            "the Farnsworth House",
+            "The Farnsworth House",
             "Fallingwater",
             "The Glass House",
-            "the Seagram Building"
+            "The Seagram Building"
           ],
           "correctIndex": 2
         },
@@ -128,9 +128,9 @@
           "value": 200,
           "clue": "It's a society in which the father is the tribal head & descent is traced through the male line",
           "choices": [
-            "a matriarchy",
-            "a theocracy",
-            "an oligarchy",
+            "A matriarchy",
+            "A theocracy",
+            "An oligarchy",
             "Patriarchy"
           ],
           "correctIndex": 3
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Charles Barkley declared that he was not one of these people to imitate; Tim Tebow thinks an athlete should be one",
           "choices": [
-            "a coach",
-            "a role model",
-            "a mentor",
-            "a teammate"
+            "A coach",
+            "A role model",
+            "A mentor",
+            "A teammate"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "A nation expanding its power over other lands is this -ism; selling Coca-cola abroad is \"cultural\" this -ism",
           "choices": [
-            "imperialism",
-            "colonialism",
-            "nationalism",
-            "expansionism"
+            "Imperialism",
+            "Colonialism",
+            "Nationalism",
+            "Expansionism"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Someone who hates humanity; Moliere's Alceste turned into a title one",
           "choices": [
-            "a misogynist",
-            "a nihilist",
-            "a misanthrope",
-            "a sociopath"
+            "A misogynist",
+            "A nihilist",
+            "A misanthrope",
+            "A sociopath"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "In his 1899 work \"The Theory of the Leisure Class\", Thorstein Veblen coined the term \"conspicuous\" this",
           "choices": [
-            "production",
-            "consumption",
-            "competition",
-            "accumulation"
+            "Production",
+            "Consumption",
+            "Competition",
+            "Accumulation"
           ],
           "correctIndex": 1
         }

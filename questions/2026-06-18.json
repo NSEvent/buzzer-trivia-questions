@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Chinese thought says this energy force flows through the body; it can be spelled with a \"Q\" or a \"CH\\\"",
           "choices": [
-            "ki",
-            "chi",
-            "prana",
-            "mana"
+            "Ki",
+            "Chi",
+            "Prana",
+            "Mana"
           ],
           "correctIndex": 1
         }

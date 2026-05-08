@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "The Christ the Redeemer statue is made of this reinforced material, with an outer layer of soapstone tiles",
           "choices": [
-            "marble",
-            "granite",
-            "concrete",
-            "limestone"
+            "Marble",
+            "Granite",
+            "Concrete",
+            "Limestone"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "This water-loving South American snake that kills by constricting comes in 3 types: green, yellow & dark-spotted",
           "choices": [
-            "a boa constrictor",
-            "an anaconda",
-            "a python",
-            "a caiman"
+            "A boa constrictor",
+            "An anaconda",
+            "A python",
+            "A caiman"
           ],
           "correctIndex": 1
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "This musical instrument has largely been replaced by the accordion",
           "choices": [
-            "a concertina",
-            "the harmonica",
-            "the bandoneon",
-            "the melodeon"
+            "A concertina",
+            "The harmonica",
+            "The bandoneon",
+            "The melodeon"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Your honor, that statement is pure this, speculation with no proof!",
           "choices": [
-            "hearsay",
-            "supposition",
-            "presumption",
-            "conjecture"
+            "Hearsay",
+            "Supposition",
+            "Presumption",
+            "Conjecture"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "It's the study of shells, whether from the sea or not",
           "choices": [
-            "malacology",
-            "oceanography",
-            "cetology",
-            "conchology"
+            "Malacology",
+            "Oceanography",
+            "Cetology",
+            "Conchology"
           ],
           "correctIndex": 3
         }
@@ -79,21 +79,21 @@
           "value": 400,
           "clue": "In the 1960s Lars Leksell invented the gamma knife for surgery on this, where precision is really, really important",
           "choices": [
-            "the spine",
-            "the brain",
-            "the heart",
-            "the eye"
+            "The spine",
+            "The brain",
+            "The heart",
+            "The eye"
           ],
           "correctIndex": 1
         },
         {
           "value": 600,
-          "clue": "In 1963 France's Dr. Georges Math\u00e9 announced that he had cured a leukemia patient by transplanting this spongy tissue",
+          "clue": "In 1963 France's Dr. Georges Mathé announced that he had cured a leukemia patient by transplanting this spongy tissue",
           "choices": [
-            "the liver",
-            "marrow",
-            "the kidney",
-            "the spleen"
+            "The liver",
+            "Marrow",
+            "The kidney",
+            "The spleen"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "German doctor Paul Ehrlich founded this method of treating diseases using chemical compounds",
           "choices": [
-            "immunotherapy",
-            "radiotherapy",
-            "chemotherapy",
-            "pharmacology"
+            "Immunotherapy",
+            "Radiotherapy",
+            "Chemotherapy",
+            "Pharmacology"
           ],
           "correctIndex": 2
         }
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "A young & calfless cow is known as one of these",
           "choices": [
-            "a yearling",
-            "a springer",
-            "a freemartin",
-            "a heifer"
+            "A yearling",
+            "A springer",
+            "A freemartin",
+            "A heifer"
           ],
           "correctIndex": 3
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "The reticulum, rumen, omasum & abomasum make up a cow's this",
           "choices": [
-            "an intestine",
-            "a digestive tract",
-            "a crop",
-            "stomach"
+            "An intestine",
+            "A digestive tract",
+            "A crop",
+            "Stomach"
           ],
           "correctIndex": 3
         },
@@ -186,10 +186,10 @@
     "category": "TIME FOR A HAIRCUT",
     "clue": "It's the instrument used to create the deep waves of a Marcel cut",
     "choices": [
-      "a flat iron",
-      "a crimping iron",
-      "a wave clamp",
-      "curling iron (or curling roller)"
+      "A flat iron",
+      "A crimping iron",
+      "A wave clamp",
+      "Curling iron (or curling roller)"
     ],
     "correctIndex": 3
   }

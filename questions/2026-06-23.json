@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "In 1697 Jesuits founded Loreto, the 1st permanent European settlement on this \"lower\" peninsula",
           "choices": [
-            "the Yucatan Peninsula",
+            "The Yucatan Peninsula",
             "Alta California",
             "Baja California",
-            "the Florida Keys"
+            "The Florida Keys"
           ],
           "correctIndex": 2
         },
@@ -20,7 +20,7 @@
           "clue": "Mount Wilhelm, named for the son of Otto von Bismarck, is the highest peak in this country on New Guinea",
           "choices": [
             "Indonesia",
-            "the Solomon Islands",
+            "The Solomon Islands",
             "Papua New Guinea",
             "Vanuatu"
           ],
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "The flag of Norfolk Island features the Norfolk this, a conifer that's native to the island",
           "choices": [
-            "pine",
-            "an oak",
-            "a palm",
-            "a spruce"
+            "Pine",
+            "An oak",
+            "A palm",
+            "A spruce"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "The solar bikini uses strips of this \"light current\" film to charge up your iPod while you tan; looks good on me, too",
           "choices": [
-            "a photovoltaic strip",
-            "a thermoelectric strip",
-            "a piezoelectric strip",
-            "a photoelectric cell"
+            "A photovoltaic strip",
+            "A thermoelectric strip",
+            "A piezoelectric strip",
+            "A photoelectric cell"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Sony president Kaz Hirai said this handheld Playstation console was named for the Latin word for \"life\\\"",
           "choices": [
-            "the PSP",
-            "the PS Go",
-            "the PS Vita",
-            "the Game Boy"
+            "The PSP",
+            "The PS Go",
+            "The PS Vita",
+            "The Game Boy"
           ],
           "correctIndex": 2
         },
@@ -101,9 +101,9 @@
           "value": 800,
           "clue": "Despite its name, you don't throw this \"box\", you use it to watch TV anywhere on your laptop, phone or tablet",
           "choices": [
-            "the Placeshifter",
-            "the StreamBox",
-            "the TeleBox",
+            "The Placeshifter",
+            "The StreamBox",
+            "The TeleBox",
             "Slingbox"
           ],
           "correctIndex": 3
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "One who makes ice cream sodas, whether he's rude or not",
           "choices": [
-            "a jerk",
-            "a soda jockey",
-            "a fountain boy",
-            "a mixer"
+            "A jerk",
+            "A soda jockey",
+            "A fountain boy",
+            "A mixer"
           ],
           "correctIndex": 0
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "To place side by side, as in an unexpected combination of colors or ideas",
           "choices": [
-            "a juncture",
-            "a junction",
-            "juxtaposition",
-            "juxtapose"
+            "A juncture",
+            "A junction",
+            "Juxtaposition",
+            "Juxtapose"
           ],
           "correctIndex": 2
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "This turnip-shaped veggie is used raw in salads or cooked in stews",
           "choices": [
-            "jojoba",
-            "jicama",
-            "jackfruit",
-            "a Jerusalem artichoke"
+            "Jojoba",
+            "Jicama",
+            "Jackfruit",
+            "A Jerusalem artichoke"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "\\\"If you shut up your mug, I'll fill up\" this with \"good ol' mountain dew\\\"",
           "choices": [
-            "your jar",
-            "your jigger",
-            "your flagon",
-            "your jug"
+            "Your jar",
+            "Your jigger",
+            "Your flagon",
+            "Your jug"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Flotsam's \"friend\\\"",
           "choices": [
-            "lagan",
-            "jetsam",
-            "derelict",
-            "wreckage"
+            "Lagan",
+            "Jetsam",
+            "Derelict",
+            "Wreckage"
           ],
           "correctIndex": 1
         }
