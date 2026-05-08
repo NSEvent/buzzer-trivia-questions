@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-16",
+  "categories": [
+    {
+      "name": "AMERICAN REVOLUTIONARIES",
+      "questions": [
+        {
+          "clue": "He wasn't first in the heart of youthful crush Sally Fairfax, who moved to England",
+          "choices": [
+            "Hamilton",
+            "Jefferson",
+            "Washington",
+            "Madison"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1781 he was given command of the Navy's largest ship, America, but the ship was turned over to France",
+          "choices": [
+            "John Hancock",
+            "John Paul Jones",
+            "Benjamin Franklin",
+            "Samuel Adams"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Last name of famed cavalry leader \"Light Horse Harry\"",
+          "choices": [
+            "Washington",
+            "Patriot",
+            "Lee",
+            "Morgan"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1776 Silas Deane became our first foreign diplomat when Congress sent him to this nation to procure much-needed aid",
+          "choices": [
+            "Netherlands",
+            "France",
+            "Spain",
+            "Great Britain"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This general was appointed president of the Board of War for his victory over Burgoyne at Saratoga",
+          "choices": [
+            "General Gates",
+            "General Lee",
+            "General Washington",
+            "General Cornwallis"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MOUNTAIN",
+      "questions": [
+        {
+          "clue": "An 1852 survey by the government of India said it was the tallest mountain in the world",
+          "choices": [
+            "Mount Everest",
+            "K2",
+            "Kangchenjunga",
+            "Lhotse"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1760 Horace Benedict de Saussure of Geneva offered a prize to the first to scale this Alpine peak",
+          "choices": [
+            "Matterhorn",
+            "Mont Blanc",
+            "Monte Rosa",
+            "Grand Jorasse"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "We wonder if Jesse Ventura has ventured to the top of Eagle Mountain, the highest point in this state",
+          "choices": [
+            "Wisconsin",
+            "Iowa",
+            "North Dakota",
+            "Minnesota"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Israel, Lebanon, Syria & the U.N. all have presences around Mount Hermon, the highest peak on these heights",
+          "choices": [
+            "Golan Heights",
+            "Sinai Peninsula",
+            "West Bank",
+            "Golan Plateau"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This \"sweet\" mountain in Maine's Carrabassett Valley is one of New England's premier ski resorts",
+          "choices": [
+            "Sugarloaf",
+            "Sugar Mountain",
+            "Sweet Grass",
+            "Maple Ridge"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"LE\" CATEGORIE",
+      "questions": [
+        {
+          "clue": "He's the lead singer of Duran Duran",
+          "choices": [
+            "Simon Cowell",
+            "Simon Le Bon",
+            "Simon Rex",
+            "Simon Pegg"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In a 1984 film, she was \"The Woman in Red\"",
+          "choices": [
+            "Kelly LeBrock",
+            "Kathy Griffin",
+            "Kristy Swanson",
+            "Kim Cattrall"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "George Wallace drafted this general as his running mate in 1968",
+          "choices": [
+            "Patton",
+            "Eisenhower",
+            "Curtis LeMay",
+            "MacArthur"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This Swiss-born French architect thought of the ideal house as \"A machine for living\"",
+          "choices": [
+            "Mies van der Rohe",
+            "Frank Lloyd Wright",
+            "Le Brun",
+            "Le Corbusier"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "At the end of the 1970s, AMC marketed this Renault model",
+          "choices": [
+            "Le Baron",
+            "Le Car",
+            "Le Tour",
+            "Le Mans"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "On May 6, 1937 WLS radio reporter Herb Morrison cried that \"it burst into flames\"",
+    "choices": [
+      "the R101",
+      "the Akron",
+      "the Hindenburg",
+      "the Macon"
+    ],
+    "correctIndex": 2,
+    "category": "THE '30s"
+  }
+}

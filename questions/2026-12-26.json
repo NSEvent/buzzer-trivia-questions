@@ -1,0 +1,207 @@
+{
+  "date": "2026-12-26",
+  "categories": [
+    {
+      "name": "HALL OF FAMER BY POSITION",
+      "questions": [
+        {
+          "clue": "Joe Namath, Joe Montana",
+          "choices": [
+            "linebacker",
+            "running back",
+            "quarterback",
+            "defensive tackle"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Bob Feller, Bob Lemon, Bob Gibson",
+          "choices": [
+            "pitcher",
+            "catcher",
+            "first baseman",
+            "relief pitcher"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Bill Russell, Bill Walton",
+          "choices": [
+            "point guards",
+            "power forwards",
+            "shooting guards",
+            "basketball centers"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Jerry Rice, Randy Moss, John Stallworth",
+          "choices": [
+            "tight ends",
+            "wide receiver",
+            "cornerbacks",
+            "running backs"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Gump Worsley, Shrimp Worters, Rat Westwick",
+          "choices": [
+            "(ice) hockey forwards",
+            "(ice) hockey defensemen",
+            "(ice) hockey referees",
+            "(ice) hockey goalies"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BIBLICAL PROPHETS",
+      "questions": [
+        {
+          "clue": "This prophet's accomplishments include being \"vomited out\" of a great fish",
+          "choices": [
+            "Elijah",
+            "Jonah",
+            "Isaiah",
+            "Jeremiah"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 2 Samuel, Nathan confronted this king about his adultery",
+          "choices": [
+            "Saul",
+            "David",
+            "Solomon",
+            "Samuel"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Haggai encouraged people to get busy with this construction task & that they would be rewarded with abundance",
+          "choices": [
+            "building the first temple in Jerusalem",
+            "rebuilding the walls of Jerusalem",
+            "building the (second) temple in Jerusalem",
+            "constructing the altar in the wilderness"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Micah says of this town, \"Though thou be little... out of thee shall he come forth unto me that is to be ruler in Israel\"",
+          "choices": [
+            "Nazareth",
+            "Jericho",
+            "Hebron",
+            "Bethlehem"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "He doesn't get his own book, but does get to triumph over the false prophets when the Lord accepts his sacrifice",
+          "choices": [
+            "Elijah",
+            "Elisha",
+            "Micaiah",
+            "Obadiah"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PRESIDENTS AT REST",
+      "questions": [
+        {
+          "clue": "At the Oak Ridge Cemetery in Springfield, Illinois",
+          "choices": [
+            "Grant",
+            "Garfield",
+            "Lincoln",
+            "Harrison"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In the family plot at Monticello",
+          "choices": [
+            "Jefferson",
+            "Madison",
+            "Monroe",
+            "Adams"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "At his national historic site in West Branch, Iowa",
+          "choices": [
+            "Coolidge",
+            "Taft",
+            "Hoover",
+            "Harding"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "At his Presidential Library in Simi Valley, California",
+          "choices": [
+            "Nixon",
+            "Ford",
+            "Reagan",
+            "Carter"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "At the Old North Cemetery in Concord, New Hampshire",
+          "choices": [
+            "(Andrew) Jackson",
+            "(John) Adams",
+            "(Franklin) Pierce",
+            "(Millard) Fillmore"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "If you say this 34-letter word from \"Mary Poppins\" \"loud enough you'll always sound precocious\"",
+    "choices": [
+      "abracadabra",
+      "supercalifragilisticexpialidocious",
+      "hocuspocus",
+      "shazam"
+    ],
+    "correctIndex": 1,
+    "category": "\"SUPER\" WORDS"
+  },
+  "bonusRound": {
+    "clue": "The amygdala: This organ",
+    "choices": [
+      "the heart",
+      "the liver",
+      "the brain",
+      "the lungs"
+    ],
+    "correctIndex": 2,
+    "category": "PUT IT THERE"
+  }
+}

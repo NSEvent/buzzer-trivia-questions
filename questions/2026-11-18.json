@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-18",
+  "categories": [
+    {
+      "name": "CANADIAN ACTORS",
+      "questions": [
+        {
+          "clue": "This actor from Ottawa played half of \"The Blues Brothers\"",
+          "choices": [
+            "John Candy",
+            "Dan Aykroyd",
+            "Rick Moranis",
+            "Martin Short"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Considered a British actor in U.S. & a U.S. actor in Britain, he played an Austrian in \"The Sound of Music\"",
+          "choices": [
+            "Lorne Greene",
+            "Christopher Plummer",
+            "Donald Sutherland",
+            "Roger L. Jackson"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "13 years after being \"beamed up\" for the last time on TV's \"Star Trek\", he began playing \"T.J. Hooker\"",
+          "choices": [
+            "Leonard Nimoy",
+            "William Shatner",
+            "George Takei",
+            "James Doohan"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This tap dancer from Nova Scotia tapped her way into Al Jolson's heart & married him in 1928",
+          "choices": [
+            "Mary Martin",
+            "Ruby Keeler",
+            "Ethel Merman",
+            "Ginger Rogers"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "MGM billed this Montrealer as \"The 1st Lady of the Screen\", perhaps because she was married to Irving Thalberg",
+          "choices": [
+            "Mary Pickford",
+            "Norma Shearer",
+            "Lillian Gish",
+            "Greta Garbo"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SMITH & JONES",
+      "questions": [
+        {
+          "clue": "David Cassidy's stepmom, she also played his mom on TV",
+          "choices": [
+            "Shelley Long",
+            "Shirley Jones",
+            "Joyce DeWitt",
+            "Claudette Colbert"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "There is nothing like this dame who won 3 Emmys for her role as Violet Crawley, Countess of Grantham on \"Downton Abbey\"",
+          "choices": [
+            "Judi Dench",
+            "Helen Mirren",
+            "Maggie Smith",
+            "Vanessa Redgrave"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This \"SNL\" star has brought her own brand of humor to commentary on the Olympics",
+          "choices": [
+            "Tina Fey",
+            "Leslie Jones",
+            "Amy Poehler",
+            "Kristen Wiig"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "He was inducted into the Country Music Hall of Fame in 1992, 6 years before Tammy Wynette",
+          "choices": [
+            "George Jones",
+            "Merle Haggard",
+            "Waylon Jennings",
+            "Buck Owens"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "\"From Here to Eternity\" & \"The Thin Red Line\" are part of a WWII trilogy by this author",
+          "choices": [
+            "Norman Mailer",
+            "James Jones",
+            "Ernest Hemingway",
+            "John Dos Passos"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COLLEGE NEWSPAPERS",
+      "questions": [
+        {
+          "clue": "The Cadet (in Virginia)",
+          "choices": [
+            "Virginia Tech",
+            "William & Mary",
+            "VMI (Virginia Military Institute)",
+            "University of Virginia"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1920 Georgetown's student newspaper took this 4-letter name; within a few years, the athletic teams adopted it",
+          "choices": [
+            "the Hoyt",
+            "the Hoya",
+            "the Hoys",
+            "the Hoax"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This college's The Heights not only circulates on campus but also reaches Chestnut Hill, Allston-Brighton & Newton",
+          "choices": [
+            "Boston College",
+            "Tufts University",
+            "Northeastern University",
+            "Emerson College"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The Daily Gamecock",
+          "choices": [
+            "University of Georgia",
+            "Clemson University",
+            "Florida State University",
+            "University of South Carolina"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The Daily Evergreen (for its Cougars)",
+          "choices": [
+            "Washington State",
+            "Oregon State University",
+            "University of Washington",
+            "Stanford University"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1996, for the first time since 1992, this city & 5 suburbs were united under the Bosnian government",
+    "choices": [
+      "Mostar",
+      "Sarajevo",
+      "Banja Luka",
+      "Tuzla"
+    ],
+    "correctIndex": 1,
+    "category": "BACK IN THE '90s"
+  }
+}

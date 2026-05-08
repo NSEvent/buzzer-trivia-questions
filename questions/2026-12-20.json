@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-20",
+  "categories": [
+    {
+      "name": "RELIGIOUS PLACES",
+      "questions": [
+        {
+          "clue": "The collegiate church of Saint Peter in Westminster is known by this term",
+          "choices": [
+            "St Paul's Cathedral",
+            "Westminster Abbey",
+            "Canterbury Cathedral",
+            "Southwark Cathedral"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The famous porcelain one of these Buddhist towers used to stand in Nanjing",
+          "choices": [
+            "a Stupa",
+            "a Shrine",
+            "a Pagoda",
+            "a Temple"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "(Cheryl of the Clue Crew reports from ruins in Delos, Greece.) Greek temples were generally built so as to face this daily event",
+          "choices": [
+            "the sunset",
+            "the noon",
+            "the sunrise",
+            "the moonrise"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In England the Walsingham one in Norfolk is less well known than the Westminster one",
+          "choices": [
+            "cathedral",
+            "chapel",
+            "abbey",
+            "monastery"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Adult Muslims are required to travel at least once to this city, birthplace of Muhammad",
+          "choices": [
+            "Medina",
+            "Mecca",
+            "Jerusalem",
+            "Cairo"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SITCOMS BY EPISODE",
+      "questions": [
+        {
+          "clue": "\"The One with the Fake Monica\"",
+          "choices": [
+            "Seinfeld",
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"The Passion of the Christine\"",
+          "choices": [
+            "The Real World",
+            "The New Adventures of Old Christine",
+            "Survivor",
+            "The Apprentice"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Sweathog Christmas Special\"",
+          "choices": [
+            "Welcome Back, Kotter",
+            "Happy Days",
+            "Laverne & Shirley",
+            "Mork & Mindy"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"Lionel's Problem\"",
+          "choices": [
+            "All in the Family",
+            "Good Times",
+            "Sanford and Son",
+            "The Jeffersons"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"Everybody Hates the Ninth-Grade Dance\"",
+          "choices": [
+            "The Cosby Show",
+            "Everybody Hates Chris",
+            "Family Matters",
+            "The Fresh Prince of Bel-Air"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CONDUCTORS",
+      "questions": [
+        {
+          "clue": "In concert Stokowski would dramatically toss these aside to show that he could conduct from memory",
+          "choices": [
+            "batons",
+            "scores",
+            "sheet music",
+            "conductor's stick"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This longtime Philadelphia orchestra leader is perhaps best known for his appearance in \"Fantasia\"",
+          "choices": [
+            "Leopold Stokowski",
+            "Leonard Bernstein",
+            "Herbert von Karajan",
+            "George Solti"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Marin Alsop made news in 2005 as the first one of these to lead a major American symphony orchestra",
+          "choices": [
+            "a man",
+            "a child",
+            "a foreigner",
+            "a woman"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "By Georg, in Chicago's Lincoln Park, you can see a bust of this late symphony conductor",
+          "choices": [
+            "Leonard Bernstein",
+            "Herbert von Karajan",
+            "Pierre Boulez",
+            "Sir Georg Solti"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Unlike most nonmetals, this element with the symbol B is a workable conductor",
+          "choices": [
+            "silicon",
+            "carbon",
+            "germanium",
+            "boron"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "When Jesus saw this tax collector & first Gospel writer, he told him to \"follow me\"",
+    "choices": [
+      "Matthew",
+      "Mark",
+      "Luke",
+      "John"
+    ],
+    "correctIndex": 0,
+    "category": "BIBLE HEROES"
+  }
+}

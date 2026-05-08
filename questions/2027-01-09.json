@@ -1,0 +1,207 @@
+{
+  "date": "2027-01-09",
+  "categories": [
+    {
+      "name": "\"L\"AKES",
+      "questions": [
+        {
+          "clue": "On a clear night in Arizona's white mountains, look for the Moon's reflection in this lake, Spanish for \"moon\"",
+          "choices": [
+            "Sol",
+            "Stella",
+            "Luna",
+            "Astra"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Lakes all over the U.S. are named for this bird with an eerie call; E.L. Doctorow wrote a novel set at one in the Adirondacks",
+          "choices": [
+            "a loon",
+            "a crow",
+            "a raven",
+            "an owl"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "At this Southern U.S. lake, you can tempt bass to bite with one of the artificial baits of the same name",
+          "choices": [
+            "Lure",
+            "Bait",
+            "Hook",
+            "Spin"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Sadly, the beautiful Chapel Bridge over this Swiss lake was badly damaged in a 1993 fire",
+          "choices": [
+            "Lake Geneva",
+            "Lake Zurich",
+            "Lake Lucerne",
+            "Lake Constance"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Georgia's Blue Ridge Mountains are home to Lake Sidney this, named for a 19th c. Southern poet",
+          "choices": [
+            "Lanier",
+            "Longfellow",
+            "Whittier",
+            "Bryant"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COUPLES",
+      "questions": [
+        {
+          "clue": "Real estate developer Jon Eicholtz must \"dream of Jeannie\", since he married this actress in 1991",
+          "choices": [
+            "Lucille Ball",
+            "Jane Russell",
+            "Barbara Eden",
+            "Marilyn Monroe"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Soong Ch'ing-ling wed revolutionary leader Sun Yat-sen; her sister Mei-Ling married this nationalist leader",
+          "choices": [
+            "Mao Zedong",
+            "Zhang Zuolin",
+            "Chiang Kai-shek",
+            "Wang Jingwei"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "When this Woolworth heiress married Cary Grant, they were known as \"Cash & Cary\"",
+          "choices": [
+            "Wallis Simpson",
+            "Elizabeth Taylor",
+            "Barbara Hutton",
+            "Rita Hayworth"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The \"jar\" was half-full on June 16, 1956 when she married British poet Ted Hughes",
+          "choices": [
+            "Anne Sexton",
+            "Adrienne Rich",
+            "Maya Angelou",
+            "Sylvia Plath"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "He directed his wife, Giulietta Masina in \"Juliet of the Spirits\" & \"La Strada\"",
+          "choices": [
+            "Luchino Visconti",
+            "Michelangelo Antonioni",
+            "Federico Fellini",
+            "Roberto Rossellini"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE 1900s",
+      "questions": [
+        {
+          "clue": "In 1903 Giuseppe Sarto assumed this office as Pius X",
+          "choices": [
+            "Pope",
+            "Bishop",
+            "Cardinal",
+            "Archbishop"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1905 Sinn Fein was organized as a political party dedicated to independence for this country",
+          "choices": [
+            "Scotland",
+            "Wales",
+            "Ireland",
+            "Norway"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1995 ex-President Jimmy Carter helped arrange a ceasefire in Sudan, the largest country on this continent",
+          "choices": [
+            "Africa",
+            "South America",
+            "Australia",
+            "Asia"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In 1998 the Hubble space telescope photographed the first one of these orbiting objects outside our solar system",
+          "choices": [
+            "a planet",
+            "a star",
+            "a comet",
+            "a moon"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This major world sporting event was held in Atlanta, Georgia in the summer of 1996",
+          "choices": [
+            "the Olympics",
+            "the World Cup",
+            "the Super Bowl",
+            "the World Series"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Chloroplasts are where this energy conversion process takes place in plants",
+    "choices": [
+      "cellular respiration",
+      "fermentation",
+      "digestion",
+      "photosynthesis"
+    ],
+    "correctIndex": 3,
+    "category": "SCIENCE QUIZ"
+  },
+  "bonusRound": {
+    "clue": "The Batangas Peninsula in the south of this populous island is a popular spot with Filipino vacationers",
+    "choices": [
+      "Luzon",
+      "Mindanao",
+      "Visayas",
+      "Palawan"
+    ],
+    "correctIndex": 0,
+    "category": "ON THE ISLAND"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-27",
+  "categories": [
+    {
+      "name": "GROUP THERAPY",
+      "questions": [
+        {
+          "clue": "A group that meets for a common purpose; Groucho wouldn't join one that would have him as a member",
+          "choices": [
+            "Society",
+            "Club",
+            "Association",
+            "Organization"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This group officially ended its practice of polygamous marriage in 1890",
+          "choices": [
+            "the Mormons",
+            "the Amish",
+            "the Shakers",
+            "the Quakers"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This Dr. Seuss group that learns prejudice can be costly is divided into star-belly & plain-belly types",
+          "choices": [
+            "the Lorax",
+            "the Grinch",
+            "the Who",
+            "the Sneetches"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A basic tactical Air Force unit, it's made up of 2 or more flights",
+          "choices": [
+            "a platoon",
+            "a squadron",
+            "a flight",
+            "a wing"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "When the Goths split up around 370, the Visigoths got the area west of the Dniester River & this group, the other side",
+          "choices": [
+            "the Ostrogoths",
+            "the Vandals",
+            "the Huns",
+            "the Franks"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CAMP DAVID",
+      "questions": [
+        {
+          "clue": "We presume you know this man was born in Blantyre, Scotland in 1813 & died in Chitambo, Africa in 1873",
+          "choices": [
+            "Henry Morton Stanley",
+            "John Hanning Speke",
+            "David Beatty",
+            "David Livingstone"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Among many movies this pres. & his wife viewed at Camp David were \"The Princess Bride\" & \"Knute Rockne, All American\"",
+          "choices": [
+            "Clinton",
+            "Bush",
+            "Carter",
+            "Reagan"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 2012 President Obama hosted a giant sleepover for this octet of world leaders",
+          "choices": [
+            "G7",
+            "G20",
+            "G8",
+            "EU"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "At over 1,000 pages his \"Infinite Jest\" may seem like an infinite read",
+          "choices": [
+            "(Jonathan) Franzen",
+            "(Don) DeLillo",
+            "(David Foster) Wallace",
+            "(Thomas) Pynchon"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1866 this officer who damned the torpedoes was named the first full admiral of the U.S. Navy",
+          "choices": [
+            "John Paul Jones",
+            "David Dixon Porter",
+            "David Farragut",
+            "George Dewey"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SURVIVAL SKILLS",
+      "questions": [
+        {
+          "clue": "Lie flat on your back with arms & legs outstretched to avoid sinking in this, which is just sand mixed with upwelling water",
+          "choices": [
+            "Bog",
+            "Mud",
+            "Slurry",
+            "Quicksand"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Direct pressure & elevation can control bleeding; this device \u2014 a last resort \u2014 can cause gangrene & the loss of the limb",
+          "choices": [
+            "Splint",
+            "Bandage",
+            "Compressor",
+            "Tourniquet"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "(Sofia of the Clue Crew reports from the beach, with Sarah lying down on a blue towel.) For professionals performing CPR, remember your ABCs: airway, breathing & this, which means checking for a pulse",
+          "choices": [
+            "circulation",
+            "defibrillation",
+            "recovery",
+            "assessment"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "(Hi, I'm Elisabeth Filarski from Survivor.) If the Heimlich Maneuver fails & a person can't breathe at all, create an airway with this surgical procedure",
+          "choices": [
+            "a lobotomy",
+            "a tonsillectomy",
+            "a tracheotomy",
+            "a gastrectomy"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "(Sarah of the Clue Crew reports, using a brown bag.) If you're suffering from this 16-letter word, do the following to alleviate it",
+          "choices": [
+            "hypochondriasis",
+            "hypothermia",
+            "hypercalcemia",
+            "hyperventilating"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Tilly Mitchell in \"Escape at Dannemora\" & Dee Dee Blanchard in \"The Act\"",
+    "choices": [
+      "Patricia Arquette",
+      "Patricia Clarkson",
+      "Patricia Wettig",
+      "Patricia Heaton"
+    ],
+    "correctIndex": 0,
+    "category": "THEIR TV ROLES"
+  }
+}

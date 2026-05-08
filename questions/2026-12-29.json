@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-29",
+  "categories": [
+    {
+      "name": "GAME TIME",
+      "questions": [
+        {
+          "clue": "If you're cornered in Kamchatka, end this board game by bumping your opponent's armies off the board",
+          "choices": [
+            "Risk",
+            "Monopoly",
+            "Clue",
+            "Settlers of Catan"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It's also called \"table soccer\" & \"that game in bars where you spin the rods\"",
+          "choices": [
+            "pinball",
+            "air hockey",
+            "pachinko",
+            "foosball"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "There's \"an infinite world that's yours to shape, one block at a time\" in this \"ultimate sandbox game\"",
+          "choices": [
+            "Terraria",
+            "Minecraft",
+            "Stardew Valley",
+            "Fallout 4"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Used to foretell the future, this game gets its name from the French & German words for \"yes\"",
+          "choices": [
+            "Tarot",
+            "Ouija",
+            "I Ching",
+            "Fortune cookie"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Try to be the first to put 10 pieces of fruit in your basket in the game called \"Hi Ho\" this",
+          "choices": [
+            "Fruit Salad",
+            "Berry Pickin'",
+            "Cherry-O",
+            "Orchard Dash"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"X\" RATED",
+      "questions": [
+        {
+          "clue": "Located in Cincinnati, it's one of 28 member institutions of the Association of Jesuit Colleges & Universities",
+          "choices": [
+            "Loyola",
+            "Georgetown",
+            "Marquette",
+            "Xavier"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "From the Greek, it's literally someone who likes foreigners & foreign things",
+          "choices": [
+            "a xenophile",
+            "a xenophobe",
+            "a philhellene",
+            "a cosmopolitan"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Before testing the Enterprise & flying on the STS-2 shuttle mission, Joe Engle piloted this craft into space 3 times",
+          "choices": [
+            "the B-52",
+            "the X-15",
+            "the X-2",
+            "the SR-71"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The narration that opened this TV show began, \"A mighty princess forged in the heat of battle...\"",
+          "choices": [
+            "Xena: Warrior Princess",
+            "Hercules: The Legendary Journeys",
+            "Xena: Warrior Queen",
+            "Xena: Princess of War"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "William B. Davis played the mysterious Cigarette-Smoking Man on this Fox show",
+          "choices": [
+            "The X-Files",
+            "The X-Cops",
+            "The X-Factor",
+            "X-Force"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ROBOTS",
+      "questions": [
+        {
+          "clue": "The company Ozobot makes robots that introduce kids to this activity, the art of writing instructions that direct computers",
+          "choices": [
+            "typing",
+            "programming",
+            "coding",
+            "mathematics"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A 4-legged robot created by Boston Dynamics to deliver packages has been given this name, like Dick & Jane's dog",
+          "choices": [
+            "Rover",
+            "Lassie",
+            "Spot",
+            "Spotlight"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "With the Lynx robot you can see your home remotely by using this 12-letter mode, from the French for \"watch over\"",
+          "choices": [
+            "interrogation",
+            "surveillance",
+            "observation",
+            "monitoring"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "To create the android Maria in this 1927 Fritz Lang film, a plaster cast was made of actress Brigitte Helm's body",
+          "choices": [
+            "Blade Runner",
+            "Metropolis",
+            "Terminator",
+            "Ex Machina"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Robots don't need goggles to do this job of fusing metal to metal with an electrical charge sparking across a gap",
+          "choices": [
+            "spot welding",
+            "arc welding",
+            "brazing",
+            "soldering"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Certainly up to no good were Hitler & this Italian leader, pictured together in 1937",
+    "choices": [
+      "Stalin",
+      "Franco",
+      "Gorbachev",
+      "Mussolini"
+    ],
+    "correctIndex": 3,
+    "category": "EUROPE TO NO GOOD"
+  }
+}

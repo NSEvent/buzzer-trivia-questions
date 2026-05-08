@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-17",
+  "categories": [
+    {
+      "name": "BOOK-POURRI",
+      "questions": [
+        {
+          "clue": "\"The Elephant to Hollywood\", his memoir, goes from poverty-stricken England to success in Hollywood",
+          "choices": [
+            "Michael Caine",
+            "Peter O'Toole",
+            "Albert Finney",
+            "Tom Courtenay"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The author of \"Roots\", Alex Haley, earlier collaborated on the autobiography of this activist",
+          "choices": [
+            "Malcolm X",
+            "Martin Luther King Jr.",
+            "Cesar Chavez",
+            "Rosa Parks"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This novel set in the 1920s asks, \"'What do you know about Lady Brett Ashley, Jake?\"\\'",
+          "choices": [
+            "A Farewell to Arms",
+            "For Whom the Bell Tolls",
+            "The Old Man and the Sea",
+            "The Sun Also Rises"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Anita Diamant's \"The Red Tent\" is a novel of Dinah, Jacob's daughter, only briefly mentioned in this Bible book",
+          "choices": [
+            "Exodus",
+            "Leviticus",
+            "Numbers",
+            "Genesis"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Saul Bellow's \"Adventures of\" this character follows a poor Jewish kid growing up in Chicago in the Depression",
+          "choices": [
+            "Harry Haller",
+            "Augie March",
+            "Holden Caulfield",
+            "Charlie Gordon"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CUBA",
+      "questions": [
+        {
+          "clue": "The U.S. still maintains a naval base on this Cuban bay",
+          "choices": [
+            "Guam",
+            "Pearl Harbor",
+            "Guantanamo Bay",
+            "Puerto Rico"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "As an army sergeant, he led a revolt to take over Cuba in 1933",
+          "choices": [
+            "Machado",
+            "Castro",
+            "Batista",
+            "Cheddi"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1997 this magazine chose Cuba as one of its \"50 Most Beautiful\"",
+          "choices": [
+            "Vogue",
+            "Time",
+            "People",
+            "National Geographic"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In a 1995 TV movie Cuba soared with this first squadron of black combat pilots",
+          "choices": [
+            "the Tuskegee Airmen",
+            "the Harlem Globetrotters",
+            "the Golden State Warriors",
+            "the Philadelphia 76ers"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This practice, introduced in Cuba about 1517, continued there until 1886",
+          "choices": [
+            "slavery",
+            "prostitution",
+            "poverty",
+            "illiteracy"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CLOWNS",
+      "questions": [
+        {
+          "clue": "In 1994 Annie Fratellini became the first woman inducted into this Wisconsin site",
+          "choices": [
+            "Country Music Hall of Fame",
+            "Rock and Roll Hall of Fame",
+            "Baseball Hall of Fame",
+            "Clown Hall of Fame"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This clown stars in the animated video \"The Legend of Grimace Island\"",
+          "choices": [
+            "Hamburglar",
+            "Ronald McDonald",
+            "Mayor McCheese",
+            "Birdie the Early Bird"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 1988 John Vernon, the dean in \"Animal House\", found more than 0.0 \"Killer Klowns from\" here",
+          "choices": [
+            "Outer Space",
+            "The Moon",
+            "Deep Space",
+            "The Void"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This song begins, \"Isn't it rich? Are we a pair? Me here at last on the ground, you in mid-air\"",
+          "choices": [
+            "\"I Love You\"",
+            "\"Send In The Clowns\"",
+            "\"Don't Cry for Me Argentina\"",
+            "\"Memory\""
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The ISCA is an association of this Masonic organization's clowns",
+          "choices": [
+            "Freemasons",
+            "Shriners",
+            "Odd Fellows",
+            "Elks"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This adjective meaning warmly appreciative is in the name of Bob Weir's band",
+    "choices": [
+      "wonderful",
+      "merry",
+      "jolly",
+      "grateful"
+    ],
+    "correctIndex": 3,
+    "category": "DESCRIBING THE ADJECTIVE"
+  }
+}

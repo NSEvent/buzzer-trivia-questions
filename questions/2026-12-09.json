@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-09",
+  "categories": [
+    {
+      "name": "ASTRONAUTS",
+      "questions": [
+        {
+          "clue": "Astronaut who was once a contestant on TV's \"Name That Tune\"",
+          "choices": [
+            "Senator Strom Thurmond",
+            "Senator John Glenn",
+            "Senator Barry Goldwater",
+            "Senator Edward Kennedy"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Of the original 7 astronauts, 1st in space was Alan Shepard, while he, \"Gordo\", made last Mercury flight",
+          "choices": [
+            "Gordon Cooper",
+            "Wally Schirra",
+            "Gus Grissom",
+            "Deke Slayton"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Its first crew of Conrad, Kerwin & Weitz had to repair this station after it had been damaged when sent aloft",
+          "choices": [
+            "Mir",
+            "Salyut 7",
+            "ISS",
+            "Skylab"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Robert Crippen has been on 4 shuttle flights: 1 on the first shuttle, Columbia, & 3 on this one",
+          "choices": [
+            "Discovery",
+            "Atlantis",
+            "Endeavour",
+            "Challenger"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "During the October 1984 shuttle mission, Kathryn Sullivan became the first U.S. woman to do this",
+          "choices": [
+            "float in zero-g",
+            "board the shuttle",
+            "walk in space",
+            "speak to Congress"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SKYSCRAPER CITY",
+      "questions": [
+        {
+          "clue": "191 Peachtree Tower",
+          "choices": [
+            "Atlanta",
+            "Miami",
+            "Charlotte",
+            "Dallas"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The John Hancock Center at 875 N. Michigan Avenue",
+          "choices": [
+            "New York",
+            "Chicago",
+            "Houston",
+            "Boston"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The West Coast's 76-story Columbia Center",
+          "choices": [
+            "Seattle",
+            "Portland",
+            "San Francisco",
+            "Los Angeles"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The 67-story Marquis Residences at 1100 Biscayne Boulevard",
+          "choices": [
+            "Atlanta",
+            "Dallas",
+            "Phoenix",
+            "Miami"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Formerly the headquarters of Enron, 1400 Smith Street",
+          "choices": [
+            "Dallas",
+            "Houston",
+            "Chicago",
+            "Los Angeles"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NET FLICKS",
+      "questions": [
+        {
+          "clue": "The high school basketball team from Hickory, Indiana is trying to win the state championship in this favorite",
+          "choices": [
+            "Rocky",
+            "Hoosier Energy",
+            "Friday Night Lights",
+            "Hoosiers"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In \"The Royal Tenenbaums\", this actor plays a former tennis champ; his brother Owen plays a writer of westerns",
+          "choices": [
+            "Luke Wilson",
+            "Ben Stiller",
+            "Owen Wilson",
+            "Bill Murray"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This comedian faces off against a bear as \"Semi-Pro\" basketball player Jackie Moon",
+          "choices": [
+            "Jim Carrey",
+            "Ben Stiller",
+            "Adam Sandler",
+            "Will Ferrell"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Basketball hustlers + \"Jeopardy!\" = this film with Wesley Snipes & Rosie Perez",
+          "choices": [
+            "The Last Boy Scout",
+            "White Men Can't Jump",
+            "Hoffa",
+            "New Jack City"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In this Hitchcock film, Robert Walker wants to swap murders with tennis pro Farley Granger",
+          "choices": [
+            "Rear Window",
+            "The Birds",
+            "North by Northwest",
+            "Strangers on a Train"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "At the beginning of the Napoleonic Wars, this fictional character takes command of the Hotspur",
+    "choices": [
+      "Jack Aubrey",
+      "Nathaniel Bligh",
+      "Thomas Crankshaft",
+      "Horatio Hornblower"
+    ],
+    "correctIndex": 3,
+    "category": "H.H."
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2026-11-07",
+  "categories": [
+    {
+      "name": "THE DA VINCI CODE",
+      "questions": [
+        {
+          "clue": "This mural depicts the reaction to Jesus' declaration that \"one of you shall betray me\"",
+          "choices": [
+            "The Nativity",
+            "The Crucifixion",
+            "The Resurrection",
+            "The Last Supper"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Italy has issued euro coins with this Da Vinci \"Man\" on the reverse",
+          "choices": [
+            "David Statue",
+            "Sistine Ceiling",
+            "Birth of Venus",
+            "Vitruvian Man"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Robert says Ariel's flowing red hair in Disney's \"Little Mermaid\" is an allusion to this Biblical woman",
+          "choices": [
+            "Queen Esther",
+            "Ruth the Moabite",
+            "Mary Magdalene",
+            "Bathsheba"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Robert Langdon is a professor of religious symbology at this Ivy League university",
+          "choices": [
+            "Harvard",
+            "Yale",
+            "Princeton",
+            "Columbia"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The 1505 mural \"The Battle of Anghiari\" was painted to honor a military victory of the government of this city",
+          "choices": [
+            "Rome",
+            "Florence",
+            "Venice",
+            "Milan"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LOCO FOR LOGOS",
+      "questions": [
+        {
+          "clue": "Can you pick me up a little pick-me-up from this chain?",
+          "choices": [
+            "Dunkin'",
+            "McDonald's",
+            "Starbucks",
+            "Walmart"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "(Cheryl of the Clue Crew compares a logo with its antecedent.) This association adapted the Duke of Lorraine's emblem because they, too, were fighting a crusade, but against tuberculosis",
+          "choices": [
+            "the American Cancer Society",
+            "the Red Cross",
+            "the American Heart Association",
+            "the American Lung Association"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Get up to speed with this speedy automaker",
+          "choices": [
+            "Lamborghini",
+            "Porsche",
+            "Ferrari",
+            "Maserati"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It went live March 21, 2006",
+          "choices": [
+            "Facebook",
+            "Twitter",
+            "MySpace",
+            "LinkedIn"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Ruminate on this\u2014since the 1870s its trademark logo has featured a leaping ruminant, not a plow or tractor",
+          "choices": [
+            "Case IH",
+            "Massey Ferguson",
+            "Allis-Chalmers",
+            "John Deere"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "J.S. BACH",
+      "questions": [
+        {
+          "clue": "Bach was a master on this church instrument, having walked 200 miles to learn its secrets from Dietrich Buxtehude",
+          "choices": [
+            "the piano",
+            "the harpsichord",
+            "the violin",
+            "the organ"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Bach was a master of this art of combining melodic lines, a term also found in an Aldous Huxley title",
+          "choices": [
+            "harmony",
+            "polyphony",
+            "fugue",
+            "counterpoint"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Bach's second surviving son, nearly as famous as his father, he wrote about 150 keyboard sonatas",
+          "choices": [
+            "J.C. Bach",
+            "C.P.E. Bach (Carl Philipp Emanuel Bach)",
+            "W.F. Bach",
+            "G.Ph. Telemann"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Bach tinkered around & produced sets of \"two-part\" & \"three-part\" these for harpsichord",
+          "choices": [
+            "preludes",
+            "etudes",
+            "inventions",
+            "partitas"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "1722 work of preludes & fugues in all keys for \"musical young people eager to learn\"",
+          "choices": [
+            "\"The Well-Tempered Clavier\"",
+            "The Art of Fugue",
+            "Goldberg Variations",
+            "Brandenburg Concertos"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In this French-named art form, paper cutouts are used to cover a flat surface, then varnish is applied",
+    "choices": [
+      "collage",
+      "mosaic",
+      "decoupage",
+      "quilt"
+    ],
+    "correctIndex": 2,
+    "category": "\"ECO\" FRIENDLY"
+  },
+  "bonusRound": {
+    "clue": "(Ken Burns narrates the clue.) The third Mrs. H., Martha Gellhorn, was a fellow correspondent & the lovers bonded in this war-torn capital in the 1930s",
+    "choices": [
+      "Madrid",
+      "Barcelona",
+      "Valencia",
+      "Seville"
+    ],
+    "correctIndex": 0,
+    "category": "HEMINGWAY"
+  }
+}

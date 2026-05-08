@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-05",
+  "categories": [
+    {
+      "name": "HUMMINGBIRDS",
+      "questions": [
+        {
+          "clue": "Although it's true that hummingbirds prefer flowers of this color, the shape of the flower is equally important",
+          "choices": [
+            "red",
+            "blue",
+            "yellow",
+            "white"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It's the only U.S. state where the hummingbird is not a native",
+          "choices": [
+            "Hawaii",
+            "Alaska",
+            "Puerto Rico",
+            "New Mexico"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Hummingbird feathers adorned the ceremonial robes of this early 16th century Aztec emperor",
+          "choices": [
+            "Cortez",
+            "Pizarro",
+            "Montezuma",
+            "Columbus"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Part of a male's courtship is this maneuver in which he reaches 50 mph & experiences 9G forces when pulling out of it",
+          "choices": [
+            "a mating dive",
+            "a wing flick",
+            "a hover spin",
+            "a tail display"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This species, which shares its name with a steam organ, is North America's smallest bird at around 2 3/4\" in length",
+          "choices": [
+            "the Calliope hummingbird",
+            "the Ruby-throated hummingbird",
+            "the Ruby-topaz hummingbird",
+            "the Blue-fronted hummingbird"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IRELAND",
+      "questions": [
+        {
+          "clue": "This type of horse race got its name from one in which riders kept the spire of a County Cork church in sight",
+          "choices": [
+            "a flat race",
+            "a steeplechase",
+            "a hurdle race",
+            "a steeple-hunt"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In the 9th century these invaders founded the cities of Cork, Limerick & Waterford",
+          "choices": [
+            "the Celts",
+            "the Normans",
+            "the Vikings",
+            "the Anglo-Saxons"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Prior to this 1845-47 tragedy, Ireland's population was 8 million, far more than it is today",
+          "choices": [
+            "the potato famine",
+            "the Great Famine",
+            "the Irish Potato Famine",
+            "the Great Hunger"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The church opposed this, so in June 1986 Irish voters rejected attempts to legalize it",
+          "choices": [
+            "divorce",
+            "abortion",
+            "contraception",
+            "insemination"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Ireland has only 1 native species of this class of animals",
+          "choices": [
+            "amphibians",
+            "reptiles",
+            "mammals",
+            "birds"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A IS FOR...",
+      "questions": [
+        {
+          "clue": "ABSCAM, which resulted in Michael Myers' expulsion from this body, the first since 1861",
+          "choices": [
+            "the Senate",
+            "the Cabinet",
+            "the Judiciary",
+            "the House"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "...Arlington National Cemetery, which is home to the mast of this ship that blew up in 1898",
+          "choices": [
+            "the Texas",
+            "the Maine",
+            "the Arizona",
+            "the Virginia"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "...Aesop, who gave us the moral \"the gods help them that\" do this",
+          "choices": [
+            "help others",
+            "help God",
+            "help friends",
+            "help themselves"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "...Aberystwyth, the town that's home to the National Library of this country",
+          "choices": [
+            "Scotland",
+            "England",
+            "Wales",
+            "Ireland"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Antipopes, who set up shop in this French city",
+          "choices": [
+            "Rome",
+            "Paris",
+            "Florence",
+            "Avignon"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The presidential oath of office begins, \"I do\" these 2 words",
+    "choices": [
+      "willingly pledge",
+      "solemnly swear",
+      "truthfully swear",
+      "loyally affirm"
+    ],
+    "correctIndex": 1,
+    "category": "FIRST WORDS"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2027-01-16",
+  "categories": [
+    {
+      "name": "THE BRAIN",
+      "questions": [
+        {
+          "clue": "Common term for a temporary disturbance of brain function caused by a sudden blow to the head",
+          "choices": [
+            "a concussion",
+            "a stroke",
+            "a seizure",
+            "a migraine"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The brain stem links downward to this in humans, but not in spineless jellyfish",
+          "choices": [
+            "the cerebellum",
+            "the thalamus",
+            "the spinal cord",
+            "the brain stem"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Encephalitis is an inflammation of the brain, & this is an inflammation of the membrane surrounding it",
+          "choices": [
+            "pneumonia",
+            "appendicitis",
+            "meningitis",
+            "gastritis"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This lobe is the home of speech & emotion",
+          "choices": [
+            "the parietal lobe",
+            "the frontal lobe",
+            "the temporal lobe",
+            "the occipital lobe"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Brains are actually good brain food, as they're rich in proteins, vitamins & this element, symbol P",
+          "choices": [
+            "phosphorus",
+            "potassium",
+            "sodium",
+            "calcium"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LEGENDS",
+      "questions": [
+        {
+          "clue": "John Chapman was the real name of this wandering fruit tree planter",
+          "choices": [
+            "Daniel Boone",
+            "Johnny Appleseed",
+            "Paul Bunyan",
+            "Davy Crockett"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "He was never seen again after a headless horseman chased him thru Sleepy Hollow",
+          "choices": [
+            "Brom Van Brunt",
+            "Ichabod Crane",
+            "Katrina Van Tassel",
+            "Old Dutch"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "After 500 years it kills itself in a fire & is reborn out of the ashes",
+          "choices": [
+            "the Phoenix",
+            "the Thunderbird",
+            "the Garuda",
+            "the Roc"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The \"Literature Lover's Book of Lists\" says this engineer \"blew his train whistle in a special way\"",
+          "choices": [
+            "Pinky",
+            "Murphy",
+            "Jed",
+            "Casey Jones"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The original myth had her opening a jar; centuries later it was changed to a box",
+          "choices": [
+            "Athena",
+            "Pandora",
+            "Hera",
+            "Persephone"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IT'S ALL ABOUT HER",
+      "questions": [
+        {
+          "clue": "Published in 2021: \"The Chancellor: The Remarkable Odyssey of...\"",
+          "choices": [
+            "(Angela) Merkel",
+            "Theresa May",
+            "Angela Davis",
+            "Maggie Thatcher"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In \"My Beloved World\", this first Hispanic American on the Supreme Court talks about growing up in a Bronx housing project",
+          "choices": [
+            "Sandra Day O'Connor",
+            "(Sonia) Sotomayor",
+            "Elena Kagan",
+            "Ruth Bader Ginsburg"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"The Matriarch\", this late mother of six",
+          "choices": [
+            "Barbara Bush",
+            "Mamie Eisenhower",
+            "Pat Nixon",
+            "Rosalynn Carter"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"Road to Tara\", about this author",
+          "choices": [
+            "Harper Lee",
+            "Emily Bront\u00eb",
+            "Zora Neale Hurston",
+            "Margaret Mitchell"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"Rosemary: The Hidden\" daughter of this family",
+          "choices": [
+            "the Bushes",
+            "the Clintons",
+            "the Roosevelts",
+            "the Kennedys"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "If a human baby has done this, he's positioned for birth; if a giraffe baby has done it, 6' to the ground, he's been born",
+    "choices": [
+      "dropped",
+      "fallen",
+      "descended",
+      "plummeted"
+    ],
+    "correctIndex": 0,
+    "category": "GIRAFFES"
+  },
+  "bonusRound": {
+    "clue": "His perfume, like his costumes for Carol Burnett & Cher, is \"for the woman who dares to be noticed\"",
+    "choices": [
+      "Ralph Lauren",
+      "Yves Saint Laurent",
+      "Gianni Versace",
+      "Bob Mackie"
+    ],
+    "correctIndex": 3,
+    "category": "PERFUME & COLOGNE"
+  }
+}

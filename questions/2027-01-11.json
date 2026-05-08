@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-11",
+  "categories": [
+    {
+      "name": "SURGERY",
+      "questions": [
+        {
+          "clue": "To make incisions, a surgeon uses this sharp-bladed steel knife",
+          "choices": [
+            "lancet",
+            "curette",
+            "chisel",
+            "scalpel"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This colorless liquid, C4H10O, was formerly a common anesthetic",
+          "choices": [
+            "chloroform",
+            "ether",
+            "anesthetic",
+            "spirit"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Torn cartilage in a knee may be repaired using a fiber-optic instrument during this type of surgery",
+          "choices": [
+            "arthroscopic",
+            "laparoscopic",
+            "endoscopic",
+            "minimally invasive"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It's the medical term for surgical tying, as in the female sterilization procedure called the tubal kind",
+          "choices": [
+            "ligation",
+            "cauterization",
+            "excision",
+            "ablation"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Surgery known as coronary artery this 6-letter word is sometimes used to relieve chest angina resistant to medication",
+          "choices": [
+            "bridge",
+            "shift",
+            "step",
+            "bypass"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"I\" ON THE WORLD",
+      "questions": [
+        {
+          "clue": "In 1964 & 1976 this resort city in Austria hosted the Winter Olympics",
+          "choices": [
+            "Innsbruck",
+            "Graz",
+            "Vienna",
+            "Salzburg"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Construction of this Asian capital city near Rawalpindi began in 1961",
+          "choices": [
+            "Lahore",
+            "Karachi",
+            "Delhi",
+            "Islamabad"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This parish of Louisiana shares its name with a European peninsula",
+          "choices": [
+            "Apalachee",
+            "Tangipahoa",
+            "Iberia",
+            "Sabine"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The Bosporus Bridge links the Asiatic & European sections of this city",
+          "choices": [
+            "Ankara",
+            "Istanbul",
+            "Baghdad",
+            "Cairo"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In the 1950s, CIA operative Kermit Roosevelt was in charge of toppling this country's PM Mossadegh",
+          "choices": [
+            "Iraq",
+            "Libya",
+            "Egypt",
+            "Iran"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DROP A LETTER",
+      "questions": [
+        {
+          "clue": "Drop a letter from the language spoken by the people of Seoul to get this sacred text of Islam",
+          "choices": [
+            "Torah",
+            "Bible",
+            "Veda",
+            "Koran (from Korean)"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A term for refuse drops one of its \"T\"s, becoming this measurement",
+          "choices": [
+            "a liter (from litter)",
+            "a meter",
+            "a gram",
+            "a quart"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Drop the \"L\" from a type of bedspread to get this verb that means \"to resign\"",
+          "choices": [
+            "quit",
+            "stop",
+            "end",
+            "halt"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A synonym for \"vision\" drops its \"T\" & becomes this sound of relief or weariness",
+          "choices": [
+            "a gasp",
+            "a sigh",
+            "a groan",
+            "a shout"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Drop the \"T\" from intense fear to get this mistake",
+          "choices": [
+            "fault",
+            "flaw",
+            "error",
+            "mistake"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Joan Blondell & June Allyson",
+    "choices": [
+      "Robert Stack",
+      "Dick Powell",
+      "James Stewart",
+      "Clark Gable"
+    ],
+    "correctIndex": 1,
+    "category": "THE HUSBAND MARRIED"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-31",
+  "categories": [
+    {
+      "name": "LITERARY PAIRS",
+      "questions": [
+        {
+          "clue": "They \"dined on mince and slices of quince which they ate with a runcible spoon\"",
+          "choices": [
+            "the Cat & the Canary",
+            "the Owl & the Pussycat",
+            "the Fox & the Grapes",
+            "the Dog & the Duck"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Introduced by 18th century poet John Byrom, this pair was popularized by Lewis Carroll",
+          "choices": [
+            "Tom Thumb & Little John",
+            "Dick Whittington & His Cat",
+            "Tweedledee & Tweedledum",
+            "Jack & the Beanstalk"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "1924: \"...and the Paycock\"",
+          "choices": [
+            "Juno",
+            "Sullivan",
+            "Captain",
+            "Jig"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "1912: \"...and the Lion\"",
+          "choices": [
+            "Hercules",
+            "Nemean",
+            "Androcles",
+            "Thebes"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "These 2 \"Royal\" characters from \"Huck Finn\" end up tarred & feathered after their cons go awry",
+          "choices": [
+            "the Earl & the Baron",
+            "the Prince & the Count",
+            "the Duke & the King",
+            "the Baronet & the Lord"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE PERIODIC TABLE",
+      "questions": [
+        {
+          "clue": "Element No. 61, it's named for a mythical stealer of fire",
+          "choices": [
+            "Titanium",
+            "Thorium",
+            "Prometheum",
+            "Tantalum"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Joseph Priestley found that a candle burned brighter & that a mouse thrived in this gas, a \"new species of air\"",
+          "choices": [
+            "hydrogen",
+            "oxygen",
+            "nitrogen",
+            "argon"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The 3 naturally occurring magnetic elements are cobalt, nickel & this one",
+          "choices": [
+            "copper",
+            "zinc",
+            "magnesium",
+            "iron"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Back in 1772 Swedish chemist Carl Scheele called this most plentiful gas in our atmosphere \"foul air\"",
+          "choices": [
+            "nitrogen",
+            "oxygen",
+            "carbon dioxide",
+            "argon"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Appropriately, it was Lord Rayleigh & Sir William Ramsay who discovered most of these gases in the 1890s",
+          "choices": [
+            "the halogens",
+            "the noble gases",
+            "the alkali metals",
+            "the rare earths"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COUNTRY CLUBS",
+      "questions": [
+        {
+          "clue": "Greece joined this military alliance in 1952, Bulgaria in 2004, though they're far from the body of water in its name",
+          "choices": [
+            "NATO (North Atlantic Treaty Organization)",
+            "the European Union",
+            "the Warsaw Pact",
+            "the United Nations"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew speaks softly and carries a big stick.) An Irish saying says you can accomplish more with a kind word & one of these than just with a kind word",
+          "choices": [
+            "a shillelagh",
+            "a walking stick",
+            "a lucky horseshoe",
+            "a four-leaf clover"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Most everybody was invited to join this post-WWI club founded in 1919, but the U.S. turned down a membership",
+          "choices": [
+            "the League of Commerce",
+            "the Global Alliance",
+            "the World Peace Council",
+            "the League of Nations"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A tetsubo is a club used by these fighters who originated as Japanese spies & commandos",
+          "choices": [
+            "the samurai",
+            "the ronin",
+            "the ninja",
+            "the shogun"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The 8-member club formed by this treaty shutskied its doors in 1991",
+          "choices": [
+            "the Comecon Pact",
+            "the Warsaw Pact",
+            "the Baltic Accord",
+            "the Iron Curtain Treaty"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A noise from the pitcher's hill",
+    "choices": [
+      "Pitcher noise",
+      "Mound sound",
+      "Field yell",
+      "Base grunt"
+    ],
+    "correctIndex": 1,
+    "category": "SPORTS RHYME TIME"
+  }
+}

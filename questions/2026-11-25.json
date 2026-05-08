@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-25",
+  "categories": [
+    {
+      "name": "LET'S GET MARRIED!",
+      "questions": [
+        {
+          "clue": "At the Council of Trent in 1563, the Catholic church said one of these had to perform the wedding to make it legal",
+          "choices": [
+            "a bishop",
+            "a priest",
+            "a rabbi",
+            "a vicar"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Emily Post says the person with this title \"offers the first toast to the bride & groom at the reception\"",
+          "choices": [
+            "the maid of honor",
+            "the usher",
+            "the best man",
+            "the groom"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "During this part of a military wedding, swords are drawn & the bride & groom pass through the arch",
+          "choices": [
+            "the procession",
+            "the signing",
+            "the recess",
+            "the recessional"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Instead of throwing rice, some guests release these insects\u2014painted ladies, for example",
+          "choices": [
+            "roses",
+            "confetti",
+            "pigeons",
+            "butterflies"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "If the person chosen as maid of honor is already married, traditionally the title gets changed to this",
+          "choices": [
+            "the matron of honor",
+            "the spinster of honor",
+            "the bridesmaid chief",
+            "the widow of honor"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FICTION-ALE",
+      "questions": [
+        {
+          "clue": "Pabst Blue Robot is Bender's favorite on this TV show",
+          "choices": [
+            "Futurama",
+            "Rick and Morty",
+            "South Park",
+            "The Simpsons"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A blue ale is named for this warrior race related to Vulcans",
+          "choices": [
+            "the Klingons",
+            "the Andorians",
+            "the Talosians",
+            "the Romulans"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "You'll find ent-draughts, served by an old stick, in this trilogy",
+          "choices": [
+            "The Lord of the Rings",
+            "The Chronicles of Narnia",
+            "The Harry Potter Series",
+            "The Hobbit"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Harry Potter might get carded trying to drink a pint of this at The Three Broomsticks",
+          "choices": [
+            "eggnog",
+            "pumpkin spice latte",
+            "cider",
+            "butterbeer"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This sitcom introduced Monkeyshine beer; Marcel was the mascot",
+          "choices": [
+            "Seinfeld",
+            "How I Met Your Mother",
+            "Friends",
+            "The Office"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE 1910s",
+      "questions": [
+        {
+          "clue": "On March 1, 1919 a coalition of leaders declared Korea independent of this nation",
+          "choices": [
+            "China",
+            "Japan",
+            "Russia",
+            "United Kingdom"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The October 1912 All-Story magazine featured the tale of this man \"of the Apes\", his debut in print",
+          "choices": [
+            "King Kong",
+            "Tarzan",
+            "Conan the Barbarian",
+            "John Carter"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In March 1915 the Russian army seized an Austrian fortress & captured 119,000 P.O.W.s, these \"of war\"",
+          "choices": [
+            "civilians",
+            "prisoners",
+            "soldiers",
+            "refugees"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A new viral strain to which few had immunity caused the 1918-1919 pandemic of the \"Spanish\" type of this disease",
+          "choices": [
+            "the plague",
+            "typhus",
+            "the flu",
+            "chickenpox"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1918 Lawrence of Arabia shocked King George V by refusing this high honor that lets you be called \"Sir\"",
+          "choices": [
+            "peerage",
+            "OBE",
+            "knighthood (knightship accepted)",
+            "order of merit"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In a Jewish tradition, a scroll called a mezuzah is inscribed with Deuteronomy verses & fixed to this part of the home",
+    "choices": [
+      "the doorway",
+      "the window",
+      "the attic",
+      "the hallway"
+    ],
+    "correctIndex": 0,
+    "category": "OLD DEUTERONOMY"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-29",
+  "categories": [
+    {
+      "name": "THE HORSE",
+      "questions": [
+        {
+          "clue": "These are defined as horses that stand less than 14.2 hands at the withers",
+          "choices": [
+            "ponies",
+            "donkeys",
+            "zebras",
+            "foals"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Under racing rules, every thoroughbred in the Northern Hemisphere has this birthday",
+          "choices": [
+            "March 1",
+            "January 1",
+            "July 4",
+            "December 25"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This type of horse takes its name from the length of racetracks in early America",
+          "choices": [
+            "an arabian",
+            "a quarterhorse",
+            "a paint horse",
+            "a thoroughbred"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In this sport, a second refusal can cost you 6 faults",
+          "choices": [
+            "Dressage",
+            "Jumping",
+            "Endurance",
+            "Show jumping"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "From the Spanish, it's the term for a horse with a golden coat & a white or silver mane & tail",
+          "choices": [
+            "chestnut",
+            "buckskin",
+            "palomino horse",
+            "palomino"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MUSICAL STATES",
+      "questions": [
+        {
+          "clue": "Although it was a hit, no singles were released in the U.S. from this 1982 Bruce Springsteen album",
+          "choices": [
+            "Born to Run",
+            "The River",
+            "Born in the U.S.A.",
+            "\"Nebraska\""
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"The coyotes wail, along the trail, deep in the heart of\" this state",
+          "choices": [
+            "Alabama",
+            "Montana",
+            "Texas",
+            "Wyoming"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This group's Kerry Livgren wrote \"Dust in the Wind\" after reading a book of Native American poetry",
+          "choices": [
+            "America",
+            "Kansas",
+            "Chicago",
+            "Boston"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This group had 26 No. 1 country hits in the '80s, including \"Feels So Right\"",
+          "choices": [
+            "Garth Brooks",
+            "Alabama",
+            "George Strait",
+            "Dixie Chicks"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Bruce Springsteen recorded this 1982 album in his New Jersey bedroom using a 4-track cassette recorder",
+          "choices": [
+            "Darkness on the Edge of Town",
+            "The River",
+            "Nebraska",
+            "Born to Run"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ON THE ROCKS",
+      "questions": [
+        {
+          "clue": "Consisting of tiny crystals of quartz, this rock that provides a spark was utilized in early firearms",
+          "choices": [
+            "a flint",
+            "a spark plug",
+            "a matchstick",
+            "a lighter"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It's rocks on top of rocks to create one of these 10-letter embankments",
+          "choices": [
+            "a seawall",
+            "a breakwater",
+            "a retaining wall",
+            "a levee"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Rich in potash & iodine, this type of seaweed has been tossed by the sea onto some rocks",
+          "choices": [
+            "laminaria",
+            "sargassum",
+            "kelp",
+            "rockweed"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The most common plutonic rock of the Earth's crust, it is big in tombstones",
+          "choices": [
+            "granite",
+            "marble",
+            "slate",
+            "basalt"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Say \"hy there\" to the rock type of this creature, sometimes called a rock rabbit",
+          "choices": [
+            "the hyena",
+            "the hare",
+            "the hyrax",
+            "the marmot"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In \"Goodfellas\", this actor memorably said, \"I'm funny how... I'm funny like a clown, I amuse you?\"",
+    "choices": [
+      "Robert De Niro",
+      "Joe Pesci",
+      "Ray Liotta",
+      "Lorraine Bracco"
+    ],
+    "correctIndex": 1,
+    "category": "\"J.P.\""
+  }
+}

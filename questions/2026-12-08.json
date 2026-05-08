@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-08",
+  "categories": [
+    {
+      "name": "MAN IN SPACE",
+      "questions": [
+        {
+          "clue": "We think the Soviets currently have 3 of these in orbit, Mir & Salyut 6 & 7",
+          "choices": [
+            "satellites",
+            "telescopes",
+            "rovers",
+            "space stations"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "To date, this Space Shuttle named for a lost land has gone up on the fewest missions\u20142",
+          "choices": [
+            "Atlantis",
+            "Columbia",
+            "Endeavour",
+            "Discovery"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A space module's life support system must remove this gas, a primary product of respiration",
+          "choices": [
+            "nitrogen",
+            "oxygen",
+            "carbon dioxide",
+            "helium"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Called \"Drogues\", they open during a capsule's descent",
+          "choices": [
+            "parachutes",
+            "radar",
+            "sensors",
+            "engines"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "(Cheryl of the Clue Crew reports from Johnson Space Center.) I'm in a trainer for this 1973-74 program that tried to find out how weightlessness affected astronauts",
+          "choices": [
+            "Apollo 17",
+            "Skylab",
+            "Vostok 1",
+            "Gemini 4"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TV OR NOT TV",
+      "questions": [
+        {
+          "clue": "On a break from her TV \"Friends\", she was full of Grace in \"Bruce Almighty\" in 2003",
+          "choices": [
+            "Courteney Cox",
+            "Lisa Kudrow",
+            "Lisa Bonet",
+            "Jennifer Aniston"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "At nick.com games based on this series include \"One Million Wishes\" & \"Timmy the Barbarian\"",
+          "choices": [
+            "The Powerpuff Girls",
+            "Teen Titans",
+            "Ben 10",
+            "The Fairly OddParents"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A year after playing Julia in TV's \"Top of the Lake\", she became an onscreen aquamom",
+          "choices": [
+            "Nicole Kidman",
+            "Kate Winslet",
+            "Nicole Scherzinger",
+            "Naomie Harris"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "David Janssen was Dr. Richard Kimble on '60s TV; Harrison Ford made this '93 film, then Tim Daly did a 2nd TV version",
+          "choices": [
+            "The X-Files",
+            "Breaking Bad",
+            "The Fugitive",
+            "Monk"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A recent episode of this science & discovery series showed the creation of sombreros & salad dressings",
+          "choices": [
+            "How It's Made",
+            "MythBusters",
+            "Cosmos",
+            "NOVA"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HETERONYMS",
+      "questions": [
+        {
+          "clue": "To bring forth & fresh fruits & vegetables",
+          "choices": [
+            "read [REEDE] & read [RED]",
+            "wind [WINDE] & wind [WIND]",
+            "produce [pruh-DEUCE] & produce [PRO-deuce]",
+            "tear [TARE] & tear [TIR]"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A written agreement & to shrink in size",
+          "choices": [
+            "contract [KAHN-tract] & contract [kin-TRACT]",
+            "bow [BOWE] & bow [BOE]",
+            "tune [TOON] & tune [TYOON]",
+            "lead [LED] & lead [LEED]"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Flawless & to make flawless",
+          "choices": [
+            "ideal [Eye-deal] & ideal [I-dial]",
+            "record [Rek-erd] & record [Rek-ord]",
+            "perfect [PER-fikt] & perfect [per-FEKT]",
+            "tear [Tear] & tear [Tair]"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Suitable for the occasion, or to take possession of",
+          "choices": [
+            "present [Prez-ent] & present [Prez-ent]",
+            "minute [Min-it] & minute [Min-oot]",
+            "appropriate & appropriate",
+            "object [Ob-jekt] & object [Ob-jekt]"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "An injury, or coiled up tightly",
+          "choices": [
+            "bow [Bou] & bow [Bow]",
+            "lead [Led] & lead [Leed]",
+            "tear [Tair] & tear [Tear]",
+            "wound & wound"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "1 Thessalonians 1:3: \"Remembering without ceasing your work of faith, and ____ of love\"",
+    "choices": [
+      "patience",
+      "hope",
+      "endurance",
+      "labor"
+    ],
+    "correctIndex": 3,
+    "category": "FILL IN THE BIBLICAL ____"
+  }
+}

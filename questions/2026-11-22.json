@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-22",
+  "categories": [
+    {
+      "name": "EDIBLE BEFORE & AFTER",
+      "questions": [
+        {
+          "clue": "Boy George's group that's a double-decker creation with bacon, lettuce, tomato & turkey on 3 slices of bread",
+          "choices": [
+            "Sex Pistals sandwich",
+            "Spice Girls platter",
+            "Culture Club sandwich",
+            "Take That wrap"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Choral singing group that's got 3 slices of toasted bread, turkey, bacon, lettuce & tomato",
+          "choices": [
+            "a glee club sandwich",
+            "a boy band sandwich",
+            "a vocal harmony burger",
+            "a gospel choir wrap"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A fried Asian appetizer that you use for personal grooming like Ban or Dry Idea",
+          "choices": [
+            "spring roll-fresh cream",
+            "egg roll-on deodorant",
+            "wonton roll-antiperspirant",
+            "tempura roll-body spray"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Jewish soup dumpling also called a knaidel that's the title of Jim Bouton's baseball memoir",
+          "choices": [
+            "challah Ball Five",
+            "bagel Ball Two",
+            "matzo Ball Four",
+            "kreplach Ball Three"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Transformer leader of the Autobots who is really good with horseradish as a meat entree",
+          "choices": [
+            "Megatron steak",
+            "Bumblebee roast",
+            "Starscream brisket",
+            "Optimus Prime rib"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "VARIETY PACK",
+      "questions": [
+        {
+          "clue": "It's a slang term for a job for musicians, or a pronged spear used for fishing or catching frogs",
+          "choices": [
+            "a shift",
+            "a spot",
+            "a date",
+            "a gig"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The words tanning & tannin come from an old German word for this mighty tree, once the main source of tannin",
+          "choices": [
+            "a pine",
+            "a birch",
+            "an oak",
+            "a maple"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In the '70s this Gibbons became the spokesman for the health benefits of Grape-Nuts cereals",
+          "choices": [
+            "Bill Gibbons",
+            "John Gibbons",
+            "Euell Gibbons",
+            "Tom Gibbons"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1931 this Hull House founder was awarded the Nobel Peace Prize, the first American woman so honored",
+          "choices": [
+            "Margaret Sanger",
+            "Alice Paul",
+            "(Jane) Addams",
+            "Eleanor Roosevelt"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Off Detroit, you'll find Belle this",
+          "choices": [
+            "River",
+            "Shore",
+            "Bay",
+            "Isle"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "STRONG WORDS",
+      "questions": [
+        {
+          "clue": "Add \"ate\" to this word meaning strong to get a strong person or ruler",
+          "choices": [
+            "monarch",
+            "dictator",
+            "sovereign",
+            "potentate"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "From the Latin for \"energy\" or \"force\" comes this word sometimes paired with vim",
+          "choices": [
+            "vigor",
+            "vitality",
+            "energy",
+            "strength"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Completed 12 labors? You may be described with this adjective, like an ancient hero who did the same",
+          "choices": [
+            "herculean",
+            "gargantuan",
+            "colossal",
+            "monumental"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Meaning tough or resilient, this 6-letter word refers to tendons",
+          "choices": [
+            "tough",
+            "sturdy",
+            "strong",
+            "sinewy"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Post-Civil War Republicans opposed to civil service reform were called these",
+          "choices": [
+            "Mugwumps",
+            "Half-Breeds",
+            "Bourbon Democrats",
+            "Stalwarts"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Red cat-bear is another name for the red this, which lives in the Himalayas & eats bamboo",
+    "choices": [
+      "panda",
+      "bear",
+      "cat",
+      "polar"
+    ],
+    "correctIndex": 0,
+    "category": "WILD THINGS"
+  }
+}

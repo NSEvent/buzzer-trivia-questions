@@ -1,0 +1,207 @@
+{
+  "date": "2026-12-19",
+  "categories": [
+    {
+      "name": "TOY STORY",
+      "questions": [
+        {
+          "clue": "The snacktime version of these \"Kids\" went up for adoption in 1996, until they began snacking on kids' hair",
+          "choices": [
+            "Care Bears",
+            "Cabbage Patch Kids",
+            "My Little Pony",
+            "Barbie Dolls"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 2012 a Mitt Romney aide got in trouble for comparing a campaign to this drawing toy",
+          "choices": [
+            "Etch-a-Sketch",
+            "Lego",
+            "Kinetic Sand",
+            "Jenga"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The Sawyer photo company invented this device that allows kids to see images in 3-D slide form",
+          "choices": [
+            "Magic Eye",
+            "Hologram Card",
+            "Red Cumber Viewer",
+            "a View-Master"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1943 Richard James worked on a set of springs to stabilize items in rough seas; that became this toy in 1945",
+          "choices": [
+            "Yo-yo",
+            "Slinky",
+            "Hula hoop",
+            "Jack-in-the-box"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The Electric Express was the first model train from this company founded in 1900",
+          "choices": [
+            "Ives",
+            "American Flyer",
+            "Lionel",
+            "M\u00e4rklin"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COINAGE",
+      "questions": [
+        {
+          "clue": "This country chose the image of an owl from an ancient 4-drachma coin to use on its 1-euro coin",
+          "choices": [
+            "Spain",
+            "Italy",
+            "Greece",
+            "Portugal"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 2014 Poland issued a new 2-zloty coin to commemorate the canonization of this late native son",
+          "choices": [
+            "Saint Faustina Kowalska",
+            "Mother Teresa",
+            "Pope John Paul II",
+            "Pope Benedict XVI"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 2019 the U.S. Mint issued quarters with a \"W\" mint mark for the first time, indicating they were minted at this N.Y. location",
+          "choices": [
+            "San Francisco",
+            "West Point",
+            "Philadelphia",
+            "Denver"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 2015 Palau issued a special silver coin called \"Rainbow of the Sea\" on which one of these gems was mounted",
+          "choices": [
+            "a diamond",
+            "a ruby",
+            "an opal",
+            "a pearl"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The first U.S. commemorative coin to honor a First Lady depicts her; her home Montpelier is on the reverse",
+          "choices": [
+            "Abigail Adams",
+            "Martha Washington",
+            "Eleanor Roosevelt",
+            "Dolley Madison"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THAT'S POLITICS",
+      "questions": [
+        {
+          "clue": "In his political campaigns, Robert Francis O'Rourke has used this childhood nickname",
+          "choices": [
+            "Robert",
+            "Francis",
+            "Beto",
+            "O'Rourke"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1996 Sam Brownback was elected to complete the term of this Kansas senator who ran for president",
+          "choices": [
+            "Kassebaum",
+            "Dole",
+            "Kraus",
+            "Pryor"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This avian term for an office holder of limited power dates back to the 18th century",
+          "choices": [
+            "a lame duck",
+            "a sitting duck",
+            "a flying blind",
+            "a broken wing"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In a 2008 presidential ad, Chuck Norris gave Huck facts & this governor gave Chuck facts",
+          "choices": [
+            "(Mike) Huckabee",
+            "Rick Perry",
+            "Mitt Romney",
+            "Tim Pawlenty"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1848 Horace Mann filled the congressional seat of this ex-president",
+          "choices": [
+            "James Monroe",
+            "John Quincy Adams",
+            "John Adams",
+            "Thomas Jefferson"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Part of many companies: HR",
+    "choices": [
+      "Human Resources",
+      "Human Relations",
+      "Human Capital",
+      "Human Assets"
+    ],
+    "correctIndex": 0,
+    "category": "THE SHORT VERSION"
+  },
+  "bonusRound": {
+    "clue": "This 1950s CIA director was a stern Cold Warrior like his brother the Secretary of State",
+    "choices": [
+      "Richard Helms",
+      "Allen Dulles",
+      "William Casey",
+      "John McCone"
+    ],
+    "correctIndex": 1,
+    "category": "THE CIA"
+  }
+}

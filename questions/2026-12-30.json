@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-30",
+  "categories": [
+    {
+      "name": "FROM A TO Y",
+      "questions": [
+        {
+          "clue": "This word for a payment to a former spouse is from the Latin for \"sustenance\" or \"nourishment\"",
+          "choices": [
+            "maintenance",
+            "child support",
+            "separatist",
+            "alimony"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Info on the aurora australis & eclipses are included in this section of the World Almanac",
+          "choices": [
+            "geology",
+            "meteorology",
+            "physics",
+            "astronomy"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Bounty paper towels invites you to test them for this quality",
+          "choices": [
+            "absorbency",
+            "durability",
+            "softness",
+            "strength"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It's a bunch of beehives",
+          "choices": [
+            "an apiary",
+            "a greenhouse",
+            "a stable",
+            "a warehouse"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "When this word precedes \"canal\", it refers to the gastrointestinal tract",
+          "choices": [
+            "digestive",
+            "gastrointestinal",
+            "alimentary canal",
+            "alimentary"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CASTLING",
+      "questions": [
+        {
+          "clue": "No castle is complete without this deep trench that prevents access from the surrounding land",
+          "choices": [
+            "a moat",
+            "a fence",
+            "a gate",
+            "a wall"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Hey you kids, go play in the tiltyard, where knights tried to unhorse each other using these",
+          "choices": [
+            "lances",
+            "swords",
+            "shields",
+            "bows"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Horace Walpole's 1764 novel \"The Castle of Otranto\" is regarded as the first in this spooky genre",
+          "choices": [
+            "Horror",
+            "Thriller",
+            "Gothic",
+            "Mystery"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Vaduz Castle overlooks the town of Vaduz in this principality",
+          "choices": [
+            "Monaco",
+            "Andorra",
+            "San Marino",
+            "Liechtenstein"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This low wall at the top of the ramparts kept soldiers from falling off & protected against enemy fire",
+          "choices": [
+            "battlements",
+            "parapets",
+            "crenellations",
+            "merlons"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOME ON THE RANGE",
+      "questions": [
+        {
+          "clue": "Let's give thanks to Kraft for making the Stove Top brand of this all year long",
+          "choices": [
+            "dressing",
+            "stuffing",
+            "casseroles",
+            "pilaf"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This creamy pasta dish was created in the early 1900s; the Italian chef created it for his wife, but put his own first name on it",
+          "choices": [
+            "Carbonara",
+            "Cacio e Pepe",
+            "Alfredo",
+            "Fettuccine"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Also a way to cook eggs, it's an easy way to prepare salmon\u2014simmer it in a liquid",
+          "choices": [
+            "steam",
+            "boil",
+            "poach",
+            "grill"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Rachael Ray likes to finish off this creamy pasta dish with a man's name in it with a sprinkle of nutmeg",
+          "choices": [
+            "Carbonara",
+            "Bolognese",
+            "Fettuccine Alfredo",
+            "Cacio e Pepe"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "One of the mother sauces, brown sauce also goes by this more sophisticated ethnic name",
+          "choices": [
+            "veloute",
+            "b\u00e9chamel",
+            "hollandaise",
+            "espagnole"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "He's \"In the swing, he ain't too hip about the new breed babe, he ain't no drag (he's) got a brand new bag\"",
+    "choices": [
+      "Mama",
+      "Papa",
+      "Brother",
+      "Sister"
+    ],
+    "correctIndex": 1,
+    "category": "SONGS OF THE '60S"
+  }
+}

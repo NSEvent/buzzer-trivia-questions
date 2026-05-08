@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-11",
+  "categories": [
+    {
+      "name": "ALLITERATIVE GEOGRAPHY",
+      "questions": [
+        {
+          "clue": "Sail through this strait to get from Oakland to the Pacific",
+          "choices": [
+            "the Silver Strait",
+            "the Copper Channel",
+            "the Bronze Bay",
+            "the Golden Gate"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1434 it supplanted Angkor Thom as the Khmer capital",
+          "choices": [
+            "Sihanoukville",
+            "Siem Reap",
+            "Phnom Penh",
+            "Battambang"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It's a capital city on the Horn of Africa",
+          "choices": [
+            "Asmara",
+            "Djibouti",
+            "Mogadishu",
+            "Addis Ababa"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This California place is home to Piedras Blancas Light Station &, of course, Hearst Castle",
+          "choices": [
+            "Big Sur",
+            "Morro Bay",
+            "Monterey",
+            "San Simeon"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In song, \"Some came from a land beyond the sea, from Boston and New York, but the boys who beat the Black and Tans, were the boys from\" here",
+          "choices": [
+            "County Kerry",
+            "County Cork",
+            "County Dublin",
+            "County Limerick"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MINT MARKS",
+      "questions": [
+        {
+          "clue": "The tins that house these mints are repurposed to hold all sorts of curious things",
+          "choices": [
+            "Peppermint Patties",
+            "Altoids Cigars",
+            "Altoids",
+            "Wrigley's"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "\"CC\" is for this state capital",
+          "choices": [
+            "Carson City",
+            "Cheyenne",
+            "Columbia",
+            "Charleston"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"W\" is for this home of cadets",
+          "choices": [
+            "West Virginia",
+            "West Point",
+            "Washington D.C.",
+            "Westchester"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Looking at its logo you can almost hear the name of the Swiss minty cough drops echo through the Alps",
+          "choices": [
+            "Altoids",
+            "Peppermint",
+            "Ricola",
+            "Halls"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It's always time for one of these British mint chocolates",
+          "choices": [
+            "a Toblerone",
+            "a Kit Kat",
+            "a Cadbury",
+            "an After Eight"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"Y\" NOT?",
+      "questions": [
+        {
+          "clue": "Streptococcus thermophilus & Lactobacillus bulgaricus are used to make this",
+          "choices": [
+            "kefir",
+            "cheese",
+            "sour cream",
+            "yogurt"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Their Latin name is Bos grunniens, & their tails make wonderful fly swatters",
+          "choices": [
+            "yaks",
+            "llamas",
+            "alpacas",
+            "bactrians"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Name shared by a fanciful clergyman in \"Tristram Shandy\" & a dead jester in \"Hamlet\" \u2014- Alas!",
+          "choices": [
+            "Laertes",
+            "Yorick",
+            "Polonius",
+            "Osric"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "You might make a \"conference\" call to this Crimean resort city",
+          "choices": [
+            "Yerevan",
+            "Yokohama",
+            "Yalta",
+            "Yamoussoukro"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Delicous\" ward of the Lord High Executioner",
+          "choices": [
+            "Little Buttercup",
+            "Lady Sangaree",
+            "Yum-Yum",
+            "Kate Barbi"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Pablo Picasso created pictures of minotaurs, & this woman, his daughter, made a Minotaure scent for men",
+    "choices": [
+      "Coco Chanel",
+      "Estee Lauder",
+      "Paloma Picasso",
+      "Giorgio Armani"
+    ],
+    "correctIndex": 2,
+    "category": "MAKES SCENTS"
+  }
+}

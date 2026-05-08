@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-15",
+  "categories": [
+    {
+      "name": "MAESTROS",
+      "questions": [
+        {
+          "clue": "In 1958 he began a televised series of \"Young People's Concerts\" with the N.Y. Philharmonic",
+          "choices": [
+            "Bernstein",
+            "Stravinsky",
+            "Berg",
+            "Webern"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Like Pablo Casals, Mstislav Rostropovich is a conductor & a famous soloist on this instrument",
+          "choices": [
+            "the violin",
+            "the cello",
+            "the viola",
+            "the double bass"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A 2002 book about this Italian-born conductor was subtitled \"The NBC Years\"",
+          "choices": [
+            "Gian Carlo Menotti",
+            "Erich Leinsdorf",
+            "Thomas Schippers",
+            "Arturo Toscanini"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Associated with the New York Philharmonic for 40 years, he wrote the score to the film \"On the Waterfront\"",
+          "choices": [
+            "Leonard Bernstein",
+            "Aaron Copland",
+            "William Schuman",
+            "Roy Harris"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 2009 this young Venezuelan became the 11th music director in the history of the Los Angeles Philharmonic",
+          "choices": [
+            "Alan Gilbert",
+            "Valery Gergiev",
+            "Gustavo Dudamel",
+            "Andris Nelsons"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CONTEMPORARY NOVELISTS",
+      "questions": [
+        {
+          "clue": "In 1992 this \"One Flew Over The Cuckoo's Nest\" author published \"Sailor's Song\", his first novel in 28 years",
+          "choices": [
+            "Ken Follett",
+            "Ken Kesey",
+            "Ken Burns",
+            "Ken Wilber"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This veteran crime novelist who wrote \"Cuba Libre\" says, \"Never use a verb other than 'said' to carry a dialogue\"",
+          "choices": [
+            "James Ellroy",
+            "George Pelecanos",
+            "Elmore Leonard",
+            "Michael Connelly"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Published in 1996, \"The Flaming Corsage\" is the latest in his Albany cycle",
+          "choices": [
+            "Robert Stone",
+            "William Gaddis",
+            "William Trevor",
+            "William Kennedy"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Raised in Chile, she visits Spain & California in her 2005 retelling of the Zorro story",
+          "choices": [
+            "(Isabel) Allende",
+            "(Gabriela) Mistral",
+            "(Laura) Esquivel",
+            "(Isabel) Paterno"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "She created Bridget Jones for a newspaper column \"and it just snowballed from there\"",
+          "choices": [
+            "(Helen) MacInnes",
+            "(Helen) Fielding",
+            "(Jane) Austen",
+            "(Joanne) Rowling"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOUSEPLANTS",
+      "questions": [
+        {
+          "clue": "Unlike many plants, these, which include the barrel & snowball types, prefer to get completely dry",
+          "choices": [
+            "ferns",
+            "succulents",
+            "orchids",
+            "cacti"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Roots sticking through drainage holes in containers are a sign that it's time to do this",
+          "choices": [
+            "prune",
+            "re-pot",
+            "water",
+            "fertilize"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Put in raised planters for an herb garden & be sure to grow this \"royal herb\"",
+          "choices": [
+            "rosemary",
+            "thyme",
+            "parsley",
+            "basil"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Though its name means \"loving tree\", it's very popular indoors as a houseplant",
+          "choices": [
+            "philodendron",
+            "pothos",
+            "monstera",
+            "fern"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Like Spanish moss & pineapple, Earth Star & air plant are in this family of attractive tropical plants",
+          "choices": [
+            "orchids",
+            "cacti",
+            "bromeliads",
+            "succulents"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In a special edition J.K. Rowling did her own illustrations for the story collection titled \"The Tales of Beedle the\" this",
+    "choices": [
+      "the Globe",
+      "the Globe Theatre",
+      "the King",
+      "the Bard"
+    ],
+    "correctIndex": 3,
+    "category": "LITERARY TITLE OCCUPATIONS"
+  }
+}

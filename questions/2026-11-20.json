@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-20",
+  "categories": [
+    {
+      "name": "JOCKS",
+      "questions": [
+        {
+          "clue": "This Yankee's Hall of Fame plaque says, \"greatest drawing card in history of baseball\"",
+          "choices": [
+            "Babe Ruth",
+            "Hank Aaron",
+            "Lou Gehrig",
+            "Joe DiMaggio"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This first woman to win an Indy Car Series race wrote a book called \"Pretty Intense\"",
+          "choices": [
+            "Danica Patrick",
+            "Sarah Fisher",
+            "Danica Gallagher",
+            "Jaime Dunham"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This Milwaukee Bucks star was born in Greece to Nigerian parents (don't worry, we'll take just his first name)",
+          "choices": [
+            "LeBron",
+            "Stephen",
+            "Giannis (Antetokounmpo)",
+            "Luka"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 2004 this giant of a player was walked a record 232 times, 120 of them intentional",
+          "choices": [
+            "Hank Aaron",
+            "Pete Alonso",
+            "Albert Pujols",
+            "Barry Bonds"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Jordin Tootoo made a long trip south to Nashville & became the first NHL player of this native ancestry",
+          "choices": [
+            "Sami (Lapland)",
+            "Maori (New Zealand)",
+            "Inuit (Eskimo)",
+            "Aboriginal (Australia)"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CALIFORNIA FOOD FESTIVALS",
+      "questions": [
+        {
+          "clue": "For 55 years Pismo Beach has been doing annual digs & chowder cook-offs to celebrate this food",
+          "choices": [
+            "clams",
+            "oysters",
+            "mussels",
+            "crabs"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Pismo Beach has been honoring this creature for 67 years with digging & chowder cook-offs",
+          "choices": [
+            "the clam",
+            "the oyster",
+            "the mussel",
+            "the crab"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "At the \"Spitway\" at Sunland-Tujunga's celebration of this food, you can spit 3 seeds for a buck; longest in each age group wins",
+          "choices": [
+            "grapefruit",
+            "pomegranate",
+            "kumquat",
+            "watermelon"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In northern California Half Moon Bay's October festival for these features a weigh-off with 900-pound ones",
+          "choices": [
+            "squashes",
+            "pumpkins",
+            "winter melons",
+            "acorn gourds"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Lodi's annual September festival for this fruit features great stomps",
+          "choices": [
+            "grapes",
+            "apples",
+            "peaches",
+            "cherries"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHAT KIND OF ANIMAL ARE YOU?",
+      "questions": [
+        {
+          "clue": "Fruit & vampire",
+          "choices": [
+            "a dragon",
+            "a bat",
+            "a vampire squid",
+            "a night owl"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Douglas Engelbart's 1970 patent for this device calls it a \"position indicator control\"",
+          "choices": [
+            "a trackball",
+            "a joystick",
+            "a touchpad",
+            "a computer mouse"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Friesian, Appaloosa, Pinto",
+          "choices": [
+            "a cow",
+            "a zebra",
+            "a horse",
+            "a donkey"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Eider & Muscovy",
+          "choices": [
+            "geese",
+            "swans",
+            "turkeys",
+            "ducks"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Anole, whiptail, basilisk",
+          "choices": [
+            "a snake",
+            "a turtle",
+            "a frog",
+            "a lizard"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "JFK was known as \"Chicky Baby\" as an honorary member of this group of Frank's pals",
+    "choices": [
+      "the Velvet Underground",
+      "the Rat Kings",
+      "the Sinatra Singers",
+      "the Rat Pack"
+    ],
+    "correctIndex": 3,
+    "category": "FRANK SINATRA"
+  }
+}

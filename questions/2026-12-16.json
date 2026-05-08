@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-16",
+  "categories": [
+    {
+      "name": "YOGA",
+      "questions": [
+        {
+          "clue": "To be the Berra of news, this is the term for a practitioner of yoga",
+          "choices": [
+            "a yogi",
+            "a guru",
+            "a monk",
+            "a sannyasi"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "For standing poses like reverse half-shoulder, be grateful that a \"sticky\" one of these is part of yoga equipment",
+          "choices": [
+            "a strap",
+            "a block",
+            "a bolster",
+            "a mat"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "From Sanskrit for \"venerable\", he's a yogi's spiritual guide",
+          "choices": [
+            "an acarya",
+            "guru",
+            "a sadhu",
+            "an ascetic"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A guiding principle in yoga is ahimsa, this pacifistic practice advanced by Mahatma Gandhi",
+          "choices": [
+            "non-violence",
+            "ahimsa",
+            "satya",
+            "asteya"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew is in the yoga studio this time.) When you need a break from one of yoga's pretzel-like poses, you can rest awhile in balasana, this youthful pose",
+          "choices": [
+            "child's pose",
+            "corpse pose",
+            "downward dog",
+            "lotus position"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SUBWAY STOPS",
+      "questions": [
+        {
+          "clue": "You'll have to switch lines in this city to go from Chapultepec to Politecnico",
+          "choices": [
+            "Buenos Aires",
+            "S\u00e3o Paulo",
+            "Mexico City",
+            "Santiago"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Going from Govan to Cowcaddens on this city's subway, you'll cross the Clyde & Kelvin Rivers",
+          "choices": [
+            "Glasgow",
+            "Edinburgh",
+            "Cardiff",
+            "Dublin"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This word follows \"Oxford\" & \"Piccadilly\" in tube stop names",
+          "choices": [
+            "Circus",
+            "Square",
+            "Garden",
+            "Place"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "If you're on NYC's A train, get off at Howard Beach in this borough to go to JFK Airport",
+          "choices": [
+            "Queens",
+            "Brooklyn",
+            "Bronx",
+            "Staten Island"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The Metro stop for Montreal's Olympic stadium is Pie-IX, named for this 19th century religious figure",
+          "choices": [
+            "Pope Pius IX",
+            "Pope John Paul II",
+            "Pope Benedict XVI",
+            "Pope Leo XIII"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A CHRISTMAS CAROL",
+      "questions": [
+        {
+          "clue": "This bird Scrooge sent the Cratchits for Christmas dinner was \"twice the size of Tiny Tim\"",
+          "choices": [
+            "goose",
+            "chicken",
+            "duck",
+            "turkey"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"Good tidings we bring to you and your kin, we wish you good tidings for Christmas and a Happy New Year\"",
+          "choices": [
+            "\"Jingle Bells\"",
+            "\"We Wish You A Merry Christmas\"",
+            "\"Deck the Halls\"",
+            "\"Silent Night\""
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"And heav'n and nature sing, and heav'n and nature sing, and heav'n and heav'n and nature sing\"",
+          "choices": [
+            "Hark the Herald Angels Sing",
+            "\"Joy to the World\"",
+            "O Come All Ye Faithful",
+            "The First Noel"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"Round yon virgin mother and child, holy infant so tender and mild\"",
+          "choices": [
+            "O Holy Night",
+            "\"Silent Night\"",
+            "Away in a Manger",
+            "God Rest Ye Merry Gentlemen"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "As the 1st paragraph states, \"Old Marley was dead as\" this",
+          "choices": [
+            "doornail",
+            "dead as a doorknob",
+            "dead as a doorstop",
+            "dead as a doorframe"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Despite its name, only 1 in 700 died during this period of extreme repression",
+    "choices": [
+      "the Reign of Terror",
+      "the Great Purge",
+      "the White Terror",
+      "the September Massacres"
+    ],
+    "correctIndex": 0,
+    "category": "FRENCH REVOLUTION"
+  }
+}

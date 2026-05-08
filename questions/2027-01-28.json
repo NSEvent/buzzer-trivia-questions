@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-28",
+  "categories": [
+    {
+      "name": "THE ADAMS FAMILY",
+      "questions": [
+        {
+          "clue": "As minister to this country, Charles Francis Adams helped keep it neutral during the Civil War",
+          "choices": [
+            "England",
+            "France",
+            "Germany",
+            "Spain"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A large bear named Ben was the best friend of this Dan Haggerty TV character",
+          "choices": [
+            "John Schneider",
+            "Grizzly Adams",
+            "Davy Crockett",
+            "Daniel Boone"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"The Education of\" this \"Adams\" is considered a classic in American literature",
+          "choices": [
+            "John Adams",
+            "Henry Adams",
+            "Samuel Adams",
+            "Quincy Adams"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "He died a congressman on February 23, 1848 saying, \"This is the last of Earth. I am content.\"",
+          "choices": [
+            "John Adams",
+            "John Quincy Adams",
+            "Thomas Jefferson",
+            "James Monroe"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The only American woman whose husband & son were both elected president",
+          "choices": [
+            "Martha Jefferson",
+            "Abigail Adams",
+            "Dolley Madison",
+            "Eleanor Roosevelt"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MOVIE CO-STARS",
+      "questions": [
+        {
+          "clue": "In \"Titanic\" & \"Revolutionary Road\": this pair",
+          "choices": [
+            "Brad Pitt & Angelina Jolie",
+            "Johnny Depp & Kate Winslet",
+            "Leonardo DiCaprio & Gwyneth Paltrow",
+            "Leonardo DiCaprio & Kate Winslet"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This movie based on a Philip Roth novella gave Richard Benjamin & Ali MacGraw their first leading roles on film",
+          "choices": [
+            "When Harry Met Sally",
+            "The Graduate",
+            "American Graffiti",
+            "Goodbye, Columbus"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In \"The Sting\" & \"Butch Cassidy and the Sundance Kid\", these two icons",
+          "choices": [
+            "Clint Eastwood & Lee Marvin",
+            "Paul Newman & Robert Redford",
+            "Humphrey Bogart & Ingrid Bergman",
+            "John Wayne & James Stewart"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In \"Sisters\" & \"Baby Mama\": funny ladies Tina Fey & her",
+          "choices": [
+            "Amy Poehler",
+            "Rachel Dratch",
+            "Ana Gasteyer",
+            "Maya Rudolph"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In \"Die Hard with a Vengeance\" & \"Unbreakable\": Bruce Willis & him",
+          "choices": [
+            "Jeremy Irons",
+            "Harrison Ford",
+            "Samuel L. Jackson",
+            "Liam Neeson"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TENNESSEE",
+      "questions": [
+        {
+          "clue": "W.C. Handy, \"Father of the Blues\", wrote & worked on Beale Street in this city",
+          "choices": [
+            "Nashville",
+            "Memphis",
+            "Knoxville",
+            "Chattanooga"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Tennessee is a leading producer of this metal used to coat iron & steel",
+          "choices": [
+            "tin",
+            "lead",
+            "copper",
+            "zinc"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Dollywood, Dolly Parton's theme park in Pigeon Forge, is \"The Entertainment Capital of\" these mountains",
+          "choices": [
+            "Blue Ridge",
+            "the Smokies",
+            "Appalachians",
+            "Ozarks"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 1862 Abraham Lincoln appointed this man military governor of Tennessee",
+          "choices": [
+            "William Stanton",
+            "Ezekiel A. Clements",
+            "Andrew Johnson",
+            "Andrew Hunter"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A museum in Adamsville is dedicated to this sheriff portrayed in the \"Walking Tall\" films",
+          "choices": [
+            "Chris LeDoux",
+            "John Wayne",
+            "Chuck Norris",
+            "Buford Pusser"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "There were 2 Apostles with this name, so we use \"the Greater\" & \"the Less\" to tell them apart",
+    "choices": [
+      "Peter",
+      "James",
+      "John",
+      "Philip"
+    ],
+    "correctIndex": 1,
+    "category": "THE APOSTLES"
+  }
+}

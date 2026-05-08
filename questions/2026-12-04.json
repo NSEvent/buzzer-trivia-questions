@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-04",
+  "categories": [
+    {
+      "name": "ON WISCONSIN",
+      "questions": [
+        {
+          "clue": "This nickname for Wisconsin folks goes back to lead miners who lived in holes in the ground or hillsides",
+          "choices": [
+            "badgers",
+            "squirrels",
+            "woodchucks",
+            "beavers"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The USDA reported that Wisconsin's dairy plants produced 205.8 million lbs. of this in Jan. 2008",
+          "choices": [
+            "butter",
+            "cheese",
+            "milk",
+            "yogurt"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 1979 this U.S. govenuh got a degree in business & international economics from UW-Superior",
+          "choices": [
+            "Romney",
+            "Bush",
+            "Pence",
+            "Schwarzenegger"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The USA's first one of these classes for youngsters opened its doors in Watertown in 1856",
+          "choices": [
+            "a nursery school",
+            "a kindergarten",
+            "a day care",
+            "a pre-school"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "On June 8, 1867 this architect began building a life for himself when he was born in Richland Center, Wisconsin",
+          "choices": [
+            "Louis Sullivan",
+            "Mies van der Rohe",
+            "Philip Johnson",
+            "(Frank Lloyd) Wright"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ESSAYS",
+      "questions": [
+        {
+          "clue": "In \"Everybody's Protest Novel\", James Baldwin took to task this novel & its author Harriet Beecher Stowe",
+          "choices": [
+            "The Scarlet Letter",
+            "Uncle Tom's Cabin",
+            "Little Women",
+            "The House of the Seven Gables"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 1711 & 1712 this collaborator of Richard Steele wrote 274 essays for \"The Spectator\"",
+          "choices": [
+            "Joseph Addison",
+            "Alexander Pope",
+            "Daniel Defoe",
+            "Jonathan Swift"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "H.L. Mencken wrote a notorious essay on the \"unbroken and agonizing ugliness\" of this state's steel towns",
+          "choices": [
+            "Pennsylvania",
+            "Ohio",
+            "West Virginia",
+            "Maryland"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This humorist's collection of essays \"In Cyberspace\" is formatted like a computer manual",
+          "choices": [
+            "Bill Bryson",
+            "George Carlin",
+            "Dave Barry",
+            "David Sedaris"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "An essay that she wrote about marine life called \"World of Waters\" was published in 1937 as \"Undersea\"",
+          "choices": [
+            "Jackie Chan",
+            "Jane Goodall",
+            "Rachel Carson",
+            "Sigourney Weaver"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "KISS",
+      "questions": [
+        {
+          "clue": "In recent ads Kiss used their song \"Calling Dr. Love\" to promote this soft drink",
+          "choices": [
+            "Pepsi Cola",
+            "Coca Cola",
+            "Mountain Dew",
+            "Dr Pepper"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"The Kiss\" was supposed to be a part of this sculptor's \"Gates of Hell\"",
+          "choices": [
+            "Michelangelo",
+            "Donatello",
+            "(Auguste) Rodin",
+            "Bernini"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1973 Kiss was signed to this fledgling record label that shares its name with a 1940s best picture Oscar winner",
+          "choices": [
+            "Paramount",
+            "Universal",
+            "Warner",
+            "Casablanca"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1980 \"Kiss Unmasked\" was released, but it wasn't until 1983 that the band appeared this way on an album cover",
+          "choices": [
+            "without their makeup",
+            "in black and white",
+            "with new members",
+            "as solo artists"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This word meaning to kiss is from the Latin for \"kiss\"",
+          "choices": [
+            "amplexifolious",
+            "osculate",
+            "osmophilia",
+            "oscillation"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"The Pearl\", a story by this man, tells of a pearl diver named Kino",
+    "choices": [
+      "Hemingway",
+      "Faulkner",
+      "Steinbeck",
+      "Fitzgerald"
+    ],
+    "correctIndex": 2,
+    "category": "PEARLS OF WISDOM"
+  }
+}

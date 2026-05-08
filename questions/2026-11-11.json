@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-11",
+  "categories": [
+    {
+      "name": "BIBLICAL WHO'S WHO",
+      "questions": [
+        {
+          "clue": "In First Kings he's the first king mentioned",
+          "choices": [
+            "Saul",
+            "David",
+            "Solomon",
+            "Samuel"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "He was Moses' brother as well as his personal spokesman",
+          "choices": [
+            "Miriam",
+            "Aaron",
+            "Levi",
+            "Caleb"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Hadassah was the Hebrew name of this queen",
+          "choices": [
+            "Esther",
+            "Deborah",
+            "Ruth",
+            "Naomi"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Joseph was Jacob's 11th son & the firstborn son of this woman",
+          "choices": [
+            "Rachel",
+            "Leah",
+            "Sarah",
+            "Rebekah"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The morning after the wedding, he learned he had married Leah, not her sister Rachel",
+          "choices": [
+            "Esau",
+            "Abraham",
+            "Isaac",
+            "Jacob"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOMOPHONIC DUOS",
+      "questions": [
+        {
+          "clue": "2 Bartletts make up this couple",
+          "choices": [
+            "pear pair",
+            "beer bear",
+            "gear bare",
+            "deer deer"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Photos of Harry or William",
+          "choices": [
+            "duke decks",
+            "prince prints",
+            "king cards",
+            "prince pieces"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "An umbilicus for a midshipman or admiral",
+          "choices": [
+            "a royal root",
+            "a sea knot",
+            "a ship cord",
+            "a naval navel"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The stuff breathed by the designated successor to the king",
+          "choices": [
+            "hair heir",
+            "hair air",
+            "heir air",
+            "her heir"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "To forcefully grab small oceans",
+          "choices": [
+            "seize peace",
+            "size seas",
+            "seize seas",
+            "seize sees"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GRAVE MATTERS",
+      "questions": [
+        {
+          "clue": "This famous trick question is the title of C-SPAN's book on presidential gravesites",
+          "choices": [
+            "\"Who is buried in Lincoln's tomb?\"",
+            "\"Who is buried in Washington's tomb?\"",
+            "\"Who is buried in Grant's tomb?\"",
+            "\"Who is buried in Madison's tomb?\""
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "He's buried in Hollywood Cemetery in Richmond, where he served his presidential term",
+          "choices": [
+            "Jefferson Monroe",
+            "John C. Calhoun",
+            "Robert E. Lee",
+            "Jefferson Davis"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 2016 this basketball coach of the Lady Vols was laid to rest in Mount Carmel Cemetery in Tennessee",
+          "choices": [
+            "Bill Musselman",
+            "Pat Summitt",
+            "Don Meyer",
+            "Martha Moore"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "He \"eminently\" ruled France from behind the scenes from 1624 to 1642, but his head was stolen from his grave in 1793",
+          "choices": [
+            "Mazarin",
+            "Talleyrand",
+            "Richelieu",
+            "Fouch\u00e9"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Tiptoe through a Minneapolis cemetery over to the grave of this entertainer who is buried with his ukulele",
+          "choices": [
+            "Tim Conway",
+            "Tiny Tim",
+            "Tim Allen",
+            "Timbuktu"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A statue of the god Mercury inspired the logo of this tire company",
+    "choices": [
+      "Bridgestone",
+      "Pirelli",
+      "Michelin",
+      "Goodyear"
+    ],
+    "correctIndex": 3,
+    "category": "BUSINESS BIGGIES"
+  }
+}

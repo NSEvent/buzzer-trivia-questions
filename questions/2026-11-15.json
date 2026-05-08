@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-15",
+  "categories": [
+    {
+      "name": "ONTARIO",
+      "questions": [
+        {
+          "clue": "3 leaves from this tree adorn Ontario's provincial coat of arms",
+          "choices": [
+            "the oak",
+            "the pine",
+            "the birch",
+            "the maple"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The large bay & its smaller bay that form the northern border of Ontario",
+          "choices": [
+            "Lake Superior & Lake Huron",
+            "Lake Erie & Lake Ontario",
+            "Hudson Bay & James Bay",
+            "Lake Nipigon & Lake Timiskaming"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The Ambassador Bridge, world's largest int'l suspension bridge, links Windsor, Ontario & this city",
+          "choices": [
+            "Detroit, Michigan",
+            "Chicago, Illinois",
+            "Buffalo, New York",
+            "Cleveland, Ohio"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In 1885, the first league in this sport was formed at Kingston",
+          "choices": [
+            "hockey",
+            "lacrosse",
+            "soccer",
+            "baseball"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The 2 capitals located in Ontario; 1 is the provincial capital & the other the national capital",
+          "choices": [
+            "Hamilton & London",
+            "Toronto & Ottawa",
+            "Kingston & Waterloo",
+            "Windsor & Guelph"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LAYING THINGS N TO N",
+      "questions": [
+        {
+          "clue": "It's the \"pact\" nations sign to say they won't attack one another",
+          "choices": [
+            "nonaggression",
+            "nonintervention",
+            "noncompliance",
+            "nonrecognition"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It's the science of plotting the course of a plane",
+          "choices": [
+            "astronomy",
+            "meteorology",
+            "navigation",
+            "cartography"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Oui, it's a puff pastry with custard filling",
+          "choices": [
+            "a Croissant",
+            "a Brioche",
+            "a Puffin",
+            "a Napoleon"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "An early motion picture theater, or a present-day cable network",
+          "choices": [
+            "movie palace",
+            "cinema",
+            "theater",
+            "nickelodeon"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This university's address is 360 Huntington Avenue, Boston",
+          "choices": [
+            "Northeastern",
+            "Boston University",
+            "Harvard",
+            "MIT"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"OO\" WHO?",
+      "questions": [
+        {
+          "clue": "At his death in 1865, this assassin was supposedly engaged to Lucy Hale, daughter of an ex-senator",
+          "choices": [
+            "Lewis Powell",
+            "(John Wilkes) Booth",
+            "David Herold",
+            "George Atzerodt"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Sometimes called the worst film director of all time, he died penniless in 1978",
+          "choices": [
+            "Tom Savini",
+            "John Waters",
+            "Ed Wood",
+            "Edgar Wright"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "What he really said in 1925 was that \"the chief business of the American people is business\"",
+          "choices": [
+            "Herbert Hoover",
+            "Calvin Coolidge",
+            "Warren Harding",
+            "Franklin Pierce"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Charlie Chaplin, that little tramp, married 2 16-year-old actresses as well as Paulette Goddard & her",
+          "choices": [
+            "Ursula Andress",
+            "Jayne Mansfield",
+            "Marilyn Monroe",
+            "Oona O'Neill"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Her writing includes a Wall Street Journal column & the books \"On Speaking Well\" & \"Patriotic Grace\"",
+          "choices": [
+            "Ann Coulter",
+            "George Will",
+            "Peggy Noonan",
+            "David Brooks"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "If you ignore its claim of clear up to the North Pole, this country's northern tip is at over 81 degrees N, on Rudolf Island",
+    "choices": [
+      "Canada",
+      "Russia",
+      "Norway",
+      "Finland"
+    ],
+    "correctIndex": 1,
+    "category": "EXTREME GEOGRAPHY"
+  }
+}

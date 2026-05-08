@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-19",
+  "categories": [
+    {
+      "name": "QUESTIONS",
+      "questions": [
+        {
+          "clue": "Question most associated with former NYC mayor Ed Koch",
+          "choices": [
+            "How's the family",
+            "How am I doing",
+            "Am I doing okay",
+            "Do you like me"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Melancholy Pete Seeger song that asks, \"When will they ever learn?\"",
+          "choices": [
+            "\"Where Have All The Flowers Gone?\"",
+            "Where Did All The Flowers Go",
+            "When Will They Ever Learn",
+            "Where Have All The Good Times Gone"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In a Joe Jackson song, this title is followed by \"Is she really going to take him home tonight?\"",
+          "choices": [
+            "Is he really going out with her",
+            "Is she really going home tonight",
+            "Is he really going out with him",
+            "Is she really going out with him"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "\"Macbeth\" begins with a witch asking this question",
+          "choices": [
+            "Where shall we 3 meet next",
+            "When will the 3 witches gather",
+            "When shall we 3 meet again",
+            "How soon shall we meet again"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The second half of Senator Howard Baker's 1973 question that began, \"What did the president know?\"",
+          "choices": [
+            "How did he know",
+            "\"And when did he know it?\"",
+            "he talking to",
+            "Was he involved"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RECENT MOVIES",
+      "questions": [
+        {
+          "clue": "Rosario Dawson moves into the title domicile in this 2023 film based on a Disney attraction",
+          "choices": [
+            "the Tower of Terror",
+            "the Pirates of the Caribbean",
+            "the Haunted Mansion",
+            "Space Mountain"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Anthony Ramos took over Lin-Manuel Miranda's singing bodega owner role in the film adaptation of this stage musical",
+          "choices": [
+            "Hamilton",
+            "West Side Story",
+            "Dear Evan Hansen",
+            "In the Heights"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This actor was killer (among killers) as Ladybug aboard a \"Bullet Train\" in 2022",
+          "choices": [
+            "Tom Cruise",
+            "Brad Pitt",
+            "Leonardo DiCaprio",
+            "Dwayne Johnson"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Ron Howard's documentary on the Beatles' touring years had this song in its title",
+          "choices": [
+            "\"Revolution\"",
+            "\"Eight Days A Week\"",
+            "\"Help!\"",
+            "\"All You Need Is Love\""
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Kenny Wormald stepped into Kevin Bacon's dancing shoes in the remake of this 1984 film",
+          "choices": [
+            "Dirty Dancing",
+            "Flashdance",
+            "Footloose",
+            "Top Gun"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "I LOVE \"U\"",
+      "questions": [
+        {
+          "clue": "According to some legends, this mythical beast missed the boat, Noah's boat",
+          "choices": [
+            "the phoenix",
+            "the griffin",
+            "the unicorn",
+            "the basilisk"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "For insurance companies, they calculate risk, set premiums & write pol...\u2014sorry, dozed off for a second",
+          "choices": [
+            "adjusters",
+            "brokers",
+            "underwriters",
+            "agents"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "From the Latin for \"usable\" it's a usable kitchen tool like a fork or a ladle",
+          "choices": [
+            "a gadget",
+            "a device",
+            "an instrument",
+            "a utensil"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1220 A.D. the Mongol armies of Genghis Khan overran what's now this \"Stan\"",
+          "choices": [
+            "Kazakhstan",
+            "Turkmenistan",
+            "Kyrgyzstan",
+            "Uzbekistan"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Mount Narodnaya and Mount Karpinsk are 2 prominent peaks in this mountain range",
+          "choices": [
+            "the Urals",
+            "the Alps",
+            "the Rockies",
+            "the Andes"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A New England pudding is made with this Post product that was once promoted as the \"Back-to-Nature Cereal\"",
+    "choices": [
+      "Corn Flakes",
+      "Raisin Bran",
+      "Shredded Wheat",
+      "Grape-Nuts"
+    ],
+    "correctIndex": 3,
+    "category": "HYPHENATED TERMS"
+  }
+}

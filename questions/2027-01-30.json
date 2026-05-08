@@ -1,0 +1,207 @@
+{
+  "date": "2027-01-30",
+  "categories": [
+    {
+      "name": "LIGHTNING",
+      "questions": [
+        {
+          "clue": "The B.C. scientific work \"On the Nature of Things\" ignores Prometheus & says it was lightning that first brought this to Earth",
+          "choices": [
+            "water",
+            "fire",
+            "air",
+            "earth"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Unpunished in the Maxwell Anderson play, Rhoda is roasted by lightning in this movie's finale",
+          "choices": [
+            "The Bad Seed",
+            "The Innocents",
+            "Rosemary's Baby",
+            "The Shining"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "When Michael Corleone first sees his future bride, he's \"hit by\" this, lightning with accompanying sound effects",
+          "choices": [
+            "a thunderbolt",
+            "a love letter",
+            "a bullet",
+            "a promise"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In a country song George Jones \"asked my old pappy why he called his brew\" this 2-word stuff",
+          "choices": [
+            "white lightning",
+            "moonshine",
+            "hooch",
+            "white bread"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Lightning causes over 10,000 of these a year & Smokey the Bear is getting mad!",
+          "choices": [
+            "house blazes",
+            "wildland infernos",
+            "forest fires",
+            "campground flames"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "1973",
+      "questions": [
+        {
+          "clue": "L. Patrick Gray, who succeeded J. Edgar Hoover, resigned as acting director of this organization in April",
+          "choices": [
+            "the CIA",
+            "the IRS",
+            "the ATF",
+            "the FBI"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Don't cry for this leader\u2014after nearly 18 years in exile, he returned to Argentina in June",
+          "choices": [
+            "Fujimori",
+            "Allende",
+            "Per\u00f3n",
+            "Castro"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "On Jan. 1, 1973 Great Britain, Ireland & Denmark formally joined this",
+          "choices": [
+            "NATO",
+            "the UN",
+            "Common Market",
+            "the EU"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Pan Am & TWA canceled orders for this British-French supersonic airliner",
+          "choices": [
+            "the Tu-144",
+            "the Boeing 2707",
+            "the Avro Vulcan",
+            "the Concorde"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This John Godey tale of the hijacking of a New York City subway train was published in 1973",
+          "choices": [
+            "The Taking Of Pelham One One Two",
+            "The Taking Of Pelham Two Three Four",
+            "The Taking Of Pelham One Two Three",
+            "The Taking Of Pelham Zero Two Three"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "INVEST",
+      "questions": [
+        {
+          "clue": "These 2 beastly symbols are used to describe advancing & declining stock markets",
+          "choices": [
+            "the eagle & the hawk",
+            "the lion & the tiger",
+            "the bull & the bear",
+            "the wolf & the fox"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "It's the income from your investment, or a triangular street sign",
+          "choices": [
+            "the profit",
+            "the dividend",
+            "the yield",
+            "the interest"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "If you invest in a \"CD\" down at the bank, it's not music, but one of these",
+          "choices": [
+            "a certificate of deposit",
+            "a savings account",
+            "a money market",
+            "a bond"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "From the Latin for \"year\", it's an investment or retirement fund that pays out yearly",
+          "choices": [
+            "a dividend",
+            "an annuity",
+            "a grant",
+            "a subsidy"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "To determine a company's performance before you invest, check out its P/E ratio, this",
+          "choices": [
+            "earnings per share",
+            "market cap",
+            "return on equity",
+            "price to earnings"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 2003 Crayola celebrated its 100th birthday by adding some new colors, including \"Mango\" this (hey, that rhymes)",
+    "choices": [
+      "Tango",
+      "Hango",
+      "Sango",
+      "Cango"
+    ],
+    "correctIndex": 0,
+    "category": "CRAYOLA COLORS"
+  },
+  "bonusRound": {
+    "clue": "In 1841 this British travel agent arranged his first excursion, a trip to a temperance meeting",
+    "choices": [
+      "George Stephenson",
+      "Thomas Cook",
+      "Isambard Kingdom Brunel",
+      "John Lloyd Stevens"
+    ],
+    "correctIndex": 1,
+    "category": "EMINENT VICTORIANS"
+  }
+}

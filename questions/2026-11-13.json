@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-13",
+  "categories": [
+    {
+      "name": "TAKE ME TO CHURCH",
+      "questions": [
+        {
+          "clue": "Built to commemorate the defeat of the Tatars, St. Basil's Cathedral is in this capital city",
+          "choices": [
+            "Moscow",
+            "St. Petersburg",
+            "Kyiv",
+            "Warsaw"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1775 2 lit lanterns seen in its steeple signaled that the British were coming, & not by land but by sea",
+          "choices": [
+            "the Old North Church",
+            "the Freedom Trail",
+            "the Paul Revere House",
+            "the Boston Tea Party"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Controlled by the Palestinian Authority, the Church of this is believed to mark the birthplace of Jesus in Bethlehem",
+          "choices": [
+            "the Church of the Nativity",
+            "the Church of the Holy Sepulchre",
+            "the Church of St. Catherine",
+            "the Church of the Annunciation"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Climbing up on Montmartre Hill, I could see Paris' city lights & this basilica whose name means sacred heart",
+          "choices": [
+            "Notre-Dame",
+            "Sainte-Chapelle",
+            "the Sacr\u00e9-C\u0153ur",
+            "Les Invalides"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Legend says Ivan the Terrible had the builder of this cathedral blinded, so he'd never again build anything as beautiful",
+          "choices": [
+            "Kazan",
+            "Moscow",
+            "St. Basil's",
+            "Hermitage"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ISLAND NICKNAMES",
+      "questions": [
+        {
+          "clue": "\"The Land of the Shamrock\"",
+          "choices": [
+            "Scotland",
+            "Ireland",
+            "Wales",
+            "Man"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"Islands of the Tortoises\"",
+          "choices": [
+            "Marquesas",
+            "Seychelles",
+            "Cocos",
+            "Gal\u00e1pagos"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Hawaiian island known as \"The Island of Lepers\"",
+          "choices": [
+            "Kauai",
+            "Oahu",
+            "Molokai",
+            "Lanai"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"The Isle of the Tailess Cat\"",
+          "choices": [
+            "Jersey",
+            "Wight",
+            "Mann (The Isle of Man)",
+            "Bermuda"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"The Garden Island\" of Hawaii",
+          "choices": [
+            "Maui",
+            "Oahu",
+            "Kauai",
+            "Big Island"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"HARD\"",
+      "questions": [
+        {
+          "clue": "TV role Brian Keith judged OK to play",
+          "choices": [
+            "Hardcastle",
+            "Harding",
+            "Harden",
+            "Hardiman"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Album & film featuring \"Tell Me Why\" & \"You Can't Do That\"",
+          "choices": [
+            "A Hard Day's Work",
+            "The Hard Way",
+            "A Hard Day's Night",
+            "Hard Candy"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Sea biscuit, not the horse, but the food",
+          "choices": [
+            "crackers",
+            "hardtack",
+            "biscotti",
+            "flatbread"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Black locust, persimmon, & Osage orange, for example",
+          "choices": [
+            "softwoods",
+            "conifers",
+            "pine trees",
+            "hardwoods"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Describes Mike Hammer or a 30-minute egg",
+          "choices": [
+            "hard-nosed",
+            "hard-boiled",
+            "hard-pressed",
+            "hard-earned"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Jesus' crucifixion site (7 letters)",
+    "choices": [
+      "Golgotha",
+      "Jerusalem",
+      "Bethlehem",
+      "Calvary"
+    ],
+    "correctIndex": 3,
+    "category": "CROSSWORD CLUES \"C\""
+  }
+}

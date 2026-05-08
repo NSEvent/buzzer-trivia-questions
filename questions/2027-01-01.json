@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-01",
+  "categories": [
+    {
+      "name": "SNAKES",
+      "questions": [
+        {
+          "clue": "The heaviest of all poisonous snakes, this rattler isn't \"a girl's best friend\"",
+          "choices": [
+            "a diamondback rattler",
+            "a copperhead viper",
+            "a western diamondback",
+            "a timber rattlesnake"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The hamadryad, the longest poisonous snake, is also known by this name",
+          "choices": [
+            "Black Mamba",
+            "King Cobra",
+            "Inland Taipan",
+            "Eastern Coral Snake"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The Jacobson's organ works with the tongue to let the snake sense these",
+          "choices": [
+            "odors (smells)",
+            "movements",
+            "sounds",
+            "heat sources"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Venom is usually classified as either hemotoxic, which attacks the blood, or this",
+          "choices": [
+            "neurotoxic (which attacks the nervous system)",
+            "cytotoxic (which attacks tissue)",
+            "myotoxic (which attacks muscles)",
+            "cardiotoxic (which attacks the heart)"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Playing Vandamm in this Hitchcock classic, villainous James Mason plans to kill Eva Marie Saint",
+          "choices": [
+            "Dial M for Murder",
+            "North by Northwest",
+            "To Catch a Thief",
+            "Vertigo"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE PREZ SAYS",
+      "questions": [
+        {
+          "clue": "He was at the 1901 Minnesota state fair when he said, \"There is a homely adage which runs, 'Speak softly and carry a big stick'\"",
+          "choices": [
+            "William McKinley",
+            "Woodrow Wilson",
+            "Teddy Roosevelt",
+            "Calvin Coolidge"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1868 he yelled, \"Let them impeach and be damned!\"",
+          "choices": [
+            "Ulysses S. Grant",
+            "Abraham Lincoln",
+            "Andrew Johnson",
+            "James Buchanan"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 2002 Pres. Bush told Ohio State grads that each of them should do 4000 hours of this during their lifetimes",
+          "choices": [
+            "volunteer work",
+            "charity donations",
+            "civic duty",
+            "community service"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Teddy Roosevelt: \"Let Congress debate, and while the debate goes on\" this building project \"does also\"",
+          "choices": [
+            "Suez Canal",
+            "Erie Canal",
+            "Panama Canal",
+            "Chesapeake Bay Canal"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Before the Battle of Long Island, he told the Continental Army, \"We have...to resolve to conquer or die\"",
+          "choices": [
+            "Thomas Jefferson",
+            "Benjamin Franklin",
+            "John Adams",
+            "George Washington"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "EUROPE ON FILM",
+      "questions": [
+        {
+          "clue": "Country in which Hitchcock's \"Jamaica Inn\" was set",
+          "choices": [
+            "Ireland",
+            "France",
+            "Britain",
+            "Scotland"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Parts of this 1958 Kirk Douglas film about icy invaders were filmed on location in Norway",
+          "choices": [
+            "The Sea Hawk",
+            "Captain Blood",
+            "Quo Vadis",
+            "The Vikings"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In this 1954 film, 3 women wished for romance at Rome's Fontana di Trevi",
+          "choices": [
+            "Three Coins in the Fountain",
+            "Roman Holiday",
+            "La Dolce Vita",
+            "The Roman Spring of Mrs. Stone"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Teenage Disney star set spinning on the blades of a Cretan windmill in 1964's \"The Moonspinners\"",
+          "choices": [
+            "Maureen O'Hara",
+            "Doris Day",
+            "Audrey Hepburn",
+            "Hayley Mills"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In a 1974 film, a melange of murderers took this famed train from Istanbul to Calais",
+          "choices": [
+            "the Night Train to Munich",
+            "the Orient Line",
+            "the Orient Express",
+            "the Blue Train"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Anton Chekhov's \"U.V.\"",
+    "choices": [
+      "The Cherry Orchard",
+      "The Seagull",
+      "Uncle Vanya",
+      "The Three Sisters"
+    ],
+    "correctIndex": 2,
+    "category": "FILL IN THE PLAY TITLE"
+  }
+}

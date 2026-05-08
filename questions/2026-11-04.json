@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-04",
+  "categories": [
+    {
+      "name": "CLASSIC SONGS' FIRST LINES",
+      "questions": [
+        {
+          "clue": "\"Born down in a dead man's town, the first kick I took was when I hit the ground\"",
+          "choices": [
+            "\"Dancing In The Dark\"",
+            "\"Born In The U.S.A.\"",
+            "\"Thunder Road\"",
+            "\"American Pie\""
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A Tom Petty classic: \"She's a good girl, loves her mama, loves Jesus and America too\"",
+          "choices": [
+            "\"Free Fallin'\"",
+            "\"Mary Jane's Last Dance\"",
+            "\"Runnin' Down A Dream\"",
+            "\"I Won't Back Down\""
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"You never close your eyes anymore when I kiss your lips\"",
+          "choices": [
+            "\"(Sittin' On) The Dock of the Bay\"",
+            "\"The Weight\"",
+            "\"A Change Is Gonna Come\"",
+            "\"You've Lost That Lovin' Feelin'\""
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Wayne & Garth rocked out to it: \"Is this the real life, is this just fantasy\"",
+          "choices": [
+            "\"Stairway to Heaven\"",
+            "\"Hotel California\"",
+            "\"Imagine\"",
+            "\"Bohemian Rhapsody\""
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "From the Beatles, of course: \"I read the news today, oh boy\"",
+          "choices": [
+            "\"Yesterday\"",
+            "\"A Day In The Life\"",
+            "\"Hey Jude\"",
+            "\"Let It Be\""
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE LIBRARY OF CONGRESS",
+      "questions": [
+        {
+          "clue": "The library contains the first drawing he made of his invention, the telephone",
+          "choices": [
+            "(Alexander Graham) Bell",
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Guglielmo Marconi"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The Library building named for this \"Father of the Constitution\" is the USA's official memorial to him",
+          "choices": [
+            "James Madison",
+            "James Monroe",
+            "Thomas Jefferson",
+            "John Adams"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Name of the magazine of the Library of Congress; Sir Kenneth Clark was familiar with it",
+          "choices": [
+            "Civilization",
+            "Democracy",
+            "History",
+            "Art"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In 1985 Gwendolyn Brooks was appointed a consultant on this subject",
+          "choices": [
+            "prose",
+            "drama",
+            "poetry",
+            "fiction"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1931 the library began providing sound recordings of books as well as books written in this",
+          "choices": [
+            "Braille",
+            "sign language",
+            "Morse code",
+            "lip reading"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DUDE-ERONOMY",
+      "questions": [
+        {
+          "clue": "Sweet! The fifth chapter of Deuteronomy raps out this list of dos & don'ts, just in case we spaced it",
+          "choices": [
+            "the Ten Commandments",
+            "the Beatitudes",
+            "the Sermon on the Mount",
+            "the Parables"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Awesome, dude! Deuteronomy says that all debts are to be canceled after this many years!",
+          "choices": [
+            "five",
+            "seven",
+            "ten",
+            "forty"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This Oscar winner released a 2012 book of meditations entitled \"The Dude and the Zen Master\"",
+          "choices": [
+            "Jeff Bridges",
+            "Matt Damon",
+            "Ben Affleck",
+            "Leonardo DiCaprio"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Totally cool! This dude wrote Deuteronomy as a way of reinforcing what he first learned on Mount Sinai",
+          "choices": [
+            "Moses",
+            "Jesus",
+            "Abraham",
+            "Noah"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This Aerosmith song implores the unwary to \"never judge a book by its cover\"",
+          "choices": [
+            "Walk This Way",
+            "Dream On",
+            "I Don't Want to Miss a Thing",
+            "\"Dude (Looks Like A Lady)\""
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Rhonda Byrne wrote this 2006 book, a hidden \"principle of the universe\", but don't tell anyone; scratch that. Tell me, now",
+    "choices": [
+      "The Power of Positive Thinking",
+      "Think and Grow Rich",
+      "The Secret",
+      "How to Win Friends and Influence People"
+    ],
+    "correctIndex": 2,
+    "category": "BESTSELLING BOOKS"
+  }
+}

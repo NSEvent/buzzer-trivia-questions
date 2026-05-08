@@ -1,0 +1,207 @@
+{
+  "date": "2027-01-02",
+  "categories": [
+    {
+      "name": "FOREIGN LANGUAGE",
+      "questions": [
+        {
+          "clue": "Here's the truth\u2014it's Russian for \"truth\"",
+          "choices": [
+            "istina",
+            "pravda",
+            "lag",
+            "falsity"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Tredici is Italian for this symbol of bad luck",
+          "choices": [
+            "7",
+            "11",
+            "13",
+            "4"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In German, berg is this topographical feature on a map",
+          "choices": [
+            "a hill",
+            "valley",
+            "a mountain",
+            "cliff"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"Once a jolly swagman camped by\" this, Australian for a stagnant pool or backwater",
+          "choices": [
+            "lagoon",
+            "swamp",
+            "billabong",
+            "waterhole"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "If Popeye spoke Hebrew he'd ask for tered, this",
+          "choices": [
+            "parsley",
+            "lettuce",
+            "spinach",
+            "kale"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HIGH WATER",
+      "questions": [
+        {
+          "clue": "A lake high on Mount Kenya shares its name with this main character in \"The Lion King\"",
+          "choices": [
+            "Simba",
+            "Mufasa",
+            "Nala",
+            "Timon"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The Zuiderzee flood of 1287 killed 50,000 but also connected this then-village to the sea, & the rest is Dutch history",
+          "choices": [
+            "Rotterdam",
+            "The Hague",
+            "Utrecht",
+            "Amsterdam"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Scuba diving in lakes at high altitudes is more dangerous, as this 5-letter decompression sickness is worse",
+          "choices": [
+            "the flu",
+            "the shakes",
+            "the bends",
+            "the jitters"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A dam collapse in this state led to the deadly 1889 Johnstown flood",
+          "choices": [
+            "Ohio",
+            "Pennsylvania",
+            "New York",
+            "Illinois"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The Mississippi flood of 1927 helped spur the mass movement of African Americans north & west, the \"Great\" this",
+          "choices": [
+            "exodus",
+            "journey",
+            "movement",
+            "migration"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SOUNDS LIKE PIG LATIN",
+      "questions": [
+        {
+          "clue": "No loud noises around this baked dish whose name comes from the French for \"to puff up\"",
+          "choices": [
+            "omelet",
+            "quiche",
+            "pancake",
+            "a souffle"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "One hockey team has a temporary numerical advantage with an opposing player in the penalty box in this situation",
+          "choices": [
+            "power play",
+            "face off",
+            "power trip",
+            "face shot"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Completes the 2000 Jude Law film title \"Love, Honour and...\"",
+          "choices": [
+            "Respect",
+            "Obey",
+            "Adore",
+            "Worship"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Most rye bread is flavored with these seeds",
+          "choices": [
+            "poppy",
+            "sesame",
+            "caraway",
+            "dill"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A nursery rhyme says, \"I had a little pony his name was\" this, \"I lent him to a lady to ride a mile away\"",
+          "choices": [
+            "Duke",
+            "Bucephalus",
+            "Trigger",
+            "Dapple Grey"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A type of blackberry, marionberries are grown primarily in this northwest state & are named for a county there",
+    "choices": [
+      "Washington",
+      "Oregon",
+      "California",
+      "Montana"
+    ],
+    "correctIndex": 1,
+    "category": "RANDOM FACTS"
+  },
+  "bonusRound": {
+    "clue": "During the Inquisition, even this founder of the Society of Jesus was investigated for heresy",
+    "choices": [
+      "Francis Xavier",
+      "John Wesley",
+      "Ignatius Loyola",
+      "Thomas More"
+    ],
+    "correctIndex": 2,
+    "category": "THE SPANISH INQUISITION"
+  }
+}

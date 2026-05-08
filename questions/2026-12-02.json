@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-02",
+  "categories": [
+    {
+      "name": "A DATE WITH HISTORY",
+      "questions": [
+        {
+          "clue": "The S.S. Ancon made the first complete trip through this, August 15, 1914",
+          "choices": [
+            "the Suez Canal",
+            "the Erie Canal",
+            "the St. Lawrence Seaway",
+            "the Panama Canal"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "On Jan. 1, 1804 Jean-Jacques Dessalines proclaimed this current nation independent",
+          "choices": [
+            "Haiti",
+            "Cuba",
+            "Dominican Republic",
+            "Jamaica"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Referred to as \"Black Tuesday\", it's the date in 1929 that saw the final collapse of the stock market",
+          "choices": [
+            "November 2nd",
+            "September 15th",
+            "October 29th",
+            "December 24th"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "On March 9, 1820 his daughter Maria became the first president's daughter married in the White House",
+          "choices": [
+            "John Adams",
+            "Thomas Jefferson",
+            "Andrew Jackson",
+            "James Monroe"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "John Marshall handed down the decision in this landmark case Feb. 24, 1803",
+          "choices": [
+            "McCulloch v. Maryland",
+            "Gibbons v. Ogden",
+            "Marbury v. Madison",
+            "Marshall v. Virginia"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MANAGEMENT",
+      "questions": [
+        {
+          "clue": "A meeting for everybody from CEO down to charlady is called this kind, a phrase heard before \"on deck\"",
+          "choices": [
+            "whole staff",
+            "total crew",
+            "full company",
+            "all hands"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In the opposite of \"delegate\"; this prefix comes before \"manage\"",
+          "choices": [
+            "micro",
+            "macro",
+            "super",
+            "hyper"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Fortune's story on Cinnabon president Kat Cole is titled \"From Hooters Girl to\" this desirable \"Office\"",
+          "choices": [
+            "executive",
+            "corner office",
+            "corner",
+            "corner suite"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "As the 2-word phrase indicates, these people bring information straight to you, their immediate supervisor",
+          "choices": [
+            "peer reviews",
+            "direct reports",
+            "chain of command",
+            "staff meetings"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Books for managers include Alfred Sloan's \"My Years with\" this company, for many years the world's largest",
+          "choices": [
+            "Ford Motor",
+            "Chrysler Corp",
+            "Toyota Motor",
+            "General Motors"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SOUTHERN HISTORY",
+      "questions": [
+        {
+          "clue": "Some states have debated removing the X-shaped design of this battle flag from their own flags",
+          "choices": [
+            "Confederate Flag",
+            "Stars and Bars",
+            "Stainless Banner",
+            "Union Jack"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1711 this Alabama city fittingly \"moved\" from 27 Mile Bluff to its current location",
+          "choices": [
+            "Montgomery",
+            "Birmingham",
+            "Huntsville",
+            "Mobile"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A red post that marked a border between 2 tribes is long gone, but this state capital named for it is there",
+          "choices": [
+            "Little Rock",
+            "Austin",
+            "Jackson",
+            "Baton Rouge"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This New Orleans D.A. unsuccessfully prosecuted Clay Shaw as a JFK assassination conspirator",
+          "choices": [
+            "Jim Garrison",
+            "Clay Shaw",
+            "G. Gordon Liddy",
+            "Leon Jaworski"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "After a real estate boom, one of these events struck Florida in 1926, 3 years before the \"great\" one",
+          "choices": [
+            "Depression",
+            "Boom",
+            "War",
+            "Panic"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Played by this actor, Rev. Jim changed his name to Ignatowski, thinking it was \"star child\" spelled backwards",
+    "choices": [
+      "Michael J. Fox",
+      "Gene Wilder",
+      "Christopher Lloyd",
+      "Danny DeVito"
+    ],
+    "correctIndex": 2,
+    "category": "TAXI"
+  }
+}

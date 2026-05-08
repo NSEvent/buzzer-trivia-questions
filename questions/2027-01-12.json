@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-12",
+  "categories": [
+    {
+      "name": "NEWSPAPERS & MAGAZINES",
+      "questions": [
+        {
+          "clue": "In 1994 American Publishing Co. agreed to buy this 2nd-largest Chicago paper for $180 million",
+          "choices": [
+            "the Chicago Tribune",
+            "the Chicago Sun-Times",
+            "the Chicago Defender",
+            "the Daily Southtown"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In circulation, it's the leading magazine for fans of daytime serials",
+          "choices": [
+            "TV Guide",
+            "Entertainment Weekly",
+            "Soap Opera Digest",
+            "People"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "MT for short, this magazine for car enthusiasts celebrated its 70th anniversary in 2019",
+          "choices": [
+            "Car and Driver",
+            "Automobile",
+            "Motor Trend",
+            "Road & Track"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Now edited by Helen Gurley Brown, this magazine began in Rochester, N.Y. in 1886",
+          "choices": [
+            "McCall's",
+            "Redbook",
+            "Good Housekeeping",
+            "Cosmopolitan"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1993 Rupert Murdoch bought this NYC tabloid for the second time",
+          "choices": [
+            "the New York Times",
+            "the Wall Street Journal",
+            "the New York Post",
+            "the Boston Globe"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FATHERLY NICKNAMES",
+      "questions": [
+        {
+          "clue": "Born around 2,475 years ago, he's the \"Father of Medicine\"",
+          "choices": [
+            "Galen",
+            "Aristotle",
+            "Hippocrates",
+            "Homer"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "\"The Father of the Turks\" which is what his name means",
+          "choices": [
+            "Mustafa Kemal",
+            "Enver Pasha",
+            "Ataturk",
+            "Kemal Kili\u00e7daroglu"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Secretaries take note: he's \"The Father of Modern Shorthand\", not Isaac Pitman",
+          "choices": [
+            "John Robert Gregg",
+            "Isaac Pitman",
+            "Charles Darwin",
+            "Alfred Nobel"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"The Father of the Blues\"",
+          "choices": [
+            "B.B. King",
+            "W.C. Handy",
+            "Robert Johnson",
+            "Muddy Waters"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "A Harvard prof, this brother of novelist Henry is known as the \"father of American psychology\"",
+          "choices": [
+            "Sigmund Freud",
+            "John Dewey",
+            "Carl Rogers",
+            "William James"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "STRIKE!",
+      "questions": [
+        {
+          "clue": "Something that sounds familiar strikes one of these musical combinations",
+          "choices": [
+            "Melody",
+            "Riff",
+            "Tempo",
+            "Chord"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "As a concession to workers during a 1894 railroad strike, President Cleveland created this U.S. holiday",
+          "choices": [
+            "Labor Day",
+            "Thanksgiving",
+            "Independence Day",
+            "Memorial Day"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A 1947 act named for Robert Taft & this other Republican placed limits on the right to strike",
+          "choices": [
+            "(Fred) Hartley",
+            "(William) Taft",
+            "(Robert) La Follette",
+            "(Charles) Hughes"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This governor's role in quashing a 1919 Boston police strike helped lead to his 1920 VP nomination",
+          "choices": [
+            "Roosevelt",
+            "Harding",
+            "Wilson",
+            "Coolidge"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A protest against anti-strike police brutality led to the deadly 1886 Haymarket Riot in this U.S. city",
+          "choices": [
+            "New York",
+            "Chicago",
+            "Boston",
+            "San Francisco"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1899 the first juvenile court in the nation was organized at this Chicago house co-founded by Jane Addams",
+    "choices": [
+      "Settlement House",
+      "University of Chicago",
+      "Hull House",
+      "Jane Addams Home"
+    ],
+    "correctIndex": 2,
+    "category": "HOUSE PARTY"
+  }
+}

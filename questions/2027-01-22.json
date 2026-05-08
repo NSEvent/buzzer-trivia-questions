@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-22",
+  "categories": [
+    {
+      "name": "PRESIDENTIAL FACTS",
+      "questions": [
+        {
+          "clue": "Having Charles Curtis as his running mate in 1932 didn't help; he was not reelected",
+          "choices": [
+            "Herbert Hoover",
+            "Franklin D. Roosevelt",
+            "Harry S. Truman",
+            "Dwight D. Eisenhower"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The last incumbent to be unseated; it was the 10th time it had happened",
+          "choices": [
+            "Bill Clinton",
+            "Ronald Reagan",
+            "Jimmy Carter",
+            "George (Herbert Walker) Bush"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Albert Fall, Herbert Hoover & Henry Wallace were all members of his cabinet",
+          "choices": [
+            "Woodrow Wilson",
+            "William Howard Taft",
+            "Calvin Coolidge",
+            "Warren G. Harding"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "During the Vietnam War, LBJ dreamed he was this WWI president after the stroke",
+          "choices": [
+            "Roosevelt",
+            "Lincoln",
+            "Jefferson",
+            "Wilson"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Washington, D.C. locale where President Garfield was fatally shot",
+          "choices": [
+            "the train depot",
+            "the railroad station",
+            "the waiting room",
+            "the platform"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SITCOM NEIGHBORS",
+      "questions": [
+        {
+          "clue": "David Leisure, famous as liar Joe Isuzu, played Richard Mulligan's neighbor on this sitcom",
+          "choices": [
+            "Empty Chairs",
+            "Empty Spaces",
+            "Empty Rooms",
+            "\"Empty Nest\""
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Cosmo Kramer",
+          "choices": [
+            "Seaside",
+            "Seabreeze",
+            "Seagrove",
+            "Seinfeld"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "On \"Will & Grace\", he played Jack McFarland, Will's best friend & neighbor",
+          "choices": [
+            "John Stamos",
+            "Eric McCormack",
+            "Sean Hayes",
+            "Debra Messing"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Mr. & Mrs. Roper",
+          "choices": [
+            "Two and a Half Men",
+            "The Brady Bunch",
+            "Three's Company",
+            "Full House"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "He plays opinionated Calvin Butler, neighbor to white guy Dave Johnson, who moved into \"The Neighborhood\" from Michigan",
+          "choices": [
+            "Mo'Nique",
+            "Bernie Mac",
+            "Cedric the Entertainer",
+            "D.L. Hughley"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GUNS N' ROSES",
+      "questions": [
+        {
+          "clue": "If you're holding a Smith & Wesson .38, the .38 refers to this, the diameter of the bore of the gun",
+          "choices": [
+            "gauge",
+            "bore",
+            "chamber",
+            "caliber"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A Best Picture Oscar winner shares its name with this rose",
+          "choices": [
+            "Schindler's List",
+            "Forrest Gump",
+            "Dances with Wolves",
+            "American Beauty"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The Remington 700 is an example of a rifle with this manual action to load a cartridge into the chamber",
+          "choices": [
+            "a lever action",
+            "a pump action",
+            "a bolt action",
+            "a slide action"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Her Oct. 7, 1914 wedding day would prove to be a focal point of American politics",
+          "choices": [
+            "Rose Fitzgerald Kennedy",
+            "Jacqueline Kennedy Onassis",
+            "Eleanor Roosevelt",
+            "Lady Bird Johnson"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Though patented in 1862, this crank-operated machine gun didn't become official U.S. Army weaponry until 1866",
+          "choices": [
+            "the Gatling Gun",
+            "the Maxim Gun",
+            "the Browning Automatic Rifle",
+            "the Mitrailleuse"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This Marine Corps general was the first Defense Secretary in the Trump administration",
+    "choices": [
+      "Mattis",
+      "Pete Hegseth",
+      "James Mattis",
+      "Mark Esper"
+    ],
+    "correctIndex": 0,
+    "category": "JIM CLASS"
+  }
+}

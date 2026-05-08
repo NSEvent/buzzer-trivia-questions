@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-27",
+  "categories": [
+    {
+      "name": "SISTERS",
+      "questions": [
+        {
+          "clue": "It's estimated that of the 3,200 of these in the Civil War, 640 were nuns",
+          "choices": [
+            "soldiers",
+            "doctors",
+            "patients",
+            "nurses"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Though her big sister is this famous superstar, Rosalind Kind still makes her own kind of music",
+          "choices": [
+            "Barbra Streisand",
+            "Liza Minnelli",
+            "Cher",
+            "Diana Ross"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Last seen on the Ed Sullivan show in '68, these 3 are \"Sincerely\" making a comeback in '86",
+          "choices": [
+            "Carter Sisters",
+            "McGuire Sisters",
+            "Andrews Sisters",
+            "Righteous Brothers"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Technically, a woman who takes the simple ones of these is known as a sister; the solemn ones, a nun",
+          "choices": [
+            "oaths",
+            "promises",
+            "vows",
+            "pitches"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It's from the Latin for \"assembly\"; nuns may live in a cloistered one",
+          "choices": [
+            "a monastery",
+            "a convent",
+            "a abbey",
+            "a priory"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE OLD WEST",
+      "questions": [
+        {
+          "clue": "Manufacturer of the legendary .44 caliber \"Peacemaker\"",
+          "choices": [
+            "Winchester",
+            "Colt",
+            "Remington",
+            "Smith & Wesson"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The first of his cowboy hats was called the boss of the plains; Carlsbad, the most popular model, followed",
+          "choices": [
+            "Bullhead",
+            "Stetson",
+            "Bullmoose",
+            "Santana"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "To cowboys, \"hair pants\" were this accessory with the hair left on the hide",
+          "choices": [
+            "boots",
+            "vests",
+            "sashes",
+            "chaps"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Colorado gold-mining district which got its name from stream which injured cattle crossing it",
+          "choices": [
+            "Leadville",
+            "Aspen",
+            "Cripple Creek",
+            "Breckenridge"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "He was jailed for his part in NYC's Astor Place Riots, not for the hyperbole of his western \"dime novels\"",
+          "choices": [
+            "Barnaby Rudge",
+            "Horace Greeley",
+            "Ephraim McDowell",
+            "Ned Buntline"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SPACE STUFF",
+      "questions": [
+        {
+          "clue": "In a 2009 essay contest, 12-year-old Clara Ma came up with this winning name for the Mars rover",
+          "choices": [
+            "Opportunity",
+            "Spirit",
+            "Curiosity",
+            "Sojourner"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The Big Dipper is part of this constellation, from the Latin for \"great bear\"",
+          "choices": [
+            "Orion",
+            "Cassiopeia",
+            "Draco",
+            "Ursa Major"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Arcturus, one of the brightest stars in the night sky, is classified as one of these, larger & brighter than the Sun",
+          "choices": [
+            "a blue supergiant",
+            "a white dwarf",
+            "a red giant",
+            "a yellow dwarf"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "You get an \"A\" if you know the U.S. ended its manned space program with the final landing of this shuttle in 2011",
+          "choices": [
+            "Atlantis",
+            "Columbia",
+            "Challenger",
+            "Discovery"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 2006 the large dwarf planet known as UB313 was renamed this, after the Greek goddess of discord",
+          "choices": [
+            "Eris",
+            "Dysnomia",
+            "Pluto",
+            "Haumea"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "For over 25 years he published a unique newspaper, \"The Carolina Israelite\" in Charlotte",
+    "choices": [
+      "Harry Golden",
+      "C. Vann Woodward",
+      "Pauli Murray",
+      "Lillie Exum"
+    ],
+    "correctIndex": 0,
+    "category": "NORTH CAROLINA"
+  }
+}

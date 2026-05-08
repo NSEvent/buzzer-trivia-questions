@@ -1,0 +1,207 @@
+{
+  "date": "2026-12-05",
+  "categories": [
+    {
+      "name": "\"B\" & \"B\"",
+      "questions": [
+        {
+          "clue": "Whether preceding \"plague\" or not, it refers to inflammatory swelling, especially around your unmentionables",
+          "choices": [
+            "bacterial",
+            "botulism",
+            "bronchial",
+            "bubonic"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This delicate type of flower is often used in floral arrangements",
+          "choices": [
+            "baby's breath",
+            "black-eyed susan",
+            "bluebell",
+            "blood flower"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Miami & Miami Beach are both on its northern shore",
+          "choices": [
+            "Bay of Biscay",
+            "Bermuda Triangle",
+            "Biscayne Bay (the Bay of Biscayne)",
+            "Bay of Bengal"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Lynx rufus is the scientific name of this North American creature that can leap up to 10 feet",
+          "choices": [
+            "a badger",
+            "a bobcat",
+            "a binturong",
+            "a bison"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "A Christmas story set in Russia tells of one of these, \"granny\" in Russian, who meets 3 wise men",
+          "choices": [
+            "baba",
+            "blatnaya",
+            "banya",
+            "babushka"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CAREER DAY",
+      "questions": [
+        {
+          "clue": "Harry Houdini was known as this type of magician who specializes in breaking bonds",
+          "choices": [
+            "a stage magician",
+            "a illusionist",
+            "an escape artist",
+            "a sleight of hand artist"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A Latin word for \"beasts of burden\" gave us the name of this medical specialty, a dream job for animal lovers",
+          "choices": [
+            "pharmacist",
+            "veterinarian",
+            "biologist",
+            "surgeon"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This word follows \"nurse\" in a health care job specializing in childbirth",
+          "choices": [
+            "therapist",
+            "pediatrician",
+            "midwife",
+            "physician"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "If you make candles, you can call yourself one of these (also a character on \"Friends\")",
+          "choices": [
+            "a baker",
+            "a smith",
+            "a candlestick maker",
+            "a chandler"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Despite the name, those in this job don't go door-to-door asking questions; they ascertain property boundaries",
+          "choices": [
+            "a surveyor",
+            "a locksmith",
+            "a gardener",
+            "a carpenter"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "____ & ____",
+      "questions": [
+        {
+          "clue": "An idiom says that 2 people who don't get along \"mix like\" this pair of liquids",
+          "choices": [
+            "vinegar & oil",
+            "fire & ice",
+            "milk & honey",
+            "oil & water"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Theirs was the first COVID-19 single-shot vaccine to receive emergency authorization in the United States",
+          "choices": [
+            "Pfizer & BioNTech",
+            "Johnson & Johnson",
+            "Moderna & Novavax",
+            "AstraZeneca & Sanofi"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 2014 this classic role-playing game celebrated its 40th anniversary with a new logo & a new \"Player's Handbook\"",
+          "choices": [
+            "Warcraft & World of Warcraft",
+            "Dungeons & Dragons",
+            "Magic & The Gathering",
+            "Star Trek & Voyager"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This term for people who influence events could describe a Protestant sect that's changing addresses",
+          "choices": [
+            "movers & shakers",
+            "big & little",
+            "young & old",
+            "high & low"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Beginning with a 2-letter interjection, this phrase tells you to look, really look",
+          "choices": [
+            "hark & listen",
+            "lo & behold",
+            "ah & see",
+            "oh & wow"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This Russian czar renounced the throne March 15, 1917 & was killed with his family a year later",
+    "choices": [
+      "Nicholas II",
+      "Peter the Great",
+      "Ivan the Terrible",
+      "Catherine the Great"
+    ],
+    "correctIndex": 0,
+    "category": "ABDICATIONS"
+  },
+  "bonusRound": {
+    "clue": "Born in Vienna, he won a Best Supporting Actor Oscar for his role as Col. Hans Landa in \"Inglourious Basterds\"",
+    "choices": [
+      "Max von Sydow",
+      "Karl Malden",
+      "Christoph Waltz",
+      "Bruno Ganz"
+    ],
+    "correctIndex": 2,
+    "category": "FOREIGN-BORN OSCAR WINNERS"
+  }
+}

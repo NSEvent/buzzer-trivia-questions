@@ -1,0 +1,207 @@
+{
+  "date": "2027-01-23",
+  "categories": [
+    {
+      "name": "BUSINESS LEADERS",
+      "questions": [
+        {
+          "clue": "In ill health, Alvah Roebuck sold out to this partner for $25,000 in 1895",
+          "choices": [
+            "Montgomery",
+            "Sears",
+            "Ward",
+            "Hart"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This tea mogul made several unsuccessful attempts to win the America's Cup between 1899 & 1930",
+          "choices": [
+            "Cornelius Vanderbilt",
+            "William Kissam Vanderbilt",
+            "Arthur Curtiss James",
+            "(Sir Thomas) Lipton"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Deciding the corporate life wasn't for him, he left Apple Computer & Steven Jobs behind in 1985",
+          "choices": [
+            "Mike Markkula",
+            "Michael Scott",
+            "Steve Wozniak",
+            "Rod Holt"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This founder of K Mart remained chairman of the company until 1966, a month before his 99th birthday",
+          "choices": [
+            "John W. Garner",
+            "Frank Winfield Woolworth",
+            "(Sebastian S.) Kresge",
+            "Alfred C. Bernbach"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Since founding Amazon.com in 1994, he's tried to make it \"The Earth's most customer-centric company\"",
+          "choices": [
+            "Bill Gates",
+            "Mark Zuckerberg",
+            "Jeff Bezos",
+            "Steve Jobs"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ANATOMY CLASS",
+      "questions": [
+        {
+          "clue": "The chief muscle used in breathing, it's dome-shaped & attached to the lower ribs",
+          "choices": [
+            "the intercostal muscles",
+            "the diaphragm",
+            "the pectoralis major",
+            "the sternocleidomastoid"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "No joke, it's the part of the body that contains vitreous humor & aqueous humor",
+          "choices": [
+            "Ear",
+            "Nose",
+            "Brain",
+            "Eye"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A tib-fib fracture is one of these 2 bones",
+          "choices": [
+            "tibia & fibula",
+            "humerus & radius",
+            "femur & tibia",
+            "ulna & radius"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This long, slender fiber that projects from a nerve cell carries impulses away from the cell body",
+          "choices": [
+            "a dendrite",
+            "a synapse",
+            "an axon",
+            "a neuron"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "From the Greek for \"throat\" it's the passage that connects the back of the mouth & nose to the esophagus",
+          "choices": [
+            "the larynx",
+            "the trachea",
+            "pharynx",
+            "the uvula"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WEIRD SCIENCE",
+      "questions": [
+        {
+          "clue": "These cephalopods not only have 8 appendages, but 3 hearts",
+          "choices": [
+            "squids",
+            "cuttlefish",
+            "nautiluses",
+            "octopi"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Known for its ability to float, pumice is a porous type of this",
+          "choices": [
+            "a mineral",
+            "a rock",
+            "a gemstone",
+            "a crystal"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Johann Becher had to leave Austria after an unsuccessful effort to turn this river's sands into gold",
+          "choices": [
+            "Rhine",
+            "Elbe",
+            "Vistula",
+            "Danube"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "He said, \"Nobody understands quantum mechanics\" but his 1965 Nobel Prize for quantum electrodynamics says otherwise",
+          "choices": [
+            "Niels Bohr",
+            "Werner Heisenberg",
+            "Max Planck",
+            "Richard Feynman"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Liquids & solids are states of this that sit there; swirlons, such as flocks of birds, are parts of the newer concept of \"active\" this",
+          "choices": [
+            "energy",
+            "matter",
+            "force",
+            "light"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "It was Sagan's award-winning PBS TV show about the universe",
+    "choices": [
+      "Pale Blue Dot",
+      "Comet",
+      "Contact",
+      "Cosmos"
+    ],
+    "correctIndex": 3,
+    "category": "CARL SAGAN"
+  },
+  "bonusRound": {
+    "clue": "This Arkansas city is home to the William J. Clinton Birthplace",
+    "choices": [
+      "Little Rock",
+      "Fayetteville",
+      "Hot Springs",
+      "Hope"
+    ],
+    "correctIndex": 3,
+    "category": "ARKANSAS"
+  }
+}

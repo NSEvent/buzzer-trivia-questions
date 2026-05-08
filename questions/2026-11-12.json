@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-12",
+  "categories": [
+    {
+      "name": "SANDRA BULLOCK MOVIES",
+      "questions": [
+        {
+          "clue": "Computer expert Angela Bennett",
+          "choices": [
+            "The Net",
+            "WarGames",
+            "Hackers",
+            "Sneakers"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Chicago \"L\" token seller Lucy, in love with the comatose Peter",
+          "choices": [
+            "While You Were Sleeping",
+            "Speed",
+            "Miss Congeniality",
+            "The Net"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Newspaper columnist Gwen Cummings, who enters rehab for 4 weeks",
+          "choices": [
+            "The Proposal",
+            "While You Were Sleeping",
+            "Hope Floats",
+            "28 Days"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Lenina Huxley, a cop in 2032 who unfreezes John Spartan (Sylvester Stallone)",
+          "choices": [
+            "Demolition Man",
+            "Speed",
+            "The Net",
+            "Practical Magic"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Geeky research scientist Diane Farrow",
+          "choices": [
+            "Miss Congeniality",
+            "Love Potion No. 9",
+            "The Proposal",
+            "While You Were Sleeping"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "1899",
+      "questions": [
+        {
+          "clue": "In 1899 August Strindberg moved from Lund to this capital city",
+          "choices": [
+            "Stockholm",
+            "Copenhagen",
+            "Oslo",
+            "Helsinki"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Just days after he was found guilty in a retrial, this French Army Captain was pardoned",
+          "choices": [
+            "Zola",
+            "Picquart",
+            "Dreyfus",
+            "Henry"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "He was president in 1899 but would only live 2 years longer",
+          "choices": [
+            "Tweedle",
+            "McKinley",
+            "Roosevelt",
+            "Taft"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Oddly, Herbert Putnam became the first experienced librarian to fill this D.C. post",
+          "choices": [
+            "National Archives Administrator",
+            "Librarian of Congress",
+            "Chief Librarian of America",
+            "Director of Federal Libraries"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This country became a British protectorate in 1899, 91 years before its occupation by Iraq",
+          "choices": [
+            "Bahrain",
+            "Qatar",
+            "Oman",
+            "Kuwait"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHAT'S YOUR SIGN?",
+      "questions": [
+        {
+          "clue": "April 25: This sign that doesn't like red capes",
+          "choices": [
+            "Aries",
+            "Gemini",
+            "Virgo",
+            "Taurus"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "I'm this sign who was rewarded by Hera with a trip to the heavens after I pinched an enemy of hers",
+          "choices": [
+            "Leo",
+            "Libra",
+            "Cancer",
+            "Sagittarius"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Signs seen at this \"world\" group's 1999 meeting in Seattle included one saying it \"Kills Butterflies\"",
+          "choices": [
+            "World Health Organization",
+            "World Bank Group",
+            "World Economic Forum",
+            "World Trade Organization"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "If your mother was in labor on Labor Day, this is your sign",
+          "choices": [
+            "Virgo",
+            "Leo",
+            "Libra",
+            "Cancer"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "December 1: Go ahead, take a shot",
+          "choices": [
+            "Capricorn",
+            "Scorpio",
+            "Libra",
+            "Sagittarius"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This Pole was the first to determine the relative positions of bodies in the solar system",
+    "choices": [
+      "Newton",
+      "Einstein",
+      "Copernicus",
+      "Huygens"
+    ],
+    "correctIndex": 2,
+    "category": "SCIENTISTS & INVENTORS"
+  }
+}

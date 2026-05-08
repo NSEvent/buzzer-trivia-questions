@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-03",
+  "categories": [
+    {
+      "name": "STATE THE CITY",
+      "questions": [
+        {
+          "clue": "Massachusetts: A \"saucy\" place on the Blackstone Canal",
+          "choices": [
+            "Springfield",
+            "Cambridge",
+            "Worcester",
+            "Lowell"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Greensboro, in Guilford County",
+          "choices": [
+            "Virginia",
+            "North Carolina",
+            "Tennessee",
+            "Georgia"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Down south, \"the birthplace of California\"",
+          "choices": [
+            "Los Angeles",
+            "San Diego",
+            "Sacramento",
+            "San Francisco"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Michigan: Served by Gerald R. Ford International Airport",
+          "choices": [
+            "Detroit",
+            "Ann Arbor",
+            "Grand Rapids",
+            "Lansing"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Henderson, incorporated 1953",
+          "choices": [
+            "California",
+            "Arizona",
+            "Oregon",
+            "Nevada"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\\'60s NO. 1 HITS",
+      "questions": [
+        {
+          "clue": "This group's last No. 1 hit in the '60s was \"Honky Tonk Women\"",
+          "choices": [
+            "The Rolling Stones",
+            "The Beatles",
+            "The Who",
+            "Led Zeppelin"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Completes the title of Steam's hit song \"Na Na Hey Hey Kiss Him...\"",
+          "choices": [
+            "Out",
+            "\"Goodbye\"",
+            "Away",
+            "For Good"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Rock Me Gently\" singer Andy Kim co-wrote this \"sweet\" No. 1 hit by The Archies",
+          "choices": [
+            "Ice Cream",
+            "Candy, Candy",
+            "\"Sugar, Sugar\"",
+            "Cookie, Cookie"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "These mischievous guys had \"Young\" in their name on \"Good Lovin'\" but not on \"People Got To Be Free\"",
+          "choices": [
+            "The Yardbirds",
+            "The Animals",
+            "The Rascals",
+            "The Kinks"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "At Christmas 1965 this group received a present\u2014\"Over And Over\" became its first & only No. 1 U.S. hit",
+          "choices": [
+            "The Beatles",
+            "The Rolling Stones",
+            "The Dave Clark Five",
+            "The Who"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE GRAPES OF WRATH",
+      "questions": [
+        {
+          "clue": "While on the road the Joads were called these, a derogatory term for a migrant worker",
+          "choices": [
+            "Okies",
+            "Hillbillies",
+            "Okie Dokie",
+            "Rednecks"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This is a white wine flavored with herbs; add it to gin & you've got a martini",
+          "choices": [
+            "bitters",
+            "vermouth",
+            "tonic",
+            "soda"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Brought to Calif. in the 1850s, this alphabetically late grape is used as a base for sparkling wines",
+          "choices": [
+            "Syrah",
+            "Merlot",
+            "Pinot Noir",
+            "Zinfandel"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Called the world's premier red wine grape, it's dominant in the Bordeaux region",
+          "choices": [
+            "Chardonnay",
+            "Merlot",
+            "Cabernet Sauvignon",
+            "Pinot Noir"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Any of this fortified wine \"in a storm\"; to make it, a neutral grape alcohol is added partway through fermentation",
+          "choices": [
+            "port",
+            "sherry",
+            "vermouth",
+            "madeira"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This sign of the zodiac is often depicted with the head of a goat & the tail of a fish",
+    "choices": [
+      "Capricorn",
+      "Sagittarius",
+      "Scorpio",
+      "Aquarius"
+    ],
+    "correctIndex": 0,
+    "category": "THE ZODIAC"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-10",
+  "categories": [
+    {
+      "name": "BEACHES",
+      "questions": [
+        {
+          "clue": "Largest national seashore entirely in 1 state is this state's Padre Island",
+          "choices": [
+            "Florida",
+            "California",
+            "Texas",
+            "South Carolina"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Island where millions swim every summer at Jones Beach, a 2,413-acre state park",
+          "choices": [
+            "Block Island",
+            "Nantucket",
+            "Cape Cod",
+            "Long Island"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Beaches on this New England state's 17 3/4 miles of coastline include Hampton Beach & Rye Beach",
+          "choices": [
+            "Maine",
+            "Vermont",
+            "New Hampshire",
+            "Rhode Island"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It's proposed Suffolk County, N.Y pay an initial cost of 54 mil. to put this back on Westhampton Beach",
+          "choices": [
+            "seaweed",
+            "sand",
+            "gravel",
+            "concrete"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's why there's presently only 1 beach at Great Salt Lake Park",
+          "choices": [
+            "lake has risen so much",
+            "water levels dropped drastically",
+            "salt content increased significantly",
+            "park facilities were closed down"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NUMERICAL TERMS",
+      "questions": [
+        {
+          "clue": "Term for a musical group of two",
+          "choices": [
+            "a quartet",
+            "a trio",
+            "a solo",
+            "a duo"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The idea that everyone is interconnected was proposed in a 1929 story before John Guare used it as this play's title",
+          "choices": [
+            "Six Degrees of Separation",
+            "Seven Levels of Connection",
+            "Five Steps to Unity",
+            "Eight Degrees of Separation"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Bruno Mars & Travie McCoy cashed in singing \"I wanna be\" this type of rich guy; \"buy all the things I never had\"",
+          "choices": [
+            "a millionaire",
+            "a billionaireaire",
+            "a billionaire",
+            "a tycoon"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The man who wrote \"O Little Town Of Bethlehem\" led 2 churches named for this trio, Father, Son & Holy Spirit",
+          "choices": [
+            "the Trinity",
+            "the Holy Family",
+            "the three wise men",
+            "the apostles"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It's really not a compliment if you are called this term from an 18th century story for an extremely well-behaved person",
+          "choices": [
+            "goody two-shoes",
+            "saint nicker",
+            "dame trudge",
+            "good girl grace"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DAVID BOWIE",
+      "questions": [
+        {
+          "clue": "David Bowie ch-ch-changed his name from Davy Jones to avoid confusion with Davy Jones of this group",
+          "choices": [
+            "The Beatles",
+            "The Monkees",
+            "The Rolling Stones",
+            "The Who"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 1985 he & David Bowie recorded a duet of \"Dancing in the Street\" to benefit Live Aid",
+          "choices": [
+            "Mick Jagger",
+            "Elton John",
+            "Freddie Mercury",
+            "George Michael"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This ex-Beatle co-wrote & sang back-up on \"Fame\", Bowie's first song to hit No. 1 in the U.S.",
+          "choices": [
+            "Paul McCartney",
+            "John Lennon",
+            "George Harrison",
+            "Ringo Starr"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In memory of the late, great Bowie, she performed a medley of his hits at the Grammys in 2016",
+          "choices": [
+            "Beyonc\u00e9",
+            "Lady Gaga",
+            "Madonna",
+            "Adele"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 1980 David Bowie made his Broadway debut playing John Merrick in this drama",
+          "choices": [
+            "Les Mis\u00e9rables",
+            "Cats",
+            "\"The Elephant Man\"",
+            "Evita"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"At ancient banquets, guests wore garlics in their hair\"",
+    "choices": [
+      "garbage",
+      "garlands",
+      "garments",
+      "garages"
+    ],
+    "correctIndex": 1,
+    "category": "FIX THE MALAPROPISM"
+  }
+}

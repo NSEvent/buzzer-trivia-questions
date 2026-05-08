@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-08",
+  "categories": [
+    {
+      "name": "FOOD BRANDS",
+      "questions": [
+        {
+          "clue": "Products from Udi's famously lack this, per its logo",
+          "choices": [
+            "gluten",
+            "sugar",
+            "dairy",
+            "peanuts"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Introduced in the 1920s, this Japanese mayo brand was named for a novelty doll popular around the world",
+          "choices": [
+            "Hellmann's",
+            "Duke's",
+            "Kewpie",
+            "Best Foods"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Appropriately, these Nabisco cookies are in the shape of a peanut",
+          "choices": [
+            "Peanut Butter & Co",
+            "Nutter Butters",
+            "Justin's",
+            "Planters"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This brand of Mexican food got its start in 1918 as the Mountain Pass Canning Co. of New Mexico",
+          "choices": [
+            "Old El Paso",
+            "Rosarito",
+            "La Tortilla Factory",
+            "Valu Time"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This flour brand got its name in 1896 & a new logo, a wheat crown, in 2020",
+          "choices": [
+            "Gold Medal",
+            "King Arthur",
+            "Gold Envelope",
+            "Gold Standard"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TV",
+      "questions": [
+        {
+          "clue": "In 2020 he was back as Jean-Luc Picard; engage!",
+          "choices": [
+            "Sir Ian McKellen",
+            "Sir Patrick Stewart",
+            "Sir Ben Kingsley",
+            "Sir Michael Gambon"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 2022 this show with Hoda, Al & Savannah celebrated its 70th anniversary",
+          "choices": [
+            "The View",
+            "The Today Show",
+            "Good Morning America",
+            "Live with Kelly and Mark"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Wolf Blitzer is in this CNN title place weekdays from 5 to 7 P.M. eastern",
+          "choices": [
+            "The Five",
+            "The Lead",
+            "Anderson Cooper 360",
+            "The Situation Room"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In the '60s Marlo Thomas was \"That Girl\"; from 2011 to 2018, she played \"New Girl\", Jess",
+          "choices": [
+            "Deschanel",
+            "Portman",
+            "Fanning",
+            "Stewart"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "He's been a serious cop on the drama \"Homicide\" & a seriously funny cop on \"Brooklyn Nine-Nine\"",
+          "choices": [
+            "Anthony Anderson",
+            "Ty Burrell",
+            "Andre Braugher",
+            "Andy Samberg"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THEM'S FIGHTIN' WORDS",
+      "questions": [
+        {
+          "clue": "\"Colorful\" verb for what's been done when you've been soundly thrashed",
+          "choices": [
+            "beaten",
+            "tanned",
+            "battered",
+            "defeated"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Shopkeepers aren't meeting when \"introducing the shoemaker to the tailor\" \u2014 you've just done this to someone's rear",
+          "choices": [
+            "kicked it",
+            "punched it",
+            "slapped it",
+            "hit it"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Etymologically related to the word scrimmage is this type of small battle between 2 armies",
+          "choices": [
+            "a melee (a brawl)",
+            "a skirmish (a fight)",
+            "a scrum (a skirmish)",
+            "a skirmish (a battle)"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Being \"at\" this, also the name of a type of turtle, means you're fighting with someone",
+          "choices": [
+            "loggerheads",
+            "deadlock",
+            "impasse",
+            "stalemate"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The Latin for \"vengeance\" gives us this feud-al word",
+          "choices": [
+            "revenge",
+            "vendetta",
+            "retaliation",
+            "retribution"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "He had a short term as president of Czechoslovakia before becoming president of the Czech Republic",
+    "choices": [
+      "Klaus",
+      "Zeman",
+      "Babi\u0161",
+      "Havel"
+    ],
+    "correctIndex": 3,
+    "category": "CZECHS"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-24",
+  "categories": [
+    {
+      "name": "FESTIVALS",
+      "questions": [
+        {
+          "clue": "On this day of the month of Shawwal, Muslims begin the festival of breaking the fast",
+          "choices": [
+            "the first day after Ramadan",
+            "the last day of Shawwal",
+            "the eve of Eid al-Adha",
+            "the midpoint of Ramadan"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Since the 1950s towering sculptures have been part of the annual Snow Festival at this Japanese city also known for beer",
+          "choices": [
+            "Hokkaido",
+            "Niigata",
+            "Nagano",
+            "Sapporo"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Every summer the Bayreuth Music Festival in Bavaria presents works by this composer",
+          "choices": [
+            "Mozart",
+            "Beethoven",
+            "Bach",
+            "Wagner"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The Jaisalmer Desert Festival in Rajasthan, India features a competition in tying this type of headwear",
+          "choices": [
+            "a pagri",
+            "a sari",
+            "a dupatta",
+            "a turban"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Term for a festival on the edge of a larger festival; a famous one began at Edinburgh in 1947",
+          "choices": [
+            "fringe fest",
+            "side show",
+            "shadow play",
+            "echo event"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ACTORS & ROLES",
+      "questions": [
+        {
+          "clue": "Called \"the finest American Hamlet since John Barrymore\", he's also hammed it up as Mike Hammer",
+          "choices": [
+            "James Garner",
+            "Stacy Keach",
+            "Gene Hackman",
+            "Harrison Ford"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This may sound \"fishy\", but he won an Oscar for \"A Fish Called Wanda\"",
+          "choices": [
+            "John Cleese",
+            "Kevin Kline",
+            "Michael Palin",
+            "Timothy Dalton"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 1988 Joan Rivers took over Linda Lavin's role as the mother in this Neil Simon play",
+          "choices": [
+            "Broadway Bound",
+            "Barefoot in the Park",
+            "The Odd Couple",
+            "Plaza Suite"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Geraldine Page played Diane Keaton's repressed mom in this 1978 film, Woody Allen's most serious",
+          "choices": [
+            "Annie Hall",
+            "Manhattan",
+            "Interiors",
+            "Stardust Memories"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "She gained 25 pounds to play \"Madame Sousatzka\"",
+          "choices": [
+            "Julie Andrews",
+            "Shirley MacLaine",
+            "Katharine Hepburn",
+            "Elizabeth Taylor"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CITY FLAGS",
+      "questions": [
+        {
+          "clue": "This Spanish mission & a star are depicted on San Antonio's flag",
+          "choices": [
+            "The Alcatraz",
+            "The Mission Dolores",
+            "The Presidio",
+            "The Alamo"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Remember the flag of this U.S. city?",
+          "choices": [
+            "San Diego",
+            "Los Angeles",
+            "Austin",
+            "San Antonio"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A steamboat & a cotton plant appear on this Tennessee's city flag",
+          "choices": [
+            "Memphis",
+            "Nashville",
+            "Knoxville",
+            "Chattanooga"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The four stars on this Midwest city's flag represent a fort, a fire & two expositions",
+          "choices": [
+            "Detroit",
+            "Milwaukee",
+            "Chicago",
+            "St. Louis"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The two City Hall towers combine to make the letter \"T\" on the flag of this metropolis",
+          "choices": [
+            "Montreal",
+            "Ottawa",
+            "Vancouver",
+            "Toronto"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This type of neck injury results from a sudden jerking of the head in one direction like from a rear-end collision",
+    "choices": [
+      "whiplash",
+      "concussion",
+      "whack neck",
+      "cervical strain"
+    ],
+    "correctIndex": 0,
+    "category": "YOU SHOULDN'T HAVE LEFT THE COUCH"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-04",
+  "categories": [
+    {
+      "name": "FLAGS OF THE WORLD",
+      "questions": [
+        {
+          "clue": "The night sky on Brazil's flag represents the one seen from this city",
+          "choices": [
+            "S\u00e3o Paulo",
+            "Rio de Janeiro",
+            "Bras\u00edlia",
+            "Salvador"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The 11 stripes on this African country's flag commemorate the 11 signers of its Declaration of Independence",
+          "choices": [
+            "Ghana",
+            "Senegal",
+            "Liberia",
+            "Mali"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This nation's blue, yellow & red flag represents the colors used in the arms of Walachia & Moldavia",
+          "choices": [
+            "Romania",
+            "Bulgaria",
+            "Chad",
+            "Andorra"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The green flag of this kingdom has a white sword & the shahadah, the Muslim statement of faith, in white script",
+          "choices": [
+            "Pakistan",
+            "Tunisia",
+            "Algeria",
+            "Saudi Arabia"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "(Sarah of the Clue Crew shows a flag on a monitor.) In its talons, a bald eagle holds two traditional emblems\u2014a fue, or a flyswitch, & an uatogi, or war club\u2014on the flag of this territory",
+          "choices": [
+            "American Samoa",
+            "Guam",
+            "Northern Mariana Islands",
+            "Puerto Rico"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "2-SYLLABLE WORDS",
+      "questions": [
+        {
+          "clue": "That place where the Flintstones live, or the layer of stone underneath surface soil",
+          "choices": [
+            "Bedrock",
+            "Bedlam",
+            "Bedpost",
+            "Bedpan"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This type of canoe was originally made of sealskin stretched over a wood frame",
+          "choices": [
+            "canoe",
+            "kayak",
+            "dinghy",
+            "skiff"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In Sonnet 18, Shakespeare used this word before \"thee to a summer's day\"",
+          "choices": [
+            "compare",
+            "admire",
+            "envision",
+            "regard"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The Constitution says treason means giving our enemies \"aid and\" this",
+          "choices": [
+            "relief",
+            "support",
+            "encouragement",
+            "comfort"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Visible exhalations like steam, or an olden medically imprecise depressed condition",
+          "choices": [
+            "vapors",
+            "fumes",
+            "damps",
+            "clouds"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FASHION FROM HEAD TO TOE",
+      "questions": [
+        {
+          "clue": "Hey there, fancy (above the) pants! The name of this tuxedo staple comes from the Hindi for a waist band",
+          "choices": [
+            "a sash",
+            "a cummerbund",
+            "a belt",
+            "a sashay"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This company's canvas All Star basketball shoe goes all the way back to 1917",
+          "choices": [
+            "Converse",
+            "Nike",
+            "Adidas",
+            "Puma"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This tall spiked heel ends in a tiny base, & here's a metal tip for you\u20141950s women rocked 'em",
+          "choices": [
+            "a pump",
+            "a stiletto",
+            "a wedge",
+            "a heel"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "As well as French, these shirt features can be fringed or hounds' ears",
+          "choices": [
+            "collars",
+            "buttons",
+            "pockets",
+            "cuffs"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The French name of these casual summer shoes derives from a tough wiry grass that's used to make rope",
+          "choices": [
+            "loafers",
+            "espadrilles",
+            "sneakers",
+            "sandals"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "By McCollum in 1913, this, which you need for healthy eyes",
+    "choices": [
+      "vitamin D",
+      "vitamin C",
+      "vitamin A",
+      "vitamin E"
+    ],
+    "correctIndex": 2,
+    "category": "DISCOVERIES"
+  }
+}

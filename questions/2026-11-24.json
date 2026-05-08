@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-24",
+  "categories": [
+    {
+      "name": "SEWING",
+      "questions": [
+        {
+          "clue": "When the \"invisible\" type of this fastener is closed, the teeth are concealed",
+          "choices": [
+            "a button",
+            "a zipper",
+            "a hook",
+            "a snap"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "It's fabric that gives body & shape to a collar, not two computers talking",
+          "choices": [
+            "lining",
+            "interfacing",
+            "canvas",
+            "fleece"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Simplicity provides a guide to show how these are laid out on the fabric for cutting",
+          "choices": [
+            "templates",
+            "patterns",
+            "stencils",
+            "blueprints"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The patch type of this is the easiest to make; the side seam, slot & welt are a bit harder",
+          "choices": [
+            "a flap",
+            "a pocketbook",
+            "a pocket",
+            "a pocketknife"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "These shears have V-shapes along the cutting edge so that cut fabric will remain ravel-free",
+          "choices": [
+            "scissor blades",
+            "paper trimmers",
+            "pinking shears",
+            "fabric cutters"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FAMOUS RELATIVES",
+      "questions": [
+        {
+          "clue": "Charles Robb, the former governor of Virginia, is her son-in-law",
+          "choices": [
+            "Jacqueline Kennedy",
+            "Nancy Reagan",
+            "Betty Ford",
+            "Lady Bird Johnson"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Orson Bean's great-grandmother & this \"silent\" president's mother were sisters",
+          "choices": [
+            "Herbert Hoover",
+            "Warren Harding",
+            "Woodrow Wilson",
+            "Calvin Coolidge"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Jason Patric, who almost became a vampire in \"The Lost Boys\", is the son of this movie \"Exorcist\"",
+          "choices": [
+            "Jason Miller",
+            "Max von Sydow",
+            "Lee J. Cobb",
+            "Jason Robards"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This great female modern dancer & choreographer who died in 1991 was a direct descendant of Miles Standish",
+          "choices": [
+            "Pina Bausch",
+            "Agnes de Mille",
+            "Merce Cunningham",
+            "Martha Graham"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "When E.F. Hutton talked, we assume this actress, his daughter, listened",
+          "choices": [
+            "Barbara Bush",
+            "Linda Truman",
+            "Dina Merrill",
+            "Susan Ford"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NUCLEAR ENERGY",
+      "questions": [
+        {
+          "clue": "All commercial nuclear reactors in the U.S. use this liquid as a coolant",
+          "choices": [
+            "water",
+            "mercury",
+            "oil",
+            "ammonia"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1957 the U.N. set up the International Atomic Energy Agency in this Austrian capital",
+          "choices": [
+            "Vienna",
+            "Geneva",
+            "Brussels",
+            "Bern"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This isotope of uranium is the one used as fuel by almost all nuclear reactors",
+          "choices": [
+            "U-235",
+            "U-238",
+            "Pu-239",
+            "Th-232"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In one type of fusion reactor, laser beams heat deuterium & tritium to create this fourth state of matter",
+          "choices": [
+            "gas",
+            "plasma",
+            "steam",
+            "ion"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This independent agency of the U.S. government licenses & oversees the construction of reactors",
+          "choices": [
+            "the Environmental Protection Agency",
+            "the Department of Energy",
+            "the Nuclear Regulatory Commission",
+            "the Atomic Energy Commission"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "It's almost surreal seeing this Spanish-born painter's coiffure",
+    "choices": [
+      "Pablo Picasso",
+      "Joan Miro",
+      "Salvador Dali",
+      "Francisco Goya"
+    ],
+    "correctIndex": 2,
+    "category": "CURLS GONE WILD"
+  }
+}

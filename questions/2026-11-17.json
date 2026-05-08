@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-17",
+  "categories": [
+    {
+      "name": "ANAGRAMMED BIBLE PEOPLE",
+      "questions": [
+        {
+          "clue": "He got stoned: HAG TOIL",
+          "choices": [
+            "Gathite",
+            "Goliah",
+            "Goliath",
+            "Philistines"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Baptist parent: BAIL THESE",
+          "choices": [
+            "Elizabeth",
+            "Abigail",
+            "Elisabeth",
+            "Rebecca"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A Roman governor: TAILPIPE SNOUT",
+          "choices": [
+            "Pontius Pilate",
+            "Julius Caesar",
+            "Herod Antipas",
+            "Quirinius"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Extremely senior citizen: HULA THEMES",
+          "choices": [
+            "Enoch",
+            "Noah",
+            "Adam",
+            "Methuselah"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "King in the first verse of the book of Daniel: ACNE HEN BUZZARD",
+          "choices": [
+            "Pharaoh Ramses",
+            "Nebuchadnezzar",
+            "King Solomon",
+            "King Ahab"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COMPOSERS ON FILM",
+      "questions": [
+        {
+          "clue": "Clifton Webb in \"Stars and Stripes Forever\"",
+          "choices": [
+            "(George) Gershwin",
+            "(Aaron) Copland",
+            "(John Philip) Sousa",
+            "(William) Steinberg"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Monty Woolley, this composer's friend from Yale days, appeared as himself in \"Night and Day\"",
+          "choices": [
+            "George Gershwin",
+            "Irving Berlin",
+            "Richard Rodgers",
+            "Cole Porter"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Toralv Maurstad in \"Song of Norway\"",
+          "choices": [
+            "Jean Sibelius",
+            "Edvard Munch",
+            "Edvard Grieg",
+            "Carl Nielsen"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "James Cagney in \"The Seven Little Foys\"",
+          "choices": [
+            "Al Jolson",
+            "George M. Cohan",
+            "Bob Hope",
+            "Judy Garland"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Allan Cordunder in \"Topsy-Turvy\" (Hint: Jim Broadbent played his partner W.S.)",
+          "choices": [
+            "(Sir Arthur) Sullivan",
+            "Richard Wagner",
+            "Giacomo Puccini",
+            "Pyotr Ilyich Tchaikovsky"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE NOBEL PEACE PRIZE",
+      "questions": [
+        {
+          "clue": "She lived through the Civil War & WWI, founded a settlement house, fought for peace, & won the prize for 1931",
+          "choices": [
+            "Eleanor Roosevelt",
+            "Jane Addams",
+            "Mother Teresa",
+            "Bertha von Suttner"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "F.W. De Klerk & this man went halfsies on the 1993 Peace Prize for the peaceful termination of apartheid",
+          "choices": [
+            "Desmond Tutu",
+            "Nelson Mandela's Father",
+            "(Nelson) Mandela",
+            "F.W. De Klerk's Rival"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "2008 Nobelist Martti Ahtisaari helped end a long-running conflict in this country's Aceh province",
+          "choices": [
+            "Philippines",
+            "Myanmar",
+            "Thailand",
+            "Indonesia"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "It's the number of U.S. presidents who've won the award",
+          "choices": [
+            "two",
+            "four",
+            "three",
+            "five"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This 1990 winner said it was \"a recognition of what we call perestroika and innovative political thinking\"",
+          "choices": [
+            "Yeltsin",
+            "Putin",
+            "Gorbachev",
+            "Andropov"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In Genesis 7 we learn \"The windows of heaven were opened\" in the 600th year of this man's life",
+    "choices": [
+      "Adam",
+      "Moses",
+      "Abraham",
+      "Noah"
+    ],
+    "correctIndex": 3,
+    "category": "BIBLE GUYS"
+  }
+}

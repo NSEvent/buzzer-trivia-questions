@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-01",
+  "categories": [
+    {
+      "name": "BIBLE QUOTES",
+      "questions": [
+        {
+          "clue": "Ecclesiastes 8: Do this & this & \"be merry\"",
+          "choices": [
+            "love & hate",
+            "eat & drink",
+            "play & hide",
+            "sing & dance"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "1 Peter 4: \"And above all things have fervent charity among yourselves: for charity shall cover the multitude of\" these",
+          "choices": [
+            "wrongs",
+            "faults",
+            "sins",
+            "iniquities"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "When this queen \"heard of the fame of Solomon... she came to prove him with hard questions\"",
+          "choices": [
+            "the Queen of Sheba",
+            "the Queen of Egypt",
+            "the Queen of Tarshish",
+            "the Queen of Arabia"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "2 Timothy 4: \"I have fought a good fight, I have finished my course, I have\" succeeded in this retention of belief",
+          "choices": [
+            "lost the battle",
+            "won the war",
+            "kept the faith",
+            "kept the promise"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"There appeared a chariot of fire\" & he \"went up by a whirlwind into heaven\"",
+          "choices": [
+            "Elijah",
+            "Elisha",
+            "Moses",
+            "Isaiah"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GET YOUR KICKS",
+      "questions": [
+        {
+          "clue": "The grand battement is a high-kicking movement in this art form",
+          "choices": [
+            "ballet",
+            "jazz",
+            "tap",
+            "modern"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This 9-letter word precedes \"kick\" to mean a runner's heightened pace at the end of a distance race",
+          "choices": [
+            "finishing",
+            "sprinting",
+            "jogging",
+            "marathon"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The longest of these in NFL history was a 98-yarder by Steve O'Neal for the New York Jets in 1969",
+          "choices": [
+            "a field goal",
+            "a punt",
+            "a punt return",
+            "a kickoff"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In official racing events, this swimming stroke traditionally makes use of the frog kick",
+          "choices": [
+            "the backstroke",
+            "the breaststroke",
+            "the butterfly",
+            "the crawl"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Jon \"Bones\" Jones, after a win in this sport: \"I saw that my toe was upside down. Maybe it's not that serious of an injury\"",
+          "choices": [
+            "professional wrestling",
+            "mixed martial arts",
+            "boxing",
+            "Brazilian jiu-jitsu"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FRANZ KAFKA",
+      "questions": [
+        {
+          "clue": "Felice Bauer twice & Julie Wohryzek once, but he never went through with it",
+          "choices": [
+            "women he loved",
+            "his literary critics",
+            "People he was engaged to",
+            "his university professors"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Kafka was born in 1883 in this city, then still the capital of the country of Bohemia",
+          "choices": [
+            "Vienna",
+            "Berlin",
+            "Prague",
+            "Warsaw"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"Metamorphosis\" character who \"Found himself transformed in his bed into a gigantic insect\"",
+          "choices": [
+            "Karl Marx",
+            "Gregor Samsa",
+            "Josef K.",
+            "Alfred Adelgogolo"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Kafka was a great admirer of this author of \"Madame Bovary\", calling him one of his literary \"blood relatives\"",
+          "choices": [
+            "(Gustave) Flaubert",
+            "Charles Baudelaire",
+            "Marcel Proust",
+            "Leo Tolstoy"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Kafka's last novel is called this, like the one on Hradcany Hill that overlooks his hometown",
+          "choices": [
+            "The Castle",
+            "The Trial",
+            "The Hunger Artist",
+            "Amerika"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1889 this South American country's last emperor, Pedro II, was forced to abdicate",
+    "choices": [
+      "Argentina",
+      "Chile",
+      "Brazil",
+      "Peru"
+    ],
+    "correctIndex": 2,
+    "category": "THE 19th CENTURY"
+  }
+}

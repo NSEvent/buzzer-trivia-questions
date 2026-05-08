@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-19",
+  "categories": [
+    {
+      "name": "NAMES FOR YOUR DOG",
+      "questions": [
+        {
+          "clue": "Give your male Rottweiler a strong name like Apollo or that of this supreme Greek god",
+          "choices": [
+            "Hera",
+            "Zeus",
+            "Poseidon",
+            "Ares"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Thanks to \"Twilight\", this has been the most popular name for female dogs for the last few years",
+          "choices": [
+            "Bella",
+            "Luna",
+            "Daisy",
+            "Molly"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Perfect for your small dog is this name, like the main Mogwai in \"Gremlins\"",
+          "choices": [
+            "Stripe",
+            "Rex",
+            "Gizmo",
+            "Buster"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "If you want a French name for your poodle, consider this first name of composer Offenbach",
+          "choices": [
+            "Ludwig",
+            "Wolfgang",
+            "Johann",
+            "Jacques"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A female cocker spaniel can have this name, just like the Disney dog voiced by Barbara Luddy",
+          "choices": [
+            "Duchess",
+            "Annette",
+            "Peggy",
+            "Lady"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IDIOMS & EXPRESSIONS",
+      "questions": [
+        {
+          "clue": "To lose out on an opportunity is to \"miss\" this transport",
+          "choices": [
+            "miss the point",
+            "miss the bus (boat)",
+            "miss the mark",
+            "miss the boat"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Check your work because \"the devil's in\" these",
+          "choices": [
+            "the devil is one of us",
+            "the devil's face",
+            "the details",
+            "the devil's work"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Alexander Pope said \"To err is human\", then these 3 words",
+          "choices": [
+            "to forgive divine",
+            "to be kind",
+            "to make amends",
+            "to understand all"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Nowadays, people say \"(whatever they're really good at) is my\" this word; for Johnny Storm, it's actually pyrokinesis",
+          "choices": [
+            "a superpower",
+            "a hidden talent",
+            "a natural gift",
+            "a special skill"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Veterans \"benefits\" include this, to be given by the V.A. if the evidence for & against the claim is about equal",
+          "choices": [
+            "the benefit of the gab",
+            "the benefit of the doubtless",
+            "the benefit of the doubt",
+            "the benefit of the gamble"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THIS OR THAT",
+      "questions": [
+        {
+          "clue": "The organ that weighs around 3 pounds in an adult or Pinky's cartoon pal voiced by Maurice Lamarche",
+          "choices": [
+            "The Kid",
+            "The Brain",
+            "The Heart",
+            "The Mind"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Last name of the singer of \"What A Wonderful World\" in '67 & the man who got a Moon's-eye view of it in '69",
+          "choices": [
+            "Moss",
+            "Coltrane",
+            "Gaines",
+            "Armstrong"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Morally low, or the bottom support, as of a sculpture",
+          "choices": [
+            "pedestal",
+            "base",
+            "foundation",
+            "plinth"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In early political science government by the best, hoi aristoi, was contrasted with government by the people, them",
+          "choices": [
+            "hoi polloi",
+            "hoi polites",
+            "to koinon",
+            "demos"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A vice president under Thomas Jefferson, or the funky leader of Parliament Funkadelic",
+          "choices": [
+            "Aaron Burr",
+            "John C. Calhoun",
+            "George Clinton",
+            "Thomas Pinckney"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The only genus of mosquitoes that can transmit the protozoa causing malaria",
+    "choices": [
+      "Aedes",
+      "Anopheles",
+      "Culex",
+      "Anableps"
+    ],
+    "correctIndex": 1,
+    "category": "\"AN\"IMALS"
+  }
+}

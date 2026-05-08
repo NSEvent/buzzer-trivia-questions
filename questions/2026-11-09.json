@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-09",
+  "categories": [
+    {
+      "name": "\"N\"TERTAINMENT",
+      "questions": [
+        {
+          "clue": "This \"JAG\" spinoff boasts 22 seasons & 6 spinoffs of its own, including versions set in Hawaii & Sydney",
+          "choices": [
+            "FBI",
+            "Hawaii",
+            "Criminal",
+            "NCIS"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It's the song that immediately precedes the horror & shame of realizing you've been Rickrolled",
+          "choices": [
+            "All Star",
+            "\"Never Gonna Give You Up\"",
+            "Bohemian Rhapsody",
+            "Stairway to Heaven"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Conan O'Brien wants to hang out! this phrase follows his name in the title of the podcast team Coco launched in 2018",
+          "choices": [
+            "Late Night",
+            "Tonight Show",
+            "Talk Show",
+            "Needs a Friend"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Book 2 in \"The Heroes of Olympus\" is \"The Son of\" this Roman god",
+          "choices": [
+            "Neptune",
+            "Mars",
+            "Pluto",
+            "Saturn"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "His TV roles include husband to \"The Good Wife\"",
+          "choices": [
+            "John Slattery",
+            "Chris Noth",
+            "Peter Krause",
+            "Jeremy Piven"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHALES",
+      "questions": [
+        {
+          "clue": "Whales breathe through these, taking in up to 2,100 quarts of air; baleen whales have 2, toothed whales, 1",
+          "choices": [
+            "blowholes",
+            "nostrils",
+            "gills",
+            "spiracles"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This species best-known from \"Moby Dick\" can dive to depths of more than 3,000 feet",
+          "choices": [
+            "the sperm whale",
+            "the blue whale",
+            "the humpback whale",
+            "the right whale"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "After about a year in its mother's womb, a baby of this whale species is born weighing up to 3 tons & as long as 25 feet",
+          "choices": [
+            "a blue whale",
+            "the bowhead whale",
+            "the fin whale",
+            "the gray whale"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "These small whales have occasionally been known to grow 2 tusks instead of one",
+          "choices": [
+            "belugas",
+            "minkes",
+            "rorquals",
+            "narwhals"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This Arctic whale, identified by its long tusk, is also called the unicorn whale",
+          "choices": [
+            "beluga",
+            "narwhal",
+            "orca",
+            "bowhead"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SOUP DU JOUR",
+      "questions": [
+        {
+          "clue": "If it's Tuesday, it must be waterzooi, a rich stew from this country's Flemish people",
+          "choices": [
+            "France",
+            "Netherlands",
+            "Belgium",
+            "Luxembourg"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Traditional Scottish soup named for its two main ingredients, chicken & leeks",
+          "choices": [
+            "cullen skink",
+            "clam chowder",
+            "cock-a-leekie",
+            "minestrone"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Wednesday's treat is this chilled tomato soup, which Andalusians flavor with onions & garlic",
+          "choices": [
+            "Vichyssoise",
+            "Gazpacho",
+            "Consomm\u00e9",
+            "Minestrone"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Spanish for \"meatballs\", it's a spicy meatball soup",
+          "choices": [
+            "Ajiaco",
+            "Sopa de Lentejas",
+            "Caldo de Res",
+            "albondigas"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Fish on Friday! It's this Provencal stew, ladled over slices of dried French bread",
+          "choices": [
+            "Cioppino",
+            "Bouillabaisse",
+            "Chowder",
+            "Bisque"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This harpooner is a tattooed cannibal from the uncharted South Seas island of Kokovoko",
+    "choices": [
+      "Ahab",
+      "Ishmael",
+      "Queequeg",
+      "Stubb"
+    ],
+    "correctIndex": 2,
+    "category": "MOBY DICK"
+  }
+}

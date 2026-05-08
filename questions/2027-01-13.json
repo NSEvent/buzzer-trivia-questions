@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-13",
+  "categories": [
+    {
+      "name": "ANIMATED FILMS",
+      "questions": [
+        {
+          "clue": "Pop star Tiffany provided the voice of Judy for this film about a space-age family",
+          "choices": [
+            "Alvin and the Chipmunks",
+            "The Jetsons",
+            "Rock Dog",
+            "Space Jam"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Taking time off from her TV government job in Indiana, she voiced Joy in \"Inside Out\"",
+          "choices": [
+            "Maya Rudolph",
+            "Tina Fey",
+            "Kristen Wiig",
+            "Amy Poehler"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "After millions of years, it was found in 2020! Not the evolutionary one, but the Golden Globe winner for Best Animated Film",
+          "choices": [
+            "Missing Link",
+            "Kubo and the Two Strings",
+            "Zootopia",
+            "Big Hero 6"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "2008: A dog thinks he has superpowers, but is just the star of a TV show; off the set, he finally realizes the truth",
+          "choices": [
+            "Rover Dangerfield",
+            "Balto",
+            "Marley & Me",
+            "Bolt"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This animated film was \"Cloudy...\" in the U.S. but in Israel \"It's Raining Falafel\"",
+          "choices": [
+            "Cloudy with a Chance of Meatballs",
+            "Cloudy with a Chance of Rice",
+            "Cloudy with a Chance of Beans",
+            "Cloudy with a Chance of Hummus"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHAT A COUNTRY!",
+      "questions": [
+        {
+          "clue": "Ex-P.M. P.W. Botha of this country was in wilderness when he died\u2014not the political wilderness, an actual place",
+          "choices": [
+            "Zimbabwe",
+            "South Africa",
+            "Botswana",
+            "Namibia"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "It's the pre-1989 name for the Asian country of Myanmar",
+          "choices": [
+            "East Pakistan",
+            "West Bengal",
+            "Burma",
+            "Assam"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Surfing culture is centered in Hawaii, California & this commonwealth country, the home of champ Mick Fanning",
+          "choices": [
+            "New Zealand",
+            "Fiji",
+            "Australia",
+            "Tahiti"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This Western Hemisphere country is the largest nation in area whose capital city's name begins with the same letter",
+          "choices": [
+            "Argentina",
+            "Canada",
+            "Brazil",
+            "Mexico"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Directors like Mungiu & Puiu have made this Balkan nation one of the centers of 21st century filmmaking",
+          "choices": [
+            "Romania",
+            "Bulgaria",
+            "Serbia",
+            "Albania"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LAKE CITY",
+      "questions": [
+        {
+          "clue": "Buffalo, New York",
+          "choices": [
+            "(Lake) Michigan",
+            "(Lake) Huron",
+            "(Lake) Superior",
+            "(Lake) Erie"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Toronto, Canada",
+          "choices": [
+            "Lake Erie",
+            "Lake Huron",
+            "Lake Superior",
+            "Lake Ontario"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Boulder City, Nevada",
+          "choices": [
+            "Lake Powell",
+            "Lake Tahoe",
+            "Lake Okeechobee",
+            "Lake Mead"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Desaguadero, Bolivia & Puno, Peru",
+          "choices": [
+            "Lake Nicaragua",
+            "Lake Baikal",
+            "Lake Chad",
+            "Lake Titicaca"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Lausanne, Switzerland",
+          "choices": [
+            "Lake Zurich",
+            "Lake Como",
+            "Lake Geneva",
+            "Lake Constance"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"The Shaggy Dog\" was the first Disney film to star this actor famous for playing a TV dad",
+    "choices": [
+      "Bob Cummings",
+      "Dick Van Dyke",
+      "Fred MacMurray",
+      "Ed Wynn"
+    ],
+    "correctIndex": 2,
+    "category": "DISNEY MOVIES"
+  }
+}

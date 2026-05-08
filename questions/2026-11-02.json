@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-02",
+  "categories": [
+    {
+      "name": "FAMOUS FRENCH FOLKS",
+      "questions": [
+        {
+          "clue": "A daughter of Holy Roman Emperor Francis I, this French queen was born in Vienna in 1755",
+          "choices": [
+            "Queen Victoria",
+            "Empress Elizabeth",
+            "Catherine the Great",
+            "Marie Antoinette"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"The Last Great Frenchman\" is a 1995 biography of this late general & statesman",
+          "choices": [
+            "P\u00e9tain",
+            "Joffre",
+            "de Gaulle",
+            "Foch"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Sadly, this pointillism inventor dies in 1891 when he was only 31",
+          "choices": [
+            "Renoir",
+            "C\u00e9zanne",
+            "Seurat",
+            "Monet"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1905 she injured her knee while performing \"La Tosca\" & her leg later had to be amputated",
+          "choices": [
+            "Sarah Bernhardt",
+            "Edith Piaf",
+            "Yvette Guilbert",
+            "Jane Avril"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Georges Clemenceau became premier of France in 1906 & this George became premier in 1962",
+          "choices": [
+            "De Gaulle",
+            "Pompidou",
+            "Chirac",
+            "Mitterrand"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A SHAPELY CATEGORY",
+      "questions": [
+        {
+          "clue": "Something that's cordate is shaped like this, my love",
+          "choices": [
+            "a diamond",
+            "a heart",
+            "a circle",
+            "a star"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "It's the more common 4-letter name for a regular hexahedron",
+          "choices": [
+            "a sphere",
+            "a pyramid",
+            "a cone",
+            "a cube"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "(Kelly of the Clue Crew points out a four-sided shape on the monitor.) In geometry, I'm sure you've come across this shape: it's a plane figure with 2 parallel & 2 non-parallel sides",
+          "choices": [
+            "a triangle",
+            "a trapezoid",
+            "a rhombus",
+            "a square"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"Fair and\" this geometric shape mean honestly or according to the rules",
+          "choices": [
+            "square",
+            "circle",
+            "triangle",
+            "rectangle"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The numbers in any direction total the same number in the arrangement called this",
+          "choices": [
+            "a geometric square",
+            "a puzzle square",
+            "a grid square",
+            "a magic square (a magic triangle)"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "POETS' MONOGRAMS",
+      "questions": [
+        {
+          "clue": "How do we love her?: EBB",
+          "choices": [
+            "Elizabeth Barrett Browning",
+            "Emily Bront\u00eb",
+            "Christina Rossetti",
+            "Charlotte Bront\u00eb"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Born & died in Amherst: ED",
+          "choices": [
+            "Emily Bront\u00eb",
+            "Charlotte Bront\u00eb",
+            "Emily Dickinson",
+            "Anne Bront\u00eb"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A key figure of the Harlem renaissance: LH",
+          "choices": [
+            "Zora Neale Hurston",
+            "Langston Hughes",
+            "W.E.B. Du Bois",
+            "Paul Laurence Dunbar"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Wrote a sonnet \"On His Blindness\": JM",
+          "choices": [
+            "John Keats",
+            "William Blake",
+            "John Milton",
+            "Alexander Pope"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Her candle burned at both ends: ESVM",
+          "choices": [
+            "Sylvia Plath",
+            "Edna St. Vincent Millay",
+            "E.E. Cummings",
+            "Edgar Allan Poe"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Shaq took the honor in 1993 as a member of this team",
+    "choices": [
+      "the Orlando Magic",
+      "the Los Angeles Lakers",
+      "the Houston Rockets",
+      "the Chicago Bulls"
+    ],
+    "correctIndex": 0,
+    "category": "NBA ROOKIES OF THE YEAR"
+  }
+}

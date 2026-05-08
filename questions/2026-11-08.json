@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-08",
+  "categories": [
+    {
+      "name": "SONG STANDARDS",
+      "questions": [
+        {
+          "clue": "Do this \"and let me play among the stars; let me see what spring is like on Jupiter and Mars\"",
+          "choices": [
+            "\"Take Me Out To The Ballgame\"",
+            "\"Blue Skies\"",
+            "\"Fly Me To The Moon\"",
+            "\"Over The Rainbow\""
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This song begins, \"What good is sitting alone in your room? Come hear the music play\"",
+          "choices": [
+            "I'm in the Mood for Love",
+            "New York, New York",
+            "The Girl from Ipanema",
+            "\"Cabaret\""
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The teller of this song was \"Goin' to Lou'siana\", but it served as a theme for Forty-niners headin' to California",
+          "choices": [
+            "\"Home! Sweet Home!\"",
+            "\"Oh! Susanna\"",
+            "\"Camptown Races\"",
+            "\"Oh! My Darling Clementine\""
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This song introduced by Dick Van Dyke in \"Bye, Bye Birdie\" begins, \"Gray skies are gonna clear up\"",
+          "choices": [
+            "\"The Candy Man\"",
+            "\"Put on a Happy Face\"",
+            "\"Put On Your Sunday Clothes\"",
+            "\"That's Entertainment\""
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This 1917 song's title was borrowed from the last line in \"Shine On Harvest Moon\"",
+          "choices": [
+            "For You And Your Friend",
+            "For Him And Her Love",
+            "For We And Our Gang",
+            "\"For Me And My Gal\""
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CINEMATIC TITLE PAIRS",
+      "questions": [
+        {
+          "clue": "1984: \"...and the Temple of Doom\"",
+          "choices": [
+            "Indiana Jones",
+            "James Bond",
+            "Jason Bourne",
+            "Jack Ryan"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "1976: \"...and the Dirtwater Fox\"",
+          "choices": [
+            "The Countess",
+            "The Princess",
+            "The Duchess",
+            "The Baroness"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "1944: \"...and Old Lace\"",
+          "choices": [
+            "Poison",
+            "Bitter",
+            "Rotten",
+            "Arsenic"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "1997: \"...& Out\"",
+          "choices": [
+            "On",
+            "At",
+            "In",
+            "Up"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "1959: \"....and the Little People\"",
+          "choices": [
+            "Darby O'Gill",
+            "Lassie",
+            "Tom Sawyer",
+            "Peter Pan"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "INDOORS",
+      "questions": [
+        {
+          "clue": "Germany's Tropical Islands Resort has a vast dome housing this type of wet, jungly environment",
+          "choices": [
+            "a desert",
+            "a swamp",
+            "an ocean",
+            "a rainforest"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In a real estate listing, it's what \"3BD, 3BA\" means",
+          "choices": [
+            "three beds, three baths",
+            "three buildings, three apartments",
+            "three bedrooms, three bathrooms",
+            "three blocks, three avenues"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Mausolus' widow raised a splendid indoor tomb at this Turkish site in the 300s B.C. & it was quite a wonder",
+          "choices": [
+            "the Temple of Artemis at Ephesus",
+            "the Great Pyramid of Giza",
+            "the Mausoleum at Halicarnassus",
+            "the Colossus of Rhodes"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "After grabbing something hot to drink, ski indoors at the Mall of the Emirates in this city",
+          "choices": [
+            "Abu Dhabi",
+            "Dubai",
+            "Muscat",
+            "Doha"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The first modern indoor baseball game happened in 1965 inside this Texas venue",
+          "choices": [
+            "the Astrodome",
+            "the Cotton Bowl",
+            "the Superdome",
+            "the Metrodome"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The 1867 stage melodrama \"Under the Gaslight\" featured a dramatic rescue from an oncoming one of these",
+    "choices": [
+      "a steamboat",
+      "a locomotive",
+      "a train",
+      "a subway train"
+    ],
+    "correctIndex": 2,
+    "category": "19th CENTURY LIT"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-06",
+  "categories": [
+    {
+      "name": "ONE-HIT WONDERS",
+      "questions": [
+        {
+          "clue": "Tiny Tim died in 1996 shortly after singing this novelty song, his only hit",
+          "choices": [
+            "\"Tiptoe Through The Tulips\"",
+            "\"Tip Toes\"",
+            "\"Through The Tulips\"",
+            "\"Dance With Tiny Tim\""
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Before reaching No. 1 with \"Eve of Destruction\", he sang lead on the New Christy Minstrels' \"Green, Green\"",
+          "choices": [
+            "Phil Ochs",
+            "John Denver",
+            "Barry McGuire",
+            "Paul Simon"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In their only hit, this group was \"too sexy for my shirt\" & \"too sexy for Milan, New York & Japan\"",
+          "choices": [
+            "Right Said Fred",
+            "Right On Time",
+            "Left Field",
+            "Wrong Number"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Daniel Powter's one hit came in 2006 when he sang, \"Cause you had\" this (maybe tomorrow will be better)",
+          "choices": [
+            "good week",
+            "bad mood",
+            "a bad day",
+            "sad song"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Yes sir! He had a No. 1 hit with the tender love song \"Baby Got Back\"",
+          "choices": [
+            "Sir Mix-a-Lot",
+            "Will Smith",
+            "MC Hammer",
+            "Vanilla Ice"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "16th CENTURY SCIENCE",
+      "questions": [
+        {
+          "clue": "In 1569 this Flemish geographer developed a map of the world in which Greenland looks bigger than Africa",
+          "choices": [
+            "Gerardus Mercator",
+            "Abraham Ortelius",
+            "Oronce Fine",
+            "Mercator's rival"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1543 Andreas Vesalius published the 1st accurate work on this subject",
+          "choices": [
+            "plant anatomy",
+            "human physiology",
+            "human anatomy",
+            "skeletal structure"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1576 the king of Denmark financed an observatory for this astronomer",
+          "choices": [
+            "Johannes Kepler",
+            "Nicolaus Copernicus",
+            "Galileo Galilei",
+            "Tycho Brahe"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Konrad von Gresner thought these were rocks that just happened to look like bones or shells",
+          "choices": [
+            "fossils",
+            "corals",
+            "pebbles",
+            "marbles"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1582 much of Europe switched to this calendar after dropping 10 days from October",
+          "choices": [
+            "Julian Calendar",
+            "Persian Calendar",
+            "Hebrew Calendar",
+            "Gregorian Calendar"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RENAISSANCE ART",
+      "questions": [
+        {
+          "clue": "Known for his buxom nudes, this Flemish artist produced at least 1200 paintings",
+          "choices": [
+            "Peter Paul Rubens",
+            "Jan van Eyck",
+            "Raphael",
+            "Titian"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Italians were masters of this medium of painting on fresh plaster",
+          "choices": [
+            "mosaic",
+            "tempera",
+            "fresco",
+            "watercolor"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Known for his Madonnas & his mistresses, this Italian's death at 37 was blamed on \"an unusually wild debauch\"",
+          "choices": [
+            "Leonardo",
+            "Botticelli",
+            "Raphael",
+            "Titian"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Lorenzo Ghiberti created doors for the Baptistry of St. John; the luminous result was named this by Michelangelo",
+          "choices": [
+            "The Pearly Gates",
+            "The Gates of Paradise",
+            "The Door of Heaven",
+            "The Heavenly Portal"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Pyres of Vanity, the bonfires that destroyed works of art, were lit by this monk, the Medici's most virulent enemy",
+          "choices": [
+            "Martin Luther",
+            "Thomas More",
+            "John Calvin",
+            "(Girolamo) Savonarola"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Commuter maglevs are still being tested in this country, so take a ride on the slower Shinkansen bullet trains",
+    "choices": [
+      "China",
+      "Germany",
+      "Japan",
+      "South Korea"
+    ],
+    "correctIndex": 2,
+    "category": "TRAIN-ING DAY"
+  }
+}

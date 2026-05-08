@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-27",
+  "categories": [
+    {
+      "name": "HAPPY BIRTHDAY!",
+      "questions": [
+        {
+          "clue": "You're 2! Here's a video called \"Learning About Letters\", made in 1969 for this show & co-directed by Jim Henson",
+          "choices": [
+            "The Electric Company",
+            "Sesame Street",
+            "Mr. Rogers' Neighborhood",
+            "Captain Kangaroo"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "You're 21, so enjoy a $429 1996 bottle of this from Dom Perignon",
+          "choices": [
+            "Champagne",
+            "Whiskey",
+            "Beer",
+            "Cognac"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Charles Grodin shares his April 21 birthday with this woman who directed his film \"The Heartbreak Kid\"",
+          "choices": [
+            "Barbra Streisand",
+            "Joan Rivers",
+            "Elaine May",
+            "Carol Burnett"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "You're 16 & thrilled with your new Accent, from this car company that uses the voice of Jeff Bridges",
+          "choices": [
+            "Hyundai",
+            "Kia",
+            "Ford",
+            "Chevrolet"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "You're 40; that's old enough to get the cake you want, & you want this layered one whose name means \"refrigerator\"!",
+          "choices": [
+            "iceberg lettuce",
+            "icebox cake",
+            "ice cube tray",
+            "ice water"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "STAGE NAME'S THE SAME",
+      "questions": [
+        {
+          "clue": "Funnyman director Melvin Kaminsky & funnyman director Albert Einstein",
+          "choices": [
+            "Brosnan",
+            "Brody",
+            "Brooks",
+            "Bronson"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "\\'70s TV star John Sanford & \"Beat Shazam\" host Eric Bishop",
+          "choices": [
+            "Reyes",
+            "Foxx",
+            "Sanchez",
+            "Torres"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Mrs. Soffel\" Diane Hall & \"Mr. Mom\" Michael Douglas",
+          "choices": [
+            "Murphy",
+            "Curtis",
+            "Keaton",
+            "Garner"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Tall comedian Brad Gerstenfeld & '70s teen idol Leif Per Nervik",
+          "choices": [
+            "Stallone",
+            "Garfield",
+            "Garrett",
+            "Gibson"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Screen legend Lucille LeSueur & Broadway legend Michael Dumbell-Smith",
+          "choices": [
+            "Crawford",
+            "Fonda",
+            "Curtis",
+            "Costner"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SOMEWHERE",
+      "questions": [
+        {
+          "clue": "Dating from medieval times, Gamla Stan (\"Old Town\") is the \"cradle\" of this Scandinavian capital",
+          "choices": [
+            "Copenhagen",
+            "Stockholm",
+            "Oslo",
+            "Helsinki"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Johann Strauss Jr. conducted the \"Blue Danube\" waltz publicly for the first time at a Feb. 1867 concert in this city",
+          "choices": [
+            "Budapest",
+            "Prague",
+            "Vienna",
+            "Berlin"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This country is bordered by Colombia to the south and Costa Rica to the north",
+          "choices": [
+            "Nicaragua",
+            "Panama",
+            "Honduras",
+            "Guatemala"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "We are \"volunteering\" the information that Clingmans Dome is the highest point in this state",
+          "choices": [
+            "Tennessee",
+            "North Carolina",
+            "Kentucky",
+            "Virginia"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Chisago is a county in this state, as is Itasca",
+          "choices": [
+            "Wisconsin",
+            "Minnesota",
+            "Michigan",
+            "Iowa"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "France's king & queen make a royal visit to the guillotine",
+    "choices": [
+      "the 1880s",
+      "the 1690s",
+      "the 1790s",
+      "the 1750s"
+    ],
+    "correctIndex": 2,
+    "category": "NAME THE DECADE"
+  }
+}

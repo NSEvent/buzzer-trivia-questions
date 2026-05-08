@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-10",
+  "categories": [
+    {
+      "name": "TV PRIVATE EYES",
+      "questions": [
+        {
+          "clue": "He won an Emmy playing Thomas Magnum",
+          "choices": [
+            "Cassel",
+            "Cobb",
+            "Beatty",
+            "Selleck"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "She portrayed ex-model Maddie Hayes",
+          "choices": [
+            "Sharon Stone",
+            "Goldie Hawn",
+            "Cybill Shepherd",
+            "Debra Winger"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This late actor drove a T-Bird as Dan Tanna",
+          "choices": [
+            "Nick Nolte",
+            "James Woods",
+            "Ed O'Neill",
+            "Robert Urich"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Kristen Bell played this teen sleuth",
+          "choices": [
+            "Della Street",
+            "Ellery Queen",
+            "Jessica Fletcher",
+            "Veronica Mars"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "James Garner played this guy who lived in a Malibu trailer",
+          "choices": [
+            "Frank Garner",
+            "Jim Rockford",
+            "Joe Quincy",
+            "Sam Spade"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BEGINS & ENDS WITH \"E\"",
+      "questions": [
+        {
+          "clue": "To get hitched without parental consent; in modern, less dramatic usage, it means to have a small wedding",
+          "choices": [
+            "evade",
+            "elope",
+            "execute",
+            "elapse"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 2002 this female rapper had her biggest hit, \"Gangsta Lovin'\" featuring Alicia Keys",
+          "choices": [
+            "Enya",
+            "Eve",
+            "Eden",
+            "Ella"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Chopin composed a \"Revolutionary\" this piece",
+          "choices": [
+            "\u00c9tym",
+            "\u00c9glog",
+            "\u00c9lite",
+            "\u00c9tude"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Your posse, from French for \"to surround\"",
+          "choices": [
+            "entourage",
+            "environment",
+            "evidence",
+            "efficiency"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This decongestant is used by those suffering from hay fever, colds & allergies",
+          "choices": [
+            "ephemeral",
+            "ephedrine (epinephrine accepted)",
+            "epidemic",
+            "epicenter"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "POLITICIANS",
+      "questions": [
+        {
+          "clue": "This Democrat served as governor of New York from 1929 to 1932",
+          "choices": [
+            "Thomas Dewey",
+            "Franklin Roosevelt",
+            "Al Smith",
+            "Charles Hughes"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "His father, Thomas Dodd, also represented Connecticut in the U.S. Senate",
+          "choices": [
+            "Chris Dodd",
+            "Joe Lieberman",
+            "Christopher Dodd",
+            "Lincoln Chafee"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1975 this Kansas senator married Elizabeth Hanford, who had been a fed. trade commissioner under Pres. Ford",
+          "choices": [
+            "(Bob) Dole",
+            "Kansas City",
+            "Manhattan Project",
+            "Liberal Arts"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A 1992 Time magazine article called this Connecticut governor \"The Gutsiest Governor in America\"",
+          "choices": [
+            "Yankee Stadium",
+            "Liberty Bell",
+            "Weicker",
+            "Statue of Liberty"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "After serving on the state supreme court, he succeeded Rick Perry as governor in 2015",
+          "choices": [
+            "State Capitol",
+            "Abbott",
+            "Alamo",
+            "Rodeo"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "It's the practice of preparing for war by retreating to remote areas & storing food & weapons",
+    "choices": [
+      "communalism",
+      "survivalism",
+      "nomadism",
+      "industrialism"
+    ],
+    "correctIndex": 1,
+    "category": "ISMs"
+  }
+}

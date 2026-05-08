@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-25",
+  "categories": [
+    {
+      "name": "MUSIC ON TV",
+      "questions": [
+        {
+          "clue": "Written for NBC, the opera \"Amahl & the Night Visitors\" debuted on this day, 1951; the visitors are the 3 kings, Bethlehem-bound",
+          "choices": [
+            "Thanksgiving Day",
+            "New Year's Eve",
+            "Christmas Eve",
+            "Easter Sunday"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Bryan Adams & the Wallflowers have recently gone acoustic for this MTV concert series",
+          "choices": [
+            "MTV Live",
+            "MTV Unplugged",
+            "MTV Acoustic",
+            "MTV Sessions"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Ashokan Farewell\", heard over a soldier's letter in this PBS series, is not 19th c.\u2014it came out of sadness a music camp was over",
+          "choices": [
+            "World War II",
+            "The Cold War",
+            "American Revolution",
+            "Civil War"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "One of the 7 Vondas of the world is this singer featured on \"Ally McBeal\"",
+          "choices": [
+            "Vonda Shepard",
+            "Sarah McLachlan",
+            "Sheryl Crow",
+            "Tori Amos"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In a '70s series, PBS was \"In Performance At\" this Virginia site",
+          "choices": [
+            "Mount Vernon",
+            "Arts Center",
+            "Virginia Beach",
+            "Wolf Trap"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MONEY PROBLEMS",
+      "questions": [
+        {
+          "clue": "Total number of pennies in $10 million",
+          "choices": [
+            "one trillion",
+            "one hundred million",
+            "one blllion",
+            "one hundred billion"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "If candy bars are 40 cents each & you have $3.00, this is the maximum number you could buy",
+          "choices": [
+            "6 (.40 X 6 = $2.40)",
+            "8 (.40 X 8 = $3.20)",
+            "5 (.40 X 5 = $2.00)",
+            "7 (.40 X 7 = $2.80)"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "If gas is $1.40 a gallon & your dad's tank holds 11 gallons, it costs this much to fill 'er up",
+          "choices": [
+            "$14.40",
+            "$16.40",
+            "$13.40",
+            "$15.40"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "45 quarters totals this much money",
+          "choices": [
+            "$11.25",
+            "$12.00",
+            "$10.75",
+            "$11.50"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Number of nickels in a \"Lincoln\" multiplied by the number of dimes in a \"Hamilton\"",
+          "choices": [
+            "8,000",
+            "12,000",
+            "10,000",
+            "9,000"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "STUCK IN THE MIDDLE WORD WITH YOU",
+      "questions": [
+        {
+          "clue": "From the Latin for \"middle\", it's definitely smaller than large",
+          "choices": [
+            "small",
+            "large",
+            "tiny",
+            "medium"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1924 Rogers Hornsby's was .424",
+          "choices": [
+            "fielding percentage",
+            "batting average",
+            "slugging percentage",
+            "on-base percentage"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Chicago's oldest commercial airport",
+          "choices": [
+            "O'Hare",
+            "Midway",
+            "Nashville",
+            "Denver"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In the sequence 1, 3, 4, 8, 9, 4 is this, like a highway strip",
+          "choices": [
+            "the median",
+            "the average",
+            "the mean",
+            "the mode"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "If you're as far away from one place as another, you're this 11-letter word",
+          "choices": [
+            "equidistant",
+            "symmetrical",
+            "interchangeable",
+            "parallel"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Done to prolong breathing & blood flow until medical help arrives, it's the \"R\" in CPR",
+    "choices": [
+      "reanimation",
+      "revitalization",
+      "recovery",
+      "resuscitation"
+    ],
+    "correctIndex": 3,
+    "category": "WORDS WITH ALL 5 VOWELS"
+  }
+}

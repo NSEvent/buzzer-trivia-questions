@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-13",
+  "categories": [
+    {
+      "name": "ROCK, PAPER, SCISSORS",
+      "questions": [
+        {
+          "clue": "Linkin Park's \"Sharp Edges\" begins with a warning: \"Mama always told me don't you\" do this \"with scissors, son\"",
+          "choices": [
+            "run",
+            "cut",
+            "throw",
+            "pick"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "If you're baking, this alliterative paper will prevent your batter from sticking to the pan",
+          "choices": [
+            "wax paper",
+            "parchment paper",
+            "aluminum foil",
+            "cellophane wrap"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 2008 M.I.A. flew up the charts alliteratively with \"Paper\" these",
+          "choices": [
+            "trains",
+            "boats",
+            "planes",
+            "ships"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "During the Revolution, the U.S. issued these paper notes that shared a name with the Congress that issued them",
+          "choices": [
+            "federal",
+            "union",
+            "colonial",
+            "continental"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1995 Mick said that 1967's \"Yesterday's Papers\" was the first song he wrote completely on his own for this group",
+          "choices": [
+            "The Beatles",
+            "The Rolling Stones",
+            "Led Zeppelin",
+            "The Who"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BRITISH POETS",
+      "questions": [
+        {
+          "clue": "His \"Poems, Chiefly in the Scottish Dialect\" was published in 1786 with about half the 600 copies pre-sold",
+          "choices": [
+            "William Shakespeare",
+            "John Keats",
+            "Robert Burns",
+            "Samuel Taylor Coleridge"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "From 1847 to 1861, he & his wife Elizabeth lived at Casa Guidi in Florence",
+          "choices": [
+            "Shelley",
+            "Byron",
+            "Browning",
+            "Keats"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1714, two years after \"The Rape of the Lock\" was first published, he expanded it from 2 cantos to 5",
+          "choices": [
+            "John Dryden",
+            "Jonathan Swift",
+            "Thomas Gray",
+            "Alexander Pope"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This poet baron who fought for Greek independence also fought Lord Elgin's removal of the Greek marbles",
+          "choices": [
+            "Lord Tennyson",
+            "Sir Walter Scott",
+            "Lord Shelley",
+            "Lord Byron"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1953 he read his \"Under Milk Wood\" publicly for the first time at Cambridge, Mass. although it was still unfinished",
+          "choices": [
+            "Ted Hughes",
+            "Dylan Thomas",
+            "Philip Larkin",
+            "Seamus Heaney"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DING DONG",
+      "questions": [
+        {
+          "clue": "The Fifth Estate had a 1967 Top 20 hit with this song from a 1939 movie",
+          "choices": [
+            "Over the Rainbow",
+            "Somewhere Over the Rainbow",
+            "As Time Goes By",
+            "\"Ding-Dong! The Witch Is Dead\""
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"Ding dong\", it's this company \"calling\"; how about some lipstick or other cosmetic?",
+          "choices": [
+            "L'Oreal",
+            "Estee Lauder",
+            "Avon",
+            "Clinique"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Judy Garland's \"Ding Dong! The Witch Is Dead\" surged on U.K. iTunes after this former prime minister passed away",
+          "choices": [
+            "Winston Churchill",
+            "Tony Blair",
+            "David Cameron",
+            "Margaret Thatcher"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Ding Dongs are individually wrapped chocolate cakes from this company",
+          "choices": [
+            "Hostess",
+            "Little Debbie",
+            "Drake's",
+            "Pillsbury"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Continuing the alliteration, it follows \"ding-dong\" in a kid's prank that involves ringing a doorbell & running away",
+          "choices": [
+            "dodge",
+            "dash (ditch)",
+            "duck",
+            "dive"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This seasonal warrior \"and the sunshine patriot will, in this crisis, shrink from the service of their country\"",
+    "choices": [
+      "the winter soldier",
+      "the autumn hero",
+      "the spring rebel",
+      "the summer soldier"
+    ],
+    "correctIndex": 3,
+    "category": "THOMAS PAINE"
+  }
+}

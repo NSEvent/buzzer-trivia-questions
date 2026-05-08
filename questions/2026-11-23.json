@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-23",
+  "categories": [
+    {
+      "name": "COLORFUL FOOD",
+      "questions": [
+        {
+          "clue": "Cajun fish isn't burnt, it's this",
+          "choices": [
+            "charcoal",
+            "ashen",
+            "blackened",
+            "carbonized"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Scrumptious-sounding name for a popular yellow apple",
+          "choices": [
+            "golden retriever",
+            "golden delicious",
+            "amber alert",
+            "sunny side"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This popular salad dressing was named for a 1920s play",
+          "choices": [
+            "green cardigan",
+            "emerald city",
+            "greenhorn",
+            "green goddess"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Gorgonzola & Stilton are classified as these",
+          "choices": [
+            "sharp cheddars",
+            "soft bries",
+            "hard gruyeres",
+            "blue cheeses"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "It puts the brown in brown sugar",
+          "choices": [
+            "treacle",
+            "molasses",
+            "syrup",
+            "caramel"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WORDPLAY-POURRI",
+      "questions": [
+        {
+          "clue": "Crossword clues \"P\": Next to the last (11 letters)",
+          "choices": [
+            "penultimate",
+            "preliminary",
+            "intermediate",
+            "penicillin"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Starts & ends with P: Adjective meaning fleshy or fat",
+          "choices": [
+            "puffy",
+            "placid",
+            "pampered",
+            "plump"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "5-syllable words: A person aged 100 years or older",
+          "choices": [
+            "a septuagenarian",
+            "a centenarian",
+            "a nonagenarian",
+            "a centenarist"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Overlaps: Home city of the NHL sabres + a type of leather step-in shoe",
+          "choices": [
+            "a Buffaloafer",
+            "a Calgarycow",
+            "a Montrealmoccasin",
+            "a Torontothong"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "\"Z\" word on the street: Let's play Pyramid\u2014it's a Babylonian temple",
+          "choices": [
+            "a zirconia",
+            "a ziggurat",
+            "a zephyr",
+            "a zucchini"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SUFFIXES",
+      "questions": [
+        {
+          "clue": "Affix this suffix to make \"summer\" & \"butter\" into adjectives\u2014the shortest ones possible",
+          "choices": [
+            "-y",
+            "-ous",
+            "-ic",
+            "-al"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It's the British spelling of the suffix that makes a verb out of \"industrial\"",
+          "choices": [
+            "I-C-E",
+            "I-D-E",
+            "I-S-E",
+            "I-N-E"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A Greek battle site gave us this suffix that suggests a long process to reach a certain goal",
+          "choices": [
+            "-lympic (as in olympic)",
+            "-sprint (as in sprint)",
+            "-relay (as in relay)",
+            "-athon (as in marathon)"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "It's the main quality suggested by the suffixes -enne, -ess & -trix",
+          "choices": [
+            "feminine",
+            "masculine",
+            "neutral",
+            "plural"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "3-letter suffix meaning an incomplete resemblance to the word it's added to, like \"human\" & \"planet\"",
+          "choices": [
+            "-oid",
+            "-ish",
+            "-like",
+            "-ishy"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "CNN says she was the last reporter to interview King Hussein & the first to interview his successor, King Abdullah",
+    "choices": [
+      "Katie Couric",
+      "Christiane Amanpour",
+      "Louise Arbour",
+      "Madeleine Albright"
+    ],
+    "correctIndex": 1,
+    "category": "REPORTING THE NEWS"
+  }
+}

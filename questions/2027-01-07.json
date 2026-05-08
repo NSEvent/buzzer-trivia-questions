@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-07",
+  "categories": [
+    {
+      "name": "ELEMENTARY, MY DEAR",
+      "questions": [
+        {
+          "clue": "Rock on! All diamonds consist primarily of this element",
+          "choices": [
+            "nitrogen",
+            "oxygen",
+            "hydrogen",
+            "carbon"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The U.S. refused to sell this gas to the Zeppelin Aircraft Company, which used the more flammable hydrogen instead",
+          "choices": [
+            "helium",
+            "argon",
+            "neon",
+            "xenon"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Named for Marie Curie's native country, it was the 1st element discovered by means of its radioactivity",
+          "choices": [
+            "Radium",
+            "Actinium",
+            "Polonium",
+            "Thorium"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "You win the \"prize\" if you know that scientists in Sweden claimed to create this element first",
+          "choices": [
+            "Curium",
+            "Nobelium",
+            "Einsteinium",
+            "Fermium"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Element No. 99 on the Periodic Table was named for Einstein & No. 100 was named for this physicist",
+          "choices": [
+            "Albert Einstein",
+            "Niels Bohr",
+            "Max Planck",
+            "Enrico Fermi (Fermium)"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HISTORIC AMOURS",
+      "questions": [
+        {
+          "clue": "When this \"Oliver Twist\" author fell for an actress, his wife twisted his arm for a legal separation",
+          "choices": [
+            "William Thackeray",
+            "George Eliot",
+            "Charles Dickens",
+            "Anthony Trollope"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This Scottish queen married the Earl of Bothwell even though he may have murdered her second husband",
+          "choices": [
+            "Elizabeth I",
+            "Mary I of England",
+            "Anne Boleyn",
+            "Mary, Queen of Scots"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Talk about cardinal sin! Cardinal Decio Azzolino was the rumored lover of this queen of Sweden",
+          "choices": [
+            "Christina",
+            "Elizabeth I",
+            "Catherine de Medici",
+            "Mary, Queen of Scots"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Johann Struensee, physician to this country's King Christian VII, was executed for romancing the queen",
+          "choices": [
+            "Denmark",
+            "Norway",
+            "Sweden",
+            "Iceland"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Robert Devereux, the Earl of this, succeeded his stepfather the Earl of Leicester as Elizabeth I's \"favorite\"",
+          "choices": [
+            "Warwick",
+            "Northumberland",
+            "Somerset",
+            "Essex"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LOGOS",
+      "questions": [
+        {
+          "clue": "The logo of this brand of scotch is a London dandy, mid-stride",
+          "choices": [
+            "Jack Daniel",
+            "Jameson",
+            "Glenfiddich",
+            "Johnnie Walker"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This maker of cookies & crackers uses a white oval surmounted by a double-barred cross on a red triangular corner seal",
+          "choices": [
+            "Pepperidge Farm",
+            "Nabisco",
+            "Keebler",
+            "Oreo"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The game is afoot at this company, begun in Springfield, Massachusetts, in 1860",
+          "choices": [
+            "Hasbro",
+            "Parker Brothers",
+            "Milton Bradley",
+            "Ravensburger"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Yes, they still make this brand of shoes & the basset hound is still the logo",
+          "choices": [
+            "Hush Puppies",
+            "Spalding",
+            "Russell Athletic",
+            "Fruit of the Loom"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The shape of Yosemite's Half Dome inspired the logo of this outdoor clothing company",
+          "choices": [
+            "Columbia Sportswear",
+            "Patagonia",
+            "The North Face",
+            "L.L. Bean"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "It was Petula Clark's last U.S. Top 10 hit",
+    "choices": [
+      "\"Don't Sleep in the Subway\"",
+      "Downtown",
+      "I Know a Place",
+      "My Love"
+    ],
+    "correctIndex": 0,
+    "category": "YOU'RE GETTING VERY SLEEPY"
+  }
+}

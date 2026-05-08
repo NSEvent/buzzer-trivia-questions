@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-06",
+  "categories": [
+    {
+      "name": "SIDEKICKS",
+      "questions": [
+        {
+          "clue": "The dog Krypto is a faithful companion to this superhero",
+          "choices": [
+            "Superman",
+            "Batman",
+            "Spider-Man",
+            "The Flash"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Just under 4 feet tall, this actor was Nick Nack in \"The Man with the Golden Gun\" prior to hailing planes on ABC",
+          "choices": [
+            "Herve Villechaize",
+            "Peter Dinklage",
+            "Ving Rhames",
+            "Terence Stamp"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Shrek says of this sidekick's ability to talk, \"Yeah, it's getting him to shut up that's the trick!\"",
+          "choices": [
+            "Donkey",
+            "Puss in Boots",
+            "Shrek",
+            "Fiona"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Yvonne Orji plays Issa Rae's best friend on this HBO series",
+          "choices": [
+            "Insecure",
+            "Atlanta",
+            "The Chi",
+            "Euphoria"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Lord Percy & Baldrick are the sidekicks on this Rowan Atkinson BBC series set in the Dark Ages",
+          "choices": [
+            "Mr. Bean",
+            "Blackadder",
+            "Fawlty Towers",
+            "The Goodies"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LITERARY TRANSLATIONS",
+      "questions": [
+        {
+          "clue": "Eternal laugh riot \"La Divina Commedia\"",
+          "choices": [
+            "The Inferno",
+            "\"The Divine Comedy\"",
+            "Paradise Lost",
+            "The Aeneid"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Not a Roman holiday for Thomas Mann, \"Der Tod in Venedig\"",
+          "choices": [
+            "The Magic Mountain",
+            "Buddenbrooks",
+            "\"Death in Venice\"",
+            "The Metamorphosis"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Sartre's hellish torture \"Huis Clos\"",
+          "choices": [
+            "Nausea",
+            "The Stranger",
+            "Being and Nothingness",
+            "No Exit"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A suspense title: \"Il pendolo di Foucault\"",
+          "choices": [
+            "Foucault's Pendulum",
+            "Newton's Cradle",
+            "Copenhagen Experiment",
+            "Langevin Oscillator"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Rabindranath Tagore translated his own poetry into English from this language spoken in Dhaka",
+          "choices": [
+            "Hindi",
+            "Bengali",
+            "Urdu",
+            "Sanskrit"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DAMS",
+      "questions": [
+        {
+          "clue": "Hatcheries funded by the Grand Coulee Dam help restock the populations of steelhead trout & the Chinook type of this",
+          "choices": [
+            "tuna",
+            "anchovy",
+            "salmon",
+            "herring"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Federal dams for irrigation projects are usually built by the Bureau of this",
+          "choices": [
+            "Irrigation",
+            "Conservation",
+            "Hydroelectricity",
+            "Reclamation"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Syria's Tabqa Dam is on this, the longest river in the country",
+          "choices": [
+            "the Euphrates",
+            "the Nile",
+            "the Tigris",
+            "the Jordan"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A website about the Gordon Dam, a marvel of this island, proudly notes it holds back more water than is in Sydney Harbour",
+          "choices": [
+            "New Zealand",
+            "Great Britain",
+            "Madagascar",
+            "Tasmania"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This high dam on the Nile provides fishing, irrigation & up to 10 billion annual kilowatt-hours",
+          "choices": [
+            "Aswan High Dam",
+            "Roseires Dam",
+            "Grand Ethiopian Dam",
+            "Aswan Dam"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Clothes for the working woman: AT",
+    "choices": [
+      "Abercrombie & Fitch",
+      "Ann Taylor",
+      "Armani Exchange",
+      "American Eagle"
+    ],
+    "correctIndex": 1,
+    "category": "SHOPPING ABBREV."
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-26",
+  "categories": [
+    {
+      "name": "BENJAMIN FRANKLIN",
+      "questions": [
+        {
+          "clue": "Ben organized Philadelphia's first company to fight these, much needed where all buildings were wood",
+          "choices": [
+            "floods",
+            "fires",
+            "diseases",
+            "pests"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Franklin lived abroad for 27 of his 84 years: 18 in Britain & 9 in this country",
+          "choices": [
+            "Spain",
+            "Germany",
+            "France",
+            "Italy"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Ben felt this \"most ancient...game known among men\" could teach foresight & caution",
+          "choices": [
+            "checkers",
+            "backgammon",
+            "chess",
+            "poker"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Poor Richard's last name",
+          "choices": [
+            "Richards",
+            "Poorly",
+            "Saunders",
+            "Almanac"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Franklin said that this device also worked on the top of ships' masts with a wire to the water",
+          "choices": [
+            "the kite string",
+            "the lightning bolt",
+            "the lightning rod",
+            "the copper wire"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "KANSAS",
+      "questions": [
+        {
+          "clue": "Before Alaska & Hawaii were states, this point was near Lebanon in north central Kansas",
+          "choices": [
+            "the geographic center of North America",
+            "the (geographic) center of the U.S.",
+            "the political center of the nation",
+            "the geographic heart of the plains"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Kansas is rectangular in shape except for the NE corner where this river forms the boundary",
+          "choices": [
+            "the Kansas",
+            "the Missouri",
+            "the Arkansas",
+            "the Platte"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "You can visit this president's boyhood home in Abilene",
+          "choices": [
+            "Lincoln",
+            "Jefferson",
+            "Washington",
+            "Eisenhower"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A Coffeyville museum tells of the 1892 attempted bank robbery by this gang & how they got shot up by the citizenry",
+          "choices": [
+            "the Dalton Boys",
+            "the Clanton Boys",
+            "the Sundance Kids",
+            "the Jesse James Gang"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "John Kloehr & other citizens of Coffeyville, Kansas made sure that this gang's Oct. 5, 1892 raid was its last",
+          "choices": [
+            "the Dillinger Gang",
+            "the Barker-Karpis Gang",
+            "the Bonney Gang",
+            "the Dalton Gang"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TV THEMES",
+      "questions": [
+        {
+          "clue": "An expanded version of this sitcom's theme song mentions \"music and mythology, Einstein and astrology\"",
+          "choices": [
+            "The Big Bang Theory",
+            "The Big C",
+            "The Big Easy",
+            "The Big Door Prize"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"3 Stars Will Shine Tonight\" was this show's theme",
+          "choices": [
+            "Dr. Quinn",
+            "Dr. Kildare",
+            "Marcus Welby",
+            "St. Elsewhere"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "(Hi, I'm Al Roker.) I pity the fool who doesn't remember the theme to this '80s series; it still gets me jazzed, sucka",
+          "choices": [
+            "Magnum, P.I.",
+            "The A-Team",
+            "Knight Rider",
+            "Miami Vice"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Punk band H\u00fcsker D\u00fc did a cover of this sitcom's theme \"Love Is All Around\"",
+          "choices": [
+            "The Bob Newhart Show",
+            "The Mary Tyler Moore Show",
+            "All in the Family",
+            "Three's Company"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"It's time to put on makeup, it's time to dress up right\", it's time for this beloved show",
+          "choices": [
+            "Sesame Street",
+            "The Muppet Show",
+            "Barney & Friends",
+            "Mister Rogers' Neighborhood"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The Scrolls were found by a shepherd boy in this year, 2 years after the end of a major war",
+    "choices": [
+      "1945",
+      "1949",
+      "1947",
+      "1950"
+    ],
+    "correctIndex": 2,
+    "category": "THE DEAD SEA SCROLLS"
+  }
+}

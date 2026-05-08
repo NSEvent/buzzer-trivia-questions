@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-17",
+  "categories": [
+    {
+      "name": "COMPANY TOWNS",
+      "questions": [
+        {
+          "clue": "It's home to Monsanto, Ralston Purina & Anheuser-Busch",
+          "choices": [
+            "St. Louis",
+            "Chicago",
+            "Kansas City",
+            "New York"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "For more than 100 years, PALCO ran Scotia, California; here's a postcard from the Curt Teich Archives of this type of mill",
+          "choices": [
+            "a paper mill",
+            "a textile mill",
+            "a sawmill",
+            "a glass factory"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "If you attend JDMS in the agricultural equipment-making town of Moline, Illinois, that's short for this middle school",
+          "choices": [
+            "John Deere (Middle School)",
+            "International Harvester (Middle School)",
+            "Caterpillar (Middle School)",
+            "Case (Middle School)"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Lynch, Kentucky was built in 1917 by U.S. Coal & Coke, a subsidiary of U.S. this",
+          "choices": [
+            "(U.S.) Aluminum",
+            "(U.S.) Rubber",
+            "(U.S.) Steel",
+            "(U.S.) Tobacco"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Dan Bern's song \"Company Town\" mentions this Ohio city where Goodyear has been based since 1898",
+          "choices": [
+            "Canton",
+            "Akron",
+            "Dayton",
+            "Toledo"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE TV SHOW'S CHARACTERS",
+      "questions": [
+        {
+          "clue": "Get animated: Finn, Jake the Dog, Princess Bubblegum",
+          "choices": [
+            "SpongeBob SquarePants",
+            "Adventure Time",
+            "The Simpsons",
+            "Rick and Morty"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Red Reznikov, Big Boo & Flaca Gonzales, in close quarters",
+          "choices": [
+            "Oz",
+            "Prison Break",
+            "Locke & Key",
+            "Orange Is the New Black"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Future imperfect: Serena Joy, Ofglen",
+          "choices": [
+            "Black Mirror",
+            "1984",
+            "Brave New World",
+            "The Handmaid's Tale"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Rainbow, Andre & Jack Johnson, finding their way comedically on ABC",
+          "choices": [
+            "white-ness",
+            "grey-area",
+            "black-ish",
+            "blue-moon"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A host of \"hosts\" on HBO: Dolores Abernathy, Teddy Flood & Sheriff Reed",
+          "choices": [
+            "Game of Thrones",
+            "Big Little Lies",
+            "Westworld",
+            "Succession"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE CIVIL WAR",
+      "questions": [
+        {
+          "clue": "After signing the surrender, he told his Confederate troops to go home & resume their occupations",
+          "choices": [
+            "Ulysses S. Grant",
+            "Stonewall Jackson",
+            "Robert E. Lee",
+            "Jefferson Davis"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Union troops captured this city, the cradle of the Confederacy, in April 1865",
+          "choices": [
+            "Richmond, Virginia",
+            "Columbia, South Carolina",
+            "Atlanta, Georgia",
+            "Montgomery, Alabama"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 1865 his pursuit hastened Lee's surrender; in 1866 he was sent west to deal with the Indians & passed into history",
+          "choices": [
+            "Philip Sheridan",
+            "William Tecumseh Sherman",
+            "(George Armstrong) Custer",
+            "Ulysses S. Grant"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "From Nov. 1864 through April 1865, this Union general led a march of 62,000 troops through the South",
+          "choices": [
+            "William Tecumseh",
+            "Henry Wadsworth",
+            "George Thomas",
+            "(General) Sherman"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Confederate general George Randolph, a grandson of this president, was born & buried at Monticello",
+          "choices": [
+            "James Madison",
+            "Thomas Jefferson",
+            "John Adams",
+            "George Washington"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Your mom may complain that your hands are this, meaning dirty or, more literally, infested with larvae",
+    "choices": [
+      "filthy",
+      "grimy",
+      "grubby",
+      "stained"
+    ],
+    "correctIndex": 2,
+    "category": "RATED \"G\""
+  }
+}

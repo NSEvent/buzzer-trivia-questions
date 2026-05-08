@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-23",
+  "categories": [
+    {
+      "name": "AUSSIE ENGLISH",
+      "questions": [
+        {
+          "clue": "The \"good guts\", the whole \"good guts\", & nothing but the \"good guts\"",
+          "choices": [
+            "the truth",
+            "the bottom line",
+            "the whole story",
+            "the naked facts"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Sheila is slang for this",
+          "choices": [
+            "a girlfriend",
+            "a sister",
+            "a woman",
+            "a mate"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Name of this famed highwayman has become synonymous with robbers and crooks",
+          "choices": [
+            "Ned Kelly",
+            "Captain Cook",
+            "Banjo Paterson",
+            "Adam Goodes"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Though they're not native, Australia was once overrun by these \"underground poultry\"",
+          "choices": [
+            "dingoes",
+            "possums",
+            "wombats",
+            "rabbits"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "When someone's doing this, he's said to be bashing the ear",
+          "choices": [
+            "sleeping soundly",
+            "eating quickly",
+            "driving recklessly",
+            "talking excessively"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "QUOTATIONS BY WOMEN",
+      "questions": [
+        {
+          "clue": "\"Gossip is the opiate of the oppressed\" is a line from this Erica Jong book",
+          "choices": [
+            "Zipper",
+            "Paranoiac",
+            "Fanny",
+            "Fear of Flying"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In \"White Rabbit\" she sang, \"Remember what the dormouse said: 'Feed your head'\"",
+          "choices": [
+            "Janis Joplin",
+            "Grace Kelly",
+            "Grace Slick",
+            "Grace VanderWaal"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This jazz singer wrote, \"Mama may have, Papa may have, but God bless the child that's got his own\"",
+          "choices": [
+            "Ella Fitzgerald",
+            "Nina Simone",
+            "Billie Holiday",
+            "Aretha Franklin"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This \"Ethan Frome\" author once wrote, \"A New York divorce is in itself a diploma of virtue\"",
+          "choices": [
+            "Margaret Mitchell",
+            "Kate Chopin",
+            "Louisa May Alcott",
+            "Edith Wharton"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This first first lady called herself \"steady as a clock, busy as a bee, and cheerful as a cricket\"",
+          "choices": [
+            "Martha Washington",
+            "Abigail Adams",
+            "Dolley Madison",
+            "Eleanor Roosevelt"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE COMEDY OF ERAS",
+      "questions": [
+        {
+          "clue": "In the 1940s & '50s many Jewish comedians got their start in the Catskills resort area nicknamed this \"Belt\"",
+          "choices": [
+            "the Borscht Belt",
+            "the Hamptons Belt",
+            "the Jersey Shore Belt",
+            "the Adirondack Belt"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "1970s: \"Well, excuuuuuse me!!!!!!\"",
+          "choices": [
+            "Chevy Chase",
+            "Bill Murray",
+            "Steve Martin",
+            "John Belushi"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "1990s: \"You might be a redneck if your family tree does not fork\"",
+          "choices": [
+            "Bill Engvall",
+            "Bob Newhart",
+            "George Carlin",
+            "(Jeff) Foxworthy"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This ancient Greek playwright wrote about 40 comedies, including \"Clouds\" & \"Wasps\"",
+          "choices": [
+            "Euripides",
+            "Sophocles",
+            "Aristophanes",
+            "Menander"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "There are plenty of laughs in this 1878 Gilbert & Sullivan operetta set aboard a Royal Navy vessel",
+          "choices": [
+            "The Mikado",
+            "H.M.S. Pinafore",
+            "Pirates of Penzance",
+            "Iolanthe"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "He would have been surprised to know he's the state flower of Hawaii",
+    "choices": [
+      "Hibiscus",
+      "Rose",
+      "Orchid",
+      "Lilac"
+    ],
+    "correctIndex": 0,
+    "category": "LESSER-KNOWN ANCIENT ROMANS"
+  }
+}

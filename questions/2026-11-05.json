@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-05",
+  "categories": [
+    {
+      "name": "MOVIE LOCALES",
+      "questions": [
+        {
+          "clue": "2 \"big\" movies of '88, \"Big\" & \"Big Business\", are both partly set in this big city",
+          "choices": [
+            "Los Angeles",
+            "New York",
+            "Chicago",
+            "San Francisco"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This Roger Vadim movie was filmed in St. Tropez; the '88 remake was shot in Santa Fe, N.M.",
+          "choices": [
+            "...And God Created Woman",
+            "And God Created Womanette",
+            "And God Created Men",
+            "And God Created France"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"Inherit the Wind\" starring Spencer Tracy took place in fictional Hillsboro in this real state",
+          "choices": [
+            "Kentucky",
+            "Ohio",
+            "Virginia",
+            "Tennessee"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Onlookers sang \"Louie, Louie\" at the 1986 razing of dilapidated 755 E. 11th St. in Eugene, Ore., a location in this 1978 comedy",
+          "choices": [
+            "National Lampoon's Vacation",
+            "Back to the Future",
+            "Revenge of the Nerds",
+            "Animal House"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The Caf\u00e9 des Deux Moulins is where this winsome Parisienne waits tables while awaiting her fabulous destiny",
+          "choices": [
+            "Jeanne",
+            "Am\u00e9lie",
+            "Sophie",
+            "Marie"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FILL IN THE QUOTE",
+      "questions": [
+        {
+          "clue": "Benjamin Franklin: \"There never was a ____ ____ or a bad peace\"",
+          "choices": [
+            "great peace",
+            "bad deal",
+            "good war",
+            "long fight"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Richard Nixon: \"It is time for the great ____ ____ of Americans to stand up and be counted\"",
+          "choices": [
+            "great middle",
+            "true heart",
+            "silent majority",
+            "quiet voice"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Huey P. Long: \"I looked around at the little fishes present, and said, 'I'm the ____'\"",
+          "choices": [
+            "kingfish",
+            "big fish",
+            "top dog",
+            "boss man"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Margaret Sanger: \"No woman can call herself free until she can choose...whether she will or will not be a ____\"",
+          "choices": [
+            "wife",
+            "lover",
+            "mother",
+            "servant"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"America is my country\", wrote Gertrude Stein, \"and\" this \"is my home town\"",
+          "choices": [
+            "London",
+            "New York",
+            "Paris",
+            "Rome"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "EARLY AMERICANS",
+      "questions": [
+        {
+          "clue": "In 1803 he invited William Clark along on an enterprise fraught with fatigues, dangers & honors",
+          "choices": [
+            "Meriwether Lewis",
+            "Thomas Jefferson",
+            "George Washington",
+            "Benjamin Franklin"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "He graduated from Yale at 18, became a captain at 20 & was hanged at age 21, in 1776",
+          "choices": [
+            "John Paul Jones",
+            "Samuel Adams",
+            "Nathan Hale",
+            "Patrick Henry"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The original Gerrymandered district was named for Elbridge Gerry when he was gov. of this state",
+          "choices": [
+            "Virginia",
+            "Massachusetts",
+            "Pennsylvania",
+            "New York"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Hamilton used the 1786 Shays Rebellion & this 1794 rebellion as proof of a need for a strong central gov't",
+          "choices": [
+            "Northwest Rebellion",
+            "Bacon's Rebellion",
+            "Fries's Rebellion",
+            "Whiskey Rebellion"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1786, N.Y. granted this Prussian drillmaster some 16,000 acres in the Mohawk Valley",
+          "choices": [
+            "Baron von Cramm",
+            "(Friedrich) von Steuben",
+            "General von Moltke",
+            "Count von Zinzendorf"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1950 this 336-pound object was stolen by Scottish nationalists on Christmas, but it was recovered a few months later",
+    "choices": [
+      "the Stone of Scone",
+      "the Black Stone",
+      "the Jacobite Stone",
+      "the Coronation Stone"
+    ],
+    "correctIndex": 0,
+    "category": "STICKS & STONES"
+  }
+}

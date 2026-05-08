@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-28",
+  "categories": [
+    {
+      "name": "MOVIE CO-STARS",
+      "questions": [
+        {
+          "clue": "This former TV angel played Robert Duvall's not so angelic wife in \"The Apostle\"",
+          "choices": [
+            "Farrah Fawcett",
+            "Catherine Bach",
+            "Heather Locklear",
+            "Kim Basinger"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Meryl Streep & this actress were acclaimed for playing sisters in the 1996 film \"Marvin's Room\"",
+          "choices": [
+            "Susan Sarandon",
+            "Diane Keaton",
+            "Glenn Close",
+            "Jessica Lange"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Montgomery Clift & Shelley Winters were nominated for Oscars for this 1951 film; Elizabeth Taylor was not",
+          "choices": [
+            "A Streetcar Named Desire",
+            "All About Eve",
+            "A Place in the Sun",
+            "The Glass Menagerie"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"Ransom\" reunited her with her \"Lethal Weapon 3\" co-star Mel Gibson",
+          "choices": [
+            "Jamie Lee Curtis",
+            "Rene Russo",
+            "Charlize Theron",
+            "Michelle Pfeiffer"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In \"The Internship\" & \"Wedding Crashers\": Owen Wilson & him",
+          "choices": [
+            "Ben Stiller",
+            "Jason Schwartzman",
+            "Vince Vaughn",
+            "Luke Wilson"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ASTRONAUT LINGO",
+      "questions": [
+        {
+          "clue": "For a doctor it means to prepare for an operation; for an astronaut it means to cancel the operation",
+          "choices": [
+            "Pause",
+            "Scrub",
+            "Abort",
+            "Cancel"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "An instrument-filled, unmanned spacecraft; its name means to search into",
+          "choices": [
+            "Probe",
+            "Satellite",
+            "Rover",
+            "Telescope"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The passengers, cargo, supplies, etc. that are carried up by the rocket",
+          "choices": [
+            "a cargo",
+            "a shipment",
+            "a payload",
+            "a load"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It \"panes\" us to tell you it's the limited period during which a craft can take off to accomplish its mission",
+          "choices": [
+            "Portal",
+            "Window",
+            "Gate",
+            "Door"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's the return of a spaceship into the Earth's atmosphere",
+          "choices": [
+            "Descent",
+            "Re-entry",
+            "Landing",
+            "Touchdown"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WOMEN'S FASHION",
+      "questions": [
+        {
+          "clue": "Popular in the 18th century, Watteau gowns were inspired by Jean Antoine Watteau, who was one of these",
+          "choices": [
+            "Painter",
+            "Sculptor",
+            "Architect",
+            "Composer"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Picture, pillbox & profile have been popular styles of this item",
+          "choices": [
+            "glove",
+            "scarf",
+            "hat",
+            "cloak"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Professional Expectations is a store offering this type of wear to working women",
+          "choices": [
+            "petticoat dress",
+            "maternity wear",
+            "office attire",
+            "evening gowns"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In this made-up brand name that dates from 1954, the last name suggests a fine clothes-maker",
+          "choices": [
+            "Katherine Graham",
+            "Esther Williams",
+            "Gloria Swanson",
+            "Ann Taylor"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew reports from Palm Beach, Florida.) The Palm Beach lifestyle inspired this socialite-turned-designer to create a shift dress called the Lilly",
+          "choices": [
+            "Ralph Lauren",
+            "Norman Norell",
+            "Bill Blass",
+            "Lilly Pulitzer"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "As a result of his 20-year slumber, Rip discovered that this \"had grown a foot long!\"",
+    "choices": [
+      "his beard",
+      "his hair",
+      "his mustache",
+      "his eyebrows"
+    ],
+    "correctIndex": 0,
+    "category": "RIP VAN WINKLE"
+  }
+}

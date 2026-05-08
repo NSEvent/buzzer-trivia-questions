@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-10",
+  "categories": [
+    {
+      "name": "MAKE NO MYTHTAKE",
+      "questions": [
+        {
+          "clue": "He blinded the man-eating Cyclops Polyphemus",
+          "choices": [
+            "Perseus",
+            "Theseus",
+            "Jason",
+            "Odysseus"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This guy had double the trouble battling the Hydra; every time he cut off a head, 2 grew in its place",
+          "choices": [
+            "Hercules",
+            "Achilles",
+            "Ajax",
+            "Odysseus"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In a Botticelli painting, Zephyrus, the West Wind, is blowing this full-figured newborn to shore",
+          "choices": [
+            "Juno",
+            "Diana",
+            "Venus",
+            "Minerva"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In Wagner's Ring Cycle, this Norse god is known as Donner",
+          "choices": [
+            "Odin",
+            "Zeus",
+            "Apollo",
+            "Thor"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The legendary labyrinth was found on this island",
+          "choices": [
+            "Crete",
+            "Delos",
+            "Santorini",
+            "Rhodes"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SPORTS WEIGHTS & MEASURES",
+      "questions": [
+        {
+          "clue": "In this ice sport, a goalkeeper's stick blade can't be longer than 15 1/2 inches",
+          "choices": [
+            "lacrosse",
+            "floor hockey",
+            "hockey",
+            "bandy"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Made of hard black rubber, it must be 1 inch thick, 3 inches in diameter & weigh from 5 1/2 to 6 ounces",
+          "choices": [
+            "a hockey puck",
+            "a tennis ball",
+            "a baseball",
+            "a bocce ball"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "It's 2 inches wide & 15 feet from the backboard",
+          "choices": [
+            "the three-point line",
+            "the free-throw line",
+            "the free-throw lane",
+            "the center circle"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The U.S. Judo Federation has 3 colored belts to represent dan ranks: red, red & white & this",
+          "choices": [
+            "brown",
+            "black",
+            "purple",
+            "white"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In baseball, it measures 18 feet in diameter & reaches a height of 10 inches at its center",
+          "choices": [
+            "a batter's box",
+            "a pitching mound",
+            "home plate",
+            "a base"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A LONG TIME AGO",
+      "questions": [
+        {
+          "clue": "Around 1600 B.C. the Shang became the first recorded ruling dynasty of this country",
+          "choices": [
+            "Japan",
+            "Korea",
+            "India",
+            "China"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This Cretan civilization dominated the Aegean world until about 1450 B.C.",
+          "choices": [
+            "Mycenaean",
+            "Phoenician",
+            "Minoan",
+            "Egyptian"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It's estimated that Diocles earned enough each year in these races to feed the population of ancient Rome",
+          "choices": [
+            "the chariot races",
+            "the gladiatorial contests",
+            "the chariot derby",
+            "the chariot exhibition"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "By the waters of the Euphrates, this city became a Mesopotamian capital in the early 2nd millennium B.C.",
+          "choices": [
+            "Nineveh",
+            "Ur",
+            "Babylon",
+            "Assur"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Athens & Sparta squared off in this war that lasted from 431 to 404 B.C.",
+          "choices": [
+            "the Trojan War",
+            "the Persian War",
+            "the Peloponnesian War",
+            "the Sicilian Expedition"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "2-word name for the U.S. region where a high frequency of its namesake vortexes can appear every year",
+    "choices": [
+      "Tornado Alley",
+      "Dust Bowl",
+      "Storm Central",
+      "Tornado Corridor"
+    ],
+    "correctIndex": 0,
+    "category": "PLANET EARTH"
+  }
+}

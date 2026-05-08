@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-18",
+  "categories": [
+    {
+      "name": "SOUTH AFRICA",
+      "questions": [
+        {
+          "clue": "The name of this notorious suburb is derived from south-western townships",
+          "choices": [
+            "Johannesburg",
+            "Soweto",
+            "Pretoria",
+            "Alexandra"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 1967 this South African surgeon performed the world's first human heart transplant",
+          "choices": [
+            "Nelson Mandela",
+            "Steve Biko",
+            "Christiaan Barnard",
+            "Frederik de Klerk"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In South Africa, Ford sells the Bantam, a popular bakkie; the U.S. equivalent is the F-series of these",
+          "choices": [
+            "cars",
+            "trucks",
+            "buses",
+            "motorcycles"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "South Africa is bordered on the west & north by this country that became independent in 1990",
+          "choices": [
+            "Angola",
+            "Zambia",
+            "Namibia",
+            "Botswana"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Parts of this coastal city & its suburbs wind up towards & around Table Mountain",
+          "choices": [
+            "Durban",
+            "Cape Town",
+            "Johannesburg",
+            "Pretoria"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TOP MODELS",
+      "questions": [
+        {
+          "clue": "Holding a Cohiba panatella, Linda Evangelista was on a magazine cover for aficionados of these",
+          "choices": [
+            "Chocolates",
+            "Pistols",
+            "Cigars",
+            "Jewels"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Focus, Escape, Mustang",
+          "choices": [
+            "Chevrolet",
+            "Ford",
+            "Toyota",
+            "Honda"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Rabbit, Jetta, Touareg",
+          "choices": [
+            "Audi",
+            "BMW",
+            "Volkswagen",
+            "Mercedes"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "HHR, Impala, Corvette",
+          "choices": [
+            "Ford",
+            "Chevrolet",
+            "Toyota",
+            "Honda"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Sentra, Altima, Maxima",
+          "choices": [
+            "Honda",
+            "Toyota",
+            "Nissan",
+            "Volkswagen"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MARXISMS",
+      "questions": [
+        {
+          "clue": "Completes \"I never forget a face, but in your case...\"",
+          "choices": [
+            "I'll forget you entirely",
+            "I'll make an exception",
+            "I never recognize you",
+            "I always remember you"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "His mom said, \"If Karl, instead of writing a lot about\" Das This, \"made a lot of\" this, \"it would have been much better\"",
+          "choices": [
+            "Prinzipien",
+            "Grunds\u00e4tze",
+            "Theorien",
+            "Kapital"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "These people, like Kant and Spinoza, \"have only interpreted the world in various ways; the point is to change it\"",
+          "choices": [
+            "scientists",
+            "artists",
+            "philosophers",
+            "politicians"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Groucho to Chico: \"I'll bet your father spent the first year of your life throwing rocks at\" this bird",
+          "choices": [
+            "the eagle",
+            "the owl",
+            "the heron",
+            "the stork"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Film in which Groucho asks, \"Wouldn't it be simpler if you just put the stateroom in the trunk?\"",
+          "choices": [
+            "A Day at the Races",
+            "A Night at the Opera",
+            "Animal Crackers",
+            "Room Service"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Suge Knight & Tupac Shakur's rap music record label",
+    "choices": [
+      "No Limit Records",
+      "Death Row Records",
+      "Bad Boy Records",
+      "Death Threats"
+    ],
+    "correctIndex": 1,
+    "category": "\"DEATH\""
+  }
+}

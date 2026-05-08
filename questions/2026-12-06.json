@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-06",
+  "categories": [
+    {
+      "name": "WOMEN IN POLITICS",
+      "questions": [
+        {
+          "clue": "Only five women have been elected for full terms to this Congressional body",
+          "choices": [
+            "the Senate",
+            "the House",
+            "the Cabinet",
+            "the Supreme Court"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "First & last name of this political daughter, who represents Wyoming in Congress",
+          "choices": [
+            "Mia Love",
+            "Nancy Pelosi",
+            "Liz Cheney",
+            "Katie Hill"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 2018, using a privilege for House leadership, she gave an 8-hour speech in support of the \"Dreamers\"",
+          "choices": [
+            "Warren",
+            "Pelosi",
+            "Kaine",
+            "Cruz"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This governor of Connecticut was fondly known as \"Mother Ella\"",
+          "choices": [
+            "Ella Baker",
+            "Eleanor Roosevelt",
+            "Ella Grasso",
+            "Ellen Johnson"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 2020 Keisha Lance Bottoms, when mayor of this city, said, \"You're not going to out-concern me... about where we are in America\"",
+          "choices": [
+            "Atlanta",
+            "Birmingham",
+            "Charlotte",
+            "Nashville"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"GREAT\" GEOGRAPHY",
+      "questions": [
+        {
+          "clue": "At over 84,000 square miles, it's Europe's largest island",
+          "choices": [
+            "Iceland",
+            "Ireland",
+            "Great Britain",
+            "Manhattan"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Montana's first hydroelectric plant was built in this city",
+          "choices": [
+            "Billings",
+            "Missoula",
+            "Bozeman",
+            "Great Falls"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Major peaks in this range include Mount Sterling in North Carolina & Chimney Tops in Tennessee",
+          "choices": [
+            "the Great Sand Dunes",
+            "the Great Dismal Swamp",
+            "the Great Smoky Mountains",
+            "the Great Lakes"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Uranium mined from this Canadian Arctic lake with an animal name was used to make the WWII atomic bombs",
+          "choices": [
+            "Great Slave Lake",
+            "Great Bear Island",
+            "Great Whale River",
+            "Great Bear Lake"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Australia's largest desert, it was first crossed in 1875 by Ernest Giles & named for a monarch",
+          "choices": [
+            "(Great) Victoria",
+            "(Great) Sandy",
+            "(Great) Victoria Desert",
+            "(Great) Simpson"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GUARDS",
+      "questions": [
+        {
+          "clue": "According to Arthurian legend, this cup was guarded by the Fisher King",
+          "choices": [
+            "the Holy Grail",
+            "the Holy Bible",
+            "the Holy Chalice",
+            "the Holy Sepulchre"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The Swiss Guard is responsible for guarding the man who has this job",
+          "choices": [
+            "the president",
+            "the king",
+            "the pope",
+            "the emperor"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It knew that 3 heads were better than one for guarding Hades",
+          "choices": [
+            "Anubis",
+            "Scylla",
+            "Cerberus",
+            "Tartarus"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A state or federal prison guard may be called a C.O., short for this",
+          "choices": [
+            "county officer",
+            "corrections officer",
+            "civic organizer",
+            "court overseer"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 312 A.D. Constantine the Great disbanded this group for supporting Roman Emperor Maxentius",
+          "choices": [
+            "the Teutonic Guard",
+            "the Swiss Guard",
+            "the Imperial Guard",
+            "the Praetorian Guard"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "British troops burned the White House during this 19th century war",
+    "choices": [
+      "the Mexican War",
+      "the Civil War",
+      "the War of 1812",
+      "the Revolutionary War"
+    ],
+    "correctIndex": 2,
+    "category": "THE WHITE HOUSE"
+  }
+}

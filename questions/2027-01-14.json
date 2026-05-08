@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-14",
+  "categories": [
+    {
+      "name": "THE \"LONG\" & \"SHORT\" OF IT",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It's Marlon Brando's occupation in the movie \"On the Waterfront\\\"",
+          "choices": [
+            "a longshoreman",
+            "a fisherman",
+            "a merchant seaman",
+            "a dock foreman"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Traditionally, the main ingredients in these Scottish cookies are flour, sugar & an ample amount of butter",
+          "choices": [
+            "scones",
+            "oatcakes",
+            "digestive biscuits",
+            "shortbread"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Tinker, of \"Tinker to Evers to Chance\", was one of these",
+          "choices": [
+            "a second baseman",
+            "a third baseman",
+            "a left fielder",
+            "a shortstop"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "This California port city is home to an aquarium & the Queen Mary",
+          "choices": [
+            "San Diego",
+            "Santa Barbara",
+            "Oakland",
+            "Long Beach"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "At 29 feet, 4 1/2 inches, Mike Powell holds the world record for this",
+          "choices": [
+            "the triple jump",
+            "the high jump",
+            "the long jump",
+            "the pole vault"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "CELEBRITY VETERANS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This director based \"Platoon\" on his own experiences in Vietnam, for which he was awarded a Bronze Star & a Purple Heart",
+          "choices": [
+            "Francis Ford Coppola",
+            "Oliver Stone",
+            "Michael Cimino",
+            "Brian De Palma"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "This \"Tonight Show\" announcer was a fighter pilot in WWII & Korea",
+          "choices": [
+            "Johnny Carson",
+            "Tommy Newsom",
+            "Ed McMahon",
+            "Dick Clark"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This comic joined the navy in 1956 & was a hospital corpsman, probably not handing out Jell-O pudding pops",
+          "choices": [
+            "Bob Hope",
+            "Don Rickles",
+            "Bill Cosby",
+            "Dick Gregory"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "This actor & martial artist was an Air Force man before becoming a \"Texas Ranger\" on TV",
+          "choices": [
+            "Steven Seagal",
+            "Gary Busey",
+            "Chuck Norris",
+            "Clint Eastwood"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "This star of \"Maude\" & \"The Golden Girls\" was one of the Marine Corps' first female recruits of WWII",
+          "choices": [
+            "Betty White",
+            "Bea Arthur",
+            "Rue McClanahan",
+            "Estelle Getty"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "DRAFT PICKS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Its name tells you that it's \"Genuine Draft beer\\\"",
+          "choices": [
+            "Coors",
+            "Miller",
+            "Budweiser",
+            "Pabst"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Varieties of this \"revolutionary\" beer include Old Fezziwig Ale & Boston Lager",
+          "choices": [
+            "Sam Adams",
+            "Yuengling",
+            "Anchor Steam",
+            "Brooklyn Lager"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "This pale ale that's brewed in the Northern California city of Chico is named for a nearby mountain range",
+          "choices": [
+            "Anchor Steam",
+            "Fat Tire",
+            "Dogfish Head",
+            "Sierra Nevada"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "A slogan for this \"Old\" American beer is \"It just doesn't get any better than this\\\"",
+          "choices": [
+            "Old Milwaukee",
+            "Old Style",
+            "Schlitz",
+            "Pabst Blue Ribbon"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Look up in the circle around the sun as you lie back & enjoy this Mexican beer introduced in 1925",
+          "choices": [
+            "Corona",
+            "Modelo",
+            "Dos Equis",
+            "Tecate"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "BIBLICAL WHO'S WHO",
+    "clue": "Jesus called this disciple by his Aramaic name, Simon bar-Jona",
+    "choices": [
+      "Andrew",
+      "James",
+      "Simon Peter",
+      "John"
+    ],
+    "correctIndex": 2
+  }
+}

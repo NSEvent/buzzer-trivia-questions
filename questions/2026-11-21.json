@@ -1,0 +1,207 @@
+{
+  "date": "2026-11-21",
+  "categories": [
+    {
+      "name": "EXTREME GEOGRAPHY",
+      "questions": [
+        {
+          "clue": "The westernmost point in continental Europe is Cape Roca in this country on a peninsula",
+          "choices": [
+            "Spain",
+            "Portugal",
+            "France",
+            "Morocco"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Canada's southernmost point of land is Middle Island in this Great Lake, eh?",
+          "choices": [
+            "Lake Erie",
+            "Lake Ontario",
+            "Lake Huron",
+            "Lake Superior"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "It's the easternmost U.S. state capital",
+          "choices": [
+            "Boston",
+            "Juneau",
+            "Montpelier",
+            "Augusta(, Maine)"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Africa's Kariba Dam created the largest by volume of these man-made water-storing lakes, capacity 180 billion cubic meters",
+          "choices": [
+            "a lagoon",
+            "a reservoir",
+            "a fjord",
+            "an estuary"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The longest river in southeast Asia, it flows 2,700 miles through Laos, Cambodia & Vietnam",
+          "choices": [
+            "the Yangtze",
+            "the Mekelle",
+            "the Irrawaddy",
+            "the Mekong"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "1960s ROCK",
+      "questions": [
+        {
+          "clue": "Their \"Wednesday Morning, 3 AM\" album included the original unmixed version of \"The Sounds of Silence\"",
+          "choices": [
+            "The Mamas & the Papas",
+            "Jefferson Airplane",
+            "Simon & Garfunkel",
+            "The Beach Boys"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Michael Nesmith wrote \"Different Drum\", which was a Top 20 hit for this Linda Ronstadt group",
+          "choices": [
+            "the Mamas & the Papas",
+            "the Association",
+            "the Stone Poneys",
+            "the Grass Roots"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The Byrds' first release, \"Mr. Tambourine Man\", was written by this folk artist",
+          "choices": [
+            "Joni Mitchell",
+            "Bob Dylan",
+            "Paul Simon",
+            "Neil Young"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This drummer-led British quintet starred in the 1965 film \"Having a Wild Weekend\"",
+          "choices": [
+            "The Dave Clark Five",
+            "The Shadows",
+            "Herman's Hermits",
+            "The Searchers"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "\"Do the Freddie\" was created to promote the antics of this group's leader",
+          "choices": [
+            "Tommy Roe",
+            "Freddie & the Dreamers",
+            "The Fourmost",
+            "Billy J. Kramer"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ANCIENT QUOTES",
+      "questions": [
+        {
+          "clue": "Aristotle said, \"We make war that we may live in\" this",
+          "choices": [
+            "peace",
+            "justice",
+            "order",
+            "strength"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Plato said this science \"compels the soul to look upward & leads us from this world to another\"",
+          "choices": [
+            "astronomy",
+            "geometry",
+            "music",
+            "arithmetic"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"Under every stone lurks a politician\" is a stinging quip from this \"Wasps\" playwright",
+          "choices": [
+            "Aristophanes",
+            "Euripides",
+            "Menander",
+            "Sophocles"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Confucius advised, \"Have no friends not equal to\" this person",
+          "choices": [
+            "your enemy",
+            "yourself",
+            "your teacher",
+            "your brother"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "His 1st quote in Barlett's Quotations is, \"The lamb... began to follow the wolf in sheep's clothing\"",
+          "choices": [
+            "Plutarch",
+            "Aesop",
+            "Homer",
+            "Socrates"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "England's Henry VII & Edward VI",
+    "choices": [
+      "Stuart",
+      "Plantagenet",
+      "Lancaster",
+      "Tudor"
+    ],
+    "correctIndex": 3,
+    "category": "DYNASTY"
+  },
+  "bonusRound": {
+    "clue": "The dime known as this \"Head\" was designed by Charles Barber, the Mint's chief engraver from 1879 to 1917",
+    "choices": [
+      "the Indian Head",
+      "the Liberty Head",
+      "the Mercury Head",
+      "the Walking Liberty Head"
+    ],
+    "correctIndex": 1,
+    "category": "DOUGH!"
+  }
+}

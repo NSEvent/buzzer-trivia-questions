@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-24",
+  "categories": [
+    {
+      "name": "TIME ZONE CITIES",
+      "questions": [
+        {
+          "clue": "Charleston, West Virginia",
+          "choices": [
+            "Western",
+            "Eastern",
+            "Southern",
+            "Northern"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Nashville, Tennessee",
+          "choices": [
+            "Eastern",
+            "Pacific",
+            "Central",
+            "Mountain"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Las Vegas, Nevada",
+          "choices": [
+            "Pacific Time",
+            "Eastern Time",
+            "Central Time",
+            "Mountain Time"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Salt Lake City, Utah",
+          "choices": [
+            "Eastern Time Zone",
+            "Central Time Zone",
+            "Mountain Time Zone",
+            "Pacific Time Zone"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Chico, California",
+          "choices": [
+            "Eastern Time Zone",
+            "Mountain Time Zone",
+            "Central Time Zone",
+            "Pacific Time Zone"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"MAC\" OR \"P.C.\"",
+      "questions": [
+        {
+          "clue": "This vehicle is also called a \"black & white\"",
+          "choices": [
+            "a police cruiser",
+            "a fire engine",
+            "a taxi cab",
+            "a mail truck"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It runs 41 miles from Colon on the Atlantic to Balboa on the Pacific",
+          "choices": [
+            "the Suez Canal",
+            "the Panama Canal",
+            "the Erie Canal",
+            "the Hudson River"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Latin phrase meaning \"for each person\", as in \"Americans eat 85 pounds of chicken...\"",
+          "choices": [
+            "pro bono",
+            "vice versa",
+            "ad hoc",
+            "per capita"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This Seattle mastermind is one of the three coaches to win a college national championship and a Super Bowl",
+          "choices": [
+            "Pete Carroll",
+            "Bill Belichick",
+            "Nick Saban",
+            "Jim Harbaugh"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Stone pavement bound with cement or tar, named for a Scottish engineer",
+          "choices": [
+            "concrete",
+            "macadam (tarmac accepted)",
+            "asphalt",
+            "gravel"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FILL IN THE ____",
+      "questions": [
+        {
+          "clue": "In courtship: On bended ____",
+          "choices": [
+            "head",
+            "back",
+            "side",
+            "knee"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In the book of Matthew, \"Many are called, but few are _____\"",
+          "choices": [
+            "saved",
+            "righteous",
+            "blessed",
+            "Chosen"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Herculean labor: Cleaning the ____ of King Augeas",
+          "choices": [
+            "barns",
+            "stalls",
+            "stables",
+            "pastures"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "At court: Lady-in-____",
+          "choices": [
+            "waiting",
+            "attendance",
+            "service",
+            "presence"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In the courtyard: Pigeon, aka rock ____",
+          "choices": [
+            "pigeon",
+            "sparrow",
+            "dove",
+            "crow"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This restaurant's slogan is, appropriately, \"Pizza! Pizza!\"",
+    "choices": [
+      "Domino's",
+      "Pizza Hut",
+      "Papa John's",
+      "Little Caesars"
+    ],
+    "correctIndex": 3,
+    "category": "SLOGANEERING"
+  }
+}

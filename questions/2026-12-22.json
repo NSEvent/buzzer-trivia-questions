@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-22",
+  "categories": [
+    {
+      "name": "RECREATION",
+      "questions": [
+        {
+          "clue": "It's the only martial art that's an Olympic event",
+          "choices": [
+            "judo",
+            "karate",
+            "taekwondo",
+            "kendo"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Though pool tables may vary in size, all have length in this proportion to width",
+          "choices": [
+            "2 to 1",
+            "3 to 2",
+            "4 to 3",
+            "5 to 3"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "I'm gonna climb this alphanumeric mountain, despite the book about a 1953 expedition subtitled \"The Savage Mountain\"",
+          "choices": [
+            "Kangchenjunga",
+            "Makalu",
+            "Lhotse",
+            "K2"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "I know CoreAlign is a registered piece of equipment for this program to help improve posture, balance & movement",
+          "choices": [
+            "pilates",
+            "yoga",
+            "barre",
+            "zumba"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Bones in this joint are the most likely to get broken in a fall while roller-skating",
+          "choices": [
+            "the ankle",
+            "the wrist",
+            "the elbow",
+            "the shoulder"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "19th CENTURY",
+      "questions": [
+        {
+          "clue": "In 1892, it replaced Castle Garden as New York's immigration depot",
+          "choices": [
+            "Liberty Island",
+            "Angel Island",
+            "Alcatraz Island",
+            "Ellis Island"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The ill-planned 1825 Decembrist rising in this country was suppressed on the same day it occurred",
+          "choices": [
+            "Russia",
+            "Poland",
+            "Finland",
+            "Ukraine"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "It's what Livingstone was looking for in Africa when Stanley found him",
+          "choices": [
+            "the source of the Congo",
+            "the source of the Zambezi",
+            "the source of the Niger",
+            "source of the Nile"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The 1842 Webster-Ashburton Treaty settled the boundary dispute between these 2 countries",
+          "choices": [
+            "Canada & United States",
+            "Great Britain & France",
+            "Spain & Portugal",
+            "Prussia & Austria"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "When papa, Pedro, abdicated in 1831, 5-year-old Pedro II acquired this So. American country's crown",
+          "choices": [
+            "Argentina",
+            "Uruguay",
+            "Brazil",
+            "Paraguay"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SOUTH AMERICAN HISTORY",
+      "questions": [
+        {
+          "clue": "This man whose name went on 2 continents explored the coast of Suriname in 1499",
+          "choices": [
+            "(Amerigo) Vespucci",
+            "(Christopher) Columbus",
+            "(Vasco) da Gama",
+            "(Ferdinand) Magellan"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1919 South America got its first commercial airline: Avianca, now headquartered in this capital of Colombia",
+          "choices": [
+            "Lima",
+            "Santiago",
+            "Bogot\u00e1",
+            "Buenos Aires"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A French space research station began operating near Kourou in this colony in 1968",
+          "choices": [
+            "Suriname",
+            "Guyana",
+            "French Guiana",
+            "Brazil"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Following the 1973 coup that included an air strike on the presidential palace, this general seized control of Chile",
+          "choices": [
+            "Salazar",
+            "Pinochet",
+            "Franco",
+            "Per\u00f3n"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Cemented in Argentine history is this man, whose 1986 World Cup goal was aided by the \"Hand of God\"",
+          "choices": [
+            "Pel\u00e9",
+            "Messi",
+            "Maradona",
+            "Zidane"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Regarding Jesus, this saint celebrated on June 24 lived up to the activity from his name",
+    "choices": [
+      "John the Baptist",
+      "Peter the Apostle",
+      "Paul the Evangelist",
+      "Andrew the First-Called"
+    ],
+    "correctIndex": 0,
+    "category": "SAINTS GO MARCHING IN"
+  }
+}

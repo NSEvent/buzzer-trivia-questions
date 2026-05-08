@@ -1,0 +1,207 @@
+{
+  "date": "2026-11-28",
+  "categories": [
+    {
+      "name": "DEM BONES",
+      "questions": [
+        {
+          "clue": "They're attached to the spine in the back & the breastbone in the front",
+          "choices": [
+            "the ribs",
+            "the shoulders",
+            "the pelvis",
+            "the collarbones"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Your knee is the joint where these 2 bones meet the patella",
+          "choices": [
+            "the femur & the tibia",
+            "the humerus & the ulna",
+            "the radius & the fibula",
+            "the tibia & the fibula"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Men do not have more of these bones than women, but some people have extra cervical ones near the collar bone",
+          "choices": [
+            "teeth",
+            "fingers",
+            "vertebrae",
+            "ribs"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This longest bone in your body accounts for about a quarter of your height",
+          "choices": [
+            "femur (thighbone)",
+            "tibia (shinbone)",
+            "humerus (upper arm bone)",
+            "tarsals (ankle bones)"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A Greek fighting formation gave its name to these bones",
+          "choices": [
+            "the metatarsals",
+            "the carpals",
+            "the phalanges",
+            "the phalanges of Zeus"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LEAGUES",
+      "questions": [
+        {
+          "clue": "In March 1920 the Senate rejected the Treaty of Versailles, which would have made the U.S. a member of this",
+          "choices": [
+            "the League of Nations",
+            "the League of Nations Alliance",
+            "the League of Peaceful States",
+            "the League of Global Unity"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1974 men were allowed into this league, founded in 1920 to help women use their suffrage wisely",
+          "choices": [
+            "the League of Women Voters",
+            "the League of Women's Rights",
+            "the League of Women's Suffrage",
+            "the League of Women's Progress"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This legendary group included Allan Quatermain, Captain Nemo, Dorian Gray & Dr. Jekyll/Mr. Hyde",
+          "choices": [
+            "the League of Extraordinary Men",
+            "the League of Extraordinary Gentlemen",
+            "the League of Extraordinary Women",
+            "the League of Extraordinary Heroes"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Mauritania, Somalia, Djibouti & the PLO joined it in the 1970s",
+          "choices": [
+            "the African Union",
+            "the Organization of American States",
+            "the European Union",
+            "the Arab League"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Hiawatha is traditionally credited as one of the founders of this league of 5, then 6 nations",
+          "choices": [
+            "the Haudenosaunee",
+            "the Iroquois",
+            "the Sioux",
+            "the Cherokee"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE 3 \"R\"s",
+      "questions": [
+        {
+          "clue": "Types of this household tool include slotted, hex & Robertson",
+          "choices": [
+            "wrench",
+            "pliers",
+            "drill",
+            "screwdriver"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A line of preppy clothing endorsed by a Cambridge Mass. university is named for this, the campus' central area",
+          "choices": [
+            "Yale Green",
+            "Stanford Quad",
+            "Harvard Yard",
+            "Princeton Green"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This type of pilot in the early days of aviation would travel the country giving stunt-flying exhibitions",
+          "choices": [
+            "skywriter",
+            "barnstormer",
+            "barnkeeper",
+            "barrister"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Big laxative has made good use in its ads of this word for the problem its products treat",
+          "choices": [
+            "constipation",
+            "indigestion",
+            "irregularity",
+            "infrequency"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A transparent container for keeping reptiles indoors",
+          "choices": [
+            "a vivarium",
+            "a terrarium",
+            "an aquarium",
+            "an aviary"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "(Chewbacca \"reads\".) I am Chewbacca, this type of creature from the planet Kashyyyk",
+    "choices": [
+      "a Ewok",
+      "a Twi'lek",
+      "a Wampara",
+      "a Wookiee"
+    ],
+    "correctIndex": 3,
+    "category": "STAR WARS"
+  },
+  "bonusRound": {
+    "clue": "Following the implementation of harsh taxes, Wat Tyler led the 1381 revolt named for this social class",
+    "choices": [
+      "merchants",
+      "clergy",
+      "peasants",
+      "nobility"
+    ],
+    "correctIndex": 2,
+    "category": "ENGLISHMEN"
+  }
+}

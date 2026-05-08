@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-03",
+  "categories": [
+    {
+      "name": "LITERARY CROSSWORD CLUES \"M\"",
+      "questions": [
+        {
+          "clue": "Flirtatious floozy Flanders (4)",
+          "choices": [
+            "Moll",
+            "Maude",
+            "Maid",
+            "Mistress"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Rikki-Tikki-Tavi, for example (8)",
+          "choices": [
+            "Mongoose",
+            "Mammal",
+            "Monkey",
+            "Marten"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Irish-born Iris (7)",
+          "choices": [
+            "Murdoch",
+            "Murray",
+            "Muir",
+            "Mallon"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Crimes \"in the Rue Morgue\" (7)",
+          "choices": [
+            "Mysteries",
+            "Murders",
+            "Secrets",
+            "Incidents"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Austen's \"Park\", or author Katherine (9)",
+          "choices": [
+            "Middlemarch",
+            "Manderley",
+            "Marmion",
+            "Mansfield"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BOOK TALK",
+      "questions": [
+        {
+          "clue": "From the back cover of this book: \"In the ruins of a place once known as North America lies the nation of Panem\"",
+          "choices": [
+            "The Hunger Games",
+            "The Maze Runner",
+            "Divergent",
+            "Hatchet"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "After \"Madeline\" went to the hospital, \"all the little girls cried, 'boohoo', we want to have our\" this \"out, too!\"",
+          "choices": [
+            "our appendixes",
+            "our ears",
+            "our tonsils",
+            "our adenoids"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A foreword is by someone else to set up your book; one of these introductions is by you to explain why you wrote it",
+          "choices": [
+            "a preface",
+            "an epilogue",
+            "a prologue",
+            "a foreword"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "12-letter term for a book produced by adapting a movie script",
+          "choices": [
+            "a novelization",
+            "a screenplay",
+            "a storyboard",
+            "a treatment"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Following a plane crash in the wilderness, Brian Robeson doesn't \"bury\" this title tool but uses it to survive",
+          "choices": [
+            "a machete",
+            "a shovel",
+            "a hatchet",
+            "a saw"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CANNES PALME D'OR WINNERS",
+      "questions": [
+        {
+          "clue": "1994: \"____ Fiction\"",
+          "choices": [
+            "Dirty",
+            "Pulp",
+            "Hard",
+            "Trash"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "1993, from Hong Kong: \"Farewell My ____\"",
+          "choices": [
+            "Concubine",
+            "Queen",
+            "Wife",
+            "Lady"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Herb Stempel, a contestant in \"Quiz Show\", may be able to tell you this film won for 1955",
+          "choices": [
+            "On the Waterfront",
+            "A Streetcar Named Desire",
+            "Giant",
+            "Marty"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The colorized version of this 1949 film starring Orson Welles should use \"Lime\" green \u2014 Harry Lime",
+          "choices": [
+            "The Magnificent Ambersons",
+            "Citizen Kane",
+            "The Third Man",
+            "Touch of Evil"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "2013: \"____ Is the Warmest Color\"",
+          "choices": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "We'll \"Award\" you $800 for knowing this pitcher is number 1 with 511 career wins (but also tops in losses with 316)",
+    "choices": [
+      "Warren Spahn",
+      "Cy Young",
+      "Christy Mathewson",
+      "Steve Carlton"
+    ],
+    "correctIndex": 1,
+    "category": "SPORTS RECORDS"
+  }
+}

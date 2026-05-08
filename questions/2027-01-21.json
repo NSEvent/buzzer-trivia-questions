@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-21",
+  "categories": [
+    {
+      "name": "FIRST WORDS",
+      "questions": [
+        {
+          "clue": "Chekhov's \"The Seagull\" opens with a man asking an unhappy woman, \"Why do you always wear\" this color",
+          "choices": [
+            "blue",
+            "red",
+            "white",
+            "black"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Inception is a synonym for this, also an event at the end of a college career",
+          "choices": [
+            "graduation",
+            "inception",
+            "commencement",
+            "conclusion"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It's the first of a product before copies are made; KFC used it to describe their \"first\" recipe",
+          "choices": [
+            "initial",
+            "original",
+            "primary",
+            "first"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The first line of an Old Testament book is \"The proverbs of\" him, \"the son of David, king of Israel\"",
+          "choices": [
+            "David",
+            "Jeremiah",
+            "Ecclesiastes",
+            "Solomon"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"I am the first accused. I... practiced as an attorney in Johannesburg\", began a 1964 opening statement by him",
+          "choices": [
+            "Oliver Tambo",
+            "Nelson Mandela",
+            "Desmond Tutu",
+            "Walter Sisulu"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CELEBRITY INVENTIONS",
+      "questions": [
+        {
+          "clue": "This actress who starred in \"Ecstasy\" and \"Algiers\" helped invent a torpedo control system",
+          "choices": [
+            "Marlene Dietrich",
+            "Hedy Lamarr",
+            "Greta Garbo",
+            "Louise Brooks"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "No knucklehead, this ventriloquist designed an artificial heart but Jarvik's was chosen over his",
+          "choices": [
+            "Bert Williams",
+            "Ed Wynn",
+            "Paul Winchell",
+            "Sheldon Leonard"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This singer got a patent for a stage illusion, an anti-gravity effect used for \"Smooth Criminal\" on tour",
+          "choices": [
+            "Prince",
+            "Freddie Mercury",
+            "Michael Jackson",
+            "Elton John"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This singer & original \"American Idol\" judge patented a titling microphone stand\u2014take that, Simon!",
+          "choices": [
+            "Simon Cowell",
+            "Paula Abdul",
+            "Mariah Carey",
+            "Kelly Clarkson"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Bill Nye\u2014yes, that science guy\u2014patented a new type of this anatomical-named footwear for dancers",
+          "choices": [
+            "high heels",
+            "ballet slippers",
+            "toe shoes",
+            "running shoes"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "U.S. POLITICS",
+      "questions": [
+        {
+          "clue": "A New Year's Day 2013 House vote kept the economy from sliding over what was known as this",
+          "choices": [
+            "the debt ceiling",
+            "sequestration",
+            "the government shutdown",
+            "the fiscal cliff"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "(I'm Julie Chen.) In 1999, on our first \"Early Show\" broadcast on CBS, I reported on a possible N.Y. Senate race between these 2 people; it didn't happen, but they may still face off for president",
+          "choices": [
+            "Al Gore & John McCain",
+            "George Bush & John Kerry",
+            "Bill Clinton & Al Gore",
+            "(Hillary) Clinton & Rudolph Giuliani"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Had he won the 1976 GOP nomination, his running mate would have been Penn. Senator Richard Schweiker",
+          "choices": [
+            "Ford",
+            "Bush",
+            "Goldwater",
+            "Reagan"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This type of committee is supposed to be temporary, but there's a House \"Permanent\" one on intelligence",
+          "choices": [
+            "Standing Committee",
+            "Special Committee",
+            "Joint Committee",
+            "Select Committee"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Chairmen of this body have included Bob Dole, Lee Atwater &, currently, Reince Priebus",
+          "choices": [
+            "Democratic National Committee",
+            "National Convention",
+            "Republican National Committee",
+            "Federal Election Commission"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The first Greek use of this synonym for \"dictator\" described King Gyges of Lydia",
+    "choices": [
+      "Tyrant",
+      "Despot",
+      "Monarch",
+      "Autocrat"
+    ],
+    "correctIndex": 0,
+    "category": "ANCIENT GREEK SALAD"
+  }
+}

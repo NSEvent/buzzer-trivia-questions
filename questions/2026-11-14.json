@@ -1,0 +1,207 @@
+{
+  "date": "2026-11-14",
+  "categories": [
+    {
+      "name": "THE NEW YORK TIMES MAGAZINE",
+      "questions": [
+        {
+          "clue": "Robin Marantz Henig's recent masterful essay on evolutionary biology was titled this 19th century scientist's \"God\"",
+          "choices": [
+            "Albert Einstein",
+            "Gregor Mendel",
+            "Louis Pasteur",
+            "Charles Darwin"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The date on the first issue of the magazine, Sept. 6, 1896, was this day of the week",
+          "choices": [
+            "Monday",
+            "Friday",
+            "Sunday",
+            "Wednesday"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Regular use of this began in the magazine in 1933, but didn't hit the Times' front page photos until 1997",
+          "choices": [
+            "black and white",
+            "color",
+            "television",
+            "radio"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A new one of these \"super\" nuclear physics accelerators was the subject of Jim Holt's \"Where Protons Will Play\"",
+          "choices": [
+            "telescope",
+            "particle",
+            "microscope",
+            "supercollider"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Nan Robertson won a 1983 Pulitzer for her writing on this \"syndrome\" abbreviated TSS",
+          "choices": [
+            "transient synovitis",
+            "toxic epidermal",
+            "trichinosis",
+            "toxic shock"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ACTORS WHO SING",
+      "questions": [
+        {
+          "clue": "Che sera sera! We loved Antonio Banderas' singing when he played Che in this Madonna movie",
+          "choices": [
+            "Evolution",
+            "Eternity",
+            "Equilibrium",
+            "Evita"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Using the stage name Rainbo, she recorded a song about John & Yoko before starringin films like \"Carrie\"",
+          "choices": [
+            "Sally Field",
+            "Shelley Long",
+            "Sissy Spacek",
+            "Sandra Bullock"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "2011's \"Let Them Talk\" is an album of American blues by this Brit who played \"House\"",
+          "choices": [
+            "Hugo Weaving",
+            "Humphrey Bogart",
+            "Hugh Laurie",
+            "Harold Perrineau"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "She did her own singing & learned the autoharp to play June Carter Cash; the effort paid off in an Oscar",
+          "choices": [
+            "(Jennifer) Aniston",
+            "(Julia) Roberts",
+            "(Reese) Witherspoon",
+            "(Nicole) Kidman"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "His starring role as Bo Duke on \"The Dukes of Hazzard\" kick-started his recording career",
+          "choices": [
+            "Catherine Bach",
+            "Sorrell Booke",
+            "John Schneider",
+            "Denver Pyle"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BRITISH POSSESSIONS",
+      "questions": [
+        {
+          "clue": "This Caribbean island group is divided into U.S. & British parts",
+          "choices": [
+            "the Virgin Islands",
+            "the Bahamas",
+            "the Cayman Islands",
+            "the Turks and Caicos"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This colony off the coast of Cape Hatteras was a part of the charter of the Virginia Company in the early 1600s",
+          "choices": [
+            "Bermuda",
+            "Bahamas",
+            "Jamaica",
+            "Barbados"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Home to the Bounty mutineers, this 1.7-square-mile island is Britain's only possession in the South Pacific",
+          "choices": [
+            "Pitcairn",
+            "Bermuda",
+            "Turks and Caicos",
+            "Gibraltar"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Napoleon arrived on this island October 15, 1815",
+          "choices": [
+            "St. Helena",
+            "Elba",
+            "Capri",
+            "Ascension Island"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1999 a cannon from the HMS Bounty was raised from the wreck site at this isolated island",
+          "choices": [
+            "Easter Island",
+            "Galapagos Islands",
+            "Seychelles",
+            "Pitcairn Island"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "(Jimmy of the Clue Crew shows a painting on the monitor.) The name of this short, close-fitting jacket takes its name from words meaning \"folded over\"",
+    "choices": [
+      "a jerkin",
+      "a double-edged",
+      "a folded cuff",
+      "a doublet"
+    ],
+    "correctIndex": 3,
+    "category": "MEDIEVAL FASHION"
+  },
+  "bonusRound": {
+    "clue": "This style of topping may sound good, but its name is from the French for \"with the burnt scrapings\"",
+    "choices": [
+      "au jus",
+      "al dente",
+      "\u00e0 la carte",
+      "au gratin"
+    ],
+    "correctIndex": 3,
+    "category": "FOREIGN FOOD"
+  }
+}

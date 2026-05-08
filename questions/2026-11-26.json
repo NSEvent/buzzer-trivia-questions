@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-26",
+  "categories": [
+    {
+      "name": "TRY \"TRI\" AGAIN",
+      "questions": [
+        {
+          "clue": "It straightens the arm at the elbow",
+          "choices": [
+            "the triceps",
+            "the biceps",
+            "the latissimus",
+            "the deltoid"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Swimming, cycling, & running all in one event",
+          "choices": [
+            "a triathlon",
+            "a marathon",
+            "a decathlon",
+            "a pentathlon"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The period that lasted from about 245 million to 208 million years ago",
+          "choices": [
+            "Triassic",
+            "Jurassic",
+            "Cretaceous",
+            "Permian"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "From the Latin for \"platform for magistrates\", it's a court of justice",
+          "choices": [
+            "arbitration",
+            "mediation",
+            "adjudication",
+            "tribunal"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A group of 3 men collectively responsible for the administration of ancient Rome",
+          "choices": [
+            "decemvirate",
+            "duumvirate",
+            "triumvirate",
+            "sevirate"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "YEAH, WE WENT THERE",
+      "questions": [
+        {
+          "clue": "We stopped by the magnificent Cliffs of Moher on this Emerald Isle",
+          "choices": [
+            "Ireland",
+            "Scotland",
+            "Wales",
+            "Cornwall"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Made it to the top of 22,600-foot Ojos del Salado one of the highest peaks in this mountain range",
+          "choices": [
+            "the Himalayas",
+            "the Alps",
+            "the Andes",
+            "the Rockies"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Took in the rugged scenery & the lemon festival along this country's Amalfi Coast",
+          "choices": [
+            "Italy",
+            "Spain",
+            "Greece",
+            "Portugal"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Great snorkeling & diving in this large bay off Chittagong & Chennai",
+          "choices": [
+            "the Arabian Sea",
+            "the Andaman Sea",
+            "the Persian Gulf",
+            "the Bay of Bengal"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Paid my respects at the Gandan Monastery in this capital city of Mongolia",
+          "choices": [
+            "Ulaanbaatar",
+            "Astana",
+            "Tashkent",
+            "Bishkek"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "REALITY TV",
+      "questions": [
+        {
+          "clue": "On \"Celebrity Apprentice\", stars leave the boardroom for good after hearing these 2 dreaded words",
+          "choices": [
+            "you're next",
+            "it's over",
+            "\"you're fired\"",
+            "get out"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Bravo! Heather Dubrow helped color the world of southern southern California on this reality show",
+          "choices": [
+            "The Real Housewives of Orange County",
+            "The Real Housewives of Beverly Hills",
+            "The Real Housewives of New York City",
+            "The Real Housewives of Miami"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "He & Laila Ali host \"American Gladiators\"",
+          "choices": [
+            "Hulk Hogan",
+            "Stone Cold Steve Austin",
+            "The Rock",
+            "Undertaker"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It was \"the true story of seven strangers picked to live in a house, work together and have their lives taped\"",
+          "choices": [
+            "Survivor",
+            "The Real World",
+            "Big Brother",
+            "The Apprentice"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This \"American Idoler\" enjoyed another 15 minutes of fame as a contestant on \"I'm a Celebrity...Get Me Out of Here!\"",
+          "choices": [
+            "Taylor Hicks",
+            "Jordin Sparks",
+            "David Cook",
+            "Sanjaya"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Hebrew National makes a kosher beef type of this",
+    "choices": [
+      "sausage",
+      "hot dog",
+      "frank",
+      "frankfurter"
+    ],
+    "correctIndex": 2,
+    "category": "HOUSEHOLD NAMES"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-03",
+  "categories": [
+    {
+      "name": "ISRAEL",
+      "questions": [
+        {
+          "clue": "Bat Yam, or \"Daughter of the Sea\", is a suburb of this Mediterranean metropolis",
+          "choices": [
+            "Haifa",
+            "Tel Aviv",
+            "Jerusalem",
+            "Beirut"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 1961 this Israeli airline set a record for the longest nonstop commercial flight, New York to Tel Aviv",
+          "choices": [
+            "British Airways",
+            "Air France",
+            "El Al",
+            "KLM"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It takes 100 agorot to equal one of these monetary units",
+          "choices": [
+            "dinar",
+            "pound",
+            "shekel",
+            "lira"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Tiberius is the largest town on the shore of this \"sea\" the Israelis call Yam Kinneret",
+          "choices": [
+            "Sea of Galilee",
+            "Dead Sea",
+            "Caspian Sea",
+            "Red Sea"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "These 3 languages appear on Israeli coins & postage stamps",
+          "choices": [
+            "French, German & Italian",
+            "English, Hebrew & Arabic",
+            "Spanish, Portuguese & Russian",
+            "Chinese, Japanese & Korean"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE VEEP",
+      "questions": [
+        {
+          "clue": "Thomas Jefferson's first vice president, he was the grandson of famed theologian Jonathan Edwards",
+          "choices": [
+            "Aaron Burr",
+            "George Clinton",
+            "John Adams",
+            "Elbridge Gerry"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "His father was born Theodore Anagnostopoulos",
+          "choices": [
+            "Richard Nixon",
+            "Spiro Agnew",
+            "Gerald Ford",
+            "Dan Quayle"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "He was the eighth U.S. Vice President & the eighth U.S. President",
+          "choices": [
+            "John Tyler",
+            "Millard Fillmore",
+            "James Knox Polk",
+            "Martin Van Buren"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "He was Vice President of the U.S. from 1921 to 1923 before succeeding to the presidency",
+          "choices": [
+            "Hoover",
+            "Coolidge",
+            "Harding",
+            "Morse"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "As Harding's running mate in 1920, he said, \"One with the law is a majority\"",
+          "choices": [
+            "Warren Harding",
+            "Franklin Roosevelt",
+            "Herbert Hoover",
+            "(Calvin) Coolidge"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BORN & DIED",
+      "questions": [
+        {
+          "clue": "Born: 570, Mecca. Died: June 8, 632, Medina",
+          "choices": [
+            "Abram Lincoln",
+            "Genghis Khan",
+            "Muhammad",
+            "Julius Caesar"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This First Lady was born in Southampton, New York in 1929 & died in Manhattan in 1994",
+          "choices": [
+            "Eleanor Roosevelt",
+            "Jacqueline Kennedy Onassis",
+            "Pat Nixon",
+            "Barbara Bush"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Born: Oct. 2, 1869, Porbandar, India. Died: Jan. 30, 1948, New Delhi, India",
+          "choices": [
+            "Tata",
+            "Gandhi",
+            "Nehru",
+            "Tagore"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "2-time Nobel Prize winner who was born in Warsaw in 1867 & died in France in 1934",
+          "choices": [
+            "Rosalind Franklin",
+            "Lise Meitner",
+            "Marie Curie",
+            "Dorothy Hodgkin"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Act I: Born in Dublin, October 16, 1854; Final act: died November 30, 1900 in Paris",
+          "choices": [
+            "James Joyce",
+            "Samuel Beckett",
+            "Oscar Wilde",
+            "George Bernard Shaw"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1992 the first exoplanets were found orbiting one of these rotating stars that emit regular bursts of radiation",
+    "choices": [
+      "quasars",
+      "pulsations",
+      "pulsars",
+      "neutrons"
+    ],
+    "correctIndex": 2,
+    "category": "TO THE EXOPLANETS!"
+  }
+}

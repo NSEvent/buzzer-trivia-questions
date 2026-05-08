@@ -1,0 +1,207 @@
+{
+  "date": "2026-12-12",
+  "categories": [
+    {
+      "name": "THE VIETNAM WAR",
+      "questions": [
+        {
+          "clue": "A key U.S. aim was winning Vietnamese \"Hearts and\" these, the title of an Oscar-winning documentary opposing the war",
+          "choices": [
+            "Souls",
+            "Bodies",
+            "Flesh",
+            "Minds"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This 1964 resolution authorized LBJ to \"repel any armed attack against the forces of the United States\"",
+          "choices": [
+            "the Pentagon Papers",
+            "the Johnson Doctrine",
+            "the Gulf of Tonkin Resolution",
+            "the Gulf of Aden Act"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The route by which the North supplied the Viet Cong was nicknamed this, after North Vietnam's leader",
+          "choices": [
+            "the Ho Chi Minh Trail",
+            "the Dien Bien Phu Path",
+            "the Le Duan Route",
+            "the Ho Chi Minh City Road"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Under the command of this general, U.S. forces in Vietnam grew to over 500,000",
+          "choices": [
+            "William Westmoreland",
+            "Creighton Abrams",
+            "Earl Wheeler",
+            "Samuel Williamson"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Bringing a measure of healing to the nation, the Vietnam Veterans Memorial opened in this year, 7 years after the end of the war",
+          "choices": [
+            "1982",
+            "1975",
+            "1990",
+            "1984"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SITCOMEDY",
+      "questions": [
+        {
+          "clue": "A gift of a used napkin makes Sheldon Cooper of this show gasp, \"I possess the DNA of Leonard Nimoy?\"",
+          "choices": [
+            "The Big Bang Theory",
+            "Friends",
+            "Seinfeld",
+            "How I Met Your Mother"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This sitcom's Al Bundy got new glasses, looked at his family & around his house, then stomped the glasses",
+          "choices": [
+            "The Simpsons",
+            "Family Guy",
+            "King of Queens",
+            "Married... with Children"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Creator Mike Judge's own experiences as an engineer partly inspired this high-tech HBO sitcom",
+          "choices": [
+            "The IT Crowd",
+            "Mr. Robot",
+            "Silicon Valley",
+            "Halt and Catch Fire"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "When this sitcom psychiatrist said he was dating a supermodel, no one believed him & everyone thought he was going nuts",
+          "choices": [
+            "Frasier",
+            "Seinfeld",
+            "Friends",
+            "Cheers"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "As Rev. Jim on \"Taxi\", this actor plays piano flawlessly, stops & says, \"I must have had music lessons\"",
+          "choices": [
+            "Judd Hirsch",
+            "Christopher Lloyd",
+            "Danny DeVito",
+            "Marilu Henner"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FOOD CROSSWORD CLUES",
+      "questions": [
+        {
+          "clue": "Raw fish dish (5)",
+          "choices": [
+            "sushi",
+            "ceviche",
+            "sashimi",
+            "poke"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Peachy relative (9)",
+          "choices": [
+            "apricot",
+            "plumcot",
+            "quince",
+            "nectarine"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Spanish rice dish, or its pan (6)",
+          "choices": [
+            "sushi",
+            "paella",
+            "ceviche",
+            "risotto"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Favored \"sauce\" spice of India (5)",
+          "choices": [
+            "curry",
+            "basil",
+            "cumin",
+            "clove"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Crooner Crosby's fruit? (4, 6)",
+          "choices": [
+            "Bing cherry",
+            "Bing apple",
+            "Bing pear",
+            "Bing plum"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Cut of beef near the shoulder",
+    "choices": [
+      "a short cake",
+      "a short wave",
+      "a short story",
+      "a short rib"
+    ],
+    "correctIndex": 3,
+    "category": "\"SHORT\""
+  },
+  "bonusRound": {
+    "clue": "Eggplant, tomatoes, onion, green peppers, zucchini, garlic & herbs simmered in olive oil",
+    "choices": [
+      "minestrone",
+      "coq au vin",
+      "ratatouille",
+      "bouillabaisse"
+    ],
+    "correctIndex": 2,
+    "category": "WHAT'S COOKIN'?"
+  }
+}

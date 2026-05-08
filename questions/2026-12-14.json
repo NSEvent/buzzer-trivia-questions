@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-14",
+  "categories": [
+    {
+      "name": "HOMECOMING",
+      "questions": [
+        {
+          "clue": "Scouts precede the main flock of these birds in their annual arrival at San Juan Capistrano",
+          "choices": [
+            "swallows",
+            "swans",
+            "eagles",
+            "herons"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In August 2012, 19 months after she was shot, former U.S. Rep. Gabrielle Giffords returned home to this state",
+          "choices": [
+            "New Mexico",
+            "Nevada",
+            "Arizona",
+            "Texas"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "(Hi, I'm Shawn Colvin) My album \"A Few Small Repairs\" featured this Grammy-winning song about an awkward return",
+          "choices": [
+            "\"Sunny Came Home\"",
+            "\"Rainy Day Woman\"",
+            "\"Blue Sky\"",
+            "\"Steal My Kisses\""
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A Supreme Court ruling from 1841 said Africans from this ship should be free & not become Cuban slaves",
+          "choices": [
+            "the Amistad",
+            "the Titanic",
+            "the Lusitania",
+            "the Mayflower"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The Lahaina historic district on this Hawaiian island was a favorite home of kings & chiefs",
+          "choices": [
+            "Oahu",
+            "Maui",
+            "Kauai",
+            "Big Island"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MOVIE SOUNDTRACKS",
+      "questions": [
+        {
+          "clue": "Will Smith's \"Black Suits Comin' (Nod Ya Head)\" is the theme to this 2002 sequel",
+          "choices": [
+            "Spider-Man 2",
+            "The Bourne Identity",
+            "Men in Black II",
+            "Die Another Day"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The soundtrack to this 1983 yuppie reunion movie includes '60s hits like \"Ain't Too Proud to Beg\" & \"My Girl\"",
+          "choices": [
+            "The Big Chill",
+            "The Breakfast Club",
+            "St. Elmo's Fire",
+            "Say Anything"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "(I'm Wynonna.) I covered Elvis Presley's \"Burning Love\" for the soundtrack to this 2002 animated film",
+          "choices": [
+            "Monsters, Inc.",
+            "The Incredibles",
+            "Finding Nemo",
+            "Lilo & Stitch"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This song by Seal was the big hit from the \"Batman Forever\" soundtrack",
+          "choices": [
+            "Prisoner of Love",
+            "Amazing",
+            "Crazy",
+            "\"Kiss From A Rose\""
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This Celtics point guard plays the title character in \"Uncle Drew\" & performs \"Ridiculous\" on its soundtrack",
+          "choices": [
+            "Larry Bird",
+            "Kevin Garnett",
+            "Kyrie Irving",
+            "John Stockton"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ISLANDS IN THE SEA",
+      "questions": [
+        {
+          "clue": "Sicily (on all sides)",
+          "choices": [
+            "the Atlantic Ocean",
+            "the Mediterranean",
+            "the Pacific Ocean",
+            "the Indian Ocean"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Delos, Naxos & Patmos",
+          "choices": [
+            "the Adriatic",
+            "the Ionian",
+            "the Aegean",
+            "the Tyrrhenian"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Nunivak Island & the Pribilof Islands",
+          "choices": [
+            "the Arctic Ocean",
+            "the North Pacific",
+            "the Bering Sea",
+            "the Sea of Okhotsk"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Bornholm & Rugen",
+          "choices": [
+            "the Adriatic",
+            "the Aegean",
+            "the Mediterranean",
+            "the Baltic"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Bulgaria's St. Anastasia Island & Turkey's Giresun Island",
+          "choices": [
+            "the Caspian Sea",
+            "the Black Sea",
+            "the Red Sea",
+            "the Mediterranean"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"At night, dear heart, for you I pine,\" usually in groups of 4",
+    "choices": [
+      "\"Daisy Bell\"",
+      "\"Sweet Adeline\"",
+      "\"My Wild Irish Rose\"",
+      "\"The Rosary\""
+    ],
+    "correctIndex": 1,
+    "category": "GIRLS IN SONG"
+  }
+}

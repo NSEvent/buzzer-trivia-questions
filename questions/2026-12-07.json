@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-07",
+  "categories": [
+    {
+      "name": "SODA POP QUIZ",
+      "questions": [
+        {
+          "clue": "In 1952, Hyman Kirsch of Brooklyn introduced \"No-Cal\" soda, 1st soft drink w/o this sweetener",
+          "choices": [
+            "high fructose corn syrup",
+            "sugar",
+            "artificial sweetener",
+            "aspartame"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "It was originally called bib-label lithiated lemon-lime soda",
+          "choices": [
+            "Pepsi",
+            "7 Up",
+            "Sprite",
+            "Sierra Mist"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In addition to root beer, A&W also sells this flavor of soda",
+          "choices": [
+            "cola",
+            "orange soda",
+            "cream soda",
+            "grape soda"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The drink known as \"Code\" this is \"everything you love about Mountain Dew with a smooth cherry flavor\"",
+          "choices": [
+            "Blue",
+            "Green",
+            "Orange",
+            "Red"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "For many years this beverage suggested people take \"the pause that refreshes\"",
+          "choices": [
+            "Pepsi",
+            "Coca-Cola",
+            "Dr Pepper",
+            "7 Up"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"OY\"!",
+      "questions": [
+        {
+          "clue": "In 1974 George Bush was sent to China in this diplomatic capacity",
+          "choices": [
+            "envoy",
+            "ambassador",
+            "delegate",
+            "negotiator"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Used as waterspouts, these stone figures take their name from the Old French for \"throat\"",
+          "choices": [
+            "gargantuan",
+            "gargling",
+            "gargoyish",
+            "gargoyles"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "These edible bivalve mollusks can reach 12 inches across",
+          "choices": [
+            "clams",
+            "scallops",
+            "oysters",
+            "mussels"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Castle that was the birthplace of St. Ignatius, the founder of the Jesuits",
+          "choices": [
+            "Loyola",
+            "Bilbao",
+            "Madrid",
+            "Toledo"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Bronze is an important one of tin & copper",
+          "choices": [
+            "a compound",
+            "a mixture",
+            "an element",
+            "an alloy"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "UNREAL ESTATE",
+      "questions": [
+        {
+          "clue": "The most famous M.D. in Puddleby-on-Marsh, though he should have been a D.V.M.",
+          "choices": [
+            "Dr. Dolittle",
+            "Dr. Doolittle",
+            "Dr. Moreau",
+            "Dr. Strangelove"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A barbecue takes place at Twelve Oaks, the Wilkes family plantation, in chapter VI of this novel",
+          "choices": [
+            "War and Peace",
+            "Gone with the Wind",
+            "The Great Gatsby",
+            "Jane Eyre"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Where one finds the Edgar Rice Burroughs land of Pellucidar",
+          "choices": [
+            "at the Earth's core",
+            "in the center of the earth",
+            "beneath the crust",
+            "inside the planet"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "You could race down or race through this racy Erskine Caldwell novel",
+          "choices": [
+            "The Grapes of Wrath",
+            "\"Tobacco Road\"",
+            "Main Street",
+            "The Sun Also Rises"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's ruled by the Grand Duchess Gloriana XIII in \"The Mouse that Roared\"",
+          "choices": [
+            "Specter",
+            "Bourbon",
+            "Pym",
+            "Fenwick"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1998 this actor-rapper had his first No. 1 pop hit with \"Gettin' Jiggy Wit It\"",
+    "choices": [
+      "Will Smith",
+      "Will Ferrell",
+      "Ice Cube",
+      "LL Cool J"
+    ],
+    "correctIndex": 0,
+    "category": "MUSIC OF THE '90s"
+  }
+}

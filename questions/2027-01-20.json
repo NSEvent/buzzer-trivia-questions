@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-20",
+  "categories": [
+    {
+      "name": "OPERA SINGERS",
+      "questions": [
+        {
+          "clue": "This Spaniard starred in Franco Zeffirelli's film \"La Traviata\"",
+          "choices": [
+            "(Jose) Carreras",
+            "(Luciano) Pavarotti",
+            "(Mario) Del Monaco",
+            "(Placido) Domingo"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This Spanish-born singer's parents were professional zarzuela singers",
+          "choices": [
+            "Placido Domingo",
+            "Luisa Vera Domingo",
+            "Alberto Domingo",
+            "Carlos Domingo"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Grace Moore of Slabtown, Tenn. made her Metropolitan Opera debut in 1928 as Mimi in this opera",
+          "choices": [
+            "La Gioconda",
+            "Tosca",
+            "La boh\u00e8me",
+            "Madama Butterfly"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Last name of the Danish-American tenor Lauritz, or one of the magi",
+          "choices": [
+            "Caspar",
+            "Melchior",
+            "Balthasar",
+            "Samson"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This great Russian basso who died in 1938 was renowned for his interpretation of Boris Godunov",
+          "choices": [
+            "Feodor Shalyapin",
+            "Leonid Sobinov",
+            "Feodor Chaliapin",
+            "Ivan Yershov"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ACTORS & ACTRESSES",
+      "questions": [
+        {
+          "clue": "Before he played \"Dirty Harry\", he made a name for himself as the \"Man With No Name\" in Sergio Leone westerns",
+          "choices": [
+            "Charles Bronson",
+            "Lee Marvin",
+            "Clint Eastwood",
+            "James Coburn"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "He parodied his own role as \"The Godfather\" in the movie \"The Freshman\" with Matthew Broderick",
+          "choices": [
+            "Marlon Brando",
+            "Robert De Niro",
+            "Al Pacino",
+            "James Caan"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "He was a trapeze artist & a model before he played the Lone Ranger on TV",
+          "choices": [
+            "Jay Silverheels",
+            "Klinton Spilsbury",
+            "Clayton Moore",
+            "Lorne Greene"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This \"Sabrina\" star has a production compay called Heartbreak Films",
+          "choices": [
+            "Melissa Gilbert",
+            "Melissa Sue Anderson",
+            "Melissa Joan Hart",
+            "Melissa McCarthy"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This \"Gandhi\" star is the son of an Indian physician who emigrated to England from South Africa",
+          "choices": [
+            "Ben Kingsley",
+            "Ben Affleck",
+            "Ben Stiller",
+            "Benicio del Toro"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHICH U.S. CABINET DEPT.?",
+      "questions": [
+        {
+          "clue": "The Minerals Management Service",
+          "choices": [
+            "the Department of the Interior",
+            "the Department of Agriculture",
+            "the Department of Commerce",
+            "the Department of Defense"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Office of Civilian Radioactive Waste Management",
+          "choices": [
+            "the Department of the Interior",
+            "the Department of Commerce",
+            "the Department of Energy",
+            "the Department of Agriculture"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The Bureau of Industry & Security",
+          "choices": [
+            "Commerce",
+            "Treasury",
+            "Energy",
+            "Agriculture"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The International Boundary & Water Commission",
+          "choices": [
+            "the Interior Department",
+            "the State Department",
+            "the Defense Department",
+            "the Justice Department"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Federal Motor Carrier Safety Administration",
+          "choices": [
+            "the Department of Transportation",
+            "the Department of Energy",
+            "the Department of Housing and Urban Development",
+            "the Department of Homeland Security"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Not just a queen, but an archduchess, & and empress, she was the mother of another queen\u2014Marie Antoinette",
+    "choices": [
+      "Marie Antoinette",
+      "Catherine the Great",
+      "Elizabeth I",
+      "Maria Theresa"
+    ],
+    "correctIndex": 3,
+    "category": "QUEENS"
+  }
+}

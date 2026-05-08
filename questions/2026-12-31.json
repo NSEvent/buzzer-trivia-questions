@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-31",
+  "categories": [
+    {
+      "name": "CONTRONYMS",
+      "questions": [
+        {
+          "clue": "It's right to say it means both \"went away\" & \"remaining behind\"",
+          "choices": [
+            "right",
+            "left",
+            "gone",
+            "staying"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A solid fruit core, or a cavity in the ground",
+          "choices": [
+            "a hole",
+            "a shell",
+            "a seed",
+            "a pit"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "An advantage in golf or a disadvantage through lack",
+          "choices": [
+            "a bonus",
+            "a penalty",
+            "a benefit",
+            "a handicap"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "It's curtains for this \"sketchy\" word that can mean both to open & to shut",
+          "choices": [
+            "paint",
+            "write",
+            "erase",
+            "draw"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Used of a fortress, it means no attacker can get in; used of a female's egg, it means something can get in",
+          "choices": [
+            "invulnerable",
+            "impregnable",
+            "impenetrable",
+            "impervious"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HORSING AROUND",
+      "questions": [
+        {
+          "clue": "To Indians an iron horse was a train; to baseball fans the Iron Horse was this Yankee great",
+          "choices": [
+            "Joe DiMaggio",
+            "Babe Ruth",
+            "Mickey Mantle",
+            "Lou Gehrig"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In Act One of Berlioz' opera \"Les Troyens\", this object is dragged inside a city's walls",
+          "choices": [
+            "the Trojan Wolf",
+            "the Greek Horse",
+            "the Roman Stallion",
+            "the Trojan Horse"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "At the 2000 Olympics, the German team won the gold in this equestrian event; the U.S. team came in third",
+          "choices": [
+            "eventing",
+            "jumping",
+            "show jumping",
+            "dressage"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "(Sarah of the Clue Crew) This can be the circumference of the horse's chest, or the band I'm making nice & tight to keep the saddle in place",
+          "choices": [
+            "halter",
+            "girth",
+            "rein",
+            "saddle"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "One of Europe's oldest breeds, the Friesian horse originated in this country",
+          "choices": [
+            "the Netherlands",
+            "Belgium",
+            "Germany",
+            "France"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE NORTH PACIFIC",
+      "questions": [
+        {
+          "clue": "In 1849 this Canadian island was made a British colony; 17 years later, it became part of British Columbia",
+          "choices": [
+            "Prince Edward Island",
+            "Vancouver (Island)",
+            "Sakhalin",
+            "Hokkaido"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "It's the divided peninsula that divides the Yellow Sea from the Sea of Japan",
+          "choices": [
+            "Scandinavia",
+            "Indochina",
+            "Korea",
+            "Malaysia"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Sail strait south through the Bering Strait, & you'll hit this state's St. Lawrence Island",
+          "choices": [
+            "Hawaii",
+            "Washington",
+            "Oregon",
+            "Alaska"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Between 1946 & 1958, 23 nuclear tests were conducted in this tiny atoll in the Marshall Islands",
+          "choices": [
+            "Enewetak Atoll",
+            "Bikini Atoll",
+            "Mururoa Atoll",
+            "Fukui Atoll"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "At over 36,000 feet, it's the deepest spot in the North Pacific, or anywhere else on Earth",
+          "choices": [
+            "the Marianas Trench",
+            "the Java Trench",
+            "the Puerto Rico Trench",
+            "the Kuril Trench"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "She took over creative control of her family's design house in 1997, after her brother Gianni's death",
+    "choices": [
+      "Donatella Versace",
+      "Valentino Garavani",
+      "Miuccia Prada",
+      "Vivienne Westwood"
+    ],
+    "correctIndex": 0,
+    "category": "DESIGNERS"
+  }
+}

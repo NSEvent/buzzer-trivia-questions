@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-30",
+  "categories": [
+    {
+      "name": "OH, HELL!",
+      "questions": [
+        {
+          "clue": "This Civil War general didn't just say that war is \"hell\", he said it was \"all hell\"",
+          "choices": [
+            "Ulysses S. Grant",
+            "William T. Sherman",
+            "Philip Sheridan",
+            "George McClellan"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Decorated WWII hero who titled his autobiography \"To Hell and Back\"",
+          "choices": [
+            "John Basilone",
+            "Audie Murphy",
+            "Audie Stickland",
+            "Earl Dowell"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In Latin, his name means \"light bearer\"; please allow Mick Jagger to introduce him in \"Sympathy For The Devil\"",
+          "choices": [
+            "Beelzebub",
+            "Lucifer",
+            "Mephistopheles",
+            "Lilith"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In this 1944 Sartre play, hell is represented by a gaudy Second Empire salon",
+          "choices": [
+            "No Exit",
+            "No Way Out",
+            "No Place to Go",
+            "No End in Sight"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It's the even worse Hell below Hades where Zeus confined the Titans",
+          "choices": [
+            "Elysium",
+            "Limbo",
+            "Sheol",
+            "Tartarus"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BRUCE SPRINGSTEEN",
+      "questions": [
+        {
+          "clue": "In July of 1984 this Boss album began a 7-week stay atop the charts; it stayed on the survey for 139 weeks",
+          "choices": [
+            "Born in the U.S.A.",
+            "The River",
+            "Darkness on the Edge of Town",
+            "The Ghost of Tom Joad"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "On August 11, 1989 Bruce joined this noted drummer onstage for 4 songs, including \"With A Little Help From My Friends\"",
+          "choices": [
+            "Ringo Starr",
+            "Charlie Watts",
+            "Mick Fleetwood",
+            "Phil Collins"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Bruce donned some old duds to sing \"Whip My Hair\" with \"Neil Young\" (actually this TV host, doing a great impression)",
+          "choices": [
+            "Seth Meyers",
+            "Stephen Colbert",
+            "Conan O'Brien",
+            "Jimmy Fallon"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The title track on this Springsteen album named for a state tells of a mass-murder spree by Charlie Starkweather",
+          "choices": [
+            "Dakota",
+            "Nebraska",
+            "Wyoming",
+            "Montana"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The 2006 album \"We Shall Overcome\" is a tribute to this Weavers co-founder & folk legend",
+          "choices": [
+            "Woody Guthrie",
+            "Peggy Seeger",
+            "Lee Hays",
+            "Pete Seeger"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"HEART\"Y PHRASES",
+      "questions": [
+        {
+          "clue": "In the 1938 movie musical \"Listen, Darling\", Judy Garland sang, \"Zing! Went\" these",
+          "choices": [
+            "\"The Strings Of My Mind\"",
+            "\"The Strings Of My Soul\"",
+            "\"The Strings Of My Heart\"",
+            "\"The Strings Of My Dreams\""
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Band formed by Joan Jett in 1980",
+          "choices": [
+            "The Black Keys",
+            "The Heartbreakers",
+            "The Black Angels",
+            "The Blackhearts"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In this 1986 film, Clint Eastwood plays a Marine sergeant who prepares young recruits for the Grenada invasion",
+          "choices": [
+            "Platoon",
+            "Heartbreak Ridge",
+            "Full Metal Jacket",
+            "Apocalypse Now"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Jesus told his disciples, \"Blessed are\" these, \"for they shall see God\"",
+          "choices": [
+            "the meek",
+            "the merciful",
+            "the pure of heart",
+            "the peacemakers"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Eddie Albert received an Oscar nomination for his role in this 1972 film, written by Neil Simon",
+          "choices": [
+            "The Sunshine Boys",
+            "The Odd Couple",
+            "The Heartbreak Kid",
+            "The Out-of-Towners"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Great American athlete Jim Thorpe is buried in the town named for him in this state",
+    "choices": [
+      "Oklahoma",
+      "New York",
+      "Pennsylvania",
+      "California"
+    ],
+    "correctIndex": 2,
+    "category": "U.S. STATES"
+  }
+}

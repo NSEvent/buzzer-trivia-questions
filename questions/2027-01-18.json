@@ -1,0 +1,196 @@
+{
+  "date": "2027-01-18",
+  "categories": [
+    {
+      "name": "PROSPERO",
+      "questions": [
+        {
+          "clue": "In act IV, Prospero tells us \"We are such stuff as\" these \"are made on\"",
+          "choices": [
+            "visions",
+            "nightmares",
+            "dreams",
+            "illusions"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "As a magician Prospero was lucky to have this airy sprite as a lovely assistant",
+          "choices": [
+            "Ariel",
+            "Ferdinand",
+            "Aubrey",
+            "Zephyrus"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This daughter of Prospero was but 3 years old when she was set adrift in a boat with her father",
+          "choices": [
+            "Juno",
+            "Claribel",
+            "Desdemona",
+            "Miranda"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Not everyone liked Prospero; Trinculo, Stephano & this island native plotted to kill him",
+          "choices": [
+            "Sycorax",
+            "Sebastian",
+            "Caliban",
+            "Trinculo"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Prospero was once the duke of this Italian city, but his brother did him dirty",
+          "choices": [
+            "Venice",
+            "Naples",
+            "Rome",
+            "Milan"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "STARTS & ENDS WITH \"L\"",
+      "questions": [
+        {
+          "clue": "As a verb it's to help a baby go to sleep; as a noun, it's a pause of any kind",
+          "choices": [
+            "level",
+            "lull",
+            "loop",
+            "lamb"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The majority of our household trash ends up in one of these",
+          "choices": [
+            "a locker",
+            "a laptop",
+            "a lighthouse",
+            "a landfill"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A recipe in \"200 Years of New Orleans Cooking\" says to be this \"with the seasoning\"",
+          "choices": [
+            "lazy",
+            "loud",
+            "liberal",
+            "lean"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Of, at or toward the side",
+          "choices": [
+            "lateral",
+            "lunar",
+            "legal",
+            "local"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This chemical is used at crime scenes to reveal hidden traces of blood",
+          "choices": [
+            "lithium",
+            "linseed",
+            "luminol",
+            "lactic"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FILM BIOGRAPHIES",
+      "questions": [
+        {
+          "clue": "\"Lust for Life\", starring Kirk Douglas, was based on Irving Stone's book about this Dutch artist",
+          "choices": [
+            "Vincent Van Gogh",
+            "Salvador Dali",
+            "Pablo Picasso",
+            "Edvard Munch"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The 1993 film \"Dragon\" recounts the brief & tragic life of this martial artist",
+          "choices": [
+            "Jackie Chan",
+            "Jet Li",
+            "Mickael Terrazas",
+            "Bruce Lee"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This 1950s director of some of the worst films ever was the subject of a 1994 film",
+          "choices": [
+            "Ed Wood",
+            "John Waters",
+            "Tim Burton",
+            "Mel Brooks"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Candice Bergen must have had the time of her \"Life\" playing this famous photographer in \"Gandhi\"",
+          "choices": [
+            "Dorothea Lange",
+            "Annie Leibovitz",
+            "Helena Rubinstein",
+            "Margaret Bourke-White"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Among the film portrayals of Beethoven are Ewald Balser's in 1949's \"Eroica\" & Gary Oldman's in this 1994 film",
+          "choices": [
+            "Amadeus",
+            "Immortal Memory",
+            "The Beethoven Enigma",
+            "Immortal Beloved"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "On many rabbits these can rotate 270 degrees, presumably to get a clearer TV picture",
+    "choices": [
+      "eyes",
+      "tails",
+      "ears",
+      "paws"
+    ],
+    "correctIndex": 2,
+    "category": "RABBIT"
+  }
+}

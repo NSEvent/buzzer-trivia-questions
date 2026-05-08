@@ -1,0 +1,196 @@
+{
+  "date": "2026-12-25",
+  "categories": [
+    {
+      "name": "MIX -OLOGY",
+      "questions": [
+        {
+          "clue": "It's for the birds: THORNY IGLOO",
+          "choices": [
+            "ornithologist",
+            "ornithological",
+            "ornithomancy",
+            "ornithology"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It's about time: OOH GLORY",
+          "choices": [
+            "chronology",
+            "horology",
+            "chronological",
+            "chronometer"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Let's get physical or cultural: OOH ANGRY PLOT",
+          "choices": [
+            "anthropology",
+            "archaeology",
+            "archaeological",
+            "archaeologist"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Time to bone up: GOOEY SLOT",
+          "choices": [
+            "osteopathic",
+            "osteopath",
+            "osteology",
+            "osteotomy"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Go fish: HOLY GO ITCHY",
+          "choices": [
+            "ichnography",
+            "ichthyology",
+            "ichnosaurus",
+            "ichor"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RIP VAN WINKLE",
+      "questions": [
+        {
+          "clue": "The tale begins, \"Whoever has made a voyage up\" this river \"must remember the Kaatskill Mountains\"",
+          "choices": [
+            "Hudson Bay",
+            "Hudson Strait",
+            "Hudson Line",
+            "Hudson River"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Rip's tale appears in \"The Sketch Book\" written by this man",
+          "choices": [
+            "James Fenimore Cooper",
+            "William Cullen Bryant",
+            "John Greenleaf Whittier",
+            "Washington Irving"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This character is said to be \"as much henpecked as his master\"",
+          "choices": [
+            "Rip's cat",
+            "Rip's horse",
+            "Rip's dog",
+            "Rip's neighbor"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Washington Irving admitted that when he wrote the story, he'd never been to these mountains, the tale's setting",
+          "choices": [
+            "the Adirondacks",
+            "the Poconos",
+            "the Appalachians",
+            "the Catskills"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Rip was a descendant of the Van Winkles who served under this one-legged governor of New Netherland",
+          "choices": [
+            "William Penn",
+            "John Jacob Astor",
+            "Aaron Burr",
+            "(Peter) Stuyvesant"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ACTORS & ROLE",
+      "questions": [
+        {
+          "clue": "Basil Rathbone, Raymond Massey & John Barrymore",
+          "choices": [
+            "Sherlock Holmes",
+            "Dracula",
+            "Frankenstein",
+            "The Mummy"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "C. Laughton, T. Howard & A. Hopkins were all adrift playing this part",
+          "choices": [
+            "Captain Bligh",
+            "Captain Ahab",
+            "Long John Silver",
+            "Horatio Hornblower"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In 1994 Rosie O'Donnell was cast in this role in the stage version of \"Grease\"; in 1997 Lucy Lawless was",
+          "choices": [
+            "Patty",
+            "Rizzo",
+            "Kenickie",
+            "Doody"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Humphrey Bogart, James Garner & Robert Mitchum",
+          "choices": [
+            "Sam Spade",
+            "Philip Marlowe",
+            "Philanda Steele",
+            "Detective Mulligan"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "British secret agent played by Barry Nelson, George Lazenby, Roger Moore, & Sean Connery",
+          "choices": [
+            "Austin Powers",
+            "James Bond",
+            "Harry Palmer",
+            "George Smiley"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Zora Neale Hurston, Toni Morrison & Ta-Nehisi Coates all attended this university in Washington, D.C.",
+    "choices": [
+      "Georgetown",
+      "GWU",
+      "Howard",
+      "American"
+    ],
+    "correctIndex": 2,
+    "category": "AFRICAN-AMERICAN AUTHORS"
+  }
+}
