@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-26",
+  "categories": [
+    {
+      "name": "THE MUSICAL '80s",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This former Eagle won a Grammy for best male vocal performance for \"The Boys of Summer\\\"",
+          "choices": [
+            "James Taylor",
+            "Lionel Richie",
+            "Don Henley",
+            "Kenny Rogers"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Paul McCartney had No. 1 duets in the '80s with Michael Jackson on \"Say Say Say\" & this man on \"Ebony And Ivory\\\"",
+          "choices": [
+            "Billy Joel",
+            "Paul Simon",
+            "Stevie Wonder",
+            "Barry Manilow"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Bette Midler's 1989 hit \"Wind Beneath My Wings\" was featured in this film co-starring Barbara Hershey",
+          "choices": [
+            "Steel Magnolias",
+            "Terms of Endearment",
+            "Beaches",
+            "Prizzi's Honor"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "This 1984 Lee Greenwood anthem became a favorite of Ronald Reagan",
+          "choices": [
+            "\\\"God Bless The USA\\\"",
+            "God Bless America",
+            "Born in the U.S.A.",
+            "America the Beautiful"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Freddie Mercury wrote this group's \"Crazy Little Thing Called Love\" in the bathtub at the Munich Hilton",
+          "choices": [
+            "Queen",
+            "The Rolling Stones",
+            "Led Zeppelin",
+            "The Police"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "VICTORIA'S SECRETS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "We can't forgive our son Edward for his follies that helped kill this man, our husband",
+          "choices": [
+            "King George IV",
+            "Prince Philip",
+            "Prince Albert",
+            "King Henry VIII"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "When this prime minister kisses our hand, we don't care about his Jewish origins",
+          "choices": [
+            "William Gladstone",
+            "Sir Robert Peel",
+            "Benjamin Disraeli",
+            "Lord Palmerston"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Victoria took her first ride in one of these on June 13, 1842",
+          "choices": [
+            "a train",
+            "a steamship",
+            "a horse-drawn carriage",
+            "a hot air balloon"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Queen Victoria's son Prince Arthur served as governor-general of this country from 1911 to 1916",
+          "choices": [
+            "Australia",
+            "New Zealand",
+            "South Africa",
+            "Canada"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "When this London residence is freezing, we'd like to return it to the dukes for whom it's named",
+          "choices": [
+            "Buckingham Palace",
+            "Kensington Palace",
+            "St James's Palace",
+            "Marlborough House"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "EGYPT",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Egypt became a republic in 1953 after army officers forced this king to give up the throne",
+          "choices": [
+            "Fuad I",
+            "Naguib",
+            "Nasser",
+            "Farouk"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "It's said the Mosque of Ibn Tulun has the only spiral one of these in the world",
+          "choices": [
+            "a dome",
+            "a courtyard",
+            "a minaret",
+            "a mihrab"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "In 1952 a group of army officers overthrew King Farouk & by 1954 this man had taken over the Egyptian govt.",
+          "choices": [
+            "Sadat",
+            "Mubarak",
+            "Nasser",
+            "Naguib"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "This body of water separates Egypt from Saudi Arabia",
+          "choices": [
+            "The Red Sea",
+            "the Mediterranean Sea",
+            "the Persian Gulf",
+            "the Nile River"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "The nation's largest religious minority is this monophysite Christian sect",
+          "choices": [
+            "the Coptics",
+            "the Maronites",
+            "the Druze",
+            "the Greek Orthodox"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "TV SISTERS",
+    "clue": "Laurie Metcalf plays Jackie Harris, the sister of this title character",
+    "choices": [
+      "Roseanne",
+      "Becker",
+      "Frasier",
+      "Seinfeld"
+    ],
+    "correctIndex": 0
+  }
+}

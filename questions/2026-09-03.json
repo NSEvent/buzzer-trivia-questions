@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-03",
+  "categories": [
+    {
+      "name": "SUFFIXES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "We love this suffix that means \"lover of\", as in audio- or anglo-",
+          "choices": [
+            "-phobe",
+            "-mania",
+            "-buff",
+            "-phile"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Add it to \"king\" & you get what the king rules; add it to \"earl\" & you get the rank of earl",
+          "choices": [
+            "-hood",
+            "-ship",
+            "-dom",
+            "-ness"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Thinking of the suffix of several Asian countries will help you with the name of this tribal area where the Waziris live",
+          "choices": [
+            "Balochistan",
+            "Kazakhstan",
+            "Turkestan",
+            "Waziristan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "By itself, it's a geographic line; as a suffix, it means turning toward something",
+          "choices": [
+            "-torque",
+            "-tropic",
+            "-topic",
+            "-trope"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "The unusual -sider goes at the end of this big city to make a word for Hugh Jackman or Toni Collette",
+          "choices": [
+            "New Yorkers",
+            "Sydneysiders",
+            "Los Angelicians",
+            "Chicagoans"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "NETWORKING",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"Suicide Missions\", \"Weapons at War\", \"Modern Marvels\\\"",
+          "choices": [
+            "the History Channel",
+            "the Travel Channel",
+            "the National Geographic Channel",
+            "the Smithsonian Channel"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "\\\"Man vs. Wild\\\"",
+          "choices": [
+            "the Discovery Channel",
+            "the History Channel",
+            "the Nat Geo Wild Channel",
+            "the Outdoor Channel"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "\\\"I Love New York\", \"The Best Week Ever\", \"Scott Baio is 46... and Pregnant\\\"",
+          "choices": [
+            "MTV",
+            "E! Entertainment",
+            "Bravo",
+            "VH1"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "\\\"Lingo\", \"Russian Roulette\", \"I've Got a Secret\\\"",
+          "choices": [
+            "Game Show Network",
+            "USA Network",
+            "TBS",
+            "MTV"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"The Closer\\\"",
+          "choices": [
+            "USA Network",
+            "AMC",
+            "FX",
+            "TNT"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "ALL ABOUT PRESIDENTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "His widow Martha once gave the O.K. for him to be re-entombed in the U.S. Capitol; a nephew later nixed the idea",
+          "choices": [
+            "Washington",
+            "Adams",
+            "Jefferson",
+            "Lincoln"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "He met with Leonid Brezhnev on the first ever presidential visit to Moscow",
+          "choices": [
+            "Kennedy",
+            "Nixon",
+            "Reagan",
+            "Ford"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "After serving as U.S. president, Millard Fillmore became president of the historical society in this upstate N.Y. city",
+          "choices": [
+            "Rochester",
+            "Syracuse",
+            "Buffalo",
+            "Albany"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "His parents gave him a sailboat for his 15th birthday; he loved sailing it from the family compound on Cape Cod",
+          "choices": [
+            "Roosevelt",
+            "Taft",
+            "Eisenhower",
+            "Kennedy"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "I might worry about hanging around with him\u2014he was nicknamed the \"Hangman of Buffalo\\\"",
+          "choices": [
+            "Benjamin Harrison",
+            "Chester A. Arthur",
+            "Grover Cleveland",
+            "Theodore Roosevelt"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THE SMITHS",
+    "clue": "Rhodesian politician who declared independence from Great Britain",
+    "choices": [
+      "Hastings Banda",
+      "Ian Smith",
+      "Kenneth Kaunda",
+      "Jomo Kenyatta"
+    ],
+    "correctIndex": 1
+  }
+}

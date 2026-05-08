@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "By the time he died in 1992, his \"Any Car, Any Color\" offer had risen from $29.95 to $119.95",
           "choices": [
-            "Earl Scheib",
             "Maaco",
+            "Earl Campbell",
             "Earl Scheib",
-            "Earl Muntz"
+            "Earl Weaver"
           ],
           "correctIndex": 2
         },

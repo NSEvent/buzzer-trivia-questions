@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-07",
+  "categories": [
+    {
+      "name": "LET'S ROCK",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This stone came before \"lock\" in the name of an olden type of musket",
+          "choices": [
+            "obsidian",
+            "granite",
+            "flint",
+            "chert"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "In 1964 Indiana governor Matthew Welsh declared this Kingsmen song to be \"pornographic\\\"",
+          "choices": [
+            "\"Summertime Blues\"",
+            "\\\"Louie Louie\\\"",
+            "\"I'm A Man\"",
+            "\"Surfin' USA\""
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "\\\"Hello, I Love You\" was the first track on \"Waiting for the Sun\", this group's only No. 1 album",
+          "choices": [
+            "the Doors",
+            "the Beach Boys",
+            "the Byrds",
+            "the Animals"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Formed from sea creatures' shells, the limestone that makes up the White Cliffs of Dover is this one of the 3 classes of rock",
+          "choices": [
+            "igneous",
+            "metamorphic",
+            "sedimentary",
+            "volcanic"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Black jasper is used as this type of \"stone\": rub a gold alloy on it & the streak color tells you the gold content",
+          "choices": [
+            "lodestone",
+            "whetstone",
+            "a touchstone",
+            "slate"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "EDUCATORS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "I'd like to thank this school founded in the 380s B.C. that employed Aristotle, who left after not getting a big promotion",
+          "choices": [
+            "Lyceum",
+            "Stoa",
+            "Gymnasium",
+            "the Academy"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Bolivian \u00e9migr\u00e9 Jaime Escalante's dedication to teaching calculus to \"unteachable\" L.A. kids was featured in this 1988 film",
+          "choices": [
+            "Stand and Deliver",
+            "Dead Poets Society",
+            "Lean on Me",
+            "The Paper Chase"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Last name of Carl, the first computer science graduate at Michigan & a teacher & mentor at Michigan State; he had a famous son, Larry",
+          "choices": [
+            "Gates",
+            "Page",
+            "Jobs",
+            "Zuckerberg"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This former Secretary of Education chaired the National Endowment for the Humanities 1981-85",
+          "choices": [
+            "(William) Bennett",
+            "Richard Riley",
+            "Arne Duncan",
+            "Margaret Spellings"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Between 1836 & 1857, Truman & Smith Publishers of Cincinnati issued 6 of his \"Eclectic Readers\\\"",
+          "choices": [
+            "Noah Webster",
+            "Horace Mann",
+            "McGuffey",
+            "John Dewey"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "FANTASTIC TV",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "He hosts the syndicated horror series \"Freddy's Nightmares\\\"",
+          "choices": [
+            "Jason Voorhees",
+            "Ghostface",
+            "Pennywise",
+            "Freddy Krueger"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Though named for a series of horror movies, this current TV show has nothing to do with the films",
+          "choices": [
+            "Tales from the Crypt",
+            "American Horror Story",
+            "Friday the 13th",
+            "Wednesday"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "She played Wonder Woman's sister before earning an Oscar nomination for \"Terms of Endearment\\\"",
+          "choices": [
+            "Jane Seymour",
+            "Cybill Shepherd",
+            "Valerie Bertinelli",
+            "Debra Winger"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "According to one opening for this series, \"There's a 6th dimension beyond that which is known to man\\\"",
+          "choices": [
+            "The Twilight Zone",
+            "The Outer Limits",
+            "Fringe",
+            "Stranger Things"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Though this FOX show based on a 1988 movie about refugees from another planet died, the comic book lives on",
+          "choices": [
+            "Babylon 5",
+            "Farscape",
+            "Alien Nation",
+            "Stargate SG-1"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "HEALTH & MEDICINE",
+    "clue": "Extreme cold can bring on hypothermia & this condition, when areas of skin & underlying tissue freeze",
+    "choices": [
+      "chilblains",
+      "trench foot",
+      "frostnip",
+      "frostbite"
+    ],
+    "correctIndex": 3
+  }
+}

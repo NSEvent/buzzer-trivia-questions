@@ -99,12 +99,12 @@
         },
         {
           "value": 800,
-          "clue": "Woodrow Wilson lived to see this organization grow out of the last of his 14 Points",
+          "clue": "The E that's \"packaged\" in this organization's acronym used to stand for Europe; now it stands for everywhere",
           "choices": [
-            "The League of Nations",
-            "The United Nations",
-            "The International Labor Organization",
-            "The World Health Organization"
+            "C.A.R.E.",
+            "U.N.I.C.E.F.",
+            "O.X.F.A.M.",
+            "M.E.D.E.C.I.N.S."
           ],
           "correctIndex": 0
         },

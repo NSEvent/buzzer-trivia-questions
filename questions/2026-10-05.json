@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-05",
+  "categories": [
+    {
+      "name": "HISTORIC NAMES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Thomas Paine's remains were exhumed in New York for reburial in this, his native country, but were lost",
+          "choices": [
+            "England",
+            "France",
+            "Ireland",
+            "Scotland"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "While Margaret Thatcher is Britain's \"Iron Lady\", he was Germany's \"Iron Chancellor\\\"",
+          "choices": [
+            "Metternich",
+            "Wilhelm II",
+            "Otto von Moltke",
+            "Bismarck"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Before Little Bighorn, this Sioux leader had a vision that all his enemies would be delivered into his hands",
+          "choices": [
+            "Sitting Bull",
+            "Crazy Horse",
+            "Tecumseh",
+            "Red Cloud"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Although Catherine of Aragon had several children with Henry VIII, only this daughter survived infancy",
+          "choices": [
+            "Elizabeth I",
+            "Anne Boleyn",
+            "Mary Tudor",
+            "Jane Seymour"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Frederick Douglass was among attendees at the 1848 Convention for Women's Rights at this New York site",
+          "choices": [
+            "Fulton",
+            "Cazenovia",
+            "Rochester",
+            "Seneca Falls"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "BRITISH ACTRESSES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "She beat the likes of Bette Davis & Katharine Hepburn for the coveted role of southern belle Scarlett O'Hara",
+          "choices": [
+            "Patricia Roc",
+            "Celia Johnson",
+            "Margaret Rutherford",
+            "Vivien Leigh"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "She played Elizabeth Swann in the \"Pirates of the Caribbean\" movies",
+          "choices": [
+            "Keira Knightley",
+            "Romola Garai",
+            "Carey Mulligan",
+            "Elizabeth Debicki"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Helena Bonham Carter used a Yank accent to play this man's wife in \"Mighty Aphrodite\\\"",
+          "choices": [
+            "Woody Allen",
+            "Martin Scorsese",
+            "Robert De Niro",
+            "Sidney Lumet"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Olivia Colman of TV's \"Broadchurch\" & \"The Crown\" won an Oscar for her portrayal of Queen Anne in this 2018 film",
+          "choices": [
+            "The King's Speech",
+            "The Favourite",
+            "The Danish Girl",
+            "Lady Macbeth"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Character actress Margaret Rutherford was known in later life for playing this sleuth in several films of the 1960s",
+          "choices": [
+            "Hercule Poirot",
+            "Father Brown",
+            "Sherlock Holmes",
+            "Miss Marple"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "WELCOME TO MY COUNTRY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The locals are helpful in this South American country, 2,600 miles long but only 265 wide at its widest point",
+          "choices": [
+            "Chile",
+            "Peru",
+            "Bolivia",
+            "Argentina"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Augusto Cesar Sandino International",
+          "choices": [
+            "Panama",
+            "Costa Rica",
+            "Nicaragua",
+            "El Salvador"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Make new friends in this country whose Jutland peninsula shares a 42-mile border with Germany",
+          "choices": [
+            "Norway",
+            "Denmark",
+            "Sweden",
+            "Finland"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "In 1639 a Lamaist monastery was built on the site of what is now Ulaanbaatar in this country; feel the peace",
+          "choices": [
+            "Kazakhstan",
+            "Russia",
+            "Mongolia",
+            "China"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Feel welcome but be cautious in this country that has Iran on its western border & India on its eastern one",
+          "choices": [
+            "Afghanistan",
+            "Bangladesh",
+            "Pakistan",
+            "Myanmar"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "SUBTITLES",
+    "clue": "Haley: \"The Saga of an American Family\\\"",
+    "choices": [
+      "Roots",
+      "Gone with the Wind",
+      "The Color Purple",
+      "The Awakening Land"
+    ],
+    "correctIndex": 0
+  }
+}

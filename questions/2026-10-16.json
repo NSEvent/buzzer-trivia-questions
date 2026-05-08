@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-16",
+  "categories": [
+    {
+      "name": "MASS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Mass is one of the Catholic church's 7 of these",
+          "choices": [
+            "blessings",
+            "sacraments",
+            "ordinances",
+            "virtues"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "During offertory, they're the usual 2 things offered to God by the celebrant",
+          "choices": [
+            "bread & wine",
+            "water & oil",
+            "milk & honey",
+            "incense & thurible"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Either the Nicene or Apostles' one of these texts is recited",
+          "choices": [
+            "the Creed",
+            "psalm",
+            "canticle",
+            "benediction"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "The hymn \"Glory to God in the Highest\" also has this Latin name",
+          "choices": [
+            "\\\"Gloria in excelsis\\\"",
+            "Ave Maria",
+            "Te Deum",
+            "Magnificat"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Mass is obligatory on December 8, the feast of this doctrine of Mary's purity",
+          "choices": [
+            "Assumption of Mary",
+            "Immaculate Conception",
+            "Immaculate Heart",
+            "Perpetual Virginity"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "MOVIE ROLES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In the movie \"M*A*S*H\", Robert Duvall played this priggish doctor; on TV it was Larry Linville",
+          "choices": [
+            "Major Winchester",
+            "Major Frank Burns",
+            "B.J. Hunnicutt",
+            "Hawkeye Pierce"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "She was married to Kenneth Branagh when they played sparring lovers in 1993's \"Much Ado About Nothing\\\"",
+          "choices": [
+            "Emma Thompson",
+            "Helena Bonham Carter",
+            "Miranda Richardson",
+            "Judi Dench"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "2009: Public enemy John Dillinger",
+          "choices": [
+            "Brad Pitt",
+            "Leonardo DiCaprio",
+            "Johnny Depp",
+            "Russell Crowe"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Private dick Steve Martin interacts with clips from '40s noir films in this 1982 crime comedy",
+          "choices": [
+            "The Big Sleep",
+            "Dead Men Don't Wear Plaid",
+            "Chinatown",
+            "Blade Runner"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "As Bela Lugosi, Martin Landau wrestled a fake octopus in this 1994 film biography",
+          "choices": [
+            "Raging Bull",
+            "Amadeus",
+            "Ed Wood",
+            "The Last Emperor"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "\\\"HOT\" STUFF",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Tomatoes are frequently grown in one of these where the temperature can be controlled",
+          "choices": [
+            "a greenhouse",
+            "a conservatory",
+            "a hothouse",
+            "a solarium"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "During an annual fiesta in October, you'll see hundreds of these in the skies over Albuquerque",
+          "choices": [
+            "hot air balloons",
+            "paper lanterns",
+            "giant kites",
+            "parachutes"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Launched by Wired magazine in 1996, this early search engine was later acquired by Lycos",
+          "choices": [
+            "AltaVista",
+            "WebCrawler",
+            "HotBot",
+            "InfoSeek"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "On a cold day warm up at Panda Express with a bowl of this spicy & vinegary soup",
+          "choices": [
+            "tom yum soup",
+            "wonton soup",
+            "hot & sour soup",
+            "egg drop soup"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Charlie Sheen played fighter pilot Topper Harley in this comedy spoof & its sequel \"Part Deux\\\"",
+          "choices": [
+            "Hot Shots",
+            "Top Gun",
+            "Hot Tub Time Machine",
+            "Hot Rod"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "TV SHOWS BY FAMILY",
+    "clue": "A bunch of Bravermans, including Adam, Sarah & Crosby",
+    "choices": [
+      "Parenthood",
+      "The Goldbergs",
+      "This Is Us",
+      "The Middle"
+    ],
+    "correctIndex": 0
+  }
+}

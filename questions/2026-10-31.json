@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-31",
+  "categories": [
+    {
+      "name": "INSTA-GRAHAM",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The Martha Graham School of Contemporary this 5-letter art form is found in New York City",
+          "choices": [
+            "music",
+            "opera",
+            "drama",
+            "dance"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "The flour Sylvester Graham promoted was turned into this baked good in the 1850s; using it in s'mores came later",
+          "choices": [
+            "a gingersnap",
+            "a graham cracker",
+            "a shortbread",
+            "a digestive"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "She describes herself on Instagram as an actress, filmmaker & big nerd",
+          "choices": [
+            "Aubrey Plaza",
+            "Heather Graham",
+            "Ellen Wong",
+            "Winona Ryder"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "The official account of her dance company posted a video of her dancing in \"Appalachian Spring\" in 1947",
+          "choices": [
+            "Isadora Duncan",
+            "Pina Bausch",
+            "Agnes de Mille",
+            "Martha Graham"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "In 2003 Lindsey Graham took over Strom Thurmond's Senate seat to represent this Southern state",
+          "choices": [
+            "North Carolina",
+            "South Carolina",
+            "Georgia",
+            "Alabama"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "BUSINESS PARTNERS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1907 A.L. Neiman, his wife Carrie & this partner opened their first store in Dallas",
+          "choices": [
+            "Louis",
+            "Henry",
+            "Walter",
+            "Marcus"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Last names of Duncan & Alonzo, who paired up in 1910 with plans to make the world's first portable power tool",
+          "choices": [
+            "Smith+Jones",
+            "Miller+Davis",
+            "Brown+Johnson",
+            "Black+Decker"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "During the Great Depression, William & G. Clifford opened what would be the flagship store of this bookseller on 5th Avenue at 18th",
+          "choices": [
+            "Harper & Row",
+            "Simon & Schuster",
+            "Barnes & Noble",
+            "Random & House"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "In 1852 Henry & William combined to form this banking & delivery co. & their stagecoaches still run, metaphorically",
+          "choices": [
+            "American Express",
+            "Pinkerton & Co.",
+            "Wells Fargo",
+            "Union Pacific Railroad"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "The making & selling of watches brought Richard & Alvah together in Chicago in 1893 but the 2 went big into retail as this, this & co.",
+          "choices": [
+            "Montgomery Ward",
+            "JC Penney",
+            "Sears Roebuck",
+            "F.W. Woolworth"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "SHAMPOO",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In the early 1960s, Procter & Gamble launched an anti-dandruff shampoo under this brand name",
+          "choices": [
+            "Palmolive",
+            "Suave",
+            "Head & Shoulders",
+            "Pantene"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "This 1/4 moisturizer lotion soap now has a shampoo line with weightless moisturizers",
+          "choices": [
+            "Ivory",
+            "Zest",
+            "Lux",
+            "Dove"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "\\\"Never wear black without the blue\"\u2014this shampoo",
+          "choices": [
+            "Head & Shoulders",
+            "Pantene",
+            "Aveeno",
+            "Selsun Blue"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "This brand's \"Plus\" is a \"2-in-1\" formula that combines shampoo & conditioner",
+          "choices": [
+            "TRESemm\u00e9",
+            "Suave",
+            "Pert",
+            "Dove"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Brooke Shields & Kim Basinger are 2 of the \"girls\" who appeared in ads for this shampoo",
+          "choices": [
+            "Redken",
+            "Garnier",
+            "L'Or\u00e9al",
+            "Breck"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THIS IS N-P-R",
+    "clue": "Your digit-al I.D.",
+    "choices": [
+      "fingerprint",
+      "retina scan",
+      "palm print",
+      "voiceprint"
+    ],
+    "correctIndex": 0
+  },
+  "bonusRound": {
+    "category": "PREFIXES & ROOTS",
+    "clue": "In medicine myo- refers to one of these body parts",
+    "choices": [
+      "nerve",
+      "bone",
+      "muscle",
+      "organ"
+    ],
+    "correctIndex": 2
+  }
+}

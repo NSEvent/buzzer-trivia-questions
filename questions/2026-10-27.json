@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-27",
+  "categories": [
+    {
+      "name": "SODA POP QUIZ",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Caleb Bradham named his elixir this because it was supposed to relieve dyspepsia",
+          "choices": [
+            "Dr Pepper",
+            "7UP",
+            "Pepsi Cola",
+            "Coca-Cola"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Aargh! Black lemonade must be perfect for pirates; this Jolly Roger symbol adorns its label",
+          "choices": [
+            "the red rose",
+            "the skull & crossbones",
+            "the golden eagle",
+            "the blue star"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "For much of the last decade, this fruity brand from Coca-Cola had its own colorful group of spokesmodels",
+          "choices": [
+            "Sprite",
+            "Powerade",
+            "Fanta",
+            "Minute Maid"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "In 1983 it added Ruby Red to its line of sodas",
+          "choices": [
+            "Mello Yello",
+            "Canada Dry",
+            "Crush",
+            "Squirt"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Made originally from the roots of Smilax plants & similar to root beer, this sassy Old West treat is still served today",
+          "choices": [
+            "birch beer",
+            "sarsaparilla",
+            "cream soda",
+            "ginger ale"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "1990s BESTSELLERS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "First published in 1992, it's John Gray's groundbreaking guide to understanding the opposite sex",
+          "choices": [
+            "The 5 Love Languages",
+            "The Relationship Cure",
+            "The Art of Loving",
+            "Men Are from Mars, Women Are from Venus"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "In 1993 this author came along with his first Alex Cross novel, \"Along Came a Spider\\\"",
+          "choices": [
+            "David Baldacci",
+            "Harlan Coben",
+            "James Patterson",
+            "Lee Child"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "\\\"Honor Among Thieves\" was a political thriller by this bestselling author & onetime member of the British Parliament",
+          "choices": [
+            "(Jeffrey) Archer",
+            "John le Carr\u00e9",
+            "Ian Fleming",
+            "Graham Greene"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "In 1998 his novel \"Rainbow Six\" became another in his long line of military bestsellers",
+          "choices": [
+            "Tom Clancy",
+            "Dale Brown",
+            "Harold Coyle",
+            "John Gilstrap"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"Fear of Fifty\" was \"A Midlife Memoir\" by this \"Fear of Flying\" author",
+          "choices": [
+            "Erica Jong",
+            "Margaret Atwood",
+            "Joyce Carol Oates",
+            "Anne Tyler"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "CINEMANIA",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Aka background actors, they're the people milling about in a shot to lend atmosphere to a scene",
+          "choices": [
+            "extras",
+            "stand-ins",
+            "bit players",
+            "stunt doubles"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This 1977 film that was the highest-earning film of the 1970s didn't even take place in our galaxy",
+          "choices": [
+            "Alien",
+            "Star Wars",
+            "Superman",
+            "Close Encounters"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "In the beginning of this film, peaceful apes confront a black monolith & turn deadly & carnivorous",
+          "choices": [
+            "2001: A Space Odyssey",
+            "Solaris",
+            "Interstellar",
+            "Close Encounters of the Third Kind"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "This genre created in the '70s featured African-American actors in stereotypical & often violent characterizations",
+          "choices": [
+            "blaxploitation",
+            "film noir",
+            "screwball comedy",
+            "spaghetti western"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "The military clones Ripley to produce a bioweapon in this 1997 film, the fourth in the \"Alien\" series",
+          "choices": [
+            "Alien III",
+            "Prometheus",
+            "Alien: Resurrection",
+            "Alien vs. Predator"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "TRUCKS",
+    "clue": "In 1935, Reo introduced this model, a short wheelbase truck, not a rock group",
+    "choices": [
+      "Roadking",
+      "Hauler",
+      "Speedwagon",
+      "Freighter"
+    ],
+    "correctIndex": 2
+  }
+}

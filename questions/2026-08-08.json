@@ -128,9 +128,9 @@
           "value": 200,
           "clue": "Fatal, deadly",
           "choices": [
-            "Unknown",
-            "Unknown",
-            "Unknown",
+            "Lethal force",
+            "Lethally",
+            "Lethal dose",
             "Lethal"
           ],
           "correctIndex": 3
@@ -162,9 +162,9 @@
           "clue": "Reasonable, makes perfect sense",
           "choices": [
             "Logical",
-            "Unknown",
-            "Unknown",
-            "Unknown"
+            "Literal",
+            "Lateral",
+            "Legal"
           ],
           "correctIndex": 0
         },
@@ -172,9 +172,9 @@
           "value": 1000,
           "clue": "I'm gonna make a 4 \"A\" to the fridge, flop on the couch & be this adjective for lazy or without enthusiasm",
           "choices": [
-            "Unknown",
-            "Unknown",
-            "Unknown",
+            "Lethargical",
+            "Languishful",
+            "Listlessical",
             "Lackadaisical"
           ],
           "correctIndex": 3
@@ -192,5 +192,16 @@
       "Ted Strickland"
     ],
     "correctIndex": 0
+  },
+  "bonusRound": {
+    "category": "TOO MUCH TIME ON THEIR HANDS",
+    "clue": "In a children's game, Rob Krueger won $5,000 CDN in October 2003 when his \"Paper\" covered this move by his opponent",
+    "choices": [
+      "Scissors",
+      "Rock",
+      "Lizard",
+      "Spock"
+    ],
+    "correctIndex": 1
   }
 }

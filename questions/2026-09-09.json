@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-09",
+  "categories": [
+    {
+      "name": "FLAVOR OF THE MONTH",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Related to the ancient scarab, it's also called the May beetle, but we think that's a bit premature",
+          "choices": [
+            "a July fly",
+            "a May fly",
+            "a September beetle",
+            "a June bug"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Around for nearly 60 years, Atomic Fireball candies are this flavor",
+          "choices": [
+            "nutmeg",
+            "clove",
+            "cinnamon",
+            "allspice"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Thanks to the old style calendar of this country, its \"February Revolution\" began on March 8, 1917 (to us)",
+          "choices": [
+            "France",
+            "Germany",
+            "Japan",
+            "Russia"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "A fall favorite from Starbucks is this flavor spice latte",
+          "choices": [
+            "apple",
+            "caramel",
+            "maple",
+            "pumpkin"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "In 1987 this African-American playwright swung for the \"Fences\" & won a Pulitzer",
+          "choices": [
+            "Lorraine Hansberry",
+            "August Wilson",
+            "Toni Morrison",
+            "Amiri Baraka"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "ESSAY QUESTIONS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "George Orwell's essay in which a police officer in Burma shoots this large mammal is seen as a metaphor for British colonialism",
+          "choices": [
+            "a rhinoceros",
+            "a Bengal tiger",
+            "a hippopotamus",
+            "an elephant"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "A George Orwell essay argues for using this voice rather than the passive",
+          "choices": [
+            "direct",
+            "active",
+            "strong",
+            "clear"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "In 1859 John Stuart Mill published an essay \"on\" this; 12 years later Bartholdi designed a \"Statue of\" it",
+          "choices": [
+            "freedom",
+            "democracy",
+            "justice",
+            "liberty"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Novelist Henry's brother, his works include \"The Will to Believe and Other Essays...\\\"",
+          "choices": [
+            "Sigmund Freud",
+            "Ralph Waldo Emerson",
+            "John Stuart Mill",
+            "William James"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "She called a 2003 book of essays \"The Opposite of Fate\\\"",
+          "choices": [
+            "(Amy) Tan",
+            "Joan Didion",
+            "Toni Morrison",
+            "Maya Angelou"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "SHIP OUT",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "On April 10, 1963 the Thresher, an atomic-powered one of these, sank in the North Atlantic with all hands lost",
+          "choices": [
+            "an aircraft carrier",
+            "a battleship",
+            "a submarine",
+            "an icebreaker"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "The classy ocean liner called \"Ile de\" this was partially sunk for the filming of the 1960 movie \"The Last Voyage\\\"",
+          "choices": [
+            "Italy",
+            "England",
+            "France",
+            "Germany"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Launched in 1797, this ship in more recent years has been known to fire cannon salutes while tooling around Boston Harbor",
+          "choices": [
+            "USS Essex",
+            "the Constitution",
+            "USS United States",
+            "USS Constellation"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "The Bounty set out for this French Polynesian island in 1787 in search of breadfruit",
+          "choices": [
+            "Bora Bora",
+            "Moorea",
+            "Tahiti",
+            "Raiatea"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "On July 25, 1956 this Italian liner collided with a Swedish ship & sank off Massachusetts",
+          "choices": [
+            "SS Conte di Savoia",
+            "SS Rex",
+            "Andrea Doria",
+            "SS Michelangelo"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "DANCE!",
+    "clue": "\\\"The Lawrence Welk Show\" wasn't afraid to roll out a wunnerful \"beer barrel\" version of this dance",
+    "choices": [
+      "the waltz",
+      "the tango",
+      "the polka",
+      "the foxtrot"
+    ],
+    "correctIndex": 2
+  }
+}

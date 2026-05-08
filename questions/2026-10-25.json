@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-25",
+  "categories": [
+    {
+      "name": "TV CATCH PHRASES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"One of these days, Alice, one of these days... pow! Right in the kisser!\\\"",
+          "choices": [
+            "All in the Family",
+            "The Dick Van Dyke Show",
+            "The Honeymooners",
+            "The Brady Bunch"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "As Arnold Jackson on \"Diff'rent Strokes\", he asked, \"What you talkin' about, Willis?\\\"",
+          "choices": [
+            "Jimi Kibble",
+            "Mike Lookinland",
+            "Todd Bridges",
+            "Gary Coleman"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "On this game show, answers were checked against what the \"Survey Says!\\\"",
+          "choices": [
+            "Wheel of Fortune",
+            "The Price is Right",
+            "Family Feud",
+            "Match Game"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "\\\"Nanu, Nanu\" & \"Shazbat\" were Orkan words frequently heard on this sitcom",
+          "choices": [
+            "The Munsters",
+            "Bewitched",
+            "Three's Company",
+            "Mork & Mindy"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "She signed off \"NBC News Overnight\" with \"And so it goes\\\"",
+          "choices": [
+            "Linda Ellerbee",
+            "Diane Sawyer",
+            "Barbara Walters",
+            "Gwen Ifill"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "BROADWAY MUSICAL SETTINGS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This show takes place on a Greek isle while a single mother prepares for her daughter's wedding",
+          "choices": [
+            "South Pacific",
+            "Moulin Rouge!",
+            "Mamma Mia!",
+            "West Side Story"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "In \"Curtains\", it's curtains for a leading lady who ends up dead in this New England city during a pre-Broadway run",
+          "choices": [
+            "Providence",
+            "Boston",
+            "Hartford",
+            "Portland"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "The '60s-set \"Hairspray\" takes place in this American city",
+          "choices": [
+            "Baltimore",
+            "Philadelphia",
+            "New York",
+            "Chicago"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "When we first meet Horace Vandergelder in \"Hello, Dolly!\", he's in this N.Y. city & feeling a little \"lost in\" it",
+          "choices": [
+            "Albany",
+            "Rochester",
+            "Buffalo",
+            "Yonkers"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "4 blue-collar guys work their way up from the streets of Newark to the heights of stardom in this 2005 smash",
+          "choices": [
+            "West Side Story",
+            "Grease",
+            "Jersey Boys",
+            "Chicago"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "COMPANY NAME ORIGINS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This Model S car company wouldn't be possible without the inventions of the electrical engineer for whom it is named",
+          "choices": [
+            "Tesla",
+            "Ford",
+            "Rivian",
+            "Lucid"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Its name goes back to its founding in 1920 as the Queensland & Northern Territory Aerial Services",
+          "choices": [
+            "Qantas",
+            "Virgin Australia",
+            "Jetstar",
+            "Air New Zealand"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Prada is named for Mario Prada, who founded the brand in 1913 in this Italian city of fashion",
+          "choices": [
+            "Florence",
+            "Rome",
+            "Milan",
+            "Venice"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "South Korea's second-largest auto manufacturer, its 3-letter name means \"rising from Asia\\\"",
+          "choices": [
+            "BMW",
+            "Kia",
+            "RAM",
+            "Ford"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "GEICO's name goes back to its original customer base, military personnel & these people, the G-E",
+          "choices": [
+            "Government Officials",
+            "Graduate Engineers",
+            "General Employees",
+            "government employees"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "STRICTLY BUSINESS",
+    "clue": "Business Week Magazine says this, registered as a trademark in 1887, is the world's most valuable brand",
+    "choices": [
+      "Apple",
+      "Microsoft",
+      "Amazon",
+      "Coca-Cola"
+    ],
+    "correctIndex": 3
+  }
+}

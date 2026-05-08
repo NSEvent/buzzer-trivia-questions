@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-08",
+  "categories": [
+    {
+      "name": "THE 1940s",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "On Nov. 2, 1947 he piloted the Spruce Goose for the first & only time it flew",
+          "choices": [
+            "Charles Lindbergh",
+            "Amelia Earhart",
+            "Jimmy Doolittle",
+            "Howard Hughes"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "3 days before it was destroyed by the British Navy in May 1941, this German battleship sank the HMS Hood",
+          "choices": [
+            "the Tirpitz",
+            "the Bismarck",
+            "the Scharnhorst",
+            "the Admiral Hipper"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Due to shortages in 1943, Tuesdays & Fridays were dubbed these kinds of days",
+          "choices": [
+            "sugarless",
+            "fuelless",
+            "meatless",
+            "wheatless"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "On July 4, 1946 the U.S. granted independence to this Asian country we had controlled since 1898",
+          "choices": [
+            "the Philippines",
+            "Indonesia",
+            "Burma",
+            "Vietnam"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "One of Alec Guinness's many masterly character portrayals was as this man in 1948's \"Oliver Twist\\\"",
+          "choices": [
+            "Fagin",
+            "Sweeney Todd",
+            "Professor Moriarty",
+            "Ebenezer Scrooge"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "COMIC BOOKS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In a 1994 contest among the Amazons Artemis defeated Diana & was named this heroine",
+          "choices": [
+            "Black Canary",
+            "Power Girl",
+            "Starfire",
+            "Wonder Woman"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Fictional detective with his own mystery magazine, he recently guest sleuthed with the Maze Agency",
+          "choices": [
+            "Sherlock Holmes",
+            "Perry Mason",
+            "Ellery Queen",
+            "Nero Wolfe"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "\\\"I am America (and So Can You!)\\\"",
+          "choices": [
+            "Jon Stewart",
+            "Bill Maher",
+            "Stephen Colbert",
+            "Trevor Noah"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Real name Harleen Quinzel, this gal fell in love with the Joker",
+          "choices": [
+            "Harley Quinn",
+            "Poison Ivy",
+            "Catwoman",
+            "Enchantress"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"Naked Pictures of Famous People\\\"",
+          "choices": [
+            "Jon Stewart",
+            "Chris Farley",
+            "Will Ferrell",
+            "Tina Fey"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "2 VOWELS, ONE CONSONANT",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It can follow shepherd's, cherry or mud",
+          "choices": [
+            "ice",
+            "pie",
+            "tea",
+            "oat"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Bravo at the bullfight",
+          "choices": [
+            "ol\u00e9",
+            "aye",
+            "eye",
+            "ola"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Contend for superiority",
+          "choices": [
+            "vie",
+            "tie",
+            "pie",
+            "lie"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Simian word for \"mimic\\\"",
+          "choices": [
+            "ice",
+            "ape",
+            "oak",
+            "eat"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Don't feed the creatures at a menagerie, a type of this",
+          "choices": [
+            "loo",
+            "zoo",
+            "moo",
+            "boo"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "ANCIENT CITIES",
+    "clue": "He began his diggings in 1870 & went on to find the ancient cities of Troy, Mycenae & Tiryns",
+    "choices": [
+      "Arthur Evans",
+      "Howard Carter",
+      "Giovanni Belzoni",
+      "Heinrich Schliemann"
+    ],
+    "correctIndex": 3
+  }
+}

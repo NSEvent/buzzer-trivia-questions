@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-20",
+  "categories": [
+    {
+      "name": "LITERA-SEA",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "(Cheryl of the Clue Crew is at the beach.) The birds remind me of this 1970 book by former Air Force pilot Richard Bach",
+          "choices": [
+            "\\\"Jonathan Livingston Seagull\\\"",
+            "Moby-Dick",
+            "The Old Man and the Sea",
+            "The Call of the Wild"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This \"Iliad\" poet often refers to \"The Wine-Dark Sea\\\"",
+          "choices": [
+            "Virgil",
+            "Hesiod",
+            "Sappho",
+            "Homer"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This fictional captain created by C.S. Forester was inspired by Horatio Nelson & Thomas Cochrane",
+          "choices": [
+            "Captain Ahab",
+            "Jack Aubrey",
+            "(Horatio) Hornblower",
+            "Lord Jim"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "In this Jack London novel, Wolf Larsen is the captain of the Ghost, once a private yacht",
+          "choices": [
+            "The Call of the Wild",
+            "The Sea-Wolf",
+            "White Fang",
+            "Martin Eden"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Patrick O'Brian's first novel about Captain Aubrey & Surgeon Stephen Maturin, it's set in the Napoleonic Wars",
+          "choices": [
+            "Hornblower",
+            "\\\"Master and Commander\\\"",
+            "The African Queen",
+            "Windship"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "TAKE THE FIFTH",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The two U.S. presidents who were fifth cousins",
+          "choices": [
+            "Teddy Roosevelt and FDR",
+            "John Adams and John Quincy Adams",
+            "George H.W. Bush and George W. Bush",
+            "William Henry Harrison and Benjamin Harrison"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Secrecy & sabotage are activities of any wartime faction known as the fifth this",
+          "choices": [
+            "column",
+            "wheel",
+            "estate",
+            "sense"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "This fifth book of the Bible ends with the death of Moses",
+          "choices": [
+            "Numbers",
+            "Joshua",
+            "Leviticus",
+            "Deuteronomy"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Traditional news media are said to be the \"fourth\" this, while nontraditional media are the \"fifth\\\"",
+          "choices": [
+            "power",
+            "branch",
+            "pillar",
+            "estate"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "You get a B if you know it's the fifth element on the periodic table",
+          "choices": [
+            "beryllium",
+            "bromine",
+            "boron",
+            "bismuth"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "DEATH",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Balinese villagers bury their dead temporarily until they can have a big one of these ceremonies with a pyre",
+          "choices": [
+            "burial",
+            "mummification",
+            "sky burial",
+            "cremation"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "In this funeral style named for a type of music, the music is slow on the way to the cemetery, rousing on the way home",
+          "choices": [
+            "funeral march",
+            "ragtime funeral",
+            "blues funeral",
+            "a jazz funeral"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "In this religion, martyrs are buried in the clothes they died in; others are shrouded in a white kafan",
+          "choices": [
+            "Judaism",
+            "Christianity",
+            "Islam",
+            "Buddhism"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "According to the Antyesti rites of this religion, water & milk are set out, & the bones may be immersed in a river",
+          "choices": [
+            "Sikhism",
+            "Zoroastrianism",
+            "Jainism",
+            "the Hindu religion"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This \"colorful\" 14th c. pandemic was responsible for more loss of life than any war or epidemic up to that time",
+          "choices": [
+            "the Plague of Justinian",
+            "the Black Death",
+            "the Spanish Flu",
+            "the Antonine Plague"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "TV TITLE CHARACTERS",
+    "clue": "Morningstar is the last name of this devilishly handsome title guy whose series moved from Fox to Netflix",
+    "choices": [
+      "Lucifer",
+      "Damon Salvatore",
+      "John Constantine",
+      "Loki"
+    ],
+    "correctIndex": 0
+  }
+}

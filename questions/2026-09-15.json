@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-15",
+  "categories": [
+    {
+      "name": "SUITE TALK",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The Harlequin Suite at this city's Dorchester Hotel goes for 5,400 pounds a day (that's about $9,000!)",
+          "choices": [
+            "London",
+            "Paris",
+            "New York",
+            "Tokyo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This 2-named NYC hotel offers a 1,900-square-foot Central Park Suite, overlooking Central Park, natch",
+          "choices": [
+            "the Plaza",
+            "the St. Regis",
+            "the Ritz-Carlton",
+            "the Mark"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Queen Elizabeth II stayed in the Ahwahnee's Mary Curry Tresider Suite when she visited this Calif. national park",
+          "choices": [
+            "Sequoia",
+            "Joshua Tree",
+            "Yosemite",
+            "Redwood"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "This 2-named NYC hotel that dates to 1893 offers 900-square-foot luxury suites that overlook Park Avenue",
+          "choices": [
+            "the Ritz-Carlton",
+            "the Plaza",
+            "the Pierre",
+            "the Waldorf Astoria"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This composer who took us to Seville in \"Carmen\" evoked Italy in the suite \"Roma\\\"",
+          "choices": [
+            "Georges Bizet",
+            "Claude Debussy",
+            "Jules Massenet",
+            "Hector Berlioz"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "DEATH",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "From Latin, it means \"after death\", when an autopsy would be done",
+          "choices": [
+            "ante mortem",
+            "post mortem",
+            "ex post facto",
+            "post partum"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "In the 1990s this branch of Interscope Records released No. 1 albums by Snoop Doggy Dogg & Tupac Shakur",
+          "choices": [
+            "Bad Boy Records",
+            "Death Row Records",
+            "No Limit Records",
+            "Ruthless Records"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "The Amanita genus of these includes some that are lethal to humans, including the death cap",
+          "choices": [
+            "toadstools",
+            "mushrooms",
+            "truffles",
+            "puffballs"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Docs recommend babies sleep on their backs or sides to ward off this, SIDS for short",
+          "choices": [
+            "sudden pediatric death syndrome",
+            "infant respiratory distress",
+            "sudden infant death syndrome",
+            "neonatal apnea"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "According to this religion's canon law, \"apostates, heretics & schismatics\" must be denied a religious funeral",
+          "choices": [
+            "Catholicism",
+            "Eastern Orthodoxy",
+            "Protestantism",
+            "Lutheranism"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "AMERICANS IN PARIS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The avant-garde author of \"Three Lives\", her home was a salon for emerging artists such as Picasso & Braque",
+          "choices": [
+            "(Gertrude) Stein",
+            "Ezra Pound",
+            "T.S. Eliot",
+            "Jane Bowles"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "While living in poverty in Paris, Henry Miller was inspired to write this, his first published work",
+          "choices": [
+            "Tropic of Cancer",
+            "The Sun Also Rises",
+            "A Moveable Feast",
+            "The Quiet American"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "They entertained everyone from Ezra Pound to Picasso at their studio at 27 rue de Fleurus",
+          "choices": [
+            "Natalie Barney & Djuna Barnes",
+            "Alice B.Toklas & Gertrude Stein",
+            "Edith Wharton & Mary Astor",
+            "Peggy Guggenheim & Lee Krasner"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "He was studying at the Sorbonne in Paris when he published \"The Naked and the Dead\\\"",
+          "choices": [
+            "James Jones",
+            "Ernest Hemingway",
+            "John Steinbeck",
+            "Norman Mailer"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Sadly, this dancer's 2 children drowned in the Seine years before that scarf cut her own life short",
+          "choices": [
+            "Loie Fuller",
+            "Martha Graham",
+            "Isadora Duncan",
+            "Ruth St. Denis"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "HIGH SOCIETY",
+    "clue": "In 1954 Prince Bernhard of this low country became the 1st member of royalty to break the sound barrier",
+    "choices": [
+      "Belgium",
+      "Denmark",
+      "the Netherlands",
+      "Luxembourg"
+    ],
+    "correctIndex": 2
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-05",
+  "categories": [
+    {
+      "name": "HEAD GEAR",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1866 this company introduced its \"hat of the west\" also called \"boss of the plains\\\"",
+          "choices": [
+            "Borsalino",
+            "Dobbs",
+            "Resim",
+            "Stetson"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Popularized by the movie \"Old School\", these protectors are slang for \"Kid, you shouldn't hear this\\\"",
+          "choices": [
+            "earplugs",
+            "headband",
+            "ear covers",
+            "earmuffs"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "A comb from Nigeria with fewer teeth than American combs gave Willie Morrow the idea for this item to style Black hair",
+          "choices": [
+            "a (afro) pick",
+            "afro comb",
+            "styling rake",
+            "weave brush"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "His hat came up in the 1888 pres. campaign of his grandson (some said it fit, some said it was too big)",
+          "choices": [
+            "William McKinley",
+            "William Henry Harrison",
+            "Zachary Taylor",
+            "James Polk"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Now torturing fewer teens than in the past, reverse pull & cervical pull are 2 types of headgear used in this medical field",
+          "choices": [
+            "dentistry",
+            "podiatry",
+            "cardiology",
+            "orthodontics"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "IT'S TIME FOR TIME",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "As a unit of time, an eon generally lasts for this many years",
+          "choices": [
+            "a million",
+            "a billion",
+            "a thousand",
+            "a trillion"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Of dog days, halcyon days or salad days, the one that's the most weather-related",
+          "choices": [
+            "halcyon days",
+            "Dog days",
+            "salad days",
+            "golden days"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "From the Latin for \"grape-gathering\", it's the time for gathering grapes for wine",
+          "choices": [
+            "harvest",
+            "vendange",
+            "autumn",
+            "Vintage"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Brazil is celebrating its qunicentennial, this many years since its discovery by the Portuguese",
+          "choices": [
+            "500",
+            "400",
+            "600",
+            "1000"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Leap seconds are sometimes added to clocks because this is slowing down",
+          "choices": [
+            "the rotation",
+            "the orbit",
+            "the revolution",
+            "the axis"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "16-LETTER WORDS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A toast of grog to Sir Francis Drake, who completed this type of round-the-world voyage on Sept. 26, 1580",
+          "choices": [
+            "internationalism",
+            "intercontinental",
+            "circumnavigation",
+            "disestablishment"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Adjective meaning working the opposite way from what instinct suggests",
+          "choices": [
+            "uncharacteristic",
+            "unpredictability",
+            "counterintuitive",
+            "unquestionable"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "If you're an Olympic sprinter, it's the unfortunate consequence of a false start, aka jumping the gun",
+          "choices": [
+            "misunderstanding",
+            "disestablishment",
+            "disqualification",
+            "disproportionate"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Medical professional specializing in artificially inducing insensitivity to pain for surgery",
+          "choices": [
+            "physiotherapists",
+            "immunotherapists",
+            "radiopharmacists",
+            "anesthesiologist"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "With a name that spans oceans, this global hotel brand includes London's Park Lane & the Willard in Washington, D.C.",
+          "choices": [
+            "ContinentalChain",
+            "TransatlanticInn",
+            "PanAmericanLodge",
+            "Intercontinental"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THE BOOK OF MORMONS",
+    "clue": "This former representative & current senior senator from Nevada",
+    "choices": [
+      "Harry Reid",
+      "Dean Heller",
+      "Catherine Cortez Masto",
+      "Shelley Berkley"
+    ],
+    "correctIndex": 0
+  },
+  "bonusRound": {
+    "category": "& AWAY WE GO",
+    "clue": "Title of the book & of the 1951 Oscar-winning documentary on a Thor Heyerdahl expedition",
+    "choices": [
+      "Ra II",
+      "Kontiki Voyage",
+      "Kon-Tiki",
+      "The Raft"
+    ],
+    "correctIndex": 2
+  }
+}

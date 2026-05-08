@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-30",
+  "categories": [
+    {
+      "name": "TV TITLE CHARACTERS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "He plays Tray, \"The Last O.G.\\\"",
+          "choices": [
+            "Tracy Morgan",
+            "Kevin Hart",
+            "Chris Rock",
+            "Dave Chappelle"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "She played \"The Good Wife\" Alicia Florrick",
+          "choices": [
+            "Viola Davis",
+            "Julianna Margulies",
+            "Claire Danes",
+            "Connie Britton"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "With his \"Whoa!\", Joey Lawrence stole the show from this Mayim Bialik title character",
+          "choices": [
+            "Blossom",
+            "Buffy",
+            "Dawson",
+            "Felicity"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Miriam Weissman is the maiden name of the title character of this alliterative Amazon series",
+          "choices": [
+            "The Marvelous Mrs. Maisel",
+            "The Wonderful Mrs. Maisel",
+            "The Amazing Mrs. Maisel",
+            "The Dazzling Mrs. Maisel"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "To Elijah Wood, this character looks like a surly Australian guy in a cheap dog suit",
+          "choices": [
+            "Rex",
+            "Lassie",
+            "Wilfred",
+            "Benji"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "ALL FALL DOWN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The World Book calls them \"generally more clumsy\" than frogs",
+          "choices": [
+            "toads",
+            "salamanders",
+            "newts",
+            "tree frogs"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "In the 1860s the poles used in creating this communications link fell down when Buffalo used them as scratching posts",
+          "choices": [
+            "the telegraph",
+            "the telephone",
+            "the teleprinter",
+            "the telegraph wire"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "In 1871, Communards brought down a famous column in this city, but it's been rebuilt",
+          "choices": [
+            "Berlin",
+            "Paris",
+            "Rome",
+            "Vienna"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "In 1969 & 2017 famous trees of this type with a Native Amer. name fell in Calif.; it's bad to cut a driving tunnel through a tree",
+          "choices": [
+            "redwood",
+            "pine",
+            "sequoia",
+            "oak"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Archaeologists debate whether this city's walls fell due to an earthquake or siege tactics, as in Joshua 6",
+          "choices": [
+            "Babylon",
+            "Troy",
+            "Athens",
+            "Jericho"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "STARTS WITH \"G\\\"",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Mitch Gaylord, Cathy Rigby, & Mary Lou Retton, for example",
+          "choices": [
+            "dancers",
+            "acrobats",
+            "gymnasts",
+            "athletes"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "From the Latin word for \"throat\", it's a deep narrow pass through mountains",
+          "choices": [
+            "canyon",
+            "ravine",
+            "a gorge",
+            "valley"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Condition caused by too many cars in one area, prohibiting movement in any direction",
+          "choices": [
+            "grid",
+            "gridiron",
+            "gridlock",
+            "governor"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "The metal ring used to hold a sail to its stay or a shoelace on a shoe",
+          "choices": [
+            "a gasket",
+            "a gusset",
+            "a grommet",
+            "a gimbal"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Latin for \"sword\" gives us the name of this flower",
+          "choices": [
+            "a gladiola (gladiolus)",
+            "gardenia",
+            "geranium",
+            "gentian"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "I SPEAK MANY TONGUES",
+    "clue": "Cursing on TV would be called a gaffe or this French phrase meaning \"false step\\\"",
+    "choices": [
+      "a faux pas",
+      "a b\u00eate noire",
+      "a coup de gr\u00e2ce",
+      "a raison d'\u00eatre"
+    ],
+    "correctIndex": 0
+  }
+}

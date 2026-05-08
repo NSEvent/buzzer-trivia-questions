@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-17",
+  "categories": [
+    {
+      "name": "SPEAK UP!",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "7-letter verb for what an actor learns to do, cause his speaking voice to be audible at a distance",
+          "choices": [
+            "project",
+            "enunciate",
+            "amplify",
+            "resonate"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "The woman in this song by 'Til Tuesday needs to speak up despite what her boyfriend says \"I try so hard not to get upset...\\\"",
+          "choices": [
+            "Bette Davis Eyes",
+            "Total Eclipse of the Heart",
+            "\\\"Voices Carry\\\"",
+            "Sweet Dreams"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Toastmasters International says this dome-shaped muscle is the basis of good vocal production",
+          "choices": [
+            "the vocal cords",
+            "the diaphragm",
+            "the larynx",
+            "the soft palate"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "A 19th c. woman: \"For the theater one needs long arms; an artiste with short arms can never... make a fine gesture\\\"",
+          "choices": [
+            "Ellen Terry",
+            "Eleonora Duse",
+            "Sarah Bernhardt",
+            "Lily Langtry"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "In Homer's works Mentor is a trusted advisor & this guy has a voice as strong as 50 men",
+          "choices": [
+            "Stentor",
+            "Achilles",
+            "Nestor",
+            "Ajax"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "HUNGARY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Paprika is an essential ingredient in this popular Hungarian stew, whose name is short for \"herdsman's meat\\\"",
+          "choices": [
+            "Goulash",
+            "Paprikash",
+            "P\u00f6rk\u00f6lt",
+            "Chicken paprikash"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This ethnic group makes up at least 95% of Hungary's population",
+          "choices": [
+            "Magyars",
+            "Slovaks",
+            "Romanians",
+            "Sz\u00e9kelys"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "In 1988, 43 years after his death in self-exile in New York, this composer's remains were returned to his beloved Hungary",
+          "choices": [
+            "Liszt",
+            "Kod\u00e1ly",
+            "Bart\u00f3k",
+            "Haydn"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "The beautiful Tokaj region in the northeast is world famous for its production of this, like Tokaji Aszu",
+          "choices": [
+            "p\u00e1linka",
+            "paprika",
+            "wine",
+            "fruit brandy"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "To promote family ties, it's banned on Mondays in Hungary; on Thursdays in Iceland",
+          "choices": [
+            "radio",
+            "computer",
+            "television",
+            "video game"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "SOMETHING TO EAT",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Be it the honeycomb or blanket type, do you expect us to swallow this lining of beef stomach?",
+          "choices": [
+            "tripe",
+            "chitterlings",
+            "pork maw",
+            "intestines"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "These Sunshine Biscuits snack crackers have been around since 1921",
+          "choices": [
+            "Cheez-Its",
+            "Wheat Thins",
+            "Ritz",
+            "Goldfish"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Chocolate & cherries team up in this dessert named for a region of Germany",
+          "choices": [
+            "a Sachertorte",
+            "German chocolate cake",
+            "cherry cheesecake",
+            "a Black Forest cake"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "This 4-word stir-fried dish of sliced chicken includes snow peas, mushrooms & Chinese cabbage",
+          "choices": [
+            "moo goo gai pan",
+            "kung pao chicken",
+            "general tso chicken",
+            "chicken cashew stir fry"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Meat or fish presented tartare means it's served this way",
+          "choices": [
+            "grilled",
+            "roasted",
+            "fried",
+            "raw"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "FILE UNDER \"O\\\"",
+    "clue": "They're like a classical musical; Richard Wagner wrote them",
+    "choices": [
+      "Oratorio",
+      "Overture",
+      "Opera",
+      "Ode"
+    ],
+    "correctIndex": 2
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-02",
+  "categories": [
+    {
+      "name": "FASHION STATEMENTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "An insufferably arrogant, conceited bloke is \"too big for\" these",
+          "choices": [
+            "his own shoes",
+            "his boots",
+            "His britches",
+            "his hat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "A pompous person is one of these, which sounds like it was made by a tailor moonlighting as a taxidermist",
+          "choices": [
+            "Stuffed shirt",
+            "ironed jacket",
+            "pressed coat",
+            "buttoned vest"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "A phrase that means outdated, or a derby you haven't worn for decades",
+          "choices": [
+            "faded dress",
+            "worn shoes",
+            "tattered coat",
+            "Old hat"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "It's believed Napoleon originated the phrase about \"An iron hand in\" one of these",
+          "choices": [
+            "A velvet glove",
+            "a silk scarf",
+            "a leather sleeve",
+            "a wool mitten"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "One who becomes successful through his own efforts pulls himself up by these",
+          "choices": [
+            "shoelaces",
+            "suspenders",
+            "drawstrings",
+            "bootstraps"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "THE \"END\" ZONE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Term meaning to give oneself up, as to the cops",
+          "choices": [
+            "capitulation",
+            "yielding",
+            "concession",
+            "surrender"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Alliterative term for accidentally causing casualties to one's own combat troops",
+          "choices": [
+            "friendly fire",
+            "fratricide",
+            "blue on blue",
+            "own gunfire"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "When Andrew Carnegie got his first of these monthly checks, he cried, \"Here's the goose that lays the golden eggs\\\"",
+          "choices": [
+            "dividend",
+            "salary",
+            "interest",
+            "profit"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Someone who throws money away on things they don't need might be called this compound word",
+          "choices": [
+            "penny pincher",
+            "big spender",
+            "gold digger",
+            "a spendthrift"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "To support, or to sign the back of a check",
+          "choices": [
+            "countersign",
+            "guarantee",
+            "endorse",
+            "ratify"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "WAR FILMS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "One of the last lines of this Vietnam war-set film is \"The horror... the horror\\\"",
+          "choices": [
+            "Full Metal Jacket",
+            "Platoon",
+            "Apocalypse Now",
+            "The Deer Hunter"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "\\\"The mission is a man\" was a tagline for this 1998 Spielberg film",
+          "choices": [
+            "The Thin Red Line",
+            "Black Hawk Down",
+            "Band of Brothers",
+            "Saving Private Ryan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Though only in his 30s, Martin Sheen suffered a near-fatal heart attack while making this Vietnam War film",
+          "choices": [
+            "Platoon",
+            "Full Metal Jacket",
+            "Apocalypse Now",
+            "The Deer Hunter"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "A riverboat captain (Bogart) & a missionary (Hepburn) use this title vessel to attack an enemy ship during WWI",
+          "choices": [
+            "the African Queen",
+            "The Caine Mutiny",
+            "Casablanca",
+            "The Bridge on the River Kwai"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Mel Gibson plays a veteran of the French & Indian War who wants no part in the war with Britain in this 2000 film",
+          "choices": [
+            "Master and Commander",
+            "The Patriot",
+            "Braveheart",
+            "We Were Soldiers"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "1958",
+    "clue": "Dedicated in June, this bridge linked Michigan's upper & lower peninsulas",
+    "choices": [
+      "Golden Gate Bridge",
+      "Verrazzano-Narrows Bridge",
+      "Mackinac",
+      "Ambassador Bridge"
+    ],
+    "correctIndex": 2
+  }
+}

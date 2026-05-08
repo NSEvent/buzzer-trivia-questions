@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-17",
+  "categories": [
+    {
+      "name": "INVENTIONS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This American engineer patented 214 inventions in the rocketry field",
+          "choices": [
+            "Nikola Tesla",
+            "Robert Goddard",
+            "Thomas Edison",
+            "Alexander Graham Bell"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Early on, this aid to authors was piano-sized; around 1870 Christopher Sholes created a small one",
+          "choices": [
+            "a typewriter",
+            "a telegraph",
+            "a printing press",
+            "a stenotype"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Eli Whitney's model for this was stolen & manufactured by competitors before he received his patent in 1794",
+          "choices": [
+            "the spinning jenny",
+            "the power loom",
+            "the cotton gin",
+            "the seed drill"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "This invention was also called \"The Pennsylvania Fireplace\\\"",
+          "choices": [
+            "the potbelly stove",
+            "the masonry heater",
+            "the Rumford fireplace",
+            "the Franklin Stove (or Oven or Furnace)"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Edwin Herbert Land first demonstrated this invention in 1947",
+          "choices": [
+            "the Polaroid camera",
+            "instant film camera",
+            "Kodak Brownie camera",
+            "disposable camera"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "SWEET CHARITY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "gradesofgreen.org, helping kids learn to be eco-friendly, launched its site in 2010 on this \"Day\", an event that began in 1970",
+          "choices": [
+            "Arbor Day",
+            "Earth Day",
+            "National Parks Day",
+            "Ocean Day"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "From 1966 to 2010 around $2 billion was raised on this comedian's MDA Labor Day telethon",
+          "choices": [
+            "Bob Hope",
+            "Steve Martin",
+            "(Jerry) Lewis",
+            "Dick Cavett"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This foundation lived up to its name in helping turn S.F. into Gotham City so a young leukemia patient could become Batkid",
+          "choices": [
+            "St. Jude Children's Research Hospital",
+            "Make-A-Wish",
+            "Big Brothers Big Sisters",
+            "Ronald McDonald House Charities"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "John Cena has helped fulfill the requests of more than 600 kids through this Phoenix-based foundation",
+          "choices": [
+            "Big Brothers Big Sisters",
+            "Toys for Tots",
+            "Make-A-Wish",
+            "St. Jude Children's Research Hospital"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Called a trailblazer \"for human rights\" & for this \"equality\", Ruth Bader Ginsburg received the Berggruen Prize, which she donated",
+          "choices": [
+            "gender equality",
+            "racial equality",
+            "equal pay",
+            "marriage equality"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "A CANDY-GORY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This Peter Paul candy bar, coconut in bittersweet chocolate, has been around since 1920",
+          "choices": [
+            "York Peppermint Pattie",
+            "Baby Ruth",
+            "Pay Day",
+            "Mounds"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Hugs are a version of this bite-sized Hershey candy, with milk chocolate hugged by sweet white cream",
+          "choices": [
+            "Reese's Pieces",
+            "Smarties",
+            "Kisses",
+            "M&M's"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "These chewy candies were launched in the U.K. under the name \"opal fruits\\\"",
+          "choices": [
+            "Fruit Roll-Ups",
+            "Swedish Fish",
+            "Starburst",
+            "Airheads"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "One of \"Z\" best candy bars is this one, crunchy peanut butter & toasted coconut, created way back in 1930",
+          "choices": [
+            "Baby Ruth",
+            "Butterfinger",
+            "Zagnut",
+            "3 Musketeers"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "These chocolate-covered caramels were named for the disappointment at not being able to make them perfectly round",
+          "choices": [
+            "Rolo",
+            "Milk Duds",
+            "Goobers",
+            "Caramel DeLites"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "YES, PRIME MINISTER",
+    "clue": "1830 to 1834 was tea time in the U.K. with this earl",
+    "choices": [
+      "Lord Liverpool",
+      "Earl Grey",
+      "Duke of Wellington",
+      "Viscount Melbourne"
+    ],
+    "correctIndex": 1
+  },
+  "bonusRound": {
+    "category": "MYTHOLOGICAL RESUM\u00c9S",
+    "clue": "Expert trickster; can change shape & sex; can give birth to 8-legged flying horses upon request",
+    "choices": [
+      "Hermes",
+      "Proteus",
+      "Coyote",
+      "Loki"
+    ],
+    "correctIndex": 3
+  }
+}

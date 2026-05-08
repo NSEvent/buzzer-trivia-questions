@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-30",
+  "categories": [
+    {
+      "name": "THE RULES OF THE GAME",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "You win if you pocket the 8-ball on this first shot of the game",
+          "choices": [
+            "the break",
+            "the rack",
+            "the lag",
+            "the opening"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "\\\"Polish\" this is played on a 100-square board, & pieces may move backwards to capture",
+          "choices": [
+            "backgammon",
+            "dominoes",
+            "chess",
+            "checkers"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "In this board game from India, a piece occupying your opponent's safety space cannot be captured",
+          "choices": [
+            "Monopoly",
+            "Parcheesi",
+            "Risk",
+            "Clue"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "The supine competitor may use no mechanical brakes",
+          "choices": [
+            "bobsled",
+            "curling",
+            "ice hockey",
+            "luge"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "While trying to pin your opponent, you can't get him in a hold below the waist",
+          "choices": [
+            "Freestyle wrestling",
+            "Greco-Roman wrestling",
+            "Lucha libre",
+            "Catch wrestling"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "PATRIOTIC SONGS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Katherine Lee Bates wrote the words \"O beautiful for spacious skies\" after a trip to this Colo. peak",
+          "choices": [
+            "Mount Elbert",
+            "Longs Peak",
+            "Mount Evans",
+            "Pikes Peak"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Song that says, \"You're the emblem of the land I love\\\"",
+          "choices": [
+            "\\\"You're A Grand Old Flag\\\"",
+            "America the Beautiful",
+            "God Bless America",
+            "The Battle Hymn of the Republic"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "When the South surrendered, Lincoln asked a band outside the White House to play this \"Southern\" song",
+          "choices": [
+            "Maryland, My Maryland",
+            "The Bonnie Blue Flag",
+            "Taps",
+            "\\\"Dixie\\\""
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "This anthem is sung to the tune of the old drinking song \"To Anacreon In Heaven\\\"",
+          "choices": [
+            "God Bless America",
+            "America the Beautiful",
+            "My Country 'Tis of Thee",
+            "\\\"The Star-Spangled Banner\\\""
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "In the George M. Cohan song, it's \"the emblem of the land I love\\\"",
+          "choices": [
+            "\\\"You're A Grand Old Flag\\\"",
+            "Over There",
+            "The Battle Hymn of the Republic",
+            "Yankee Doodle"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "CLASSIC MOVIE LINES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "1976: \"You talkin' to me? You talkin' to me? You talkin' to me?...\\\"",
+          "choices": [
+            "The Godfather",
+            "Chinatown",
+            "Taxi Driver",
+            "One Flew Over the Cuckoo's Nest"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "1964: \"Gentlemen, you can't fight in here, this is the war room\\\"",
+          "choices": [
+            "Dr. No",
+            "Fail Safe",
+            "Dr. Strangelove",
+            "The Manchurian Candidate"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "\\\"You want answers?! ...You want answers?! ...You can't handle the truth!\\\"",
+          "choices": [
+            "The Shawshank Redemption",
+            "Witness",
+            "A Few Good Men",
+            "Primal Fear"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "\\\"Why worry? Each of us is wearing an unlicensed nuclear accelerator on his back\\\"",
+          "choices": [
+            "Men in Black",
+            "Ghostbusters",
+            "Beetlejuice",
+            "Poltergeist"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"I see dead people\\\"",
+          "choices": [
+            "The Sixth Sense",
+            "The Others",
+            "Shutter Island",
+            "Psycho"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "FUN WITH ELEMENTS",
+    "clue": "You'll find a short term for a graduate of a particular college in this abundant metallic element",
+    "choices": [
+      "copper",
+      "titanium",
+      "aluminum",
+      "mercury"
+    ],
+    "correctIndex": 2
+  }
+}

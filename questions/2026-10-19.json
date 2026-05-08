@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-19",
+  "categories": [
+    {
+      "name": "\\\"U\" KNOW YOU KNOW",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "To avoid bad luck, don't open one of these indoors",
+          "choices": [
+            "an umbrella",
+            "a deck of cards",
+            "a folding chair",
+            "a pocket knife"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This character told the tales of plantation life that became the basis of the movie \"Song of the South\\\"",
+          "choices": [
+            "Uncle Remus",
+            "Uncle Tom",
+            "Br'er Rabbit",
+            "Br'er Fox"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "This bone runs from the wrist to the elbow",
+          "choices": [
+            "the radius",
+            "the humerus",
+            "the ulna",
+            "the tibia"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "In 1956 U.S. pilot Carmine Vito became the first & only man to fly one of these over Moscow",
+          "choices": [
+            "the U-2",
+            "the SR-71 Blackbird",
+            "the RB-57 Canberra",
+            "the U-3"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "It can mean a mischievous child, a hedgehog or a sea creature",
+          "choices": [
+            "an urchin",
+            "an otter",
+            "an oyster",
+            "an octopus"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "A SEEDY CATEGORY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Sushi is sometimes crusted with both the black & white variety of these",
+          "choices": [
+            "sesame seeds",
+            "poppy seeds",
+            "pumpkin seeds",
+            "hemp seeds"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Havarti cheese from Denmark is often flavored with these seeds also found in rye bread",
+          "choices": [
+            "cumin seeds",
+            "fennel seeds",
+            "caraway seeds",
+            "coriander seeds"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "You might say the black oil type of these is for the birds, since it's the most popular food used in feeders",
+          "choices": [
+            "sunflower seeds",
+            "nyjer seeds",
+            "safflower seeds",
+            "millet seeds"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "From the liquid they produce, the sesame & sunflower are known as this type of \"seed\\\"",
+          "choices": [
+            "fat seeds",
+            "pulp seeds",
+            "oil seeds",
+            "starch seeds"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "The rare production of a seed without this process taking place is called apomixis",
+          "choices": [
+            "germination",
+            "grafting",
+            "sporulation",
+            "pollination (or fertilization)"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "ACTIVISTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In addition to her successful children's books about animals, this author was a committed conservationist",
+          "choices": [
+            "(Beatrix) Potter",
+            "Rachel Carson",
+            "Margaret Wise Brown",
+            "Jane Goodall"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This Black comedian & civil rights activist wrote a \"Political Primer\" in 1971",
+          "choices": [
+            "Richard Pryor",
+            "Dick Gregory",
+            "Eddie Murphy",
+            "Dave Chappelle"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "\\\"We hold these truths to be self-evident: that all men & women are created equal\", said this 3-named woman in 1848",
+          "choices": [
+            "Susan B. Anthony",
+            "Lucretia Mott",
+            "Matilda Joslyn Gage",
+            "Elizabeth Cady Stanton"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "This activist was \"Chom\"ping at the bit to write 2003's \"Hegemony or Survival: America's Quest for Global Dominance\\\"",
+          "choices": [
+            "Chomsky",
+            "Orwell",
+            "Arendt",
+            "Hitchens"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "This first president of the SDS was the second husband of Jane Fonda",
+          "choices": [
+            "Jerry Rubin",
+            "Abbie Hoffman",
+            "Tom Hayden",
+            "Rennie Davis"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "FICTIONAL SENIORS",
+    "clue": "Little Nell's grandfather loses his store to the evil Daniel Quilp in this 1840s novel",
+    "choices": [
+      "David Copperfield",
+      "The Old Curiosity Shop",
+      "Great Expectations",
+      "Bleak House"
+    ],
+    "correctIndex": 1
+  }
+}

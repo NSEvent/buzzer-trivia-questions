@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-01",
+  "categories": [
+    {
+      "name": "THE BOSTON TEA PARTY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "There is evidence that once the Patriots stormed aboard, the ships' crews helped them do this",
+          "choices": [
+            "burn the tea",
+            "drink the tea",
+            "dump tea (overboard)",
+            "load the tea"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Thousands met near this famed meeting house to support & spur on the raiders",
+          "choices": [
+            "Old State House",
+            "Faneuil Hall",
+            "Old South Meeting House",
+            "King's Chapel"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "In retaliation the British passed a series of laws the Colonists dubbed these",
+          "choices": [
+            "Coercive Acts",
+            "Stamp Act",
+            "Townshend Acts",
+            "Intolerable Acts"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Closing the port until all tea was paid for was part of the Coercive Acts, better known as these",
+          "choices": [
+            "the Intolerable Acts",
+            "Coercive Acts",
+            "Quartering Act",
+            "Tea Act"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "The tea belonged to this company whose monopoly angered the colonists",
+          "choices": [
+            "British East India Company",
+            "Dutch East India Company",
+            "Virginia Company",
+            "Hudson's Bay Company"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "VACCINES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Prior to the vaccine, 3 to 4 million people a year in the U.S. got this disease also called rubeola",
+          "choices": [
+            "measles",
+            "mumps",
+            "rubella",
+            "chickenpox"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Developed in 1796 by Edward Jenner, the first successful vaccine protected against this deadly disease now eradicated",
+          "choices": [
+            "polio",
+            "smallpox",
+            "yellow fever",
+            "tuberculosis"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Many believe a recent outbreak of this disease tied to Disneyland could have been prevented by vaccine",
+          "choices": [
+            "pertussis",
+            "measles",
+            "polio",
+            "mumps"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Immunization against this disease aka lockjaw has reduced cases in the U.S. to fewer than 50 each year",
+          "choices": [
+            "tetanus",
+            "diphtheria",
+            "poliomyelitis",
+            "measles"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "The vaccine for this, also known as pertussis, is given in combination with other vaccines",
+          "choices": [
+            "scarlet fever",
+            "influenza",
+            "whooping cough",
+            "mumps"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "STARTS WITH A PAST TENSE VERB",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A lycanthrope",
+          "choices": [
+            "a werewolf",
+            "a vampire",
+            "a goblin",
+            "a troll"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Diana Prince of comic books was called this kind of woman",
+          "choices": [
+            "marvel",
+            "wonder",
+            "fury",
+            "strange"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "This is the most abundant order of mammals, including beavers & porcupines",
+          "choices": [
+            "lagomorphs",
+            "carnivores",
+            "rodents",
+            "primates"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "This root becomes a green paste that's a condiment for sashimi",
+          "choices": [
+            "horseradish",
+            "ginger",
+            "wasabi",
+            "mustard"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Adjective for a union of states under a central government",
+          "choices": [
+            "federal",
+            "confederal",
+            "unitary",
+            "centralized"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "ALL KINDS OF BOOKS",
+    "clue": "\\\"Reality Sandwiches\" is a 1963 collection by this poet of the Beat generation",
+    "choices": [
+      "Lawrence Ferlinghetti",
+      "Jack Kerouac",
+      "William Burroughs",
+      "(Allen) Ginsberg"
+    ],
+    "correctIndex": 3
+  }
+}

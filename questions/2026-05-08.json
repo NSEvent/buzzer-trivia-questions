@@ -183,15 +183,14 @@
     }
   ],
   "dailyDouble": {
-    "category": "Science & Nature",
-    "value": 600,
-    "clue": "Of all planets in our solar system, this gas giant has the shortest day at roughly 10 hours.",
+    "clue": "Around since 1928, it now says, \"One small dab and it shines, styles and conditions hair\\\"",
     "choices": [
-      "Saturn",
-      "Neptune",
-      "Mars",
-      "Jupiter"
+      "Brylcreem",
+      "Vitalis",
+      "Dapper Dan",
+      "Wildroot Cream-Oil"
     ],
-    "correctIndex": 3
+    "correctIndex": 0,
+    "category": "Science & Nature"
   }
 }

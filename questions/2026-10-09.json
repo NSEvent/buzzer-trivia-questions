@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-09",
+  "categories": [
+    {
+      "name": "MAYORS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The last 2 Latinos elected mayor of this huge U.S. city are Cristobal Aguilar (1872) & Antonio Villaraigosa (2005)",
+          "choices": [
+            "Los Angeles",
+            "Chicago",
+            "New York City",
+            "Houston"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Its mayors have included Josiah Quincy, arranger of a certain market",
+          "choices": [
+            "Philadelphia",
+            "Baltimore",
+            "Boston",
+            "Detroit"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "At age 31, though looking more like 13, this future presidential candidate was Cleveland's mayor",
+          "choices": [
+            "Michael Bloomberg",
+            "Rudy Giuliani",
+            "Ed Koch",
+            "Dennis Kucinich"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "In between his third & fourth terms as mayor of Washington, D.C., he served 6 months in prison on drug charges",
+          "choices": [
+            "Carl Stokes",
+            "Kwame Kilpatrick",
+            "Ray Nagin",
+            "Marion Barry"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Elected in Chicago in 2019, this alliterative mayor made news when she had different views from the teachers' union in 2021",
+          "choices": [
+            "Harold Washington",
+            "Lori Lightfoot",
+            "Rahm Emanuel",
+            "Jane Byrne"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "THE NFL",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1956 this Giants halfback & future \"Monday Night Football\" announcer was the NFL's Most Valuable Player",
+          "choices": [
+            "Frank Gifford",
+            "John Madden",
+            "Merlin Olsen",
+            "Don Meredith"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "After finishing the 2005 season with a 3-13 record, this team bounced back in 2006 to win the NFC South",
+          "choices": [
+            "the Carolina Panthers",
+            "the Atlanta Falcons",
+            "the New Orleans Saints",
+            "the Tampa Bay Buccaneers"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Pete Carroll left the sunny climes of L.A. & USC to become head coach of this team in a decidedly Rainier environment",
+          "choices": [
+            "the San Francisco 49ers",
+            "the Oakland Raiders",
+            "the Arizona Cardinals",
+            "the Seahawks"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "After coaching this team for 3 seasons, Al Davis became one of its owners",
+          "choices": [
+            "the Patriots",
+            "the Raiders",
+            "the Jets",
+            "the Chargers"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "On Dec. 13, 2009 Brandon Marshall of this team set a one-game record with 21 receptions\u2014in a loss to the Colts",
+          "choices": [
+            "the Jaguars",
+            "the Texans",
+            "the Chiefs",
+            "the Broncos"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "MUSIC ON THE MAP",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"When I dream about the moonlight on the Wabash, then I long for my...home\" there",
+          "choices": [
+            "Ohio",
+            "Michigan",
+            "Indiana",
+            "Illinois"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Elvis' 1969 hit \"In The Ghetto\" takes place in the ghetto of this city",
+          "choices": [
+            "Memphis",
+            "St. Louis",
+            "Chicago",
+            "Detroit"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Roy Acuff's Indiana express",
+          "choices": [
+            "Orange Blossom Special",
+            "Chattanooga Choo Choo",
+            "The Midnight Special",
+            "the Wabash Cannonball"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Married \"in a fever\", N. Sinatra & L. Hazlewood were ready to go there \"ever since the fire went out\\\"",
+          "choices": [
+            "Nashville",
+            "Memphis",
+            "Jackson",
+            "Savannah"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "When \"Big Sam left Seattle in the year of '92\" he was headed there",
+          "choices": [
+            "\"South of Graceland\"",
+            "\"East of the Mississippi\"",
+            "\\\"North To Alaska\\\"",
+            "\"West of Memphis\""
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "COMPUTER LITERACY",
+    "clue": "This term for diplomatic procedure also refers to an agreed format for data to be communicated",
+    "choices": [
+      "Convention",
+      "Accord",
+      "Standard",
+      "Protocol"
+    ],
+    "correctIndex": 3
+  }
+}

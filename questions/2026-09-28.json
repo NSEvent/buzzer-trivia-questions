@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-28",
+  "categories": [
+    {
+      "name": "A GREEN THUMB",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "For cutting tall grass, \"one\" of these curved blades on a long, bent handle \"fits all\\\"",
+          "choices": [
+            "a sickle",
+            "a machete",
+            "a scythe",
+            "a billhook"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "We hope you're not at a loess for words & can tell us that loess is a type of this deposited by the wind",
+          "choices": [
+            "sand",
+            "clay",
+            "gravel",
+            "soil"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "You can help plants gro (that's G-R-O) with food or a fertilizer spike from this Scotts Co. brand",
+          "choices": [
+            "Jobe's",
+            "Miracle-Gro",
+            "Espoma",
+            "Osmocote"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "The RHS, it sponsors the famous Chelsea Flower Show",
+          "choices": [
+            "the Royal Botanical Gardens",
+            "the Royal Horticultural Society",
+            "Chelsea Physic Garden",
+            "the National Garden Scheme"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "This exotic flower can be cultivated in a backyard hothouse",
+          "choices": [
+            "an orchid",
+            "a bromeliad",
+            "a begonia",
+            "a camellia"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "YOU CAN QUOTE ME",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"I consider myself the luckiest man on the face of the Earth... I've got an awful lot to live for\\\"",
+          "choices": [
+            "Babe Ruth",
+            "Lou Gehrig",
+            "Joe DiMaggio",
+            "Ty Cobb"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "\\\"I see one third of a nation ill-housed, ill-clad, ill-nourished\\\"",
+          "choices": [
+            "Harry S. Truman",
+            "F.D.R.",
+            "Herbert Hoover",
+            "Theodore Roosevelt"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "\\\"And like the old soldier of that ballad, I now close my military career and just fade away\\\"",
+          "choices": [
+            "Dwight D. Eisenhower",
+            "George S. Patton",
+            "George C. Marshall",
+            "(Douglas) MacArthur"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "On March 4, 1966 John Lennon made the scandalous remark, \"We're more popular than\" him \"now\\\"",
+          "choices": [
+            "Jesus",
+            "Muhammad",
+            "Buddha",
+            "Moses"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"Our flag is red, white and blue, but our nation is a rainbow... we're all precious in God's sight\\\"",
+          "choices": [
+            "Jesse Jackson",
+            "Al Sharpton",
+            "Martin Luther King Jr.",
+            "Andrew Young"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "DUETS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Her debut album \"On the 6\" featured \"No Me Ames\", a duet in Spanish, with future husband Marc Anthony",
+          "choices": [
+            "Shakira",
+            "Christina Aguilera",
+            "Gloria Estefan",
+            "Jennifer Lopez"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "This singer featured on \"Ally McBeal\" duetted with Dan Hill on 1987's \"Can't We Try\\\"",
+          "choices": [
+            "Melissa Etheridge",
+            "Lisa Loeb",
+            "Vonda Shepard",
+            "Tori Amos"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "1 of 2 Top 40 duets sung by Marvin Gaye & Tammi Terrell with \"Ain't\" in the title",
+          "choices": [
+            "Ain't No Stoppin' Us Now",
+            "Ain't Misbehavin'",
+            "Ain't Too Proud to Beg",
+            "\\\"Ain't No Mountain High Enough\" or \"Ain't Nothing Like The Real Thing\\\""
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Who could forget Bing Crosby & this rocker's rousing rendition of \"Little Drummer Boy\" on a 1977 TV special?",
+          "choices": [
+            "Mick Jagger",
+            "David Bowie",
+            "Freddie Mercury",
+            "Elton John"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "In 1980 these 2 former members of the New Christy Minstrels teamed up for \"Don't Fall In Love With A Dreamer\\\"",
+          "choices": [
+            "Dolly Parton & Porter Wagoner",
+            "Kenny Rogers & Dottie West",
+            "Kenny Rogers & Kim Carnes",
+            "Olivia Newton-John & John Travolta"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "DANGEROUS WEATHER",
+    "clue": "The media dubbed Hurricane Sandy this 10-letter name, which sounds perfect for the Avengers",
+    "choices": [
+      "megastorm",
+      "tornado",
+      "superstorm",
+      "blizzard"
+    ],
+    "correctIndex": 2
+  }
+}

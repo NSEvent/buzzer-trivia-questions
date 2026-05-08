@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-18",
+  "categories": [
+    {
+      "name": "WHAT AN IDIOM!",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It doesn't affect me adversely, so it's \"No skin\" from here",
+          "choices": [
+            "off my back",
+            "off my nose",
+            "off my plate",
+            "off my hands"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "If you're \"in for a penny\", you're also in for one of these British units",
+          "choices": [
+            "a shilling",
+            "a guinea",
+            "a pound",
+            "a crown"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "19th century British PM Lord John Russell was jeered for writing nonsense when he coined \"Conspicuous by its\" this",
+          "choices": [
+            "silence",
+            "oversight",
+            "absence",
+            "deficiency"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "If you are impoverished, you are as poor as this rodent",
+          "choices": [
+            "a field mouse",
+            "a barn owl",
+            "a church mouse",
+            "a stray cat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "In a 1696 play, a character says, if I get a patent \"I shall be as rich as\" this proverbially rolling-in-it king",
+          "choices": [
+            "Croesus",
+            "Midas",
+            "Solomon",
+            "Sardanapalus"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "ONE-NAMED AUTHORS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "As Peyo, Belgian comic book author Pierre Culliford created this group of small blue humanoids who live in the forest",
+          "choices": [
+            "Smurfs",
+            "Dwarves",
+            "Elves",
+            "Gnomes"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Moliere dominated 17th c. theatre with works like \"Tartuffe\", \"The Miser\" & this 1666 play about a true hater",
+          "choices": [
+            "Le Bourgeois Gentilhomme",
+            "Le M\u00e9decin malgr\u00e9 lui",
+            "Le Misanthrope",
+            "L'\u00c9cole des femmes"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This Roman poet's \"Art of Love\" from around 1 B.C. is a hedonistic seduction manual still useful today",
+          "choices": [
+            "Virgil",
+            "Horace",
+            "Lucretius",
+            "Ovid"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "German poet Novalis pioneered this passionate literary movement & died young of TB in 1801",
+          "choices": [
+            "Romanticism",
+            "Realism",
+            "Symbolism",
+            "Naturalism"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "The 13th c. Persian poet of \"spiritual couplets\", Rumi followed this mystical practice that's about as old as Islam itself",
+          "choices": [
+            "Sufiism",
+            "Sharia",
+            "Sunnism",
+            "Tawhid"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "WESTERN EUROPE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This 270-mile mountain chain once forced Spain & France to trade by sea",
+          "choices": [
+            "Alps",
+            "the Pyrenees",
+            "Apennines",
+            "Cantabrian Mountains"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "The Temple of La Sagrada Fam\u00edlia has been growing tower by tower since 1882 when construction started in this Spanish city",
+          "choices": [
+            "Barcelona",
+            "Madrid",
+            "Valencia",
+            "Seville"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "It borders Austria & the North Sea",
+          "choices": [
+            "Netherlands",
+            "Switzerland",
+            "Germany",
+            "Belgium"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "The treasure chamber of this little Alpine land includes Faberge eggs & Moon rocks",
+          "choices": [
+            "Liechtenstein",
+            "Andorra",
+            "Monaco",
+            "Switzerland"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "This 600-mile river of Central France is lined with picturesque chateaus",
+          "choices": [
+            "the Seine",
+            "the Garonne",
+            "the Rhine",
+            "the Loire"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "FOREIGN STATES",
+    "clue": "Gombe & Lagos",
+    "choices": [
+      "Kenya",
+      "Ghana",
+      "Nigeria",
+      "South Africa"
+    ],
+    "correctIndex": 2
+  }
+}

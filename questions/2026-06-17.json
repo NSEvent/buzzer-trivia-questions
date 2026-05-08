@@ -19,9 +19,9 @@
           "value": 400,
           "clue": "It means to construct, or to fake, as in your excuse for being late",
           "choices": [
-            "Fabricate",
-            "Corroborate",
+            "Manufacture",
             "Exaggerate",
+            "Concoct",
             "Fabricate"
           ],
           "correctIndex": 3
@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "You may have this German desire for travel, but snap out of it—there's a game to play!",
+          "clue": "You may have this German desire for travel, but snap out of it\u2014there's a game to play!",
           "choices": [
             "Fernweh",
             "Wanderlust",
@@ -112,7 +112,7 @@
           "value": 1000,
           "clue": "From this writer's \"Tin Drum\": \"Even bad books are books and therefore sacred\\\"",
           "choices": [
-            "(Heinrich) Böll",
+            "(Heinrich) B\u00f6ll",
             "(Thomas) Mann",
             "(Gunter) Grass",
             "(Hermann) Hesse"
@@ -187,7 +187,7 @@
     "clue": "On Feb. 20, 1971 this major general promoted himself to general & President of Uganda",
     "choices": [
       "Mobutu Sese Seko",
-      "Jean-Bédel Bokassa",
+      "Jean-B\u00e9del Bokassa",
       "Idi Amin",
       "Robert Mugabe"
     ],

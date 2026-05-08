@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-16",
+  "categories": [
+    {
+      "name": "MICHIGAN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1847, during a controversy over location, the state capital was moved from Detroit to this city",
+          "choices": [
+            "Lansing",
+            "Ann Arbor",
+            "Flint",
+            "Kalamazoo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "You can see a huge statue of him in Ironwood, Mich, not by the shores of Gitche Gumee",
+          "choices": [
+            "Hiawatha",
+            "Tecumseh",
+            "Pontiac",
+            "Sagamore"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Someone told me it's all happening at this \"soo\" at the northeastern end of the Upper Peninsula with a same-named twin city in Canada",
+          "choices": [
+            "Marquette",
+            "Escanaba",
+            "Houghton",
+            "Sault Ste Marie"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "The name of this city in the west of the state refers to fast-moving water on a certain river",
+          "choices": [
+            "Kalamazoo",
+            "Grand Rapids",
+            "Muskegon",
+            "Saginaw"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Known for its killer cereals, this south-central city was named for a fight between duos of surveyors & local Native Americans",
+          "choices": [
+            "Grand Rapids",
+            "Flint",
+            "Kalamazoo",
+            "Battle Creek"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "HOLLYWOOD",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Will Rogers said, \"Everytime I see him work, it looks to me like a bunch of firecrackers going off all at once\\\"",
+          "choices": [
+            "James Cagney",
+            "Edward G. Robinson",
+            "George Raft",
+            "Fred MacMurray"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "One of the \"12 Angry Men\", he won an Oscar for \"A Thousand Clowns\\\"",
+          "choices": [
+            "Martin Balsam",
+            "Lee J. Cobb",
+            "Jack Klugman",
+            "Burgess Meredith"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "This landmark D.W. Griffith epic interweaves 4 stories of prejudice & inhumanity from ancient times on",
+          "choices": [
+            "The Birth of a Nation",
+            "The Last Command",
+            "Way Down East",
+            "Intolerance"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "It's not monkey business when Ronald Reagan steals a chimp to test heredity vs. environment in this comedy",
+          "choices": [
+            "The Mouse That Roared",
+            "Bedtime for Bonzo",
+            "Pillow Talk",
+            "The Great Race"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "The big 5 companies of the studio era were Paramount (actually in Hollywood!), RKO, Fox, MGM & this familial company",
+          "choices": [
+            "United Artists",
+            "Columbia Pictures",
+            "Warner Bros.",
+            "Universal Studios"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "FRUIT FORWARD",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It's owned by Gap Inc.: ____ Republic",
+          "choices": [
+            "Banana Republic",
+            "Apple Republic",
+            "Orange Republic",
+            "Cherry Republic"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Neat & tidy: ____-pie order",
+          "choices": [
+            "blueberry",
+            "apple",
+            "cherry",
+            "strawberry"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Maybe your Schwinn bicycle had one: ____ seat",
+          "choices": [
+            "banana",
+            "watermelon",
+            "papaya",
+            "mango"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Nickname for an airflow from Hawaii: ____ express",
+          "choices": [
+            "mango",
+            "papaya",
+            "pineapple",
+            "guava"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Mattel's game of crazy combinations: ____ to ____",
+          "choices": [
+            "Oranges to Oranges",
+            "Grapes to Grapes",
+            "Peaches to Peaches",
+            "Apples to Apples"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "PUDDING",
+    "clue": "For lactose-intolerant pudding lovers, there's Trembleque, made with this \"milk\" from a tree",
+    "choices": [
+      "almond milk",
+      "coconut milk",
+      "oat milk",
+      "cashew milk"
+    ],
+    "correctIndex": 1
+  }
+}

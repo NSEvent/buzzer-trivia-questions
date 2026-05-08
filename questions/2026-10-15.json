@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-15",
+  "categories": [
+    {
+      "name": "ANAGRAM ZOO",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A tiny terrier: RISKY HERO",
+          "choices": [
+            "Poodle",
+            "Yorkshire",
+            "Beagle",
+            "Chihuahua"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "A mountain ape: LIAR LOG",
+          "choices": [
+            "orangutan",
+            "gorilla",
+            "lemur",
+            "baboon"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Ocean mammal: PIN HOLD",
+          "choices": [
+            "a whale",
+            "a dolphin",
+            "a seal",
+            "a manatee"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "An ape: MICE ZAP HEN",
+          "choices": [
+            "orangutan",
+            "gibbon",
+            "chimpanzee",
+            "bonobo"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Asian snake fighter: EGO MOONS",
+          "choices": [
+            "cobra",
+            "viper",
+            "mamba",
+            "a mongoose"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "HIGH WATER",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "After floods in 1966, UNESCO made efforts to save this Italian city & its treasures, like the Biblioteca Marciana",
+          "choices": [
+            "Florence",
+            "Rome",
+            "Milan",
+            "Venice"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "In September & October 1999 much of this country's city of Villahermosa was under water",
+          "choices": [
+            "Guatemala",
+            "Colombia",
+            "Mexico",
+            "Brazil"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Flooding in this country's Quang Ngai province in late 1999 destroyed hundreds of homes",
+          "choices": [
+            "Vietnam",
+            "Thailand",
+            "Cambodia",
+            "Laos"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "In 1887, 1931 & 1938 northern China was devastated by flooding of the Huang He, this colorful river",
+          "choices": [
+            "Orange",
+            "Blue",
+            "Yellow",
+            "Green"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "2010-11 floods in Australia were exacerbated by this Pacific Ocean weather phenomenon with a feminine name",
+          "choices": [
+            "La Ni\u00f1a",
+            "El Ni\u00f1o",
+            "Typhoon",
+            "Monsoon"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "WHEN THEY WERE YOUNG",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "During 6th grade this aviator & brother of Wilbur was expelled from school for mischievous behavior",
+          "choices": [
+            "Orville Wright",
+            "Charles Lindbergh",
+            "Glenn Curtiss",
+            "Wilbur Wright"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "During his summers in high school, Ronald Reagan worked as one of these, maybe inspiring David Hasselhoff",
+          "choices": [
+            "camp counselor",
+            "pool attendant",
+            "beach patrol",
+            "lifeguard"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Growing up in Poland, he excelled in drama & sports, neither one a requirement for his becoming pope",
+          "choices": [
+            "Pope John Paul II",
+            "Pope Benedict XVI",
+            "Pope Pius XII",
+            "Pope Leo XIII"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "He got a violin at age 6 & continued to play through the rest of his 39 years (really 80)",
+          "choices": [
+            "Bob Hope",
+            "George Burns",
+            "Jack Benny",
+            "Eddie Murphy"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Future astronaut Sally Ride was so good at this sport that Billie Jean King suggested she turn professional",
+          "choices": [
+            "basketball",
+            "swimming",
+            "golf",
+            "tennis"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "CIVIL RIGHTS",
+    "clue": "Its deadline for passage ran out June 30,1982",
+    "choices": [
+      "the Nineteenth Amendment",
+      "the Civil Rights Act",
+      "the Equal Pay Act",
+      "the E.R.A. (the Equal Rights Amendment)"
+    ],
+    "correctIndex": 3
+  }
+}

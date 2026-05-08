@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-21",
+  "categories": [
+    {
+      "name": "THE SPORT PLAYED",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Barry Sanders, Jim McMahon, Eric Dickerson",
+          "choices": [
+            "baseball",
+            "football",
+            "soccer",
+            "rugby"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Marshall Holman, Pete Weber & Earl Anthony",
+          "choices": [
+            "golf",
+            "cricket",
+            "lacrosse",
+            "Bowling"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Lisa Leslie & Sheryl Swoopes",
+          "choices": [
+            "volleyball",
+            "hockey",
+            "basketball",
+            "gymnastics"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Todd Woodbridge & Mark Woodforde",
+          "choices": [
+            "badminton",
+            "squash",
+            "table tennis",
+            "tennis"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Sergei Fedorov & Pavel Bure",
+          "choices": [
+            "soccer",
+            "basketball",
+            "baseball",
+            "hockey"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "____ OF THE ____",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A Baskin-Robbins program, or an expression meaning \"popular for right now\\\"",
+          "choices": [
+            "wave of the future",
+            "flavor of the month",
+            "taste of the season",
+            "curse of the pharaohs"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "The Germans drove a wedge into Allied lines during this World War II offensive, hence its name",
+          "choices": [
+            "Battle of the Somme",
+            "Battle of the Atlantic",
+            "Battle of the Bulge",
+            "Battle of the Coral Sea"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "In slang, \"scraping\" this is reaching for something of the lowest quality",
+          "choices": [
+            "the top of the heap",
+            "the heart of the matter",
+            "the bottom of the barrel",
+            "the crux of the issue"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Hawkeye (AKA Natty Bumppo) lives in the wilderness with his friend Chingachgook in this 1826 novel",
+          "choices": [
+            "The Deerslayer",
+            "The Pioneers",
+            "\\\"Last of the Mohicans\\\"",
+            "The Pathfinder"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "This phrase refers to the fortune (or misfortune) of a blind pick from a deck of cards",
+          "choices": [
+            "luck of the draw",
+            "roll of the dice",
+            "flip of a coin",
+            "stroke of luck"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "HETERONYMS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "To bump up against something repeatedly & a place to grab all the food you can eat",
+          "choices": [
+            "lead",
+            "buffet [BUF-fit] & buffet [buf-FAY]",
+            "tear",
+            "wind"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "A month, or an adjective meaning \"eminent\\\"",
+          "choices": [
+            "minute",
+            "record",
+            "August [AW-gust]/august [aw-GUST]",
+            "contest"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "An undercoat of paint, or an old-time school book",
+          "choices": [
+            "base coat",
+            "textbook",
+            "primer & primer",
+            "reader"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "A fish, or a low, deep voice",
+          "choices": [
+            "double bass",
+            "tuba",
+            "baritone",
+            "bass [bass/base]"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Adjective for one from Gdansk & to make shiny by rubbing",
+          "choices": [
+            "German",
+            "lacquer",
+            "buffing",
+            "Polish [POH-lish] and polish [PAW-lish]"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "CLOSE QUARTERS",
+    "clue": "A 13-mile & often 45-minute stretch of I-405 in this California city has been identified as the USA's most congested highway",
+    "choices": [
+      "San Francisco",
+      "San Diego",
+      "Los Angeles",
+      "Long Beach"
+    ],
+    "correctIndex": 2
+  }
+}

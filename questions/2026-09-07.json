@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-07",
+  "categories": [
+    {
+      "name": "RIDDLE ME THIS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A famous Sumerian riddle says a person enters this institution \"blind, but comes out seeing\\\"",
+          "choices": [
+            "a school",
+            "a library",
+            "a university",
+            "a monastery"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "To pay up for a riddle solved, this biblical strongman murders 30 men who had nothing to do with it and steals their stuff",
+          "choices": [
+            "Goliath",
+            "David",
+            "Samson",
+            "Gideon"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Sphinx: What animal walks on 4 legs in the morning, 2 at noon & 3 in the evening? Oedipus: This",
+          "choices": [
+            "man",
+            "human",
+            "creature",
+            "mortal"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "This Puccini princess of Peking vows to marry a man who can answer her 3 riddles; anyone who fails must die!",
+          "choices": [
+            "Turandot",
+            "Cio-Cio-San",
+            "Tosca",
+            "Li\u00f9"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "This Puccini opera turns on the solution to 3 riddles posed by the heroine",
+          "choices": [
+            "Madama Butterfly",
+            "Turandot",
+            "Tosca",
+            "La Boh\u00e8me"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "MYTHICAL CREATURES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The Bennu, a bird sacred to the Egyptian god Ra, represented this heavenly body",
+          "choices": [
+            "the Moon",
+            "the Earth",
+            "the Sun",
+            "Mars"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Marco Polo told us of this 3-letter bird that could carry an elephant in its claws",
+          "choices": [
+            "the griffin",
+            "the roc",
+            "the phoenix",
+            "the basilisk"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "A branch from a hawthorn bush will keep them in their coffins where they belong",
+          "choices": [
+            "vampires",
+            "werewolves",
+            "zombies",
+            "ghouls"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "This winged creature sprang from the blood of Medusa after Perseus beheaded her",
+          "choices": [
+            "Griffon",
+            "Chimera",
+            "Pegasus",
+            "Hippogriff"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Each year 14 Athenian boys & girls were sacrificed by being imprisoned in a maze with him",
+          "choices": [
+            "the Minotaur",
+            "Hydra",
+            "Sphinx",
+            "Cerberus"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "SLOGANEERING",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1987 using the slogan \"Catch the wave\", Max Headroom pitched this \"new\" soft drink",
+          "choices": [
+            "New Coke",
+            "Pepsi Clear",
+            "Coca-Cola Classic",
+            "Surge"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This brokerage firm is still \"Bullish On America\\\"",
+          "choices": [
+            "Charles Schwab",
+            "Fidelity Investments",
+            "TD Ameritrade",
+            "Merrill Lynch"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This laundry detergent was first marketed with the slogan \"Oceans of suds\\\"",
+          "choices": [
+            "Persil",
+            "Tide",
+            "Gain",
+            "All"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "The slogan of this Johnson & Johnson product was \"Have you had your sprinkle today?\\\"",
+          "choices": [
+            "Listerine",
+            "BAND-AID",
+            "Neutrogena",
+            "Shower to Shower"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This computer company is working to build \"a smarter planet\\\"",
+          "choices": [
+            "HP",
+            "Dell",
+            "IBM",
+            "Microsoft"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "WHAT'S IN YOUR WALLET?",
+    "clue": "Why do I have one of these bills that even the Bureau of Engraving & Printing says \"for most of their history... have been unpopular\\\"",
+    "choices": [
+      "a $5 bill",
+      "a $10 bill",
+      "a $20 bill",
+      "a $2 bill"
+    ],
+    "correctIndex": 3
+  }
+}

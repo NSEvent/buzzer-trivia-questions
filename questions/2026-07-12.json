@@ -33,7 +33,7 @@
             "Xhosa",
             "Zulu",
             "Sotho",
-            "Zulu"
+            "Tswana"
           ],
           "correctIndex": 1
         },
@@ -162,7 +162,7 @@
           "clue": "(Kelly of the Clue Crew reports.) Give a length of paper a half-twist, join the ends, & you've created one of these one-sided strips named for a German topologist",
           "choices": [
             "A Klein bottle",
-            "A Möbius strip",
+            "A M\u00f6bius strip",
             "A torus",
             "A Riemann surface"
           ],

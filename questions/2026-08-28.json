@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-28",
+  "categories": [
+    {
+      "name": "IT'S A LONG STORY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "You will definitely lose some time delving into his 7-volume \"A la recherche du temps perdu\\\"",
+          "choices": [
+            "Proust",
+            "Balzac",
+            "Joyce",
+            "Dickens"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Dorothy Dunnett's 6-volume Lymond Chronicles begin in this U.K. country in the aftermath of war with England",
+          "choices": [
+            "Wales",
+            "Scotland",
+            "Northern Ireland",
+            "Ireland"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "His aptly named \"Infinite Jest\" has drawn comparisons to the works of Thomas Pynchon & Don DeLillo",
+          "choices": [
+            "Jonathan Franzen",
+            "Philip Roth",
+            "David Foster Wallace",
+            "William Gaddis"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "After \"Pamela\", Samuel Richardson wrote a million-word novel about this heroine",
+          "choices": [
+            "Evelina",
+            "Cecilia",
+            "Clarissa",
+            "Fanny Price"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Dmitry is arrested & convicted for his dad's murder in this Dostoyevsky novel, but Smerdyakov actually committed the crime",
+          "choices": [
+            "Crime and Punishment",
+            "The Idiot",
+            "Demons",
+            "The Brothers Karamazov"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "GANGSTERS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Arnold \"The Brain\" Rothstein was accused of masterminding the big fix of this in 1919; it wasn't proved",
+          "choices": [
+            "Preakness Stakes",
+            "Stanley Cup Finals",
+            "World Series",
+            "Kentucky Derby"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Dion O'Banion ran his gang empire out of a Chicago flower shop...until 3 of this rival's men came by for \"flowers\" in 1924",
+          "choices": [
+            "Johnny Torrio",
+            "Bugs Moran",
+            "(Al) Capone",
+            "Dutch Schultz"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "\\\"Trigger\" Burke was hired to silence \"Specs\" O'Keefe, one of the gang involved in this 1950 Boston heist",
+          "choices": [
+            "the Brinks Robbery",
+            "the Great Train Robbery",
+            "the Northfield Raid",
+            "the Lufthansa Heist"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Deported to Italy, Lucky Luciano slipped back to this Caribbean island to run his U.S. operations",
+          "choices": [
+            "Puerto Rico",
+            "Cuba",
+            "Jamaica",
+            "Dominican Republic"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Salvatore Maranzano's efforts to make himself \"Capo di Tutti Capi\", this, did not end well for Sal",
+          "choices": [
+            "Godfather",
+            "Underboss",
+            "Caporegime",
+            "Boss of All Bosses"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "HERBS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This herb is essential both to bechamel sauce and to a bouquet garni",
+          "choices": [
+            "thyme",
+            "bay leaf",
+            "parsley",
+            "rosemary"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Vichyssoise is made with leeks & garnished with this other member of the onion family, the smallest one",
+          "choices": [
+            "scallions",
+            "shallots",
+            "chives",
+            "spring onions"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "It's an \"F\"-festival: the Florence type of this herb that tastes like licorice is also called finocchio",
+          "choices": [
+            "fenugreek",
+            "tarragon",
+            "fennel",
+            "rosemary"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "There actually is an herb called this, a word for a flavor that is salty or spicy but not sweet",
+          "choices": [
+            "savory",
+            "sage",
+            "parsley",
+            "basil"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Eating one seed from the castor bean can be fatal due to the presence of this blood-clumping toxin",
+          "choices": [
+            "cyanide",
+            "strychnine",
+            "arsenic",
+            "ricin"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "MARVEL",
+    "clue": "This hero used Dr. Donald Blake & Sigurd Jarlson as aliases & tips the scales at a thunder-god-like 6'6\", 640 pounds",
+    "choices": [
+      "Odin",
+      "Loki",
+      "Hulk",
+      "Thor"
+    ],
+    "correctIndex": 3
+  }
+}

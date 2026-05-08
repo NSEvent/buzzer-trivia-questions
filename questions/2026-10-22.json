@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-22",
+  "categories": [
+    {
+      "name": "PREFIXES & SUFFIXES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Cardio- is this body part",
+          "choices": [
+            "the liver",
+            "the heart",
+            "the brain",
+            "the lungs"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "This prefix that leads into -adroit means bad",
+          "choices": [
+            "dys",
+            "mis",
+            "pseudo",
+            "mal"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "French gives us this 4-letter suffix that makes everything smaller",
+          "choices": [
+            "ling",
+            "ule",
+            "kin",
+            "ette"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "From the Latin for \"around\", this prefix hangs around \"-flex\" as a mark used in French words",
+          "choices": [
+            "trans",
+            "peri",
+            "sub",
+            "circum"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Semi- and hemi- both mean this",
+          "choices": [
+            "quarter",
+            "third",
+            "half",
+            "whole"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "BOOKS BY PRESIDENTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"A Time to Heal\\\"",
+          "choices": [
+            "Jimmy Carter",
+            "Richard Nixon",
+            "Lyndon B. Johnson",
+            "Gerald Ford"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "\\\"Strenuous Life\\\"",
+          "choices": [
+            "Theodore Roosevelt",
+            "William Howard Taft",
+            "Woodrow Wilson",
+            "Franklin D. Roosevelt"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Published in 1866, his \"Administration on the Eve of Rebellion\\\"",
+          "choices": [
+            "Lincoln",
+            "Andrew Johnson",
+            "Buchanan",
+            "Franklin Pierce"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "\\\"Looking Forward: An Autobiography\\\"",
+          "choices": [
+            "George H.W. Bush",
+            "Ronald Reagan",
+            "Gerald Ford",
+            "Lyndon B. Johnson"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"Christmas in Plains\\\"",
+          "choices": [
+            "Franklin D. Roosevelt",
+            "Jimmy Carter",
+            "Dwight D. Eisenhower",
+            "Woodrow Wilson"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "PRESIDENTIAL HOMES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This family home of George Washington was originally called Little Hunting Creek Plantation",
+          "choices": [
+            "Mount Vernon",
+            "Monticello",
+            "Hermitage",
+            "Hyde Park"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "John Tyler, who deemed himself a political outlaw like Robin Hood, named his Virginia home this",
+          "choices": [
+            "Monticello",
+            "Mount Vernon",
+            "Hermitage",
+            "Sherwood Forest"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Hickory Hill, which he later sold to his brother",
+          "choices": [
+            "Franklin D. Roosevelt",
+            "John F. Kennedy",
+            "Woodrow Wilson",
+            "Harry S. Truman"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Sherwood Forest, John Tyler's home, was owned in the late 18th century by this immediate predecessor",
+          "choices": [
+            "Zachary Taylor",
+            "James Monroe",
+            "James K. Polk",
+            "William Henry Harrison"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "He wrote part of 1809's \"History of New York\" while staying in what would later be Martin Van Buren's home, Lindenwald",
+          "choices": [
+            "James Fenimore Cooper",
+            "Mark Twain",
+            "Edgar Allan Poe",
+            "Washington Irving"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "IN THE MI\"DD\"LE",
+    "clue": "Readily available but not-so-valued people are \"cannon\" this",
+    "choices": [
+      "targets",
+      "pawns",
+      "fodder",
+      "recruits"
+    ],
+    "correctIndex": 2
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-21",
+  "categories": [
+    {
+      "name": "DOUBLE \"O\" 7-LETTER WORDS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "According to the Chinese zodiac, 2017 is the year of this barnyard animal",
+          "choices": [
+            "goat",
+            "pig",
+            "a rooster",
+            "horse"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "At 380 feet, the tallest living tree is a coast this in California",
+          "choices": [
+            "oak",
+            "pine",
+            "birch",
+            "redwood"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Vespa is an iconic brand of this",
+          "choices": [
+            "motorcycle",
+            "bicycle",
+            "a scooter",
+            "car"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "It's another name for a solarium",
+          "choices": [
+            "greenhouse",
+            "conservatory",
+            "patio",
+            "a sunroom"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "An incompetent prizefighter, or boxer Joe of comic strip fame who hung up his gloves in 1984",
+          "choices": [
+            "a palooka",
+            "a brawler",
+            "a heavyweight",
+            "a contender"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "BRIT SPEAK",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "When part of a 3-piece suit, a waistcoat is this",
+          "choices": [
+            "a vest",
+            "a jacket",
+            "a tie",
+            "a shirt"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Common term for a doctor's office; it's where he \"operates\" from",
+          "choices": [
+            "a clinic",
+            "a hospital",
+            "a surgery",
+            "a pharmacy"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "It's the part of an automobile called the \"boot\\\"",
+          "choices": [
+            "the hood",
+            "the bumper",
+            "the trunk",
+            "the spare"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "The OED's definitions for this 10-letter slang word include \"flabbergasted\" & \"speechless\\\"",
+          "choices": [
+            "bamboozled",
+            "gobsmacked",
+            "blindsided",
+            "flabbergast"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "It's our equivalent of an off-licence",
+          "choices": [
+            "package store",
+            "convenience mart",
+            "wine shop",
+            "a liquor store"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "NORTH AMERICAN HISTORY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The Mexican army's win in the spring of 1862 over Napoleon III's forces is still honored today with this annual celebration",
+          "choices": [
+            "Mexican Independence Day",
+            "Day of the Dead",
+            "Cinco de Mayo",
+            "Dia de la Raza"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Uh, this gen.? You slightly under-counted the no. of Indian warriors on June 25, 1876\u2014 forgot to carry the 1, maybe?",
+          "choices": [
+            "Terry",
+            "Sullivan",
+            "Wheeler",
+            "Custer"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "In 1693 people jailed for this in Salem were finally free; families later got reparations",
+          "choices": [
+            "sorcery",
+            "witchcraft",
+            "heresy",
+            "treason"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Elected president of Mexico in 1833, this Alamo general would serve in the post 11 times over the next 22 years",
+          "choices": [
+            "Benito Ju\u00e1rez",
+            "(Antonio L\u00f3pez de) Santa Anna",
+            "Porfirio D\u00edaz",
+            "Miguel Hidalgo"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "He received a presidential pardon in 1815, but soon returned to his pirating ways in the Gulf of Mexico",
+          "choices": [
+            "(Jean) Lafitte",
+            "Blackbeard",
+            "Henry Morgan",
+            "Pierre Lafitte"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "ANNIVERSARIES",
+    "clue": "November 20, 1997 will be this royal couple's 50th wedding anniversary; you may want to send a gift",
+    "choices": [
+      "Queen Elizabeth II & Prince Philip",
+      "Prince Rainier III & Grace Kelly",
+      "King George VI & Queen Elizabeth",
+      "King Bhumibol Adulyadej & Queen Sirikit"
+    ],
+    "correctIndex": 0
+  }
+}

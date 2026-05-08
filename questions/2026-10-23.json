@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-23",
+  "categories": [
+    {
+      "name": "20th CENTURY PRESIDENTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Long before he was president, he taught debate & public speaking at Sam Houston High School from 1930 to 1931",
+          "choices": [
+            "Dwight Eisenhower",
+            "Harry Truman",
+            "Lyndon Johnson",
+            "Richard Nixon"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "He & Grant were the only men who had both parents alive to see them become president",
+          "choices": [
+            "Franklin Roosevelt",
+            "Gerald Ford",
+            "Ronald Reagan",
+            "JFK"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "He is the eldest of 4 children; he had 2 sisters, Gloria & Ruth, & one brother, Billy",
+          "choices": [
+            "Jimmy Carter",
+            "Gerald Ford",
+            "Ronald Reagan",
+            "George H. W. Bush"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "He climbed the Matterhorn, explored Brazil & practiced judo",
+          "choices": [
+            "Franklin Roosevelt",
+            "Dwight Eisenhower",
+            "John F. Kennedy",
+            "Theodore Roosevelt"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "The 1556 German science classic \"De re metallica\" was translated into English by this president & his wife",
+          "choices": [
+            "Herbert Hoover",
+            "Franklin Roosevelt",
+            "Dwight Eisenhower",
+            "Harry Truman"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "THE EMERALD ISLE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Handel's \"Messiah\" had its premiere in this city that held its millennium celebration in 1988",
+          "choices": [
+            "Cork",
+            "Dublin",
+            "Galway",
+            "Limerick"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "The 2 official languages of the Republic of Ireland are English & this one, also known as Irish",
+          "choices": [
+            "Scottish Gaelic",
+            "Welsh",
+            "Manx",
+            "Gaelic"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This U.S. president visited his family's ancestral village of Ballyporeen in 1984",
+          "choices": [
+            "Reagan",
+            "Jimmy Carter",
+            "Lyndon Johnson",
+            "Richard Nixon"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Most tourists come to this city to tour its glassworks; the original factory was founded in 1783",
+          "choices": [
+            "Waterford",
+            "Cork",
+            "Kilkenny",
+            "Limerick"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "This Irish port city on the River Suir is world famous for its crystal",
+          "choices": [
+            "Galway",
+            "Derry",
+            "Cork",
+            "Waterford"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "WALKING THE DOG",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This sporting dog was first bred by German nobles in the court of Weimar in the early 19th century",
+          "choices": [
+            "German Shorthaired Pointer",
+            "Briard",
+            "Weimaraner",
+            "Rottweiler"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "The largest terrier, it's been called the \"King of the Terriers\\\"",
+          "choices": [
+            "Scottish Terrier",
+            "Airedale",
+            "West Highland White Terrier",
+            "Norfolk Terrier"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "This toy dog seems to be named for a Mediterranean island, but might be named for Melita, Sicily",
+          "choices": [
+            "Bichon Frise",
+            "Pomeranian",
+            "Maltese",
+            "Shih Tzu"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "3 AKC-recognized breeds have \"miniature\" in their names: miniature pinscher, miniature bull terrier & this",
+          "choices": [
+            "miniature schnauzer",
+            "miniature poodle",
+            "miniature dachshund",
+            "miniature american eskimo dog"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "This terrier is known as a westie for short",
+          "choices": [
+            "Scottish Terrier",
+            "West Highlands Terrier",
+            "Cairn Terrier",
+            "Border Terrier"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THINKING ABOUT COLLEGE",
+    "clue": "Legend says that the person you kiss on this Williamsburg school's Crim Dell Bridge is the one you'll marry",
+    "choices": [
+      "Virginia Tech",
+      "William and Mary",
+      "University of Virginia",
+      "James Madison University"
+    ],
+    "correctIndex": 1
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-12",
+  "categories": [
+    {
+      "name": "GREAT ROMANCES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Fay Wray's hairy suitor",
+          "choices": [
+            "Godzilla",
+            "Bigfoot",
+            "Mothra",
+            "King Kong"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "This love of Troilus, legendary prince of Troy, wasn't his new Toyota",
+          "choices": [
+            "Helen of Troy",
+            "Cressida",
+            "Andromache",
+            "Polyxena"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "In one of Shakespeare's lesser tragedies, Troilus loved her",
+          "choices": [
+            "Cressida",
+            "Desdemona",
+            "Ophelia",
+            "Juliet"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "To marry her, Jacob worked 7 years, \"& they seemed to him but a few days for the love he had to her\\\"",
+          "choices": [
+            "Leah",
+            "Sarah",
+            "Rachel",
+            "Rebekah"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Humbert Humbert loved this Nabokov nymphet",
+          "choices": [
+            "Scarlett",
+            "Lolita",
+            "Elizabeth",
+            "Diana"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "THE KNIGHTS TEMPLAR",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "One of the 3 vows taken by each man who became a Templar Knight",
+          "choices": [
+            "Humility",
+            "Silence",
+            "Fidelity",
+            "Chastity, Obedience or Poverty"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "A Templar church has been called London's first this type of place; Pilgrims would deposit money there & withdraw it in the Holy Land",
+          "choices": [
+            "a bank",
+            "a treasury",
+            "a safehouse",
+            "a pawnbroker"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Only Templar knights wore the distinctive white surcoats emblazoned with this symbol",
+          "choices": [
+            "White rose",
+            "Red cross",
+            "Golden eagle",
+            "Black swan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "The last Templar headquarters & base for attacks on Palestine was this eastern Mediterranean island",
+          "choices": [
+            "Cyprus",
+            "Rhodes",
+            "Crete",
+            "Malta"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "The Templars helped out 12th c. King Alfonso I against these invaders & he bequeathed them Aragon",
+          "choices": [
+            "the Almohads",
+            "the Almoravids",
+            "the Vikings",
+            "the Moors"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "7-LETTER BIRDS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Technically, this word refers only to the male peafowl",
+          "choices": [
+            "the peacock",
+            "the penguin",
+            "the pelican",
+            "the ostrich"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Shelley said it was \"like a star of heaven in the broad daylight\\\"",
+          "choices": [
+            "penguin",
+            "vulture",
+            "pelican",
+            "the skylark"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Through evolution this Antarctic bird lost its long feathers & its wings became small & stiff",
+          "choices": [
+            "vulture",
+            "the penguin",
+            "swallow",
+            "warbler"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "To maintain balance, it doesn't fly with fish in its pouch",
+          "choices": [
+            "penguin",
+            "vulture",
+            "the pelican",
+            "swallow"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "The house or English species of this small brown bird is found worldwide",
+          "choices": [
+            "penguin",
+            "pelican",
+            "sparrow",
+            "swallow"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "STATES' FORMER CAPITALS",
+    "clue": "Huntsville",
+    "choices": [
+      "Alabama",
+      "Tennessee",
+      "Georgia",
+      "Florida"
+    ],
+    "correctIndex": 0
+  },
+  "bonusRound": {
+    "category": "CHAMPION WORDS",
+    "clue": "These seeds can make a healthy pudding & grow a \"pet\\\"",
+    "choices": [
+      "flax",
+      "hemp",
+      "chia",
+      "sesame"
+    ],
+    "correctIndex": 2
+  }
+}

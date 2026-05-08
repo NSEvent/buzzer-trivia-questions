@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-01",
+  "categories": [
+    {
+      "name": "NEW YORK CITY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Don't worry! There are only 15 fires & 38 felonies a day along their 237 miles of track",
+          "choices": [
+            "buses",
+            "subways",
+            "streetcars",
+            "elevated trains"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "In this \"District\" of the city, 7th Avenue is also known as Fashion Avenue",
+          "choices": [
+            "the Financial District",
+            "the Garment District",
+            "the Theater District",
+            "the Meatpacking District"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Keens Steakhouse displays thousands of clay pipes used by patrons like Buffalo Bill, Babe Ruth & this Rough Rider & N.Y. native",
+          "choices": [
+            "Teddy Roosevelt",
+            "William Howard Taft",
+            "Grover Cleveland",
+            "Fiorello La Guardia"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "It parallels 5th & 7th Avenues, & long-time New Yorkers still call it 6th Avenue",
+          "choices": [
+            "Madison Avenue",
+            "Lexington Avenue",
+            "The Avenue of the Americas",
+            "Park Avenue"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "The 1st \"Off-Broadway\" theater was established by Eugene O'Neill in this section of Lower Manhattan",
+          "choices": [
+            "Greenwich Village",
+            "SoHo",
+            "Harlem",
+            "TriBeCa"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "SHOW TUNES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"One\" was the tune that ended each of the 6,137 performances of this musical on Broadway",
+          "choices": [
+            "A Chorus Line",
+            "Cats",
+            "Les Mis\u00e9rables",
+            "The Phantom of the Opera"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "\\\"Dulcinea\", \"The Quest/The Impossible Dream\\\"",
+          "choices": [
+            "Man of La Mancha",
+            "My Fair Lady",
+            "Fiddler on the Roof",
+            "Evita"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Show in which you'd hear, \"Hey, big spender, spend a little time with me\\\"",
+          "choices": [
+            "Funny Girl",
+            "Cabaret",
+            "Sweet Charity",
+            "Hello, Dolly!"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "\\\"Memory\", \"Mr. Mistoffelees\\\"",
+          "choices": [
+            "Les Mis\u00e9rables",
+            "The Phantom of the Opera",
+            "Rent",
+            "Cats"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "(Hi. I'm Debra Messing.) A heroine of mine growing up was Barbra Streisand & one of my favorite show tunes is \"Don't Rain On My Parade\", which she introduced in this musical",
+          "choices": [
+            "Gypsy",
+            "Funny Girl",
+            "Cabaret",
+            "A Chorus Line"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "\\'80s TV",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Series that replaced \"Hawaii Five-O\" in 1980\u2014 same setting, same time, same channel",
+          "choices": [
+            "Miami Vice",
+            "MacGyver",
+            "The A-Team",
+            "Magnum P.I."
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "When CBS changed \"Taking the Town\" to \"My Sister Sam\", they had to rename her character Sam",
+          "choices": [
+            "Kirstie Alley",
+            "Pam Dawber",
+            "Melissa Gilbert",
+            "Cybill Shepherd"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "\\\"Three's a Crowd\" picked up where this sitcom left off",
+          "choices": [
+            "The Wonder Years",
+            "Silver Spoons",
+            "Three's Company",
+            "Empty Nest"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "\\\"You take the good, you take the bad, you take them both and there you have\" this sitcom",
+          "choices": [
+            "Growing Pains",
+            "The Facts of Life",
+            "Diff'rent Strokes",
+            "Who's the Boss"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "She played Michael J. Fox' girlfriend Ellen on \"Family Ties\" & married Fox in real life",
+          "choices": [
+            "Lisa Bonet",
+            "Melissa Gilbert",
+            "Tracy Pollan",
+            "Jenna Elfman"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "BRITTANY",
+    "clue": "Here's an edict: this city on the Loire River is home to the Jules Verne Museum & the Chateau des Ducs palace",
+    "choices": [
+      "Rennes",
+      "Bordeaux",
+      "Nantes",
+      "Strasbourg"
+    ],
+    "correctIndex": 2
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-14",
+  "categories": [
+    {
+      "name": "LET'S PLAY A GAME",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "OK, so we're actually going to play D&D\u2014guess it's time to select the DM, this person",
+          "choices": [
+            "Dungeon Master",
+            "Paladin",
+            "Warlock",
+            "Ranger"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "If you lose your last territory in this game, you're eliminated, & the player who did it gets your cards",
+          "choices": [
+            "Axis & Allies",
+            "Monopoly",
+            "Settlers of Catan",
+            "Risk"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "The weapons in this game have included a rope, a lead pipe, a knife, a wrench, a revolver & a candlestick",
+          "choices": [
+            "Monopoly",
+            "Trivial Pursuit",
+            "Operation",
+            "Clue"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Settings for \"Grand Theft Auto\" have included Anywhere City, Liberty City & this \"City\" that doesn't sound safe",
+          "choices": [
+            "Ocean",
+            "Bay",
+            "Vice",
+            "Port"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "You get 60 seconds to guess your teammate's sketch in this game that spawned a TV version",
+          "choices": [
+            "Telestrations",
+            "Charades",
+            "Pictionary",
+            "Quick Draw"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "POTENTATE POTABLES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Moet introduced this \"Imperial\" line of champagne in 1863 to honor this late emperor",
+          "choices": [
+            "Napoleon III",
+            "Julius Caesar",
+            "Louis XIV",
+            "Napoleon"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "This Babylonian king's code includes a beer merchant's punishment for not giving value for money",
+          "choices": [
+            "Hammurabi",
+            "Nebuchadnezzar",
+            "Sargon",
+            "Gilgamesh"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "The widget in this beer won a Queen's Award for technological advancement in 1991; stout work!",
+          "choices": [
+            "Murphy's",
+            "Smithwick's",
+            "Harp",
+            "Guinness"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "This Dutch-born English king introduced gin to England as the \"pouring spirit\" in the palace at Hampton Court",
+          "choices": [
+            "Charles II",
+            "James II",
+            "William III",
+            "Henry VIII"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Cheers to this Babylonian king who codified the use of beer for his people",
+          "choices": [
+            "Nebuchadnezzar II",
+            "Sargon of Akkad",
+            "Hammurabi",
+            "Ashurbanipal"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "\\\"TU\" MUCH",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In his biggest hit, Tiny Tim wanted you to \"Tip-Toe Thru\"' these",
+          "choices": [
+            "roses",
+            "daffodils",
+            "daisies",
+            "tulips"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "On U.S. aircraft carriers, power comes from nuclear reactors & these steam-powered rotary engines",
+          "choices": [
+            "pistons",
+            "turbines",
+            "propellers",
+            "rotors"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Leviticus 5:7 suggests these as an offering; they also make a good second-day-of-Christmas gift",
+          "choices": [
+            "turtle doves",
+            "goldfinches",
+            "songbirds",
+            "rock doves"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "(Mark Hamill reads the clue.) The scenes filmed on Luke's home planet, Tatooine, were actually filmed in this African \"T\" country",
+          "choices": [
+            "Togo",
+            "Tanzania",
+            "Tunisia",
+            "Thailand"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Ashgabat is the capital city of this central Asian nation",
+          "choices": [
+            "Kazakhstan",
+            "Uzbekistan",
+            "Kyrgyzstan",
+            "Turkmenistan"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THE DIRECTOR'S FIRST FEATURE FILM",
+    "clue": "\\\"Lady Bird\", her solo directorial debut",
+    "choices": [
+      "Sofia Coppola",
+      "Lena Dunham",
+      "Greta Gerwig",
+      "Chlo\u00e9 Zhao"
+    ],
+    "correctIndex": 2
+  }
+}

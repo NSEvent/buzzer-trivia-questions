@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-12",
+  "categories": [
+    {
+      "name": "THE LONDON STAGE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "We wonder how this witty playwright would have liked \"Avenue Q\", the first show at the theatre renamed for him",
+          "choices": [
+            "Noel Coward",
+            "Tom Stoppard",
+            "Oscar Wilde",
+            "Harold Pinter"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "\\\"We Will Rock You\", playing in the West End since 2002, features the music of this group",
+          "choices": [
+            "The Beatles",
+            "Led Zeppelin",
+            "Queen",
+            "The Rolling Stones"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Rowan Atkinson recently picked a pocket or 2 as Fagin in this musical",
+          "choices": [
+            "Les Mis\u00e9rables",
+            "The Phantom of the Opera",
+            "Cats",
+            "Oliver!"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "In 2012 this murder mystery snared a record 60th year on the London stage",
+          "choices": [
+            "The Mousetrap",
+            "The Woman in Black",
+            "Hamlet",
+            "A Streetcar Named Desire"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "In 2007 these studious \"Boys\" were back in town in Alan Bennett's play at Wyndham's Theatre",
+          "choices": [
+            "The Weir",
+            "The History Boys",
+            "Our Country's Good",
+            "The Seagull"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "WE HAVE THE TECHNOLOGY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Smile! In 1888 this American introduced the first simple consumer camera to use roll film",
+          "choices": [
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "(George) Eastman",
+            "Louis Daguerre"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "A hydroelectric power plant at this U.S. landmark opened in 1881",
+          "choices": [
+            "Niagara Falls",
+            "Yosemite Falls",
+            "Victoria Falls",
+            "Horseshoe Falls"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Setting 5 on the 1935 model of this Sunbeam appliance was \"Whipping Potatoes\"; setting 6 was \"Cream\\\"",
+          "choices": [
+            "KitchenAid",
+            "Mixmaster",
+            "Cuisinart",
+            "Kenwood"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Put pulped cellulose fiber mixed with water & fillers into a Fourdrinier machine & it comes out as this",
+          "choices": [
+            "cardboard",
+            "paper",
+            "parchment",
+            "vellum"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Named after its inventor, a large one of these coils can wirelessly power lights 50 feet away",
+          "choices": [
+            "a Ruhmkorff coil",
+            "a Van de Graaff generator",
+            "a Tesla coil",
+            "a Leyden jar"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "FOREIGN-BORN OSCAR WINNERS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Born in India in 1913, she won her second Oscar for playing Blanche DuBois in 1951",
+          "choices": [
+            "Ingrid Bergman",
+            "Vivian Leigh",
+            "Greer Garson",
+            "Jennifer Jones"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "New Zealand-born Russell Crowe received 3 straight Best Actor nominations, winning in 2001 for this film",
+          "choices": [
+            "Troy",
+            "Braveheart",
+            "Spartacus",
+            "Gladiator"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Of the 2 women to win acting awards for 1961, she was the Italian",
+          "choices": [
+            "Gina Lollobrigida",
+            "Sophia Loren (for \"Two Women\")",
+            "Anna Magnani",
+            "Virna Lisi"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Her last of 3 Oscar wins was for playing Greta Ohlsson in 1974's \"Murder on the Orient Express\\\"",
+          "choices": [
+            "Greta Garbo",
+            "Audrey Hepburn",
+            "Ingrid Bergman",
+            "Liv Ullmann"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Jean Dujardin didn't have much to say in becoming the first Frenchman to win Best Actor, for this 2011 film",
+          "choices": [
+            "Hugo",
+            "Midnight in Paris",
+            "A Separation",
+            "The Artist"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THE INDUSTRIAL REVOLUTION",
+    "clue": "In 1761 a canal linking Manchester, England to the Worsley mine dropped the price of this fuel in the city by half",
+    "choices": [
+      "iron",
+      "timber",
+      "limestone",
+      "coal"
+    ],
+    "correctIndex": 3
+  }
+}

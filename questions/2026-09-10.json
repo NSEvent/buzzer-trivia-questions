@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-10",
+  "categories": [
+    {
+      "name": "A STAR IS BORN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "On June 9, 1963, in Owensboro, Kentucky this pirate captain came ashore",
+          "choices": [
+            "Brad Pitt",
+            "Johnny Depp",
+            "Leonardo DiCaprio",
+            "Orlando Bloom"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Elliott Goldstein, born Aug. 29, 1938, became this actor, Streisand's first hubby",
+          "choices": [
+            "Elliott Gould",
+            "Dustin Hoffman",
+            "Jack Nicholson",
+            "Warren Beatty"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "AKA Laszlo Loewenstein, he was born on June 26, 1904 in Hungary, not in Casablanca",
+          "choices": [
+            "Conrad Veidt",
+            "Vincent Price",
+            "Peter Lorre",
+            "Bela Lugosi"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "He \"Unchained\" himself from the name Eric Bishop & went with a gender-neutral name for his stand-up career",
+          "choices": [
+            "Jamie Foxx",
+            "Eddie Murphy",
+            "Dave Chappelle",
+            "Chris Rock"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "She was born to a Danish-born dad November 22, 1984 in NYC & later found herself \"Lost in Translation\\\"",
+          "choices": [
+            "(Scarlett) Johansson",
+            "Natalie Portman",
+            "Keira Knightley",
+            "Emma Stone"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "METROPOLITAN OPERA",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A 1965 Met performance of \"Il Trovatore\" had to be cancelled due to this famous power problem",
+          "choices": [
+            "the blackout in New York City",
+            "the 1977 New York City blackout",
+            "the 2003 Northeast blackout",
+            "the 1996 Western Interconnection blackout"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Two great Italian tenors debuted at the Met on November 23, Pavarotti in 1968 & this singer in 1903",
+          "choices": [
+            "Caruso",
+            "Gigli",
+            "Tamagno",
+            "Martinelli"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "\\\"Carmen\\\"",
+          "choices": [
+            "Madrid",
+            "Seville",
+            "Barcelona",
+            "Paris"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "\\\"Der Rosenkavalier\\\"",
+          "choices": [
+            "Munich",
+            "Salzburg",
+            "Prague",
+            "Vienna"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"Die Meistersinger\\\"",
+          "choices": [
+            "Leipzig",
+            "Dresden",
+            "Nuremberg",
+            "Munich"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "\\\"CON\" GAME",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Fertilization leading to pregnancy",
+          "choices": [
+            "gestation",
+            "implantation",
+            "ovulation",
+            "conception"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Cortes & Balboa were 2 of the most famous of these Spanish military adventurers",
+          "choices": [
+            "mercenaries",
+            "privateers",
+            "hidalgos",
+            "conquistadors"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "French term for a doorkeeper, or a helpful person at a hotel",
+          "choices": [
+            "bellhop",
+            "concierge",
+            "doorman",
+            "porter"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This synonym for a magician comes from Latin for \"swear together\\\"",
+          "choices": [
+            "illusionist",
+            "sorcerer",
+            "a conjurer",
+            "prestidigitator"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "It's a group of voters in a district, or the district itself",
+          "choices": [
+            "electorate",
+            "municipality",
+            "constituency",
+            "precinct"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "SOCIETY",
+    "clue": "Tom Colicchio says this 3-word phrase du jour just means buying better food from small-scale producers",
+    "choices": [
+      "farm to table",
+      "field to fork",
+      "garden to plate",
+      "root to stem"
+    ],
+    "correctIndex": 0
+  }
+}

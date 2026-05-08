@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-03",
+  "categories": [
+    {
+      "name": "THE SHAPE OF THINGS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Very obviously, this building was named for its shape",
+          "choices": [
+            "the Capitol",
+            "the Pentagon",
+            "the Pyramid",
+            "the Oval Office"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "This singer's Purr & Meow! fragrances come in cat-shaped bottles",
+          "choices": [
+            "Britney Spears",
+            "Lady Gaga",
+            "Katy Perry",
+            "Rihanna"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Used to describe noses, aquiline means shaped like the curved beak of this bird",
+          "choices": [
+            "a hawk",
+            "a falcon",
+            "an eagle",
+            "an owl"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "This London underground \"tube\" line will take you from Tower Hill 14 miles back to Tower Hill",
+          "choices": [
+            "the District Line",
+            "the Circle Line",
+            "the Metropolitan Line",
+            "the Jubilee Line"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Dentiform means shaped like a tooth; dendriform means shaped like one of these",
+          "choices": [
+            "a fern",
+            "a bush",
+            "a root",
+            "a tree"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "EDUCATIONAL TELEVISION",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The Sweathogs attended James Buchanan High in Brooklyn on this '70s show",
+          "choices": [
+            "Saved by the Bell",
+            "Welcome Back, Kotter",
+            "The Facts of Life",
+            "Fame"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "This drama featuring Lloyd Haynes as a concerned teacher was set at Walt Whitman High",
+          "choices": [
+            "Dead Poets Society",
+            "Room 222",
+            "Mr. Holland's Opus",
+            "The Wonder Years"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "The overachieving students on this show learned life lessons from substitute teacher Howard Hesseman",
+          "choices": [
+            "Boy Meets World",
+            "Good Morning, Miss Bliss",
+            "Head of the Class",
+            "Saved by the Bell"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Sarah Jessica Parker was a nerdy teen hoping to be part of the \"in\" crowd at Weemawee High on this '80s sitcom",
+          "choices": [
+            "Square Pegs",
+            "Perfect Strangers",
+            "Facts of Life",
+            "Saved by the Bell"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "She was high-school coach's wife Tami Taylor before moving to another down-home show",
+          "choices": [
+            "Judy Greer",
+            "Connie Britton",
+            "Minka Kelly",
+            "Emily VanCamp"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "\\\"R\" SONG",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "For this 1967 Aretha Franklin No. 1 hit, you can say or spell the title",
+          "choices": [
+            "\\\"Respect\\\"",
+            "Chain of Fools",
+            "Rescue Me",
+            "Think"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "A Taylor Swift song says, \"Loving him was\" this, \"burning\" this",
+          "choices": [
+            "blue",
+            "red",
+            "black",
+            "gold"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Adele took home a 2011 Grammy for doing this",
+          "choices": [
+            "Someone Like You",
+            "\\\"Rolling In The Deep\\\"",
+            "Hello",
+            "Set Fire to the Rain"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Why you gotta be so this title of a 2014 No. 1 hit by Magic!?",
+          "choices": [
+            "Royals",
+            "Runaway Baby",
+            "\\\"Rude\\\"",
+            "Radioactive"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "It was The Clash's title suggestion for livening up the medina",
+          "choices": [
+            "London Calling",
+            "\\\"Rock The Casbah\\\"",
+            "Should I Stay or Should I Go",
+            "Babylon On Fire"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "RECENT EVENTS",
+    "clue": "Singing \"I'm not your toy, you stupid boy\", Israel's Netta won this contest, edging out an entry from Cyprus",
+    "choices": [
+      "American Idol",
+      "The Voice",
+      "Eurovision",
+      "X Factor"
+    ],
+    "correctIndex": 2
+  },
+  "bonusRound": {
+    "category": "CIVIL WAR RHYME TIME",
+    "clue": "Famous photographer's female subjects",
+    "choices": [
+      "Sherman's women",
+      "Brady's ladies",
+      "Lincoln's daughters",
+      "Grant's dames"
+    ],
+    "correctIndex": 1
+  }
+}

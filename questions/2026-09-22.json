@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-22",
+  "categories": [
+    {
+      "name": "NAME THAT POET",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"I have promises to keep, and miles to go before I sleep\\\"",
+          "choices": [
+            "Walt Whitman",
+            "Emily Dickinson",
+            "Robert Frost",
+            "William Wordsworth"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "\\\"Then Sally and I saw them run down the hall. We saw those two Things bump their kites on the wall\\\"",
+          "choices": [
+            "Shel Silverstein",
+            "Edward Lear",
+            "Lewis Carroll",
+            "Dr. Seuss"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "\\\"Ay, tear her tattered ensign down! Long has it waved on high...\\\"",
+          "choices": [
+            "Henry Wadsworth Longfellow",
+            "John Greenleaf Whittier",
+            "Oliver Wendell Holmes",
+            "James Russell Lowell"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "\\\"A knyght ther was, and that a worthy man, that fro the tyme that he first bigan to riden out, he loved chivalrie\\\"",
+          "choices": [
+            "(Geoffrey) Chaucer",
+            "William Langland",
+            "John Gower",
+            "Edmund Spenser"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"In Xanadu did Kubla Khan a stately pleasure dome decree\\\"",
+          "choices": [
+            "William Wordsworth",
+            "John Keats",
+            "Lord Byron",
+            "Samuel Taylor Coleridge"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "\\\"X\" RATED",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In February 1998 the World Wide Web Consortium gave its imprimatur to this text format",
+          "choices": [
+            "HTML",
+            "SGML",
+            "XML",
+            "JSON"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "The horizontal number line in a Cartesian plane coordinate system",
+          "choices": [
+            "the y-axis",
+            "the origin",
+            "the quadrant",
+            "the x-axis"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Bellamy, Hauteval & Hottinguer were the real last names of the men involved in this late 1790s U.S. diplomatic \"affair\\\"",
+          "choices": [
+            "the XYZ Incident",
+            "the XYZ Affair",
+            "the XYZ Scandal",
+            "the XYZ Controversy"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Colorless & odorless element first discovered in 1898",
+          "choices": [
+            "argon",
+            "krypton",
+            "neon",
+            "xenon"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This \"Great\" Persian King ruled from approximately 486-465 B.C.",
+          "choices": [
+            "Xerxes",
+            "Darius",
+            "Cyrus",
+            "Artaxerxes"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "DR. SEUSS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In this tale the Once-ler tells of how his greed destroyed a beautiful forest of truffula trees",
+          "choices": [
+            "The Lorax",
+            "Green Eggs and Ham",
+            "The Cat in the Hat",
+            "How the Grinch Stole Christmas"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Dr. Seuss created this Oscar-winning cartoon character who made sounds like \"boing\\\"",
+          "choices": [
+            "The Grinch",
+            "Gerald McBoing-Boing",
+            "Horton",
+            "Sam I Am"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Dr. Seuss grew up in Springfield, Massachusetts, near this street found in the title of his first book",
+          "choices": [
+            "Mulberry Street",
+            "Cherry Lane",
+            "Oak Avenue",
+            "Maple Drive"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "While stealing a Christmas tree, the Grinch sees this little Who, \"who was not more than two\\\"",
+          "choices": [
+            "Sally Who",
+            "Martha Quill",
+            "Bella Lou",
+            "Cindy Lou Who"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"The Cat in the Hat\" was written in response to the literacy problem discussed in the 1955 book \"Why\" he \"Can't Read\\\"",
+          "choices": [
+            "Johnny",
+            "Bobby",
+            "Jimmy",
+            "Billy"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "FOODS OF THE WORLD",
+    "clue": "A luscious strawberry dessert made with cointreau is named for this Russian royal family",
+    "choices": [
+      "the Habsburgs",
+      "the Romanovs",
+      "the Bourbons",
+      "the Wittelsbachs"
+    ],
+    "correctIndex": 1
+  }
+}

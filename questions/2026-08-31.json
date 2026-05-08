@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-31",
+  "categories": [
+    {
+      "name": "\\\"E\" BAY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "An upright frame for displaying or supporting an artist's canvas",
+          "choices": [
+            "mannequin",
+            "Easel",
+            "drawing board",
+            "tripod"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "A snail in Strasbourg",
+          "choices": [
+            "escargot",
+            "escabeche",
+            "eclair",
+            "entrecote"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "This part of a music mixing board controls features like treble & bass",
+          "choices": [
+            "fader",
+            "compressor",
+            "equalizer",
+            "preamp"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "11-letter word meaning to use known facts to infer or draw conclusions about something unknown",
+          "choices": [
+            "interpolate",
+            "hypothesize",
+            "extrapolation",
+            "extrapolate"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"The race is not to the swift, nor the battle to the strong\", says chapter 9 of this book of the Bible",
+          "choices": [
+            "Proverbs",
+            "Song of Solomon",
+            "Ecclesiastes",
+            "Psalms"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "TURKEY DAY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A symbol of Turkey since Ottoman times, this flower has inspired decorative motifs on carpets, clothing & ceramics",
+          "choices": [
+            "a rose",
+            "a carnation",
+            "a lily",
+            "a tulip"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Producing more than 70% of the world's supply, Turkey is the world's largest grower of these nuts, aka filberts",
+          "choices": [
+            "walnuts",
+            "pistachios",
+            "hazelnuts",
+            "almonds"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This term for the students & others who rebelled against the Ottoman regime can refer to any juvenile firebrands",
+          "choices": [
+            "the Janissaries",
+            "the Old Guard",
+            "the Young Turks",
+            "the Young Indians"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Home to the Ataturk Mausoleum & Museum, this city became the capital of Turkey in 1923",
+          "choices": [
+            "Istanbul",
+            "Izmir",
+            "Baghdad",
+            "Ankara"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Turkey is known for producing this type of raisin grape, also the title of the wife of an Ottoman ruler",
+          "choices": [
+            "muscat",
+            "sultana",
+            "currant",
+            "Thompson seedless"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "FANTASTIC 4",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "One of the four noble truths of this religion is all life is suffering",
+          "choices": [
+            "Buddhism",
+            "Hinduism",
+            "Jainism",
+            "Sikhism"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Arizona, Colorado, New Mexico & Utah meet at a monument known as this",
+          "choices": [
+            "the Continental Divide",
+            "the Four Corners",
+            "the Grand Canyon",
+            "the Mississippi River"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "The third of Buddhism's 4 Noble Truths is the cessation of suffering commonly known as this",
+          "choices": [
+            "Samsara",
+            "Moksha",
+            "Nirvana",
+            "Parinirvana"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "The \"4 Causes\" of this Greek philosopher were the material, the formal, the efficient & the final",
+          "choices": [
+            "Aristotle",
+            "Plato",
+            "Socrates",
+            "Pythagoras"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "This method of tying a necktie is also the name for a vehicle drawn by 4 horses",
+          "choices": [
+            "Windsor",
+            "Half-Windsor",
+            "Shelby",
+            "four-in-hand"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "SOUNDS LIKE A SANDWICH",
+    "clue": "Nickname of Mr. Carmichael who wrote \"Georgia On My Mind\" & \"Two Sleepy People\\\"",
+    "choices": [
+      "Satchmo",
+      "Duke",
+      "Fats",
+      "Hoagy"
+    ],
+    "correctIndex": 3
+  }
+}

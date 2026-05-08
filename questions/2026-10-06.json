@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-06",
+  "categories": [
+    {
+      "name": "TV NUMBERS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"Adam ____\\\"",
+          "choices": [
+            "7",
+            "12",
+            "24",
+            "101"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "\\\"____ Hours Mystery\\\"",
+          "choices": [
+            "24",
+            "12",
+            "48",
+            "96"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "\\\"My ____ Dads\\\"",
+          "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "\\\"Jon & Kate Plus ____\\\"",
+          "choices": [
+            "6",
+            "10",
+            "Ei8ht",
+            "12"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "4 8 15 16 23 & 42 are numbers inexplicably tied to characters on this show",
+          "choices": [
+            "The 4400",
+            "Person of Interest",
+            "Dark",
+            "Lost"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "THINKING",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A bunch of people all thinking & giving ideas is this kind of anatomically named session",
+          "choices": [
+            "a gut-check session",
+            "a heart-to-heart session",
+            "a shoulder-to-shoulder session",
+            "a brainstorming session"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Flick the switch; the Age of Reason was also known as this",
+          "choices": [
+            "Renaissance",
+            "Reformation",
+            "Enlightenment",
+            "Revolution"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "The British \"Uprising\" band, or to think or meditate in silence",
+          "choices": [
+            "Reverie",
+            "Muse",
+            "Trance",
+            "Vision"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Aristippus, the first systematic hedonist philosopher, gave this the lowest value among human experiences",
+          "choices": [
+            "sorrow",
+            "fear",
+            "pain",
+            "hardship"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Semiotics is the study of communication via these, be they the \"road\" or \"peace\" type",
+          "choices": [
+            "signals",
+            "symbols",
+            "gestures",
+            "signs"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "WHAT'S THAT ON YOUR HEAD?",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "You can wear an ascot to Ascot or this hat to the horse race of the same name at Epsom Downs",
+          "choices": [
+            "derby",
+            "bowler",
+            "top hat",
+            "trilby"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Boniface VIII is seen wearing this papal headgear, also a term for a princess's crown",
+          "choices": [
+            "a tiara",
+            "a mitre",
+            "a coronet",
+            "a circlet"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "The name of this head scarf is the Russian word for \"grandmother\\\"",
+          "choices": [
+            "bonnet",
+            "babushka",
+            "kerchief",
+            "headwrap"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Philip Treacy made the hats with this name that tells you that they capture & hold your attention",
+          "choices": [
+            "cocktail hat",
+            "tiara",
+            "chapeau",
+            "a fascinator"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"But pleasures are like poppies spread\", says this Robert Burns poem, also the name of a cap",
+          "choices": [
+            "Address to a Haggis",
+            "To a Mouse",
+            "Auld Lang Syne",
+            "\\\"Tam o' Shanter\\\""
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "RHYMES WITH TEEN",
+    "clue": "To gather grain or knowledge",
+    "choices": [
+      "clean",
+      "screen",
+      "glean",
+      "keen"
+    ],
+    "correctIndex": 2
+  }
+}

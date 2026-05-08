@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-10",
+  "categories": [
+    {
+      "name": "TEACHERS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This Tennessee teacher was fined $100 for teaching evolution, but the judgment was later reversed",
+          "choices": [
+            "Horace Mann",
+            "John Dewey",
+            "Maria Montessori",
+            "(John) Scopes"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "In the 1820s Josiah Holbrook pioneered this, also called continuing education",
+          "choices": [
+            "vocational training",
+            "distance learning",
+            "early childhood education",
+            "adult education"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This former zoology teacher questioned the use of pesticides in \"Silent Spring\\\"",
+          "choices": [
+            "Jane Goodall",
+            "Barbara McClintock",
+            "Rosalind Franklin",
+            "Rachel Carson"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "This magician must have spoken when he taught Latin at a New Jersey high school",
+          "choices": [
+            "(Raymond) Teller",
+            "David Copperfield",
+            "Harry Houdini",
+            "David Blaine"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Ezra Koenig cut short his teaching career when this quartet that he fronts got a record deal",
+          "choices": [
+            "The Strokes",
+            "Vampire Weekend",
+            "Franz Ferdinand",
+            "Bloc Party"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "1927",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"I do not choose to run for president in 1928,\" read slips of paper he handed to newsmen August 2",
+          "choices": [
+            "Herbert Hoover",
+            "Warren G. Harding",
+            "Calvin Coolidge",
+            "Woodrow Wilson"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Even the Gulf Stream was darkened by silt when this river flooded some 18 million acres",
+          "choices": [
+            "Mississippi",
+            "Missouri",
+            "Ohio",
+            "Colorado"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "This auto exec apologized for anti-semitic statements in his newspaper, the Dearborn Independent",
+          "choices": [
+            "Alfred Sloan",
+            "Henry Ford",
+            "Walter Chrysler",
+            "William Durant"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "T.S. Eliot, born in St. Louis & educated at Harvard, became a citizen of this country",
+          "choices": [
+            "France",
+            "United States",
+            "Great Britain",
+            "Australia"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "On February 18, the U.S. & this bordering country established diplomatic relations",
+          "choices": [
+            "Mexico",
+            "Canada",
+            "France",
+            "Russia"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "WARNER BROS. CARTOONS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This character's cartoons include \"Odor-Able Kitty\", \"Heaven Scent\" & \"Touche and Go\\\"",
+          "choices": [
+            "Foghorn Leghorn",
+            "Marvin the Martian",
+            "Pepe Le Pew",
+            "Sylvester the Cat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "This \"roughest, toughest he-man hombre that's ever crossed the Rio Grande\" could never beat Bugs Bunny",
+          "choices": [
+            "Elmer Fudd",
+            "Bugs Bunny",
+            "Daffy Duck",
+            "Yosemite Sam"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "\\\"Carnivorous vulgaris\" is one of this Roadrunner-chasing rascal's \"scientific\" names",
+          "choices": [
+            "the (Wile E.) Coyote",
+            "Marvin the Martian",
+            "the Roadrunner",
+            "the Tasmanian Devil"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "This animal is the symbol of the new Warner Bros. network",
+          "choices": [
+            "Michigan J. Frog",
+            "Daffy Duck",
+            "Bugs Bunny",
+            "Porky Pig"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "This \"scent-imental\" skunk was named after Charles Boyer's character in the film \"Algiers\\\"",
+          "choices": [
+            "Heathcliff",
+            "the Roadrunner",
+            "Foghorn Leghorn",
+            "Pep\u00e9 Le Pew"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "CITY WORDS",
+    "clue": "Any gathering place that attracts devotees of a specific topic",
+    "choices": [
+      "Mecca",
+      "the hub",
+      "the epicenter",
+      "the sanctuary"
+    ],
+    "correctIndex": 0
+  },
+  "bonusRound": {
+    "category": "LITERARY KINGS",
+    "clue": "In this Kipling tale Daniel Dravot tricks natives of a region of Afghanistan into crowning him king",
+    "choices": [
+      "The Light That Failed",
+      "Kim",
+      "Soldiers Three",
+      "\\\"The Man Who Would Be King\\\""
+    ],
+    "correctIndex": 3
+  }
+}

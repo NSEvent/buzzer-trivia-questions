@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-19",
+  "categories": [
+    {
+      "name": "DR. WHO...",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "specializes in X-rays & elements, like the one with the atomic number 88 for treating diseases",
+          "choices": [
+            "a pathologist",
+            "a radiologist",
+            "a cardiologist",
+            "a neurologist"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "...developed a maneuver for choking victims & performed the first total organ replacement, an esophagus",
+          "choices": [
+            "Mannheim",
+            "Valsalva",
+            "Bier",
+            "Heimlich"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "...served as U.S. Surgeon General from 1982 to 1989 & launched \"Shape Up America\" to fight obesity",
+          "choices": [
+            "Koop",
+            "Mullaney",
+            "Terry",
+            "Steffens"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "...in 1817 first described the disease now named for him, as paralysis agitan, or \"shaking palsy\\\"",
+          "choices": [
+            "Huntington",
+            "Alzheimer",
+            "Parkinson",
+            "Wilson"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "specializes in the systems such as the central & sympathetic, like branch founder Jean-Martin Charcot",
+          "choices": [
+            "a neurologist",
+            "a cardiologist",
+            "a gastroenterologist",
+            "a rheumatologist"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "GIMME AN \"F\\\"",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Broken, like some bones or cartoon \"fairy tales\\\"",
+          "choices": [
+            "Shattered",
+            "Splintered",
+            "Fractured",
+            "Damaged"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Thomas Gray wrote, \"Where ignorance is bliss, 'tis\" this \"to be wise\\\"",
+          "choices": [
+            "Futile",
+            "Foolish",
+            "Fruitless",
+            "Folly"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This Italian bread is drizzled with olive oil before baking & is used for small sandwiches called panini",
+          "choices": [
+            "ciabatta",
+            "filone",
+            "pane toscano",
+            "focaccia"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Reynard, the hero of medieval French fables, is one of these",
+          "choices": [
+            "fox",
+            "falcon",
+            "ferret",
+            "fennec"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "(Sarah of the Clue Crew reports from Belize.) Xunantunich means \"stone woman\" or \"maiden of the rock\" & is associated with this 9-letter quality",
+          "choices": [
+            "fascination",
+            "fertility",
+            "formality",
+            "familiarity"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "FAMOUS MEN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "He swashbuckled his way through 3 marriages: to Lili Damita, Nora Eddington & Patrice Wymore",
+          "choices": [
+            "Clark Gable",
+            "Errol Flynn",
+            "Gary Cooper",
+            "Douglas Fairbanks"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "This author of \"Kane & Abel\" was only 29 when elected to parliament",
+          "choices": [
+            "Jeffrey Archer",
+            "John Grisham",
+            "Harold Robbins",
+            "James Patterson"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "An early merchandising giant, he started his 1st store at Kemmerer, Wyoming",
+          "choices": [
+            "John Wanamaker",
+            "Marshall Field",
+            "John H. Patterson",
+            "J.C. Penney"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "The big ballpark this man built in Brooklyn opened in 1913",
+          "choices": [
+            "Branch Rickey",
+            "Tillinghast Huston",
+            "Jacob Ruppert",
+            "(Charles) Ebbets"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Appropriately. Richard Belzer co-wrote a book on how to be a stand-up one of these",
+          "choices": [
+            "a magician",
+            "a juggler",
+            "a ventriloquist",
+            "a comedian"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "PICK YOUR POISON",
+    "clue": "Used to murder ex-KGB man Alexander Litvinenko: plutonium, polonium, potassium",
+    "choices": [
+      "radium",
+      "polonium",
+      "cesium",
+      "thallium"
+    ],
+    "correctIndex": 1
+  },
+  "bonusRound": {
+    "category": "AUTHORS' BIOGRAPHIES",
+    "clue": "\\\"Eden's Outcasts\" tells how her dad's transcendentalist utopia failed and how her writing paid the bills",
+    "choices": [
+      "Emily Dickinson",
+      "Louisa May Alcott",
+      "Harriet Beecher Stowe",
+      "Margaret Fuller"
+    ],
+    "correctIndex": 1
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-28",
+  "categories": [
+    {
+      "name": "ALL THINGS BRITISH",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The 1648 Battle of St. Ffagan was a major battle of the English Civil War fought in this principality",
+          "choices": [
+            "Wales",
+            "Scotland",
+            "Ireland",
+            "Cornwall"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This national stadium has played host to the Olympics, the World Cup & Live Aid",
+          "choices": [
+            "Hampden Park",
+            "Old Trafford",
+            "Wembley Stadium",
+            "Twickenham Stadium"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Branwyn, Gwyllum, & Baldrick are 3 of the famous ravens at this location",
+          "choices": [
+            "the Tower of London",
+            "Buckingham Palace",
+            "Windsor Castle",
+            "Hampton Court Palace"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "When a boy does a rollie pollie on a British playground, he's doing one of these",
+          "choices": [
+            "a cartwheel",
+            "a handstand",
+            "a somersault",
+            "a leapfrog"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "This British pair dominated the world ice-dancing scene in the early 1980s",
+          "choices": [
+            "Torvill & Dean",
+            "Bestemianova & Bukin",
+            "Klimova & Ponomarenko",
+            "Curry & Cousins"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "BREAKFAST CEREAL",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This cereal inspired by a cartoon show can be used to make Yabba-Dabba-Doo Squares",
+          "choices": [
+            "Honey Smacks",
+            "(Cocoa & Fruity) Pebbles",
+            "Ghostbusters Cereal",
+            "Cap'n Crunch"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "If regular Shredded Wheat is too big for you, you can get it in this \"Size\\\"",
+          "choices": [
+            "Bite Size",
+            "Mini Size",
+            "Spoon Size",
+            "Family Size"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "With flavors like Raspberry Red, Lemony Lemon & Grapity Purple, it's hard for silly rabbits to resist this classic",
+          "choices": [
+            "Trix",
+            "Froot Loops",
+            "Lucky Charms",
+            "Cap'n Crunch"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "In 1987 Bela Lugosi appeared on boxes of this cereal, the first in General Mills' \"Monster Cereals\\\"",
+          "choices": [
+            "Franken Berry",
+            "Boo Berry",
+            "Count Dracula Crunch",
+            "Count Chocula"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Back in 1934 Lou Gehrig was the first athlete to appear on a box of this \"Breakfast of Champions\\\"",
+          "choices": [
+            "Corn Flakes",
+            "Cheerios",
+            "Wheaties",
+            "Grape Nuts"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "EUROPE TO NO GOOD",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1981 Poland's premier declared martial law, arrested thousands & suspended this trade union",
+          "choices": [
+            "Charter 77",
+            "Civic Forum",
+            "Solidarity",
+            "Workers' Defense Committee"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Around 445 he killed his brother Bleda to become sole leader of the Huns",
+          "choices": [
+            "Genghis Khan",
+            "Alaric",
+            "Tamerlane",
+            "Attila"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "In 1864 Austria & Prussia declared war on this country which eventually lost Schleswig & Holstein",
+          "choices": [
+            "Sweden",
+            "France",
+            "the Netherlands",
+            "Denmark"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "His failure to blow up Parliament is celebrated in Great Britain on November 5",
+          "choices": [
+            "Robert Catesby",
+            "Guy Fawkes",
+            "Thomas Percy",
+            "Francis Tresham"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "For his preferred method of executing his enemies, Prince Vlad III of Walachia earned this nickname",
+          "choices": [
+            "the Impaler",
+            "the Terrible",
+            "the Cruel",
+            "the Conqueror"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "OCEANIA",
+    "clue": "(Kelly of the Clue Crew shows us a map of part of the South Pacific.) Port Moresby, on the Coral Sea, is the capital of this three-named country",
+    "choices": [
+      "Solomon Islands",
+      "Vanuatu",
+      "Papua New Guinea",
+      "Fiji"
+    ],
+    "correctIndex": 2
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-26",
+  "categories": [
+    {
+      "name": "GEORGE WASHINGTON",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "On December 26, 1799 Washington was eulogized in Congress by this man known as \"Lighthorse Harry\\\"",
+          "choices": [
+            "Thomas Jefferson",
+            "Harry Lee",
+            "James Monroe",
+            "Henry Knox"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Long before the Geneva Convention he insisted the British treat captured American officers as these, not criminals",
+          "choices": [
+            "rebels",
+            "traitors",
+            "prisoners of war",
+            "criminals"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "It's where George is at rest",
+          "choices": [
+            "Valley Forge",
+            "Yorktown",
+            "Arlington Cemetery",
+            "Mount Vernon"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "In 1774 & 1775, Washington was a delegate to the 1st & 2nd sessions of this body",
+          "choices": [
+            "the Continental Congress",
+            "the Constitutional Convention",
+            "the House of Representatives",
+            "the Virginia House of Burgesses"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "This famous \"speech\" by Washington in 1796 was printed in a newspaper, not delivered publicly",
+          "choices": [
+            "Gettysburg Address",
+            "First Inaugural Address",
+            "Washington's farewell address",
+            "State of the Union Address"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "CARDS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "During this war some decks replaced the kings & queens with doughboys & Red Cross nurses",
+          "choices": [
+            "World War II",
+            "World War I",
+            "American Civil War",
+            "Vietnam War"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "It's believed 17th century poet John Suckling invented this card game",
+          "choices": [
+            "poker",
+            "bridge",
+            "cribbage",
+            "whist"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "In baccarat, it's the term for the box from which cards are dealt",
+          "choices": [
+            "discard tray",
+            "shoe",
+            "burn pile",
+            "card tray"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "D.L. Coburn's Pulitzer Prize-winning play, based on 2 old people & a deck of cards",
+          "choices": [
+            "The Glass Menagerie",
+            "The Gin Game",
+            "Death of a Salesman",
+            "Our Town"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Once America's most popular card game, it's now #2, after poker",
+          "choices": [
+            "bridge",
+            "hearts",
+            "canasta",
+            "gin rummy"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "THE SAILOR MAN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The skeleton of a sailor named Allardyce is left as a clue in this 1883 pirate tale",
+          "choices": [
+            "Treasure Island",
+            "Moby Dick",
+            "The Swiss Family Robinson",
+            "Robinson Crusoe"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "During the Korean War, this future president was an officer in the Navy's nuclear submarine program",
+          "choices": [
+            "Ford",
+            "Carter",
+            "Reagan",
+            "Bush"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "In \"The Thousand & One Nights\", this sailor man swears off travel after his seventh voyage",
+          "choices": [
+            "Aladdin",
+            "Sinbad",
+            "Captain Ahab",
+            "Odysseus"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "The irascible Captain Haddock is from this Belgian's \"Tintin\" stories",
+          "choices": [
+            "Andr\u00e9 Franquin",
+            "Edgar P. Jacobs",
+            "Morris",
+            "Herg\u00e9"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This Sebastian Junger book looks into what might have befallen those aboard the fishing boat the Andrea Gail",
+          "choices": [
+            "Tribe",
+            "War",
+            "The Last Photo",
+            "The Perfect Storm"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "SITCOM NEIGHBORS",
+    "clue": "\\\"Hello, Newman\\\"",
+    "choices": [
+      "Cheers",
+      "Frasier",
+      "Seinfeld",
+      "Mad About You"
+    ],
+    "correctIndex": 2
+  },
+  "bonusRound": {
+    "category": "REMEMBERING TED KENNEDY",
+    "clue": "Destined for a political career, Ted Kennedy was born Feb. 22, 1932, the 200th anniv. of this president's birth",
+    "choices": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "John Adams"
+    ],
+    "correctIndex": 0
+  }
+}

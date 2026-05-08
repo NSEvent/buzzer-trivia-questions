@@ -192,5 +192,16 @@
       "Mammoth"
     ],
     "correctIndex": 1
+  },
+  "bonusRound": {
+    "category": "THE ROOM WHERE IT HAPPENS",
+    "clue": "\\\"Reflect\" upon it & tell us the name of this room in Versailles where Marie-Antoinette's masked wedding ball occurred",
+    "choices": [
+      "the Grand Gallery",
+      "the Salon of Apollo",
+      "the Orangerie",
+      "the Hall of Mirrors"
+    ],
+    "correctIndex": 3
   }
 }

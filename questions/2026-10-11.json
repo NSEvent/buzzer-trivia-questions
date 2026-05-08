@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-11",
+  "categories": [
+    {
+      "name": "LITERARY LANDMARKS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The Church of St. Dunstan is located next to this guy's (fictional) barbershop on London's Fleet Street",
+          "choices": [
+            "Inspector Lestrade",
+            "Mr. Hyde",
+            "Professor Moriarty",
+            "Sweeney Todd"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "This author's boyhood home in Hannibal, Missouri is on the national register of historic places",
+          "choices": [
+            "Ernest Hemingway",
+            "William Faulkner",
+            "Stephen Crane",
+            "Mark Twain"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "In the Bronx, visit the cottage that he shared with his sickly young wife Virginia, who, tragically, died there in 1847",
+          "choices": [
+            "Herman Melville",
+            "Nathaniel Hawthorne",
+            "Edgar Allan Poe",
+            "Henry Wadsworth Longfellow"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Landmarks in this city at the very bottom of Florida include homes of Robert Frost, John Hersey & Wallace Stevens",
+          "choices": [
+            "Key West",
+            "Miami",
+            "Naples",
+            "Fort Myers"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "You'll have to go to Gwent, Wales to see this abbey immortalized in a 1798 Wordsworth poem",
+          "choices": [
+            "Westminster Abbey",
+            "Fountains Abbey",
+            "Tintern Abbey",
+            "Glastonbury Abbey"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "WANNA BET?",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "If the bettor buys insurance after the dealer shows an ace, he's playing this game",
+          "choices": [
+            "poker",
+            "video poker",
+            "blackjack",
+            "pinochle"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "In this game a don't pass bet is a wager against the shooter",
+          "choices": [
+            "roulette",
+            "sic bo",
+            "craps",
+            "poker"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "In this fancy-schmancy card game, it's just who gets closest to a total of 9 who wins",
+          "choices": [
+            "baccarat",
+            "twenty-one",
+            "pontoon",
+            "casino war"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "When betting on one of these, a consistently low Beyer speed figure should be a red flag",
+          "choices": [
+            "greyhound",
+            "racehorse",
+            "race car",
+            "quarterback"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "In 2018 this NBA commissioner said the league should get a cut of any legalized betting on it",
+          "choices": [
+            "(Adam) Silver",
+            "David Stern",
+            "Mark Cuban",
+            "Steve Ballmer"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "BANKING & FINANCE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It's property that a debtor has pledged, mortgaged or assigned to a creditor",
+          "choices": [
+            "mortgage",
+            "collateral",
+            "equity",
+            "lien"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Talk about cold cash! Wells Fargo owns the only 2 of these machines in Antarctica\u2014one is used just for its parts",
+          "choices": [
+            "vending machine",
+            "coffee maker",
+            "an ATM",
+            "satellite dish"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Term for the amount by which the economic value of something is reduced over time by wear & tear & other factors",
+          "choices": [
+            "amortization",
+            "obsolescence",
+            "depreciation",
+            "impairment"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "One investment strategy is a bond one of these structures; the time between maturity dates can be thought of as rungs",
+          "choices": [
+            "bond funnel",
+            "a (bond) ladder",
+            "bond wall",
+            "bond pyramid"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "FDIC-insured banks will now protect deposits up to this amount, up from $100,000",
+          "choices": [
+            "$500,000",
+            "$250,000",
+            "$1,000,000",
+            "$150,000"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "CONVERSIONS",
+    "clue": "In this novel subtitled \"A Tale of the Christ\", the title man's mom & sis are converted & cured of leprosy",
+    "choices": [
+      "Quo Vadis",
+      "The Robe",
+      "Ivanhoe",
+      "Ben-Hur"
+    ],
+    "correctIndex": 3
+  }
+}

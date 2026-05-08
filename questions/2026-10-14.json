@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-14",
+  "categories": [
+    {
+      "name": "FISHING",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Bluegill & crappie are classified as freshwater panfish because they can fit in this",
+          "choices": [
+            "a frying pan",
+            "a roasting pan",
+            "a Dutch oven",
+            "a saucepan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Canvas, rattan, or willow containers used to carry fish",
+          "choices": [
+            "a tackle box",
+            "a cooler bag",
+            "a creel",
+            "a mesh bag"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Split-shot, dipsey & keel are 3 types of these",
+          "choices": [
+            "bobbers",
+            "crankbaits",
+            "swivels",
+            "sinkers"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Some types are weedless, hump-shanked, sneck bend & superior mustad-limerick",
+          "choices": [
+            "lures",
+            "hooks",
+            "jigs",
+            "flies"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "You use hackle pliers & a vise to tie one, or a swatter to kill a real one",
+          "choices": [
+            "a streamer",
+            "a fly",
+            "a jig",
+            "a crankbait"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "CHICAGO TV",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "On \"Early Edition\", it's the pet that delivers the Chicago Sun-Times to Gary Hobson, a day earlier than to everyone else",
+          "choices": [
+            "Dog",
+            "Parrot",
+            "Hamster",
+            "Cat"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "On one show named for this comic, he played a Chicago shrink who shared his secretary with a dentist",
+          "choices": [
+            "Johnny Carson",
+            "Bob Newhart",
+            "Jerry Seinfeld",
+            "Redd Foxx"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "If this sitcom was titled with the characters' last names instead of their first, it would be \"Mr. Biggs & Ms. Flynn\\\"",
+          "choices": [
+            "Jim & Pam",
+            "Mike & Molly",
+            "Barney & Robin",
+            "Ross & Rachel"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "On this sitcom, cousins from different worlds Larry & Balki worked for the Chicago Chronicle newspaper",
+          "choices": [
+            "Perfect Strangers",
+            "Full House",
+            "Family Ties",
+            "Step by Step"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "In NBC's \"One Chicago\" program block, it comes between \"Chicago Med\" & \"Chicago P.D.\\\"",
+          "choices": [
+            "Chicago Hope",
+            "Chicago Justice",
+            "Chicago Fire",
+            "Chicago Med"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "AGELESS QUOTES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Whale tale author who wrote, \"Youth is immortal; 'tis the elderly only grow old!\\\"",
+          "choices": [
+            "Hawthorne",
+            "Thoreau",
+            "Emerson",
+            "Melville"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Ben Franklin said, \"Dost thou love life? Then do not squander\" this, \"for that's the stuff life is made of\\\"",
+          "choices": [
+            "money",
+            "happiness",
+            "health",
+            "time"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Oscar Wilde wrote, \"One should never trust a woman who tells one\" this; she \"would tell one anything\\\"",
+          "choices": [
+            "her favorite color",
+            "her real age",
+            "her true feelings",
+            "her marital status"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Betty Friedan wrote, \"to keep... life-giving ties alive... is our\" this, the opposite of Ponce de Leon's legendary quest",
+          "choices": [
+            "\\\"fountain of age\\\"",
+            "El Dorado",
+            "the Holy Grail",
+            "Avalon"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "A Clairol slogan proclaimed, \"you're not getting older, you're\" doing this",
+          "choices": [
+            "you're getting wiser",
+            "you're staying radiant",
+            "you're becoming elegant",
+            "you're getting better"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THE THEATER",
+    "clue": "The title guys of this Shakespeare play leave home & head to Milan; various love plots ensue",
+    "choices": [
+      "The Merry Wives of Windsor",
+      "The Two Noble Kinsmen",
+      "Much Ado About Nothing",
+      "The Two Gentlemen of Verona"
+    ],
+    "correctIndex": 3
+  }
+}

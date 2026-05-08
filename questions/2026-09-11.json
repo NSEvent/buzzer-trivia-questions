@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-11",
+  "categories": [
+    {
+      "name": "THE TRANSPORTER",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Time magazine, on an \"arrogantly huge\" 21st c. model of this: \"Maybe we all shouldn't be driving tanks that get 10 mpg\\\"",
+          "choices": [
+            "a Ford Expedition",
+            "a Chevrolet Suburban",
+            "a Hummer",
+            "a Lincoln Navigator"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "An aircraft carrier is named for this North Carolina town where history was made in 1903",
+          "choices": [
+            "Kitty Hawk",
+            "Raleigh",
+            "Wilmington",
+            "Cape Hatteras"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "We call it a streetcar; the Brits use this 4-letter term",
+          "choices": [
+            "tube",
+            "hack",
+            "a tram",
+            "wain"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "In 1968 this company introduced the Sting-Ray Krate, a forerunner to the BMX",
+          "choices": [
+            "Huffy",
+            "Murray",
+            "Raleigh",
+            "Schwinn"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "On July 20, 1969 the world held its breath as 2 guys finally found a parking spot for this transport at 4:17 P.M. EDT",
+          "choices": [
+            "the Eagle",
+            "the Columbia",
+            "the Intrepid",
+            "the Falcon"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "SENIOR CITIZENS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Reportedly the oldest working playwright ever, this author of \"Saint Joan\" wrote his last play at age 93",
+          "choices": [
+            "Arthur Miller",
+            "Eugene O'Neill",
+            "Henrik Ibsen",
+            "George Bernard Shaw"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "The host of \"Firing Line\" inherited oil millions & conservative beliefs from this man",
+          "choices": [
+            "Barry Goldwater, Sr.",
+            "H.L. Hunt",
+            "William F. Buckley, Sr.",
+            "Strom Thurmond"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Physician & writer of the 3rd Gospel, he lived to be 84",
+          "choices": [
+            "John",
+            "Mark",
+            "Luke",
+            "Matthew"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Advisor to Lincoln, this ex-slave became U.S. minister to Haiti at age 72",
+          "choices": [
+            "Booker T. Washington",
+            "Frederick Douglass",
+            "Sojourner Truth",
+            "Harriet Tubman"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "This eminent violin virtuoso was the grandfather of \"Remington Steele\" actress Stephanie",
+          "choices": [
+            "Jascha Heifetz",
+            "Efrem Zimbalist, Sr.",
+            "Yehudi Menuhin",
+            "Itzhak Perlman"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "LITERATURE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Published in 1961, \"The Winter of\" this was John Steinbeck's last novel",
+          "choices": [
+            "The Winter of Lost Years",
+            "The Winter of Our Discontent",
+            "The Winter of All Souls",
+            "The Winter of Our Despair"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "2-word title description of Thomas Hardy's Jude",
+          "choices": [
+            "the Obscure",
+            "the Unfortunate",
+            "the Forsaken",
+            "the Condemned"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Philip Nolan is the title character of this 1863 Edward Everett Hale story",
+          "choices": [
+            "The Man Without a Country",
+            "The Man Who Would Be King",
+            "A Man of the People",
+            "The Man of the Crowd"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Published in 1923, \"The Prophet\" is a book of 28 poetic essays by this Lebanese-American",
+          "choices": [
+            "Mikhail Naimy",
+            "Ameen Rihani",
+            "Khalil Hawi",
+            "Kahlil Gibran"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Biblical king who \"wrote\" Joseph Heller's \"God Knows\\\"",
+          "choices": [
+            "Solomon",
+            "Saul",
+            "Ahab",
+            "David"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "CONTEMPORARY AUTHORS",
+    "clue": "Mark Haddon, who worked with people with autism, made his main character autistic in this \"Curious\" novel",
+    "choices": [
+      "The Strange Affair of the Cat in the Garden",
+      "The Peculiar Incident of the Boy at School",
+      "The Curious Incident of the Dog in the Night-Time",
+      "The Curious Case of the Child in the Dark"
+    ],
+    "correctIndex": 2
+  }
+}

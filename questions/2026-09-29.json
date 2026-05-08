@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-29",
+  "categories": [
+    {
+      "name": "LET'S GO TO THE BEACH",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "We'll build one of these with walls, turrets &, of course, a moat",
+          "choices": [
+            "sand pyramid",
+            "beach fort",
+            "sand fortress",
+            "sandcastle"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "We'll need to protect our feet against the edges of this, made of millions of tiny underwater creatures",
+          "choices": [
+            "sea sponge",
+            "barnacle cluster",
+            "oyster reef",
+            "coral"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "On June 6, 1944 the U.S. Army's 2nd Ranger Battalion climbed the cliffs of the beach code-named this",
+          "choices": [
+            "Sword Beach",
+            "Utah Beach",
+            "Gold Beach",
+            "Omaha Beach"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "The beach Matthew Arnold was talking about must not have been this sunny spot on Barbados' south coast; it's no darkling plain",
+          "choices": [
+            "Brighton Beach",
+            "Plymouth Beach",
+            "Dover Beach",
+            "Cape May Beach"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Between Fish Hoek & Cape Point, Boulders Beach gets all kinds of tourists in this country",
+          "choices": [
+            "Australia",
+            "Kenya",
+            "Brazil",
+            "South Africa"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "WHO THE \"H\" ARE YOU?",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This menswear designer has a Tommy line for women, along with a Tommy Girl fragrance",
+          "choices": [
+            "Klein",
+            "Lauren",
+            "Karan",
+            "Hilfiger"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Fritz is the nickname of this former South Carolina senator",
+          "choices": [
+            "(Ernest) Hollings",
+            "McCain",
+            "Byrd",
+            "Hatch"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "He appointed former President William Howard Taft to the Supreme Court",
+          "choices": [
+            "Coolidge",
+            "Harding",
+            "Hoover",
+            "Cleveland"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "He was White House Chief of Staff, Supreme Commander of NATO Forces in Europe & Secy. of State",
+          "choices": [
+            "Henry Kissinger",
+            "James Baker",
+            "(Alexander) Haig",
+            "Colin Powell"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "He's the troubled prodigy whose story is told in the 1996 film \"Shine\\\"",
+          "choices": [
+            "(David) Helfgott",
+            "Vladimir Horowitz",
+            "Glenn Gould",
+            "Lang Lang"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "SENATE COMMITTEES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Like the one on taxation, 4 committees begin with this 5-letter word meaning \"shared\\\"",
+          "choices": [
+            "Common",
+            "Joint",
+            "Public",
+            "Federal"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "At help.senate.gov HELP stands for Health, Education, Labor & these, which some laborers get after they retire",
+          "choices": [
+            "Benefits",
+            "Retirement",
+            "Pensions",
+            "Disability"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "There are 3 \"P\"s in the name of this committee that is responsible for allocating federal funds",
+          "choices": [
+            "the Budget Committee",
+            "the Appropriations Committee",
+            "the Finance Committee",
+            "the Judiciary Committee"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "The Select Committee on these deals with gifts & conflicts of interest",
+          "choices": [
+            "Ethics",
+            "Intelligence",
+            "Governmental Affairs",
+            "Standards of Official Conduct"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Reviewing Medicare on an \"almost annual basis\", this committee deals with \"matters relating to older Americans\\\"",
+          "choices": [
+            "the Committee on Veterans' Affairs",
+            "the Special Committee on Nutrition and Human Needs",
+            "the Special Committee on Aging",
+            "the Committee on Health, Education, Labor and Pensions"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "ANY PORT",
+    "clue": "This Russian port on the Pacific is the eastern terminus of the Trans-Siberian Railroad",
+    "choices": [
+      "Nakhodka",
+      "Vladivostok",
+      "Petropavlovsk-Kamchatsky",
+      "Magadan"
+    ],
+    "correctIndex": 1
+  }
+}

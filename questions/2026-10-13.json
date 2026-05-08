@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-13",
+  "categories": [
+    {
+      "name": "GETTING RELIGION",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "During the festival of Kathina, lay Buddhists give their monks civara, these traditional garments",
+          "choices": [
+            "robes",
+            "tunics",
+            "vestments",
+            "cassocks"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Only Muslims may enter this, the religion's holiest city, Muhammad's birthplace",
+          "choices": [
+            "Medina",
+            "Mecca",
+            "Jerusalem",
+            "Riyadh"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Amenouzume, the \"heavenly alarming female\", is among the major kami of this Japanese religion",
+          "choices": [
+            "Zen Buddhism",
+            "Confucianism",
+            "Taoism",
+            "Shinto"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Members of the Order of Bards, Ovates & Druids flock to Stonehenge in late June to celebrate Alban Hefin, this",
+          "choices": [
+            "the winter solstice",
+            "the summer solstice",
+            "the spring equinox",
+            "the autumn equinox"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "To its members, this faith is called Gurmat, Punjabi for \"way of the guru\\\"",
+          "choices": [
+            "Buddhism",
+            "Sikhism",
+            "Hinduism",
+            "Judaism"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "\\\"IF\"FY SONGS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In \"Camelot\", this wouldn't occur in springtime, summer, winter or fall",
+          "choices": [
+            "If I Were a Carpenter",
+            "If You Love Me (Really Love Me)",
+            "If I Had a Hammer",
+            "\\\"If Ever I Would Leave You\\\""
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Circumstances under which \"ev'ry man would be as free as a bird, ev'ry voice would be a voice to be heard\\\"",
+          "choices": [
+            "If I Can Dream",
+            "If I Never Knew You",
+            "If the World Should End Tonight",
+            "\\\"If I Ruled The World\\\""
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "\\\"We could go on loving in the same old way. A Garden of Eden just made for 2\" under these conditions",
+          "choices": [
+            "If you were the only boy in the world",
+            "If you were the only girl in the world and I were the only boy",
+            "If I only had a dream",
+            "If you go away"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Jimmy Soul advised \"Get an ugly girl to marry you\" in this 1963 #1 hit",
+          "choices": [
+            "If I Had a Hammer",
+            "If You Go Away",
+            "If You Leave Me Now",
+            "\\\"If You Want To Be Happy For The Rest Of Your Life\\\""
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Were this true, Tevye the Milkman would own \"1 long staircase just going up & 1 even longer coming down\\\"",
+          "choices": [
+            "\\\"If I Were A Rich Man\\\"",
+            "If I Could Turn Back Time",
+            "If You Could Read My Mind",
+            "If Ever I Would Leave You"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "DESCRIBING THE NOVEL",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "An unequal sequel; geez, Atticus, 2 decades can really change a man",
+          "choices": [
+            "To Kill a Mockingbird",
+            "Go Set a Watchman",
+            "The Great Gatsby",
+            "One Hundred Years of Solitude"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Get up on Updike; the 4th & last novel; Mr. Angstrom takes a load off, permanently",
+          "choices": [
+            "Rabbit Run",
+            "Rabbit at Rest",
+            "Rabbit Redux",
+            "Rabbit Is Rich"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Cormac McCarthy bums us out (again); a boy & his dad's super-depressing journey through a post-apocalyptic U.S.A.",
+          "choices": [
+            "The Stand",
+            "The Book of Eli",
+            "The Road",
+            "I Am Legend"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Lockwood tells the tale, Yorkshire putting, Heathcliff is one wild cat",
+          "choices": [
+            "Jane Eyre",
+            "Rebecca",
+            "Wuthering Heights",
+            "The Tenant of Wildfell Hall"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "The Trask at hand, California dreamin', raising Cain (& Abel, metaphorically)",
+          "choices": [
+            "The Grapes of Wrath",
+            "East of Eden",
+            "Of Mice and Men",
+            "The Sun Also Rises"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "SPACE FIRSTS",
+    "clue": "On April 12, 1961 this Russian, the first man in space, said the earth had a \"beautiful blue halo\\\"",
+    "choices": [
+      "Gagarin",
+      "Titov",
+      "Leonov",
+      "Bykovsky"
+    ],
+    "correctIndex": 0
+  }
+}

@@ -183,15 +183,14 @@
     }
   ],
   "dailyDouble": {
-    "category": "Science & Nature",
-    "value": 600,
-    "clue": "DNA's double helix structure was first described in 1953 by James Watson and this British scientist.",
+    "clue": "This 19th c. actor known as the \"Prince of Players\" was the brother of a presidential assassin",
     "choices": [
-      "Rosalind Franklin",
-      "Francis Crick",
-      "Linus Pauling",
-      "Max Perutz"
+      "Junius Brutus Booth",
+      "Edwin Forrest",
+      "Edwin Booth",
+      "Joseph Jefferson"
     ],
-    "correctIndex": 1
+    "correctIndex": 2,
+    "category": "Science & Nature"
   }
 }

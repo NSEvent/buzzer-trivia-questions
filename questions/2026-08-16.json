@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "St. Augustine's mom",
           "choices": [
+            "Saint Ambrose",
             "Saint Monica",
-            "Saint Monica",
-            "Saint Monica",
-            "Saint Monica"
+            "Saint Helena",
+            "Saint Perpetua"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "He's the Church's patron of paratroopers",
           "choices": [
-            "Saint Michael",
+            "St. Sebastian",
             "St. Michael",
-            "Saint Michael",
-            "Saint Michael"
+            "St. Martin of Tours",
+            "St. Gabriel"
           ],
           "correctIndex": 1
         }
@@ -128,9 +128,9 @@
           "value": 200,
           "clue": "Farms & ranches cover 90% of this border state's land",
           "choices": [
-            "North Dakota",
-            "North Dakota",
-            "North Dakota",
+            "Montana",
+            "Nebraska",
+            "Kansas",
             "North Dakota"
           ],
           "correctIndex": 3
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Begun in 1948, this university's African studies program was 1st of its kind in U.S.",
           "choices": [
+            "Columbia",
+            "Yale",
             "Northwestern",
-            "Northwestern",
-            "Northwestern",
-            "Northwestern"
+            "Chicago"
           ],
           "correctIndex": 2
         },

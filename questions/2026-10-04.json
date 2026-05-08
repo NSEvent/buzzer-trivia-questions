@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-04",
+  "categories": [
+    {
+      "name": "COMMUNISM",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "2-word name for the Communist army that brutally ruled Cambodia in the 1970s",
+          "choices": [
+            "Khmer Rouge",
+            "Red Guards",
+            "Viet Cong",
+            "Red Army"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Famed Mexican muralist David Siqueiros was jailed for trying to assassinate this exiled communist",
+          "choices": [
+            "Trotsky",
+            "Stalin",
+            "Lenin",
+            "Bukharin"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Until Suharto had many killed, this island country had largest Comm. Party in a non-comm. country",
+          "choices": [
+            "Indonesia",
+            "Philippines",
+            "Cuba",
+            "Sri Lanka"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Shortened from 2 Russian words, it was the supreme policy-making body in the USSR",
+          "choices": [
+            "Orgburo",
+            "Politburo",
+            "Sovnarkom",
+            "Gosplan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "\\\"The Communist Manifesto\" declares that the history of all society is the history of these struggles",
+          "choices": [
+            "economic disparities",
+            "class struggles",
+            "ideological divides",
+            "social conflicts"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "I LOVE \"U\\\"",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Natural lactose producer found on a cow",
+          "choices": [
+            "teat",
+            "udder",
+            "mammary gland",
+            "udder sac"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Heisenberg's principal principle",
+          "choices": [
+            "uncertainty",
+            "indeterminacy",
+            "quantum fluctuation",
+            "measurement limit"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "The highest elevation in this state is 13,528 feet",
+          "choices": [
+            "Colorado",
+            "Utah",
+            "Wyoming",
+            "Montana"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Engaged in the secret gathering of information, or just sleeping in on a Saturday",
+          "choices": [
+            "covert",
+            "incognito",
+            "undercover",
+            "disguised"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "The Greek philosopher Socrates said that this kind of life \"is not worth living\\\"",
+          "choices": [
+            "unquestioned",
+            "unchecked",
+            "unexamined",
+            "undisciplined"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "DON'T TRY THIS AT HOME",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "According to \"Significa\", you may die if you drink beer while doing this to your shoes",
+          "choices": [
+            "scrubbing",
+            "painting",
+            "drying",
+            "polishing"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Don't roll around in a barrel in preparation for going over these waterfalls on the Canada/U.S. border",
+          "choices": [
+            "Niagara Falls",
+            "Victoria Falls",
+            "Iguazu Falls",
+            "Angel Falls"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Don't get too close to one of these, like Etna or Vesuvius, if one starts erupting in your backyard",
+          "choices": [
+            "lava flow",
+            "geyser",
+            "caldera",
+            "volcano"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Don't walk on the surface of this closest star to the Earth unless you're wearing heat-resistant booties",
+          "choices": [
+            "the Sun",
+            "Mercury",
+            "Proxima Centauri",
+            "the Moon"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Guinness says the hottest of these ever walked on, by a man called \"Komar\", were 1494\u00b0 F.",
+          "choices": [
+            "hot sand",
+            "burning embers",
+            "coals",
+            "molten metal"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "GROOVY",
+    "clue": "This Simon & Garfunkel tune is also known as \"The 59th Street Bridge Song\\\"",
+    "choices": [
+      "\\\"Feelin' Groovy\\\"",
+      "The Sound of Silence",
+      "Bridge Over Troubled Water",
+      "Mrs. Robinson"
+    ],
+    "correctIndex": 0
+  }
+}

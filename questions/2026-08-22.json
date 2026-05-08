@@ -1,0 +1,207 @@
+{
+  "date": "2026-08-22",
+  "categories": [
+    {
+      "name": "SPORTS STADIUMS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This Detroit stadium was formerly called Bennett Park, then Navin Field, then Briggs Stadium",
+          "choices": [
+            "Tiger Stadium",
+            "Comerica Park",
+            "Olympia Stadium",
+            "Joe Louis Arena"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "While Huskie Stadium (-skie) belongs to Northern Illinois University, Husky Stadium (-sky) is this school's home field",
+          "choices": [
+            "Washington",
+            "Connecticut",
+            "Michigan State",
+            "Minnesota"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Sites of Brooklyn's Ebbet's Field & New York's Polo Ground are now both occupied by these",
+          "choices": [
+            "parking lots",
+            "shopping centers",
+            "apartment buildings (housing projects)",
+            "public parks"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "1959 Yankee/Dodger game drew 93,103, largest crowd in Major League history to this stadium",
+          "choices": [
+            "Dodger Stadium",
+            "Rose Bowl",
+            "the (L.A.) Coliseum",
+            "Chavez Ravine"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Major League baseball park with largest seating capacity is in this city in the American League East",
+          "choices": [
+            "Baltimore",
+            "Boston",
+            "Toronto",
+            "Cleveland"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "ROCK OF THE 80'S",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "4 years after his death, this ex-Beatle had a hit with \"I'm Stepping Out\\\"",
+          "choices": [
+            "George Harrison",
+            "Paul McCartney",
+            "John Lennon",
+            "Ringo Starr"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "They \"blinded him with science\\\"",
+          "choices": [
+            "Gary Numan",
+            "Thomas Dolby",
+            "Howard Jones",
+            "Devo"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "These superstars are together in a \"State of Shock\\\"",
+          "choices": [
+            "Freddie Mercury & David Bowie",
+            "Michael Jackson & Mick Jagger",
+            "Paul McCartney & Stevie Wonder",
+            "Bruce Springsteen & Sting"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Though now he's \"Dancing in the Dark\", in the '70s he was \"Born to Run\\\"",
+          "choices": [
+            "Bruce Springsteen",
+            "Tom Petty",
+            "Billy Joel",
+            "John Mellencamp"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "His first of many hits in the '80s was \"She's Out Of My Life\\\"",
+          "choices": [
+            "Prince",
+            "Michael Jackson",
+            "George Michael",
+            "Lionel Richie"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "\\\"B\" MOVIES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1987, Blake Edwards set Kim Basinger up for one of these",
+          "choices": [
+            "Big Trouble",
+            "Blind Date",
+            "Beverly Hills Cop",
+            "Bachelor Party"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "The National Society of Film Critics named this David Lynch film the Best Picture of 1986",
+          "choices": [
+            "Barfly",
+            "Blue Velvet",
+            "Blood Simple",
+            "Birdy"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Cameron Diaz did plenty of swearing on the job when she was supposed to be instructing students in this 2011 comedy",
+          "choices": [
+            "Bad Teacher",
+            "Bad Boys",
+            "Big Miracle",
+            "Broken City"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "1 of 2 movie series titles that could be followed by \"of 1936\" or \"of 1938\\\"",
+          "choices": [
+            "The Big Broadcast (or The Broadway Melody)",
+            "The Black Pirate",
+            "The Buccaneer",
+            "The Big Sleep"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "This 1970 Russ Meyer movie about an all-girl rock trio was a sequel in name only",
+          "choices": [
+            "Beyond the Valley of the Dolls",
+            "Beneath the Planet of the Apes",
+            "Barbarella",
+            "Bullitt"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "CEREALS",
+    "clue": "In China, the red variety of this cereal grain is called kaoliang, and can grow up to 8 feet high",
+    "choices": [
+      "millet",
+      "barley",
+      "amaranth",
+      "sorghum"
+    ],
+    "correctIndex": 3
+  },
+  "bonusRound": {
+    "category": "ENGLISH LIT",
+    "clue": "Kurtz' dying words in this Joseph Conrad tale are \"The horror! The horror!\\\"",
+    "choices": [
+      "Lord Jim",
+      "\\\"Heart of Darkness\\\"",
+      "Nostromo",
+      "The Secret Agent"
+    ],
+    "correctIndex": 1
+  }
+}

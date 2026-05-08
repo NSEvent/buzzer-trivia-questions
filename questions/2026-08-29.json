@@ -1,0 +1,207 @@
+{
+  "date": "2026-08-29",
+  "categories": [
+    {
+      "name": "RELIGION",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It's the state religion of Algeria",
+          "choices": [
+            "Judaism",
+            "Islam",
+            "Christianity",
+            "Buddhism"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "1st published in Palmyra, N.Y. in 1830, this book was reportedly translated from golden plates",
+          "choices": [
+            "The Torah",
+            "the Quran",
+            "the Bhagavad Gita",
+            "the Book of Mormon"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "St. Catherine of this Scandinavian country was the daughter of St. Bridget, its patron saint",
+          "choices": [
+            "Sweden",
+            "Norway",
+            "Denmark",
+            "Finland"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "One symbol of this Japanese religion is the Torii, a large gate traditionally made of wood",
+          "choices": [
+            "Buddhism",
+            "Confucianism",
+            "Taoism",
+            "Shinto"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Joseph Rutherford of this group had his followers play sermonettes on record players when going door to door",
+          "choices": [
+            "the Salvation Army",
+            "the Christian Scientists",
+            "the Quakers",
+            "the Jehovah's Witnesses"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "BRIDGE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A practical joker plays one, but a good bridge player takes one with each play of the cards",
+          "choices": [
+            "a bluff",
+            "a trick",
+            "a finesse",
+            "a squeeze"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "On a 1925 cruise, Harold Vanderbilt combined auction bridge & plafond & created this type of bridge",
+          "choices": [
+            "rubber bridge",
+            "duplicate bridge",
+            "contract bridge",
+            "auction bridge"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "The Pont de Normandie at the mouth of this river features a striking fan of cables",
+          "choices": [
+            "the Seine",
+            "the Loire",
+            "the Rhine",
+            "the Thames"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Magdalene Bridge, also called the Great bridge, crosses this 3-letter river in a British university city",
+          "choices": [
+            "Thames",
+            "the Cam River",
+            "Severn",
+            "Avon"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "It's the river flowing beneath Bangkok's Rama VI Bridge",
+          "choices": [
+            "the Chao Phraya",
+            "Mekong",
+            "Irrawaddy",
+            "Salween"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "LAST SURVIVORS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Donald MacMillan, the last survivor of this explorer's North Pole expedition, died in 1970",
+          "choices": [
+            "Amundsen",
+            "Scott",
+            "Peary",
+            "Shackleton"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Said to be in her 90s, Kate Cross-Eyes, the last surviving wife of this Apache leader, died in 1950",
+          "choices": [
+            "Geronimo",
+            "Cochise",
+            "Victorio",
+            "Nana"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "James L. Hanberry, who died in 1961, was the last of the soldiers who took part in this doctor's yellow fever experiment",
+          "choices": [
+            "Walter Reed",
+            "William Gorgas",
+            "John Shaw Billings",
+            "William MacNeal"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "The last survivor of this battle wasn't one of Santa Anna's men but 1-year-old Alejo Perez Jr., who lived until 1918",
+          "choices": [
+            "Battle of San Jacinto",
+            "Siege of Fort Sumter",
+            "Battle of the Little Bighorn",
+            "(the Battle of) the Alamo"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Edwin Hughes, AKA Balaclava Ned, died in 1927, the last survivor of this attack in the Battle of Balaclava",
+          "choices": [
+            "Pickett's Charge",
+            "Charge of the Heavy Brigade",
+            "the Charge of the Light Brigade",
+            "Charge of the Iron Brigade"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "POETRY IN MOTION",
+    "clue": "\\\"'Forward the light brigade!' Was there a man dismay'd? Not tho' the soldier knew some one had blunder'd\\\"",
+    "choices": [
+      "Robert Browning",
+      "William Wordsworth",
+      "Samuel Taylor Coleridge",
+      "Tennyson"
+    ],
+    "correctIndex": 3
+  },
+  "bonusRound": {
+    "category": "A LITTLE CAUSE PLAY",
+    "clue": "Audiences are challenged to confront hate by \"The Laramie Project\", based on the 1998 murder of this young man",
+    "choices": [
+      "(Matthew) Shepard",
+      "Brandon Teena",
+      "James Byrd Jr.",
+      "Aaron McKinney"
+    ],
+    "correctIndex": 0
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-23",
+  "categories": [
+    {
+      "name": "HOWDY DOODY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "He was both the host & voice of Howdy Doody",
+          "choices": [
+            "Bob Smith",
+            "Paul Frees",
+            "Stan Freberg",
+            "Art Gilmore"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Head of the Ooragnak Tribe, his favorite expression was \"Kowabonga!\\\"",
+          "choices": [
+            "Chief Yellowhawk",
+            "Chief Sitting Bull",
+            "Chief Thunderthud",
+            "Chief Crazy Horse"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Original number of Howdy's freckles, they equaled the number of U.S. states",
+          "choices": [
+            "49",
+            "50",
+            "44",
+            "48"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "For this country's version of Howdy Doody, Robert Goulet didn't play Buffalo Bob but Timber Tom",
+          "choices": [
+            "Australia",
+            "United Kingdom",
+            "Canada",
+            "Mexico"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Creature made up from parts of 8 different animals",
+          "choices": [
+            "Clarabell the Clown",
+            "Prudy Little",
+            "Flubadub",
+            "Fancy-Fancy"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "LOOK OUT BELOW",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Here are before & after images of this U.S. city in 2000 & 2005",
+          "choices": [
+            "New Orleans",
+            "Houston",
+            "Miami",
+            "Galveston"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Take a look at the Three Gorges Dam\u2014the world's largest\u2014& the reservoir it created in this country",
+          "choices": [
+            "Brazil",
+            "India",
+            "Canada",
+            "China"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "More than 30 years after it erupted in Washington State, you can see still see the blast & debris zone from this volcano",
+          "choices": [
+            "Mount Rainier",
+            "Mount Hood",
+            "Mount Adams",
+            "Mount St. Helens"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "You can see the tsunami pulling back out to sea after it struck at Kalutara, south of Colombo on this island",
+          "choices": [
+            "Maldives",
+            "Sri Lanka",
+            "Indonesia",
+            "Madagascar"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "A photo from the space station shows an umbral shadow across Turkey, caused by this phenomenon",
+          "choices": [
+            "an eclipse",
+            "a solar flare",
+            "a meteor shower",
+            "a comet"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "LITTLE-USED WORDS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Levirate is the practice of a man marrying the widow of this person; Henry VIII did it",
+          "choices": [
+            "his cousin",
+            "his brother",
+            "his uncle",
+            "his sister"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "A congenital mark on the skin may be called a nevus as well as this animal term",
+          "choices": [
+            "a vole",
+            "a shrew",
+            "a mole",
+            "a rat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "The cholesterol-conscious may order a glair omelet, glair meaning this",
+          "choices": [
+            "egg yolk",
+            "whole egg",
+            "egg shell",
+            "egg-white"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "A holm is this geographic feature; if you know the layout of Stockholm, it makes sense",
+          "choices": [
+            "peninsula",
+            "an island",
+            "river delta",
+            "coastal cliff"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Dundrearies are long these worn with a hairless chin",
+          "choices": [
+            "sideburns",
+            "mustache",
+            "chin beard",
+            "mohawk"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "WRITERS' RELATIVES",
+    "clue": "Maybe one day \"Burr\" author Gore Vidal will write a book about this cousin, the 45th vice president",
+    "choices": [
+      "Walter Mondale",
+      "Dick Cheney",
+      "Al Gore",
+      "Joe Biden"
+    ],
+    "correctIndex": 2
+  }
+}

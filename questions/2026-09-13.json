@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-13",
+  "categories": [
+    {
+      "name": "GOING TO PIECES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Cut pieces are assembled in a pattern to create this type of art",
+          "choices": [
+            "stained glass",
+            "mosaic art",
+            "wood inlay",
+            "patchwork quilt"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "5-letter archaeological term for a broken scrap of earthenware",
+          "choices": [
+            "shard",
+            "a sherd",
+            "lithic",
+            "flint"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "\\\"All The King's Men\" are not up to the task of reassembling him from his pieces",
+          "choices": [
+            "Humpty Dumpty",
+            "Jack Sprat",
+            "Little Miss Muffet",
+            "Peter Piper"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "From the Latin for \"of the night\", these pensive musical pieces were popularized by Chopin & Bartok",
+          "choices": [
+            "preludes",
+            "nocturnes",
+            "intermezzi",
+            "serenades"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Going 18,000 mph, defunct satellites, missile fragments & parts of rockets are among the space junk termed this, O.D. for short",
+          "choices": [
+            "orbital debris",
+            "satellite waste",
+            "orbital trash",
+            "cosmic refuse"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "FANTASTIC 4",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Take tic-tac-toe, expand it to 42 spaces & add 1 more to the winning sequence & you've got this Hasbro game",
+          "choices": [
+            "Match Three",
+            "Connect Four",
+            "Align Five",
+            "Stack Four"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "A 4-leaf clover is the logo of this organization that teaches kids about agriculture",
+          "choices": [
+            "4-P",
+            "4-F",
+            "4-H",
+            "4-G"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "The Four Horsemen were the 1924 backfield of this college football team",
+          "choices": [
+            "Michigan State",
+            "Ohio State",
+            "Washington State",
+            "Notre Dame"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "The first H in 4-H, it's followed by Heart, Hands & Health",
+          "choices": [
+            "shoulder",
+            "Head",
+            "elbow",
+            "wrist"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "The 4 of these were bile, blood, choler & phlegm",
+          "choices": [
+            "the elements",
+            "the seasons",
+            "the virtues",
+            "the humors"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "WALLS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Due to student unrest, Gorbachev's May 17,1989 visit to this famous wall was hardly noted",
+          "choices": [
+            "the Berlin Wall",
+            "the Great Wall of China",
+            "the Hadrian's Wall",
+            "the Western Wall"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "In 1979 Pink Floyd released an album called \"The Wall\", & he had one called \"Off the Wall\\\"",
+          "choices": [
+            "Prince",
+            "Michael Jackson",
+            "Elvis Presley",
+            "David Bowie"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Georgi Dobrovolsky, a cosmonaut, is among those whose ashes are interred in it",
+          "choices": [
+            "the Great Wall",
+            "the Berlin Wall",
+            "the Western Wall",
+            "the Kremlin"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "The American Immigrant Wall of Honor is outside a museum on this East Coast island",
+          "choices": [
+            "Liberty Island",
+            "Ellis Island",
+            "Angel Island",
+            "Staten Island"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "35-foot-high walls surround the area known as this in Beijing",
+          "choices": [
+            "the Temple of Heaven",
+            "the Forbidden City",
+            "the Summer Palace",
+            "the Lama Temple"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "WHAT AN IDIOM!",
+    "clue": "I'm going to expose a scandal! So I'll be doing this action involving a device that emits a high-pitched sound",
+    "choices": [
+      "a horn blower, blowing a horn",
+      "a whistle blower, blowing a whistle",
+      "a bell ringer, ringing a bell",
+      "a trumpet blower, blowing a trumpet"
+    ],
+    "correctIndex": 1
+  }
+}

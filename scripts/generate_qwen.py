@@ -21,7 +21,7 @@ from clue_registry import clue_hash, load_used_clues
 
 SCRIPT_DIR = Path(__file__).parent
 REPO_DIR = SCRIPT_DIR.parent
-QUESTIONS_DIR = REPO_DIR / "questions_qwen"  # Separate dir for comparison
+QUESTIONS_DIR = REPO_DIR / "questions"
 DATA_FILE = REPO_DIR / "data" / "clues.tsv"
 
 VALUE_BUCKETS = {
@@ -123,8 +123,45 @@ def strip_thinking(text):
 
 QWEN_HOST = "kmacstudio:18080"
 
+# TPS tracking — accumulated across all qwen calls in this run
+_TPS_STATS = {
+    "total_calls": 0,
+    "total_completion_tokens": 0,
+    "total_prompt_tokens": 0,
+    "total_seconds": 0.0,
+    "per_call_tps": [],  # list of (completion_tokens, seconds, tps) tuples
+    "failures": 0,
+}
+
+
+def report_tps_stats():
+    s = _TPS_STATS
+    if s["total_calls"] == 0:
+        print("\n[TPS] No qwen calls made.")
+        return
+    avg_tps = s["total_completion_tokens"] / s["total_seconds"] if s["total_seconds"] > 0 else 0
+    avg_call = s["total_seconds"] / s["total_calls"]
+    avg_completion = s["total_completion_tokens"] / s["total_calls"]
+    if s["per_call_tps"]:
+        sorted_tps = sorted(t[2] for t in s["per_call_tps"])
+        median = sorted_tps[len(sorted_tps) // 2]
+        p10 = sorted_tps[len(sorted_tps) // 10]
+        p90 = sorted_tps[(len(sorted_tps) * 9) // 10]
+    else:
+        median = p10 = p90 = 0
+    print(f"\n[TPS Stats]")
+    print(f"  Calls:               {s['total_calls']} ({s['failures']} failures)")
+    print(f"  Total completion toks: {s['total_completion_tokens']:,}")
+    print(f"  Total prompt toks:     {s['total_prompt_tokens']:,}")
+    print(f"  Total wall time:     {s['total_seconds']:.1f}s")
+    print(f"  Avg per call:        {avg_call:.2f}s, {avg_completion:.0f} completion toks")
+    print(f"  Aggregate TPS:       {avg_tps:.1f} tok/s")
+    print(f"  Per-call TPS  p10/median/p90:  {p10:.1f} / {median:.1f} / {p90:.1f}")
+
+
 def _qwen_batch(batch, base_index):
     """Call qwen API directly with high max_tokens to allow verbose reasoning + final JSON."""
+    import time
     import urllib.request
 
     prompt_lines = []
@@ -154,8 +191,22 @@ Questions:
             headers={"Content-Type": "application/json"},
             method="POST",
         )
+        t0 = time.monotonic()
         with urllib.request.urlopen(req, timeout=300) as resp:
             data = json.loads(resp.read().decode("utf-8"))
+        elapsed = time.monotonic() - t0
+
+        # Track TPS
+        usage = data.get("usage") or {}
+        completion_tokens = usage.get("completion_tokens", 0)
+        prompt_tokens = usage.get("prompt_tokens", 0)
+        tps = completion_tokens / elapsed if elapsed > 0 else 0
+        _TPS_STATS["total_calls"] += 1
+        _TPS_STATS["total_completion_tokens"] += completion_tokens
+        _TPS_STATS["total_prompt_tokens"] += prompt_tokens
+        _TPS_STATS["total_seconds"] += elapsed
+        _TPS_STATS["per_call_tps"].append((completion_tokens, elapsed, tps))
+        print(f"      [qwen: {completion_tokens} toks in {elapsed:.1f}s → {tps:.1f} tok/s]", file=sys.stderr)
 
         # Extract content from chat completion response
         content = data["choices"][0]["message"]["content"]
@@ -185,6 +236,7 @@ Questions:
 
     except Exception as e:
         print(f"  [warn] qwen call failed: {e}", file=sys.stderr)
+        _TPS_STATS["failures"] += 1
 
     return None
 
@@ -339,6 +391,7 @@ def main():
             print(f"  ❌ {date_str}.json failed")
 
     print(f"\n{success}/{num_days} boards generated to {QUESTIONS_DIR}")
+    report_tps_stats()
 
 
 if __name__ == "__main__":

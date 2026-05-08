@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-24",
+  "categories": [
+    {
+      "name": "RECENT TV",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Phil Dunphy, on this sitcom: \"I'm the cool dad... I'm hip, I surf the web, I text... LOL... OMG... WTF, why the face?\\\"",
+          "choices": [
+            "Modern Family",
+            "The Middle",
+            "Fresh Off the Boat",
+            "The Goldbergs"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Crackle's \"Supermansion\" has this \"Breaking Bad\" star voice Titanium Rex, leader of the League of Freedom",
+          "choices": [
+            "Aaron Paul",
+            "Dean Norris",
+            "Bryan Cranston",
+            "Anna Gunn"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "\\\"American Horror Story\" turned its attention to witches in its 2013 season, titled this",
+          "choices": [
+            "American Horror Story: Coven",
+            "American Horror Story: Asylum",
+            "American Horror Story: Freak Show",
+            "American Horror Story: Hotel"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Title last name of Christine, an Emmy-winning role for Louie Anderson",
+          "choices": [
+            "Roseanne",
+            "The Conners",
+            "Black-ish",
+            "Baskets"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Disgraced L.A. lawyer Billy McBride has some \"huge\" issues to deal with on this Amazon show",
+          "choices": [
+            "Goliath",
+            "The Lincoln Lawyer",
+            "Damages",
+            "Suits"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "THEM'S FIGHTIN' WORDS!",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "From the Old High German for \"contention\", it's a protracted hostility between 2 families over time",
+          "choices": [
+            "a feud",
+            "a grudge",
+            "a rivalry",
+            "a vendetta"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "To take apart a structure, or a concerted stopping of work by employees",
+          "choices": [
+            "lockout",
+            "shutdown",
+            "strike",
+            "dismantle"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This 3-letter word means to poke abruptly, as with the point of a stick",
+          "choices": [
+            "tip",
+            "hit",
+            "jab",
+            "tap"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "This 2-word term sounds like a fight between kings, but it's really a large, usually intense conflict",
+          "choices": [
+            "a battle royal",
+            "a civil war",
+            "a world war",
+            "a massive clash"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Breathing is but a memory if you take this proverbial action toward \"the bucket\\\"",
+          "choices": [
+            "stomping",
+            "punching",
+            "jumping",
+            "kicking"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "HAIL AND FAREWELL",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"And goodnight Mrs. Calabash, wherever you are\\\"",
+          "choices": [
+            "Bob Hope",
+            "Jimmy Durante",
+            "Red Skelton",
+            "Ed Sullivan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Dave Garroway used this word to close the \"Today\" show",
+          "choices": [
+            "farewell",
+            "goodnight",
+            "peace",
+            "adios"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Cowboy star who said \"Good-bye, good luck, & may the good Lord take a likin' to ya\\\"",
+          "choices": [
+            "Gene Autry",
+            "Dale Evans",
+            "Roy Rogers",
+            "Tim McCoy"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "This newscaster-adventurer signed off his radio broadcasts saying \"So long until tomorrow\\\"",
+          "choices": [
+            "Lowell Thomas",
+            "Edward R. Murrow",
+            "Walter Cronkite",
+            "Frank Gallagher"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "He ends \"20/20\" with \"We're in touch, so you be in touch\\\"",
+          "choices": [
+            "Dan Rather",
+            "Peter Jennings",
+            "Harry Reasoner",
+            "Hugh Downs"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "CIVIL WAR NICKNAMES",
+    "clue": "Some call this Confederate cavalry general \"Jeb\", but others dubbed him \"Beauty\" during his early days",
+    "choices": [
+      "Stonewall Jackson",
+      "Pete Longstreet",
+      "Nathan Bedford Forrest",
+      "(\"Jeb\") Stuart"
+    ],
+    "correctIndex": 3
+  },
+  "bonusRound": {
+    "category": "\\\"FOOL\"ISHNESS",
+    "clue": "Someone with little patience for stupidity is said not to do this \"gladly\\\"",
+    "choices": [
+      "Tolerate nonsense",
+      "Suffer fools",
+      "Endure idiots",
+      "Abide fools"
+    ],
+    "correctIndex": 1
+  }
+}

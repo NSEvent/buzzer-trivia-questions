@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-27",
+  "categories": [
+    {
+      "name": "TREE-VIA",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This subtropical marsh region of Florida has the largest mangrove forest in the continental United States",
+          "choices": [
+            "the Florida Keys",
+            "Big Cypress National Preserve",
+            "the Everglades",
+            "the Okeechobee Basin"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Quebecol is a compound derived from the sap of this tree",
+          "choices": [
+            "a sugar pine",
+            "a black walnut",
+            "(sugar) maple",
+            "a river birch"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "A slight breeze will cause the leaves of this aspen to tremble, thus its name",
+          "choices": [
+            "a paper birch",
+            "a trembling poplar",
+            "a balsam fir",
+            "a quaking aspen"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Timber giant Weyerhaeuser uses this practice of removing all trees in one area, though admitting it's controversial",
+          "choices": [
+            "clearcutting",
+            "selective logging",
+            "shelterwood cutting",
+            "thinning"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "These tall trees of the myrtle family are native to Australia, where they are also known as gums & stringybarks",
+          "choices": [
+            "jarrah",
+            "eucalyptus",
+            "redwood",
+            "acacia"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "CAN I GET YOUR NUMBER?",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "According to the popular rhyme, the total number of whacks used by Lizzie Borden on her parents",
+          "choices": [
+            "81 (40 & 41)",
+            "40",
+            "42",
+            "80"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "In a variation of this kids' card game, the Jacks are \"crazy\" or wild",
+          "choices": [
+            "Crazy Eights",
+            "Uno",
+            "Go Fish",
+            "Old Maid"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Total number of dots on one standard die",
+          "choices": [
+            "15",
+            "21",
+            "24",
+            "25"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This \"Star Trek\" TV series incarnation centered on a space station, not a spaceship",
+          "choices": [
+            "Star Trek: Voyager",
+            "Deep Space Nine",
+            "Star Trek: Enterprise",
+            "The Next Generation"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "A pianist could tell you this is the number of days it takes Mercury to complete one orbit",
+          "choices": [
+            "88",
+            "225",
+            "365",
+            "687"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "THE SMALL SCREEN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Michaela is the full first name of this title character made famous by Jane Seymour",
+          "choices": [
+            "Dr. Kildare",
+            "Grace Under Fire",
+            "Dr. Quinn, Medicine Woman",
+            "Northern Exposure"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Before \"Stark Raving Mad\", Tony Shalhoub played Antonio, a Nantucket cab driver, on this hit sitcom",
+          "choices": [
+            "Wings",
+            "Cheers",
+            "Frasier",
+            "Seinfeld"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "[Hi, I'm Sharon Case] The creators of this daytime soap, which I joined in 1994, first considered calling it \"The Innocent Years\\\"",
+          "choices": [
+            "General Hospital",
+            "The Young and the Restless",
+            "Days of Our Lives",
+            "The Bold and the Beautiful"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "This \"X-Files\" star also hosts Showtime's \"Red Shoe Diaries\\\"",
+          "choices": [
+            "Gillian Anderson",
+            "David Duchovny",
+            "Henry Ian Cusick",
+            "Kiefer Sutherland"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Tom Smothers guest-starred as Todd's hippie dad on this Brooke Shields sitcom",
+          "choices": [
+            "\"Friends\"",
+            "\"Frasier\"",
+            "\\\"Suddenly Susan\\\"",
+            "\"The Nanny\""
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "CITIES",
+    "clue": "The song \"Seven Nation Army\" says, \"I'm going to\" this city, the most populous in Kansas",
+    "choices": [
+      "Topeka",
+      "Kansas City",
+      "Wichita",
+      "Overland Park"
+    ],
+    "correctIndex": 2
+  }
+}

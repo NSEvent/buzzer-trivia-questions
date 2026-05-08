@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-30",
+  "categories": [
+    {
+      "name": "SPORTSMEN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "He spent 5 seasons with the Shanghai Sharks before becoming the Houston Rockets' center in 2002",
+          "choices": [
+            "Yao Ming",
+            "Dikembe Mutombo",
+            "Ben Wallace",
+            "Alonzo Mourning"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "In 2000 this Los Angeles Laker was named the NBA's MVP, receiving 120 of 121 first place votes",
+          "choices": [
+            "Shaquille O'Neal",
+            "Kobe Bryant",
+            "Kevin Garnett",
+            "Tim Duncan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "(Sofia of the Clue Crew in Redondo Beach, California) George Freeth, the man who brought surfing to California, was born in this present-day state capital in 1883",
+          "choices": [
+            "Sacramento",
+            "Austin",
+            "Honolulu",
+            "Denver"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "In January 2004 this South African golfer known as the \"Big Easy\" won the Sony Open for the second year in a row",
+          "choices": [
+            "Gary Player",
+            "Ernie Els",
+            "Retief Goosen",
+            "Greg Norman"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "(Hi, I'm Trent Green of the Kansas City Chiefs in the NFL.) When the Chiefs won their first Super Bowl in 1970, they were led by this quarterback",
+          "choices": [
+            "Bob Griese",
+            "Len Dawson",
+            "Ken Stabler",
+            "Joe Namath"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "WHAT THE \"L\"?",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It lies before lizard & after chaise",
+          "choices": [
+            "library",
+            "lounge",
+            "lighthouse",
+            "lagoon"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "(Jimmy of the Clue Crew) You can pinpoint any location on a map by following these imaginary lines that criscross",
+          "choices": [
+            "equator & prime meridian",
+            "parallels & meridians",
+            "graticule & coordinate lines",
+            "latitude & longitude"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "In the ACLU, a group that loves the U.S. Constitution",
+          "choices": [
+            "rights",
+            "freedoms",
+            "privileges",
+            "liberties"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "It's French for the small, high-powered magnifying glass used by jewelers",
+          "choices": [
+            "monocle",
+            "lorgnette",
+            "spyglass",
+            "loupe"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "In the legal abbreviation LLC\u2014both Ls, please",
+          "choices": [
+            "limited partnership",
+            "legal entity",
+            "limited liability",
+            "limited corporation"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "POLITICAL PARTIES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "His 1996 election-day party aboard Air Force One included champagne, mango ice cream & a Macarena line",
+          "choices": [
+            "Dole",
+            "Perot",
+            "Gore",
+            "Clinton"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "In 1948 the Progressive Party chose this FDR VP as its presidential candidate",
+          "choices": [
+            "Harry Truman",
+            "Thomas Dewey",
+            "Alben Barkley",
+            "Henry Wallace"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "In 1926 Benito Mussolini abolished all political parties except this one",
+          "choices": [
+            "National Socialist Party",
+            "Italian Republican Party",
+            "National Popular Party",
+            "the Fascist Party"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "In 1980, this party's Ed Clark came in a weak 4th behind the independent John Anderson",
+          "choices": [
+            "Socialist Workers Party",
+            "Green Party",
+            "the Libertarians",
+            "American Independent Party"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "In this state the two major parties are the Republicans & the Democratic Farmer Labor Party",
+          "choices": [
+            "Wisconsin",
+            "Minnesota",
+            "Iowa",
+            "Michigan"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THE \"END\\\"",
+    "clue": "This Indiana city is home to the College Football Hall of Fame",
+    "choices": [
+      "Indianapolis",
+      "South Bend",
+      "Fort Wayne",
+      "Evansville"
+    ],
+    "correctIndex": 1
+  }
+}

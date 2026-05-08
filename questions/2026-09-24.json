@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-24",
+  "categories": [
+    {
+      "name": "1980s POP LYRICS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "\\\"Did I ever tell you you're my hero? You're everything, everything I wish I could be\\\"",
+          "choices": [
+            "Open Arms",
+            "Total Eclipse of the Heart",
+            "Heaven",
+            "\\\"Wind Beneath My Wings\\\""
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "\\\"If you're lost, you can look\u2014and you will find me\\\"",
+          "choices": [
+            "Girls Just Want to Have Fun",
+            "\\\"Time After Time\\\"",
+            "Like a Virgin",
+            "Sweet Dreams (Are Made of This)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Joan Jett & the Blackhearts: \"I saw him dancin' there by the record machine\\\"",
+          "choices": [
+            "You Shook Me All Night Long",
+            "Jump",
+            "Pour Some Sugar on Me",
+            "\\\"I Love Rock 'N Roll\\\""
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Bon Jovi: \"Take my hand and we'll make it, I swear\\\"",
+          "choices": [
+            "You Give Love a Bad Name",
+            "Wanted Dead or Alive",
+            "Every Rose Has Its Thorn",
+            "\\\"Livin' On A Prayer\\\""
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Janet Jackson: \"No, my first name ain't baby, it's Janet\\\"",
+          "choices": [
+            "Control",
+            "Rhythm Nation",
+            "Let's Wait Awhile",
+            "\\\"Nasty\\\""
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "HOW INVENTIVE!",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Gideon Sundback came up with the interlocking teeth for the fastener that today is known as this",
+          "choices": [
+            "Velcro",
+            "the snap",
+            "the zipper",
+            "the hook and eye"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Early in the auto age, injuries from shattering windshields spurred Edouard Benedictus to invent this",
+          "choices": [
+            "bulletproof glass",
+            "safety glass",
+            "windshield wiper",
+            "shatterproof plastic"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "In the 1940s Dutch doctor Willem Kolff developed the first machine to perform this body filtration process",
+          "choices": [
+            "dialysis",
+            "plasmapheresis",
+            "blood transfusion",
+            "kidney transplant"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "This pharma tycoon & inventor of dissolvable pills always said \"Keep the quality up\", & \"up\" is even in his name",
+          "choices": [
+            "Charles Pfizer",
+            "(William Erastus) Upjohn",
+            "John Wyeth",
+            "Frank Merck"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Lewis Latimer extended light bulb lifetimes by inventing a process to make this finely drawn wire long-lasting",
+          "choices": [
+            "a cathode",
+            "a copper wire",
+            "a glass envelope",
+            "a filament"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "SALAD",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The name of this salad comes from the Dutch for \"cabbage salad\\\"",
+          "choices": [
+            "pasta salad",
+            "potato salad",
+            "caesar salad",
+            "coleslaw"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "This salad dressing was named for a region shared by New York state & Ontario",
+          "choices": [
+            "ranch",
+            "italian",
+            "Thousand Island",
+            "blue cheese"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This \"colorful\" salad dressing was created in San Francisco in the 1920s & named for a play",
+          "choices": [
+            "French dressing",
+            "Thousand Island",
+            "Ranch dressing",
+            "Green Goddess"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "This salad is said to have been invented by Mr. Cardini, who owned a restaurant in Tijuana",
+          "choices": [
+            "Cobb salad",
+            "Waldorf salad",
+            "Caesar salad",
+            "Greek salad"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Mizuna is an Asian variety of these peppery greens with a condiment in their name",
+          "choices": [
+            "mustard greens",
+            "collard greens",
+            "spinach",
+            "kale"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "AUTHORS & THEIR WORKS",
+    "clue": "This \"Vanity Fair\" author's novel \"The Virginians\", is a sequel to \"Henry Esmond\\\"",
+    "choices": [
+      "Charles Dickens",
+      "Charlotte Bronte",
+      "George Eliot",
+      "William Makepeace Thackeray"
+    ],
+    "correctIndex": 3
+  }
+}

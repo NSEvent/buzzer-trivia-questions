@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-01",
+  "categories": [
+    {
+      "name": "CHANNEL SURFING",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 2012 Trent Grimsey swam it in a record 6 hours, 55 minutes",
+          "choices": [
+            "the Strait of Gibraltar",
+            "the Bering Strait",
+            "the Denmark Strait",
+            "the English Channel"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "If you like little bubbles of trivia with your videos, try \"Pop-Up Video\" on this channel",
+          "choices": [
+            "MTV",
+            "BET",
+            "CMT",
+            "VH1"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Between shows on this new network, you may have seen the stars do the \"Dubba\" dance",
+          "choices": [
+            "UPN",
+            "Fox",
+            "USA Network",
+            "the WB"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "This channel that shares its name with a large peninsula connects the Gulf of Mexico with the Caribbean",
+          "choices": [
+            "the Florida Strait",
+            "the Mona Passage",
+            "the Strait of Malacca",
+            "the Yucat\u00e1n"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "A channel called Rich Passage separates relatively rich Bainbridge Island from this state's Kitsap Peninsula",
+          "choices": [
+            "Oregon",
+            "Maine",
+            "Washington",
+            "California"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "\\\"WORLD\"LY SONGS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In 1964, it's what Peter & Gordon wouldn't live in",
+          "choices": [
+            "\\\"A World Without Love\\\"",
+            "A Hard Day's Night",
+            "I Want to Hold Your Hand",
+            "She Loves You"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Though one of the greatest of country artists, Eddy Arnold had only this song break into the Pop Top 10",
+          "choices": [
+            "\\\"Make The World Go Away\\\"",
+            "I Can't Stop Loving You",
+            "It's Only Make Believe",
+            "I Fall to Pieces"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "In song, Helen Reddy said sometimes life feels like this",
+          "choices": [
+            "Endless Love",
+            "\\\"You And Me Against The World\\\"",
+            "You Are the Sunshine of My Life",
+            "We've Only Just Begun"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Debuted at 1964 World's Fair in N.Y., it's a \"little\" song for a big Disney attraction",
+          "choices": [
+            "When You Wish Upon a Star",
+            "\\\"It's a Small World\\\"",
+            "It's a Small World After All",
+            "The Tiki Tiki Tiki Room"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "War's 1973 pessimistic view of our planet",
+          "choices": [
+            "What's Going On",
+            "\\\"The World Is A Ghetto\\\"",
+            "Imagine",
+            "Fortunate Son"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "CATS & DOGS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The California spangled cat was created by a breeder inspired by the sight of these wild African felines",
+          "choices": [
+            "cheetah",
+            "lion",
+            "a leopard",
+            "serval"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "The Airedale type of this dog is named for the Aire Valley in Yorkshire, England",
+          "choices": [
+            "terrier",
+            "spaniel",
+            "hound",
+            "retriever"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Descended from the water spaniel, this \"precious\" breed can be quite fetching",
+          "choices": [
+            "Labrador retriever",
+            "Cocker spaniel",
+            "golden retriever",
+            "Golden doodle"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Germans object to this edible alternate name for the dachshund",
+          "choices": [
+            "hot dog",
+            "a wiener dog (or sausage dog)",
+            "frankfurter",
+            "bratwurst"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "A Lilac Point Burmese has lilac markings, while the Siamese, called this point, is named for a tasty shade of brown",
+          "choices": [
+            "mocha",
+            "cocoa",
+            "chocolate",
+            "caramel"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "DOWN EASTERS",
+    "clue": "This woman born in Hampden helped open hospitals for the mentally ill in over 15 states",
+    "choices": [
+      "Dorothea Dix",
+      "Clara Barton",
+      "Jane Addams",
+      "Florence Nightingale"
+    ],
+    "correctIndex": 0
+  }
+}

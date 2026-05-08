@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "A picture of my pooch—this Swiss mountain dog",
+          "clue": "A picture of my pooch\u2014this Swiss mountain dog",
           "choices": [
             "An Appenzeller",
             "A Bernese",
@@ -92,21 +92,21 @@
           "choices": [
             "Debutante",
             "A socialite",
-            "An ingénue",
+            "An ing\u00e9nue",
             "A cotillion"
           ],
           "correctIndex": 0
         },
         {
           "value": 800,
-          "clue": "You'll find her exploits extolled in the Bible's book of Judges",
+          "clue": "Like its neighbor Venezuela, this country uses a tricolor flag",
           "choices": [
-            "Judith",
-            "Deborah",
-            "Esther",
-            "Ruth"
+            "Ecuador",
+            "Peru",
+            "Colombia",
+            "Bolivia"
           ],
-          "correctIndex": 1
+          "correctIndex": 2
         },
         {
           "value": 1000,

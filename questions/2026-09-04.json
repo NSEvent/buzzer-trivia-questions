@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-04",
+  "categories": [
+    {
+      "name": "FITNESS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A runner's fatigue caused by glycogen depletion is called \"hitting\" this",
+          "choices": [
+            "the plateau",
+            "muscle failure",
+            "\\\"The wall\\\"",
+            "shut down"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "You can't be a \"master\" runner until passing this age hurdle",
+          "choices": [
+            "35",
+            "40",
+            "45",
+            "50"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Common 2-word phrase meaning to alternate sets with someone else on one piece of weight equipment",
+          "choices": [
+            "drop sets",
+            "work in",
+            "partner sets",
+            "gym buddy"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Ultra-endurance athlete Johnny G created this indoor cycling workout",
+          "choices": [
+            "peloton",
+            "cycle class",
+            "spinning",
+            "bootcamp"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Pulldown exercises strengthen & build the lats, short for this large back muscle",
+          "choices": [
+            "Trapezius",
+            "Rhomboid major",
+            "Latissimus dorsi",
+            "Erector spinae"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "IT'S A GROUP THING",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It's okay to use this 4-letter word for a group of people or relatives, even if they aren't Scottish",
+          "choices": [
+            "a tribe",
+            "a clan",
+            "a crew",
+            "a coven"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Short, tall, grande, venti",
+          "choices": [
+            "Dunkin drinks",
+            "coffee chain beverages",
+            "Starbucks drinks",
+            "local cafe options"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Like the legislature of Great Britain, a group of owls is called this",
+          "choices": [
+            "a council",
+            "a parliament",
+            "a senate",
+            "a congress"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Sabrina Duncan, Jill Munroe & Kelly Garrett",
+          "choices": [
+            "the original Charlie's Angels",
+            "the Birds of Paradise",
+            "the Golden Girls",
+            "the New Charlie's Angels"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Capricorn, Taurus & Virgo make up this group of Zodiac signs",
+          "choices": [
+            "Earth signs",
+            "Fire signs",
+            "Water signs",
+            "Air signs"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "NFL TEAM MASCOTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Staley da Mascot",
+          "choices": [
+            "the Green Bay Packers",
+            "the Chicago Bears",
+            "the Dallas Cowboys",
+            "the Detroit Lions"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "A Minuteman named Pat",
+          "choices": [
+            "the Patriots",
+            "the New York Jets",
+            "the Buffalo Bills",
+            "the Miami Dolphins"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "Gumbo the dog",
+          "choices": [
+            "Dallas Cowboys",
+            "Green Bay Packers",
+            "Chicago Bears",
+            "the (New Orleans) Saints"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "Captain Fear",
+          "choices": [
+            "the Tampa Bay Buccaneers",
+            "San Francisco 49ers",
+            "Philadelphia Eagles",
+            "Kansas City Chiefs"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Miles the horse",
+          "choices": [
+            "Pittsburgh Steelers",
+            "the Denver Broncos",
+            "Baltimore Ravens",
+            "Seattle Seahawks"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "MAY DAYS",
+    "clue": "At 4:07 P.M. on May 31, 1889 this Pennsylvania town was flooded when the South Fork Dam collapsed after heavy rains",
+    "choices": [
+      "Harrisburg",
+      "Pittsburgh",
+      "Johnstown",
+      "Altoona"
+    ],
+    "correctIndex": 2
+  }
+}

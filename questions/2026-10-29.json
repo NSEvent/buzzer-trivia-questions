@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-29",
+  "categories": [
+    {
+      "name": "GANGSTERS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Gangster Louis Amberg was just \"Pretty\" while Charles Floyd was nicknamed this",
+          "choices": [
+            "\\\"Pretty Boy\\\"",
+            "Scarface",
+            "Machine Gun Kelly",
+            "Dapper Dan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This showman got a plaster cast of condemned murderer Albert Hicks for his American museum",
+          "choices": [
+            "L.P. Fly",
+            "James A. Bailey",
+            "P.T. Barnum",
+            "Seth Green"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "One of the two gangsters who led what was known as the Bug & Meyer Gang",
+          "choices": [
+            "Meyer Lansky",
+            "Dutch Schultz",
+            "Frank Costello",
+            "Bugsy Siegel"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "He survived a 1929 one-way ride in which he was stabbed multiple times; no wonder he was called Lucky",
+          "choices": [
+            "Joe Bonanno",
+            "Joe Adonis",
+            "Joe Masseria",
+            "(Lucky) Luciano"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Though he most likely didn't file with the state, Louis Lepke founded the hitman organization known as this",
+          "choices": [
+            "The Commission",
+            "Murder, Inc.",
+            "Murder, Ltd.",
+            "The Syndicate"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "COMPUTER TERMS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It mean any computer used by an individual, or an IBM-type machine as opposed to a Mac",
+          "choices": [
+            "PC",
+            "Workstation",
+            "Desktop",
+            "Terminal"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "It can mean any computer used by an individual, or an IBM-type machine as opposed to a Mac",
+          "choices": [
+            "a Terminal",
+            "a P.C.",
+            "a Workstation",
+            "a Mainframe"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "The ROM of your computer's CD-ROM stands for this",
+          "choices": [
+            "Random Access Memory",
+            "Read-Only Medium",
+            "Random Optical Memory",
+            "read-only memory"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "EarthLink & CompuServe are 2 of these, abbreviated ISP",
+          "choices": [
+            "Dial-up modem",
+            "Internet service provider",
+            "Web browser",
+            "Search engine"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "This unit equals about 1,000 megabytes, or about half a million pages of text",
+          "choices": [
+            "a gigabyte",
+            "a terabyte",
+            "a kilobyte",
+            "a megabit"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "REVOLUTIONARY WAR",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "During the winter of 1777-78 Baron von Steuben drilled & trained the men at this Penn. camp",
+          "choices": [
+            "Valley Forge",
+            "Morristown",
+            "Yorktown",
+            "Saratoga"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "As a Lt. Colonel, he was aide-de-camp & sec'y to Gen. Washington, who later made him a cabinet secretary",
+          "choices": [
+            "Henry Knox",
+            "John Jay",
+            "Alexander Hamilton",
+            "Aaron Burr"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Henry Hamilton, British Lt. Gov. of Detroit, was called \"hair buyer\" & accused of this",
+          "choices": [
+            "funding raids on frontier settlements",
+            "putting a bounty on scalps (encouraging Indians to bring in American scalps)",
+            "offering rewards for captured militia leaders",
+            "paying for seized American supplies"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Provisional congress of N.J. arrested that colony's loyalist governor, son of this patriot",
+          "choices": [
+            "John Adams",
+            "Thomas Jefferson",
+            "George Washington",
+            "Benjamin Franklin"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "George Rogers Clark helped the U.S. gain this territory which included present day Mich. & Ohio",
+          "choices": [
+            "Louisiana Territory",
+            "Florida Territory",
+            "Northwest Territory",
+            "Appalachian Territory"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THE '40s",
+    "clue": "In 1940, King Haakon fled Norway & this ruler fled from the Netherlands",
+    "choices": [
+      "Queen Juliana",
+      "Queen Wilhelmina",
+      "King Leopold III",
+      "Grand Duchess Charlotte"
+    ],
+    "correctIndex": 1
+  }
+}

@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "By Amy Schumer: \"The Girl with the Lower Back ____\\\"",
           "choices": [
-            "Tattoo",
-            "Tattoo",
             "Scar",
-            "Birthmark"
+            "Tattoo",
+            "Pain",
+            "Piercing"
           ],
           "correctIndex": 1
         },

@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-18",
+  "categories": [
+    {
+      "name": "WATCH YOUR TONGUE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The standard form of this language is based on the Central dialect, the speech in & around Moscow",
+          "choices": [
+            "Ukrainian",
+            "Polish",
+            "Russian",
+            "Czech"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Cornish, the language of this county of England, became extinct in 1777",
+          "choices": [
+            "Devon",
+            "Dorset",
+            "Cornwall",
+            "Somerset"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "In 1928 this president of Turkey outlawed Ottoman Turkish & switched alphabets from Arabic to Roman",
+          "choices": [
+            "Kemal Ataturk",
+            "Ismet Inonu",
+            "Enver Pasha",
+            "Abdullah Gul"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "(Jimmy of the Clue Crew shows some words on the chalkboard.) In this language the hacek goes over the C in words like vecer &, well, hacek",
+          "choices": [
+            "Slovak",
+            "Czech",
+            "Croatian",
+            "Slovenian"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "About 3/4 of Sri Lankans speak Sinhala & about 1/4 speak this as their native language",
+          "choices": [
+            "Hindi",
+            "Tamil",
+            "Malayalam",
+            "Telugu"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "THINK FAST",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A dictionary defines it as \"The instant's duration of a wink\"; little stars & eyes do it",
+          "choices": [
+            "Shimmer",
+            "Glimmer",
+            "Twinkle",
+            "Blink"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Disney's Animal Kingdom features a fast whitewater raft ride called, appropriately, Kali River these",
+          "choices": [
+            "Falls",
+            "Cascades",
+            "rapids",
+            "Currents"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Trying to scoop up a cesta, a basket racquet used in this fast-paced sport",
+          "choices": [
+            "jai alai",
+            "squash",
+            "lacrosse",
+            "racquetball"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "This Reese's peanut butter & chocolate bar shares its name with a basketball play",
+          "choices": [
+            "Slam Dunk",
+            "Fast Break",
+            "Alley-Oop",
+            "Jump Shot"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Stop the presses! Ye Olde Cock Tavern has entertained generations of reporters on this London street",
+          "choices": [
+            "Fleet Street",
+            "Grub Street",
+            "Strand",
+            "Ludgate Hill"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "FRUIT FORWARD",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A traditional song: \"Oh my darling, oh my darling, oh my darling ____\\\"",
+          "choices": [
+            "Josephine",
+            "Clementine",
+            "Evangeline",
+            "Wilhelmina"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "He had a \"sweet swing\": Darryl ____",
+          "choices": [
+            "Strawberry",
+            "Raspberry",
+            "Blueberry",
+            "Blackberry"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "It's a firecracker with a long fuse: ____ bomb",
+          "choices": [
+            "cherry",
+            "lemon",
+            "grape",
+            "apple"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "A Tony winner for the drama \"Doubt\": Actress ____ Jones",
+          "choices": [
+            "Cherry",
+            "Meryl",
+            "Diane",
+            "Felicity"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Called the best hot dog in New York (by Julia Child!): ____ King",
+          "choices": [
+            "Gray's Papaya",
+            "Papaya King",
+            "Banana King",
+            "Tropical King"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "KINGS",
+    "clue": "The king of Sweden",
+    "choices": [
+      "Harald V",
+      "Frederick X",
+      "Carl XVI Gustav",
+      "Christian X"
+    ],
+    "correctIndex": 2
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-20",
+  "categories": [
+    {
+      "name": "THE FAB FOUR",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "After Pete Best, The Beatles went with him as their drummer when their manager's pick Johnny Hutchinson said no thanks",
+          "choices": [
+            "Pete Best",
+            "Ringo Starr",
+            "Rory Storm",
+            "Jimmy Nicol"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "When Brian Epstein signed The Beatles, this man was the drummer",
+          "choices": [
+            "Ringo Starr",
+            "Stuart Sutcliffe",
+            "Andy White",
+            "Pete Best"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "The lads honed their craft early on in this German city, sometimes playing 30 sets a week",
+          "choices": [
+            "Berlin",
+            "Munich",
+            "Cologne",
+            "Hamburg"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "\\\"Let me take you down, 'cause I'm going to\" this song, recorded in 2 different speeds & keys & combined for an eerie effect",
+          "choices": [
+            "Penny Lane",
+            "\\\"Strawberry Fields Forever\\\"",
+            "A Day in the Life",
+            "Lucy in the Sky with Diamonds"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "Jesus & Gandhi were 2 of John's picks that didn't make it onto the celeb-filled cover of this 1967 album",
+          "choices": [
+            "Sgt. Pepper",
+            "The White Album",
+            "Revolver",
+            "Magical Mystery Tour"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "THE BUCKET LIST",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Alliterative name for a line of people who pass pails of water to help put out a fire",
+          "choices": [
+            "bucket brigade",
+            "human chain",
+            "pail line",
+            "water relay"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "(Morgan Freeman reads another clue.) 1 of the amazing sights visited in \"The Bucket List\" is this fortification stretching from Gansu to Hebei",
+          "choices": [
+            "the Great Wall of China",
+            "the Berlin Wall",
+            "Hadrian's Wall",
+            "the Roman Colosseum"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "(Hi, I'm Sean Hayes.) This Islamic tomb on the Yamuna River in India leads Carter and Edward to a discussion of funeral types in \"The Bucket List\\\"",
+          "choices": [
+            "Humayun's Tomb",
+            "the Red Fort",
+            "Qutub Minar",
+            "Taj Mahal"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "This character \"appeared on the sidewalk with a bucket of whitewash and a long-handled brush\\\"",
+          "choices": [
+            "Huckleberry Finn",
+            "(Tom) Sawyer",
+            "Natty Bumppo",
+            "Peter Pan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "(Rob Reiner starts us off.) My movie \"The Bucket List\" stars Morgan Freeman & this acting legend whom I also directed when he played Col. Jessup in \"A Few Good Men\\\"",
+          "choices": [
+            "Robert De Niro",
+            "Jack Nicholson",
+            "Dustin Hoffman",
+            "Gene Hackman"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "THEATRE TALK",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Often found in Shakespeare's plays, the stage direction \"exeunt\" means the actors do this",
+          "choices": [
+            "Enter",
+            "Retreat",
+            "Bow",
+            "Leave"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "\\\"Avian\" term for the offstage area where the actors await their cues",
+          "choices": [
+            "Backstage",
+            "Green Room",
+            "Fly loft",
+            "Wings"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "(Jimmy and the rest of the Clue Crew, on stage at the St. James Theatre.) It's the two-word term for the event after a play when the actors appear to take their bows",
+          "choices": [
+            "a curtain call",
+            "an intermission",
+            "a dress rehearsal",
+            "a curtain rise"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "(Oooooooklahoma! Where Sofia's standing on the set.) It's the term for raising or lowering scenery above the stage; it's also what Mary Martin did in \"Peter Pan\\\"",
+          "choices": [
+            "drop",
+            "rise",
+            "lift",
+            "fly"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "This kind of backdrop that often represents the sky is known as a \"cyc\" for short",
+          "choices": [
+            "a cyclorama",
+            "a drop",
+            "a scrim",
+            "a muslin"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "PLANET EARTH",
+    "clue": "They're sometimes called grasslands or savannahs, but in \"God Bless America\", they're called these",
+    "choices": [
+      "plains",
+      "meadows",
+      "prairies",
+      "steppes"
+    ],
+    "correctIndex": 2
+  }
+}

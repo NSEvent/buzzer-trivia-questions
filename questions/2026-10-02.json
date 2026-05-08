@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-02",
+  "categories": [
+    {
+      "name": "BRITISH POETS & POETRY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "During the Hundred Years' War, this \"Canterbury Tales\" author was taken prisoner near Reims, France & held for ransom",
+          "choices": [
+            "William Shakespeare",
+            "Chaucer",
+            "John Milton",
+            "Edmund Spenser"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Encyclopedia Britannica calls his \"The Hunting of the Snark\" \"nonsense literature of the highest order\\\"",
+          "choices": [
+            "Edward Lear",
+            "Roald Dahl",
+            "Lewis Carroll",
+            "George MacDonald"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "In a Tennyson poem, \"Into the jaws of death, into the mouth of hell rode\" this number",
+          "choices": [
+            "500",
+            "700",
+            "600",
+            "400"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Given name Edward, he became poet laureate in 1984",
+          "choices": [
+            "John Betjeman",
+            "Ted Hughes",
+            "Cecil Day-Lewis",
+            "Andrew Motion"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "His name is a religious post & in \"Essay on Man\" he seeks to \"vindicate the ways of God to Man\\\"",
+          "choices": [
+            "John Milton",
+            "(Alexander) Pope",
+            "William Blake",
+            "Samuel Johnson"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "COMIC STRIPS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This bumbling, green-skinned witch has a buzzard pal named Gaylord",
+          "choices": [
+            "Broom-Hilda",
+            "Garfield",
+            "Ziggy",
+            "Li'l Abner"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This \"Dilbert\" creator received an MBA from Berkeley",
+          "choices": [
+            "Bill Watterson",
+            "Charles Schulz",
+            "(Scott) Adams",
+            "Berkeley Breathed"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Duke has been Gov. of American Samoa, GM of the Redskins & a lobbyist for the NRA in this comic strip",
+          "choices": [
+            "Marmaduke",
+            "Doonesbury",
+            "Calvin and Hobbes",
+            "FoxTrot"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Tank McNamara's name should help you know that his early history included time in this sport",
+          "choices": [
+            "baseball",
+            "football",
+            "basketball",
+            "hockey"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "This comic strip sportscaster has stayed current, covering Anthony Davis & Roger Goodell",
+          "choices": [
+            "Barney Google",
+            "Calvin",
+            "Tank McNamara",
+            "Snoopy"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "AMERICAN WOMAN",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Florida's state attorney in 1978, she would add the rest of the country to her docket as U.S. Attorney General",
+          "choices": [
+            "Condoleezza Rice",
+            "Hillary Clinton",
+            "Janet Reno",
+            "Madeleine Albright"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Clotilde Bowen was the first black woman to receive her \"eagles\" by promotion to this U.S. Army rank",
+          "choices": [
+            "General",
+            "Major",
+            "colonel",
+            "Brigadier General"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "This children's author wrote the 1980 sequel \"Superfudge\\\"",
+          "choices": [
+            "Judy Blume",
+            "Beverly Cleary",
+            "Lois Lowry",
+            "Madeleine L'Engle"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "In 1990 Joan Finney became the first Kansas woman elected to this post",
+          "choices": [
+            "senator",
+            "lieutenant governor",
+            "governor",
+            "attorney general"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "A self-titled 1961 L.P. of arias sung by this great \"L.P.\" is known to opera lovers as the \"Blue Album\\\"",
+          "choices": [
+            "Marian Anderson",
+            "Jessye Norman",
+            "Leontyne Price",
+            "Ren\u00e9e Fleming"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "MARYLAND",
+    "clue": "The Academic American Encyclopedia says this Baltimore newspaper is the state's most influential",
+    "choices": [
+      "the Baltimore Sun",
+      "The Baltimore Examiner",
+      "The Washington Post",
+      "The Philadelphia Inquirer"
+    ],
+    "correctIndex": 0
+  }
+}

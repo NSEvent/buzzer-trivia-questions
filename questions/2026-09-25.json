@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-25",
+  "categories": [
+    {
+      "name": "SUBATOMIC PARTICLES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "We're positive that an electron has this type of electric charge",
+          "choices": [
+            "Positive",
+            "Neutral",
+            "Dipolar",
+            "Negative"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "In 1908 this German physicist \"clicked\" with his first device to count radioactive particles",
+          "choices": [
+            "Albert Einstein",
+            "Max Planck",
+            "Werner Heisenberg",
+            "Hans Geiger"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "In addition to an element, this Italian physicist has a subatomic particle named for him",
+          "choices": [
+            "(Enrico) Fermi",
+            "Amadeo Avogadro",
+            "Guglielmo Marconi",
+            "Enrico Majorana"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "They come in pairs, like up & down, & 3 of them make up a type of hadron",
+          "choices": [
+            "Leptons",
+            "Quarks",
+            "Bosons",
+            "Gluons"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "The heaviest one of the 6 particles known as these is the top one",
+          "choices": [
+            "leptons",
+            "quarks",
+            "gluons",
+            "neutrinos"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "THE KING",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "The title of this Elvis boxing movie includes the name of a chaste Round Tabler",
+          "choices": [
+            "Jailhouse Rock",
+            "Kid Galahad",
+            "Viva Las Vegas",
+            "Blue Hawaii"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "An illegal Dutch immigrant, this man who was Elvis' manager was once the Tampa, Florida dogcatcher",
+          "choices": [
+            "Brian Epstein",
+            "Allen Klein",
+            "Albert Grossman",
+            "Colonel Tom Parker"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "In the 1980s he was known as the \"Junk Bond King\\\"",
+          "choices": [
+            "Ivan Boesky",
+            "Jordan Belfort",
+            "Michael Milken",
+            "Martin Shkreli"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "In 1714, the Brits told this king to \"come on over\\\"",
+          "choices": [
+            "George I",
+            "William III",
+            "Louis XV",
+            "Charles II"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Fittingly, this 1960 film was Elvis' first after returning from the army",
+          "choices": [
+            "Blue Hawaii",
+            "G.I. Blues",
+            "Jailhouse Rock",
+            "Love Me Tender"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "TESTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Sgt. Barry Sadler sang, \"100 men we'll test today but only 3\" would win 1 of these",
+          "choices": [
+            "the navy seal trident",
+            "the maroon beret",
+            "the combat patch",
+            "the green beret"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "One step for a boy scout to earn any of the 119 of these is to pass the respective test",
+          "choices": [
+            "a rank patch",
+            "a service pin",
+            "a merit badge",
+            "a skill stripe"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "In 1990 verbal scores on this college entrance test reached their lowest point in a decade",
+          "choices": [
+            "the ACT",
+            "the SAT",
+            "the PSAT",
+            "the GRE"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Since 1942, students nationally have been taking this Midwest university's basic skills test",
+          "choices": [
+            "Illinois",
+            "Iowa",
+            "Wisconsin",
+            "Minnesota"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "On many I.Q. tests including the Binet Scales, scores are in terms of \"MA\", which stands for this",
+          "choices": [
+            "measured age",
+            "mental age",
+            "maturation age",
+            "modified age"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "BOOKS & ARTHURS",
+    "clue": "His 1973 \"Rendezvous with Rama\", about an encounter with an alien spaceship, won both nebula & Hugo awards",
+    "choices": [
+      "Isaac Asimov",
+      "Robert Heinlein",
+      "Arthur C. Clarke",
+      "Frank Herbert"
+    ],
+    "correctIndex": 2
+  }
+}

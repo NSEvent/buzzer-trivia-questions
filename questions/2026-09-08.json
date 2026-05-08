@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-08",
+  "categories": [
+    {
+      "name": "THE SPORTING NEWS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Fans have a hell of a time rooting for this New Jersey NHL franchise",
+          "choices": [
+            "the Rangers",
+            "the Islanders",
+            "the Devils",
+            "the Bruins"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Like Manchester, Newcastle in the north of England has a Premier League soccer club with this all-for-one name",
+          "choices": [
+            "City",
+            "Rovers",
+            "United",
+            "Athletic"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "Now officially made by Inglasco for the pros, these were originally made from frozen cow dung in Canada",
+          "choices": [
+            "hockey pucks",
+            "lacrosse balls",
+            "cricket balls",
+            "football helmets"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Named for the color of their uniforms, the All Blacks are New Zealand's national team in this, the national sport",
+          "choices": [
+            "cricket",
+            "soccer",
+            "netball",
+            "rugby"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "Kareem Abdul-Jabbar is credited with perfecting this shot aka a high hook shot",
+          "choices": [
+            "fadeaway jumper",
+            "sky hook",
+            "alley-oop",
+            "crossover dribble"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "SEE-ATTLE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "When dining at SkyCity, this famous tower's revolving restaurant, save room for the Lunar Orbiter dessert",
+          "choices": [
+            "The Space Needle",
+            "the Smith Tower",
+            "the Eiffel Tower",
+            "the Seattle Great Wheel"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "An architectural icon, Seattle's newest central one of these opened in 2004\u2014check it out",
+          "choices": [
+            "a museum",
+            "a concert hall",
+            "a train station",
+            "a library"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "A national historical park in the city examines Seattle's role in the Klondike one of these",
+          "choices": [
+            "silver rush",
+            "gold rush",
+            "railroad expansion",
+            "pioneer migration"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Appropriately, the building housing the EMP, short for this, looks like a smashed guitar",
+          "choices": [
+            "Seattle Museum of Flight",
+            "Seattle Art Museum",
+            "Experience Music Project",
+            "Benaroya Hall"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "A real high point of Seattle is this 1962 landmark where you can enjoy a meal along with a 360-degree view of the city",
+          "choices": [
+            "the Eiffel Tower",
+            "the CN Tower",
+            "the Space Needle",
+            "the Empire State Building"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "AT THE BALLPARK",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "It may be found in a program, little diamonds appear all over it & \"you can't tell the players without\" it",
+          "choices": [
+            "the lineup card",
+            "the program booklet",
+            "the ticket stub",
+            "the scorecard"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "At the June 4, 1974 game in Cleveland, this refreshment only cost 10 cents; that's a promotion you won't see again",
+          "choices": [
+            "hot dogs",
+            "peanuts",
+            "soft drinks",
+            "beer"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "The Jr. Jays Club & Tim Hortons",
+          "choices": [
+            "the Rogers Centre",
+            "Exhibition Stadium",
+            "the SkyDome",
+            "Rogers Arena"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Fredbird & the Budweiser Terrace",
+          "choices": [
+            "Yankee Stadium",
+            "Fenway Park",
+            "Busch Stadium",
+            "Wrigley Field"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "The left-field wall of Miami's Pro Player Stadium is called the \"Teal\" this",
+          "choices": [
+            "Monster",
+            "Kraken",
+            "Manta",
+            "Leviathan"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "LOUIS XIV",
+    "clue": "From 1672 to 1678 Louis waged war against this small country on the North Sea then controlled by the Hapsburgs",
+    "choices": [
+      "Holland",
+      "Flanders",
+      "the Spanish Netherlands",
+      "the Netherlands"
+    ],
+    "correctIndex": 3
+  }
+}

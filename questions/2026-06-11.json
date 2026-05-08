@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "The doctrine of papal this was adopted in 1870 by a vote of 533-2; the 2 promptly declared, \"Now I believe\\\"",
           "choices": [
-            "Sovereignty",
-            "Infallibility",
             "Supremacy",
-            "Infallibility"
+            "Infallibility",
+            "Immaculate Conception",
+            "Apostolic Succession"
           ],
           "correctIndex": 1
         },
