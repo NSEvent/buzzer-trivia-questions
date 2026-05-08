@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "MOVIE TITLE FILL IN THE BLANK",
-    "clue": "\\\"The _____ Victoria\" & \" _____ Guns\\\"",
+    "clue": "\"The _____ Victoria\" & \" _____ Guns\"",
     "choices": [
       "Little",
       "Young",

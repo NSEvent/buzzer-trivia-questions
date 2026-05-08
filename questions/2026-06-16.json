@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "FILE UNDER \"M\\\"",
+      "name": "FILE UNDER \"M\"",
       "questions": [
         {
           "value": 200,
@@ -161,7 +161,7 @@
           "value": 800,
           "clue": "Called Peru's chief tourist attraction, it was discovered by an American, Hiram Bingham",
           "choices": [
-            "Monte Albán",
+            "Monte Alb\u00e1n",
             "Mohenjo-daro",
             "Machu Picchu",
             "Montezuma's Castle"

@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "In prison, it's known as \"the hair curler\" because it gives you a \"permanent wave\\\"",
+          "clue": "In prison, it's known as \"the hair curler\" because it gives you a \"permanent wave\"",
           "choices": [
             "An electric chair",
             "A gas chamber",
@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "It's \"the, bottomless pit , \"Gehenna\", \"blazes\", \"blue blazes\", or \"you-know-where\\\"",
+          "clue": "It's \"the, bottomless pit , \"Gehenna\", \"blazes\", \"blue blazes\", or \"you-know-where\"",
           "choices": [
             "Hades (Hell)",
             "Sheol",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "A boss may threaten his employees with dismissal by saying these \"will roll\\\"",
+          "clue": "A boss may threaten his employees with dismissal by saying these \"will roll\"",
           "choices": [
             "Necks",
             "Hides",
@@ -122,11 +122,11 @@
       ]
     },
     {
-      "name": "\\\"EZ\" DOES IT",
+      "name": "\"EZ\" DOES IT",
       "questions": [
         {
           "value": 200,
-          "clue": "In the classic sitcom he's the patriarch of \"The Addams Family\\\"",
+          "clue": "In the classic sitcom he's the patriarch of \"The Addams Family\"",
           "choices": [
             "Uncle Fester",
             "Herman Munster",
@@ -139,8 +139,8 @@
           "value": 400,
           "clue": "He was ruler of the Aztecs at the time Cortes came a-calling",
           "choices": [
-            "Cuauhtémoc",
-            "Cuitláhuac",
+            "Cuauht\u00e9moc",
+            "Cuitl\u00e1huac",
             "Itzcoatl",
             "Montezuma"
           ],

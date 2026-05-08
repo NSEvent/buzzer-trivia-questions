@@ -39,7 +39,7 @@
         },
         {
           "value": 800,
-          "clue": "He observed, \"They let the studio janitor cut 'The Magnificent Ambersons' in my absence\\\"",
+          "clue": "He observed, \"They let the studio janitor cut 'The Magnificent Ambersons' in my absence\"",
           "choices": [
             "Erich von Stroheim",
             "D.W. Griffith",
@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "1920s & 30s MGM executive on whom F. Scott Fitzgerald based \"The Last Tycoon\\\"",
+          "clue": "1920s & 30s MGM executive on whom F. Scott Fitzgerald based \"The Last Tycoon\"",
           "choices": [
             "Louis B. Mayer",
             "David O. Selznick",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "The largest animal ever to fly, the quetzalcoatlus was one of these whose 9-letter name means \"wing lizard\\\"",
+          "clue": "The largest animal ever to fly, the quetzalcoatlus was one of these whose 9-letter name means \"wing lizard\"",
           "choices": [
             "A plesiosaur",
             "An archaeopteryx",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "FILM DIRECTORS",
-    "clue": "Last name of Jonathan, who directed \"Philadelphia\" & nephew Ted, who directed \"Blow\\\"",
+    "clue": "Last name of Jonathan, who directed \"Philadelphia\" & nephew Ted, who directed \"Blow\"",
     "choices": [
       "Demme",
       "Dante",

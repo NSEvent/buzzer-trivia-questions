@@ -66,7 +66,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "\\\"The doctor used biceps to deliver the baby\\\"",
+          "clue": "\"The doctor used biceps to deliver the baby\"",
           "choices": [
             "forceps",
             "scalpel",
@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "\\\"Certain areas of the desert are cultivated by irritation\\\"",
+          "clue": "\"Certain areas of the desert are cultivated by irritation\"",
           "choices": [
             "fertilization",
             "drainage",
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "\\\"He only dates one woman \u2014 he's in a monotonous relationship\\\"",
+          "clue": "\"He only dates one woman \u2014 he's in a monotonous relationship\"",
           "choices": [
             "monogamous",
             "polygamous",

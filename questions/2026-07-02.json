@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "In a sentence, this noun & its verb has — excuse me, have to agree in number",
+          "clue": "In a sentence, this noun & its verb has \u2014 excuse me, have to agree in number",
           "choices": [
             "The predicate",
             "Subject",
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "In a sentence, this noun & its verb has—excuse me, have to agree in number",
+          "clue": "In a sentence, this noun & its verb has\u2014excuse me, have to agree in number",
           "choices": [
             "The predicate",
             "The subject",

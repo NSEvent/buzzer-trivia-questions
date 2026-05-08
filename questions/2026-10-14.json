@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "If this sitcom was titled with the characters' last names instead of their first, it would be \"Mr. Biggs & Ms. Flynn\\\"",
+          "clue": "If this sitcom was titled with the characters' last names instead of their first, it would be \"Mr. Biggs & Ms. Flynn\"",
           "choices": [
             "Jim & Pam",
             "Mike & Molly",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "In NBC's \"One Chicago\" program block, it comes between \"Chicago Med\" & \"Chicago P.D.\\\"",
+          "clue": "In NBC's \"One Chicago\" program block, it comes between \"Chicago Med\" & \"Chicago P.D.\"",
           "choices": [
             "Chicago Hope",
             "Chicago Justice",
@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "Whale tale author who wrote, \"Youth is immortal; 'tis the elderly only grow old!\\\"",
+          "clue": "Whale tale author who wrote, \"Youth is immortal; 'tis the elderly only grow old!\"",
           "choices": [
             "Hawthorne",
             "Thoreau",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "Ben Franklin said, \"Dost thou love life? Then do not squander\" this, \"for that's the stuff life is made of\\\"",
+          "clue": "Ben Franklin said, \"Dost thou love life? Then do not squander\" this, \"for that's the stuff life is made of\"",
           "choices": [
             "money",
             "happiness",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "Oscar Wilde wrote, \"One should never trust a woman who tells one\" this; she \"would tell one anything\\\"",
+          "clue": "Oscar Wilde wrote, \"One should never trust a woman who tells one\" this; she \"would tell one anything\"",
           "choices": [
             "her favorite color",
             "her real age",
@@ -161,7 +161,7 @@
           "value": 800,
           "clue": "Betty Friedan wrote, \"to keep... life-giving ties alive... is our\" this, the opposite of Ponce de Leon's legendary quest",
           "choices": [
-            "\\\"fountain of age\\\"",
+            "\"fountain of age\"",
             "El Dorado",
             "the Holy Grail",
             "Avalon"

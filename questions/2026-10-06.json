@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "\\\"Adam ____\\\"",
+          "clue": "\"Adam ____\"",
           "choices": [
             "7",
             "12",
@@ -17,7 +17,7 @@
         },
         {
           "value": 400,
-          "clue": "\\\"____ Hours Mystery\\\"",
+          "clue": "\"____ Hours Mystery\"",
           "choices": [
             "24",
             "12",
@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "\\\"My ____ Dads\\\"",
+          "clue": "\"My ____ Dads\"",
           "choices": [
             "Two",
             "Three",
@@ -39,7 +39,7 @@
         },
         {
           "value": 800,
-          "clue": "\\\"Jon & Kate Plus ____\\\"",
+          "clue": "\"Jon & Kate Plus ____\"",
           "choices": [
             "6",
             "10",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "The name of this head scarf is the Russian word for \"grandmother\\\"",
+          "clue": "The name of this head scarf is the Russian word for \"grandmother\"",
           "choices": [
             "bonnet",
             "babushka",
@@ -170,12 +170,12 @@
         },
         {
           "value": 1000,
-          "clue": "\\\"But pleasures are like poppies spread\", says this Robert Burns poem, also the name of a cap",
+          "clue": "\"But pleasures are like poppies spread\", says this Robert Burns poem, also the name of a cap",
           "choices": [
             "Address to a Haggis",
             "To a Mouse",
             "Auld Lang Syne",
-            "\\\"Tam o' Shanter\\\""
+            "\"Tam o' Shanter\""
           ],
           "correctIndex": 3
         }

@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "\\\"L'allegro\" by Milton uses this 4-letter word for a deep shade of black, a shortening of the name of a wood",
+          "clue": "\"L'allegro\" by Milton uses this 4-letter word for a deep shade of black, a shortening of the name of a wood",
           "choices": [
             "Onyx",
             "Noir",
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "A poem by Robert Burns taught us that \"gang aft\" this means \"often go wrong\\\"",
+          "clue": "A poem by Robert Burns taught us that \"gang aft\" this means \"often go wrong\"",
           "choices": [
             "Awry",
             "Astray",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "This pause in the middle of a line of poetry is from caedere, Latin for \"to cut\\\"",
+          "clue": "This pause in the middle of a line of poetry is from caedere, Latin for \"to cut\"",
           "choices": [
             "An enjambment",
             "A diaeresis",

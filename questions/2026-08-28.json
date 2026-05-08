@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "You will definitely lose some time delving into his 7-volume \"A la recherche du temps perdu\\\"",
+          "clue": "You will definitely lose some time delving into his 7-volume \"A la recherche du temps perdu\"",
           "choices": [
             "Proust",
             "Balzac",
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "\\\"Trigger\" Burke was hired to silence \"Specs\" O'Keefe, one of the gang involved in this 1950 Boston heist",
+          "clue": "\"Trigger\" Burke was hired to silence \"Specs\" O'Keefe, one of the gang involved in this 1950 Boston heist",
           "choices": [
             "the Brinks Robbery",
             "the Great Train Robbery",

@@ -122,13 +122,13 @@
       ]
     },
     {
-      "name": "\\\"R\" SONG",
+      "name": "\"R\" SONG",
       "questions": [
         {
           "value": 200,
           "clue": "For this 1967 Aretha Franklin No. 1 hit, you can say or spell the title",
           "choices": [
-            "\\\"Respect\\\"",
+            "\"Respect\"",
             "Chain of Fools",
             "Rescue Me",
             "Think"
@@ -151,7 +151,7 @@
           "clue": "Adele took home a 2011 Grammy for doing this",
           "choices": [
             "Someone Like You",
-            "\\\"Rolling In The Deep\\\"",
+            "\"Rolling In The Deep\"",
             "Hello",
             "Set Fire to the Rain"
           ],
@@ -163,7 +163,7 @@
           "choices": [
             "Royals",
             "Runaway Baby",
-            "\\\"Rude\\\"",
+            "\"Rude\"",
             "Radioactive"
           ],
           "correctIndex": 2
@@ -173,7 +173,7 @@
           "clue": "It was The Clash's title suggestion for livening up the medina",
           "choices": [
             "London Calling",
-            "\\\"Rock The Casbah\\\"",
+            "\"Rock The Casbah\"",
             "Should I Stay or Should I Go",
             "Babylon On Fire"
           ],

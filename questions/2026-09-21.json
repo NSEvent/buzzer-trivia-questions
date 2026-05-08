@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "It's the part of an automobile called the \"boot\\\"",
+          "clue": "It's the part of an automobile called the \"boot\"",
           "choices": [
             "the hood",
             "the bumper",
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "The OED's definitions for this 10-letter slang word include \"flabbergasted\" & \"speechless\\\"",
+          "clue": "The OED's definitions for this 10-letter slang word include \"flabbergasted\" & \"speechless\"",
           "choices": [
             "bamboozled",
             "gobsmacked",

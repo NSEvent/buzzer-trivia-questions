@@ -2,7 +2,7 @@
   "date": "2026-08-10",
   "categories": [
     {
-      "name": "\\\"CHECK\" MATE",
+      "name": "\"CHECK\" MATE",
       "questions": [
         {
           "value": 200,
@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "In 1960 & 1962 he twisted his way into the No. 1 spot on the charts with \"The Twist\\\"",
+          "clue": "In 1960 & 1962 he twisted his way into the No. 1 spot on the charts with \"The Twist\"",
           "choices": [
             "Chuck Berry",
             "Little Richard",
@@ -69,7 +69,7 @@
           "clue": "It's the only \"blue\" book Dr. Seuss published",
           "choices": [
             "\"The Cat in the Hat\"",
-            "\\\"One Fish, Two Fish, Red Fish, Blue Fish\\\"",
+            "\"One Fish, Two Fish, Red Fish, Blue Fish\"",
             "\"Green Eggs and Ham\"",
             "\"How the Grinch Stole Christmas!\""
           ],
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "A's owner Charlie Finley wanted this pitcher to change his first name to \"True\\\"",
+          "clue": "A's owner Charlie Finley wanted this pitcher to change his first name to \"True\"",
           "choices": [
             "Blue Moon Odom",
             "Vida Blue",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "TV SISTERS",
-    "clue": "1 of the 4 adult actresses who play the 4 sisters on \"Sisters\\\"",
+    "clue": "1 of the 4 adult actresses who play the 4 sisters on \"Sisters\"",
     "choices": [
       "Linda Hamilton",
       "Cybill Shepherd",

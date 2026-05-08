@@ -66,7 +66,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "4 years after his death, this ex-Beatle had a hit with \"I'm Stepping Out\\\"",
+          "clue": "4 years after his death, this ex-Beatle had a hit with \"I'm Stepping Out\"",
           "choices": [
             "George Harrison",
             "Paul McCartney",
@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "They \"blinded him with science\\\"",
+          "clue": "They \"blinded him with science\"",
           "choices": [
             "Gary Numan",
             "Thomas Dolby",
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "These superstars are together in a \"State of Shock\\\"",
+          "clue": "These superstars are together in a \"State of Shock\"",
           "choices": [
             "Freddie Mercury & David Bowie",
             "Michael Jackson & Mick Jagger",
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "Though now he's \"Dancing in the Dark\", in the '70s he was \"Born to Run\\\"",
+          "clue": "Though now he's \"Dancing in the Dark\", in the '70s he was \"Born to Run\"",
           "choices": [
             "Bruce Springsteen",
             "Tom Petty",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "His first of many hits in the '80s was \"She's Out Of My Life\\\"",
+          "clue": "His first of many hits in the '80s was \"She's Out Of My Life\"",
           "choices": [
             "Prince",
             "Michael Jackson",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "\\\"B\" MOVIES",
+      "name": "\"B\" MOVIES",
       "questions": [
         {
           "value": 200,
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "1 of 2 movie series titles that could be followed by \"of 1936\" or \"of 1938\\\"",
+          "clue": "1 of 2 movie series titles that could be followed by \"of 1936\" or \"of 1938\"",
           "choices": [
             "The Big Broadcast (or The Broadway Melody)",
             "The Black Pirate",
@@ -195,10 +195,10 @@
   },
   "bonusRound": {
     "category": "ENGLISH LIT",
-    "clue": "Kurtz' dying words in this Joseph Conrad tale are \"The horror! The horror!\\\"",
+    "clue": "Kurtz' dying words in this Joseph Conrad tale are \"The horror! The horror!\"",
     "choices": [
       "Lord Jim",
-      "\\\"Heart of Darkness\\\"",
+      "\"Heart of Darkness\"",
       "Nostromo",
       "The Secret Agent"
     ],

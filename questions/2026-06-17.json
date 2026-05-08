@@ -31,7 +31,7 @@
           "clue": "The title of a Lewis Carroll poem, it now means meaningless words or gibberish",
           "choices": [
             "\"Bandersnatch\"",
-            "\\\"Jabberwocky\\\"",
+            "\"Jabberwocky\"",
             "\"Snark\"",
             "\"Mimsy\""
           ],
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "From this writer's \"Tin Drum\": \"Even bad books are books and therefore sacred\\\"",
+          "clue": "From this writer's \"Tin Drum\": \"Even bad books are books and therefore sacred\"",
           "choices": [
             "(Heinrich) B\u00f6ll",
             "(Thomas) Mann",

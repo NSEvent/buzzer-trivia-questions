@@ -17,11 +17,11 @@
         },
         {
           "value": 400,
-          "clue": "Frank is associated with this late-night tune that begins, \"It's quarter to three...\\\"",
+          "clue": "Frank is associated with this late-night tune that begins, \"It's quarter to three...\"",
           "choices": [
             "Fly Me to the Moon",
             "My Way",
-            "\\\"One For My Baby (And One More For The Road)\\\"",
+            "\"One For My Baby (And One More For The Road)\"",
             "The Lady Is a Tramp"
           ],
           "correctIndex": 2
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "name": "\\\"S\" & \"M\\\"",
+      "name": "\"S\" & \"M\"",
       "questions": [
         {
           "value": 200,
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "First names of the Krofft Brothers who \"pulled the strings\" on \"D.C. Follies\" & \"Lidsville\\\"",
+          "clue": "First names of the Krofft Brothers who \"pulled the strings\" on \"D.C. Follies\" & \"Lidsville\"",
           "choices": [
             "Sam & Max",
             "Scott & Mike",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "\\\"NORTH\\\"",
+      "name": "\"NORTH\"",
       "questions": [
         {
           "value": 200,
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "NEW YORK TIMES HEADLINES",
-    "clue": "April 19, 1923: \"74,200 see Yankees open new stadium\"; he \"hits home run\\\"",
+    "clue": "April 19, 1923: \"74,200 see Yankees open new stadium\"; he \"hits home run\"",
     "choices": [
       "Lou Gehrig",
       "Babe Ruth",

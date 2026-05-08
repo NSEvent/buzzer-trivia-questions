@@ -2,7 +2,7 @@
   "date": "2026-05-18",
   "categories": [
     {
-      "name": "\\\"EN\" THE BEGINNING",
+      "name": "\"EN\" THE BEGINNING",
       "questions": [
         {
           "value": 200,
@@ -28,11 +28,11 @@
         },
         {
           "value": 600,
-          "clue": "This Baja California port city is known as \"Yellowtail Capital of the World\\\"",
+          "clue": "This Baja California port city is known as \"Yellowtail Capital of the World\"",
           "choices": [
             "Encinitas",
-            "Encarnación",
-            "Entrerríos",
+            "Encarnaci\u00f3n",
+            "Entrerr\u00edos",
             "Ensenada"
           ],
           "correctIndex": 3
@@ -70,7 +70,7 @@
           "choices": [
             "Edelmiro Farrell",
             "Arturo Frondizi",
-            "Ramón Castillo",
+            "Ram\u00f3n Castillo",
             "Juan Peron"
           ],
           "correctIndex": 3
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "Ireland became a republic on this post-holiday Monday, the anniversary of the 1916 \"Rising\\\"",
+          "clue": "Ireland became a republic on this post-holiday Monday, the anniversary of the 1916 \"Rising\"",
           "choices": [
             "St. Patrick's Day",
             "Easter",
@@ -126,9 +126,9 @@
       "questions": [
         {
           "value": 200,
-          "clue": "She sang, \"Now that it's raining more than ever... you can stand under my umbrella... ella, ella, eh eh eh\\\"",
+          "clue": "She sang, \"Now that it's raining more than ever... you can stand under my umbrella... ella, ella, eh eh eh\"",
           "choices": [
-            "Beyoncé",
+            "Beyonc\u00e9",
             "Katy Perry",
             "Lady Gaga",
             "Rihanna"
@@ -140,7 +140,7 @@
           "clue": "Neil Sedaka chuckled all the way to the bank with his #1 comeback song in 1974",
           "choices": [
             "\"Bad Blood\"",
-            "\\\"Laughter In The Rain\\\"",
+            "\"Laughter In The Rain\"",
             "\"Solitaire\"",
             "\"The Immigrant\""
           ],
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "In \"The Perfect\" this genre \"Song\", \"I was drunk the day my mom got out of prison, & I went to pick her up in the rain\\\"",
+          "clue": "In \"The Perfect\" this genre \"Song\", \"I was drunk the day my mom got out of prison, & I went to pick her up in the rain\"",
           "choices": [
             "Bluegrass",
             "Country",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "\\\"So never mind the darkness, we still can find a way, 'cause nothin' lasts forever, even cold November rain\", they sang",
+          "clue": "\"So never mind the darkness, we still can find a way, 'cause nothin' lasts forever, even cold November rain\", they sang",
           "choices": [
             "Bon Jovi",
             "Aerosmith",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "This duo, in 1984: \"Here comes the rain again, falling on my head like a memory, falling on my head like a new emotion\\\"",
+          "clue": "This duo, in 1984: \"Here comes the rain again, falling on my head like a memory, falling on my head like a new emotion\"",
           "choices": [
             "The Eurythmics",
             "Hall & Oates",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "FOR THE KIDS",
-    "clue": "Animal that went both ways in \"Dr. Doolittle\\\"",
+    "clue": "Animal that went both ways in \"Dr. Doolittle\"",
     "choices": [
       "The Wiff-Waff",
       "The Quilliphant",

@@ -39,7 +39,7 @@
         },
         {
           "value": 800,
-          "clue": "To marry her, Jacob worked 7 years, \"& they seemed to him but a few days for the love he had to her\\\"",
+          "clue": "To marry her, Jacob worked 7 years, \"& they seemed to him but a few days for the love he had to her\"",
           "choices": [
             "Leah",
             "Sarah",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "Shelley said it was \"like a star of heaven in the broad daylight\\\"",
+          "clue": "Shelley said it was \"like a star of heaven in the broad daylight\"",
           "choices": [
             "penguin",
             "vulture",
@@ -195,7 +195,7 @@
   },
   "bonusRound": {
     "category": "CHAMPION WORDS",
-    "clue": "These seeds can make a healthy pudding & grow a \"pet\\\"",
+    "clue": "These seeds can make a healthy pudding & grow a \"pet\"",
     "choices": [
       "flax",
       "hemp",

@@ -20,7 +20,7 @@
           "clue": "This American-born Dadaist was known for his \"cameraless\" pictures, which he called rayographs",
           "choices": [
             "Marcel Duchamp",
-            "László Moholy-Nagy",
+            "L\u00e1szl\u00f3 Moholy-Nagy",
             "Francis Picabia",
             "Man Ray"
           ],
@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "This Californian's books include \"My Camera in the National Parks\" & \"Parmelian Prints of the High Sierras\\\"",
+          "clue": "This Californian's books include \"My Camera in the National Parks\" & \"Parmelian Prints of the High Sierras\"",
           "choices": [
             "Ansel Adams",
             "Dorothea Lange",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "Songs by this band include \"Vertigo\" & \"I Still Haven't Found What I'm Looking For\\\"",
+          "clue": "Songs by this band include \"Vertigo\" & \"I Still Haven't Found What I'm Looking For\"",
           "choices": [
             "Coldplay",
             "The Edge",

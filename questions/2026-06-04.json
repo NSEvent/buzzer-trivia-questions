@@ -33,7 +33,7 @@
             "Rumi",
             "Hafez",
             "Al-Ghazali",
-            "(Omar) Khayyám"
+            "(Omar) Khayy\u00e1m"
           ],
           "correctIndex": 3
         },
@@ -42,7 +42,7 @@
           "clue": "The title character of this Voltaire work discovers gardening will make him happy",
           "choices": [
             "Zadig",
-            "Micromégas",
+            "Microm\u00e9gas",
             "Candide",
             "Rasselas"
           ],

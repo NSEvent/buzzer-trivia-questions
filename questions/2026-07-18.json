@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "This 5-letter rugby play also means \"hubbub\" or \"confusion\\\"",
+          "clue": "This 5-letter rugby play also means \"hubbub\" or \"confusion\"",
           "choices": [
             "A ruck",
             "Scrum",
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "Gumby's father has this name, also a Bantu word for \"okra\\\"",
+          "clue": "Gumby's father has this name, also a Bantu word for \"okra\"",
           "choices": [
             "Pokey",
             "Prickle",
@@ -110,14 +110,14 @@
         },
         {
           "value": 1000,
-          "clue": "Gumby's father has this name, from a Bantu word for \"okra\\\"",
+          "clue": "The courage to act",
           "choices": [
-            "Pokey",
-            "Gumbo",
-            "Prickle",
-            "Minga"
+            "audacity",
+            "tenacity",
+            "fortitude",
+            "gumption"
           ],
-          "correctIndex": 1
+          "correctIndex": 3
         }
       ]
     },
@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "In '68, this group's \"non-leader\" Abbie Hoffman said it's \"A party — not a political movement\\\"",
+          "clue": "In '68, this group's \"non-leader\" Abbie Hoffman said it's \"A party \u2014 not a political movement\"",
           "choices": [
             "The Zippies",
             "The Hippies",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "In Benin this party is called \"les Verts du Benin\"; in Belgium it's called \"Ecolo\\\"",
+          "clue": "In Benin this party is called \"les Verts du Benin\"; in Belgium it's called \"Ecolo\"",
           "choices": [
             "The Green Party",
             "The Ecology Party",
@@ -175,7 +175,7 @@
             "De Gaulle",
             "Mitterrand",
             "Giscard d'Estaing",
-            "Pétain"
+            "P\u00e9tain"
           ],
           "correctIndex": 0
         }
@@ -194,7 +194,7 @@
     "correctIndex": 0
   },
   "bonusRound": {
-    "category": "\\\"POT\"s & \"PAN\"s",
+    "category": "\"POT\"s & \"PAN\"s",
     "clue": "Isolated by Sir Humphry Davy, this second-lightest metal could make you go bananas",
     "choices": [
       "Lithium",

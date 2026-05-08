@@ -17,7 +17,7 @@
         },
         {
           "value": 400,
-          "clue": "The title of this John Bunyan work continues, \"From This World to That Which is to Come\\\"",
+          "clue": "The title of this John Bunyan work continues, \"From This World to That Which is to Come\"",
           "choices": [
             "A Pilgrim's Journey",
             "A Pilgrim's Path",
@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "A line from this book says, \"She killed Miles. And I've got... a black statuette that all that hell was about\\\"",
+          "clue": "A line from this book says, \"She killed Miles. And I've got... a black statuette that all that hell was about\"",
           "choices": [
             "The Maltese Falcon",
             "The Big Sleep",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "Appropriately, this Andersen heroine had \"eyes as blue as the deepest sea\\\"",
+          "clue": "Appropriately, this Andersen heroine had \"eyes as blue as the deepest sea\"",
           "choices": [
             "The Snow Queen",
             "Gerda",

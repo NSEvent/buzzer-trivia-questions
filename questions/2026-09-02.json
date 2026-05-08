@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "When Andrew Carnegie got his first of these monthly checks, he cried, \"Here's the goose that lays the golden eggs\\\"",
+          "clue": "When Andrew Carnegie got his first of these monthly checks, he cried, \"Here's the goose that lays the golden eggs\"",
           "choices": [
             "dividend",
             "salary",
@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "One of the last lines of this Vietnam war-set film is \"The horror... the horror\\\"",
+          "clue": "One of the last lines of this Vietnam war-set film is \"The horror... the horror\"",
           "choices": [
             "Full Metal Jacket",
             "Platoon",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "\\\"The mission is a man\" was a tagline for this 1998 Spielberg film",
+          "clue": "\"The mission is a man\" was a tagline for this 1998 Spielberg film",
           "choices": [
             "The Thin Red Line",
             "Black Hawk Down",

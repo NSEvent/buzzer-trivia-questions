@@ -66,7 +66,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "A 2014 USA Today headline said the leader of this country was \"'elected' with 100% of the vote\\\"",
+          "clue": "A 2014 USA Today headline said the leader of this country was \"'elected' with 100% of the vote\"",
           "choices": [
             "Mongolia",
             "North Korea",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "Among this 1995 Oscar-winning film's less historically accurate moments—the Battle of Stirling Bridge is fought in a field",
+          "clue": "Among this 1995 Oscar-winning film's less historically accurate moments\u2014the Battle of Stirling Bridge is fought in a field",
           "choices": [
             "Braveheart",
             "Troy",

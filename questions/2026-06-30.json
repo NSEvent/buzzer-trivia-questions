@@ -9,7 +9,7 @@
           "clue": "In 1925, he dictated his autobiography to fellow prisoner Rudolf Hess",
           "choices": [
             "Joseph Goebbels",
-            "Hermann Göring",
+            "Hermann G\u00f6ring",
             "Adolf Hitler",
             "Martin Bormann"
           ],
@@ -62,11 +62,11 @@
       ]
     },
     {
-      "name": "\\\"CAN\"NED WORDS",
+      "name": "\"CAN\"NED WORDS",
       "questions": [
         {
           "value": 200,
-          "clue": "In 1963 the Four Seasons were \"Happy As Can Be\" with this sweet \"Girl\\\"",
+          "clue": "In 1963 the Four Seasons were \"Happy As Can Be\" with this sweet \"Girl\"",
           "choices": [
             "Sugar",
             "Honey",
@@ -152,7 +152,7 @@
           "choices": [
             "Hamburg",
             "Bremen",
-            "Lübeck",
+            "L\u00fcbeck",
             "Danzig"
           ],
           "correctIndex": 0

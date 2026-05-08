@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "A Centrum chewable from the \"Gopher State\\\"",
+          "clue": "A Centrum chewable from the \"Gopher State\"",
           "choices": [
             "Vitaminissippi",
             "Vitaminnesota",
@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "Hamlet sighed, \"To be or not to be: that is _____\\\"",
+          "clue": "Hamlet sighed, \"To be or not to be: that is _____\"",
           "choices": [
             "The answer",
             "The problem",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "The Latin \"Ceteris paribus\" means \"Other things being _____\\\"",
+          "clue": "The Latin \"Ceteris paribus\" means \"Other things being _____\"",
           "choices": [
             "Constant",
             "The same",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "The King James Version of Genesis: \"And God said, let there be a ____ in the midst of the waters\\\"",
+          "clue": "The King James Version of Genesis: \"And God said, let there be a ____ in the midst of the waters\"",
           "choices": [
             "A light",
             "A void",

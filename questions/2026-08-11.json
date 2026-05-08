@@ -39,7 +39,7 @@
         },
         {
           "value": 800,
-          "clue": "He wrote about a bus trip & other kinds of trips in 1968's \"The Electric Kool-Aid Acid Test\\\"",
+          "clue": "He wrote about a bus trip & other kinds of trips in 1968's \"The Electric Kool-Aid Acid Test\"",
           "choices": [
             "Hunter S. Thompson",
             "Jack Kerouac",
@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "\\\"Much ado\" about this Shakespeare woman whose name means \"she who blesses\" & she blesses Benedick with her presence",
+          "clue": "\"Much ado\" about this Shakespeare woman whose name means \"she who blesses\" & she blesses Benedick with her presence",
           "choices": [
             "Juliet",
             "Rosalind",
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "In the Bible, Satan tells the Lord, \"touch his bone and his flesh, and he will curse thee to thy face\\\"",
+          "clue": "In the Bible, Satan tells the Lord, \"touch his bone and his flesh, and he will curse thee to thy face\"",
           "choices": [
             "Job",
             "Esau",
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "In late 1999 controversy erupted over custody of this 6-year-old Cuban shipwreck survivor",
           "choices": [
-            "José Martínez",
+            "Jos\u00e9 Mart\u00ednez",
             "Carlos Vega",
-            "Miguel Ángel",
-            "Elián González"
+            "Miguel \u00c1ngel",
+            "Eli\u00e1n Gonz\u00e1lez"
           ],
           "correctIndex": 3
         }

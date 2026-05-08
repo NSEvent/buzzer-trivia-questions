@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "Dudes, it's the \"fishy\" hairstyle worn by David Spade in \"Joe Dirt\\\"",
+          "clue": "Dudes, it's the \"fishy\" hairstyle worn by David Spade in \"Joe Dirt\"",
           "choices": [
             "The mohawk",
             "The mullet",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "The death sentence for treason had been suspended in 1553 for this lady—a teen, really—but after dad rebelled in '54... not so much",
+          "clue": "The death sentence for treason had been suspended in 1553 for this lady\u2014a teen, really\u2014but after dad rebelled in '54... not so much",
           "choices": [
             "Mary Queen of Scots",
             "Anne Boleyn",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "Books by this Italian educator whose name is on many schools include \"The Absorbent Mind\\\"",
+          "clue": "Books by this Italian educator whose name is on many schools include \"The Absorbent Mind\"",
           "choices": [
             "Anna Freud",
             "(Maria) Montessori",

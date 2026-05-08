@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "This \"redneck\" comic hosts \"Are You Smarter than a 5th Grader?\\\"",
+          "clue": "This \"redneck\" comic hosts \"Are You Smarter than a 5th Grader?\"",
           "choices": [
             "Larry the Cable Guy",
             "Bill Engvall",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "\\\"Loveline\" featured Adam Carolla, Diane Farr & this Doctor who also helped on \"Celebrity Rehab\\\"",
+          "clue": "\"Loveline\" featured Adam Carolla, Diane Farr & this Doctor who also helped on \"Celebrity Rehab\"",
           "choices": [
             "Dr. Phil",
             "Dr. Oz",
@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "Cinnamon or pepper, & an area that can be \"deep\" or \"outer\\\"",
+          "clue": "Cinnamon or pepper, & an area that can be \"deep\" or \"outer\"",
           "choices": [
             "Spice and space",
             "Spice and spite",
@@ -195,7 +195,7 @@
   },
   "bonusRound": {
     "category": "SONGS FROM DISNEY FILMS",
-    "clue": "\\\"A Girl Worth Fighting For\" & \"True to Your Heart\\\"",
+    "clue": "\"A Girl Worth Fighting For\" & \"True to Your Heart\"",
     "choices": [
       "Mulan",
       "The Lion King",

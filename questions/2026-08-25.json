@@ -62,7 +62,7 @@
       ]
     },
     {
-      "name": "\\\"A.C.\"/\"D.C.\\\"",
+      "name": "\"A.C.\"/\"D.C.\"",
       "questions": [
         {
           "value": 200,
@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "This fairy king's first line is \"Ill met by moonlight, proud Titania\\\"",
+          "clue": "This fairy king's first line is \"Ill met by moonlight, proud Titania\"",
           "choices": [
             "Puck",
             "Titania",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "\\\"Who's there?\" \"Nay, answer me. Stand & unfold yourself.\\\"",
+          "clue": "\"Who's there?\" \"Nay, answer me. Stand & unfold yourself.\"",
           "choices": [
             "Othello",
             "Macbeth",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "This play subtitled \"Or What You Will\" opens, \"If music be the food of love, play on\\\"",
+          "clue": "This play subtitled \"Or What You Will\" opens, \"If music be the food of love, play on\"",
           "choices": [
             "As You Like It",
             "The Tempest",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "\\\"Now fair Hippolyta, our nuptial hour draws on apace...\\\"",
+          "clue": "\"Now fair Hippolyta, our nuptial hour draws on apace...\"",
           "choices": [
             "The Merchant of Venice",
             "Romeo and Juliet",

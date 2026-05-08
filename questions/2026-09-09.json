@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "Novelist Henry's brother, his works include \"The Will to Believe and Other Essays...\\\"",
+          "clue": "Novelist Henry's brother, his works include \"The Will to Believe and Other Essays...\"",
           "choices": [
             "Sigmund Freud",
             "Ralph Waldo Emerson",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "She called a 2003 book of essays \"The Opposite of Fate\\\"",
+          "clue": "She called a 2003 book of essays \"The Opposite of Fate\"",
           "choices": [
             "(Amy) Tan",
             "Joan Didion",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "The classy ocean liner called \"Ile de\" this was partially sunk for the filming of the 1960 movie \"The Last Voyage\\\"",
+          "clue": "The classy ocean liner called \"Ile de\" this was partially sunk for the filming of the 1960 movie \"The Last Voyage\"",
           "choices": [
             "Italy",
             "England",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "DANCE!",
-    "clue": "\\\"The Lawrence Welk Show\" wasn't afraid to roll out a wunnerful \"beer barrel\" version of this dance",
+    "clue": "\"The Lawrence Welk Show\" wasn't afraid to roll out a wunnerful \"beer barrel\" version of this dance",
     "choices": [
       "the waltz",
       "the tango",

@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "By Amy Schumer: \"The Girl with the Lower Back ____\\\"",
+          "clue": "By Amy Schumer: \"The Girl with the Lower Back ____\"",
           "choices": [
             "Scar",
             "Tattoo",
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "About the Titanic: \"A Night to ____\\\"",
+          "clue": "About the Titanic: \"A Night to ____\"",
           "choices": [
             "Forget",
             "Mourn",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "James Patterson: \"Double ___\\\"",
+          "clue": "James Patterson: \"Double ___\"",
           "choices": [
             "Vision",
             "Down",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "In 2010 Greece was on the financial brink dealing with these \"measures\" whose name comes from a word meaning \"severe\\\"",
+          "clue": "In 2010 Greece was on the financial brink dealing with these \"measures\" whose name comes from a word meaning \"severe\"",
           "choices": [
             "Harsh measures",
             "Austere measures (austerity)",

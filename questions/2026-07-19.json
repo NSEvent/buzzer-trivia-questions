@@ -2,7 +2,7 @@
   "date": "2026-07-19",
   "categories": [
     {
-      "name": "\\\"A\" IN MYTHOLOGY",
+      "name": "\"A\" IN MYTHOLOGY",
       "questions": [
         {
           "value": 200,
@@ -66,7 +66,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "This Babylonian, not messing around with his \"code\": \"if a son strike his father, his hands shall be hewn off\\\"",
+          "clue": "This Babylonian, not messing around with his \"code\": \"if a son strike his father, his hands shall be hewn off\"",
           "choices": [
             "Nebuchadnezzar",
             "Ashurbanipal",
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "Dear Diary, in 1662 he was not a fan of \"A Midsummer Night's Dream\", \"which I had never seen before, nor shall ever again\\\"",
+          "clue": "Dear Diary, in 1662 he was not a fan of \"A Midsummer Night's Dream\", \"which I had never seen before, nor shall ever again\"",
           "choices": [
             "John Evelyn",
             "Jonathan Swift",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "\\\"Four Blind Mice\" by this man is an Alex Cross thriller about a series of murders with strange links to the Vietnam War",
+          "clue": "\"Four Blind Mice\" by this man is an Alex Cross thriller about a series of murders with strange links to the Vietnam War",
           "choices": [
             "John Grisham",
             "(James) Patterson",

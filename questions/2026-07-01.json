@@ -6,9 +6,9 @@
       "questions": [
         {
           "value": 200,
-          "clue": "\\\"The Yanks are coming, the Yanks are coming\" in this George M. Cohan song",
+          "clue": "\"The Yanks are coming, the Yanks are coming\" in this George M. Cohan song",
           "choices": [
-            "\\\"Over There\\\"",
+            "\"Over There\"",
             "\"Yankee Doodle\"",
             "\"You're a Grand Old Flag\"",
             "\"The Stars and Stripes Forever\""
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "name": "BEGINS & ENDS IN \"K\\\"",
+      "name": "BEGINS & ENDS IN \"K\"",
       "questions": [
         {
           "value": 200,
@@ -101,9 +101,9 @@
           "value": 800,
           "clue": "Noted Czech astronomer...okay, we'll give you more; the comet named for him was sort of visible in 1973",
           "choices": [
-            "Antonín Kopecký",
-            "Karel Kvíčala",
-            "Vladimír Koudelka",
+            "Anton\u00edn Kopeck\u00fd",
+            "Karel Kv\u00ed\u010dala",
+            "Vladim\u00edr Koudelka",
             "Lubos Kohoutek"
           ],
           "correctIndex": 3
@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "\\\"A ____ Yankee In King Arthur's Court\\\"",
+          "clue": "\"A ____ Yankee In King Arthur's Court\"",
           "choices": [
             "Connecticut",
             "Massachusetts",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "The play \"Abe Lincoln in ____\\\"",
+          "clue": "The play \"Abe Lincoln in ____\"",
           "choices": [
             "Indiana",
             "Illinois",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "\\\"East of Eden\\\"",
+          "clue": "\"East of Eden\"",
           "choices": [
             "Oregon",
             "Nevada",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "\\\"The Jungle\\\"",
+          "clue": "\"The Jungle\"",
           "choices": [
             "Pennsylvania",
             "Indiana",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "\\\"Winesburg, ____\\\"",
+          "clue": "\"Winesburg, ____\"",
           "choices": [
             "Indiana",
             "Ohio",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "STEPHEN FOSTER LYRICS",
-    "clue": "The Camptown racetrack was this many \"miles long, oh! doo-dah-day!\\\"",
+    "clue": "The Camptown racetrack was this many \"miles long, oh! doo-dah-day!\"",
     "choices": [
       "3 miles long",
       "10 miles long",

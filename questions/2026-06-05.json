@@ -10,7 +10,7 @@
           "choices": [
             "Marie Antoinette",
             "Catherine the Great",
-            "Empress Eugénie",
+            "Empress Eug\u00e9nie",
             "Josephine"
           ],
           "correctIndex": 3
@@ -50,11 +50,11 @@
         },
         {
           "value": 1000,
-          "clue": "18th century kings ran up debts of hundreds of millions of these—not as in books, but as in units of silver currency",
+          "clue": "18th century kings ran up debts of hundreds of millions of these\u2014not as in books, but as in units of silver currency",
           "choices": [
             "Livres",
             "Francs",
-            "Écus",
+            "\u00c9cus",
             "Sous"
           ],
           "correctIndex": 0
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "The former name of this capital city was Edo, which means \"estuary\\\"",
+          "clue": "The former name of this capital city was Edo, which means \"estuary\"",
           "choices": [
             "Kyoto",
             "Osaka",
@@ -183,7 +183,7 @@
     }
   ],
   "dailyDouble": {
-    "category": "FILE UNDER \"J\\\"",
+    "category": "FILE UNDER \"J\"",
     "clue": "Joel 3 says the valley of Jehoshaphat was a place of this",
     "choices": [
       "Judgment",

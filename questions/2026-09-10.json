@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "She was born to a Danish-born dad November 22, 1984 in NYC & later found herself \"Lost in Translation\\\"",
+          "clue": "She was born to a Danish-born dad November 22, 1984 in NYC & later found herself \"Lost in Translation\"",
           "choices": [
             "(Scarlett) Johansson",
             "Natalie Portman",
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "\\\"Carmen\\\"",
+          "clue": "\"Carmen\"",
           "choices": [
             "Madrid",
             "Seville",
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "\\\"Der Rosenkavalier\\\"",
+          "clue": "\"Der Rosenkavalier\"",
           "choices": [
             "Munich",
             "Salzburg",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "\\\"Die Meistersinger\\\"",
+          "clue": "\"Die Meistersinger\"",
           "choices": [
             "Leipzig",
             "Dresden",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "\\\"CON\" GAME",
+      "name": "\"CON\" GAME",
       "questions": [
         {
           "value": 200,
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "This synonym for a magician comes from Latin for \"swear together\\\"",
+          "clue": "This synonym for a magician comes from Latin for \"swear together\"",
           "choices": [
             "illusionist",
             "sorcerer",

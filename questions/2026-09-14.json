@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "\\\"TU\" MUCH",
+      "name": "\"TU\" MUCH",
       "questions": [
         {
           "value": 200,
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "THE DIRECTOR'S FIRST FEATURE FILM",
-    "clue": "\\\"Lady Bird\", her solo directorial debut",
+    "clue": "\"Lady Bird\", her solo directorial debut",
     "choices": [
       "Sofia Coppola",
       "Lena Dunham",

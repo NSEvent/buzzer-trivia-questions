@@ -17,7 +17,7 @@
         },
         {
           "value": 400,
-          "clue": "While Margaret Thatcher is Britain's \"Iron Lady\", he was Germany's \"Iron Chancellor\\\"",
+          "clue": "While Margaret Thatcher is Britain's \"Iron Lady\", he was Germany's \"Iron Chancellor\"",
           "choices": [
             "Metternich",
             "Wilhelm II",
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "Helena Bonham Carter used a Yank accent to play this man's wife in \"Mighty Aphrodite\\\"",
+          "clue": "Helena Bonham Carter used a Yank accent to play this man's wife in \"Mighty Aphrodite\"",
           "choices": [
             "Woody Allen",
             "Martin Scorsese",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "SUBTITLES",
-    "clue": "Haley: \"The Saga of an American Family\\\"",
+    "clue": "Haley: \"The Saga of an American Family\"",
     "choices": [
       "Roots",
       "Gone with the Wind",

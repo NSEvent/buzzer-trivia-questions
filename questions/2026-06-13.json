@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "Jan Ulrich, a German standout in this sport, has been nicknamed \"Der Tourminator\\\"",
+          "clue": "Jan Ulrich, a German standout in this sport, has been nicknamed \"Der Tourminator\"",
           "choices": [
             "Marathon running",
             "Triathlon",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "In 1998 this beautiful German figure skater played the mistress of a Russian mobster in the movie \"Ronin\\\"",
+          "clue": "In 1998 this beautiful German figure skater played the mistress of a Russian mobster in the movie \"Ronin\"",
           "choices": [
             "Surya Bonaly",
             "Irina Slutskaya",
@@ -199,7 +199,7 @@
     "choices": [
       "\"Gonna Build a Mountain\"",
       "\"Being Alive\"",
-      "\\\"What Kind Of Fool I Am\\\"",
+      "\"What Kind Of Fool I Am\"",
       "\"Once in a Lifetime\""
     ],
     "correctIndex": 2

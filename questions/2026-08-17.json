@@ -20,9 +20,9 @@
           "clue": "In 1509 he became Puerto Rico's first governor; 4 years later he sailed for Florida",
           "choices": [
             "Ponce de Leon",
-            "Hernán Cortés",
+            "Hern\u00e1n Cort\u00e9s",
             "Francisco Pizarro",
-            "Vasco Núñez de Balboa"
+            "Vasco N\u00fa\u00f1ez de Balboa"
           ],
           "correctIndex": 0
         },
@@ -31,7 +31,7 @@
           "clue": "Now a popular tourist attraction, El Morro Fortress was built by the Spaniards to guard this city's bay",
           "choices": [
             "Ponce",
-            "Mayagüez",
+            "Mayag\u00fcez",
             "San Juan",
             "Arecibo"
           ],
@@ -44,7 +44,7 @@
             "Yo-Yo Ma",
             "Pablo Casals",
             "Mstislav Rostropovich",
-            "Jacqueline du Pré"
+            "Jacqueline du Pr\u00e9"
           ],
           "correctIndex": 1
         },
@@ -66,7 +66,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "It's \"The City of David\\\"",
+          "clue": "It's \"The City of David\"",
           "choices": [
             "Hebron",
             "Jerusalem",
@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "The poet Tibullus called this city \"Urbs Aeterna\\\"",
+          "clue": "The poet Tibullus called this city \"Urbs Aeterna\"",
           "choices": [
             "Athens",
             "Rome",
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "State capital that's \"the Mormon Metropolis\\\"",
+          "clue": "State capital that's \"the Mormon Metropolis\"",
           "choices": [
             "Salt Lake City",
             "Denver",
@@ -152,7 +152,7 @@
           "choices": [
             "Saint Catherine of Siena",
             "Saint Joan of Arc",
-            "Saint Thérèse of Lisieux",
+            "Saint Th\u00e9r\u00e8se of Lisieux",
             "Saint Teresa of Avila"
           ],
           "correctIndex": 3

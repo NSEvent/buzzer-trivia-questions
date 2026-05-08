@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "This adjective for a second-year student is defined as \"intellectually pretentious\", \"conceited\" & \"immature\\\"",
+          "clue": "This adjective for a second-year student is defined as \"intellectually pretentious\", \"conceited\" & \"immature\"",
           "choices": [
             "Freshman",
             "Sophomoric",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "STARTS & ENDS WITH \"L\\\"",
+      "name": "STARTS & ENDS WITH \"L\"",
       "questions": [
         {
           "value": 200,

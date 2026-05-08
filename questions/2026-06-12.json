@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "In 1992 this columnist won a lawsuit which held that his idea was the basis for the movie \"Coming to America\\\"",
+          "clue": "In 1992 this columnist won a lawsuit which held that his idea was the basis for the movie \"Coming to America\"",
           "choices": [
             "Dave Barry",
             "Art Buchwald",
@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "He wrote & illustrated the graphic novel \"Maus: A Survivor's Tale\\\"",
+          "clue": "He wrote & illustrated the graphic novel \"Maus: A Survivor's Tale\"",
           "choices": [
             "Alan Moore",
             "Neil Gaiman",
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "In \"Middlemarch\" Mr. Casaubon is writing a book on this & in debating \"the solar deities, he had become indifferent to the sunlight\\\"",
+          "clue": "In \"Middlemarch\" Mr. Casaubon is writing a book on this & in debating \"the solar deities, he had become indifferent to the sunlight\"",
           "choices": [
             "Theology",
             "Mythology",
@@ -129,15 +129,15 @@
           "clue": "Published posthumously in 2021, \"Silverview\" is the 26th & last completed book by this British spy turned novelist",
           "choices": [
             "Ian Fleming",
-            "Le Carré",
+            "Le Carr\u00e9",
             "Frederick Forsyth",
-            "John le Carré's son"
+            "John le Carr\u00e9's son"
           ],
           "correctIndex": 1
         },
         {
           "value": 400,
-          "clue": "This author's 1821 novel \"The Spy\" was written before frontier tales like \"The Pioneers\\\"",
+          "clue": "This author's 1821 novel \"The Spy\" was written before frontier tales like \"The Pioneers\"",
           "choices": [
             "Washington Irving",
             "James Fenimore Cooper",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "Singular pseudonym of Rodney Whitaker, who authored 2 \"Sanction\" books, \"Loo\" & \"Eiger\\\"",
+          "clue": "Singular pseudonym of Rodney Whitaker, who authored 2 \"Sanction\" books, \"Loo\" & \"Eiger\"",
           "choices": [
             "Trevanian",
             "Deighton",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "Spy novelist Helen whose works include \"Decision at Delphi\" & \"Cloak of Darkness\\\"",
+          "clue": "Spy novelist Helen whose works include \"Decision at Delphi\" & \"Cloak of Darkness\"",
           "choices": [
             "Allingham",
             "MacInnes",

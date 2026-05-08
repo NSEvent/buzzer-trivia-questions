@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "(Kelly of the Clue Crew juices a lemon in the chemistry lab.) This acid—C6H8O7—is found in the juice I'm extracting",
+          "clue": "(Kelly of the Clue Crew juices a lemon in the chemistry lab.) This acid\u2014C6H8O7\u2014is found in the juice I'm extracting",
           "choices": [
             "Citric acid",
             "Ascorbic acid",
@@ -101,21 +101,21 @@
           "value": 800,
           "clue": "French for \"good journey\", or a type of party that's often held aboard ship",
           "choices": [
-            "A soirée",
+            "A soir\u00e9e",
             "A bon voyage",
-            "A fête",
-            "A déjeuner"
+            "A f\u00eate",
+            "A d\u00e9jeuner"
           ],
           "correctIndex": 1
         },
         {
           "value": 1000,
-          "clue": "Schussboomers know the name of this after-schussing party contains the French word for \"after\\\"",
+          "clue": "Schussboomers know the name of this after-schussing party contains the French word for \"after\"",
           "choices": [
-            "Après-race",
+            "Apr\u00e8s-race",
             "Apres-ski",
-            "Après-match",
-            "Après-piste"
+            "Apr\u00e8s-match",
+            "Apr\u00e8s-piste"
           ],
           "correctIndex": 1
         }

@@ -41,7 +41,7 @@
           "value": 800,
           "clue": "The hymn \"Glory to God in the Highest\" also has this Latin name",
           "choices": [
-            "\\\"Gloria in excelsis\\\"",
+            "\"Gloria in excelsis\"",
             "Ave Maria",
             "Te Deum",
             "Magnificat"
@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "She was married to Kenneth Branagh when they played sparring lovers in 1993's \"Much Ado About Nothing\\\"",
+          "clue": "She was married to Kenneth Branagh when they played sparring lovers in 1993's \"Much Ado About Nothing\"",
           "choices": [
             "Emma Thompson",
             "Helena Bonham Carter",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "\\\"HOT\" STUFF",
+      "name": "\"HOT\" STUFF",
       "questions": [
         {
           "value": 200,
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "Charlie Sheen played fighter pilot Topper Harley in this comedy spoof & its sequel \"Part Deux\\\"",
+          "clue": "Charlie Sheen played fighter pilot Topper Harley in this comedy spoof & its sequel \"Part Deux\"",
           "choices": [
             "Hot Shots",
             "Top Gun",

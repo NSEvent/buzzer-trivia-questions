@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "\\\"I don't say he's a great man. Willy Loman never made a lot of money\\\"",
+          "clue": "\"I don't say he's a great man. Willy Loman never made a lot of money\"",
           "choices": [
             "Tennessee Williams",
             "Eugene O'Neill",
@@ -17,7 +17,7 @@
         },
         {
           "value": 400,
-          "clue": "\\\"WEAF presents Dinner at Brighton Beach starring the Jacob Jerome family...\\\"",
+          "clue": "\"WEAF presents Dinner at Brighton Beach starring the Jacob Jerome family...\"",
           "choices": [
             "Arthur Miller",
             "Clifford Odets",
@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "\\\"Good-by, good-by world. Good-by Grover's Corners... Mama and Papa. Good-by to clocks ticking...\\\"",
+          "clue": "\"Good-by, good-by world. Good-by Grover's Corners... Mama and Papa. Good-by to clocks ticking...\"",
           "choices": [
             "Eugene O'Neill",
             "Thornton Wilder (Our Town)",
@@ -39,7 +39,7 @@
         },
         {
           "value": 800,
-          "clue": "\\\"By George, Eliza, the streets will be strewn with the bodies of men shooting themselves for your sake\\\"",
+          "clue": "\"By George, Eliza, the streets will be strewn with the bodies of men shooting themselves for your sake\"",
           "choices": [
             "Oscar Wilde",
             "Henrik Ibsen",
@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "\\\"I'm not like you. At the end of 'Casablanca' when you lost Ingrid Bergman, weren't you crushed?\\\"",
+          "clue": "\"I'm not like you. At the end of 'Casablanca' when you lost Ingrid Bergman, weren't you crushed?\"",
           "choices": [
             "Neil Simon",
             "Mel Brooks",
@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "\\\"Peter Pan\" is subtitled \"The Boy Who Would Not...\" do this",
+          "clue": "\"Peter Pan\" is subtitled \"The Boy Who Would Not...\" do this",
           "choices": [
             "Fly",
             "Fight",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "20th CENTURY WRITERS",
-    "clue": "As of 1994, 5 of his novels had been filmed, 4 with Helena Bonham Carter, including \"A Room with a View\\\"",
+    "clue": "As of 1994, 5 of his novels had been filmed, 4 with Helena Bonham Carter, including \"A Room with a View\"",
     "choices": [
       "Henry James",
       "(E.M.) Forster",

@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "One of Alec Guinness's many masterly character portrayals was as this man in 1948's \"Oliver Twist\\\"",
+          "clue": "One of Alec Guinness's many masterly character portrayals was as this man in 1948's \"Oliver Twist\"",
           "choices": [
             "Fagin",
             "Sweeney Todd",
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "\\\"I am America (and So Can You!)\\\"",
+          "clue": "\"I am America (and So Can You!)\"",
           "choices": [
             "Jon Stewart",
             "Bill Maher",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "\\\"Naked Pictures of Famous People\\\"",
+          "clue": "\"Naked Pictures of Famous People\"",
           "choices": [
             "Jon Stewart",
             "Chris Farley",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "Simian word for \"mimic\\\"",
+          "clue": "Simian word for \"mimic\"",
           "choices": [
             "ice",
             "ape",

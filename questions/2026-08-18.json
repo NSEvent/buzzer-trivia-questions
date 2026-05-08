@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "When this President took ill, some referred to his wife as the \"Presidentress of the U.S.\\\"",
+          "clue": "When this President took ill, some referred to his wife as the \"Presidentress of the U.S.\"",
           "choices": [
             "John Adams",
             "Woodrow Wilson",
@@ -17,7 +17,7 @@
         },
         {
           "value": 400,
-          "clue": "The 1st picture of him in Life Magazine identified him as \"Col. D.D. Ersenbean\\\"",
+          "clue": "The 1st picture of him in Life Magazine identified him as \"Col. D.D. Ersenbean\"",
           "choices": [
             "(Dwight David) Eisenhower",
             "Chester A. Arthur",
@@ -66,7 +66,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "Of the forbidden fruit, Eve said, this creature \"beguiled me, and I did eat\\\"",
+          "clue": "Of the forbidden fruit, Eve said, this creature \"beguiled me, and I did eat\"",
           "choices": [
             "The fox",
             "The lion",
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "As this first Christian martyr was being martyred, he prayed, \"Lord, lay not this sin to their charge\\\"",
+          "clue": "As this first Christian martyr was being martyred, he prayed, \"Lord, lay not this sin to their charge\"",
           "choices": [
             "St. Peter",
             "St. Paul",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "In I Samuel he admitted to David, \"I have played the fool and have erred exceedingly\\\"",
+          "clue": "In I Samuel he admitted to David, \"I have played the fool and have erred exceedingly\"",
           "choices": [
             "David",
             "Solomon",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "Completes the line from Ecclesiastes, \"there is no new thing...\\\"",
+          "clue": "Completes the line from Ecclesiastes, \"there is no new thing...\"",
           "choices": [
             "Under the Sun",
             "Above the Stars",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "He admitted in Luke 23:14 that \"I, having examined him before you, have found no fault in this man...\\\"",
+          "clue": "He admitted in Luke 23:14 that \"I, having examined him before you, have found no fault in this man...\"",
           "choices": [
             "(Pontius) Pilate",
             "Herod",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "In his sorrow this Old Testament figure said, \"The Lord gave, and the Lord hath taken away\\\"",
+          "clue": "In his sorrow this Old Testament figure said, \"The Lord gave, and the Lord hath taken away\"",
           "choices": [
             "Abraham",
             "Job",

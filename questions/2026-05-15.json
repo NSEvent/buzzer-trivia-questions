@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "From a Kikuyu word for \"white mountain\", it's an east African country & the first name of TV's Barris, creator of \"black-ish\\\"",
+          "clue": "From a Kikuyu word for \"white mountain\", it's an east African country & the first name of TV's Barris, creator of \"black-ish\"",
           "choices": [
             "Uganda",
             "Tanzania",
@@ -52,7 +52,7 @@
           "value": 1000,
           "clue": "This French version of a girls' name important in the New Testament is also given to boys, like the Marquis de Lafayette",
           "choices": [
-            "René",
+            "Ren\u00e9",
             "Dominique",
             "Marie",
             "Claude"
@@ -126,18 +126,18 @@
       "questions": [
         {
           "value": 200,
-          "clue": "Of Monsters & Men: \"There's an old voice in my head that's holding me back / Tell her that I miss our ____ ____\\\"",
+          "clue": "Of Monsters & Men: \"There's an old voice in my head that's holding me back / Tell her that I miss our ____ ____\"",
           "choices": [
             "'secret dreams'",
             "'late nights'",
             "'midnight walks'",
-            "\\\"little talks\\\""
+            "\"little talks\""
           ],
           "correctIndex": 3
         },
         {
           "value": 400,
-          "clue": "Bruno Mars: \"Treasure, that is what you are, Honey, you're my ____ ____\\\"",
+          "clue": "Bruno Mars: \"Treasure, that is what you are, Honey, you're my ____ ____\"",
           "choices": [
             "Shining light",
             "Golden star",
@@ -159,18 +159,18 @@
         },
         {
           "value": 800,
-          "clue": "fun.: \"This is it boys, This is ____ — What are we waiting for?\\\"",
+          "clue": "fun.: \"This is it boys, This is ____ \u2014 What are we waiting for?\"",
           "choices": [
             "'it'",
             "'over'",
             "'done'",
-            "\\\"war\\\""
+            "\"war\""
           ],
           "correctIndex": 3
         },
         {
           "value": 1000,
-          "clue": "The White Stripes: \"I'm gonna fight 'em off,\" this military group \"couldn't hold me back\\\"",
+          "clue": "The White Stripes: \"I'm gonna fight 'em off,\" this military group \"couldn't hold me back\"",
           "choices": [
             "A Five Star General",
             "A Seven Nation Army",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "CLASSIC DRAMA SERIES EPISODES",
-    "clue": "\\\"The Kahuna\\\"",
+    "clue": "\"The Kahuna\"",
     "choices": [
       "Magnum, P.I.",
       "Hawaii Five-O",

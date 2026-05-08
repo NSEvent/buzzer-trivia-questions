@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "\\\"The Communist Manifesto\" declares that the history of all society is the history of these struggles",
+          "clue": "\"The Communist Manifesto\" declares that the history of all society is the history of these struggles",
           "choices": [
             "economic disparities",
             "class struggles",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "name": "I LOVE \"U\\\"",
+      "name": "I LOVE \"U\"",
       "questions": [
         {
           "value": 200,
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "The Greek philosopher Socrates said that this kind of life \"is not worth living\\\"",
+          "clue": "The Greek philosopher Socrates said that this kind of life \"is not worth living\"",
           "choices": [
             "unquestioned",
             "unchecked",
@@ -184,9 +184,9 @@
   ],
   "dailyDouble": {
     "category": "GROOVY",
-    "clue": "This Simon & Garfunkel tune is also known as \"The 59th Street Bridge Song\\\"",
+    "clue": "This Simon & Garfunkel tune is also known as \"The 59th Street Bridge Song\"",
     "choices": [
-      "\\\"Feelin' Groovy\\\"",
+      "\"Feelin' Groovy\"",
       "The Sound of Silence",
       "Bridge Over Troubled Water",
       "Mrs. Robinson"

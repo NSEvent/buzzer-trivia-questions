@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "\\\"TRUE\" OR \"FALSE\\\"",
+      "name": "\"TRUE\" OR \"FALSE\"",
       "questions": [
         {
           "value": 200,
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "The sender of gifts in \"The Twelve Days of Christmas\\\"",
+          "clue": "The sender of gifts in \"The Twelve Days of Christmas\"",
           "choices": [
             "My best friend",
             "My one and only",

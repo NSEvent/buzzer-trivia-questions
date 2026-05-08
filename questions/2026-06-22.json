@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "In the 1930s Isamu Noguchi designed an early one of these for parents; the receiver was called \"radio nurse\\\"",
+          "clue": "In the 1930s Isamu Noguchi designed an early one of these for parents; the receiver was called \"radio nurse\"",
           "choices": [
             "A baby carriage",
             "A smoke detector",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "The National Company made the instruments he sings about in \"Graceland\"—\"The Mississippi Delta was shining like National guitar\\\"",
+          "clue": "The National Company made the instruments he sings about in \"Graceland\"\u2014\"The Mississippi Delta was shining like National guitar\"",
           "choices": [
             "(Bob) Dylan",
             "(Paul) Simon",
@@ -183,7 +183,7 @@
     }
   ],
   "dailyDouble": {
-    "category": "IT ENDS WITH \"US\\\"",
+    "category": "IT ENDS WITH \"US\"",
     "clue": "After the Trojan War, he wandered for 10 years before returning home to Ithaca",
     "choices": [
       "Odysseus",

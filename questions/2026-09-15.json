@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "This composer who took us to Seville in \"Carmen\" evoked Italy in the suite \"Roma\\\"",
+          "clue": "This composer who took us to Seville in \"Carmen\" evoked Italy in the suite \"Roma\"",
           "choices": [
             "Georges Bizet",
             "Claude Debussy",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "He was studying at the Sorbonne in Paris when he published \"The Naked and the Dead\\\"",
+          "clue": "He was studying at the Sorbonne in Paris when he published \"The Naked and the Dead\"",
           "choices": [
             "James Jones",
             "Ernest Hemingway",

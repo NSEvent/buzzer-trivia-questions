@@ -17,10 +17,10 @@
         },
         {
           "value": 400,
-          "clue": "In 1964 Indiana governor Matthew Welsh declared this Kingsmen song to be \"pornographic\\\"",
+          "clue": "In 1964 Indiana governor Matthew Welsh declared this Kingsmen song to be \"pornographic\"",
           "choices": [
             "\"Summertime Blues\"",
-            "\\\"Louie Louie\\\"",
+            "\"Louie Louie\"",
             "\"I'm A Man\"",
             "\"Surfin' USA\""
           ],
@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "\\\"Hello, I Love You\" was the first track on \"Waiting for the Sun\", this group's only No. 1 album",
+          "clue": "\"Hello, I Love You\" was the first track on \"Waiting for the Sun\", this group's only No. 1 album",
           "choices": [
             "the Doors",
             "the Beach Boys",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "Between 1836 & 1857, Truman & Smith Publishers of Cincinnati issued 6 of his \"Eclectic Readers\\\"",
+          "clue": "Between 1836 & 1857, Truman & Smith Publishers of Cincinnati issued 6 of his \"Eclectic Readers\"",
           "choices": [
             "Noah Webster",
             "Horace Mann",
@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "He hosts the syndicated horror series \"Freddy's Nightmares\\\"",
+          "clue": "He hosts the syndicated horror series \"Freddy's Nightmares\"",
           "choices": [
             "Jason Voorhees",
             "Ghostface",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "She played Wonder Woman's sister before earning an Oscar nomination for \"Terms of Endearment\\\"",
+          "clue": "She played Wonder Woman's sister before earning an Oscar nomination for \"Terms of Endearment\"",
           "choices": [
             "Jane Seymour",
             "Cybill Shepherd",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "According to one opening for this series, \"There's a 6th dimension beyond that which is known to man\\\"",
+          "clue": "According to one opening for this series, \"There's a 6th dimension beyond that which is known to man\"",
           "choices": [
             "The Twilight Zone",
             "The Outer Limits",

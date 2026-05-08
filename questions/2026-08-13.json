@@ -102,7 +102,7 @@
           "clue": "Emma takes poison after using up her husband's inheritance to finance her love affair",
           "choices": [
             "Anna Karenina",
-            "Thérèse Raquin",
+            "Th\u00e9r\u00e8se Raquin",
             "The Red and the Black",
             "Madame Bovary"
           ],
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "After a fatal stabbing in this classic mystery, Hercule Poirot asks for \"a plan of the Istanbul-Calais Coach\\\"",
+          "clue": "After a fatal stabbing in this classic mystery, Hercule Poirot asks for \"a plan of the Istanbul-Calais Coach\"",
           "choices": [
             "Death on the Nile",
             "The ABC Murders",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "Time magazine named this Gillian Flynn thriller one of the \"10 Best Fiction Books of the 2010s\\\"",
+          "clue": "Time magazine named this Gillian Flynn thriller one of the \"10 Best Fiction Books of the 2010s\"",
           "choices": [
             "The Girl on the Train",
             "Sharp Objects",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "A review for this Ruth Ware bestseller set at sea says it \"just may do to cruise vacations what 'Jaws' did to ocean swimming\\\"",
+          "clue": "A review for this Ruth Ware bestseller set at sea says it \"just may do to cruise vacations what 'Jaws' did to ocean swimming\"",
           "choices": [
             "The Woman in Cabin 10",
             "The Guest List",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "\\\"The Thin Man\" by this author is about a former detective & his rich wife solving a murder amid high society",
+          "clue": "\"The Thin Man\" by this author is about a former detective & his rich wife solving a murder amid high society",
           "choices": [
             "Raymond Chandler",
             "Dashiell Hammett",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "JOKERS",
-    "clue": "Mel Brooks & this man created \"Get Smart!\\\"",
+    "clue": "Mel Brooks & this man created \"Get Smart!\"",
     "choices": [
       "Carl Reiner",
       "Norman Lear",

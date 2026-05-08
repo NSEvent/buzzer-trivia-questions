@@ -42,7 +42,7 @@
           "clue": "On Oct. 20, 1944 Douglas MacArthur fulfilled this 3-word promise he'd made to the Philippine people in 1942",
           "choices": [
             "We will return",
-            "\\\"I shall return\\\"",
+            "\"I shall return\"",
             "Back I come soon",
             "Soon we go home"
           ],
@@ -54,7 +54,7 @@
           "choices": [
             "Admiral Yamamoto",
             "Admiral Chuichi Nagumo",
-            "Admiral Jisaburō Ozawa",
+            "Admiral Jisabur\u014d Ozawa",
             "Admiral Soemu Toyoda"
           ],
           "correctIndex": 0
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "Eleanor Audley played Eddie Albert's mother on \"Green Acres\" after voicing this villainess in \"Sleeping Beauty\\\"",
+          "clue": "Eleanor Audley played Eddie Albert's mother on \"Green Acres\" after voicing this villainess in \"Sleeping Beauty\"",
           "choices": [
             "Cruella de Vil",
             "Ursula",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "Gore Vidal said he loathed this \"In Cold Blood\" writer \"the way you might loathe... a filthy animal\\\"",
+          "clue": "Gore Vidal said he loathed this \"In Cold Blood\" writer \"the way you might loathe... a filthy animal\"",
           "choices": [
             "Norman Mailer",
             "Tom Wolfe",
@@ -172,8 +172,8 @@
           "value": 1000,
           "clue": "In 1976, Mario Vargas Llosa gave this other 3-named South American Nobelist a literal black eye",
           "choices": [
-            "Gabriel García Márquez",
-            "Miguel Ángel Asturias",
+            "Gabriel Garc\u00eda M\u00e1rquez",
+            "Miguel \u00c1ngel Asturias",
             "Octavio Paz",
             "Jorge Amado"
           ],

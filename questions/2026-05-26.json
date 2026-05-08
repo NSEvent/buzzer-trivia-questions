@@ -66,7 +66,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "Sinatra as a swinger (What a stretch!): \"Come Blow Your ____\\\"",
+          "clue": "Sinatra as a swinger (What a stretch!): \"Come Blow Your ____\"",
           "choices": [
             "A trumpet",
             "A flute",
@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "Henry Fonda goes Colonial: \"_____ Along 'The Mohawk\\\"",
+          "clue": "Henry Fonda goes Colonial: \"_____ Along 'The Mohawk\"",
           "choices": [
             "March",
             "Drum",
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "A string instrument with a secret: \"The Red _____\\\"",
+          "clue": "A string instrument with a secret: \"The Red _____\"",
           "choices": [
             "Guitar",
             "Violin",
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "A baseball drama: \"Bang the ____ Slowly\\\"",
+          "clue": "A baseball drama: \"Bang the ____ Slowly\"",
           "choices": [
             "Drum",
             "Horn",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "Bix Biederbecke's bio: \"Young Man With A ____\\\"",
+          "clue": "Bix Biederbecke's bio: \"Young Man With A ____\"",
           "choices": [
             "Trumpet",
             "Trombone",

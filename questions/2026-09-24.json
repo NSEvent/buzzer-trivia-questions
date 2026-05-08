@@ -6,21 +6,21 @@
       "questions": [
         {
           "value": 200,
-          "clue": "\\\"Did I ever tell you you're my hero? You're everything, everything I wish I could be\\\"",
+          "clue": "\"Did I ever tell you you're my hero? You're everything, everything I wish I could be\"",
           "choices": [
             "Open Arms",
             "Total Eclipse of the Heart",
             "Heaven",
-            "\\\"Wind Beneath My Wings\\\""
+            "\"Wind Beneath My Wings\""
           ],
           "correctIndex": 3
         },
         {
           "value": 400,
-          "clue": "\\\"If you're lost, you can look\u2014and you will find me\\\"",
+          "clue": "\"If you're lost, you can look\u2014and you will find me\"",
           "choices": [
             "Girls Just Want to Have Fun",
-            "\\\"Time After Time\\\"",
+            "\"Time After Time\"",
             "Like a Virgin",
             "Sweet Dreams (Are Made of This)"
           ],
@@ -28,34 +28,34 @@
         },
         {
           "value": 600,
-          "clue": "Joan Jett & the Blackhearts: \"I saw him dancin' there by the record machine\\\"",
+          "clue": "Joan Jett & the Blackhearts: \"I saw him dancin' there by the record machine\"",
           "choices": [
             "You Shook Me All Night Long",
             "Jump",
             "Pour Some Sugar on Me",
-            "\\\"I Love Rock 'N Roll\\\""
+            "\"I Love Rock 'N Roll\""
           ],
           "correctIndex": 3
         },
         {
           "value": 800,
-          "clue": "Bon Jovi: \"Take my hand and we'll make it, I swear\\\"",
+          "clue": "Bon Jovi: \"Take my hand and we'll make it, I swear\"",
           "choices": [
             "You Give Love a Bad Name",
             "Wanted Dead or Alive",
             "Every Rose Has Its Thorn",
-            "\\\"Livin' On A Prayer\\\""
+            "\"Livin' On A Prayer\""
           ],
           "correctIndex": 3
         },
         {
           "value": 1000,
-          "clue": "Janet Jackson: \"No, my first name ain't baby, it's Janet\\\"",
+          "clue": "Janet Jackson: \"No, my first name ain't baby, it's Janet\"",
           "choices": [
             "Control",
             "Rhythm Nation",
             "Let's Wait Awhile",
-            "\\\"Nasty\\\""
+            "\"Nasty\""
           ],
           "correctIndex": 3
         }
@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "The name of this salad comes from the Dutch for \"cabbage salad\\\"",
+          "clue": "The name of this salad comes from the Dutch for \"cabbage salad\"",
           "choices": [
             "pasta salad",
             "potato salad",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "AUTHORS & THEIR WORKS",
-    "clue": "This \"Vanity Fair\" author's novel \"The Virginians\", is a sequel to \"Henry Esmond\\\"",
+    "clue": "This \"Vanity Fair\" author's novel \"The Virginians\", is a sequel to \"Henry Esmond\"",
     "choices": [
       "Charles Dickens",
       "Charlotte Bronte",

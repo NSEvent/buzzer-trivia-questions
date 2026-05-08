@@ -2,7 +2,7 @@
   "date": "2026-05-30",
   "categories": [
     {
-      "name": "STARTS & ENDS WITH \"H\\\"",
+      "name": "STARTS & ENDS WITH \"H\"",
       "questions": [
         {
           "value": 200,
@@ -39,7 +39,7 @@
         },
         {
           "value": 800,
-          "clue": "In music it can mean \"sharp\\\"",
+          "clue": "In music it can mean \"sharp\"",
           "choices": [
             "Harmony",
             "Half step",
@@ -195,7 +195,7 @@
   },
   "bonusRound": {
     "category": "DEMOCRATS",
-    "clue": "Robert Reich, who holds this cabinet post, wrote the 1982 book \"Minding America's Business\\\"",
+    "clue": "Robert Reich, who holds this cabinet post, wrote the 1982 book \"Minding America's Business\"",
     "choices": [
       "Secretary of Commerce",
       "Secretary of the Treasury",

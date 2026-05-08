@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "Thanks to the magic of digital technology, this man (a method actor?) played the president in 1997's \"Contact\\\"",
+          "clue": "Thanks to the magic of digital technology, this man (a method actor?) played the president in 1997's \"Contact\"",
           "choices": [
             "Bill Clinton",
             "George H.W. Bush",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "Charlton Heston portrayed him wooing Rachel in \"The President's Lady\" & during his War of 1812 days in \"The Buccaneer\\\"",
+          "clue": "Charlton Heston portrayed him wooing Rachel in \"The President's Lady\" & during his War of 1812 days in \"The Buccaneer\"",
           "choices": [
             "Abraham Lincoln",
             "Andrew Jackson",
@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "I'm supposed to \"beware of Greeks bearing gifts\"—but if they bring me a gift one of these, I shouldn't look in its mouth...hmmm",
+          "clue": "I'm supposed to \"beware of Greeks bearing gifts\"\u2014but if they bring me a gift one of these, I shouldn't look in its mouth...hmmm",
           "choices": [
             "A cat",
             "A horse",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "OK, OK—\"he who hesitates is lost\"...but aren't I supposed to do this before I leap?",
+          "clue": "OK, OK\u2014\"he who hesitates is lost\"...but aren't I supposed to do this before I leap?",
           "choices": [
             "Look",
             "\"think\"",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "OK, OK—\"He who hesitates is lost\"... but aren't I supposed to do this before I leap?",
+          "clue": "OK, OK\u2014\"He who hesitates is lost\"... but aren't I supposed to do this before I leap?",
           "choices": [
             "\"think\"",
             "Look",

@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "Bird mentioned in opening line of \"My Blue Heaven\\\"",
+          "clue": "Bird mentioned in opening line of \"My Blue Heaven\"",
           "choices": [
             "Whippoorwill",
             "A nightingale",
@@ -17,9 +17,9 @@
         },
         {
           "value": 400,
-          "clue": "This songs begins \"He rocks in the tree tops all day long, hoppin' and a-boppin' and singing his song\\\"",
+          "clue": "This songs begins \"He rocks in the tree tops all day long, hoppin' and a-boppin' and singing his song\"",
           "choices": [
-            "\\\"Rockin' Robin\\\"",
+            "\"Rockin' Robin\"",
             "\"Surfin' Bird\"",
             "\"When the Red, Red Robin\"",
             "\"Bye Bye Blackbird\""
@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "\\\"I'll raise you like a\" this mythical bird, sang Fall Out Boy, who rhymed it with remix",
+          "clue": "\"I'll raise you like a\" this mythical bird, sang Fall Out Boy, who rhymed it with remix",
           "choices": [
             "A griffin",
             "A dragon",
@@ -42,7 +42,7 @@
           "clue": "In 1977 Steve Miller was in the top 10 with \"Jet Airliner\" & this other song about soaring",
           "choices": [
             "\"Free Bird\"",
-            "\\\"Fly Like An Eagle\\\"",
+            "\"Fly Like An Eagle\"",
             "\"Learning to Fly\"",
             "\"Spread Your Wings\""
           ],
@@ -164,7 +164,7 @@
             "Ido",
             "Esperanto",
             "Interlingua",
-            "Volapük"
+            "Volap\u00fck"
           ],
           "correctIndex": 1
         },
@@ -188,7 +188,7 @@
     "choices": [
       "\"Side to Side\"",
       "\"Problem\"",
-      "\\\"Bang Bang\\\"",
+      "\"Bang Bang\"",
       "\"Super Bass\""
     ],
     "correctIndex": 2

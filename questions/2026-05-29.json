@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "He narrated, no doubt resonantly, the 1972 documentary \"Malcolm X\\\"",
+          "clue": "He narrated, no doubt resonantly, the 1972 documentary \"Malcolm X\"",
           "choices": [
             "James Earl Ray",
             "James Earl Jones",
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "The name of this universal law of cause & effect is Sanskrit for \"deed\\\"",
+          "clue": "The name of this universal law of cause & effect is Sanskrit for \"deed\"",
           "choices": [
             "Dharma",
             "Karma",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "20th CENTURY SPORTS",
-    "clue": "This 1972 newsmaker became the \"King of Amateur Swimming\\\"",
+    "clue": "This 1972 newsmaker became the \"King of Amateur Swimming\"",
     "choices": [
       "Shane Gould",
       "Mark Spitz",

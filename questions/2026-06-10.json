@@ -2,7 +2,7 @@
   "date": "2026-06-10",
   "categories": [
     {
-      "name": "\\\"CON\"s",
+      "name": "\"CON\"s",
       "questions": [
         {
           "value": 200,
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "In 1963 France's Dr. Georges Mathé announced that he had cured a leukemia patient by transplanting this spongy tissue",
+          "clue": "In 1963 France's Dr. Georges Math\u00e9 announced that he had cured a leukemia patient by transplanting this spongy tissue",
           "choices": [
             "The liver",
             "Marrow",

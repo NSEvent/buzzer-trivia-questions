@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "Phenomenon known as \"the white death\\\"",
+          "clue": "Phenomenon known as \"the white death\"",
           "choices": [
             "A blizzard",
             "A mudslide",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "John Ritter's mother, Dorothy Fay, was this man's leading lady in \"Rainbow Over the Range\\\"",
+          "clue": "John Ritter's mother, Dorothy Fay, was this man's leading lady in \"Rainbow Over the Range\"",
           "choices": [
             "Gene Autry",
             "Roy Rogers",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "TOP O' THE CHARTS",
-    "clue": "Her No. 1 hits include \"Again\" & \"Together Again\\\"",
+    "clue": "Her No. 1 hits include \"Again\" & \"Together Again\"",
     "choices": [
       "Janet Jackson",
       "Mariah Carey",

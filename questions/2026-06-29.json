@@ -129,7 +129,7 @@
           "clue": "This delicacy is created by overfeeding geese & depriving them of excercise",
           "choices": [
             "Black truffle",
-            "Pâté de foie gras",
+            "P\u00e2t\u00e9 de foie gras",
             "Beluga caviar",
             "Wagyu beef"
           ],
@@ -163,7 +163,7 @@
           "choices": [
             "Lobster bisque",
             "Lobster Newberg",
-            "Lobster américaine",
+            "Lobster am\u00e9ricaine",
             "Lobster thermidor"
           ],
           "correctIndex": 3
@@ -183,7 +183,7 @@
     }
   ],
   "dailyDouble": {
-    "category": "\\\"LAND\" HO!",
+    "category": "\"LAND\" HO!",
     "clue": "It's New Mexico's nickname",
     "choices": [
       "Land of the Rising Sun",

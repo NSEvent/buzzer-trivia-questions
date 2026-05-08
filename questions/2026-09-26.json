@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "On December 26, 1799 Washington was eulogized in Congress by this man known as \"Lighthorse Harry\\\"",
+          "clue": "On December 26, 1799 Washington was eulogized in Congress by this man known as \"Lighthorse Harry\"",
           "choices": [
             "Thomas Jefferson",
             "Harry Lee",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "SITCOM NEIGHBORS",
-    "clue": "\\\"Hello, Newman\\\"",
+    "clue": "\"Hello, Newman\"",
     "choices": [
       "Cheers",
       "Frasier",

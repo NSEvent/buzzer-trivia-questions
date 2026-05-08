@@ -2,7 +2,7 @@
   "date": "2026-08-31",
   "categories": [
     {
-      "name": "\\\"E\" BAY",
+      "name": "\"E\" BAY",
       "questions": [
         {
           "value": 200,
@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "\\\"The race is not to the swift, nor the battle to the strong\", says chapter 9 of this book of the Bible",
+          "clue": "\"The race is not to the swift, nor the battle to the strong\", says chapter 9 of this book of the Bible",
           "choices": [
             "Proverbs",
             "Song of Solomon",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "SOUNDS LIKE A SANDWICH",
-    "clue": "Nickname of Mr. Carmichael who wrote \"Georgia On My Mind\" & \"Two Sleepy People\\\"",
+    "clue": "Nickname of Mr. Carmichael who wrote \"Georgia On My Mind\" & \"Two Sleepy People\"",
     "choices": [
       "Satchmo",
       "Duke",

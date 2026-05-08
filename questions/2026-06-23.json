@@ -33,7 +33,7 @@
             "\"Ballad of John and Osaka\"",
             "\"Ballad of John and Nagoya\"",
             "\"Ballad of John and Kyoto\"",
-            "\\\"Ballad Of John And Yokohama\\\""
+            "\"Ballad Of John And Yokohama\""
           ],
           "correctIndex": 3
         },
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "Sony president Kaz Hirai said this handheld Playstation console was named for the Latin word for \"life\\\"",
+          "clue": "Sony president Kaz Hirai said this handheld Playstation console was named for the Latin word for \"life\"",
           "choices": [
             "The PSP",
             "The PS Go",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "\\\"J\" WORDS",
+      "name": "\"J\" WORDS",
       "questions": [
         {
           "value": 200,
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "\\\"If you shut up your mug, I'll fill up\" this with \"good ol' mountain dew\\\"",
+          "clue": "\"If you shut up your mug, I'll fill up\" this with \"good ol' mountain dew\"",
           "choices": [
             "Your jar",
             "Your jigger",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "Flotsam's \"friend\\\"",
+          "clue": "Flotsam's \"friend\"",
           "choices": [
             "Lagan",
             "Jetsam",

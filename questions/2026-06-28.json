@@ -66,7 +66,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "\\\"Times Square Angel\" by Charles Busch spoofs \"It's a Wonderful Life\" & also this Dickens holiday classic",
+          "clue": "\"Times Square Angel\" by Charles Busch spoofs \"It's a Wonderful Life\" & also this Dickens holiday classic",
           "choices": [
             "'The Cricket on the Hearth'",
             "'Oliver Twist'",
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "A Rodgers & Hart musical about a man so picky he insists on a heavenly bride is called \"I\" did this \"To An Angel\\\"",
+          "clue": "A Rodgers & Hart musical about a man so picky he insists on a heavenly bride is called \"I\" did this \"To An Angel\"",
           "choices": [
             "Prayed",
             "Spoke",
@@ -130,7 +130,7 @@
           "choices": [
             "'Surfin' USA'",
             "'Good Vibrations'",
-            "\\\"California Girls\\\"",
+            "\"California Girls\"",
             "'Kokomo'"
           ],
           "correctIndex": 2
@@ -142,13 +142,13 @@
             "'Neither One of Us'",
             "'I Heard It Through the Grapevine'",
             "'Help Me Make It Through the Night'",
-            "\\\"Midnight Train to Georgia\\\""
+            "\"Midnight Train to Georgia\""
           ],
           "correctIndex": 3
         },
         {
           "value": 600,
-          "clue": "Alabama: \"If You're Gonna Play In ____ (You Gotta Have A Fiddle In The Band)\\\"",
+          "clue": "Alabama: \"If You're Gonna Play In ____ (You Gotta Have A Fiddle In The Band)\"",
           "choices": [
             "Tennessee",
             "Texas",
@@ -159,18 +159,18 @@
         },
         {
           "value": 800,
-          "clue": "According to a George Strait song, it's \"why I hang my hat in Tennessee\\\"",
+          "clue": "According to a George Strait song, it's \"why I hang my hat in Tennessee\"",
           "choices": [
             "'Amarillo by Morning'",
             "'The Chair'",
             "'Ocean Front Property'",
-            "\\\"All My Ex's Live in Texas\\\""
+            "\"All My Ex's Live in Texas\""
           ],
           "correctIndex": 3
         },
         {
           "value": 1000,
-          "clue": "Faith Hill: \"____ Girl\\\"",
+          "clue": "Faith Hill: \"____ Girl\"",
           "choices": [
             "Alabama",
             "Tennessee",

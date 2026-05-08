@@ -66,7 +66,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "Will Rogers said, \"Everytime I see him work, it looks to me like a bunch of firecrackers going off all at once\\\"",
+          "clue": "Will Rogers said, \"Everytime I see him work, it looks to me like a bunch of firecrackers going off all at once\"",
           "choices": [
             "James Cagney",
             "Edward G. Robinson",
@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "One of the \"12 Angry Men\", he won an Oscar for \"A Thousand Clowns\\\"",
+          "clue": "One of the \"12 Angry Men\", he won an Oscar for \"A Thousand Clowns\"",
           "choices": [
             "Martin Balsam",
             "Lee J. Cobb",

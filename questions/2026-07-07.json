@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "These 2 women were given t-shirts that read \"The Supremes\\\"",
+          "clue": "These 2 women were given t-shirts that read \"The Supremes\"",
           "choices": [
             "Sandra Day O'Connor & Sonia Sotomayor",
             "Sandra Day O'Connor & (Ruth) Ginsburg",
@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "Kicked off by the Russians in October 1957, it's also an adjective meaning \"shiny & modern\\\"",
+          "clue": "Kicked off by the Russians in October 1957, it's also an adjective meaning \"shiny & modern\"",
           "choices": [
             "The Space Age",
             "The Jet Age",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "Mark Twain wrote for the journal The Golden Era before co-writing the 1873 novel titled this \"Age\\\"",
+          "clue": "Mark Twain wrote for the journal The Golden Era before co-writing the 1873 novel titled this \"Age\"",
           "choices": [
             "The Bronze Age",
             "The Golden Age",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "—Hey, Dante! —Yeah, Plutarch! —It's almost 1300. Time to start this \"rebirth\\\"",
+          "clue": "\u2014Hey, Dante! \u2014Yeah, Plutarch! \u2014It's almost 1300. Time to start this \"rebirth\"",
           "choices": [
             "The Reformation",
             "The Renaissance",

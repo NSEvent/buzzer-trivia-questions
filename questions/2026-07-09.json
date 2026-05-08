@@ -39,7 +39,7 @@
         },
         {
           "value": 800,
-          "clue": "Grab your surfboard, rad boy! In Deuteronomy, this sea is referred to as the \"salt sea\\\"",
+          "clue": "Grab your surfboard, rad boy! In Deuteronomy, this sea is referred to as the \"salt sea\"",
           "choices": [
             "The Red Sea",
             "The Sea of Galilee",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "This film from Joel & Ethan Coen was partly based on Homer's \"Odyssey\\\"",
+          "clue": "This film from Joel & Ethan Coen was partly based on Homer's \"Odyssey\"",
           "choices": [
             "O Brother, Where Art Thou",
             "No Country for Old Men",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "SISTERS",
-    "clue": "1 of 2 actresses who played sisters & sang \"Sisters\" in the movie \"White Christmas\\\"",
+    "clue": "1 of 2 actresses who played sisters & sang \"Sisters\" in the movie \"White Christmas\"",
     "choices": [
       "Rosemary Clooney or Vera-Ellen",
       "Doris Day",

@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "Time magazine, on an \"arrogantly huge\" 21st c. model of this: \"Maybe we all shouldn't be driving tanks that get 10 mpg\\\"",
+          "clue": "Time magazine, on an \"arrogantly huge\" 21st c. model of this: \"Maybe we all shouldn't be driving tanks that get 10 mpg\"",
           "choices": [
             "a Ford Expedition",
             "a Chevrolet Suburban",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "Biblical king who \"wrote\" Joseph Heller's \"God Knows\\\"",
+          "clue": "Biblical king who \"wrote\" Joseph Heller's \"God Knows\"",
           "choices": [
             "Solomon",
             "Saul",

@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "This former Eagle won a Grammy for best male vocal performance for \"The Boys of Summer\\\"",
+          "clue": "This former Eagle won a Grammy for best male vocal performance for \"The Boys of Summer\"",
           "choices": [
             "James Taylor",
             "Lionel Richie",
@@ -17,7 +17,7 @@
         },
         {
           "value": 400,
-          "clue": "Paul McCartney had No. 1 duets in the '80s with Michael Jackson on \"Say Say Say\" & this man on \"Ebony And Ivory\\\"",
+          "clue": "Paul McCartney had No. 1 duets in the '80s with Michael Jackson on \"Say Say Say\" & this man on \"Ebony And Ivory\"",
           "choices": [
             "Billy Joel",
             "Paul Simon",
@@ -41,7 +41,7 @@
           "value": 800,
           "clue": "This 1984 Lee Greenwood anthem became a favorite of Ronald Reagan",
           "choices": [
-            "\\\"God Bless The USA\\\"",
+            "\"God Bless The USA\"",
             "God Bless America",
             "Born in the U.S.A.",
             "America the Beautiful"

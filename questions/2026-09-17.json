@@ -17,11 +17,11 @@
         },
         {
           "value": 400,
-          "clue": "The woman in this song by 'Til Tuesday needs to speak up despite what her boyfriend says \"I try so hard not to get upset...\\\"",
+          "clue": "The woman in this song by 'Til Tuesday needs to speak up despite what her boyfriend says \"I try so hard not to get upset...\"",
           "choices": [
             "Bette Davis Eyes",
             "Total Eclipse of the Heart",
-            "\\\"Voices Carry\\\"",
+            "\"Voices Carry\"",
             "Sweet Dreams"
           ],
           "correctIndex": 2
@@ -39,7 +39,7 @@
         },
         {
           "value": 800,
-          "clue": "A 19th c. woman: \"For the theater one needs long arms; an artiste with short arms can never... make a fine gesture\\\"",
+          "clue": "A 19th c. woman: \"For the theater one needs long arms; an artiste with short arms can never... make a fine gesture\"",
           "choices": [
             "Ellen Terry",
             "Eleonora Duse",
@@ -66,7 +66,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "Paprika is an essential ingredient in this popular Hungarian stew, whose name is short for \"herdsman's meat\\\"",
+          "clue": "Paprika is an essential ingredient in this popular Hungarian stew, whose name is short for \"herdsman's meat\"",
           "choices": [
             "Goulash",
             "Paprikash",
@@ -183,7 +183,7 @@
     }
   ],
   "dailyDouble": {
-    "category": "FILE UNDER \"O\\\"",
+    "category": "FILE UNDER \"O\"",
     "clue": "They're like a classical musical; Richard Wagner wrote them",
     "choices": [
       "Oratorio",

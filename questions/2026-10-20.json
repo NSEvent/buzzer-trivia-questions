@@ -8,7 +8,7 @@
           "value": 200,
           "clue": "(Cheryl of the Clue Crew is at the beach.) The birds remind me of this 1970 book by former Air Force pilot Richard Bach",
           "choices": [
-            "\\\"Jonathan Livingston Seagull\\\"",
+            "\"Jonathan Livingston Seagull\"",
             "Moby-Dick",
             "The Old Man and the Sea",
             "The Call of the Wild"
@@ -17,7 +17,7 @@
         },
         {
           "value": 400,
-          "clue": "This \"Iliad\" poet often refers to \"The Wine-Dark Sea\\\"",
+          "clue": "This \"Iliad\" poet often refers to \"The Wine-Dark Sea\"",
           "choices": [
             "Virgil",
             "Hesiod",
@@ -53,7 +53,7 @@
           "clue": "Patrick O'Brian's first novel about Captain Aubrey & Surgeon Stephen Maturin, it's set in the Napoleonic Wars",
           "choices": [
             "Hornblower",
-            "\\\"Master and Commander\\\"",
+            "\"Master and Commander\"",
             "The African Queen",
             "Windship"
           ],
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "Traditional news media are said to be the \"fourth\" this, while nontraditional media are the \"fifth\\\"",
+          "clue": "Traditional news media are said to be the \"fourth\" this, while nontraditional media are the \"fifth\"",
           "choices": [
             "power",
             "branch",

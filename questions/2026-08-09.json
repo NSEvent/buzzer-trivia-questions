@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "In 1862 he told the Confederates, \"No terms except an unconditional and immediate surrender can be accepted\\\"",
+          "clue": "In 1862 he told the Confederates, \"No terms except an unconditional and immediate surrender can be accepted\"",
           "choices": [
             "Lee",
             "Grant",
@@ -17,7 +17,7 @@
         },
         {
           "value": 400,
-          "clue": "In January 1981 this Secretary of State designate said, \"There are worse things than war\\\"",
+          "clue": "In January 1981 this Secretary of State designate said, \"There are worse things than war\"",
           "choices": [
             "(Alexander) Haig",
             "Kissinger",
@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "When he landed on Leyte Island in October 1944, he said, \"The hour of your redemption is here\\\"",
+          "clue": "When he landed on Leyte Island in October 1944, he said, \"The hour of your redemption is here\"",
           "choices": [
             "Bradley",
             "Patton",
@@ -39,7 +39,7 @@
         },
         {
           "value": 800,
-          "clue": "Fritz Hollings, 1983: If the Marines are \"there to fight, then there are far too few. If... there to be killed, there are far too many\\\"",
+          "clue": "Fritz Hollings, 1983: If the Marines are \"there to fight, then there are far too few. If... there to be killed, there are far too many\"",
           "choices": [
             "Iraq",
             "Somalia",
@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "If you're \"throwing\" this, you're not giving someone protection from the Sun—you're dissing them",
+          "clue": "If you're \"throwing\" this, you're not giving someone protection from the Sun\u2014you're dissing them",
           "choices": [
             "Roast",
             "Burn",
@@ -137,9 +137,9 @@
         },
         {
           "value": 400,
-          "clue": "As Andy Grammer mavens know, this phrase used to only mean you were OK; now it can mean \"No thanks\\\"",
+          "clue": "As Andy Grammer mavens know, this phrase used to only mean you were OK; now it can mean \"No thanks\"",
           "choices": [
-            "\\\"I'm good\\\"",
+            "\"I'm good\"",
             "I'm fine",
             "That's okay",
             "No thank you"
@@ -150,7 +150,7 @@
           "value": 600,
           "clue": "Singing this folk & summer camp tune has become a sarcastic phrase for a veneer of brotherhood & co-operation",
           "choices": [
-            "\\\"Kumbaya\\\"",
+            "\"Kumbaya\"",
             "We Shall Overcome",
             "Blowin' in the Wind",
             "Amazing Grace"
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "DROP A LETTER",
-    "clue": "..from a word meaning \"easily bent\"; now you have this word meaning \"legally responsible\\\"",
+    "clue": "..from a word meaning \"easily bent\"; now you have this word meaning \"legally responsible\"",
     "choices": [
       "Answerable",
       "Accountable",

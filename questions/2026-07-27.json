@@ -70,7 +70,7 @@
           "choices": [
             "Mars",
             "Hershey",
-            "Nestlé",
+            "Nestl\u00e9",
             "Cadbury"
           ],
           "correctIndex": 1

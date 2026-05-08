@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "\\\"I have promises to keep, and miles to go before I sleep\\\"",
+          "clue": "\"I have promises to keep, and miles to go before I sleep\"",
           "choices": [
             "Walt Whitman",
             "Emily Dickinson",
@@ -17,7 +17,7 @@
         },
         {
           "value": 400,
-          "clue": "\\\"Then Sally and I saw them run down the hall. We saw those two Things bump their kites on the wall\\\"",
+          "clue": "\"Then Sally and I saw them run down the hall. We saw those two Things bump their kites on the wall\"",
           "choices": [
             "Shel Silverstein",
             "Edward Lear",
@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "\\\"Ay, tear her tattered ensign down! Long has it waved on high...\\\"",
+          "clue": "\"Ay, tear her tattered ensign down! Long has it waved on high...\"",
           "choices": [
             "Henry Wadsworth Longfellow",
             "John Greenleaf Whittier",
@@ -39,7 +39,7 @@
         },
         {
           "value": 800,
-          "clue": "\\\"A knyght ther was, and that a worthy man, that fro the tyme that he first bigan to riden out, he loved chivalrie\\\"",
+          "clue": "\"A knyght ther was, and that a worthy man, that fro the tyme that he first bigan to riden out, he loved chivalrie\"",
           "choices": [
             "(Geoffrey) Chaucer",
             "William Langland",
@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "\\\"In Xanadu did Kubla Khan a stately pleasure dome decree\\\"",
+          "clue": "\"In Xanadu did Kubla Khan a stately pleasure dome decree\"",
           "choices": [
             "William Wordsworth",
             "John Keats",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "name": "\\\"X\" RATED",
+      "name": "\"X\" RATED",
       "questions": [
         {
           "value": 200,
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "Bellamy, Hauteval & Hottinguer were the real last names of the men involved in this late 1790s U.S. diplomatic \"affair\\\"",
+          "clue": "Bellamy, Hauteval & Hottinguer were the real last names of the men involved in this late 1790s U.S. diplomatic \"affair\"",
           "choices": [
             "the XYZ Incident",
             "the XYZ Affair",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "Dr. Seuss created this Oscar-winning cartoon character who made sounds like \"boing\\\"",
+          "clue": "Dr. Seuss created this Oscar-winning cartoon character who made sounds like \"boing\"",
           "choices": [
             "The Grinch",
             "Gerald McBoing-Boing",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "While stealing a Christmas tree, the Grinch sees this little Who, \"who was not more than two\\\"",
+          "clue": "While stealing a Christmas tree, the Grinch sees this little Who, \"who was not more than two\"",
           "choices": [
             "Sally Who",
             "Martha Quill",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "\\\"The Cat in the Hat\" was written in response to the literacy problem discussed in the 1955 book \"Why\" he \"Can't Read\\\"",
+          "clue": "\"The Cat in the Hat\" was written in response to the literacy problem discussed in the 1955 book \"Why\" he \"Can't Read\"",
           "choices": [
             "Johnny",
             "Bobby",

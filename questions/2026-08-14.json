@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "\\\"Always\", \"E.T.\", \"Jurassic Park\\\"",
+          "clue": "\"Always\", \"E.T.\", \"Jurassic Park\"",
           "choices": [
             "Francis Ford Coppola",
             "Steven Spielberg",
@@ -17,7 +17,7 @@
         },
         {
           "value": 400,
-          "clue": "1935: taking \"The 39 Steps\\\"",
+          "clue": "1935: taking \"The 39 Steps\"",
           "choices": [
             "Hitchcock",
             "Roman Polanski",
@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "In 2017, a man unafraid of explosions: \"Transformers: The Last Knight\\\"",
+          "clue": "In 2017, a man unafraid of explosions: \"Transformers: The Last Knight\"",
           "choices": [
             "James Cameron",
             "Quentin Tarantino",
@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "\\\"JFK', \"Talk Radio\", \"Born on the Fourth of July\\\"",
+          "clue": "\"JFK', \"Talk Radio\", \"Born on the Fourth of July\"",
           "choices": [
             "Francis Ford Coppola",
             "Martin Scorsese",
@@ -88,7 +88,7 @@
         },
         {
           "value": 600,
-          "clue": "Born on this island, Giuseppe di Lampedusa chronicled its declining aristocracy in \"The Leopard\\\"",
+          "clue": "Born on this island, Giuseppe di Lampedusa chronicled its declining aristocracy in \"The Leopard\"",
           "choices": [
             "Sardinia",
             "Sicily",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "Whip & hip whip are maneuvers in this sport portrayed in the movie \"Whip It\\\"",
+          "clue": "Whip & hip whip are maneuvers in this sport portrayed in the movie \"Whip It\"",
           "choices": [
             "Roller derby",
             "Ice hockey",

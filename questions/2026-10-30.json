@@ -17,7 +17,7 @@
         },
         {
           "value": 400,
-          "clue": "\\\"Polish\" this is played on a 100-square board, & pieces may move backwards to capture",
+          "clue": "\"Polish\" this is played on a 100-square board, & pieces may move backwards to capture",
           "choices": [
             "backgammon",
             "dominoes",
@@ -77,9 +77,9 @@
         },
         {
           "value": 400,
-          "clue": "Song that says, \"You're the emblem of the land I love\\\"",
+          "clue": "Song that says, \"You're the emblem of the land I love\"",
           "choices": [
-            "\\\"You're A Grand Old Flag\\\"",
+            "\"You're A Grand Old Flag\"",
             "America the Beautiful",
             "God Bless America",
             "The Battle Hymn of the Republic"
@@ -93,26 +93,26 @@
             "Maryland, My Maryland",
             "The Bonnie Blue Flag",
             "Taps",
-            "\\\"Dixie\\\""
+            "\"Dixie\""
           ],
           "correctIndex": 3
         },
         {
           "value": 800,
-          "clue": "This anthem is sung to the tune of the old drinking song \"To Anacreon In Heaven\\\"",
+          "clue": "This anthem is sung to the tune of the old drinking song \"To Anacreon In Heaven\"",
           "choices": [
             "God Bless America",
             "America the Beautiful",
             "My Country 'Tis of Thee",
-            "\\\"The Star-Spangled Banner\\\""
+            "\"The Star-Spangled Banner\""
           ],
           "correctIndex": 3
         },
         {
           "value": 1000,
-          "clue": "In the George M. Cohan song, it's \"the emblem of the land I love\\\"",
+          "clue": "In the George M. Cohan song, it's \"the emblem of the land I love\"",
           "choices": [
-            "\\\"You're A Grand Old Flag\\\"",
+            "\"You're A Grand Old Flag\"",
             "Over There",
             "The Battle Hymn of the Republic",
             "Yankee Doodle"
@@ -126,7 +126,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "1976: \"You talkin' to me? You talkin' to me? You talkin' to me?...\\\"",
+          "clue": "1976: \"You talkin' to me? You talkin' to me? You talkin' to me?...\"",
           "choices": [
             "The Godfather",
             "Chinatown",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "1964: \"Gentlemen, you can't fight in here, this is the war room\\\"",
+          "clue": "1964: \"Gentlemen, you can't fight in here, this is the war room\"",
           "choices": [
             "Dr. No",
             "Fail Safe",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "\\\"You want answers?! ...You want answers?! ...You can't handle the truth!\\\"",
+          "clue": "\"You want answers?! ...You want answers?! ...You can't handle the truth!\"",
           "choices": [
             "The Shawshank Redemption",
             "Witness",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "\\\"Why worry? Each of us is wearing an unlicensed nuclear accelerator on his back\\\"",
+          "clue": "\"Why worry? Each of us is wearing an unlicensed nuclear accelerator on his back\"",
           "choices": [
             "Men in Black",
             "Ghostbusters",
@@ -170,7 +170,7 @@
         },
         {
           "value": 1000,
-          "clue": "\\\"I see dead people\\\"",
+          "clue": "\"I see dead people\"",
           "choices": [
             "The Sixth Sense",
             "The Others",

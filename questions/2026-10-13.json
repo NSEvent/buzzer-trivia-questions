@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "To its members, this faith is called Gurmat, Punjabi for \"way of the guru\\\"",
+          "clue": "To its members, this faith is called Gurmat, Punjabi for \"way of the guru\"",
           "choices": [
             "Buddhism",
             "Sikhism",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "name": "\\\"IF\"FY SONGS",
+      "name": "\"IF\"FY SONGS",
       "questions": [
         {
           "value": 200,
@@ -71,24 +71,24 @@
             "If I Were a Carpenter",
             "If You Love Me (Really Love Me)",
             "If I Had a Hammer",
-            "\\\"If Ever I Would Leave You\\\""
+            "\"If Ever I Would Leave You\""
           ],
           "correctIndex": 3
         },
         {
           "value": 400,
-          "clue": "Circumstances under which \"ev'ry man would be as free as a bird, ev'ry voice would be a voice to be heard\\\"",
+          "clue": "Circumstances under which \"ev'ry man would be as free as a bird, ev'ry voice would be a voice to be heard\"",
           "choices": [
             "If I Can Dream",
             "If I Never Knew You",
             "If the World Should End Tonight",
-            "\\\"If I Ruled The World\\\""
+            "\"If I Ruled The World\""
           ],
           "correctIndex": 3
         },
         {
           "value": 600,
-          "clue": "\\\"We could go on loving in the same old way. A Garden of Eden just made for 2\" under these conditions",
+          "clue": "\"We could go on loving in the same old way. A Garden of Eden just made for 2\" under these conditions",
           "choices": [
             "If you were the only boy in the world",
             "If you were the only girl in the world and I were the only boy",
@@ -104,15 +104,15 @@
             "If I Had a Hammer",
             "If You Go Away",
             "If You Leave Me Now",
-            "\\\"If You Want To Be Happy For The Rest Of Your Life\\\""
+            "\"If You Want To Be Happy For The Rest Of Your Life\""
           ],
           "correctIndex": 3
         },
         {
           "value": 1000,
-          "clue": "Were this true, Tevye the Milkman would own \"1 long staircase just going up & 1 even longer coming down\\\"",
+          "clue": "Were this true, Tevye the Milkman would own \"1 long staircase just going up & 1 even longer coming down\"",
           "choices": [
-            "\\\"If I Were A Rich Man\\\"",
+            "\"If I Were A Rich Man\"",
             "If I Could Turn Back Time",
             "If You Could Read My Mind",
             "If Ever I Would Leave You"
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "SPACE FIRSTS",
-    "clue": "On April 12, 1961 this Russian, the first man in space, said the earth had a \"beautiful blue halo\\\"",
+    "clue": "On April 12, 1961 this Russian, the first man in space, said the earth had a \"beautiful blue halo\"",
     "choices": [
       "Gagarin",
       "Titov",

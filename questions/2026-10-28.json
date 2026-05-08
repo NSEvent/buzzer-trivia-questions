@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "If regular Shredded Wheat is too big for you, you can get it in this \"Size\\\"",
+          "clue": "If regular Shredded Wheat is too big for you, you can get it in this \"Size\"",
           "choices": [
             "Bite Size",
             "Mini Size",
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "In 1987 Bela Lugosi appeared on boxes of this cereal, the first in General Mills' \"Monster Cereals\\\"",
+          "clue": "In 1987 Bela Lugosi appeared on boxes of this cereal, the first in General Mills' \"Monster Cereals\"",
           "choices": [
             "Franken Berry",
             "Boo Berry",
@@ -110,7 +110,7 @@
         },
         {
           "value": 1000,
-          "clue": "Back in 1934 Lou Gehrig was the first athlete to appear on a box of this \"Breakfast of Champions\\\"",
+          "clue": "Back in 1934 Lou Gehrig was the first athlete to appear on a box of this \"Breakfast of Champions\"",
           "choices": [
             "Corn Flakes",
             "Cheerios",

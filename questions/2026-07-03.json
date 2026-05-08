@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "His novels have inspired many movies, beginning with Georges Melies' \"A Trip to the Moon\\\"",
+          "clue": "His novels have inspired many movies, beginning with Georges Melies' \"A Trip to the Moon\"",
           "choices": [
             "Jules Verne",
             "H.G. Wells",
@@ -103,7 +103,7 @@
           "choices": [
             "Carmen",
             "Manon Lescaut",
-            "La Bohème",
+            "La Boh\u00e8me",
             "Madama Butterfly"
           ],
           "correctIndex": 1
@@ -129,7 +129,7 @@
           "clue": "In 1542 Francisco de Orellana began traveling down this river from Ecuador, reaching its mouth on the Atlantic",
           "choices": [
             "The Orinoco",
-            "The Paraná",
+            "The Paran\u00e1",
             "The Rio Negro",
             "The Amazon"
           ],
@@ -162,7 +162,7 @@
           "clue": "In 1824 this Brazilian emperor granted his country a constitution",
           "choices": [
             "Dom Pedro",
-            "Dom João",
+            "Dom Jo\u00e3o",
             "Dom Miguel",
             "Dom Afonso"
           ],
@@ -173,7 +173,7 @@
           "clue": "In 1541 Pedro de Valdivia, a soldier of this Inca conqueror, founded the city of Santiago in Chile",
           "choices": [
             "Pizarro",
-            "Cortés",
+            "Cort\u00e9s",
             "Balboa",
             "De Soto"
           ],

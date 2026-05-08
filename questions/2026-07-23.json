@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "1992: \"You'll laugh, you'll cry, you'll hurl.\\\"",
+          "clue": "1992: \"You'll laugh, you'll cry, you'll hurl.\"",
           "choices": [
             "Bill & Ted's Excellent Adventure",
             "Ace Ventura: Pet Detective",
@@ -17,7 +17,7 @@
         },
         {
           "value": 400,
-          "clue": "\\\"Lather. Rinse. Save the world\" advertised this Adam Sandler comedy",
+          "clue": "\"Lather. Rinse. Save the world\" advertised this Adam Sandler comedy",
           "choices": [
             "Billy Madison",
             "You Don't Mess with the Zohan",
@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "1997: \"Collide with destiny\\\"",
+          "clue": "1997: \"Collide with destiny\"",
           "choices": [
             "The Poseidon Adventure",
             "Waterworld",
@@ -39,7 +39,7 @@
         },
         {
           "value": 800,
-          "clue": "1982 film that showed \"A world inside a computer where man has never been. Never before now\\\"",
+          "clue": "1982 film that showed \"A world inside a computer where man has never been. Never before now\"",
           "choices": [
             "WarGames",
             "The Last Starfighter",
@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "1999: \"Catch her if you can\\\"",
+          "clue": "1999: \"Catch her if you can\"",
           "choices": [
             "Speed",
             "My Best Friend's Wedding",
@@ -128,7 +128,7 @@
           "value": 200,
           "clue": "In November 1986, 5000 ties, 2000 cufflinks & a megaphone were found in this late singer's attic",
           "choices": [
-            "Rudy Vallée",
+            "Rudy Vall\u00e9e",
             "Bing Crosby",
             "Frank Sinatra",
             "Al Jolson"
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "To make it fit the category too, this producer might have named his film \"Saturday Knot Fever\\\"",
+          "clue": "To make it fit the category too, this producer might have named his film \"Saturday Knot Fever\"",
           "choices": [
             "(Robert) Stigwood",
             "(Dino) De Laurentiis",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "\\\"Symphonies Under the Stars\" was the first official season of this amphitheater that was built in 1919",
+          "clue": "\"Symphonies Under the Stars\" was the first official season of this amphitheater that was built in 1919",
           "choices": [
             "The Hollywood Bowl",
             "The Greek Theatre",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "LITERARY HODGEPODGE",
-    "clue": "In 1827 it was finally revealed that this Edinburgh native had written the \"Waverley Novels\\\"",
+    "clue": "In 1827 it was finally revealed that this Edinburgh native had written the \"Waverley Novels\"",
     "choices": [
       "Robert Burns",
       "James Boswell",

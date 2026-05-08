@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "[Hi, I'm Sharon Case] The creators of this daytime soap, which I joined in 1994, first considered calling it \"The Innocent Years\\\"",
+          "clue": "[Hi, I'm Sharon Case] The creators of this daytime soap, which I joined in 1994, first considered calling it \"The Innocent Years\"",
           "choices": [
             "General Hospital",
             "The Young and the Restless",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "This \"X-Files\" star also hosts Showtime's \"Red Shoe Diaries\\\"",
+          "clue": "This \"X-Files\" star also hosts Showtime's \"Red Shoe Diaries\"",
           "choices": [
             "Gillian Anderson",
             "David Duchovny",
@@ -174,7 +174,7 @@
           "choices": [
             "\"Friends\"",
             "\"Frasier\"",
-            "\\\"Suddenly Susan\\\"",
+            "\"Suddenly Susan\"",
             "\"The Nanny\""
           ],
           "correctIndex": 2

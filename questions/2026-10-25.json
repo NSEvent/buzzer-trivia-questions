@@ -6,7 +6,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "\\\"One of these days, Alice, one of these days... pow! Right in the kisser!\\\"",
+          "clue": "\"One of these days, Alice, one of these days... pow! Right in the kisser!\"",
           "choices": [
             "All in the Family",
             "The Dick Van Dyke Show",
@@ -17,7 +17,7 @@
         },
         {
           "value": 400,
-          "clue": "As Arnold Jackson on \"Diff'rent Strokes\", he asked, \"What you talkin' about, Willis?\\\"",
+          "clue": "As Arnold Jackson on \"Diff'rent Strokes\", he asked, \"What you talkin' about, Willis?\"",
           "choices": [
             "Jimi Kibble",
             "Mike Lookinland",
@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "On this game show, answers were checked against what the \"Survey Says!\\\"",
+          "clue": "On this game show, answers were checked against what the \"Survey Says!\"",
           "choices": [
             "Wheel of Fortune",
             "The Price is Right",
@@ -39,7 +39,7 @@
         },
         {
           "value": 800,
-          "clue": "\\\"Nanu, Nanu\" & \"Shazbat\" were Orkan words frequently heard on this sitcom",
+          "clue": "\"Nanu, Nanu\" & \"Shazbat\" were Orkan words frequently heard on this sitcom",
           "choices": [
             "The Munsters",
             "Bewitched",
@@ -50,7 +50,7 @@
         },
         {
           "value": 1000,
-          "clue": "She signed off \"NBC News Overnight\" with \"And so it goes\\\"",
+          "clue": "She signed off \"NBC News Overnight\" with \"And so it goes\"",
           "choices": [
             "Linda Ellerbee",
             "Diane Sawyer",
@@ -159,7 +159,7 @@
         },
         {
           "value": 800,
-          "clue": "South Korea's second-largest auto manufacturer, its 3-letter name means \"rising from Asia\\\"",
+          "clue": "South Korea's second-largest auto manufacturer, its 3-letter name means \"rising from Asia\"",
           "choices": [
             "BMW",
             "Kia",

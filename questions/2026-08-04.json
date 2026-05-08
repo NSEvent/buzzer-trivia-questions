@@ -6,12 +6,12 @@
       "questions": [
         {
           "value": 200,
-          "clue": "Jay-Z joins her on \"Heartbreaker\\\"",
+          "clue": "Jay-Z joins her on \"Heartbreaker\"",
           "choices": [
             "Mariah Carey",
             "Whitney Houston",
             "Janet Jackson",
-            "Beyoncé"
+            "Beyonc\u00e9"
           ],
           "correctIndex": 0
         },
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "name": "\\\"D\" BRIEFING",
+      "name": "\"D\" BRIEFING",
       "questions": [
         {
           "value": 200,
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "This undemocratic type of government comes from the Latin for \"to say\\\"",
+          "clue": "This undemocratic type of government comes from the Latin for \"to say\"",
           "choices": [
             "A dictatorship",
             "A monarchy",

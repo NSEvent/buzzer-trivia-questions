@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "Mom to 3 girls & a boy with Ryan Reynolds, she says family is \"where my heart is\\\"",
+          "clue": "Mom to 3 girls & a boy with Ryan Reynolds, she says family is \"where my heart is\"",
           "choices": [
             "Jessica Biel",
             "Anne Hathaway",
@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "Now extinct, this native of Mauritius is a character in \"Alice's Adventures in Wonderland\\\"",
+          "clue": "Now extinct, this native of Mauritius is a character in \"Alice's Adventures in Wonderland\"",
           "choices": [
             "the moa",
             "the great auk",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "WHAT THE DICKENS!",
-    "clue": "\\\"The Parish Boy's Progress\" is the subtitle of this 1838 novel",
+    "clue": "\"The Parish Boy's Progress\" is the subtitle of this 1838 novel",
     "choices": [
       "David Copperfield",
       "A Tale of Two Cities",

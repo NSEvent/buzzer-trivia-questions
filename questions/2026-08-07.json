@@ -77,7 +77,7 @@
         },
         {
           "value": 400,
-          "clue": "\\\"The Hedge Knight\" is a graphic novel set in the same world as this author's \"A Song of Ice and Fire\\\"",
+          "clue": "\"The Hedge Knight\" is a graphic novel set in the same world as this author's \"A Song of Ice and Fire\"",
           "choices": [
             "Brandon Sanderson",
             "George R.R. Martin",
@@ -99,7 +99,7 @@
         },
         {
           "value": 800,
-          "clue": "Maurice could tell you this other name for a knight is from the French for \"horseman\\\"",
+          "clue": "Maurice could tell you this other name for a knight is from the French for \"horseman\"",
           "choices": [
             "Squire",
             "Esquire",

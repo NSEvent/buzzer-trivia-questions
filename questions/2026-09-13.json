@@ -28,7 +28,7 @@
         },
         {
           "value": 600,
-          "clue": "\\\"All The King's Men\" are not up to the task of reassembling him from his pieces",
+          "clue": "\"All The King's Men\" are not up to the task of reassembling him from his pieces",
           "choices": [
             "Humpty Dumpty",
             "Jack Sprat",
@@ -137,7 +137,7 @@
         },
         {
           "value": 400,
-          "clue": "In 1979 Pink Floyd released an album called \"The Wall\", & he had one called \"Off the Wall\\\"",
+          "clue": "In 1979 Pink Floyd released an album called \"The Wall\", & he had one called \"Off the Wall\"",
           "choices": [
             "Prince",
             "Michael Jackson",

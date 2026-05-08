@@ -66,7 +66,7 @@
       "questions": [
         {
           "value": 200,
-          "clue": "The top producer of broilers in the U.S., this \"Razorback\" state turns out over ¾ of a billion annually",
+          "clue": "The top producer of broilers in the U.S., this \"Razorback\" state turns out over \u00be of a billion annually",
           "choices": [
             "Georgia",
             "Alabama",
@@ -186,7 +186,7 @@
     "category": "1988",
     "clue": "On Broadway, \"Carrie\" & \"Chess\" closed quickly, but this musical with Michael Crawford was a hit",
     "choices": [
-      "Les Misérables",
+      "Les Mis\u00e9rables",
       "Phantom Of The Opera",
       "Starlight Express",
       "Miss Saigon"

@@ -2,7 +2,7 @@
   "date": "2026-07-24",
   "categories": [
     {
-      "name": "\\\"O\" THE PLACES YOU'LL GO",
+      "name": "\"O\" THE PLACES YOU'LL GO",
       "questions": [
         {
           "value": 200,
@@ -71,7 +71,7 @@
             "\"Let's Get Physical\"",
             "\"Morning Train\"",
             "\"Xanadu\"",
-            "\\\"Physical\\\""
+            "\"Physical\""
           ],
           "correctIndex": 3
         },
@@ -82,7 +82,7 @@
             "\"Angel Eyes\"",
             "\"Eye of the Tiger\"",
             "\"Eyes of a Stranger\"",
-            "\\\"Bette Davis Eyes\" (or \"Private Eyes\")"
+            "\"Bette Davis Eyes\" (or \"Private Eyes\")"
           ],
           "correctIndex": 3
         },
@@ -92,25 +92,25 @@
           "choices": [
             "\"We Are the World\"",
             "\"Don't They Know It's Christmas\"",
-            "\\\"That's What Friends Are For\\\"",
+            "\"That's What Friends Are For\"",
             "\"Ebony and Ivory\""
           ],
           "correctIndex": 2
         },
         {
           "value": 800,
-          "clue": "This Juice Newton song has been the biggest hit of the '80s to start with a \"Q\\\"",
+          "clue": "This Juice Newton song has been the biggest hit of the '80s to start with a \"Q\"",
           "choices": [
             "\"Quarterflash\"",
             "\"Quicksand\"",
             "\"Questions\"",
-            "\\\"Queen of Hearts\\\""
+            "\"Queen of Hearts\""
           ],
           "correctIndex": 3
         },
         {
           "value": 1000,
-          "clue": "\\\"All Out Of Love\", \"Lost In Love\" & \"The One That You Love\" were 3 hits by this Aussie group",
+          "clue": "\"All Out Of Love\", \"Lost In Love\" & \"The One That You Love\" were 3 hits by this Aussie group",
           "choices": [
             "Men at Work",
             "Air Supply",

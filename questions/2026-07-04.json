@@ -148,7 +148,7 @@
         },
         {
           "value": 600,
-          "clue": "The OED defines this 3-letter word from Mexican Spanish as \"a form of address for a man\\\"",
+          "clue": "The OED defines this 3-letter word from Mexican Spanish as \"a form of address for a man\"",
           "choices": [
             "Ese",
             "'vato'",
@@ -184,7 +184,7 @@
   ],
   "dailyDouble": {
     "category": "LITERARY ____ OF ____",
-    "clue": "This Toni Morrison novel ends, \"If you surrendered to the air, you could ride it\\\"",
+    "clue": "This Toni Morrison novel ends, \"If you surrendered to the air, you could ride it\"",
     "choices": [
       "Beloved",
       "The Bluest Eye",
