@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "\\\"I don't say he's a great man. Willy Loman never made a lot of money\\\"",
           "choices": [
-            "Who is Tennessee Williams?",
-            "Who is Eugene O'Neill?",
-            "Who is Edward Albee?",
-            "What is Arthur Miller (Death of a Salesman)?"
+            "Tennessee Williams",
+            "Eugene O'Neill",
+            "Edward Albee",
+            "Arthur Miller (Death of a Salesman)"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "\\\"WEAF presents Dinner at Brighton Beach starring the Jacob Jerome family...\\\"",
           "choices": [
-            "Who is Arthur Miller?",
-            "Who is Clifford Odets?",
-            "What is Neil Simon (Brighton Beach Memoirs)?",
-            "Who is William Inge?"
+            "Arthur Miller",
+            "Clifford Odets",
+            "Neil Simon (Brighton Beach Memoirs)",
+            "William Inge"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "\\\"Good-by, good-by world. Good-by Grover's Corners... Mama and Papa. Good-by to clocks ticking...\\\"",
           "choices": [
-            "Who is Eugene O'Neill?",
-            "What is Thornton Wilder (Our Town)?",
-            "Who is Maxwell Anderson?",
-            "Who is William Saroyan?"
+            "Eugene O'Neill",
+            "Thornton Wilder (Our Town)",
+            "Maxwell Anderson",
+            "William Saroyan"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "\\\"By George, Eliza, the streets will be strewn with the bodies of men shooting themselves for your sake\\\"",
           "choices": [
-            "Who is Oscar Wilde?",
-            "Who is Henrik Ibsen?",
-            "Who is J.M. Barrie?",
-            "What is (George Bernard) Shaw (in Pygmalion)?"
+            "Oscar Wilde",
+            "Henrik Ibsen",
+            "J.M. Barrie",
+            "(George Bernard) Shaw (in Pygmalion)"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "\\\"I'm not like you. At the end of 'Casablanca' when you lost Ingrid Bergman, weren't you crushed?\\\"",
           "choices": [
-            "Who is Neil Simon?",
-            "Who is Mel Brooks?",
-            "Who is Larry Gelbart?",
-            "What is Woody Allen (in Play It Again, Sam)?"
+            "Neil Simon",
+            "Mel Brooks",
+            "Larry Gelbart",
+            "Woody Allen (in Play It Again, Sam)"
           ],
           "correctIndex": 3
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "The Teamsters Union is formally called an \"International\" one of these",
           "choices": [
-            "What is a federation?",
-            "What is a society?",
-            "What is an alliance?",
-            "What is a brotherhood?"
+            "a federation",
+            "a society",
+            "an alliance",
+            "a brotherhood"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Woodrow Wilson lived to see this organization grow out of the last of his 14 points",
           "choices": [
-            "What is the United Nations?",
-            "What is the World Court?",
-            "What is the International Labor Organization?",
-            "What is the League of Nations?"
+            "the United Nations",
+            "the World Court",
+            "the International Labor Organization",
+            "the League of Nations"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "A mountain pass is home to the \"Christ the Redeemer of the Andes\" statue, symbolizing peace between these 2 countries",
           "choices": [
-            "What are Bolivia and Peru?",
-            "What are Argentina and Bolivia?",
-            "What is Argentina & Chile?",
-            "What are Chile and Peru?"
+            "Bolivia and Peru",
+            "Argentina and Bolivia",
+            "Argentina & Chile",
+            "Chile and Peru"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Woodrow Wilson lived to see this organization grow out of the last of his 14 Points",
           "choices": [
-            "What is the League of Nations?",
-            "What is the United Nations?",
-            "What is the International Labor Organization?",
-            "What is the World Health Organization?"
+            "the League of Nations",
+            "the United Nations",
+            "the International Labor Organization",
+            "the World Health Organization"
           ],
           "correctIndex": 0
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "(Sarah of the Clue Crew, wearing a tool belt, stands in front of a frame house under coustruction.) Habitat for Humanity's program of short international trips is called \"Global\" this",
           "choices": [
-            "What is Reach?",
-            "What is Build?",
-            "What is Shelter?",
-            "What is Village?"
+            "Reach",
+            "Build",
+            "Shelter",
+            "Village"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "\\\"Peter Pan\" is subtitled \"The Boy Who Would Not...\" do this",
           "choices": [
-            "What is fly?",
-            "What is fight?",
-            "What is leave?",
-            "What is Grow Up?"
+            "fly",
+            "fight",
+            "leave",
+            "Grow Up"
           ],
           "correctIndex": 3
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "She tricked the boys in Never Land into shooting down Wendy",
           "choices": [
-            "Who is Tiger Lily?",
-            "What is Tinker Bell?",
-            "Who is Captain Hook?",
-            "Who is Mr. Smee?"
+            "Tiger Lily",
+            "Tinker Bell",
+            "Captain Hook",
+            "Mr. Smee"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "After drinking the poison meant for Peter, this character lies down to wait for the applause",
           "choices": [
-            "Who is Wendy?",
-            "Who is Tiger Lily?",
-            "What is Tinker Bell?",
-            "Who is Peter Pan?"
+            "Wendy",
+            "Tiger Lily",
+            "Tinker Bell",
+            "Peter Pan"
           ],
           "correctIndex": 2
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Leonard Maltin says this studio's 1953 film version was 1st time Peter wasn't played by a girl",
           "choices": [
-            "What is RKO Radio Pictures?",
-            "What is Paramount Pictures?",
-            "What is Walt Disney Productions?",
-            "What is MGM?"
+            "RKO Radio Pictures",
+            "Paramount Pictures",
+            "Walt Disney Productions",
+            "MGM"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Before he died, J.M. Barrie assigned these to the Great Ormond Street Hospital for Children in London",
           "choices": [
-            "What is royalties (copyrights)?",
-            "What are his manuscripts?",
-            "What are the film rights?",
-            "What are the stage rights?"
+            "royalties (copyrights)",
+            "his manuscripts",
+            "the film rights",
+            "the stage rights"
           ],
           "correctIndex": 0
         }
@@ -186,10 +186,10 @@
     "category": "20th CENTURY WRITERS",
     "clue": "As of 1994, 5 of his novels had been filmed, 4 with Helena Bonham Carter, including \"A Room with a View\\\"",
     "choices": [
-      "Who is Henry James?",
-      "What is (E.M.) Forster?",
-      "Who is Thomas Hardy?",
-      "Who is D.H. Lawrence?"
+      "Henry James",
+      "(E.M.) Forster",
+      "Thomas Hardy",
+      "D.H. Lawrence"
     ],
     "correctIndex": 1
   }

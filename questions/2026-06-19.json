@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Midsummer's Eve festivities might include a jaunty dance around one of these",
           "choices": [
-            "What is a maypole?",
-            "What is a bonfire?",
-            "What is a maypole dance?",
-            "What is a harvest wreath?"
+            "a maypole",
+            "a bonfire",
+            "a maypole dance",
+            "a harvest wreath"
           ],
           "correctIndex": 0
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "The Duke of Wellington comes upon an inn in a painting detailing the eve before this battle",
           "choices": [
-            "What is Trafalgar?",
-            "What is Agincourt?",
-            "What is Austerlitz?",
-            "What is Waterloo?"
+            "Trafalgar",
+            "Agincourt",
+            "Austerlitz",
+            "Waterloo"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "After the fall, God's punishment of Eve included the pain of this",
           "choices": [
-            "What is exile?",
-            "What is childbirth?",
-            "What is mortality?",
-            "What is toil?"
+            "exile",
+            "childbirth",
+            "mortality",
+            "toil"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "The mitochondrial Eve theory suggests everyone inherited their mitochondrial this from one woman in Africa",
           "choices": [
-            "What is a genome?",
-            "What is a chromosome?",
-            "What is DNA?",
-            "What is a gene?"
+            "a genome",
+            "a chromosome",
+            "DNA",
+            "a gene"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Eve, & the Adam, ate fruit from the tree called this, which God specifically said not to do",
           "choices": [
-            "What is the Tree of Life?",
-            "What is the Tree of Wisdom?",
-            "What is the Tree of Eden?",
-            "What is the Tree of Knowledge (of Good and Evil)?"
+            "the Tree of Life",
+            "the Tree of Wisdom",
+            "the Tree of Eden",
+            "the Tree of Knowledge (of Good and Evil)"
           ],
           "correctIndex": 3
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "A brolly is one of these\u2014don't leave home without it on a rainy day",
           "choices": [
-            "What is an umbrella?",
-            "What is a raincoat?",
-            "What is a Wellington boot?",
-            "What is a mackintosh?"
+            "an umbrella",
+            "a raincoat",
+            "a Wellington boot",
+            "a mackintosh"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "We fill our cars with gasoline; Brits fill theirs with this",
           "choices": [
-            "What is diesel?",
-            "What is petrol?",
-            "What is fuel?",
-            "What is benzine?"
+            "diesel",
+            "petrol",
+            "fuel",
+            "benzine"
           ],
           "correctIndex": 1
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "While Americans put gas in their cars, the British put in this 6-letter equivalent",
           "choices": [
-            "What is petrol?",
-            "What is diesel?",
-            "What is leaded?",
-            "What is benzol?"
+            "petrol",
+            "diesel",
+            "leaded",
+            "benzol"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "In bangers 'n mash they're what bangers are",
           "choices": [
-            "What is puddings?",
-            "What is kippers?",
-            "What is rashers?",
-            "What is sausages?"
+            "puddings",
+            "kippers",
+            "rashers",
+            "sausages"
           ],
           "correctIndex": 3
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "For sports & working out, you need a good pair of trainers, which are these",
           "choices": [
-            "What is cleats?",
-            "What is (running) shoes?",
-            "What is plimsolls?",
-            "What is wellies?"
+            "cleats",
+            "(running) shoes",
+            "plimsolls",
+            "wellies"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "It can be a group riding exhibition performed to music or a merry-go-round",
           "choices": [
-            "What is a cavalcade?",
-            "What is a caravan?",
-            "What is a cabaret?",
-            "What is carousel?"
+            "a cavalcade",
+            "a caravan",
+            "a cabaret",
+            "carousel"
           ],
           "correctIndex": 3
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Founded by the Mounties, this city in Alberta was named for one Mountie's ancestral home in Scotland",
           "choices": [
-            "What is Camrose?",
-            "What is Cardston?",
-            "What is Calgary?",
-            "What is Cochrane?"
+            "Camrose",
+            "Cardston",
+            "Calgary",
+            "Cochrane"
           ],
           "correctIndex": 2
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "A 10-letter word for a crotchety old miser, not a crotchety old dog",
           "choices": [
-            "What is cantankerous?",
-            "What is curmudgeon?",
-            "What is contrarian?",
-            "What is censorious?"
+            "cantankerous",
+            "curmudgeon",
+            "contrarian",
+            "censorious"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "To move along making loud noises, or to drink a glass of liquid quickly",
           "choices": [
-            "What is to clatter?",
-            "What is to clunk?",
-            "What is to churn?",
-            "What is to chug?"
+            "to clatter",
+            "to clunk",
+            "to churn",
+            "to chug"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "The Holy Grail, or any cup used to hold consecrated wine for the Eucharist",
           "choices": [
-            "What is a ciborium?",
-            "What is a censer?",
-            "What is a chalice?",
-            "What is a cruet?"
+            "a ciborium",
+            "a censer",
+            "a chalice",
+            "a cruet"
           ],
           "correctIndex": 2
         }
@@ -186,10 +186,10 @@
     "category": "ANCIENT BABYLON",
     "clue": "An Oxford researcher says this terraced marvel that helped make Babylon famous was actually in Assyria",
     "choices": [
-      "What is the Hanging Gardens?",
-      "What is the Tower of Babel?",
-      "What is the Ishtar Gate?",
-      "What is the Ziggurat of Ur?"
+      "the Hanging Gardens",
+      "the Tower of Babel",
+      "the Ishtar Gate",
+      "the Ziggurat of Ur"
     ],
     "correctIndex": 0
   }

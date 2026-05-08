@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "It's said \"North by Northwest\" convinced Ian Fleming this man would be the best director for Bond films",
           "choices": [
-            "Who is Billy Wilder?",
-            "Who is John Huston?",
-            "What is Alfred Hitchcock?",
-            "Who is Howard Hawks?"
+            "Billy Wilder",
+            "John Huston",
+            "Alfred Hitchcock",
+            "Howard Hawks"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "In 1981 MGM acquired this large production company for $380 million",
           "choices": [
-            "What is Columbia Pictures?",
-            "What is Paramount Pictures?",
-            "What is United Artists?",
-            "What is Warner Bros.?"
+            "Columbia Pictures",
+            "Paramount Pictures",
+            "United Artists",
+            "Warner Bros."
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Siskel & Ebert agree that this director of \"Taxi Driver\" is the best American director working today",
           "choices": [
-            "Who is Francis Ford Coppola?",
-            "Who is Brian De Palma?",
-            "Who is Steven Spielberg?",
-            "What is Martin Scorsese?"
+            "Francis Ford Coppola",
+            "Brian De Palma",
+            "Steven Spielberg",
+            "Martin Scorsese"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "He observed, \"They let the studio janitor cut 'The Magnificent Ambersons' in my absence\\\"",
           "choices": [
-            "Who is Erich von Stroheim?",
-            "Who is D.W. Griffith?",
-            "What is Orson Welles?",
-            "Who is John Ford?"
+            "Erich von Stroheim",
+            "D.W. Griffith",
+            "Orson Welles",
+            "John Ford"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "1920s & 30s MGM executive on whom F. Scott Fitzgerald based \"The Last Tycoon\\\"",
           "choices": [
-            "Who is Louis B. Mayer?",
-            "Who is David O. Selznick?",
-            "What is Irving Thalberg?",
-            "Who is Samuel Goldwyn?"
+            "Louis B. Mayer",
+            "David O. Selznick",
+            "Irving Thalberg",
+            "Samuel Goldwyn"
           ],
           "correctIndex": 2
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "An EEG is a record of these",
           "choices": [
-            "What is brain waves?",
-            "What are synaptic impulses?",
-            "What are neural firing patterns?",
-            "What are cerebral oscillations?"
+            "brain waves",
+            "synaptic impulses",
+            "neural firing patterns",
+            "cerebral oscillations"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Side of your brain which controls language",
           "choices": [
-            "What is the right side?",
-            "What is the frontal lobe?",
-            "What is the left side?",
-            "What is the cerebellum?"
+            "the right side",
+            "the frontal lobe",
+            "the left side",
+            "the cerebellum"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Only 1 out of 50 is bright enough for membership in this int'l. organization of high I.Q.'s",
           "choices": [
-            "What is Intertel?",
-            "What is Mensa?",
-            "What is the Triple Nine Society?",
-            "What is the Prometheus Society?"
+            "Intertel",
+            "Mensa",
+            "the Triple Nine Society",
+            "the Prometheus Society"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Agonists are drugs that can mimic the activity of these brain chemicals that send impulses across synapses",
           "choices": [
-            "What is neurotransmitters (or dopamines)?",
-            "What are endorphins?",
-            "What are hormones?",
-            "What are synaptic proteins?"
+            "neurotransmitters (or dopamines)",
+            "endorphins",
+            "hormones",
+            "synaptic proteins"
           ],
           "correctIndex": 0
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Geniuses in one area, but mentally deficient in most others",
           "choices": [
-            "What are child prodigies?",
-            "What are polymath scholars?",
-            "What are eccentric geniuses?",
-            "What is idiot savants?"
+            "child prodigies",
+            "polymath scholars",
+            "eccentric geniuses",
+            "idiot savants"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Markings on teeth from a Ukraine site led anthropologists to believe humans first rode these 6,000 years ago",
           "choices": [
-            "What are donkeys?",
-            "What are camels?",
-            "What are oxen?",
-            "What is horses?"
+            "donkeys",
+            "camels",
+            "oxen",
+            "horses"
           ],
           "correctIndex": 3
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "In a prophecy, Isaiah says a cow's calf will lie down with this animal's cub",
           "choices": [
-            "What is a bear cub?",
-            "What is a lion's cub?",
-            "What is a leopard's cub?",
-            "What is a wolf's cub?"
+            "a bear cub",
+            "a lion's cub",
+            "a leopard's cub",
+            "a wolf's cub"
           ],
           "correctIndex": 0
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "The largest animal ever to fly, the quetzalcoatlus was one of these whose 9-letter name means \"wing lizard\\\"",
           "choices": [
-            "What is a plesiosaur?",
-            "What is an archaeopteryx?",
-            "What is pterosaur?",
-            "What is a mosasaur?"
+            "a plesiosaur",
+            "an archaeopteryx",
+            "pterosaur",
+            "a mosasaur"
           ],
           "correctIndex": 2
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "A large game fish is nicknamed the muskie, which is short for this",
           "choices": [
-            "What is a muskellunge?",
-            "What is a walleye?",
-            "What is a northern pike?",
-            "What is a barracuda?"
+            "a muskellunge",
+            "a walleye",
+            "a northern pike",
+            "a barracuda"
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Unlike the common ones of these insects found in your kitchen, the Madagascan one may hiss when disturbed",
           "choices": [
-            "What is a cricket?",
-            "What is a cockroach?",
-            "What is a beetle?",
-            "What is a water bug?"
+            "a cricket",
+            "a cockroach",
+            "a beetle",
+            "a water bug"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "FILM DIRECTORS",
     "clue": "Last name of Jonathan, who directed \"Philadelphia\" & nephew Ted, who directed \"Blow\\\"",
     "choices": [
-      "What is Demme?",
-      "What is Dante?",
-      "What is Donner?",
-      "What is De Palma?"
+      "Demme",
+      "Dante",
+      "Donner",
+      "De Palma"
     ],
     "correctIndex": 0
   }

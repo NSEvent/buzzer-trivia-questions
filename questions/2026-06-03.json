@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "In a Stendhal novel, Julien must choose between joining the army or the church, symbolized by these 2 colors",
           "choices": [
-            "What is the blue and the gold?",
-            "What is the red and the black?",
-            "What is the black and the white?",
-            "What is the blue and the black?"
+            "the blue and the gold",
+            "the red and the black",
+            "the black and the white",
+            "the blue and the black"
           ],
           "correctIndex": 1
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "The title of this John Bunyan work continues, \"From This World to That Which is to Come\\\"",
           "choices": [
-            "What is A Pilgrim's Journey?",
-            "What is A Pilgrim's Path?",
-            "What is A Pilgrim's Progress?",
-            "What is A Pilgrim's Quest?"
+            "A Pilgrim's Journey",
+            "A Pilgrim's Path",
+            "A Pilgrim's Progress",
+            "A Pilgrim's Quest"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Though written in German, a 1980s bestseller about a man with an incredible nose isn't called \"Cologne\" but this",
           "choices": [
-            "What is Fragrance?",
-            "What is Scent?",
-            "What is Perfume?",
-            "What is The Perfumer?"
+            "Fragrance",
+            "Scent",
+            "Perfume",
+            "The Perfumer"
           ],
           "correctIndex": 2
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Karl Ove Knausgaard's 6-volume autobiographical novel is \"Min Kamp\" in Norwegian, this in English",
           "choices": [
-            "What is My Battle?",
-            "What is My Life?",
-            "What is My Story?",
-            "What is My Struggle?"
+            "My Battle",
+            "My Life",
+            "My Story",
+            "My Struggle"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "A line from this book says, \"She killed Miles. And I've got... a black statuette that all that hell was about\\\"",
           "choices": [
-            "What is The Maltese Falcon?",
-            "What is The Big Sleep?",
-            "What is The Thin Man?",
-            "What is Red Harvest?"
+            "The Maltese Falcon",
+            "The Big Sleep",
+            "The Thin Man",
+            "Red Harvest"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Herman Tarnower & Nathan Pritikin rode the bestseller lists with books on doing this",
           "choices": [
-            "What is Dieting?",
-            "What is exercising?",
-            "What is investing?",
-            "What is meditating?"
+            "Dieting",
+            "exercising",
+            "investing",
+            "meditating"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "In February Adolph Dubs, U.S. ambassador to this country was killed, in December, the Soviets invaded",
           "choices": [
-            "What is Iran?",
-            "What is Pakistan?",
-            "What is Afghanistan?",
-            "What is Ethiopia?"
+            "Iran",
+            "Pakistan",
+            "Afghanistan",
+            "Ethiopia"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "On July 17th, he arrived in Miami after fleeing Nicaragua",
           "choices": [
-            "What is Batista?",
-            "What is Somoza?",
-            "What is Noriega?",
-            "What is Duvalier?"
+            "Batista",
+            "Somoza",
+            "Noriega",
+            "Duvalier"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "In December, the price of this precious metal topped $500 per troy ounce for the first time",
           "choices": [
-            "What is gold?",
-            "What is silver?",
-            "What is platinum?",
-            "What is oil?"
+            "gold",
+            "silver",
+            "platinum",
+            "oil"
           ],
           "correctIndex": 0
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Noted falls in 1979 included the Shah of Iran's after 37 years & this space station's after 34,980 orbits",
           "choices": [
-            "What is Salyut 6?",
-            "What is Skylab?",
-            "What is Apollo?",
-            "What is Mir?"
+            "Salyut 6",
+            "Skylab",
+            "Apollo",
+            "Mir"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Yes, my friend, this fictional filly's name means \"little girl\" in Swedish",
           "choices": [
-            "What is Pippi?",
-            "What is Flicka?",
-            "What is Heidi?",
-            "What is Elsa?"
+            "Pippi",
+            "Flicka",
+            "Heidi",
+            "Elsa"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "He's Dr. Dolittle's mythical 2-headed llama-like creature",
           "choices": [
-            "What is pushmi-pullyu?",
-            "What is the crocodile?",
-            "What is the gazelle?",
-            "What is the hippogriff?"
+            "pushmi-pullyu",
+            "the crocodile",
+            "the gazelle",
+            "the hippogriff"
           ],
           "correctIndex": 0
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "If she would keep house, cook, make the beds, wash, sew, & knit, the dwarfs would let her stay",
           "choices": [
-            "What is Cinderella?",
-            "What is Snow White?",
-            "What is Sleeping Beauty?",
-            "What is Rapunzel?"
+            "Cinderella",
+            "Snow White",
+            "Sleeping Beauty",
+            "Rapunzel"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Harriett M. Lothrop called her 1881 book \"Five Little Peppers and How They\" did this",
           "choices": [
-            "What is Played?",
-            "What is Laughed?",
-            "What is Grew?",
-            "What is Lived?"
+            "Played",
+            "Laughed",
+            "Grew",
+            "Lived"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Appropriately, this Andersen heroine had \"eyes as blue as the deepest sea\\\"",
           "choices": [
-            "What is the Snow Queen?",
-            "What is Gerda?",
-            "What is the Little Mermaid?",
-            "What is Thumbelina?"
+            "the Snow Queen",
+            "Gerda",
+            "the Little Mermaid",
+            "Thumbelina"
           ],
           "correctIndex": 2
         }
@@ -186,10 +186,10 @@
     "category": "TEENS OF THE PAST",
     "clue": "In his teens this Elizabethan courtier from Devon fought on the Huguenot side in France's wars of religion",
     "choices": [
-      "Who is Sir Francis Drake?",
-      "Who is Sir Philip Sidney?",
-      "Who is Sir Francis Bacon?",
-      "What is Sir Walter Raleigh?"
+      "Sir Francis Drake",
+      "Sir Philip Sidney",
+      "Sir Francis Bacon",
+      "Sir Walter Raleigh"
     ],
     "correctIndex": 3
   }

@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "The feet of this arctic ursine creature are partly webbed & have hairy soles to help with traction",
           "choices": [
-            "What is polar bear?",
-            "What is a grizzly bear?",
-            "What is a walrus?",
-            "What is an Arctic fox?"
+            "polar bear",
+            "a grizzly bear",
+            "a walrus",
+            "an Arctic fox"
           ],
           "correctIndex": 0
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "This female ice skater lent her name to a wedge haircut she made popular during the 1976 Winter Olympics",
           "choices": [
-            "Who is Peggy Fleming?",
-            "Who is Katarina Witt?",
-            "Who is Janet Lynn?",
-            "What is Dorothy Hamill?"
+            "Peggy Fleming",
+            "Katarina Witt",
+            "Janet Lynn",
+            "Dorothy Hamill"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Dudes, it's the \"fishy\" hairstyle worn by David Spade in \"Joe Dirt\\\"",
           "choices": [
-            "What is the mohawk?",
-            "What is the mullet?",
-            "What is the fauxhawk?",
-            "What is the pompadour?"
+            "the mohawk",
+            "the mullet",
+            "the fauxhawk",
+            "the pompadour"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "There are bird-eating & trap door varieties in this hairy spider family",
           "choices": [
-            "What is a wolf spider?",
-            "What is a funnel-web spider?",
-            "What is a jumping spider?",
-            "What is tarantula?"
+            "a wolf spider",
+            "a funnel-web spider",
+            "a jumping spider",
+            "tarantula"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "From the Latin for \"to clip\", it's the shaved patch on the crowns of the heads of some monks",
           "choices": [
-            "What is a cowl?",
-            "What is a wimple?",
-            "What is tonsure?",
-            "What is a cilice?"
+            "a cowl",
+            "a wimple",
+            "tonsure",
+            "a cilice"
           ],
           "correctIndex": 2
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Tocantins, Madeira, Rio Negro",
           "choices": [
-            "What is the Amazon?",
-            "What is the Nile?",
-            "What is the Congo?",
-            "What is the Orinoco?"
+            "the Amazon",
+            "the Nile",
+            "the Congo",
+            "the Orinoco"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Moselle, Main, Neckar",
           "choices": [
-            "What is the Danube?",
-            "What is the Elbe?",
-            "What is the Rhine?",
-            "What is the Seine?"
+            "the Danube",
+            "the Elbe",
+            "the Rhine",
+            "the Seine"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Parma, Trebbia, Ticino",
           "choices": [
-            "What is the Arno?",
-            "What is the Tiber?",
-            "What is the Po?",
-            "What is the Adige?"
+            "the Arno",
+            "the Tiber",
+            "the Po",
+            "the Adige"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Nam Ca Dinh, Songkhram, Mun",
           "choices": [
-            "What is the Irrawaddy?",
-            "What is the Mekong?",
-            "What is the Chao Phraya?",
-            "What is the Yangtze?"
+            "the Irrawaddy",
+            "the Mekong",
+            "the Chao Phraya",
+            "the Yangtze"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Big Salmon, Pelly, Klondike",
           "choices": [
-            "What is the Mackenzie?",
-            "What is the Yukon?",
-            "What is the Columbia?",
-            "What is the Fraser?"
+            "the Mackenzie",
+            "the Yukon",
+            "the Columbia",
+            "the Fraser"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "This current world leader studied physics at the University of Leipzig",
           "choices": [
-            "Who is Theresa May?",
-            "What is Angela Merkel?",
-            "Who is Christine Lagarde?",
-            "Who is Ursula von der Leyen?"
+            "Theresa May",
+            "Angela Merkel",
+            "Christine Lagarde",
+            "Ursula von der Leyen"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "In 1919 Lady Astor became the first woman to take a seat in this body & kept the chair until 1945",
           "choices": [
-            "What is the House of Lords?",
-            "What is House of Commons?",
-            "What is the Senate?",
-            "What is the European Parliament?"
+            "the House of Lords",
+            "House of Commons",
+            "the Senate",
+            "the European Parliament"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "We're big fans of this 1892 Oscar Wilde title character who has some serious mother issues",
           "choices": [
-            "Who is Lady Bracknell?",
-            "Who is Lady Chiltern?",
-            "Who is Lady Markby?",
-            "What is Lady Windermere?"
+            "Lady Bracknell",
+            "Lady Chiltern",
+            "Lady Markby",
+            "Lady Windermere"
           ],
           "correctIndex": 3
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "The death sentence for treason had been suspended in 1553 for this lady\u2014a teen, really\u2014but after dad rebelled in '54... not so much",
           "choices": [
-            "Who is Mary Queen of Scots?",
-            "Who is Anne Boleyn?",
-            "Who is Lady Catherine Howard?",
-            "What is Lady Jane Grey?"
+            "Mary Queen of Scots",
+            "Anne Boleyn",
+            "Lady Catherine Howard",
+            "Lady Jane Grey"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Books by this Italian educator whose name is on many schools include \"The Absorbent Mind\\\"",
           "choices": [
-            "Who is Anna Freud?",
-            "What is (Maria) Montessori?",
-            "Who is Charlotte Mason?",
-            "Who is Loris Malaguzzi?"
+            "Anna Freud",
+            "(Maria) Montessori",
+            "Charlotte Mason",
+            "Loris Malaguzzi"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "U.S. BODIES OF WATER",
     "clue": "Islands lying within this California bay include Treasure Island & Yerba Buena",
     "choices": [
-      "What is Monterey Bay?",
-      "What is San Francisco Bay?",
-      "What is San Diego Bay?",
-      "What is Santa Monica Bay?"
+      "Monterey Bay",
+      "San Francisco Bay",
+      "San Diego Bay",
+      "Santa Monica Bay"
     ],
     "correctIndex": 1
   }

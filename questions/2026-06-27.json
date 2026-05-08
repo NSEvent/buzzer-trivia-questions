@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "John 11:17 notes, \"He had lain in the grave four days already\", but with Jesus' help he makes a comeback",
           "choices": [
-            "What is Lazarus?",
-            "Who is Lazarus of Bethany's brother Simon?",
-            "Who is Jairus?",
-            "Who is the rich man Dives?"
+            "Lazarus",
+            "Lazarus of Bethany's brother Simon",
+            "Jairus",
+            "the rich man Dives"
           ],
           "correctIndex": 0
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "After Jesus \"was risen early the first day of the week\" in Mark 16, \"he appeared first to\" her",
           "choices": [
-            "Who is Mary, the mother of Jesus?",
-            "Who is Martha?",
-            "What is Mary Magdalene?",
-            "Who is Salome?"
+            "Mary, the mother of Jesus",
+            "Martha",
+            "Mary Magdalene",
+            "Salome"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Nearing the end, Jesus receives the vinegar in John 19, says, \"It is finished\", then \"bowed his head, and gave up\" this",
           "choices": [
-            "What is his spirit?",
-            "What is his soul?",
-            "What is the ghost?",
-            "What is his life?"
+            "his spirit",
+            "his soul",
+            "the ghost",
+            "his life"
           ],
           "correctIndex": 2
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "What we have here is a successful communication; Paul Newman got an Academy Award nomination for this 1967 film",
           "choices": [
-            "What is Butch Cassidy and the Sundance Kid?",
-            "What is Hud?",
-            "What is The Verdict?",
-            "What is Cool Hand Luke?"
+            "Butch Cassidy and the Sundance Kid",
+            "Hud",
+            "The Verdict",
+            "Cool Hand Luke"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Matthew 6 says do not do this in public, but \"to thy Father...in secret; and thy Father which seeth in secret shall reward thee\\\"",
           "choices": [
-            "What is fast?",
-            "What is give alms?",
-            "What is worship?",
-            "What is pray?"
+            "fast",
+            "give alms",
+            "worship",
+            "pray"
           ],
           "correctIndex": 3
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "The April 9, 2005 wedding of these 2 people was the topic of \"Bride of Chucky\\\"",
           "choices": [
-            "Who are Brad Pitt & Jennifer Aniston?",
-            "Who are Tom Cruise & Katie Holmes?",
-            "What is Prince Charles & Camilla?",
-            "Who are Bill & Hillary Clinton?"
+            "Brad Pitt & Jennifer Aniston",
+            "Tom Cruise & Katie Holmes",
+            "Prince Charles & Camilla",
+            "Bill & Hillary Clinton"
           ],
           "correctIndex": 2
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "The sands haven't run out for \"DOOL\", this soap that celebrated 50 years in 2015",
           "choices": [
-            "What is General Hospital?",
-            "What is The Young and the Restless?",
-            "What is As the World Turns?",
-            "What is The Days of Our Lives?"
+            "General Hospital",
+            "The Young and the Restless",
+            "As the World Turns",
+            "The Days of Our Lives"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "A White House man's involvement in the outing of this woman as a CIA agent was presented as \"Rove Actually\\\"",
           "choices": [
-            "What is Valerie Plame?",
-            "Who is Judith Miller?",
-            "Who is Scooter Libby?",
-            "Who is Condoleezza Rice?"
+            "Valerie Plame",
+            "Judith Miller",
+            "Scooter Libby",
+            "Condoleezza Rice"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "\\\"Deconstructing Harriet\" broke down her Supreme Court nomination (before it broke down)",
           "choices": [
-            "Who is Sandra Day O'Connor?",
-            "Who is Ruth Bader Ginsburg?",
-            "What is Harriet Miers?",
-            "Who is Elena Kagan?"
+            "Sandra Day O'Connor",
+            "Ruth Bader Ginsburg",
+            "Harriet Miers",
+            "Elena Kagan"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "She's hosted the Oscars twice, in 2007 & 2014, & her own daily talk show since 2003",
           "choices": [
-            "Who is Whoopi Goldberg?",
-            "Who is Tina Fey?",
-            "Who is Oprah Winfrey?",
-            "What is Ellen DeGeneres?"
+            "Whoopi Goldberg",
+            "Tina Fey",
+            "Oprah Winfrey",
+            "Ellen DeGeneres"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Jim Croce described him as the \"baddest man in the whole damn town\\\"",
           "choices": [
-            "Who is Billy the Kid?",
-            "What is Leroy Brown?",
-            "Who is Big John?",
-            "Who is Bad Bad Hank McCoy?"
+            "Billy the Kid",
+            "Leroy Brown",
+            "Big John",
+            "Bad Bad Hank McCoy"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Duane Eddy & \"The Art of Noise\" turned this late '50s Hank Mancini TV theme into a 1986 dance hit",
           "choices": [
-            "What is \"Hawaii Five-O\"?",
-            "What is \"Dragnet\"?",
-            "What is \"Secret Agent Man\"?",
-            "What is \\\"Peter Gunn\\\"?"
+            "\"Hawaii Five-O\"",
+            "\"Dragnet\"",
+            "\"Secret Agent Man\"",
+            "\\\"Peter Gunn\\\""
           ],
           "correctIndex": 3
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Tho she told Jay & the Americans, \"Come a little bit closer\", the girl \"belonged to that man\\\"",
           "choices": [
-            "What is Jose?",
-            "Who is Pedro?",
-            "Who is Miguel?",
-            "Who is Rico?"
+            "Jose",
+            "Pedro",
+            "Miguel",
+            "Rico"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Concludes stanza that begins, \"with drums & guns, & guns & drums the enemy nearly slew ye\\\"",
           "choices": [
-            "Who is Danny boy?",
-            "Who is Billy the brave?",
-            "What is Johnny I hardly knew ya?",
-            "Who is Tommy I miss you?"
+            "Danny boy",
+            "Billy the brave",
+            "Johnny I hardly knew ya",
+            "Tommy I miss you"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "It was 1965 when the Ad Libs originally asked \"cool cool kitty\" to \"tell us about\" this boy",
           "choices": [
-            "What is The Boy from Ipanema?",
-            "What is The Boy on the Corner?",
-            "What is The Boy from Manhattan?",
-            "What is The Boy from New York City?"
+            "The Boy from Ipanema",
+            "The Boy on the Corner",
+            "The Boy from Manhattan",
+            "The Boy from New York City"
           ],
           "correctIndex": 3
         }
@@ -186,10 +186,10 @@
     "category": "THE BRITISH INVASION",
     "clue": "This group made a film as well as a hit song called \"Ferry Cross The Mersey\\\"",
     "choices": [
-      "Who are The Searchers?",
-      "Who are The Hollies?",
-      "Who are Freddie and the Dreamers?",
-      "What is Gerry and the Pacemakers?"
+      "The Searchers",
+      "The Hollies",
+      "Freddie and the Dreamers",
+      "Gerry and the Pacemakers"
     ],
     "correctIndex": 3
   },
@@ -197,10 +197,10 @@
     "category": "WAR",
     "clue": "Austerlitz was one of the major battles in the wars named for this man",
     "choices": [
-      "Who is Wellington?",
-      "Who is Bismarck?",
-      "What is Napoleon?",
-      "Who is Hannibal?"
+      "Wellington",
+      "Bismarck",
+      "Napoleon",
+      "Hannibal"
     ],
     "correctIndex": 2
   }

@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Jefferson, Scotts Bluff, Platte",
           "choices": [
-            "What is Colorado?",
-            "What is Wyoming?",
-            "What is Missouri?",
-            "What is Nebraska?"
+            "Colorado",
+            "Wyoming",
+            "Missouri",
+            "Nebraska"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Coffey, Bourbon, Archinson",
           "choices": [
-            "What is Missouri?",
-            "What is Kansas?",
-            "What is Nebraska?",
-            "What is Oklahoma?"
+            "Missouri",
+            "Kansas",
+            "Nebraska",
+            "Oklahoma"
           ],
           "correctIndex": 1
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Dauphin, Lackawanna, Susquehanna",
           "choices": [
-            "What is New York?",
-            "What is Pennsylvania?",
-            "What is Virginia?",
-            "What is Ohio?"
+            "New York",
+            "Pennsylvania",
+            "Virginia",
+            "Ohio"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Hill, Big Horn, Custer",
           "choices": [
-            "What is Montana?",
-            "What is Wyoming?",
-            "What is Idaho?",
-            "What is Colorado?"
+            "Montana",
+            "Wyoming",
+            "Idaho",
+            "Colorado"
           ],
           "correctIndex": 0
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Pulaski, Pope, Champaign",
           "choices": [
-            "What is Indiana?",
-            "What is Missouri?",
-            "What is Illinois?",
-            "What is Iowa?"
+            "Indiana",
+            "Missouri",
+            "Illinois",
+            "Iowa"
           ],
           "correctIndex": 2
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "The clue I am reading had an example of a shift in this",
           "choices": [
-            "What is voice?",
-            "What is mood?",
-            "What is tense?",
-            "What is aspect?"
+            "voice",
+            "mood",
+            "tense",
+            "aspect"
           ],
           "correctIndex": 2
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Its the typographical mark that is missing in the first line of this clue.",
           "choices": [
-            "What is a comma?",
-            "What is a hyphen?",
-            "What is a semicolon?",
-            "What is apostrophe (in \"Its\")?"
+            "a comma",
+            "a hyphen",
+            "a semicolon",
+            "apostrophe (in \"Its\")"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "In a sentence, this noun & its verb has \u2014 excuse me, have to agree in number",
           "choices": [
-            "What is the predicate?",
-            "What is subject?",
-            "What is the object?",
-            "What is the clause?"
+            "the predicate",
+            "subject",
+            "the object",
+            "the clause"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "In a sentence, this noun & its verb has\u2014excuse me, have to agree in number",
           "choices": [
-            "What is the predicate?",
-            "What is the subject?",
-            "What is the object?",
-            "What is the clause?"
+            "the predicate",
+            "the subject",
+            "the object",
+            "the clause"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "8-letter term for a \"sentence\" error. Found in the present clue.",
           "choices": [
-            "What is a run-on?",
-            "What is a splice?",
-            "What is a fragment?",
-            "What is a modifier?"
+            "a run-on",
+            "a splice",
+            "a fragment",
+            "a modifier"
           ],
           "correctIndex": 2
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "In 1479 this husband & wife (& cousin) team became king & queen of Aragon",
           "choices": [
-            "Who are Philip and Mary?",
-            "Who are Charles and Catherine?",
-            "What is Ferdinand and Isabelle?",
-            "Who are Henry and Eleanor?"
+            "Philip and Mary",
+            "Charles and Catherine",
+            "Ferdinand and Isabelle",
+            "Henry and Eleanor"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "This man married Betsy Griscom of Philadelphia in 1773, perhaps due to her skill with a needle & thread",
           "choices": [
-            "What is (John) Ross?",
-            "Who is George Washington?",
-            "Who is Benjamin Franklin?",
-            "Who is Paul Revere?"
+            "(John) Ross",
+            "George Washington",
+            "Benjamin Franklin",
+            "Paul Revere"
           ],
           "correctIndex": 0
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "From the Latin for \"sharer\", it was Prince Albert's title as Queen Victoria's spouse",
           "choices": [
-            "What is Consort?",
-            "What is Regent?",
-            "What is Consort Prince?",
-            "What is Duke Consort?"
+            "Consort",
+            "Regent",
+            "Consort Prince",
+            "Duke Consort"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "This leader & his first wife Evelyn were married from 1944 until she told him, it's the ANC or me!",
           "choices": [
-            "Who is Castro?",
-            "Who is Mugabe?",
-            "What is Mandela?",
-            "Who is Nkrumah?"
+            "Castro",
+            "Mugabe",
+            "Mandela",
+            "Nkrumah"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Appropriately, \"Giulietta Degli Spiriti\" was one of Giulietta Masina's films with this director husband",
           "choices": [
-            "Who is Ingmar Bergman?",
-            "What is Federico Fellini?",
-            "Who is Roberto Rossellini?",
-            "Who is Luchino Visconti?"
+            "Ingmar Bergman",
+            "Federico Fellini",
+            "Roberto Rossellini",
+            "Luchino Visconti"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "LAST NAME'S THE SAME",
     "clue": "U.K. Labour prime minister Harold & rocker Nancy",
     "choices": [
-      "What is Wilson?",
-      "What is Smith?",
-      "What is Brown?",
-      "What is Jones?"
+      "Wilson",
+      "Smith",
+      "Brown",
+      "Jones"
     ],
     "correctIndex": 0
   }

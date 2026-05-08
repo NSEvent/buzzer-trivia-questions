@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "In 1697 Jesuits founded Loreto, the 1st permanent European settlement on this \"lower\" peninsula",
           "choices": [
-            "What is the Yucatan Peninsula?",
-            "What is Alta California?",
-            "What is Baja California?",
-            "What is the Florida Keys?"
+            "the Yucatan Peninsula",
+            "Alta California",
+            "Baja California",
+            "the Florida Keys"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Mount Wilhelm, named for the son of Otto von Bismarck, is the highest peak in this country on New Guinea",
           "choices": [
-            "What is Indonesia?",
-            "What is the Solomon Islands?",
-            "What is Papua New Guinea?",
-            "What is Vanuatu?"
+            "Indonesia",
+            "the Solomon Islands",
+            "Papua New Guinea",
+            "Vanuatu"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "If Lennon played the second-largest Japanese city, it'd be the ballad of John & this",
           "choices": [
-            "What is \"Ballad of John and Osaka\"?",
-            "What is \"Ballad of John and Nagoya\"?",
-            "What is \"Ballad of John and Kyoto\"?",
-            "What is \\\"Ballad Of John And Yokohama\\\"?"
+            "\"Ballad of John and Osaka\"",
+            "\"Ballad of John and Nagoya\"",
+            "\"Ballad of John and Kyoto\"",
+            "\\\"Ballad Of John And Yokohama\\\""
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "The flag of Norfolk Island features the Norfolk this, a conifer that's native to the island",
           "choices": [
-            "What is pine?",
-            "What is an oak?",
-            "What is a palm?",
-            "What is a spruce?"
+            "pine",
+            "an oak",
+            "a palm",
+            "a spruce"
           ],
           "correctIndex": 0
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Chile's Juan Fernandez Islands include Alejandro Selkirk Island & 1 named for this literary character",
           "choices": [
-            "What is Long John Silver?",
-            "What is Robinson Crusoe?",
-            "What is Gulliver?",
-            "What is Captain Ahab?"
+            "Long John Silver",
+            "Robinson Crusoe",
+            "Gulliver",
+            "Captain Ahab"
           ],
           "correctIndex": 1
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "The Philips DSR6000 combines a DirecTV receiver with this brand's TV recording system",
           "choices": [
-            "What is ReplayTV?",
-            "What is VCR?",
-            "What is TiVo?",
-            "What is Betamax?"
+            "ReplayTV",
+            "VCR",
+            "TiVo",
+            "Betamax"
           ],
           "correctIndex": 2
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "The solar bikini uses strips of this \"light current\" film to charge up your iPod while you tan; looks good on me, too",
           "choices": [
-            "What is a photovoltaic strip?",
-            "What is a thermoelectric strip?",
-            "What is a piezoelectric strip?",
-            "What is a photoelectric cell?"
+            "a photovoltaic strip",
+            "a thermoelectric strip",
+            "a piezoelectric strip",
+            "a photoelectric cell"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Sony president Kaz Hirai said this handheld Playstation console was named for the Latin word for \"life\\\"",
           "choices": [
-            "What is the PSP?",
-            "What is the PS Go?",
-            "What is the PS Vita?",
-            "What is the Game Boy?"
+            "the PSP",
+            "the PS Go",
+            "the PS Vita",
+            "the Game Boy"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Despite its name, you don't throw this \"box\", you use it to watch TV anywhere on your laptop, phone or tablet",
           "choices": [
-            "What is the Placeshifter?",
-            "What is the StreamBox?",
-            "What is the TeleBox?",
-            "What is Slingbox?"
+            "the Placeshifter",
+            "the StreamBox",
+            "the TeleBox",
+            "Slingbox"
           ],
           "correctIndex": 3
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "This company's Galaxy Tab 2 is now available for a song",
           "choices": [
-            "What is Apple?",
-            "What is LG?",
-            "What is Samsung?",
-            "What is Sony?"
+            "Apple",
+            "LG",
+            "Samsung",
+            "Sony"
           ],
           "correctIndex": 2
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "One who makes ice cream sodas, whether he's rude or not",
           "choices": [
-            "What is a jerk?",
-            "What is a soda jockey?",
-            "What is a fountain boy?",
-            "What is a mixer?"
+            "a jerk",
+            "a soda jockey",
+            "a fountain boy",
+            "a mixer"
           ],
           "correctIndex": 0
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "To place side by side, as in an unexpected combination of colors or ideas",
           "choices": [
-            "What is a juncture?",
-            "What is a junction?",
-            "What is juxtaposition?",
-            "What is juxtapose?"
+            "a juncture",
+            "a junction",
+            "juxtaposition",
+            "juxtapose"
           ],
           "correctIndex": 2
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "This turnip-shaped veggie is used raw in salads or cooked in stews",
           "choices": [
-            "What is jojoba?",
-            "What is jicama?",
-            "What is jackfruit?",
-            "What is a Jerusalem artichoke?"
+            "jojoba",
+            "jicama",
+            "jackfruit",
+            "a Jerusalem artichoke"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "\\\"If you shut up your mug, I'll fill up\" this with \"good ol' mountain dew\\\"",
           "choices": [
-            "What is your jar?",
-            "What is your jigger?",
-            "What is your flagon?",
-            "What is your jug?"
+            "your jar",
+            "your jigger",
+            "your flagon",
+            "your jug"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Flotsam's \"friend\\\"",
           "choices": [
-            "What is lagan?",
-            "What is jetsam?",
-            "What is derelict?",
-            "What is wreckage?"
+            "lagan",
+            "jetsam",
+            "derelict",
+            "wreckage"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "FINLANDIA",
     "clue": "Finland forms a symbolic N. border between Eastern & Western Europe: to the east is Russia; to the west, these 2 nations",
     "choices": [
-      "What is Norway & Sweden?",
-      "What are Sweden and Denmark?",
-      "What are Norway and Denmark?",
-      "What are Estonia and Sweden?"
+      "Norway & Sweden",
+      "Sweden and Denmark",
+      "Norway and Denmark",
+      "Estonia and Sweden"
     ],
     "correctIndex": 0
   }

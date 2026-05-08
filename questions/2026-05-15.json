@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "From a Kikuyu word for \"white mountain\", it's an east African country & the first name of TV's Barris, creator of \"black-ish\\\"",
           "choices": [
-            "What is Uganda?",
-            "What is Tanzania?",
-            "What is Rwanda?",
-            "What is Kenya?"
+            "Uganda",
+            "Tanzania",
+            "Rwanda",
+            "Kenya"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "The start of the Obama administration brought a doubling of U.S. girls named this Hawaiian form of Mary",
           "choices": [
-            "What is Malia?",
-            "What is Leilani?",
-            "What is Kailani?",
-            "What is Moana?"
+            "Malia",
+            "Leilani",
+            "Kailani",
+            "Moana"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "For the last several years, this name of a Dickens hero has been the most popular boys' name in New South Wales",
           "choices": [
-            "What is Nicholas?",
-            "What is Oliver?",
-            "What is David?",
-            "What is Pip?"
+            "Nicholas",
+            "Oliver",
+            "David",
+            "Pip"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Many boys in Latin America have names of the big archangels: Gabriel, Rafael & this Spanish name",
           "choices": [
-            "What is Manuel?",
-            "What is Marcos?",
-            "What is Miguel?",
-            "What is Mateo?"
+            "Manuel",
+            "Marcos",
+            "Miguel",
+            "Mateo"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "This French version of a girls' name important in the New Testament is also given to boys, like the Marquis de Lafayette",
           "choices": [
-            "What is Ren\u00e9?",
-            "What is Dominique?",
-            "What is Marie?",
-            "What is Claude?"
+            "Ren\u00e9",
+            "Dominique",
+            "Marie",
+            "Claude"
           ],
           "correctIndex": 2
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Smooth meadow grass, or Kentucky this, was brought to our continent from Europe & Asia",
           "choices": [
-            "What is bluegrass?",
-            "What is ryegrass?",
-            "What is fescue?",
-            "What is bermuda grass?"
+            "bluegrass",
+            "ryegrass",
+            "fescue",
+            "bermuda grass"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "This \"crustacean\" lawn weed has tricky stems that can make the plant shed more seed as you mow",
           "choices": [
-            "What is dandelion?",
-            "What is crab grass?",
-            "What is clover?",
-            "What is chickweed?"
+            "dandelion",
+            "crab grass",
+            "clover",
+            "chickweed"
           ],
           "correctIndex": 1
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Wolverines feed on this rodent of Norway, known for its periodic mass migrations that can lead to mass drownings",
           "choices": [
-            "What is lemmings?",
-            "What is voles?",
-            "What is muskrats?",
-            "What is shrews?"
+            "lemmings",
+            "voles",
+            "muskrats",
+            "shrews"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Rock on! This, composed of silicon dioxide, is the most abundant mineral in the continental crust",
           "choices": [
-            "What is quartz?",
-            "What is feldspar?",
-            "What is calcite?",
-            "What is mica?"
+            "quartz",
+            "feldspar",
+            "calcite",
+            "mica"
           ],
           "correctIndex": 0
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Luther Burbank developed the Shasta type of this flower, whose blossoms can measure 4 inches across",
           "choices": [
-            "What is chrysanthemums?",
-            "What is marigolds?",
-            "What is sunflowers?",
-            "What is daisies?"
+            "chrysanthemums",
+            "marigolds",
+            "sunflowers",
+            "daisies"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Of Monsters & Men: \"There's an old voice in my head that's holding me back / Tell her that I miss our ____ ____\\\"",
           "choices": [
-            "What is 'secret dreams'?",
-            "What is 'late nights'?",
-            "What is 'midnight walks'?",
-            "What is \\\"little talks\\\"?"
+            "'secret dreams'",
+            "'late nights'",
+            "'midnight walks'",
+            "\\\"little talks\\\""
           ],
           "correctIndex": 3
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Bruno Mars: \"Treasure, that is what you are, Honey, you're my ____ ____\\\"",
           "choices": [
-            "What is shining light?",
-            "What is golden star?",
-            "What is precious gem?",
-            "What is lucky charm?"
+            "shining light",
+            "golden star",
+            "precious gem",
+            "lucky charm"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Frank Sinatra: \"If I can make it there, I'll make it anywhere, it's up to you\" here",
           "choices": [
-            "What is Chicago, Chicago?",
-            "What is Las Vegas, Las Vegas?",
-            "What is Los Angeles, Los Angeles?",
-            "What is New York, New York?"
+            "Chicago, Chicago",
+            "Las Vegas, Las Vegas",
+            "Los Angeles, Los Angeles",
+            "New York, New York"
           ],
           "correctIndex": 3
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "fun.: \"This is it boys, This is ____ \u2014 What are we waiting for?\\\"",
           "choices": [
-            "What is 'it'?",
-            "What is 'over'?",
-            "What is 'done'?",
-            "What is \\\"war\\\"?"
+            "'it'",
+            "'over'",
+            "'done'",
+            "\\\"war\\\""
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "The White Stripes: \"I'm gonna fight 'em off,\" this military group \"couldn't hold me back\\\"",
           "choices": [
-            "What is a Five Star General?",
-            "What is a Seven Nation Army?",
-            "What is a Thousand Soldier March?",
-            "What is a Ten Man Brigade?"
+            "a Five Star General",
+            "a Seven Nation Army",
+            "a Thousand Soldier March",
+            "a Ten Man Brigade"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "CLASSIC DRAMA SERIES EPISODES",
     "clue": "\\\"The Kahuna\\\"",
     "choices": [
-      "What is Magnum, P.I.?",
-      "What is Hawaii Five-O?",
-      "What is Mannix?",
-      "What is Simon & Simon?"
+      "Magnum, P.I.",
+      "Hawaii Five-O",
+      "Mannix",
+      "Simon & Simon"
     ],
     "correctIndex": 1
   }

@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "In North Central Kentucky, you'll find this county whose name a corn whiskey has made famous",
           "choices": [
-            "What is Woodford?",
-            "What is Nelson?",
-            "What is Bourbon?",
-            "What is Scott?"
+            "Woodford",
+            "Nelson",
+            "Bourbon",
+            "Scott"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Known for a very big bang, this county in New Mexico was organized from parts of Sante Fe & Sandoval counties in 1949",
           "choices": [
-            "What is Socorro?",
-            "What is Sandoval?",
-            "What is Los Alamos?",
-            "What is Otero?"
+            "Socorro",
+            "Sandoval",
+            "Los Alamos",
+            "Otero"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "In the 1940s the New Mexico legislature established this county quite a bit smaller than its neighbors",
           "choices": [
-            "What is Catron?",
-            "What is Los Alamos?",
-            "What is Harding?",
-            "What is De Baca?"
+            "Catron",
+            "Los Alamos",
+            "Harding",
+            "De Baca"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "At least 1,300 men would prefer not to be in this Kansas county; they're in the same-named medium security penitentiary",
           "choices": [
-            "What is Ellsworth?",
-            "What is Wyandotte?",
-            "What is Leavenworth?",
-            "What is Hutchinson?"
+            "Ellsworth",
+            "Wyandotte",
+            "Leavenworth",
+            "Hutchinson"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "O'Brien County, Iowa is a perfect square, this many miles each side for a total of 576 very square miles",
           "choices": [
-            "What is 20?",
-            "What is 24?",
-            "What is 28?",
-            "What is 18?"
+            "20",
+            "24",
+            "28",
+            "18"
           ],
           "correctIndex": 1
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "A registered brand in Little Rock",
           "choices": [
-            "What is a patentennessee?",
-            "What is a brandiana?",
-            "What is a trademarkansas?",
-            "What is a logoklahoma?"
+            "a patentennessee",
+            "a brandiana",
+            "a trademarkansas",
+            "a logoklahoma"
           ],
           "correctIndex": 2
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "A swirling whirlpool in the Lone Star State",
           "choices": [
-            "What is a maelstromaine?",
-            "What is a whirlpoolrado?",
-            "What is a Vortexas?",
-            "What is a cyclonelina?"
+            "a maelstromaine",
+            "a whirlpoolrado",
+            "a Vortexas",
+            "a cyclonelina"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "A trip to see animals in Africa that includes a side visit to Tucson",
           "choices": [
-            "What is safarizona?",
-            "What is a safarida?",
-            "What is a safarolina?",
-            "What is a safarifornia?"
+            "safarizona",
+            "a safarida",
+            "a safarolina",
+            "a safarifornia"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "A Centrum chewable from the \"Gopher State\\\"",
           "choices": [
-            "What is vitaminissippi?",
-            "What is vitaminnesota?",
-            "What is vitamichigan?",
-            "What is vitaminois?"
+            "vitaminissippi",
+            "vitaminnesota",
+            "vitamichigan",
+            "vitaminois"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Eucalyptus-eating marsupial of the state that's home to Huntsville & Mobile",
           "choices": [
-            "What is a koalaska?",
-            "What is koalabama?",
-            "What is a koalahoma?",
-            "What is a koalarida?"
+            "a koalaska",
+            "koalabama",
+            "a koalahoma",
+            "a koalarida"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Hamlet sighed, \"To be or not to be: that is _____\\\"",
           "choices": [
-            "What is the answer?",
-            "What is the problem?",
-            "What is The question?",
-            "What is everything?"
+            "the answer",
+            "the problem",
+            "The question",
+            "everything"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "The Latin \"Ceteris paribus\" means \"Other things being _____\\\"",
           "choices": [
-            "What is constant?",
-            "What is the same?",
-            "What is Equal?",
-            "What is fixed?"
+            "constant",
+            "the same",
+            "Equal",
+            "fixed"
           ],
           "correctIndex": 2
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "The King James Version of Genesis: \"And God said, let there be a ____ in the midst of the waters\\\"",
           "choices": [
-            "What is a light?",
-            "What is a void?",
-            "What is a firmament?",
-            "What is a division?"
+            "a light",
+            "a void",
+            "a firmament",
+            "a division"
           ],
           "correctIndex": 2
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "On court: ____-and-volley",
           "choices": [
-            "What is serve?",
-            "What is chip?",
-            "What is net?",
-            "What is slice?"
+            "serve",
+            "chip",
+            "net",
+            "slice"
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "To the food court!: ____ Caesars",
           "choices": [
-            "What is Little?",
-            "What is Big?",
-            "What is Great?",
-            "What is Baby?"
+            "Little",
+            "Big",
+            "Great",
+            "Baby"
           ],
           "correctIndex": 0
         }
@@ -186,10 +186,10 @@
     "category": "THE ILIAD & THE ODYSSEY",
     "clue": "These 2, a god & a goddess with 6-letter \"A\" names, take the form of vultures to watch Hector challenge the Greeks",
     "choices": [
-      "What is Apollo & Athene?",
-      "Who are Ares & Aphrodite?",
-      "Who are Apollo & Artemis?",
-      "Who are Zeus & Athena?"
+      "Apollo & Athene",
+      "Ares & Aphrodite",
+      "Apollo & Artemis",
+      "Zeus & Athena"
     ],
     "correctIndex": 0
   }

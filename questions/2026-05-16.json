@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "In 1967 Richard Hatcher became the 1st elected black mayor of this steel-producing Indiana city",
           "choices": [
-            "What is South Bend?",
-            "What is Fort Wayne?",
-            "What is Hammond?",
-            "What is Gary?"
+            "South Bend",
+            "Fort Wayne",
+            "Hammond",
+            "Gary"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "In 1871, cartoonist Thomas Nast used this animal as symbol of NYC's corrupt Tammany Hall",
           "choices": [
-            "What is tiger?",
-            "What is a donkey?",
-            "What is an elephant?",
-            "What is a snake?"
+            "tiger",
+            "a donkey",
+            "an elephant",
+            "a snake"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Called the 1st national party in the U.S., it was organized by Alexander Hamilton",
           "choices": [
-            "What is the Democratic-Republicans?",
-            "What is Federalists?",
-            "What is the Whigs?",
-            "What is the Anti-Masonic Party?"
+            "the Democratic-Republicans",
+            "Federalists",
+            "the Whigs",
+            "the Anti-Masonic Party"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Until appointed Defense Secretary, Dick Cheney was this state's only representative in the House",
           "choices": [
-            "What is Wyoming?",
-            "What is Montana?",
-            "What is Idaho?",
-            "What is North Dakota?"
+            "Wyoming",
+            "Montana",
+            "Idaho",
+            "North Dakota"
           ],
           "correctIndex": 0
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "In 1986, Salvador Laurel, already vice-president, was also appointed foreign minister & prime minister of this country",
           "choices": [
-            "What is the Philippines?",
-            "What is Indonesia?",
-            "What is Malaysia?",
-            "What is Thailand?"
+            "the Philippines",
+            "Indonesia",
+            "Malaysia",
+            "Thailand"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Ohio: This redbird",
           "choices": [
-            "What is a bluebird?",
-            "What is a goldfinch?",
-            "What is a cardinal?",
-            "What is a robin?"
+            "a bluebird",
+            "a goldfinch",
+            "a cardinal",
+            "a robin"
           ],
           "correctIndex": 2
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "This pouched state bird of Louisiana has been designated an endangered species in North America",
           "choices": [
-            "What is the pelican?",
-            "What is the egret?",
-            "What is the heron?",
-            "What is the ibis?"
+            "the pelican",
+            "the egret",
+            "the heron",
+            "the ibis"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Texas adopted this mimic as its state bird in 1927; Tennessee mimicked the pick in 1933",
           "choices": [
-            "What is a bluebird?",
-            "What is a mockingbird?",
-            "What is a cardinal?",
-            "What is a meadowlark?"
+            "a bluebird",
+            "a mockingbird",
+            "a cardinal",
+            "a meadowlark"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "This western meadowlark is the state bird of this Cornhusker State",
           "choices": [
-            "What is Kansas?",
-            "What is Nebraska?",
-            "What is Iowa?",
-            "What is South Dakota?"
+            "Kansas",
+            "Nebraska",
+            "Iowa",
+            "South Dakota"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Both Montana & Nebraska have the western type of this bird",
           "choices": [
-            "What is the robin?",
-            "What is the bluebird?",
-            "What is the oriole?",
-            "What is meadowlark?"
+            "the robin",
+            "the bluebird",
+            "the oriole",
+            "meadowlark"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Bob was born in Minnesota with this last name",
           "choices": [
-            "What is Zimmermann?",
-            "What is Ziegler?",
-            "What is Zuckerman?",
-            "What is Zimmerman?"
+            "Zimmermann",
+            "Ziegler",
+            "Zuckerman",
+            "Zimmerman"
           ],
           "correctIndex": 3
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Song that Jann Wenner's magazine ranked the greatest ever",
           "choices": [
-            "What is \\\"Like A Rolling Stone\\\"?",
-            "What is \"Blowin' in the Wind\"?",
-            "What is \"The Times They Are A-Changin'\"?",
-            "What is \"Mr. Tambourine Man\"?"
+            "\\\"Like A Rolling Stone\\\"",
+            "\"Blowin' in the Wind\"",
+            "\"The Times They Are A-Changin'\"",
+            "\"Mr. Tambourine Man\""
           ],
           "correctIndex": 0
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Bob's son, who fronted The Wallflowers",
           "choices": [
-            "Who is Jesse Dylan?",
-            "Who is Samuel Dylan?",
-            "What is Jakob Dylan?",
-            "Who is Desi Dylan?"
+            "Jesse Dylan",
+            "Samuel Dylan",
+            "Jakob Dylan",
+            "Desi Dylan"
           ],
           "correctIndex": 2
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "City Bob made news by not being in December 10, 2016",
           "choices": [
-            "What is Oslo?",
-            "What is London?",
-            "What is Stockholm?",
-            "What is New York?"
+            "Oslo",
+            "London",
+            "Stockholm",
+            "New York"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Folk artist who sang \"Diamonds & Rust\" about her fling with Bob",
           "choices": [
-            "Who is Joni Mitchell?",
-            "What is Joan Baez?",
-            "Who is Judy Collins?",
-            "Who is Mary Travers?"
+            "Joni Mitchell",
+            "Joan Baez",
+            "Judy Collins",
+            "Mary Travers"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "TRUCKIN\\'",
     "clue": "Take this company's Titan to a new frontier",
     "choices": [
-      "What is Toyota?",
-      "What is Nissan?",
-      "What is Ford?",
-      "What is Chevrolet?"
+      "Toyota",
+      "Nissan",
+      "Ford",
+      "Chevrolet"
     ],
     "correctIndex": 1
   },
@@ -197,10 +197,10 @@
     "category": "STATES' LOWEST POINTS",
     "clue": "Idaho's lowest point lies in Nez Perce County along this river",
     "choices": [
-      "What is the Salmon River?",
-      "What is the Snake River?",
-      "What is the Clearwater River?",
-      "What is the Boise River?"
+      "the Salmon River",
+      "the Snake River",
+      "the Clearwater River",
+      "the Boise River"
     ],
     "correctIndex": 1
   }

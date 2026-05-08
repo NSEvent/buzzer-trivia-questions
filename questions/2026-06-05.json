@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "A 2023 movie led to lively debate, e.g. historians: She died when Napoleon was on Elba, not on his way back; Ridley Scott: Shut up",
           "choices": [
-            "Who is Marie Antoinette?",
-            "Who is Catherine the Great?",
-            "Who is Empress Eug\u00e9nie?",
-            "What is Josephine?"
+            "Marie Antoinette",
+            "Catherine the Great",
+            "Empress Eug\u00e9nie",
+            "Josephine"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "From 1350-1830 the crown princes of France were known by this term",
           "choices": [
-            "What is dauphin?",
-            "What is regent?",
-            "What is chevalier?",
-            "What is duc?"
+            "dauphin",
+            "regent",
+            "chevalier",
+            "duc"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "The Vichy regime put these in public schools; the 2004 law banning head-scarves on students also banned large these on chains",
           "choices": [
-            "What is flags?",
-            "What is portraits?",
-            "What is uniforms?",
-            "What is crosses?"
+            "flags",
+            "portraits",
+            "uniforms",
+            "crosses"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "In November 2016 a show by Sting reopened this Paris concert hall 1 year after a terrorist attack",
           "choices": [
-            "What is Le Bataclan?",
-            "What is the Olympia?",
-            "What is the Palais Royal?",
-            "What is the Stade de France?"
+            "Le Bataclan",
+            "the Olympia",
+            "the Palais Royal",
+            "the Stade de France"
           ],
           "correctIndex": 0
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "18th century kings ran up debts of hundreds of millions of these\u2014not as in books, but as in units of silver currency",
           "choices": [
-            "What is livres?",
-            "What are francs?",
-            "What are \u00e9cus?",
-            "What are sous?"
+            "livres",
+            "francs",
+            "\u00e9cus",
+            "sous"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "The term malocclusion refers to the improper meeting of these",
           "choices": [
-            "What is the teeth (they don't line up properly)?",
-            "What are the gums?",
-            "What are the lips?",
-            "What are the jaw joints?"
+            "the teeth (they don't line up properly)",
+            "the gums",
+            "the lips",
+            "the jaw joints"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "All of your blood cells are produced in this soft substance that fills the bones",
           "choices": [
-            "What is marrow?",
-            "What is cartilage?",
-            "What is plasma?",
-            "What is the spleen?"
+            "marrow",
+            "cartilage",
+            "plasma",
+            "the spleen"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Helped by axons & dendrites, nerve cells called these conduct impulses around the body",
           "choices": [
-            "What are synapses?",
-            "What are ganglia?",
-            "What are glial cells?",
-            "What is neurons?"
+            "synapses",
+            "ganglia",
+            "glial cells",
+            "neurons"
           ],
           "correctIndex": 3
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "This flap of cartilage covers the larynx when you swallow so that food doesn't go down your windpipe",
           "choices": [
-            "What is the uvula?",
-            "What is the soft palate?",
-            "What is Epiglottis?",
-            "What is the trachea?"
+            "the uvula",
+            "the soft palate",
+            "Epiglottis",
+            "the trachea"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "This shorter of the two forearm bones is the one on the thumb side",
           "choices": [
-            "What is the ulna?",
-            "What is the radius?",
-            "What is the humerus?",
-            "What is the fibula?"
+            "the ulna",
+            "the radius",
+            "the humerus",
+            "the fibula"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Many Japanese throw Shinto weddings but have funerals in this religion that includes reincarnation",
           "choices": [
-            "What is Buddhism?",
-            "What is Shintoism?",
-            "What is Confucianism?",
-            "What is Taoism?"
+            "Buddhism",
+            "Shintoism",
+            "Confucianism",
+            "Taoism"
           ],
           "correctIndex": 0
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "The former name of this capital city was Edo, which means \"estuary\\\"",
           "choices": [
-            "What is Kyoto?",
-            "What is Osaka?",
-            "What is Hiroshima?",
-            "What is Tokyo?"
+            "Kyoto",
+            "Osaka",
+            "Hiroshima",
+            "Tokyo"
           ],
           "correctIndex": 3
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Stylized singing called yokyoku is featured in this form of theater, Japan's oldest",
           "choices": [
-            "What is Noh?",
-            "What is Kabuki?",
-            "What is Bunraku?",
-            "What is Kyogen?"
+            "Noh",
+            "Kabuki",
+            "Bunraku",
+            "Kyogen"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "This word for a Japanese gangster comes from a losing hand in a card game",
           "choices": [
-            "What is Ronin?",
-            "What is Yakuza?",
-            "What is Samurai?",
-            "What is Shogun?"
+            "Ronin",
+            "Yakuza",
+            "Samurai",
+            "Shogun"
           ],
           "correctIndex": 1
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "As the Library of Congress is the largest U.S. library, this gov't body's library is Japan's largest",
           "choices": [
-            "What is the Emperor?",
-            "What is the Prime Minister?",
-            "What is the Diet?",
-            "What is the Supreme Court?"
+            "the Emperor",
+            "the Prime Minister",
+            "the Diet",
+            "the Supreme Court"
           ],
           "correctIndex": 2
         }
@@ -186,10 +186,10 @@
     "category": "FILE UNDER \"J\\\"",
     "clue": "Joel 3 says the valley of Jehoshaphat was a place of this",
     "choices": [
-      "What is Judgment?",
-      "What is prayer?",
-      "What is battle?",
-      "What is prophecy?"
+      "Judgment",
+      "prayer",
+      "battle",
+      "prophecy"
     ],
     "correctIndex": 0
   }

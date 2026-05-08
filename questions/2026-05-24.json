@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "In meteorology, an okta is a unit used to describe the cloud cover of this fraction of the sky",
           "choices": [
-            "What is 1/4?",
-            "What is 1/2?",
-            "What is 1/8?",
-            "What is 1/6?"
+            "1/4",
+            "1/2",
+            "1/8",
+            "1/6"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Mx. is a title that you can use when referring to someone when you don't know this about them",
           "choices": [
-            "What is their gender?",
-            "What is their age?",
-            "What is their nationality?",
-            "What is their religion?"
+            "their gender",
+            "their age",
+            "their nationality",
+            "their religion"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "It sounds like a meal's last course, but this word is usually paired with \"just\" to describe karmic retribution",
           "choices": [
-            "What is desserts?",
-            "What is deserts?",
-            "What is dues?",
-            "What is fate?"
+            "desserts",
+            "deserts",
+            "dues",
+            "fate"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Make a designer finish for a wall by pressing small stones into this material & you've got depreter",
           "choices": [
-            "What is concrete?",
-            "What is stucco (plaster)?",
-            "What is mortar?",
-            "What is grout?"
+            "concrete",
+            "stucco (plaster)",
+            "mortar",
+            "grout"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "It's a person of great learning in a variety of subjects, though it sounds like only in trig & calculus",
           "choices": [
-            "What is polymath?",
-            "What is a bibliophile?",
-            "What is a dilettante?",
-            "What is a sophist?"
+            "polymath",
+            "a bibliophile",
+            "a dilettante",
+            "a sophist"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "In an April 19, 1951 speech, he gave new life to the well-worn phrase \"Old soldiers never die; they just fade away\\\"",
           "choices": [
-            "Who is Eisenhower?",
-            "What is MacArthur?",
-            "Who is Patton?",
-            "Who is Truman?"
+            "Eisenhower",
+            "MacArthur",
+            "Patton",
+            "Truman"
           ],
           "correctIndex": 1
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "This American Red Cross founder said she'd sometimes teach for free but if paid, \"Never do a man's work for less than a man's pay\\\"",
           "choices": [
-            "Who is Susan B. Anthony?",
-            "What is Clara Barton?",
-            "Who is Florence Nightingale?",
-            "Who is Dorothea Dix?"
+            "Susan B. Anthony",
+            "Clara Barton",
+            "Florence Nightingale",
+            "Dorothea Dix"
           ],
           "correctIndex": 1
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Attributed to this leader of the Soviet Union in the 1970s: \"The trouble with free elections is, you never know who is going to win\\\"",
           "choices": [
-            "Who is Khrushchev?",
-            "Who is Stalin?",
-            "What is Brezhnev?",
-            "Who is Gorbachev?"
+            "Khrushchev",
+            "Stalin",
+            "Brezhnev",
+            "Gorbachev"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "(Tina Weymouth presents the clue.) Talking Heads was still a trio in 1975 when we played our first show, opening for the Ramones at the legendary New York punk club known by this 4-letter name",
           "choices": [
-            "What is CBGB?",
-            "What is Max's?",
-            "What is CBGB?",
-            "What is OMFUG?"
+            "CBGB",
+            "Max's",
+            "CBGB",
+            "OMFUG"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Bow ties and bold talk characterize this newscaster & commentator",
           "choices": [
-            "Who is Anderson Cooper?",
-            "What is Tucker Carlson?",
-            "Who is Bill O'Reilly?",
-            "Who is George Will?"
+            "Anderson Cooper",
+            "Tucker Carlson",
+            "Bill O'Reilly",
+            "George Will"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "15 million Vietnamese live in this river's delta",
           "choices": [
-            "What is the Red River?",
-            "What is the Irrawaddy?",
-            "What is the Yangtze?",
-            "What is the Mekong?"
+            "the Red River",
+            "the Irrawaddy",
+            "the Yangtze",
+            "the Mekong"
           ],
           "correctIndex": 3
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "The Syr Darya, one of central Asia's major rivers, flows through 3 countries whose names end in this syllable",
           "choices": [
-            "What is -abad?",
-            "What is stan?",
-            "What is -baijan?",
-            "What is -ia?"
+            "-abad",
+            "stan",
+            "-baijan",
+            "-ia"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "We've hijacked a view of this huge seaport from its Garden Bridge over Suzhou Creek",
           "choices": [
-            "What is Shanghai?",
-            "What is Hong Kong?",
-            "What is Guangzhou?",
-            "What is Tianjin?"
+            "Shanghai",
+            "Hong Kong",
+            "Guangzhou",
+            "Tianjin"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "This river's most notable tributaries, including the Ravi & Sutlej, are located in the Punjab plain",
           "choices": [
-            "What is the Ganges?",
-            "What is the Indus?",
-            "What is the Brahmaputra?",
-            "What is the Yamuna?"
+            "the Ganges",
+            "the Indus",
+            "the Brahmaputra",
+            "the Yamuna"
           ],
           "correctIndex": 1
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "At Al Qurnah, Iraq, it joins the Euphrates to form the Shatt al Arab",
           "choices": [
-            "What is the Karun?",
-            "What is the Zab?",
-            "What is the Diyala?",
-            "What is Tigris (River)?"
+            "the Karun",
+            "the Zab",
+            "the Diyala",
+            "Tigris (River)"
           ],
           "correctIndex": 3
         }
@@ -186,10 +186,10 @@
     "category": "CAR CULTURE",
     "clue": "Autoweek says the Viper from this car maker is fun, intimidating & flamboyant",
     "choices": [
-      "Who is Chevrolet?",
-      "Who is Ford?",
-      "Who is Ferrari?",
-      "What is Dodge?"
+      "Chevrolet",
+      "Ford",
+      "Ferrari",
+      "Dodge"
     ],
     "correctIndex": 3
   }

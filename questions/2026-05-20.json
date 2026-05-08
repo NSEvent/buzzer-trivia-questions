@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Separated by 8th Avenue, Moynihan Train Hall & this \"stately\" New York City train station operate as one complex",
           "choices": [
-            "What is Grand Central Terminal?",
-            "What is Penn Station?",
-            "What is Union Station?",
-            "What is Pennsylvania Station?"
+            "Grand Central Terminal",
+            "Penn Station",
+            "Union Station",
+            "Pennsylvania Station"
           ],
           "correctIndex": 1
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "President Harding drove the golden spike at Nenana for this state's RR & died on the way home",
           "choices": [
-            "What is Hawaii?",
-            "What is Alaska?",
-            "What is Montana?",
-            "What is Washington?"
+            "Hawaii",
+            "Alaska",
+            "Montana",
+            "Washington"
           ],
           "correctIndex": 1
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "If you want to \"be in\" this, Chicago's official downtown area, use the Quincy & Clark/Lake \"L\" stops",
           "choices": [
-            "What is the Loop?",
-            "What is the Magnificent Mile?",
-            "What is the Gold Coast?",
-            "What is the Near North Side?"
+            "the Loop",
+            "the Magnificent Mile",
+            "the Gold Coast",
+            "the Near North Side"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Monet found inspiration at Gare Saint-Lazare, which connects Paris to le Havre, in this northern region of France",
           "choices": [
-            "What is Normandy?",
-            "What is Brittany?",
-            "What is Burgundy?",
-            "What is Alsace?"
+            "Normandy",
+            "Brittany",
+            "Burgundy",
+            "Alsace"
           ],
           "correctIndex": 0
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "This country's royal trains will take you from a Jain temple city to the Arabian Sea",
           "choices": [
-            "What is Morocco?",
-            "What is Thailand?",
-            "What is India?",
-            "What is Egypt?"
+            "Morocco",
+            "Thailand",
+            "India",
+            "Egypt"
           ],
           "correctIndex": 2
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "It's an old name for a Chinese seaport, or what the Swiss call their states",
           "choices": [
-            "What is Canton?",
-            "What is a province?",
-            "What is a prefecture?",
-            "What is a borough?"
+            "Canton",
+            "a province",
+            "a prefecture",
+            "a borough"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "The main administrative municipality in a U.S. county",
           "choices": [
-            "What is a parish?",
-            "What is a precinct?",
-            "What is a township?",
-            "What is a county seat?"
+            "a parish",
+            "a precinct",
+            "a township",
+            "a county seat"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "It's not the building where I keep my Perrier, it's the elevated tract of ground between 2 drainage areas",
           "choices": [
-            "What is Watershed?",
-            "What is a plateau?",
-            "What is a divide?",
-            "What is a ridge?"
+            "Watershed",
+            "a plateau",
+            "a divide",
+            "a ridge"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "5-letter term for a territory ruled by a duke",
           "choices": [
-            "What is a realm?",
-            "What is a duchy?",
-            "What is a fiefdom?",
-            "What is a march?"
+            "a realm",
+            "a duchy",
+            "a fiefdom",
+            "a march"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "It's a bay formed by a bend in a coastline, like the one \"of Benin\\\"",
           "choices": [
-            "What is a fjord?",
-            "What is a bight?",
-            "What is a strait?",
-            "What is a gulf?"
+            "a fjord",
+            "a bight",
+            "a strait",
+            "a gulf"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "This Rostand verse drama is named for a 17th c. nobleman known for his bold adventures & large nose",
           "choices": [
-            "What is Don Juan?",
-            "What is Le Cid?",
-            "What is Hernani?",
-            "What is Cyrano de Bergerac?"
+            "Don Juan",
+            "Le Cid",
+            "Hernani",
+            "Cyrano de Bergerac"
           ],
           "correctIndex": 3
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Check out this Marlowe work; with Lucifer, Mephistopheles & Beelzebub, it's one hell of a play",
           "choices": [
-            "What is Tamburlaine?",
-            "What is Edward II?",
-            "What is Doctor Faustus?",
-            "What is The Jew of Malta?"
+            "Tamburlaine",
+            "Edward II",
+            "Doctor Faustus",
+            "The Jew of Malta"
           ],
           "correctIndex": 2
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Nora Helmer is a beautiful young mother of 3, a precious plaything for her hubby in this Ibsen drama",
           "choices": [
-            "What is Hedda Gabler?",
-            "What is Ghosts?",
-            "What is A Doll's House?",
-            "What is The Master Builder?"
+            "Hedda Gabler",
+            "Ghosts",
+            "A Doll's House",
+            "The Master Builder"
           ],
           "correctIndex": 2
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "British playwright Tom Taylor wrote this farce that played Ford's Theatre in April 1865",
           "choices": [
-            "What is She Stoops to Conquer?",
-            "What is Our American Cousin?",
-            "What is The Importance of Being Earnest?",
-            "What is The School for Scandal?"
+            "She Stoops to Conquer",
+            "Our American Cousin",
+            "The Importance of Being Earnest",
+            "The School for Scandal"
           ],
           "correctIndex": 1
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "The first act of this Rostand play is set in 1640, at the Hotel de Bourgogne",
           "choices": [
-            "What is Cyrano de Bergerac?",
-            "What is L'Aiglon?",
-            "What is Chantecler?",
-            "What is Cyrano de Bergerac?"
+            "Cyrano de Bergerac",
+            "L'Aiglon",
+            "Chantecler",
+            "Cyrano de Bergerac"
           ],
           "correctIndex": 3
         }
@@ -186,10 +186,10 @@
     "category": "DOCTORED TELEVISION",
     "clue": "Plastic surgeons Sean McNamara & Christian Troy",
     "choices": [
-      "What is Grey's Anatomy?",
-      "What is House?",
-      "What is Nip/Tuck?",
-      "What is Chicago Hope?"
+      "Grey's Anatomy",
+      "House",
+      "Nip/Tuck",
+      "Chicago Hope"
     ],
     "correctIndex": 2
   }

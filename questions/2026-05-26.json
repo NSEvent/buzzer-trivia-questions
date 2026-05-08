@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Gene Tunney, Gene Tierney, Gene Rayburn",
           "choices": [
-            "Who is Gene Tunney?",
-            "Who is Gene Rayburn?",
-            "What is Gene Tierney?",
-            "Who is Gene Wilder?"
+            "Gene Tunney",
+            "Gene Rayburn",
+            "Gene Tierney",
+            "Gene Wilder"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Michael Kidd, Michael Gross, Michael Learned",
           "choices": [
-            "Who is Michael Kidd?",
-            "Who is Michael Gross?",
-            "Who is Michael Caine?",
-            "What is Michael Learned?"
+            "Michael Kidd",
+            "Michael Gross",
+            "Michael Caine",
+            "Michael Learned"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "George Sand, George Sanders, George Santayana",
           "choices": [
-            "What is George Sand?",
-            "Who is George Sanders?",
-            "Who is George Santayana?",
-            "Who is George Eliot?"
+            "George Sand",
+            "George Sanders",
+            "George Santayana",
+            "George Eliot"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Terry Kiser, Terry Moore, Terry-Thomas",
           "choices": [
-            "Who is Terry Kiser?",
-            "What is Terry Moore?",
-            "Who is Terry-Thomas?",
-            "Who is Terry Bradshaw?"
+            "Terry Kiser",
+            "Terry Moore",
+            "Terry-Thomas",
+            "Terry Bradshaw"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Morgan Freeman, Morgan Brittany, Morgan Paull",
           "choices": [
-            "What is Morgan Brittany?",
-            "Who is Morgan Freeman?",
-            "Who is Morgan Paull?",
-            "Who is Morgan Fairchild?"
+            "Morgan Brittany",
+            "Morgan Freeman",
+            "Morgan Paull",
+            "Morgan Fairchild"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Sinatra as a swinger (What a stretch!): \"Come Blow Your ____\\\"",
           "choices": [
-            "What is a trumpet?",
-            "What is a flute?",
-            "What is a tuba?",
-            "What is Horn?"
+            "a trumpet",
+            "a flute",
+            "a tuba",
+            "Horn"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Henry Fonda goes Colonial: \"_____ Along 'The Mohawk\\\"",
           "choices": [
-            "What is March?",
-            "What is Drum?",
-            "What is Drums?",
-            "What is Ride?"
+            "March",
+            "Drum",
+            "Drums",
+            "Ride"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "A string instrument with a secret: \"The Red _____\\\"",
           "choices": [
-            "What is Guitar?",
-            "What is Violin?",
-            "What is Cello?",
-            "What is Bow?"
+            "Guitar",
+            "Violin",
+            "Cello",
+            "Bow"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "A baseball drama: \"Bang the ____ Slowly\\\"",
           "choices": [
-            "What is Drum?",
-            "What is Horn?",
-            "What is Bass?",
-            "What is Bell?"
+            "Drum",
+            "Horn",
+            "Bass",
+            "Bell"
           ],
           "correctIndex": 0
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Bix Biederbecke's bio: \"Young Man With A ____\\\"",
           "choices": [
-            "What is trumpet?",
-            "What is trombone?",
-            "What is Horn?",
-            "What is saxophone?"
+            "trumpet",
+            "trombone",
+            "Horn",
+            "saxophone"
           ],
           "correctIndex": 2
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Crescent, kaiser, Parker House",
           "choices": [
-            "What are biscuits?",
-            "What are croissants?",
-            "What are loaves?",
-            "What is rolls?"
+            "biscuits",
+            "croissants",
+            "loaves",
+            "rolls"
           ],
           "correctIndex": 3
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Red globe, Thompson seedless, Concord",
           "choices": [
-            "What is a berry?",
-            "What is a melon?",
-            "What is a plum?",
-            "What is a grape?"
+            "a berry",
+            "a melon",
+            "a plum",
+            "a grape"
           ],
           "correctIndex": 3
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Bigoli, cavatelli, conchiglie",
           "choices": [
-            "What is pasta?",
-            "What are cheeses?",
-            "What are dumplings?",
-            "What are breads?"
+            "pasta",
+            "cheeses",
+            "dumplings",
+            "breads"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Blood, bockwurst, chorizo",
           "choices": [
-            "What is sausages?",
-            "What are cheeses?",
-            "What are steaks?",
-            "What are stews?"
+            "sausages",
+            "cheeses",
+            "steaks",
+            "stews"
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Button, enoki, chanterelle",
           "choices": [
-            "What are truffles?",
-            "What are ferns?",
-            "What is mushrooms?",
-            "What are lichens?"
+            "truffles",
+            "ferns",
+            "mushrooms",
+            "lichens"
           ],
           "correctIndex": 2
         }
@@ -186,10 +186,10 @@
     "category": "QUOTABLE NOTABLES",
     "clue": "A maxim from Friedrich Nietzsche says, \"What does not kill me, makes me\" this",
     "choices": [
-      "What is wiser?",
-      "What is harder?",
-      "What is stronger?",
-      "What is braver?"
+      "wiser",
+      "harder",
+      "stronger",
+      "braver"
     ],
     "correctIndex": 2
   }

@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Intense small cyclone that blew Dorothy to the Land of Oz",
           "choices": [
-            "What is a hurricane?",
-            "What is a tornado?",
-            "What is a blizzard?",
-            "What is a thunderstorm?"
+            "a hurricane",
+            "a tornado",
+            "a blizzard",
+            "a thunderstorm"
           ],
           "correctIndex": 1
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "In 79 A.D. one of these destroyed the Roman cities of Pompeii & Herculaneum",
           "choices": [
-            "What is an earthquake?",
-            "What is a volcanic eruption?",
-            "What is a tsunami?",
-            "What is a flood?"
+            "an earthquake",
+            "a volcanic eruption",
+            "a tsunami",
+            "a flood"
           ],
           "correctIndex": 1
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Phenomenon known as \"the white death\\\"",
           "choices": [
-            "What is a blizzard?",
-            "What is a mudslide?",
-            "What is a glacier?",
-            "What is an avalanche?"
+            "a blizzard",
+            "a mudslide",
+            "a glacier",
+            "an avalanche"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "The tallest, New Zealand's \"Waimanga\", killed 4 when it last erupted in 1917",
           "choices": [
-            "What is a volcano?",
-            "What is a hot spring?",
-            "What is a geyser?",
-            "What is a fumarole?"
+            "a volcano",
+            "a hot spring",
+            "a geyser",
+            "a fumarole"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Sort of a dry avalanche, it's a fall of earth & rocks down the side of a mountain",
           "choices": [
-            "What is an avalanche?",
-            "What is a landslide?",
-            "What is an earthquake?",
-            "What is a mudslide?"
+            "an avalanche",
+            "a landslide",
+            "an earthquake",
+            "a mudslide"
           ],
           "correctIndex": 1
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "A Plymouth named for this Warner Bros. cartoon character even had the horn sound to match",
           "choices": [
-            "What is Bugs Bunny?",
-            "What is Daffy Duck?",
-            "What is Tweety Bird?",
-            "What is the Road Runner?"
+            "Bugs Bunny",
+            "Daffy Duck",
+            "Tweety Bird",
+            "the Road Runner"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "The 1968 Dart GTS was a muscle car from this maker",
           "choices": [
-            "What is Plymouth?",
-            "What is Dodge?",
-            "What is Chevrolet?",
-            "What is Pontiac?"
+            "Plymouth",
+            "Dodge",
+            "Chevrolet",
+            "Pontiac"
           ],
           "correctIndex": 1
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "(Sarah of the Clue Crew leans over the open hood of a 1970 Plymouth Barracuda.) The 1970 Plymouth Barracuda got some extra muscle from its six-barreled setup of these devices",
           "choices": [
-            "What are pistons?",
-            "What are fuel injectors?",
-            "What is carburetors?",
-            "What are camshafts?"
+            "pistons",
+            "fuel injectors",
+            "carburetors",
+            "camshafts"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "In the '60s Ford named a fastback after this newly opened Alabama speedway",
           "choices": [
-            "What is Daytona?",
-            "What is Darlington?",
-            "What is Bristol?",
-            "What is Talladega?"
+            "Daytona",
+            "Darlington",
+            "Bristol",
+            "Talladega"
           ],
           "correctIndex": 3
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "V-8 engines with major displacement are alliteratively called \"big\" this",
           "choices": [
-            "What is big block?",
-            "What is big bore?",
-            "What is big bang?",
-            "What is big iron?"
+            "big block",
+            "big bore",
+            "big bang",
+            "big iron"
           ],
           "correctIndex": 0
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "No more \"Happy Trails\" for her horse Buttermilk: he's stuffed in a museum",
           "choices": [
-            "Who is Annie Oakley?",
-            "What is Dale Evans?",
-            "Who is Roy Rogers?",
-            "Who is Calamity Jane?"
+            "Annie Oakley",
+            "Dale Evans",
+            "Roy Rogers",
+            "Calamity Jane"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "This star of \"Laura\" was pretty as a picture when she played \"Belle Starr\" in 1941",
           "choices": [
-            "Who is Rita Hayworth?",
-            "What is Gene Tierney?",
-            "Who is Bette Davis?",
-            "Who is Barbara Stanwyck?"
+            "Rita Hayworth",
+            "Gene Tierney",
+            "Bette Davis",
+            "Barbara Stanwyck"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Oh, shoot: Betty Hutton, Geraldine Chaplin & Barbara Stanwyck all played her on film",
           "choices": [
-            "Who is Calamity Jane?",
-            "Who is Belle Starr?",
-            "What is Annie Oakley?",
-            "Who is Buffalo Bill?"
+            "Calamity Jane",
+            "Belle Starr",
+            "Annie Oakley",
+            "Buffalo Bill"
           ],
           "correctIndex": 2
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "She fended off attacking Indians in \"River of No Return\", with a little help from Robert Mitchum",
           "choices": [
-            "Who is Jane Russell?",
-            "What is Marilyn Monroe?",
-            "Who is Lauren Bacall?",
-            "Who is Doris Day?"
+            "Jane Russell",
+            "Marilyn Monroe",
+            "Lauren Bacall",
+            "Doris Day"
           ],
           "correctIndex": 1
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "John Ritter's mother, Dorothy Fay, was this man's leading lady in \"Rainbow Over the Range\\\"",
           "choices": [
-            "Who is Gene Autry?",
-            "Who is Roy Rogers?",
-            "What is Tex Ritter?",
-            "Who is Hopalong Cassidy?"
+            "Gene Autry",
+            "Roy Rogers",
+            "Tex Ritter",
+            "Hopalong Cassidy"
           ],
           "correctIndex": 2
         }
@@ -186,10 +186,10 @@
     "category": "TOP O' THE CHARTS",
     "clue": "Her No. 1 hits include \"Again\" & \"Together Again\\\"",
     "choices": [
-      "What is Janet Jackson?",
-      "Who is Mariah Carey?",
-      "Who is Whitney Houston?",
-      "Who is Madonna?"
+      "Janet Jackson",
+      "Mariah Carey",
+      "Whitney Houston",
+      "Madonna"
     ],
     "correctIndex": 0
   }

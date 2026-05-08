@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "It was introduced to the public in 1935; in the '50s Ernst Haas was one of the first professionals to use it exclusively",
           "choices": [
-            "What is color photography/film?",
-            "What is black and white photography?",
-            "What is daguerreotype?",
-            "What is digital photography?"
+            "color photography/film",
+            "black and white photography",
+            "daguerreotype",
+            "digital photography"
           ],
           "correctIndex": 0
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "This American-born Dadaist was known for his \"cameraless\" pictures, which he called rayographs",
           "choices": [
-            "Who is Marcel Duchamp?",
-            "Who is L\u00e1szl\u00f3 Moholy-Nagy?",
-            "Who is Francis Picabia?",
-            "What is Man Ray?"
+            "Marcel Duchamp",
+            "L\u00e1szl\u00f3 Moholy-Nagy",
+            "Francis Picabia",
+            "Man Ray"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "This Californian's books include \"My Camera in the National Parks\" & \"Parmelian Prints of the High Sierras\\\"",
           "choices": [
-            "What is Ansel Adams?",
-            "Who is Dorothea Lange?",
-            "Who is Edward Weston?",
-            "Who is Imogen Cunningham?"
+            "Ansel Adams",
+            "Dorothea Lange",
+            "Edward Weston",
+            "Imogen Cunningham"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "The photographs in this 1992 coffee-table book by Madonna were taken by Steven Meisel & members of his studio",
           "choices": [
-            "What is Truth or Dare?",
-            "What is Erotica?",
-            "What is Sex?",
-            "What is Bedtime Stories?"
+            "Truth or Dare",
+            "Erotica",
+            "Sex",
+            "Bedtime Stories"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "His studies of a horse's gallop were interrupted by his trial for the murder of his wife's lover",
           "choices": [
-            "Who is Edward Muybridge?",
-            "Who is Etienne-Jules Marey?",
-            "Who is Edward Curtis?",
-            "What is Eadweard Muybridge?"
+            "Edward Muybridge",
+            "Etienne-Jules Marey",
+            "Edward Curtis",
+            "Eadweard Muybridge"
           ],
           "correctIndex": 3
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "In 2014 this science guy held a live broadcast debate with a creationism guy",
           "choices": [
-            "What is Bill Nye?",
-            "Who is Bill Gates?",
-            "Who is Bill Maher?",
-            "Who is Bill Nye the Math Guy?"
+            "Bill Nye",
+            "Bill Gates",
+            "Bill Maher",
+            "Bill Nye the Math Guy"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "If Barack Obama wanted a ringer on his basketball team, he'd choose this former Knick who also played in the Senate",
           "choices": [
-            "What is Bill Bradley?",
-            "Who is Bill Walton?",
-            "Who is Bill Russell?",
-            "Who is Bill Wennington?"
+            "Bill Bradley",
+            "Bill Walton",
+            "Bill Russell",
+            "Bill Wennington"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Jame \"Buffalo Bill\" Gumb, as played by Ted Levine, has a dog named Precious in this film; now put the lotion in the basket!",
           "choices": [
-            "What is Hannibal?",
-            "What is Se7en?",
-            "What is Silence of the Lambs?",
-            "What is Manhunter?"
+            "Hannibal",
+            "Se7en",
+            "Silence of the Lambs",
+            "Manhunter"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Stephen Moyer sucked up the scenery as Bill Compton, a vampire on this HBO series",
           "choices": [
-            "What is Six Feet Under?",
-            "What is The Vampire Diaries?",
-            "What is True Blood?",
-            "What is Dexter?"
+            "Six Feet Under",
+            "The Vampire Diaries",
+            "True Blood",
+            "Dexter"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "For the TV movie \"My Name is Bill W.\" James Woods won an Emmy playing a founder of this self-help organization",
           "choices": [
-            "What is Alcoholics Anonymous?",
-            "What is Narcotics Anonymous?",
-            "What is Weight Watchers?",
-            "What is Gamblers Anonymous?"
+            "Alcoholics Anonymous",
+            "Narcotics Anonymous",
+            "Weight Watchers",
+            "Gamblers Anonymous"
           ],
           "correctIndex": 0
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "The Gossamer Albatross was the first plane powered by one of these to cross the English Channel",
           "choices": [
-            "What is solar power?",
-            "What is Person?",
-            "What is wind power?",
-            "What is a jet engine?"
+            "solar power",
+            "Person",
+            "wind power",
+            "a jet engine"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Songs by this band include \"Vertigo\" & \"I Still Haven't Found What I'm Looking For\\\"",
           "choices": [
-            "Who is Coldplay?",
-            "Who is The Edge?",
-            "What is U2?",
-            "Who is R.E.M.?"
+            "Coldplay",
+            "The Edge",
+            "U2",
+            "R.E.M."
           ],
           "correctIndex": 2
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Not necessarily a \"menace\", it's a specter or ghost, or something illusory",
           "choices": [
-            "What is a specter?",
-            "What is a phantom?",
-            "What is an illusion?",
-            "What is a wraith?"
+            "a specter",
+            "a phantom",
+            "an illusion",
+            "a wraith"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "The French know that this optical phenomenon can be seen not only in the desert but also at sea",
           "choices": [
-            "What is a rainbow?",
-            "What is a hallucination?",
-            "What is a refraction?",
-            "What is a mirage?"
+            "a rainbow",
+            "a hallucination",
+            "a refraction",
+            "a mirage"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "When Lindbergh took this plane on a test flight, he set a California-to-New York speed record",
           "choices": [
-            "What is the Winnie Mae?",
-            "What is the Flyer?",
-            "What is the Vin Fiz?",
-            "What is Spirit of St. Louis?"
+            "the Winnie Mae",
+            "the Flyer",
+            "the Vin Fiz",
+            "Spirit of St. Louis"
           ],
           "correctIndex": 3
         }
@@ -186,10 +186,10 @@
     "category": "OUTSIDE",
     "clue": "On your next beach vacation, make sure your bindings are tight for this activity",
     "choices": [
-      "What is surfing?",
-      "What is kiteboarding?",
-      "What is wakeboarding?",
-      "What is water skiing?"
+      "surfing",
+      "kiteboarding",
+      "wakeboarding",
+      "water skiing"
     ],
     "correctIndex": 2
   }

@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Dickens' mother was probably the inspiration for Mrs. Micawber in this very autobiographical novel",
           "choices": [
-            "What is Oliver Twist?",
-            "What is Great Expectations?",
-            "What is Bleak House?",
-            "What is David Copperfield?"
+            "Oliver Twist",
+            "Great Expectations",
+            "Bleak House",
+            "David Copperfield"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "This saga by Alex Haley begins with a birth in West Africa in 1750",
           "choices": [
-            "What is Roots?",
-            "What is Beloved?",
-            "What is Jubilee?",
-            "What is The Color Purple?"
+            "Roots",
+            "Beloved",
+            "Jubilee",
+            "The Color Purple"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "The last name of this author of the \"Rubaiyat\" means \"tentmaker\" in Persian",
           "choices": [
-            "Who is Rumi?",
-            "Who is Hafez?",
-            "Who is Al-Ghazali?",
-            "What is (Omar) Khayy\u00e1m?"
+            "Rumi",
+            "Hafez",
+            "Al-Ghazali",
+            "(Omar) Khayy\u00e1m"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "The title character of this Voltaire work discovers gardening will make him happy",
           "choices": [
-            "What is Zadig?",
-            "What is Microm\u00e9gas?",
-            "What is Candide?",
-            "What is Rasselas?"
+            "Zadig",
+            "Microm\u00e9gas",
+            "Candide",
+            "Rasselas"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Prosper Merimee was just 19 when he wrote his first play, about this Lord Protector of England",
           "choices": [
-            "Who is Charles I?",
-            "What is Cromwell?",
-            "Who is Cardinal Richelieu?",
-            "Who is Napoleon?"
+            "Charles I",
+            "Cromwell",
+            "Cardinal Richelieu",
+            "Napoleon"
           ],
           "correctIndex": 1
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "In 1951 Harry Truman pulled rank & relieved this old soldier, who slowly faded away",
           "choices": [
-            "What is Douglas MacArthur?",
-            "Who is George Patton?",
-            "Who is Omar Bradley?",
-            "Who is Ambrose Burnside?"
+            "Douglas MacArthur",
+            "George Patton",
+            "Omar Bradley",
+            "Ambrose Burnside"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "In 1893 the U.S. got a new diplomatic rank: Thomas Bayard, our first official one of these, was off to Great Britain",
           "choices": [
-            "What is ambassador (to the Court of St. James)?",
-            "What is a minister plenipotentiary?",
-            "What is a consul general?",
-            "What is an envoy extraordinary?"
+            "ambassador (to the Court of St. James)",
+            "a minister plenipotentiary",
+            "a consul general",
+            "an envoy extraordinary"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "In 1862 Abe Lincoln countermanded this general & future president's order expelling Jews from areas under his command",
           "choices": [
-            "What is Grant?",
-            "Who is William Sherman?",
-            "Who is George McClellan?",
-            "Who is Ambrose Burnside?"
+            "Grant",
+            "William Sherman",
+            "George McClellan",
+            "Ambrose Burnside"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Pepsi's Harvey Russell was the first black exec to reach this high rank (though not highest) in a Fortune 500 co.",
           "choices": [
-            "What is treasurer?",
-            "What is controller?",
-            "What is director?",
-            "What is vice president?"
+            "treasurer",
+            "controller",
+            "director",
+            "vice president"
           ],
           "correctIndex": 3
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "When General Patton wanted to censor this Pulitzer-winning sergeant's \"Willie & Joe\" cartoons, General Eisenhower said no",
           "choices": [
-            "Who is Ernie Pyle?",
-            "Who is George Baker?",
-            "What is Bill Mauldin?",
-            "Who is Dave Breger?"
+            "Ernie Pyle",
+            "George Baker",
+            "Bill Mauldin",
+            "Dave Breger"
           ],
           "correctIndex": 2
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Prince Boris Golitzen invented an electromagnetic one of these, & was probably paid \"Richter\" scale",
           "choices": [
-            "What is a magnetometer?",
-            "What is a barograph?",
-            "What is Seismograph?",
-            "What is a galvanometer?"
+            "a magnetometer",
+            "a barograph",
+            "Seismograph",
+            "a galvanometer"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "In 1910 this Swiss company produced its first wrist chronometer",
           "choices": [
-            "What is Rolex?",
-            "What is Omega?",
-            "What is Patek Philippe?",
-            "What is Longines?"
+            "Rolex",
+            "Omega",
+            "Patek Philippe",
+            "Longines"
           ],
           "correctIndex": 0
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "In 1930 Thomas Midgley discovered this refrigerant that has become an environmental hazard",
           "choices": [
-            "What is ammonia?",
-            "What is sulfur dioxide?",
-            "What is carbon tetrachloride?",
-            "What is freon?"
+            "ammonia",
+            "sulfur dioxide",
+            "carbon tetrachloride",
+            "freon"
           ],
           "correctIndex": 3
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "In July of 1995, leptin was in the news; it's a protein that caused some mice to do this",
           "choices": [
-            "What is grow larger?",
-            "What is live longer?",
-            "What is lose weight?",
-            "What is reproduce faster?"
+            "grow larger",
+            "live longer",
+            "lose weight",
+            "reproduce faster"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Before these saddle parts were invented, foot soldiers, not knights on horses, did most of the fighting",
           "choices": [
-            "What are saddle horns?",
-            "What is stirrups?",
-            "What are spurs?",
-            "What are bridles?"
+            "saddle horns",
+            "stirrups",
+            "spurs",
+            "bridles"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "WORLD BUSINESS",
     "clue": "Since 1959 more than 500 million examples of this toy created by Ruth Handler have been sold",
     "choices": [
-      "What is the G.I. Joe?",
-      "What is the Barbie doll?",
-      "What is the Cabbage Patch Kid?",
-      "What is the Raggedy Ann doll?"
+      "the G.I. Joe",
+      "the Barbie doll",
+      "the Cabbage Patch Kid",
+      "the Raggedy Ann doll"
     ],
     "correctIndex": 1
   }

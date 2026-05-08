@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "As the moon changes from new to full, it's said to be doing this; then it wanes",
           "choices": [
-            "What is Waxing?",
-            "What is waning?",
-            "What is eclipsing?",
-            "What is gibbous?"
+            "Waxing",
+            "waning",
+            "eclipsing",
+            "gibbous"
           ],
           "correctIndex": 0
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "1609: This Italian makes the first practical use of a telescope to study the Moon",
           "choices": [
-            "Who is Copernicus?",
-            "Who is Kepler?",
-            "What is Galileo?",
-            "Who is Brahe?"
+            "Copernicus",
+            "Kepler",
+            "Galileo",
+            "Brahe"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "1588: This Danish astronomer makes observations leading to new theories about the Moon's motion",
           "choices": [
-            "Who is Copernicus?",
-            "What is Tycho Brahe?",
-            "Who is Kepler?",
-            "Who is Halley?"
+            "Copernicus",
+            "Tycho Brahe",
+            "Kepler",
+            "Halley"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "At 183 miles wide & 13,000 feet deep, Bailly is the largest distinct one of these",
           "choices": [
-            "What is a mare?",
-            "What is crater?",
-            "What is a rille?",
-            "What is a mountain?"
+            "a mare",
+            "crater",
+            "a rille",
+            "a mountain"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "On Dec. 24, 1968 the crew from this U.S. lunar mission became the first men to look upon the moon's far side",
           "choices": [
-            "What is Apollo 8?",
-            "What is Apollo 11?",
-            "What is Apollo 10?",
-            "What is Apollo 13?"
+            "Apollo 8",
+            "Apollo 11",
+            "Apollo 10",
+            "Apollo 13"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Michigan's fish is not the lake but the brook variety of this",
           "choices": [
-            "What is bass?",
-            "What is walleye?",
-            "What is salmon?",
-            "What is trout?"
+            "bass",
+            "walleye",
+            "salmon",
+            "trout"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Of an official dog, cat, or bird, the one that Maine has that no other state does",
           "choices": [
-            "What is a dog?",
-            "What is a bird?",
-            "What is a cat?",
-            "What is a fish?"
+            "a dog",
+            "a bird",
+            "a cat",
+            "a fish"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "In 1983, the USS Nautilus was designated state ship of this state where it was built",
           "choices": [
-            "What is Connecticut?",
-            "What is Rhode Island?",
-            "What is Massachusetts?",
-            "What is New York?"
+            "Connecticut",
+            "Rhode Island",
+            "Massachusetts",
+            "New York"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "This Revolutionary War spy was made state hero of Connecticut in 1985",
           "choices": [
-            "Who is Benedict Arnold?",
-            "Who is Ethan Allen?",
-            "What is Nathan Hale?",
-            "Who is Israel Putnam?"
+            "Benedict Arnold",
+            "Ethan Allen",
+            "Nathan Hale",
+            "Israel Putnam"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "The beignet, featured at New Orleans' Cafe Du Monde, is this state object of Louisiana",
           "choices": [
-            "What is a pastry?",
-            "What is a biscuit?",
-            "What is a fritter?",
-            "What is a doughnut?"
+            "a pastry",
+            "a biscuit",
+            "a fritter",
+            "a doughnut"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Amy Schumer made waves with the photo she posted in honor of this swimsuit's day, July 5, its 71st anniversary",
           "choices": [
-            "What is the one-piece?",
-            "What is the bikini?",
-            "What is the monokini?",
-            "What is the tankini?"
+            "the one-piece",
+            "the bikini",
+            "the monokini",
+            "the tankini"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Learn how to save a person who's choking on June 1, the national day for this, also known as an abdominal thrust",
           "choices": [
-            "What is CPR?",
-            "What is the Heimlich?",
-            "What is mouth-to-mouth?",
-            "What is the Heimlich maneuver?"
+            "CPR",
+            "the Heimlich",
+            "mouth-to-mouth",
+            "the Heimlich maneuver"
           ],
           "correctIndex": 3
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Aug. 4 honors this military branch whose forebear, the Revenue Cutter Service, was founded on that day in 1790",
           "choices": [
-            "What is the Navy?",
-            "What is the Marines?",
-            "What is the Army?",
-            "What is the Coast Guard?"
+            "the Navy",
+            "the Marines",
+            "the Army",
+            "the Coast Guard"
           ],
           "correctIndex": 3
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "September 2 is the day to celebrate Vietnam's 1945 declaration of independence from this European country",
           "choices": [
-            "What is Japan?",
-            "What is China?",
-            "What is Britain?",
-            "What is France?"
+            "Japan",
+            "China",
+            "Britain",
+            "France"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "This nation celebrates the Grand Duke's birthday every June 23, even though no Grand Duke has been born on June 23",
           "choices": [
-            "What is Belgium?",
-            "What is Monaco?",
-            "What is Luxembourg?",
-            "What is Liechtenstein?"
+            "Belgium",
+            "Monaco",
+            "Luxembourg",
+            "Liechtenstein"
           ],
           "correctIndex": 2
         }
@@ -186,10 +186,10 @@
     "category": "MOVIE TITLE FILL IN THE BLANK",
     "clue": "\\\"The _____ Victoria\" & \" _____ Guns\\\"",
     "choices": [
-      "What is Little?",
-      "What is Young?",
-      "What is Old?",
-      "What is Great?"
+      "Little",
+      "Young",
+      "Old",
+      "Great"
     ],
     "correctIndex": 1
   }

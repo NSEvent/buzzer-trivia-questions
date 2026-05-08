@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Mascarpone",
           "choices": [
-            "What is France?",
-            "What is Italy?",
-            "What is Switzerland?",
-            "What is Spain?"
+            "France",
+            "Italy",
+            "Switzerland",
+            "Spain"
           ],
           "correctIndex": 1
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Lincolnshire Poacher",
           "choices": [
-            "What is U.K. (or England)?",
-            "What is France?",
-            "What is Ireland?",
-            "What is the Netherlands?"
+            "U.K. (or England)",
+            "France",
+            "Ireland",
+            "the Netherlands"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Neufchatel",
           "choices": [
-            "What is Switzerland?",
-            "What is France?",
-            "What is Belgium?",
-            "What is Italy?"
+            "Switzerland",
+            "France",
+            "Belgium",
+            "Italy"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Brusselae Kaas",
           "choices": [
-            "What is the Netherlands?",
-            "What is Belgium?",
-            "What is France?",
-            "What is Luxembourg?"
+            "the Netherlands",
+            "Belgium",
+            "France",
+            "Luxembourg"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Brillat-Savarin",
           "choices": [
-            "What is Switzerland?",
-            "What is Belgium?",
-            "What is France?",
-            "What is Italy?"
+            "Switzerland",
+            "Belgium",
+            "France",
+            "Italy"
           ],
           "correctIndex": 2
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "In his memoirs, he insists he really won in 1960",
           "choices": [
-            "Who is Al Gore?",
-            "What is Richard Nixon?",
-            "Who is Gerald Ford?",
-            "Who is Samuel Tilden?"
+            "Al Gore",
+            "Richard Nixon",
+            "Gerald Ford",
+            "Samuel Tilden"
           ],
           "correctIndex": 1
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Of the 4 men who ran against FDR, he got the biggest popular vote",
           "choices": [
-            "Who is Alf Landon?",
-            "Who is Thomas Dewey?",
-            "Who is Herbert Hoover?",
-            "What is Wendell Willkie?"
+            "Alf Landon",
+            "Thomas Dewey",
+            "Herbert Hoover",
+            "Wendell Willkie"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "In '28, he became 1st Catholic major party presidential candidate",
           "choices": [
-            "What is Al Smith?",
-            "Who is William Jennings Bryan?",
-            "Who is James Cox?",
-            "Who is Robert La Follette?"
+            "Al Smith",
+            "William Jennings Bryan",
+            "James Cox",
+            "Robert La Follette"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Though Samuel J. Tilden got more popular votes, this man became president in 1876",
           "choices": [
-            "Who is James Garfield?",
-            "What is Rutherford B. Hayes?",
-            "Who is Ulysses Grant?",
-            "Who is Chester Arthur?"
+            "James Garfield",
+            "Rutherford B. Hayes",
+            "Ulysses Grant",
+            "Chester Arthur"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "In South Dakota GOP primaries, delegates are awarded not proportionally but this 3-word way",
           "choices": [
-            "What is winner take all?",
-            "What is proportional representation?",
-            "What is ranked choice voting?",
-            "What is caucus selection?"
+            "winner take all",
+            "proportional representation",
+            "ranked choice voting",
+            "caucus selection"
           ],
           "correctIndex": 0
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Because of material shortages caused by this war, the gov't froze TV station construction",
           "choices": [
-            "What is the Korean War?",
-            "What is World War I?",
-            "What is Second World War?",
-            "What is the Cold War?"
+            "the Korean War",
+            "World War I",
+            "Second World War",
+            "the Cold War"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "He was \"At Large\" in 1949 but was later captured to become \"Today\"s 1st host",
           "choices": [
-            "What is Dave Garroway?",
-            "Who is Ed Sullivan?",
-            "Who is Steve Allen?",
-            "Who is Arthur Godfrey?"
+            "Dave Garroway",
+            "Ed Sullivan",
+            "Steve Allen",
+            "Arthur Godfrey"
           ],
           "correctIndex": 0
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "This program grew out of 1949's \"The Admiral Broadway Revue\", starring Sid Caesar & Imogene Coca",
           "choices": [
-            "What is Your Show of Shows?",
-            "What is The Ed Sullivan Show?",
-            "What is The Jack Benny Program?",
-            "What is The Bob Hope Show?"
+            "Your Show of Shows",
+            "The Ed Sullivan Show",
+            "The Jack Benny Program",
+            "The Bob Hope Show"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "1st on TV in 1948, this Sunday talent showcase ran 23 seasons before being replaced by pro football games",
           "choices": [
-            "What is The Amateur Hour (Ted Mack's or Major Bowes)?",
-            "What is The Ed Sullivan Show?",
-            "What is What's My Line?",
-            "What is The Colgate Comedy Hour?"
+            "The Amateur Hour (Ted Mack's or Major Bowes)",
+            "The Ed Sullivan Show",
+            "What's My Line",
+            "The Colgate Comedy Hour"
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "In 1927, as Secretary of Commerce, not yet president, he was 1st major U.S. official to appear on TV",
           "choices": [
-            "Who is Franklin Roosevelt?",
-            "Who is Calvin Coolidge?",
-            "Who is Harry Truman?",
-            "What is (Herbert) Hoover?"
+            "Franklin Roosevelt",
+            "Calvin Coolidge",
+            "Harry Truman",
+            "(Herbert) Hoover"
           ],
           "correctIndex": 3
         }
@@ -186,10 +186,10 @@
     "category": "THE IVY LEAGUE",
     "clue": "Its sports teams are known as the Bulldogs",
     "choices": [
-      "What is Yale?",
-      "What is Columbia?",
-      "What is Princeton?",
-      "What is Dartmouth?"
+      "Yale",
+      "Columbia",
+      "Princeton",
+      "Dartmouth"
     ],
     "correctIndex": 0
   }

@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Mark Antony called her \"The Queen of Queens\\\"",
           "choices": [
-            "Who is Nefertiti?",
-            "Who is Cleopatra Selene?",
-            "What is Cleopatra?",
-            "Who is Berenice?"
+            "Nefertiti",
+            "Cleopatra Selene",
+            "Cleopatra",
+            "Berenice"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "\\\"The Little Mother of all the Russians\\\"",
           "choices": [
-            "Who is Mary Queen of Scots?",
-            "Who is Empress Alexandra?",
-            "What is Catherine the Great?",
-            "Who is Anna of Russia?"
+            "Mary Queen of Scots",
+            "Empress Alexandra",
+            "Catherine the Great",
+            "Anna of Russia"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "\\\"The Catholic\" of 15th century Spain",
           "choices": [
-            "Who is Queen Eleanor?",
-            "Who is Queen Margaret?",
-            "Who is Queen Joanna?",
-            "What is Queen Isabella?"
+            "Queen Eleanor",
+            "Queen Margaret",
+            "Queen Joanna",
+            "Queen Isabella"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Prime Minister Tony Blair dubbed her \"The People's Princess\\\"",
           "choices": [
-            "Who is Queen Elizabeth II?",
-            "What is Princess Diana?",
-            "Who is Meghan Markle?",
-            "Who is Sarah Ferguson?"
+            "Queen Elizabeth II",
+            "Princess Diana",
+            "Meghan Markle",
+            "Sarah Ferguson"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "France's \"The Austrian Wench\\\"",
           "choices": [
-            "What is Marie Antoinette?",
-            "Who is Catherine de' Medici?",
-            "Who is Anne of Austria?",
-            "Who is Mary Queen of Scots?"
+            "Marie Antoinette",
+            "Catherine de' Medici",
+            "Anne of Austria",
+            "Mary Queen of Scots"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "At the time of her coronation in 1533, Anne Boleyn was pregnant with this future queen of England",
           "choices": [
-            "What is Elizabeth I?",
-            "What is Mary I?",
-            "What is Margaret Tudor?",
-            "What is Catherine Howard?"
+            "Elizabeth I",
+            "Mary I",
+            "Margaret Tudor",
+            "Catherine Howard"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "A sinister presence at court is Sir Francis Bryan who lost that eye in one of these sporting events",
           "choices": [
-            "What is a joust?",
-            "What is a tournament?",
-            "What is a duel?",
-            "What is a fox hunt?"
+            "a joust",
+            "a tournament",
+            "a duel",
+            "a fox hunt"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "The Great House of Easement at the Tudors' Hampton Court Palace was this type of room",
           "choices": [
-            "What is a kitchen?",
-            "What is a throne room?",
-            "What is a bathroom?",
-            "What is a chapel?"
+            "a kitchen",
+            "a throne room",
+            "a bathroom",
+            "a chapel"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "This daughter of Henry later married Spain's king; here she meets another royal \"Are you the Dauphin of France?\" \"Oui.\" \"Then I want to kiss you.\\\"",
           "choices": [
-            "Who is Elizabeth I?",
-            "Who is Catherine of Aragon?",
-            "What is Mary I?",
-            "Who is Margaret Tudor?"
+            "Elizabeth I",
+            "Catherine of Aragon",
+            "Mary I",
+            "Margaret Tudor"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Henry VIII is starting to suspect everyone, even in the honeymoon period with this third wife",
           "choices": [
-            "Who is Anne Boleyn?",
-            "Who is Catherine Howard?",
-            "What is Jane Seymour?",
-            "Who is Catherine of Aragon?"
+            "Anne Boleyn",
+            "Catherine Howard",
+            "Jane Seymour",
+            "Catherine of Aragon"
           ],
           "correctIndex": 2
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Working these muscles, including the transverse & oblique ones, can give you a \"six-pack\\\"",
           "choices": [
-            "What are back muscles?",
-            "What is stomach muscles (or your abs)?",
-            "What are chest muscles?",
-            "What are leg muscles?"
+            "back muscles",
+            "stomach muscles (or your abs)",
+            "chest muscles",
+            "leg muscles"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "During strenuous activity, the glycogen in your muscles is converted into this \"milky\" acid, C3H6O3",
           "choices": [
-            "What is citric acid?",
-            "What is lactic acid?",
-            "What is pyruvic acid?",
-            "What is acetic acid?"
+            "citric acid",
+            "lactic acid",
+            "pyruvic acid",
+            "acetic acid"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "4 muscles make up this \"cuff\" that pitchers dread tearing",
           "choices": [
-            "What is rotator?",
-            "What is hamstring?",
-            "What is quadriceps?",
-            "What is deltoid?"
+            "rotator",
+            "hamstring",
+            "quadriceps",
+            "deltoid"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "In humans, muscles are defined as striated, cardiac or this type",
           "choices": [
-            "What is smooth muscles?",
-            "What are voluntary muscles?",
-            "What are skeletal muscles?",
-            "What are fibrous muscles?"
+            "smooth muscles",
+            "voluntary muscles",
+            "skeletal muscles",
+            "fibrous muscles"
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "A muscle that draws a body part away from the middle of the body, or a synonym for \"kidnapper\\\"",
           "choices": [
-            "What is an adductor?",
-            "What is an abductor?",
-            "What is a flexor?",
-            "What is an extensor?"
+            "an adductor",
+            "an abductor",
+            "a flexor",
+            "an extensor"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "MORE THAN ONE MEANING",
     "clue": "This word can refer to the boat on the left or the pile on the right",
     "choices": [
-      "What is lumber?",
-      "What is junk?",
-      "What is port?",
-      "What is scrap?"
+      "lumber",
+      "junk",
+      "port",
+      "scrap"
     ],
     "correctIndex": 1
   }

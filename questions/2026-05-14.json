@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Developed by a German physicist, it measures radioactivity by \"counting\" ionizing particles like protons",
           "choices": [
-            "What is a Geiger-M\u00fcller tube?",
-            "What is a Geiger counter?",
-            "What is a dosimeter?",
-            "What is a scintillation counter?"
+            "a Geiger-M\u00fcller tube",
+            "a Geiger counter",
+            "a dosimeter",
+            "a scintillation counter"
           ],
           "correctIndex": 1
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Famous for his jet, he also invented the automobile radio for the company that became Motorola",
           "choices": [
-            "Who is Howard Hughes?",
-            "Who is (Glenn) Curtis?",
-            "What is (William) Lear?",
-            "Who is (Reginald) Fessenden?"
+            "Howard Hughes",
+            "(Glenn) Curtis",
+            "(William) Lear",
+            "(Reginald) Fessenden"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "In the late 19th century, Ellen Eglui invented this washing machine attachment that saved a lot of drying time",
           "choices": [
-            "What is a spin cycle?",
-            "What is a washboard?",
-            "What is a wringer?",
-            "What is a mangle press?"
+            "a spin cycle",
+            "a washboard",
+            "a wringer",
+            "a mangle press"
           ],
           "correctIndex": 2
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "At the funeral of Sylvan Goldman, who invented this, there wasn't one wonky pallbearer who went in an odd direction",
           "choices": [
-            "What is the escalator?",
-            "What is the revolving door?",
-            "What is the shopping cart?",
-            "What is the moving walkway?"
+            "the escalator",
+            "the revolving door",
+            "the shopping cart",
+            "the moving walkway"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "This 18th century seed drill inventor shares his name with the band that gave us \"Aqualung\\\"",
           "choices": [
-            "What is Jethro Tull?",
-            "Who is Eli Whitney?",
-            "Who is John Deere?",
-            "Who is Cyrus McCormick?"
+            "Jethro Tull",
+            "Eli Whitney",
+            "John Deere",
+            "Cyrus McCormick"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Millicent Simmonds, co-star of \"A Quiet Place II\", suffered permanent loss of this as a baby",
           "choices": [
-            "What is sight?",
-            "What is hearing?",
-            "What is speech?",
-            "What is smell?"
+            "sight",
+            "hearing",
+            "speech",
+            "smell"
           ],
           "correctIndex": 1
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "A working actor to this day, Henry Thomas was 10 when he filmed this Spielberg classic",
           "choices": [
-            "What is Raiders of the Lost Ark?",
-            "What is E.T.?",
-            "What is Hook?",
-            "What is Jurassic Park?"
+            "Raiders of the Lost Ark",
+            "E.T.",
+            "Hook",
+            "Jurassic Park"
           ],
           "correctIndex": 1
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Before settling on his final stage surname, he was known as Mickey McGuire",
           "choices": [
-            "Who is (Jackie) Coogan?",
-            "What is (Mickey) Rooney?",
-            "Who is (Jackie) Cooper?",
-            "Who is (Freddie) Bartholomew?"
+            "(Jackie) Coogan",
+            "(Mickey) Rooney",
+            "(Jackie) Cooper",
+            "(Freddie) Bartholomew"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Maybe Olivia Edward, child of psychic medium John Edward, foresaw playing Pamela Adlon's youngest daughter on this series",
           "choices": [
-            "What is Better Things?",
-            "What is Louie?",
-            "What is Transparent?",
-            "What is Mom?"
+            "Better Things",
+            "Louie",
+            "Transparent",
+            "Mom"
           ],
           "correctIndex": 0
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "\\\"The Boys\" is a memoir of child actorhood by Clint Howard (Mark on \"Gentle Ben\") & his brother Ron (Opie on this show)",
           "choices": [
-            "What is Happy Days?",
-            "What is The Andy Griffith Show?",
-            "What is The Partridge Family?",
-            "What is Leave It to Beaver?"
+            "Happy Days",
+            "The Andy Griffith Show",
+            "The Partridge Family",
+            "Leave It to Beaver"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "1983: \"____ Song Trilogy\\\"",
           "choices": [
-            "What is Torch?",
-            "What is \"Swan\"?",
-            "What is \"Love\"?",
-            "What is \"Lullaby\"?"
+            "Torch",
+            "\"Swan\"",
+            "\"Love\"",
+            "\"Lullaby\""
           ],
           "correctIndex": 0
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "2018: \"Harry Potter and the ___ ___ , Parts One and Two\\\"",
           "choices": [
-            "What is \"the Sorcerer's Stone\"?",
-            "What is \\\"the Cursed Child\\\"?",
-            "What is \"the Chamber of Secrets\"?",
-            "What is \"the Goblet of Fire\"?"
+            "\"the Sorcerer's Stone\"",
+            "\\\"the Cursed Child\\\"",
+            "\"the Chamber of Secrets\"",
+            "\"the Goblet of Fire\""
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "1992: \"____ at Lughnasa\\\"",
           "choices": [
-            "What is Dancing?",
-            "What is \"Harvest\"?",
-            "What is \"Mourning\"?",
-            "What is \"Singing\"?"
+            "Dancing",
+            "\"Harvest\"",
+            "\"Mourning\"",
+            "\"Singing\""
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "2015: \"The ____ Incident of the Dog in the Night-Time\\\"",
           "choices": [
-            "What is curious?",
-            "What is \"Mysterious\"?",
-            "What is \"Strange\"?",
-            "What is \"Peculiar\"?"
+            "curious",
+            "\"Mysterious\"",
+            "\"Strange\"",
+            "\"Peculiar\""
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "1981, set in Vienna: Peter Shafer's \"____\\\"",
           "choices": [
-            "What is \"Equus\"?",
-            "What is Amadeus?",
-            "What is \"Salieri\"?",
-            "What is \"Figaro\"?"
+            "\"Equus\"",
+            "Amadeus",
+            "\"Salieri\"",
+            "\"Figaro\""
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "MEDIEVAL FASHION",
     "clue": "The fur of the grey type of this small animal was grise; of the red type, roskyn",
     "choices": [
-      "What is a mink?",
-      "What is squirrel?",
-      "What is a weasel?",
-      "What is a ferret?"
+      "a mink",
+      "squirrel",
+      "a weasel",
+      "a ferret"
     ],
     "correctIndex": 1
   }

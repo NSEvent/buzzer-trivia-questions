@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "This organization provides cards to help you use its roadside assistance program, which began as 5 motorcyclists in St. Louis",
           "choices": [
-            "What is AAA?",
-            "What is AARP?",
-            "What is the Good Sam Club?",
-            "What is Allstate Motor Club?"
+            "AAA",
+            "AARP",
+            "the Good Sam Club",
+            "Allstate Motor Club"
           ],
           "correctIndex": 0
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "My rewards card from this bookstore chain that has its headquarters in Ann Arbor, Michigan",
           "choices": [
-            "What is Barnes & Noble?",
-            "What is Books-A-Million?",
-            "What is Borders?",
-            "What is Half Price Books?"
+            "Barnes & Noble",
+            "Books-A-Million",
+            "Borders",
+            "Half Price Books"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "An allergy info card may list this one of the \"Big 9\", preventing a potentially deadly administration of tahini",
           "choices": [
-            "What is sesame?",
-            "What are peanuts?",
-            "What is shellfish?",
-            "What are tree nuts?"
+            "sesame",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "A ticket stub from a concert at this outdoor venue, the summer home of the L.A. Philharmonic",
           "choices": [
-            "What is the Greek Theatre?",
-            "What is the Hollywood Bowl?",
-            "What is the Ravinia Festival?",
-            "What is Red Rocks Amphitheatre?"
+            "the Greek Theatre",
+            "the Hollywood Bowl",
+            "the Ravinia Festival",
+            "Red Rocks Amphitheatre"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "A picture of my pooch\u2014this Swiss mountain dog",
           "choices": [
-            "What is an Appenzeller?",
-            "What is a Bernese?",
-            "What is a Greater Swiss Mountain Dog?",
-            "What is an Entlebucher?"
+            "an Appenzeller",
+            "a Bernese",
+            "a Greater Swiss Mountain Dog",
+            "an Entlebucher"
           ],
           "correctIndex": 1
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "They go in the left column on an accounting statement",
           "choices": [
-            "What are credits?",
-            "What are assets?",
-            "What is debits?",
-            "What are liabilities?"
+            "credits",
+            "assets",
+            "debits",
+            "liabilities"
           ],
           "correctIndex": 2
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "You'll find her exploits extolled in the Bible's Book of Judges",
           "choices": [
-            "Who is Judith?",
-            "Who is Esther?",
-            "Who is Ruth?",
-            "What is Deborah?"
+            "Judith",
+            "Esther",
+            "Ruth",
+            "Deborah"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "From the French for \"leading off\", it's a young woman introduced to fashionable society",
           "choices": [
-            "What is debutante?",
-            "What is a socialite?",
-            "What is an ing\u00e9nue?",
-            "What is a cotillion?"
+            "debutante",
+            "a socialite",
+            "an ing\u00e9nue",
+            "a cotillion"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "You'll find her exploits extolled in the Bible's book of Judges",
           "choices": [
-            "Who is Judith?",
-            "What is Deborah?",
-            "Who is Esther?",
-            "Who is Ruth?"
+            "Judith",
+            "Deborah",
+            "Esther",
+            "Ruth"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "In 1858 Douglas & Lincoln engaged in 7 of them about slavery",
           "choices": [
-            "What is debates?",
-            "What are orations?",
-            "What are forums?",
-            "What are speeches?"
+            "debates",
+            "orations",
+            "forums",
+            "speeches"
           ],
           "correctIndex": 0
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "German for \"leader\", it has bad associations",
           "choices": [
-            "What is Kaiser?",
-            "What is Reich?",
-            "What is Fuhrer?",
-            "What is Gauleiter?"
+            "Kaiser",
+            "Reich",
+            "Fuhrer",
+            "Gauleiter"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Body part terms schnozzle & tuchis come from the body of words in this language",
           "choices": [
-            "What is Hebrew?",
-            "What is Yiddish?",
-            "What is German?",
-            "What is Polish?"
+            "Hebrew",
+            "Yiddish",
+            "German",
+            "Polish"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "The OED defines this 3-letter word from Mexican Spanish as \"a form of address for a man\\\"",
           "choices": [
-            "What is ese?",
-            "What is 'vato'?",
-            "What is 'hombre'?",
-            "What is 'amigo'?"
+            "ese",
+            "'vato'",
+            "'hombre'",
+            "'amigo'"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Get out of here! Amscray is a loanword from this quasi-language",
           "choices": [
-            "What is Cockney rhyming slang?",
-            "What is Pig Latin?",
-            "What is Esperanto?",
-            "What is Gibberish?"
+            "Cockney rhyming slang",
+            "Pig Latin",
+            "Esperanto",
+            "Gibberish"
           ],
           "correctIndex": 1
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "German for \"substitute\", like cubic zirconia for diamond",
           "choices": [
-            "What is facsimile?",
-            "What is Ersatz?",
-            "What is surrogate?",
-            "What is simulacrum?"
+            "facsimile",
+            "Ersatz",
+            "surrogate",
+            "simulacrum"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "LITERARY ____ OF ____",
     "clue": "This Toni Morrison novel ends, \"If you surrendered to the air, you could ride it\\\"",
     "choices": [
-      "What is Beloved?",
-      "What is The Bluest Eye?",
-      "What is Song of Solomon?",
-      "What is Sula?"
+      "Beloved",
+      "The Bluest Eye",
+      "Song of Solomon",
+      "Sula"
     ],
     "correctIndex": 2
   },
@@ -197,10 +197,10 @@
     "category": "WORDS IN HALLOWEEN",
     "clue": "Rodin sculpted the \"Gates of\" this",
     "choices": [
-      "What is Hell?",
-      "What is Heaven?",
-      "What is Purgatory?",
-      "What is Paradise?"
+      "Hell",
+      "Heaven",
+      "Purgatory",
+      "Paradise"
     ],
     "correctIndex": 0
   }

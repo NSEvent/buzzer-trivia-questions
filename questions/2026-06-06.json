@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "As a child, Demi Lovato was on the kids' show with this giant friendly dinosaur",
           "choices": [
-            "What is Elmo?",
-            "What is Big Bird?",
-            "What is Barney?",
-            "What is Barney Rubble?"
+            "Elmo",
+            "Big Bird",
+            "Barney",
+            "Barney Rubble"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "3 stars called Alnitak, Alnilam & Mintaka make up this hunter's belt",
           "choices": [
-            "What is Perseus?",
-            "What is Cassiopeia?",
-            "What is Scorpius?",
-            "What is Orion?"
+            "Perseus",
+            "Cassiopeia",
+            "Scorpius",
+            "Orion"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "The bluish-white star Bellatrix & the reddish star Betelgeuse are the shoulders of this constellation",
           "choices": [
-            "What is Orion?",
-            "What is Gemini?",
-            "What is Taurus?",
-            "What is Hercules?"
+            "Orion",
+            "Gemini",
+            "Taurus",
+            "Hercules"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "The 2 main gases in a star; fusion changes one into the other",
           "choices": [
-            "What is hydrogen & nitrogen?",
-            "What is helium & oxygen?",
-            "What is carbon & hydrogen?",
-            "What is hydrogen & helium?"
+            "hydrogen & nitrogen",
+            "helium & oxygen",
+            "carbon & hydrogen",
+            "hydrogen & helium"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Known as \"The Beard\", he has soared for the NBA's Houston Rockets & Brooklyn Nets",
           "choices": [
-            "Who is LeBron?",
-            "Who is Shaq?",
-            "What is (James) Harden?",
-            "Who is Durant?"
+            "LeBron",
+            "Shaq",
+            "(James) Harden",
+            "Durant"
           ],
           "correctIndex": 2
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "You can recognize mule deer & elk tracks: they have this many toes per print",
           "choices": [
-            "What is four?",
-            "What is two?",
-            "What is three?",
-            "What is six?"
+            "four",
+            "two",
+            "three",
+            "six"
           ],
           "correctIndex": 1
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "(Sarah of the Clue Crew reports from Alaska.) In spring & summer, an elk's antlers are covered with material called this, like a \"crushed\" fabric",
           "choices": [
-            "What is suede?",
-            "What is felt?",
-            "What is cashmere?",
-            "What is velvet?"
+            "suede",
+            "felt",
+            "cashmere",
+            "velvet"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "The northern deer tick is a major carrier of this disease first seen in Connecticut",
           "choices": [
-            "What is Rocky Mountain spotted fever?",
-            "What is West Nile disease?",
-            "What is Lyme Valley fever?",
-            "What is Lyme disease?"
+            "Rocky Mountain spotted fever",
+            "West Nile disease",
+            "Lyme Valley fever",
+            "Lyme disease"
           ],
           "correctIndex": 3
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Felix Salten created her as Bambi's love interest",
           "choices": [
-            "Who is Flower?",
-            "What is Faline?",
-            "Who is Thumper?",
-            "Who is Perdita?"
+            "Flower",
+            "Faline",
+            "Thumper",
+            "Perdita"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "The male of this small deer is prized for an oily excretion that's used to scent perfumes & soaps",
           "choices": [
-            "What is a civet?",
-            "What is a sika deer?",
-            "What is a caribou?",
-            "What is a musk deer?"
+            "a civet",
+            "a sika deer",
+            "a caribou",
+            "a musk deer"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "In 424 B.C. this fatally wounded Athenian general could have used the physician of the same name",
           "choices": [
-            "Who is Pericles?",
-            "Who is Alcibiades?",
-            "What is Hippocrates?",
-            "Who is Thucydides?"
+            "Pericles",
+            "Alcibiades",
+            "Hippocrates",
+            "Thucydides"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "The name of this lowest valued chess piece is from the Latin for \"foot soldier\\\"",
           "choices": [
-            "What is a pawn?",
-            "What is a rook?",
-            "What is a bishop?",
-            "What is a knight?"
+            "a pawn",
+            "a rook",
+            "a bishop",
+            "a knight"
           ],
           "correctIndex": 0
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "It's the nickname of T.E. Lawrence, who helped mobilize a revolt against the Ottoman Empire",
           "choices": [
-            "What is Lawrence of Arabia?",
-            "Who is Desert Fox?",
-            "Who is Camel King?",
-            "Who is The Arab?"
+            "Lawrence of Arabia",
+            "Desert Fox",
+            "Camel King",
+            "The Arab"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "During WWI, the spiked pickelhaube was worn by soldiers of this European nation",
           "choices": [
-            "What is Austria?",
-            "What is Prussia?",
-            "What is France?",
-            "What is Germany?"
+            "Austria",
+            "Prussia",
+            "France",
+            "Germany"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "On Oct. 20, 1944 on Leyte Island, he said, \"Our forces stand again on Philippine soil\\\"",
           "choices": [
-            "Who is Eisenhower?",
-            "Who is Patton?",
-            "What is MacArthur?",
-            "Who is Halsey?"
+            "Eisenhower",
+            "Patton",
+            "MacArthur",
+            "Halsey"
           ],
           "correctIndex": 2
         }
@@ -186,10 +186,10 @@
     "category": "THE PLANETS",
     "clue": "In 1965 a panel of scientists asserted it was entirely possible there is life on this planet",
     "choices": [
-      "What is Mars?",
-      "What is Venus?",
-      "What is Europa?",
-      "What is Jupiter?"
+      "Mars",
+      "Venus",
+      "Europa",
+      "Jupiter"
     ],
     "correctIndex": 0
   },
@@ -197,10 +197,10 @@
     "category": "JUDAISM",
     "clue": "Havdalah, meaning \"division\", is a weekly ceremony involving wine & spices at the conclusion of this",
     "choices": [
-      "What is Yom Kippur?",
-      "What is Passover?",
-      "What is the Sabbath?",
-      "What is Rosh Hashanah?"
+      "Yom Kippur",
+      "Passover",
+      "the Sabbath",
+      "Rosh Hashanah"
     ],
     "correctIndex": 2
   }

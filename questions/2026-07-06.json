@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Foxwoods Casino, on an Indian reservation in Connecticut, claims the world's largest hall for this game",
           "choices": [
-            "What is poker?",
-            "What is slots?",
-            "What is bingo?",
-            "What is keno?"
+            "poker",
+            "slots",
+            "bingo",
+            "keno"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Bandai introduced this society of monsters in cards & toys to compete with Pokemon",
           "choices": [
-            "What is Tamagotchi?",
-            "What is Digimon?",
-            "What is Yu-Gi-Oh?",
-            "What is Bakugan?"
+            "Tamagotchi",
+            "Digimon",
+            "Yu-Gi-Oh",
+            "Bakugan"
           ],
           "correctIndex": 1
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Williams: A shy girl collects crystal",
           "choices": [
-            "What is The Glass Menagerie?",
-            "What is The Cherry Orchard?",
-            "What is The Seagull?",
-            "What is A Doll's House?"
+            "The Glass Menagerie",
+            "The Cherry Orchard",
+            "The Seagull",
+            "A Doll's House"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Eliot: Becket buys the farm",
           "choices": [
-            "What is Murder in the Cathedral?",
-            "What is Waiting for Godot?",
-            "What is Saint Joan?",
-            "What is Becket?"
+            "Murder in the Cathedral",
+            "Waiting for Godot",
+            "Saint Joan",
+            "Becket"
           ],
           "correctIndex": 0
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Before writing & directing \"Manchester by the Sea\", he got a Pulitzer nomination for his play \"The Waverly Gallery\\\"",
           "choices": [
-            "What is Neil LaBute?",
-            "What is Tracy Letts?",
-            "What is Adam Rapp?",
-            "What is Kenneth Lonergan?"
+            "Neil LaBute",
+            "Tracy Letts",
+            "Adam Rapp",
+            "Kenneth Lonergan"
           ],
           "correctIndex": 3
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "In \"On The Old Spanish Trail\", \"no silver\" ones of these \"jingled like hers and mine\\\"",
           "choices": [
-            "What is spurs?",
-            "What is boots?",
-            "What is coins?",
-            "What is bells?"
+            "spurs",
+            "boots",
+            "coins",
+            "bells"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "(Cheryl of the Clue Crew belts out a tune from atop a horse on a dude ranch in Montana.) Dale Evans wrote the lyrics to this song that says: \"Until we meet again\\\"",
           "choices": [
-            "What is \"Back in the Saddle Again\"?",
-            "What is \"Home on the Range\"?",
-            "What is \\\"Happy Trails\\\"?",
-            "What is \"Don't Fence Me In\"?"
+            "\"Back in the Saddle Again\"",
+            "\"Home on the Range\"",
+            "\\\"Happy Trails\\\"",
+            "\"Don't Fence Me In\""
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "In 1939 this movie cowboy recorded \"Back In The Saddle Again\", a song that later became the theme of his TV series",
           "choices": [
-            "Who is Roy Rogers?",
-            "What is Gene Autry?",
-            "Who is Tom Mix?",
-            "Who is Tex Ritter?"
+            "Roy Rogers",
+            "Gene Autry",
+            "Tom Mix",
+            "Tex Ritter"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "\\\"Come along boys and listen to my tale, I'll tell you of my troubles on\" this old cattle trail",
           "choices": [
-            "What is the Shawnee Trail?",
-            "What is the \"Old Chisholm Trail\\\"?",
-            "What is the Goodnight-Loving Trail?",
-            "What is the Santa Fe Trail?"
+            "the Shawnee Trail",
+            "the \"Old Chisholm Trail\\\"",
+            "the Goodnight-Loving Trail",
+            "the Santa Fe Trail"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "In \"Felina\", the \"Breaking Bad\" finale, this Marty Robbins hit echoed the events in the episode",
           "choices": [
-            "What is \"Big Iron\"?",
-            "What is \\\"El Paso\\\"?",
-            "What is \"Gunfighter Ballad\"?",
-            "What is \"The Hanging Tree\"?"
+            "\"Big Iron\"",
+            "\\\"El Paso\\\"",
+            "\"Gunfighter Ballad\"",
+            "\"The Hanging Tree\""
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "When this Russian ruler died in 1796, she had reigned for 34 years",
           "choices": [
-            "Who is Peter the Great?",
-            "What is Catherine the Great?",
-            "Who is Elizabeth I of Russia?",
-            "Who is Maria Theresa?"
+            "Peter the Great",
+            "Catherine the Great",
+            "Elizabeth I of Russia",
+            "Maria Theresa"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Odessa was founded on the coast of this sea in 1794",
           "choices": [
-            "What is the Caspian Sea?",
-            "What is the Black Sea?",
-            "What is the Aegean Sea?",
-            "What is the Sea of Azov?"
+            "the Caspian Sea",
+            "the Black Sea",
+            "the Aegean Sea",
+            "the Sea of Azov"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "This king's warriors said \"Aloha\" to a rival chief's men by driving them off a cliff in Oahu in 1795",
           "choices": [
-            "Who is Kalani\u02bb\u014dpu\u02bbu?",
-            "Who is Kahekili?",
-            "Who is Kalanikupule?",
-            "What is Kamehameha?"
+            "Kalani\u02bb\u014dpu\u02bbu",
+            "Kahekili",
+            "Kalanikupule",
+            "Kamehameha"
           ],
           "correctIndex": 3
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "In 1795 this fiery orator turned down an offer to Secy. of State; he later declined the job of Chief Justice, too",
           "choices": [
-            "Who is Alexander Hamilton?",
-            "Who is John Adams?",
-            "What is Patrick Henry?",
-            "Who is James Madison?"
+            "Alexander Hamilton",
+            "John Adams",
+            "Patrick Henry",
+            "James Madison"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Because 2 more states had joined the Union, the number of stars on the U.S. flag was changed to this in 1795",
           "choices": [
-            "What is 13?",
-            "What is 15?",
-            "What is 16?",
-            "What is 17?"
+            "13",
+            "15",
+            "16",
+            "17"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "THE WAR YEARS",
     "clue": "In France: 1337-1453",
     "choices": [
-      "What is the Hundred Years' War?",
-      "What is the Crusades?",
-      "What is the War of the Roses?",
-      "What is the Thirty Years' War?"
+      "the Hundred Years' War",
+      "the Crusades",
+      "the War of the Roses",
+      "the Thirty Years' War"
     ],
     "correctIndex": 0
   }

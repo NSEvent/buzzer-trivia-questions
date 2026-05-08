@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "The urban complex of Soweto adjoins this metropolis of about 6 million, the nation's leading industrial & commercial city",
           "choices": [
-            "What is Johannesburg?",
-            "What is Cape Town?",
-            "What is Durban?",
-            "What is Pretoria?"
+            "Johannesburg",
+            "Cape Town",
+            "Durban",
+            "Pretoria"
           ],
           "correctIndex": 0
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "An English word for an ill-mannered person is related to this term for a South African settler",
           "choices": [
-            "What is Boer?",
-            "Who is a Voortrekker?",
-            "Who is an Afrikaner?",
-            "Who is a Uitlander?"
+            "Boer",
+            "a Voortrekker",
+            "an Afrikaner",
+            "a Uitlander"
           ],
           "correctIndex": 0
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Of South Africa's 12 official languages, this 4-letter African one is the most spoken in the country",
           "choices": [
-            "What is Xhosa?",
-            "What is Zulu?",
-            "What is Sotho?",
-            "What is Zulu?"
+            "Xhosa",
+            "Zulu",
+            "Sotho",
+            "Zulu"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Led by Mangosuthu Buthelezi, the Inkatha Freedom Party's support is based in this Bantu group",
           "choices": [
-            "What is the Xhosa?",
-            "What is the Sotho?",
-            "What is the Zulus?",
-            "What is the Ndebele?"
+            "the Xhosa",
+            "the Sotho",
+            "the Zulus",
+            "the Ndebele"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "South Africa completely surrounds this country once known as Basutoland",
           "choices": [
-            "What is Swaziland?",
-            "What is Botswana?",
-            "What is Lesotho?",
-            "What is Namibia?"
+            "Swaziland",
+            "Botswana",
+            "Lesotho",
+            "Namibia"
           ],
           "correctIndex": 2
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "In 1846 he was elected to Congress as an Illinois Whig; in 1856 he joined the antislavery Republican Party",
           "choices": [
-            "Who is Henry Clay?",
-            "Who is Stephen Douglas?",
-            "Who is Ulysses S. Grant?",
-            "What is Abraham Lincoln?"
+            "Henry Clay",
+            "Stephen Douglas",
+            "Ulysses S. Grant",
+            "Abraham Lincoln"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "This current mayor of New York has switched from Democrat to Republican to independent",
           "choices": [
-            "What is (Michael) Bloomberg?",
-            "Who is Rudy Giuliani?",
-            "Who is Bill de Blasio?",
-            "Who is Ed Koch?"
+            "(Michael) Bloomberg",
+            "Rudy Giuliani",
+            "Bill de Blasio",
+            "Ed Koch"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Loretta Sanchez became a Democrat & beat Bob Dornan to become a Congresswoman from this state",
           "choices": [
-            "What is Texas?",
-            "What is Arizona?",
-            "What is Florida?",
-            "What is California?"
+            "Texas",
+            "Arizona",
+            "Florida",
+            "California"
           ],
           "correctIndex": 3
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Once a Democrat, this Colorado senator became a Republican in 1995",
           "choices": [
-            "Who is Wayne Allard?",
-            "Who is Hank Brown?",
-            "What is Ben Nighthorse Campbell?",
-            "Who is Gary Hart?"
+            "Wayne Allard",
+            "Hank Brown",
+            "Ben Nighthorse Campbell",
+            "Gary Hart"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "The Secretary of the Navy under Reagan, Jim Webb was a Democrat when this state sent him to the Senate",
           "choices": [
-            "What is North Carolina?",
-            "What is Maryland?",
-            "What is Virginia?",
-            "What is Georgia?"
+            "North Carolina",
+            "Maryland",
+            "Virginia",
+            "Georgia"
           ],
           "correctIndex": 2
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "In 1705 this Brit became the first scientist to be knighted for his work; you could say he had some \"pull\\\"",
           "choices": [
-            "Who is Edmund Halley?",
-            "Who is Robert Boyle?",
-            "What is Isaac Newton?",
-            "Who is Francis Bacon?"
+            "Edmund Halley",
+            "Robert Boyle",
+            "Isaac Newton",
+            "Francis Bacon"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Death can result from a subdural this, a collection of blood in the tissue caused by blunt-force trauma",
           "choices": [
-            "What is an aneurysm?",
-            "What is a contusion?",
-            "What is hematoma?",
-            "What is an embolism?"
+            "an aneurysm",
+            "a contusion",
+            "hematoma",
+            "an embolism"
           ],
           "correctIndex": 2
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "One of the 2 main types of chemical bonds",
           "choices": [
-            "What is (either of) ionic or covalent?",
-            "What is hydrogen or metallic?",
-            "What is polar or nonpolar?",
-            "What is oxidative or reductive?"
+            "(either of) ionic or covalent",
+            "hydrogen or metallic",
+            "polar or nonpolar",
+            "oxidative or reductive"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "(Kelly of the Clue Crew reports.) Give a length of paper a half-twist, join the ends, & you've created one of these one-sided strips named for a German topologist",
           "choices": [
-            "What is a Klein bottle?",
-            "What is a M\u00f6bius strip?",
-            "What is a torus?",
-            "What is a Riemann surface?"
+            "a Klein bottle",
+            "a M\u00f6bius strip",
+            "a torus",
+            "a Riemann surface"
           ],
           "correctIndex": 1
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Humans can drink sea water once it has been desalinated, meaning this has been removed",
           "choices": [
-            "What is bacteria?",
-            "What is algae?",
-            "What is salt?",
-            "What is minerals?"
+            "bacteria",
+            "algae",
+            "salt",
+            "minerals"
           ],
           "correctIndex": 2
         }
@@ -186,10 +186,10 @@
     "category": "TURN OF THE CENTURY",
     "clue": "The Chinese secret society, \"The Righteous and Harmonious Fists\", was commonly called this",
     "choices": [
-      "What are the Taiping?",
-      "What are the Triads?",
-      "What are the White Lotus?",
-      "What is the Boxers?"
+      "the Taiping",
+      "the Triads",
+      "the White Lotus",
+      "the Boxers"
     ],
     "correctIndex": 3
   }

@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Walk like a duck",
           "choices": [
-            "What is toddle?",
-            "What is shuffle?",
-            "What is waddle?",
-            "What is wobble?"
+            "toddle",
+            "shuffle",
+            "waddle",
+            "wobble"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "A golf club schlepper",
           "choices": [
-            "What is a looper?",
-            "What is a porter?",
-            "What is a bagman?",
-            "What is caddie?"
+            "a looper",
+            "a porter",
+            "a bagman",
+            "caddie"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Last name of Asa, wed to the former Mary Baker in 1877",
           "choices": [
-            "What is Edwards?",
-            "What is Ellis?",
-            "What is Eddy?",
-            "What is Emerson?"
+            "Edwards",
+            "Ellis",
+            "Eddy",
+            "Emerson"
           ],
           "correctIndex": 2
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "To interfere unwantedly in someone else's affairs",
           "choices": [
-            "What is tamper?",
-            "What is intrude?",
-            "What is meddle?",
-            "What is interfere?"
+            "tamper",
+            "intrude",
+            "meddle",
+            "interfere"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "You can do it to eggs or pampered kids, with very different results",
           "choices": [
-            "What is poach?",
-            "What is spoil?",
-            "What is cradle?",
-            "What is coddle?"
+            "poach",
+            "spoil",
+            "cradle",
+            "coddle"
           ],
           "correctIndex": 3
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "\\\"Times Square Angel\" by Charles Busch spoofs \"It's a Wonderful Life\" & also this Dickens holiday classic",
           "choices": [
-            "What is 'The Cricket on the Hearth'?",
-            "What is 'Oliver Twist'?",
-            "What is A Christmas Carol?",
-            "What is 'The Chimes'?"
+            "'The Cricket on the Hearth'",
+            "'Oliver Twist'",
+            "A Christmas Carol",
+            "'The Chimes'"
           ],
           "correctIndex": 2
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Nancy Walker & Efrem Zimbalist Jr. starred in a 1956 revival of \"Fallen Angels\", a comedy by this sophisticated Brit",
           "choices": [
-            "Who is Oscar Wilde?",
-            "Who is Tom Stoppard?",
-            "Who is Harold Pinter?",
-            "What is Noel Coward?"
+            "Oscar Wilde",
+            "Tom Stoppard",
+            "Harold Pinter",
+            "Noel Coward"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "(Edward Albee delivers the clue.) In my one-act play \"The Sandbox\", Grandma meets a handsome young man who turns out to be the angel of this",
           "choices": [
-            "What is darkness?",
-            "What is death?",
-            "What is mercy?",
-            "What is destruction?"
+            "darkness",
+            "death",
+            "mercy",
+            "destruction"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "A Rodgers & Hart musical about a man so picky he insists on a heavenly bride is called \"I\" did this \"To An Angel\\\"",
           "choices": [
-            "What is Prayed?",
-            "What is Spoke?",
-            "What is Married?",
-            "What is Wrote?"
+            "Prayed",
+            "Spoke",
+            "Married",
+            "Wrote"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Zany characters abound in \"Duck Hunter Shoots Angel\", a play by this \"Tuesdays With Morrie\" author",
           "choices": [
-            "What is (Mitch) Albom?",
-            "Who is David Sedaris?",
-            "Who is Nicholas Sparks?",
-            "Who is Rick Bragg?"
+            "(Mitch) Albom",
+            "David Sedaris",
+            "Nicholas Sparks",
+            "Rick Bragg"
           ],
           "correctIndex": 0
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "In 1985 Carl Wilson provided backing vocals when David Lee Roth covered this Beach Boys tune",
           "choices": [
-            "What is 'Surfin' USA'?",
-            "What is 'Good Vibrations'?",
-            "What is \\\"California Girls\\\"?",
-            "What is 'Kokomo'?"
+            "'Surfin' USA'",
+            "'Good Vibrations'",
+            "\\\"California Girls\\\"",
+            "'Kokomo'"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Gladys Knight & the Pips hit No. 1 for the first time with this song in 1973",
           "choices": [
-            "What is 'Neither One of Us'?",
-            "What is 'I Heard It Through the Grapevine'?",
-            "What is 'Help Me Make It Through the Night'?",
-            "What is \\\"Midnight Train to Georgia\\\"?"
+            "'Neither One of Us'",
+            "'I Heard It Through the Grapevine'",
+            "'Help Me Make It Through the Night'",
+            "\\\"Midnight Train to Georgia\\\""
           ],
           "correctIndex": 3
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Alabama: \"If You're Gonna Play In ____ (You Gotta Have A Fiddle In The Band)\\\"",
           "choices": [
-            "What is Tennessee?",
-            "What is Texas?",
-            "What is Georgia?",
-            "What is Louisiana?"
+            "Tennessee",
+            "Texas",
+            "Georgia",
+            "Louisiana"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "According to a George Strait song, it's \"why I hang my hat in Tennessee\\\"",
           "choices": [
-            "What is 'Amarillo by Morning'?",
-            "What is 'The Chair'?",
-            "What is 'Ocean Front Property'?",
-            "What is \\\"All My Ex's Live in Texas\\\"?"
+            "'Amarillo by Morning'",
+            "'The Chair'",
+            "'Ocean Front Property'",
+            "\\\"All My Ex's Live in Texas\\\""
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Faith Hill: \"____ Girl\\\"",
           "choices": [
-            "What is Alabama?",
-            "What is Tennessee?",
-            "What is Georgia?",
-            "What is Mississippi?"
+            "Alabama",
+            "Tennessee",
+            "Georgia",
+            "Mississippi"
           ],
           "correctIndex": 3
         }
@@ -186,10 +186,10 @@
     "category": "GARDENS",
     "clue": "Term given the home vegetable gardens planted by patriotic Americans during WWII",
     "choices": [
-      "What are liberty gardens?",
-      "What is victory gardens?",
-      "What are war gardens?",
-      "What are ration gardens?"
+      "liberty gardens",
+      "victory gardens",
+      "war gardens",
+      "ration gardens"
     ],
     "correctIndex": 1
   }

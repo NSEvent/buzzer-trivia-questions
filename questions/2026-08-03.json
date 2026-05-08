@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "In the 1800s H.G. Wells' \"The Time Machine\" & \"The War of the Worlds\" pioneered this type of \"fiction\\\"",
           "choices": [
-            "What is fantasy fiction?",
-            "What is science fiction?",
-            "What is gothic fiction?",
-            "What is adventure fiction?"
+            "fantasy fiction",
+            "science fiction",
+            "gothic fiction",
+            "adventure fiction"
           ],
           "correctIndex": 1
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "\\\"Meet the Tiger!\" was the first of many books by Leslie Charteris to feature this hero, AKA Simon Templar",
           "choices": [
-            "Who is The Shadow?",
-            "Who is The Phantom?",
-            "What is The Saint?",
-            "Who is Bulldog Drummond?"
+            "The Shadow",
+            "The Phantom",
+            "The Saint",
+            "Bulldog Drummond"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "The Reader's Encyclopedia says his best-known novel is \"The Way of All Flesh\\\"",
           "choices": [
-            "Who is Thomas Hardy?",
-            "Who is George Gissing?",
-            "Who is Anthony Trollope?",
-            "What is Samuel Butler?"
+            "Thomas Hardy",
+            "George Gissing",
+            "Anthony Trollope",
+            "Samuel Butler"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "In his long nonsense poem, Lewis Carroll also called this hunted title creature a \"Boojum\\\"",
           "choices": [
-            "What is a Jabberwock?",
-            "What is a Bandersnatch?",
-            "What is a Jubjub?",
-            "What is Snark?"
+            "a Jabberwock",
+            "a Bandersnatch",
+            "a Jubjub",
+            "Snark"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "It's the last name of father & son novelists Kingsley & Martin",
           "choices": [
-            "What is Waugh?",
-            "What is Huxley?",
-            "What is Amis?",
-            "What is Greene?"
+            "Waugh",
+            "Huxley",
+            "Amis",
+            "Greene"
           ],
           "correctIndex": 2
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Found in northwest Rome, it's Europe's largest Christian church",
           "choices": [
-            "What is the Basilica of Saint John Lateran?",
-            "What is the Pantheon?",
-            "What is Santa Maria Maggiore?",
-            "What is St. Peter's Basilica?"
+            "the Basilica of Saint John Lateran",
+            "the Pantheon",
+            "Santa Maria Maggiore",
+            "St. Peter's Basilica"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "A podium & 3 columns remain from the temple he built to Venus for granting his win over Pompey",
           "choices": [
-            "What is Julius Caesar?",
-            "Who is Augustus?",
-            "Who is Mark Antony?",
-            "Who is Pompey?"
+            "Julius Caesar",
+            "Augustus",
+            "Mark Antony",
+            "Pompey"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Of Keats, Shelley or Byron, the British poet whose remains are not buried in Rome",
           "choices": [
-            "What is Byron?",
-            "Who is Keats?",
-            "Who is Shelley?",
-            "Who is Wordsworth?"
+            "Byron",
+            "Keats",
+            "Shelley",
+            "Wordsworth"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "If you're Rome for the holidays, check out the Pope's balcony speech \"Urbi et Orbi\" at noon on this day",
           "choices": [
-            "What is Easter?",
-            "What is Christmas?",
-            "What is New Year's Day?",
-            "What is Epiphany?"
+            "Easter",
+            "Christmas",
+            "New Year's Day",
+            "Epiphany"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "You might stay at Le Grand Hotel, founded in 1894 by Cesar Ritz with this top chef in charge of the opening banquet",
           "choices": [
-            "Who is Auguste Escoffier's apprentice Paul Bocuse?",
-            "What is Escoffier?",
-            "Who is Marie-Antoine Car\u00eame?",
-            "Who is Jules Gouff\u00e9?"
+            "Auguste Escoffier's apprentice Paul Bocuse",
+            "Escoffier",
+            "Marie-Antoine Car\u00eame",
+            "Jules Gouff\u00e9"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "After taking the Presidential oath in 1901 he shuffled out of Buffalo",
           "choices": [
-            "What is Teddy Roosevelt?",
-            "Who is William McKinley?",
-            "Who is William Howard Taft?",
-            "Who is Grover Cleveland?"
+            "Teddy Roosevelt",
+            "William McKinley",
+            "William Howard Taft",
+            "Grover Cleveland"
           ],
           "correctIndex": 0
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Andrew Carnegie sold his steel business to this new company",
           "choices": [
-            "What is Bethlehem Steel?",
-            "What is U.S. Steel?",
-            "What is Carnegie Steel?",
-            "What is Standard Oil?"
+            "Bethlehem Steel",
+            "U.S. Steel",
+            "Carnegie Steel",
+            "Standard Oil"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Jean H. Dunant, founder of this organization, was a co-winner of the Nobel Peace Prize",
           "choices": [
-            "What is the International Red Cross?",
-            "What is Doctors Without Borders?",
-            "What is the United Nations?",
-            "What is the Salvation Army?"
+            "the International Red Cross",
+            "Doctors Without Borders",
+            "the United Nations",
+            "the Salvation Army"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Andrew Carnegie & this man merged their companies in 1901 to form U.S. Steel",
           "choices": [
-            "What is J.P. Morgan?",
-            "Who is John D. Rockefeller?",
-            "Who is Andrew Mellon?",
-            "Who is Charles Schwab?"
+            "J.P. Morgan",
+            "John D. Rockefeller",
+            "Andrew Mellon",
+            "Charles Schwab"
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Robert Scott set off to explore this continent, where he named a peninsula for King Edward VII",
           "choices": [
-            "What is the Arctic?",
-            "What is Greenland?",
-            "What is Antarctica?",
-            "What is Patagonia?"
+            "the Arctic",
+            "Greenland",
+            "Antarctica",
+            "Patagonia"
           ],
           "correctIndex": 2
         }
@@ -186,10 +186,10 @@
     "category": "ROCK ME",
     "clue": "(Hi, I'm Nile Rodgers) 2 of the hit albums I produced during the '80s were \"Like A Virgin\" by Madonna & \"Let's Dance\" by this singer",
     "choices": [
-      "Who is Michael Jackson?",
-      "Who is Prince?",
-      "Who is Mick Jagger?",
-      "What is David Bowie?"
+      "Michael Jackson",
+      "Prince",
+      "Mick Jagger",
+      "David Bowie"
     ],
     "correctIndex": 3
   }

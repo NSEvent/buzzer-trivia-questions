@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "On March 12, 2008 this governor announced his resignation",
           "choices": [
-            "What is Spitzer?",
-            "Who is Blagojevich?",
-            "Who is McGreevey?",
-            "Who is Schwarzenegger?"
+            "Spitzer",
+            "Blagojevich",
+            "McGreevey",
+            "Schwarzenegger"
           ],
           "correctIndex": 0
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Lawyers took to the streets after the suspension Iftikhar Chaudhry, chief justice of this country",
           "choices": [
-            "What is India?",
-            "What is Bangladesh?",
-            "What is Pakistan?",
-            "What is Egypt?"
+            "India",
+            "Bangladesh",
+            "Pakistan",
+            "Egypt"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Erik Prince founded this co., a major presence in Iraq; it gets its name from the dark liquid at its N.C. headquarters",
           "choices": [
-            "What is Halliburton?",
-            "What is DynCorp?",
-            "What is Xe Services?",
-            "What is Blackwater?"
+            "Halliburton",
+            "DynCorp",
+            "Xe Services",
+            "Blackwater"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "This man is the mind behind an educational foundation as well as the \"Star Wars\" movies",
           "choices": [
-            "Who is Steven Spielberg?",
-            "Who is James Cameron?",
-            "Who is Francis Ford Coppola?",
-            "What is George Lucas?"
+            "Steven Spielberg",
+            "James Cameron",
+            "Francis Ford Coppola",
+            "George Lucas"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "In May 2002 this rootin' tootin' Russian president signed an arms control treaty with President Bush",
           "choices": [
-            "Who is Medvedev?",
-            "Who is Yeltsin?",
-            "Who is Gorbachev?",
-            "What is Vladimir Putin?"
+            "Medvedev",
+            "Yeltsin",
+            "Gorbachev",
+            "Vladimir Putin"
           ],
           "correctIndex": 3
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "A real Wilde read: \"The Picture of\" this beautiful young man",
           "choices": [
-            "What is Dorian Gray?",
-            "Who is Basil Hallward?",
-            "Who is Ernest Worthing?",
-            "Who is Algernon Moncrieff?"
+            "Dorian Gray",
+            "Basil Hallward",
+            "Ernest Worthing",
+            "Algernon Moncrieff"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "By Amy Schumer: \"The Girl with the Lower Back ____\\\"",
           "choices": [
-            "What is Tattoo?",
-            "What is Tattoo?",
-            "What is Scar?",
-            "What is Birthmark?"
+            "Tattoo",
+            "Tattoo",
+            "Scar",
+            "Birthmark"
           ],
           "correctIndex": 1
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "About the Titanic: \"A Night to ____\\\"",
           "choices": [
-            "What is Forget?",
-            "What is Mourn?",
-            "What is Remember?",
-            "What is Survive?"
+            "Forget",
+            "Mourn",
+            "Remember",
+            "Survive"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Ruth Ware's thriller set on a cruise ship, \"The Woman in\" this room",
           "choices": [
-            "What is Cabin 10?",
-            "What is Cabin 7?",
-            "What is Stateroom 5?",
-            "What is Suite 12?"
+            "Cabin 10",
+            "Cabin 7",
+            "Stateroom 5",
+            "Suite 12"
           ],
           "correctIndex": 0
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "James Patterson: \"Double ___\\\"",
           "choices": [
-            "What is Vision?",
-            "What is Down?",
-            "What is Cross?",
-            "What is Take?"
+            "Vision",
+            "Down",
+            "Cross",
+            "Take"
           ],
           "correctIndex": 2
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Fought in 2 stages during the 1940s, the Greek Civil War saw those of this political philosophy try & fail to take control",
           "choices": [
-            "Who are the Fascists?",
-            "Who are the Monarchists?",
-            "What is Communists?",
-            "Who are the Nationalists?"
+            "the Fascists",
+            "the Monarchists",
+            "Communists",
+            "the Nationalists"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "In 2015 Greece signed a 3-year bailout program & this fund agreed to help if Europe restructured the debt",
           "choices": [
-            "What is the World Bank?",
-            "What is the European Central Bank?",
-            "What is the Federal Reserve?",
-            "What is the IMF (the International Monetary Fund)?"
+            "the World Bank",
+            "the European Central Bank",
+            "the Federal Reserve",
+            "the IMF (the International Monetary Fund)"
           ],
           "correctIndex": 3
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "In 1967 Greece's politicians worried about a coup by generals, but a group of this lower rank took over for 7 years",
           "choices": [
-            "What is the lieutenants?",
-            "What is the majors?",
-            "What is the sergeants?",
-            "What is the colonels?"
+            "the lieutenants",
+            "the majors",
+            "the sergeants",
+            "the colonels"
           ],
           "correctIndex": 3
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Many thought Greece would get the Olympics again in this centennial year of the games, but it happened 8 years later",
           "choices": [
-            "What is 1992?",
-            "What is 1996?",
-            "What is 2000?",
-            "What is 1988?"
+            "1992",
+            "1996",
+            "2000",
+            "1988"
           ],
           "correctIndex": 1
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "In 2010 Greece was on the financial brink dealing with these \"measures\" whose name comes from a word meaning \"severe\\\"",
           "choices": [
-            "What are harsh measures?",
-            "What is austere measures (austerity)?",
-            "What are strict measures?",
-            "What are drastic measures?"
+            "harsh measures",
+            "austere measures (austerity)",
+            "strict measures",
+            "drastic measures"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "THE BELLES",
     "clue": "Born in N.C. in 1768, this cupcake was the belle of Washington society even after she was first lady",
     "choices": [
-      "What is Dolley Madison?",
-      "Who is Abigail Adams?",
-      "Who is Martha Jefferson?",
-      "Who is Elizabeth Monroe?"
+      "Dolley Madison",
+      "Abigail Adams",
+      "Martha Jefferson",
+      "Elizabeth Monroe"
     ],
     "correctIndex": 0
   }

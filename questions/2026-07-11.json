@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Shake \"it\" off a fundamental force & it's all this, sauce for turkey & mashed potatoes",
           "choices": [
-            "What is gravy?",
-            "What is gravy (from gravity)?",
-            "What is drizzle?",
-            "What is jus?"
+            "gravy",
+            "gravy (from gravity)",
+            "drizzle",
+            "jus"
           ],
           "correctIndex": 1
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Beignets are usually covered with piles of this stuff, so you may want to shake a little off if you don't want a mess",
           "choices": [
-            "What is cinnamon sugar?",
-            "What is cocoa powder?",
-            "What is granulated sugar?",
-            "What is powdered sugar?"
+            "cinnamon sugar",
+            "cocoa powder",
+            "granulated sugar",
+            "powdered sugar"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Here's this breed of herding dog shake, shake, shaking it off",
           "choices": [
-            "What is an Australian Shepherd?",
-            "What is a Shetland Sheepdog?",
-            "What is a Border Collie?",
-            "What is a Welsh Corgi?"
+            "an Australian Shepherd",
+            "a Shetland Sheepdog",
+            "a Border Collie",
+            "a Welsh Corgi"
           ],
           "correctIndex": 2
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Shake \"it\" off from something more important than other things to get this type of religious house",
           "choices": [
-            "What is a monastery?",
-            "What is an abbey?",
-            "What is a convent?",
-            "What is a priory (from priority)?"
+            "a monastery",
+            "an abbey",
+            "a convent",
+            "a priory (from priority)"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "If you're \"anti-\" allergies, you can shake off symptoms with one of these drugs like Zyrtec",
           "choices": [
-            "What is a decongestant?",
-            "What is a corticosteroid?",
-            "What is an epinephrine?",
-            "What is an antihistamine?"
+            "a decongestant",
+            "a corticosteroid",
+            "an epinephrine",
+            "an antihistamine"
           ],
           "correctIndex": 3
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "In June 1804 he demanded that Alexander Hamilton face the consequences of his \"base slander\\\"",
           "choices": [
-            "Who is Thomas Jefferson?",
-            "Who is James Madison?",
-            "What is (Aaron) Burr?",
-            "Who is John Adams?"
+            "Thomas Jefferson",
+            "James Madison",
+            "(Aaron) Burr",
+            "John Adams"
           ],
           "correctIndex": 2
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "In 1992 he wrote, \"The global environmental crisis is, as we say in Tennessee, real as rain\\\"",
           "choices": [
-            "Who is Bill Clinton?",
-            "Who is Walter Mondale?",
-            "What is Al Gore?",
-            "Who is Jimmy Carter?"
+            "Bill Clinton",
+            "Walter Mondale",
+            "Al Gore",
+            "Jimmy Carter"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "In 1968 Hubert Humphrey hoped the deaths of MLK & this man would \"not mark ...when America lost its way, but...found its conscience\\\"",
           "choices": [
-            "Who is Malcolm X?",
-            "Who is Medgar Evers?",
-            "What is Robert F. Kennedy?",
-            "Who is John F. Kennedy?"
+            "Malcolm X",
+            "Medgar Evers",
+            "Robert F. Kennedy",
+            "John F. Kennedy"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Running for pres. in 1984, this ex-veep said, \"Mr. Reagan will raise taxes, & so will I; he won't tell you, I just did\\\"",
           "choices": [
-            "Who is Jimmy Carter?",
-            "Who is Hubert Humphrey?",
-            "What is Walter Mondale?",
-            "Who is George McGovern?"
+            "Jimmy Carter",
+            "Hubert Humphrey",
+            "Walter Mondale",
+            "George McGovern"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "In a 1942 speech this progressive V.P. of FDR called the coming post-war period \"the century of the common man\\\"",
           "choices": [
-            "Who is Harry Truman?",
-            "Who is John Nance Garner?",
-            "What is Henry Wallace?",
-            "Who is Charles Curtis?"
+            "Harry Truman",
+            "John Nance Garner",
+            "Henry Wallace",
+            "Charles Curtis"
           ],
           "correctIndex": 2
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "The Belle Chasse Ferry takes people from Belle Chasse, Louisiana across this big river",
           "choices": [
-            "What is the Missouri?",
-            "What is the Mississippi?",
-            "What is the Red River?",
-            "What is the Atchafalaya?"
+            "the Missouri",
+            "the Mississippi",
+            "the Red River",
+            "the Atchafalaya"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "About 120 times a day Texas' Los Ebanos Ferry is pulled by hand across this river",
           "choices": [
-            "What is the Colorado River?",
-            "What is Rio Grande?",
-            "What is the Pecos River?",
-            "What is the Nueces River?"
+            "the Colorado River",
+            "Rio Grande",
+            "the Pecos River",
+            "the Nueces River"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Serving the Florida Keys, Yankee Freedom III ferries people to this \"Dry\" national park",
           "choices": [
-            "What is Biscayne?",
-            "What is Everglades?",
-            "What is Dry Tortugas?",
-            "What is Big Cypress?"
+            "Biscayne",
+            "Everglades",
+            "Dry Tortugas",
+            "Big Cypress"
           ],
           "correctIndex": 2
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "In 1879, Robert Louis Stevenson noted the ferry ride in describing his arrival at this California city",
           "choices": [
-            "What is Oakland?",
-            "What is Sacramento?",
-            "What is San Francisco?",
-            "What is Los Angeles?"
+            "Oakland",
+            "Sacramento",
+            "San Francisco",
+            "Los Angeles"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Manhattan & Brooklyn ferries will get you to this island named for those who held lofty government jobs",
           "choices": [
-            "What is Ellis Island?",
-            "What is Liberty Island?",
-            "What is Governors Island?",
-            "What is Roosevelt Island?"
+            "Ellis Island",
+            "Liberty Island",
+            "Governors Island",
+            "Roosevelt Island"
           ],
           "correctIndex": 2
         }
@@ -186,10 +186,10 @@
     "category": "THE GHOST OF TOM JOAD",
     "clue": "Don't forget Tom & all those who fled the Dust Bowl on this highway Steinbeck called \"The Great Western Road\\\"",
     "choices": [
-      "What is Route 40?",
-      "What is Route 66?",
-      "What is the Lincoln Highway?",
-      "What is the Santa Fe Trail?"
+      "Route 40",
+      "Route 66",
+      "the Lincoln Highway",
+      "the Santa Fe Trail"
     ],
     "correctIndex": 1
   },
@@ -197,10 +197,10 @@
     "category": "\\\"M.J.\\\"",
     "clue": "He led the Lakers to 5 NBA Championships in the '80s",
     "choices": [
-      "Who is Kareem Abdul-Jabbar?",
-      "Who is Pat Riley?",
-      "What is Magic Johnson?",
-      "Who is James Worthy?"
+      "Kareem Abdul-Jabbar",
+      "Pat Riley",
+      "Magic Johnson",
+      "James Worthy"
     ],
     "correctIndex": 2
   }

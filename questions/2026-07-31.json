@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "In 1988 this actress apologized to Vietnam vets & said that some of her behavior in Hanoi was \"thoughtless\\\"",
           "choices": [
-            "Who is Vanessa Redgrave?",
-            "What is Jane Fonda?",
-            "Who is Shirley MacLaine?",
-            "Who is Susan Sarandon?"
+            "Vanessa Redgrave",
+            "Jane Fonda",
+            "Shirley MacLaine",
+            "Susan Sarandon"
           ],
           "correctIndex": 1
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Did you say \"Phineas Fogg\"? No, the hero of \"Around the World in Eighty Days\" is named this",
           "choices": [
-            "Who is Phineas Fogg?",
-            "Who is Percival Fogg?",
-            "Who is Phillip Fogg?",
-            "What is Phileas Fogg?"
+            "Phineas Fogg",
+            "Percival Fogg",
+            "Phillip Fogg",
+            "Phileas Fogg"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "You're 20 years late\u2014Lagos was replaced in 1991 as the capital of this country",
           "choices": [
-            "What is Nigeria?",
-            "What is Tanzania?",
-            "What is C\u00f4te d'Ivoire?",
-            "What is Ghana?"
+            "Nigeria",
+            "Tanzania",
+            "C\u00f4te d'Ivoire",
+            "Ghana"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "I'm afraid the Canary Islands weren't named for birds but for these",
           "choices": [
-            "What is dogs?",
-            "What are canaries?",
-            "What are goats?",
-            "What are seals?"
+            "dogs",
+            "canaries",
+            "goats",
+            "seals"
           ],
           "correctIndex": 0
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "This WWII general publicly atoned for his slapping of a combat-exhausted soldier in a hospital",
           "choices": [
-            "Who is Douglas MacArthur?",
-            "Who is Omar Bradley?",
-            "Who is Dwight Eisenhower?",
-            "What is (George) Patton?"
+            "Douglas MacArthur",
+            "Omar Bradley",
+            "Dwight Eisenhower",
+            "(George) Patton"
           ],
           "correctIndex": 3
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "This title character had to work as a frycook at the Chum Bucket after Mr. Krabs lost him in a bet",
           "choices": [
-            "Who is Patrick Star?",
-            "Who is Sandy Cheeks?",
-            "Who is Squidward Tentacles?",
-            "What is SpongeBob SquarePants?"
+            "Patrick Star",
+            "Sandy Cheeks",
+            "Squidward Tentacles",
+            "SpongeBob SquarePants"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Restaurants on this animated series include The Frying Dutchman & Krusty Burger",
           "choices": [
-            "What is Family Guy?",
-            "What is Futurama?",
-            "What is The Simpsons?",
-            "What is Bob's Burgers?"
+            "Family Guy",
+            "Futurama",
+            "The Simpsons",
+            "Bob's Burgers"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Law enforcement issues come up at the Reagan family Sunday dinners in many episodes of this CBS drama",
           "choices": [
-            "What is Blue Bloods?",
-            "What is NCIS?",
-            "What is The Good Wife?",
-            "What is Hawaii Five-0?"
+            "Blue Bloods",
+            "NCIS",
+            "The Good Wife",
+            "Hawaii Five-0"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Hilary Duff had a nightmare about working at the Burger Planet on this show",
           "choices": [
-            "What is Hannah Montana?",
-            "What is Lizzie McGuire?",
-            "What is That's So Raven?",
-            "What is Even Stevens?"
+            "Hannah Montana",
+            "Lizzie McGuire",
+            "That's So Raven",
+            "Even Stevens"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "You don't have to be psychic to know the Chill Grill is the home away from home on this Disney Channel show",
           "choices": [
-            "What is That's So Raven?",
-            "What is Kim Possible?",
-            "What is Lizzie McGuire?",
-            "What is The Suite Life of Zack and Cody?"
+            "That's So Raven",
+            "Kim Possible",
+            "Lizzie McGuire",
+            "The Suite Life of Zack and Cody"
           ],
           "correctIndex": 0
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "In Biblical times, this horn proclaimed the anointing of a new king",
           "choices": [
-            "What is a silver trumpet?",
-            "What is a cornet?",
-            "What is a lur?",
-            "What is a shofar?"
+            "a silver trumpet",
+            "a cornet",
+            "a lur",
+            "a shofar"
           ],
           "correctIndex": 3
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Willem Schouten, who rounded the Horn, named it after his birthplace in this country",
           "choices": [
-            "What is Denmark?",
-            "What is Holland (the Netherlands)?",
-            "What is Portugal?",
-            "What is Spain?"
+            "Denmark",
+            "Holland (the Netherlands)",
+            "Portugal",
+            "Spain"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Washington Irving's 1835 \"A Tour on the Prairies\" describes one of these colorful novices who \"knew nothing of the woods\\\"",
           "choices": [
-            "What is a tenderfoot?",
-            "What is a rookie?",
-            "What is a greenhorn?",
-            "What is a pilgrim?"
+            "a tenderfoot",
+            "a rookie",
+            "a greenhorn",
+            "a pilgrim"
           ],
           "correctIndex": 2
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "This wooden Swiss horn can be up to 10 feet long\u2014Ricola!",
           "choices": [
-            "What is a didgeridoo?",
-            "What is an alpenhorn?",
-            "What is a recorder?",
-            "What is a hurdy-gurdy?"
+            "a didgeridoo",
+            "an alpenhorn",
+            "a recorder",
+            "a hurdy-gurdy"
           ],
           "correctIndex": 1
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "This British naval captain \"Endeavour\"ed to sail around the Horn\u2014& did in 1769",
           "choices": [
-            "What is Cook?",
-            "Who is Captain Bligh?",
-            "Who is Admiral Nelson?",
-            "Who is Sir Francis Drake?"
+            "Cook",
+            "Captain Bligh",
+            "Admiral Nelson",
+            "Sir Francis Drake"
           ],
           "correctIndex": 0
         }
@@ -186,10 +186,10 @@
     "category": "ABOLITIONISTS",
     "clue": "He viewed a solar eclipse as a for action & began a slave revolt August 21, 1831",
     "choices": [
-      "Who is Denmark Vesey?",
-      "What is Nat Turner?",
-      "Who is Gabriel Prosser?",
-      "Who is Frederick Douglass?"
+      "Denmark Vesey",
+      "Nat Turner",
+      "Gabriel Prosser",
+      "Frederick Douglass"
     ],
     "correctIndex": 1
   }

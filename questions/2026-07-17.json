@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "He hired Henry Reichenbach to develop a transparent base to be used in his Kodaks",
           "choices": [
-            "What is (George) Eastman?",
-            "Who is Thomas Edison?",
-            "Who is Edwin Land?",
-            "Who is Alexander Graham Bell?"
+            "(George) Eastman",
+            "Thomas Edison",
+            "Edwin Land",
+            "Alexander Graham Bell"
           ],
           "correctIndex": 0
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "In October 1990, a Cincinnati art museum was cleared of obscenity charges for exhibiting his work",
           "choices": [
-            "Who is Andres Serrano?",
-            "Who is Sally Mann?",
-            "Who is Annie Leibovitz?",
-            "What is (Robert) Mapplethorpe?"
+            "Andres Serrano",
+            "Sally Mann",
+            "Annie Leibovitz",
+            "(Robert) Mapplethorpe"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Paul Goresh took the last known photo of this rock star on Dec. 8, 1980 as he was signing his \"Double Fantasy\" album",
           "choices": [
-            "Who is Paul McCartney?",
-            "Who is George Harrison?",
-            "Who is Mick Jagger?",
-            "What is John Lennon?"
+            "Paul McCartney",
+            "George Harrison",
+            "Mick Jagger",
+            "John Lennon"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Dorothea Lange's \"Migrant Mother\" is an iconic photo of Florence Thompson from this period in U.S. history",
           "choices": [
-            "What is the Dust Bowl?",
-            "What is the Great Depression?",
-            "What is the New Deal?",
-            "What is the Oklahoma Land Rush?"
+            "the Dust Bowl",
+            "the Great Depression",
+            "the New Deal",
+            "the Oklahoma Land Rush"
           ],
           "correctIndex": 0
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "In 1927 he became the official trip photographer of the Sierra Club",
           "choices": [
-            "What is Ansel Adams?",
-            "Who is Edward Weston?",
-            "Who is Dorothea Lange?",
-            "Who is Yosemite Adams?"
+            "Ansel Adams",
+            "Edward Weston",
+            "Dorothea Lange",
+            "Yosemite Adams"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "(Jimmy of the Clue Crew reports from the Las Vegas Motor Speedway.) To keep the rubber on the road, racecar tires adapt an early U.S. slogan & say \"Don't Put\" this \"on Me\\\"",
           "choices": [
-            "What is rubber?",
-            "What is grip?",
-            "What is tread?",
-            "What is slick?"
+            "rubber",
+            "grip",
+            "tread",
+            "slick"
           ],
           "correctIndex": 2
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "In 1959 Lee Petty became the first to win the Daytona 500; this son later won the race a record 7 times",
           "choices": [
-            "Who is Kyle Petty?",
-            "What is Richard Petty?",
-            "Who is Dale Petty?",
-            "Who is Bobby Petty?"
+            "Kyle Petty",
+            "Richard Petty",
+            "Dale Petty",
+            "Bobby Petty"
           ],
           "correctIndex": 1
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "(I'm Danica Patrick.) In 2008, on a circuit owned by Honda in this country, I became the first woman to win a major-league open-wheel race",
           "choices": [
-            "What is Australia?",
-            "What is Brazil?",
-            "What is Japan?",
-            "What is Germany?"
+            "Australia",
+            "Brazil",
+            "Japan",
+            "Germany"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Seating over 140,000, this state's Talladega Superspeedway claims the title of biggest motor sports facility",
           "choices": [
-            "What is Alabama?",
-            "What is Texas?",
-            "What is Florida?",
-            "What is North Carolina?"
+            "Alabama",
+            "Texas",
+            "Florida",
+            "North Carolina"
           ],
           "correctIndex": 0
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "In 1999 the A.P.'s Driver of the Century was this Italian American whose career spanned the 1950s to the 1990s",
           "choices": [
-            "Who is A.J. Foyt?",
-            "What is Mario Andretti?",
-            "Who is Juan Manuel Fangio?",
-            "Who is Al Unser?"
+            "A.J. Foyt",
+            "Mario Andretti",
+            "Juan Manuel Fangio",
+            "Al Unser"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "The world record for number of leaves on a stem of this, Trifolium repens, is 56 found in Japan in 2009; that's 14 times the luck!",
           "choices": [
-            "What is a four-leaf clover?",
-            "What is dandelion?",
-            "What is bindweed?",
-            "What is a shamrock (clover)?"
+            "a four-leaf clover",
+            "dandelion",
+            "bindweed",
+            "a shamrock (clover)"
           ],
           "correctIndex": 3
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "The common type of this weed, genus ambrosia, can set off hay fever symptoms",
           "choices": [
-            "What is goldenrod?",
-            "What is ragweed?",
-            "What is crabgrass?",
-            "What is pigweed?"
+            "goldenrod",
+            "ragweed",
+            "crabgrass",
+            "pigweed"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "A brown Crayola color is named for this plant that blows down the streets of Western towns",
           "choices": [
-            "What is sagebrush?",
-            "What is a tumbleweed?",
-            "What is creosote?",
-            "What is Russian thistle?"
+            "sagebrush",
+            "a tumbleweed",
+            "creosote",
+            "Russian thistle"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Larvae of monarch butterflies eat this \"weed\" that gets its name from its cloudy white juice",
           "choices": [
-            "What is dandelion?",
-            "What is thistle?",
-            "What is chicory?",
-            "What is milkweed?"
+            "dandelion",
+            "thistle",
+            "chicory",
+            "milkweed"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Milk, Russian & bull are types of this prickly stemmed weed",
           "choices": [
-            "What is nettle?",
-            "What is burr?",
-            "What is bramble?",
-            "What is thistles?"
+            "nettle",
+            "burr",
+            "bramble",
+            "thistles"
           ],
           "correctIndex": 3
         }
@@ -186,10 +186,10 @@
     "category": "EASY SCIENCE",
     "clue": "mR are milli-these units of radiation named for a scientist who saw through you",
     "choices": [
-      "What is a rad?",
-      "What is roentgen?",
-      "What is a rem?",
-      "What is a curie?"
+      "a rad",
+      "roentgen",
+      "a rem",
+      "a curie"
     ],
     "correctIndex": 1
   }

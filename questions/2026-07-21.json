@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "7-letter beach danger\u2014at least keep it to first degree",
           "choices": [
-            "What is riptide?",
-            "What is heatstroke?",
-            "What is jellyfish sting?",
-            "What is sunburn?"
+            "riptide",
+            "heatstroke",
+            "jellyfish sting",
+            "sunburn"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "It's his business to embalm you when the time comes",
           "choices": [
-            "What is a mortician?",
-            "What is a coroner?",
-            "What is undertaker?",
-            "What is an embalmer?"
+            "a mortician",
+            "a coroner",
+            "undertaker",
+            "an embalmer"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Rare except in \"Jeopardy!\" clues & nature films, this adjective means relating to or typical of bears",
           "choices": [
-            "What is lupine?",
-            "What is ursine?",
-            "What is bovine?",
-            "What is feline?"
+            "lupine",
+            "ursine",
+            "bovine",
+            "feline"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "German prefix for \"beyond\", \"over\" or \"super\\\"",
           "choices": [
-            "What is ober?",
-            "What is vor?",
-            "What is \u00fcber?",
-            "What is super?"
+            "ober",
+            "vor",
+            "\u00fcber",
+            "super"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "As Schliemann is to Troy, Woolley is to this city",
           "choices": [
-            "What is Ur?",
-            "What is Babylon?",
-            "What is Nineveh?",
-            "What is Carthage?"
+            "Ur",
+            "Babylon",
+            "Nineveh",
+            "Carthage"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "It's the point of maximum velocity in a pendulum's swing",
           "choices": [
-            "What is the top of the arc?",
-            "What is the midpoint of the swing?",
-            "What is the point of maximum displacement?",
-            "What is the bottom of the arc in equilibrium?"
+            "the top of the arc",
+            "the midpoint of the swing",
+            "the point of maximum displacement",
+            "the bottom of the arc in equilibrium"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "A stapler is an example of this simple machine, with the hinge serving as the fulcrum",
           "choices": [
-            "What is a lever?",
-            "What is a pulley?",
-            "What is a wedge?",
-            "What is an inclined plane?"
+            "a lever",
+            "a pulley",
+            "a wedge",
+            "an inclined plane"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Before this element can be used in a fission reactor, it has to be enriched to increase the level of its 235 isotope",
           "choices": [
-            "What is plutonium?",
-            "What is uranium?",
-            "What is thorium?",
-            "What is radium?"
+            "plutonium",
+            "uranium",
+            "thorium",
+            "radium"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "This positively charged nuclear particle has almost 2,000 times the mass of the negatively charged electron",
           "choices": [
-            "What is a neutron?",
-            "What is a positron?",
-            "What is a quark?",
-            "What is a proton?"
+            "a neutron",
+            "a positron",
+            "a quark",
+            "a proton"
           ],
           "correctIndex": 3
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Branch of physics dealing with motion, like the bumping of molecules in a gas",
           "choices": [
-            "What is kinetics?",
-            "What is dynamics?",
-            "What is kinematics?",
-            "What is mechanics?"
+            "kinetics",
+            "dynamics",
+            "kinematics",
+            "mechanics"
           ],
           "correctIndex": 0
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Three Times A ____ Marmalade",
           "choices": [
-            "What is Lady?",
-            "What is Baby?",
-            "What is Rose?",
-            "What is Lucky?"
+            "Lady",
+            "Baby",
+            "Rose",
+            "Lucky"
           ],
           "correctIndex": 0
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "I Am a ____ Lobster",
           "choices": [
-            "What is Stone?",
-            "What is Hard?",
-            "What is Rock?",
-            "What is Red?"
+            "Stone",
+            "Hard",
+            "Rock",
+            "Red"
           ],
           "correctIndex": 2
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Drink Country: Tennessee ____ Lullaby",
           "choices": [
-            "What is Whiskey?",
-            "What is Bourbon?",
-            "What is Honey?",
-            "What is Rain?"
+            "Whiskey",
+            "Bourbon",
+            "Honey",
+            "Rain"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "She's a ____ Marmalade",
           "choices": [
-            "What is Rose?",
-            "What is Tiger?",
-            "What is Lady?",
-            "What is Star?"
+            "Rose",
+            "Tiger",
+            "Lady",
+            "Star"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "I'm Like a ____ Dog",
           "choices": [
-            "What is Hot?",
-            "What is Bird?",
-            "What is Wild?",
-            "What is Free?"
+            "Hot",
+            "Bird",
+            "Wild",
+            "Free"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "HIPPO-POURRI",
     "clue": "A bronze hippo is the unofficial mascot of George Washington Univ., as legend says hippos once swam in this river",
     "choices": [
-      "What is the Susquehanna?",
-      "What is the Anacostia?",
-      "What is the Shenandoah?",
-      "What is the Potomac?"
+      "the Susquehanna",
+      "the Anacostia",
+      "the Shenandoah",
+      "the Potomac"
     ],
     "correctIndex": 3
   }

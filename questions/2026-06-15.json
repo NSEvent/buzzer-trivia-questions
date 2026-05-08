@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Laura Lee Hope wrote a series of books about two different sets of these fictional twins",
           "choices": [
-            "What are the Hardy Boys?",
-            "What are the Boxcar Children?",
-            "What is The Bobbsey Twins?",
-            "What are the Sweet Valley Twins?"
+            "the Hardy Boys",
+            "the Boxcar Children",
+            "The Bobbsey Twins",
+            "the Sweet Valley Twins"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "When the Washington Senators Major League Baseball team relocated in 1961, they became this team",
           "choices": [
-            "What are the Texas Rangers?",
-            "What are the Kansas City Royals?",
-            "What are the Baltimore Orioles?",
-            "What is Minnesota Twins?"
+            "the Texas Rangers",
+            "the Kansas City Royals",
+            "the Baltimore Orioles",
+            "Minnesota Twins"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "In Greek mythology, Helen of Troy was the sister of these twins",
           "choices": [
-            "What is Castor & Pollux?",
-            "What are Romulus & Remus?",
-            "What are Apollo & Artemis?",
-            "What are Eros & Anteros?"
+            "Castor & Pollux",
+            "Romulus & Remus",
+            "Apollo & Artemis",
+            "Eros & Anteros"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "First names of the famous Siamese twins of the 19th century",
           "choices": [
-            "What are Phineas & Barnum?",
-            "What is Chang & Eng (Bunker)?",
-            "What are Millie & Christine?",
-            "What are Daisy & Violet?"
+            "Phineas & Barnum",
+            "Chang & Eng (Bunker)",
+            "Millie & Christine",
+            "Daisy & Violet"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "In the 1930s Hollywood censor Joseph Breen suggested that movies use these items of furniture in marital scenes",
           "choices": [
-            "What are separate bedrooms?",
-            "What are bunk beds?",
-            "What are Murphy beds?",
-            "What is twin beds?"
+            "separate bedrooms",
+            "bunk beds",
+            "Murphy beds",
+            "twin beds"
           ],
           "correctIndex": 3
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "This 1979 character's \"Choice\" has entered the language often meaning decisions much easier than hers",
           "choices": [
-            "What is Sophie?",
-            "What is Bridget?",
-            "What is Kristin?",
-            "What is Clarissa?"
+            "Sophie",
+            "Bridget",
+            "Kristin",
+            "Clarissa"
           ],
           "correctIndex": 0
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "I'm reading the first Narnia book, \"The Li\u2014\"; \"Nuh-uh, the first is this one about Digory because the stuff in it happens first\\\"",
           "choices": [
-            "What is The Horse and His Boy?",
-            "What is Prince Caspian?",
-            "What is The Silver Chair?",
-            "What is The Magician's Nephew?"
+            "The Horse and His Boy",
+            "Prince Caspian",
+            "The Silver Chair",
+            "The Magician's Nephew"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "This orphan was written into existence just after the passing of the Poor Law of 1834",
           "choices": [
-            "What is Nicholas Nickleby?",
-            "What is Oliver Twist?",
-            "What is Pip?",
-            "What is David Copperfield?"
+            "Nicholas Nickleby",
+            "Oliver Twist",
+            "Pip",
+            "David Copperfield"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "In a Lew Wallace novel, this title charioteer witnesses the crucifixion of Jesus",
           "choices": [
-            "What is Spartacus?",
-            "What is Judah?",
-            "What is Ben-Hur?",
-            "What is Maximus?"
+            "Spartacus",
+            "Judah",
+            "Ben-Hur",
+            "Maximus"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Justin Quayle carefully tends to his plants while seeking his wife's killer in this John le Carr\u00e9 thriller",
           "choices": [
-            "What is The Tailor of Panama?",
-            "What is The Constant Gardener?",
-            "What is Tinker Tailor Soldier Spy?",
-            "What is The Russia House?"
+            "The Tailor of Panama",
+            "The Constant Gardener",
+            "Tinker Tailor Soldier Spy",
+            "The Russia House"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Novel in which Robert Kincaid says to Francesca, \"This kind of certainty comes only once\\\"",
           "choices": [
-            "What is The Bridges of Madison County?",
-            "What is The Horse Whisperer?",
-            "What is Message in a Bottle?",
-            "What is Nights in Rodanthe?"
+            "The Bridges of Madison County",
+            "The Horse Whisperer",
+            "Message in a Bottle",
+            "Nights in Rodanthe"
           ],
           "correctIndex": 0
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "This debut novel by Charles Frazier was a take on Homer's \"Odyssey\" set during the Civil War",
           "choices": [
-            "What is The Red Badge of Courage?",
-            "What is Cold Mountain?",
-            "What is Oldest Living Confederate Widow Tells All?",
-            "What is Gods and Generals?"
+            "The Red Badge of Courage",
+            "Cold Mountain",
+            "Oldest Living Confederate Widow Tells All",
+            "Gods and Generals"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "You could say this John Grisham novel featuring Tulane law student Darby Shaw was for the birds",
           "choices": [
-            "What is The Rainmaker?",
-            "What is The Pelican Brief?",
-            "What is The Client?",
-            "What is The Chamber?"
+            "The Rainmaker",
+            "The Pelican Brief",
+            "The Client",
+            "The Chamber"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "In 1999 this novelist found the time to pick up a Pulitzer Prize for \"The Hours\\\"",
           "choices": [
-            "What is Annie Proulx?",
-            "What is Jane Smiley?",
-            "What is Michael Cunningham?",
-            "What is Carol Shields?"
+            "Annie Proulx",
+            "Jane Smiley",
+            "Michael Cunningham",
+            "Carol Shields"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "In 1993 James Patterson came along with his first Alex Cross novel, \"Along Came\" this",
           "choices": [
-            "What is a Stranger?",
-            "What is a Killer?",
-            "What is a Ghost?",
-            "What is a Spider?"
+            "a Stranger",
+            "a Killer",
+            "a Ghost",
+            "a Spider"
           ],
           "correctIndex": 3
         }
@@ -186,10 +186,10 @@
     "category": "A SHAPELY CATEGORY",
     "clue": "Now part of Nestl\u00e9, this pet food brand is headquartered at Checkerboard Square in St. Louis, on a campus with 3 dog parks",
     "choices": [
-      "What is Alpo?",
-      "What is Iams?",
-      "What is Pedigree?",
-      "What is Purina?"
+      "Alpo",
+      "Iams",
+      "Pedigree",
+      "Purina"
     ],
     "correctIndex": 3
   }

@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Much of the music for this 1959 film, including the song \"Once Upon A Dream\" was adapted from an 1890 ballet",
           "choices": [
-            "What is Cinderella?",
-            "What is Fantasia?",
-            "What is Snow White?",
-            "What is Sleeping Beauty?"
+            "Cinderella",
+            "Fantasia",
+            "Snow White",
+            "Sleeping Beauty"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Famous voices in this film include Ed Wynn as the Mad Hatter & Jerry Colonna as the March Hare",
           "choices": [
-            "What is Peter Pan?",
-            "What is Dumbo?",
-            "What is Cinderella?",
-            "What is Alice in Wonderland?"
+            "Peter Pan",
+            "Dumbo",
+            "Cinderella",
+            "Alice in Wonderland"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Mowgli finds out it's a jungle out there in this film based on Kipling's classic",
           "choices": [
-            "What is The Jungle Book?",
-            "What is Tarzan?",
-            "What is Robin Hood?",
-            "What is The Lion King?"
+            "The Jungle Book",
+            "Tarzan",
+            "Robin Hood",
+            "The Lion King"
           ],
           "correctIndex": 0
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Among the babes in \"Babes in Toyland\" are Ann Jillian as Bo Peep & this Mouseketeer as Mary Contrary",
           "choices": [
-            "Who is Shelley Fabares?",
-            "Who is Hayley Mills?",
-            "Who is Doreen Tracy?",
-            "What is Annette Funicello?"
+            "Shelley Fabares",
+            "Hayley Mills",
+            "Doreen Tracy",
+            "Annette Funicello"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "The title fawn in Disney's 1942 film is this deer",
           "choices": [
-            "What is Bambi?",
-            "What is Thumper?",
-            "What is Flower?",
-            "What is Faline?"
+            "Bambi",
+            "Thumper",
+            "Flower",
+            "Faline"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Pioneering computer programmer Grace Murray Hopper coined this term for a mysterious computer problem",
           "choices": [
-            "What is glitch?",
-            "What is crash?",
-            "What is error?",
-            "What is bug?"
+            "glitch",
+            "crash",
+            "error",
+            "bug"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Nobel laureate Gertrude Elion helped develop drugs to treat herpes, gout & this, cancer of the bone marrow",
           "choices": [
-            "What is lymphoma?",
-            "What is leukemia?",
-            "What is melanoma?",
-            "What is myeloma?"
+            "lymphoma",
+            "leukemia",
+            "melanoma",
+            "myeloma"
           ],
           "correctIndex": 1
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Rosalind Franklin's X-ray photograph of this helped prove it to be a double-helix polymer",
           "choices": [
-            "What is DNA?",
-            "What is RNA?",
-            "What is a protein?",
-            "What is a chromosome?"
+            "DNA",
+            "RNA",
+            "a protein",
+            "a chromosome"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "In 1963 Maria Goeppert Mayer received a Nobel Prize in Physics for her \"shell model\" of this part of an atom",
           "choices": [
-            "What is the electron?",
-            "What is the proton?",
-            "What is Nucleus?",
-            "What is the neutron?"
+            "the electron",
+            "the proton",
+            "Nucleus",
+            "the neutron"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "Dorothy Hodgkin's Nobel Prize in Chemistry was for her work on this vitamin, whose deficiency causes pernicious anemia",
           "choices": [
-            "What is Vitamin C?",
-            "What is Vitamin B12?",
-            "What is Vitamin D?",
-            "What is Vitamin K?"
+            "Vitamin C",
+            "Vitamin B12",
+            "Vitamin D",
+            "Vitamin K"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "It's said 1 of field marshal Montgomery's 2 rules of war was \"never invade\" this country as Germany did",
           "choices": [
-            "What is France?",
-            "What is Poland?",
-            "What is Britain?",
-            "What is Russia?"
+            "France",
+            "Poland",
+            "Britain",
+            "Russia"
           ],
           "correctIndex": 3
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "This weapon was the defining characteristic of a German panzer division",
           "choices": [
-            "What is the submarine?",
-            "What is tank?",
-            "What is the fighter plane?",
-            "What is the artillery cannon?"
+            "the submarine",
+            "tank",
+            "the fighter plane",
+            "the artillery cannon"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Before stopping at Bitburg Cemetery, Reagan visited the site of this concentration camp",
           "choices": [
-            "What is Dachau?",
-            "What is Bergen-Belsen?",
-            "What is Auschwitz?",
-            "What is Buchenwald?"
+            "Dachau",
+            "Bergen-Belsen",
+            "Auschwitz",
+            "Buchenwald"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "This island was site of the 1st U.S. offensive in the Pacific",
           "choices": [
-            "What is Midway?",
-            "What is Iwo Jima?",
-            "What is island of Guadalcanal?",
-            "What is Okinawa?"
+            "Midway",
+            "Iwo Jima",
+            "island of Guadalcanal",
+            "Okinawa"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "City in which De Gaulle established the Provisional Nat'l Committee of the Free French in 1940",
           "choices": [
-            "What is Algiers?",
-            "What is Paris?",
-            "What is Vichy?",
-            "What is London?"
+            "Algiers",
+            "Paris",
+            "Vichy",
+            "London"
           ],
           "correctIndex": 3
         }
@@ -186,10 +186,10 @@
     "category": "NATURE",
     "clue": "Despite its length, the neck of the giraffe has only 7 of these bones, but they are elongated",
     "choices": [
-      "What is muscles?",
-      "What is tendons?",
-      "What is cartilage discs?",
-      "What is vertebrae?"
+      "muscles",
+      "tendons",
+      "cartilage discs",
+      "vertebrae"
     ],
     "correctIndex": 3
   }

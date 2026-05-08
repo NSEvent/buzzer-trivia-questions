@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Since 1963 this British title character has traveled through time & space in a device called the TARDIS",
           "choices": [
-            "What is Star Trek?",
-            "What is The Twilight Zone?",
-            "What is Quantum Leap?",
-            "What is Doctor Who?"
+            "Star Trek",
+            "The Twilight Zone",
+            "Quantum Leap",
+            "Doctor Who"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Mathematician Kurt Godel was a luminary at this New Jersey town's Institute for Advanced Study",
           "choices": [
-            "What is Trenton?",
-            "What is Cambridge?",
-            "What is Princeton?",
-            "What is New Haven?"
+            "Trenton",
+            "Cambridge",
+            "Princeton",
+            "New Haven"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "In the '60s he played Egghead, a super-smart villain on TV's \"Batman\\\"",
           "choices": [
-            "Who is Peter Sellers?",
-            "Who is Boris Karloff?",
-            "What is Vincent Price?",
-            "Who is Burgess Meredith?"
+            "Peter Sellers",
+            "Boris Karloff",
+            "Vincent Price",
+            "Burgess Meredith"
           ],
           "correctIndex": 2
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "In this screwball comedy, stuffy paleontologist Cary Grant had a few bones to pick with Katharine Hepburn",
           "choices": [
-            "What is His Girl Friday?",
-            "What is Bringing Up Baby?",
-            "What is The Philadelphia Story?",
-            "What is Ball of Fire?"
+            "His Girl Friday",
+            "Bringing Up Baby",
+            "The Philadelphia Story",
+            "Ball of Fire"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "As \"The Absent-Minded Professor\", Fred MacMurray reached new heights after discovering this magical substance",
           "choices": [
-            "What is flubber?",
-            "What is antimatter?",
-            "What is plutonium?",
-            "What is flux capacitor?"
+            "flubber",
+            "antimatter",
+            "plutonium",
+            "flux capacitor"
           ],
           "correctIndex": 0
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "These curved metal items can mean the hands or the fingers, as in the phrase \"get your ____ into\\\"",
           "choices": [
-            "What are clamps?",
-            "What are tongs?",
-            "What are talons?",
-            "What is hooks (claws)?"
+            "clamps",
+            "tongs",
+            "talons",
+            "hooks (claws)"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Oven & baseball are types of these, also slang for hands",
           "choices": [
-            "What are gloves?",
-            "What are paws?",
-            "What is mitts?",
-            "What are muffs?"
+            "gloves",
+            "paws",
+            "mitts",
+            "muffs"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "This title of nobility just below prince is slang for hands or fists",
           "choices": [
-            "What is earl?",
-            "What is duke?",
-            "What is baron?",
-            "What is count?"
+            "earl",
+            "duke",
+            "baron",
+            "count"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "The nerves providing sensation to the hand are the median, radial & this one that enters the hand via Guyon's canal",
           "choices": [
-            "What is the brachial?",
-            "What is the femoral?",
-            "What is the palmar?",
-            "What is ulnar?"
+            "the brachial",
+            "the femoral",
+            "the palmar",
+            "ulnar"
           ],
           "correctIndex": 3
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "A porcine character like Babe or Wilbur can be called this hyphenated term meaning clumsy or inept",
           "choices": [
-            "What is pig-headed?",
-            "What is hog-wild?",
-            "What is ham-handed?",
-            "What is boar-handed?"
+            "pig-headed",
+            "hog-wild",
+            "ham-handed",
+            "boar-handed"
           ],
           "correctIndex": 2
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Ferdinand, who likes to sit & smell the flowers",
           "choices": [
-            "What is a horse?",
-            "What is a bear?",
-            "What is a bull?",
-            "What is a dog?"
+            "a horse",
+            "a bear",
+            "a bull",
+            "a dog"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "Olivia, in books by Ian Falconer",
           "choices": [
-            "What is a mouse?",
-            "What is a rabbit?",
-            "What is a cat?",
-            "What is a pig?"
+            "a mouse",
+            "a rabbit",
+            "a cat",
+            "a pig"
           ],
           "correctIndex": 3
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Based on a TV show here & abroad: Peppa",
           "choices": [
-            "What is a duck?",
-            "What is a pig?",
-            "What is a dog?",
-            "What is a rabbit?"
+            "a duck",
+            "a pig",
+            "a dog",
+            "a rabbit"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Aslan: This majestic creature in Narnia",
           "choices": [
-            "What is a bear?",
-            "What is a horse?",
-            "What is a lion?",
-            "What is an eagle?"
+            "a bear",
+            "a horse",
+            "a lion",
+            "an eagle"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Inspiring a recent movie, \"The One and Only Ivan\\\"",
           "choices": [
-            "What is a gorilla?",
-            "What is an elephant?",
-            "What is a chimpanzee?",
-            "What is a tiger?"
+            "a gorilla",
+            "an elephant",
+            "a chimpanzee",
+            "a tiger"
           ],
           "correctIndex": 0
         }
@@ -186,10 +186,10 @@
     "category": "COUNTRIES",
     "clue": "In 1994 actor Ruben Blades ran for president of this Central American country; he came in 3rd",
     "choices": [
-      "What is Costa Rica?",
-      "What is Guatemala?",
-      "What is Nicaragua?",
-      "What is Panama?"
+      "Costa Rica",
+      "Guatemala",
+      "Nicaragua",
+      "Panama"
     ],
     "correctIndex": 3
   }

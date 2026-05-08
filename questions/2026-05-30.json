@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Like mustard & wasabi, this related root is prepared & used as a condiment",
           "choices": [
-            "What is ginger?",
-            "What is turmeric?",
-            "What is radish?",
-            "What is horseradish?"
+            "ginger",
+            "turmeric",
+            "radish",
+            "horseradish"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "Turkish candy made with sesame seeds & honey",
           "choices": [
-            "What is baklava?",
-            "What is marzipan?",
-            "What is halva?",
-            "What is halvah?"
+            "baklava",
+            "marzipan",
+            "halva",
+            "halvah"
           ],
           "correctIndex": 3
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Grown from bulbs, this colorful spring flower was named for a youth Apollo loved",
           "choices": [
-            "What is a dahlia?",
-            "What is a tulip?",
-            "What is a hyacinth?",
-            "What is a hollyhock?"
+            "a dahlia",
+            "a tulip",
+            "a hyacinth",
+            "a hollyhock"
           ],
           "correctIndex": 2
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "In music it can mean \"sharp\\\"",
           "choices": [
-            "What is harmony?",
-            "What is half step?",
-            "What is forte?",
-            "What is high?"
+            "harmony",
+            "half step",
+            "forte",
+            "high"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "To secretly devise something, like a plan for a really good door on my boat",
           "choices": [
-            "What is harbor?",
-            "What is hinge?",
-            "What is hatch?",
-            "What is helm?"
+            "harbor",
+            "hinge",
+            "hatch",
+            "helm"
           ],
           "correctIndex": 2
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "The Carringtons were shocked to find out she was part of the family dynasty",
           "choices": [
-            "Who is Alexis Carrington?",
-            "Who is Krystle Carrington?",
-            "Who is Fallon Carrington?",
-            "What is Dominique Deveraux?"
+            "Alexis Carrington",
+            "Krystle Carrington",
+            "Fallon Carrington",
+            "Dominique Deveraux"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Derived from the Italian for \"nephew\", it's favoritism shown to nephews or other relatives",
           "choices": [
-            "What is nepotism?",
-            "What is cronyism?",
-            "What is patronage?",
-            "What is simony?"
+            "nepotism",
+            "cronyism",
+            "patronage",
+            "simony"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "The Esperanto word for this female relative is onklino",
           "choices": [
-            "What is a niece?",
-            "What is a sister?",
-            "What is a cousin?",
-            "What is aunt?"
+            "a niece",
+            "a sister",
+            "a cousin",
+            "aunt"
           ],
           "correctIndex": 3
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Its the term for the relationship of the children of first cousins to each other",
           "choices": [
-            "What is third cousins?",
-            "What is second cousins?",
-            "What is cousins once removed?",
-            "What is half cousins?"
+            "third cousins",
+            "second cousins",
+            "cousins once removed",
+            "half cousins"
           ],
           "correctIndex": 1
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "An informal term for a grandmother, or the kind of knot she might tie",
           "choices": [
-            "What is nana?",
-            "What is mimi?",
-            "What is nan?",
-            "What is granny?"
+            "nana",
+            "mimi",
+            "nan",
+            "granny"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "The caribou",
           "choices": [
-            "What is an elk?",
-            "What is a moose?",
-            "What is Reindeer?",
-            "What is a musk ox?"
+            "an elk",
+            "a moose",
+            "Reindeer",
+            "a musk ox"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "This arachnid that resembles a spider is also called a harvestman",
           "choices": [
-            "What is a daddy long-legs?",
-            "What is a scorpion?",
-            "What is a tick?",
-            "What is a vinegaroon?"
+            "a daddy long-legs",
+            "a scorpion",
+            "a tick",
+            "a vinegaroon"
           ],
           "correctIndex": 0
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Hard-shell or littleneck clam",
           "choices": [
-            "What is Quahog?",
-            "What is a cherrystone?",
-            "What is an oyster?",
-            "What is a geoduck?"
+            "Quahog",
+            "a cherrystone",
+            "an oyster",
+            "a geoduck"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "The dugong or the manatee",
           "choices": [
-            "What is a narwhal?",
-            "What is a beluga?",
-            "What is Sea cow?",
-            "What is a porpoise?"
+            "a narwhal",
+            "a beluga",
+            "Sea cow",
+            "a porpoise"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "American buffalo",
           "choices": [
-            "What is a yak?",
-            "What is Bison?",
-            "What is a wildebeest?",
-            "What is a musk ox?"
+            "a yak",
+            "Bison",
+            "a wildebeest",
+            "a musk ox"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "ANATOMY",
     "clue": "The meniscus disks in your knee are a type of this material that may tear if you twist wrong",
     "choices": [
-      "What is tendon?",
-      "What is cartilage?",
-      "What is ligament?",
-      "What is fascia?"
+      "tendon",
+      "cartilage",
+      "ligament",
+      "fascia"
     ],
     "correctIndex": 1
   },
@@ -197,10 +197,10 @@
     "category": "DEMOCRATS",
     "clue": "Robert Reich, who holds this cabinet post, wrote the 1982 book \"Minding America's Business\\\"",
     "choices": [
-      "What is Secretary of Commerce?",
-      "What is Secretary of the Treasury?",
-      "What is Secretary of Health and Human Services?",
-      "What is Secretary of Labor?"
+      "Secretary of Commerce",
+      "Secretary of the Treasury",
+      "Secretary of Health and Human Services",
+      "Secretary of Labor"
     ],
     "correctIndex": 3
   }

@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "The first song listed in the \"Billboard Book of No. 1 Hits\" is this \"rockin'\" Bill Haley song from July 1955",
           "choices": [
-            "What is \"Shake, Rattle and Roll\"?",
-            "What is \"See You Later, Alligator\"?",
-            "What is \\\"Rock Around The Clock\\\"?",
-            "What is \"Whole Lotta Shakin' Goin' On\"?"
+            "\"Shake, Rattle and Roll\"",
+            "\"See You Later, Alligator\"",
+            "\\\"Rock Around The Clock\\\"",
+            "\"Whole Lotta Shakin' Goin' On\""
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "\\\"Stronger (What Doesn't Kill You)\", 2012",
           "choices": [
-            "Who is Beyonc\u00e9?",
-            "Who is (Carrie) Underwood?",
-            "What is (Kelly) Clarkson?",
-            "Who is (Pink)?"
+            "Beyonc\u00e9",
+            "(Carrie) Underwood",
+            "(Kelly) Clarkson",
+            "(Pink)"
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "\\\"Stay\", 2021: The Kid Laroi & him",
           "choices": [
-            "Who is Drake?",
-            "Who is Post Malone?",
-            "Who is Shawn Mendes?",
-            "What is Justin Bieber?"
+            "Drake",
+            "Post Malone",
+            "Shawn Mendes",
+            "Justin Bieber"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "\\\"I'm A Believer\", 1966",
           "choices": [
-            "Who are The Beatles?",
-            "Who are The Beach Boys?",
-            "Who are The Supremes?",
-            "What is The Monkees?"
+            "The Beatles",
+            "The Beach Boys",
+            "The Supremes",
+            "The Monkees"
           ],
           "correctIndex": 3
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "In a No. 1 hit from July 1985, he was \"findin' it hard to believe we're in heaven\\\"",
           "choices": [
-            "Who is John Mellencamp?",
-            "Who is Huey Lewis?",
-            "Who is Don Henley?",
-            "What is Bryan Adams?"
+            "John Mellencamp",
+            "Huey Lewis",
+            "Don Henley",
+            "Bryan Adams"
           ],
           "correctIndex": 3
         }
@@ -68,7 +68,7 @@
           "value": 200,
           "clue": "In the 1850s a familiar quotation of his may have been \"I have a notebook full of famous things people said. Wanna see?\\\"",
           "choices": [
-            "What is Bartlett?",
+            "Bartlett",
             "Boswell",
             "Roget",
             "Mencken"
@@ -80,7 +80,7 @@
           "clue": "We hope there's room at this public lodging house",
           "choices": [
             "the hostel",
-            "What is the inn?",
+            "the inn",
             "the motel",
             "the lodge"
           ],
@@ -93,7 +93,7 @@
             "zakat",
             "salat",
             "sawm",
-            "What is hajj?"
+            "hajj"
           ],
           "correctIndex": 3
         },
@@ -101,7 +101,7 @@
           "value": 800,
           "clue": "A mixture of liquid & solid food, such as table scraps fed to pigs",
           "choices": [
-            "What is swill?",
+            "swill",
             "slop",
             "mash",
             "gruel"
@@ -115,7 +115,7 @@
             "banter",
             "badinage",
             "riposte",
-            "What is repartee?"
+            "repartee"
           ],
           "correctIndex": 3
         }
@@ -130,7 +130,7 @@
           "choices": [
             "the Stamp Act Riots",
             "the Battles of Lexington and Concord",
-            "What is the Boston Massacre?",
+            "the Boston Massacre",
             "the Writs of Assistance Controversy"
           ],
           "correctIndex": 2
@@ -139,7 +139,7 @@
           "value": 400,
           "clue": "John Adams belonged to this party that favored a strong central government",
           "choices": [
-            "What is the Federalists?",
+            "the Federalists",
             "the Democratic-Republicans",
             "the Whigs",
             "the Anti-Federalists"
@@ -152,7 +152,7 @@
           "choices": [
             "the ABC Affair",
             "the Citizen Gen\u00eat Affair",
-            "What is the XYZ Affair?",
+            "the XYZ Affair",
             "the Quasi-War Affair"
           ],
           "correctIndex": 2
@@ -161,7 +161,7 @@
           "value": 800,
           "clue": "Adams called it \"the most insignificant office that ever the invention of man contrived\\\"",
           "choices": [
-            "What is the vice presidency?",
+            "the vice presidency",
             "the speakership",
             "the presidency pro tempore",
             "the secretary of state"
@@ -175,7 +175,7 @@
             "Hamilton",
             "Madison",
             "Burr",
-            "What is Jefferson?"
+            "Jefferson"
           ],
           "correctIndex": 3
         }
@@ -187,7 +187,7 @@
     "clue": "This \"large\" 3-time All-Pro Dallas Cowboy took time off from football to box in 1979",
     "choices": [
       "\"Mean\" Joe Greene",
-      "What is Ed \"Too Tall\" Jones\\\"?",
+      "Ed \"Too Tall\" Jones\\\"",
       "Harvey Martin",
       "Randy White"
     ],

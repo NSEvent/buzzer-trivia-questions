@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "This Hawaiian volcano, one of the most active in the world, has been erupting nearly continuously since 1983.",
           "choices": [
-            "What is Mauna Loa?",
-            "What is Kilauea?",
-            "What is Haleakala?",
-            "What is Mount St. Helens?"
+            "Mauna Loa",
+            "Kilauea",
+            "Haleakala",
+            "Mount St. Helens"
           ],
           "correctIndex": 1
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "The 79 AD eruption of this volcano buried Pompeii and Herculaneum under volcanic ash.",
           "choices": [
-            "What is Mount Etna?",
-            "What is Mount Vesuvius?",
-            "What is Stromboli?",
-            "What is Mount Olympus?"
+            "Mount Etna",
+            "Mount Vesuvius",
+            "Stromboli",
+            "Mount Olympus"
           ],
           "correctIndex": 1
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "This Indonesian volcano's 1883 eruption was heard over 3,000 miles away and caused global temperature drops.",
           "choices": [
-            "What is Mount Tambora?",
-            "What is Mount Merapi?",
-            "What is Mount Pinatubo?",
-            "What is Krakatoa?"
+            "Mount Tambora",
+            "Mount Merapi",
+            "Mount Pinatubo",
+            "Krakatoa"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "The eruption of this Icelandic volcano in 2010 disrupted European air travel for weeks due to its massive ash cloud.",
           "choices": [
-            "What is Hekla?",
-            "What is Katla?",
-            "What is Eyjafjallajokull?",
-            "What is Grimsvoetn?"
+            "Hekla",
+            "Katla",
+            "Eyjafjallajokull",
+            "Grimsvoetn"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "The 1815 eruption of this Indonesian volcano was the largest in recorded history, causing the Year Without a Summer in 1816.",
           "choices": [
-            "What is Krakatoa?",
-            "What is Mount Agung?",
-            "What is Mount Rinjani?",
-            "What is Mount Tambora?"
+            "Krakatoa",
+            "Mount Agung",
+            "Mount Rinjani",
+            "Mount Tambora"
           ],
           "correctIndex": 3
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "This British band released the iconic albums Abbey Road and Sgt. Pepper's Lonely Hearts Club Band.",
           "choices": [
-            "Who are The Rolling Stones?",
-            "Who are The Beatles?",
-            "Who are The Who?",
-            "Who are The Kinks?"
+            "The Rolling Stones",
+            "The Beatles",
+            "The Who",
+            "The Kinks"
           ],
           "correctIndex": 1
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Freddie Mercury was the legendary frontman of this band known for Bohemian Rhapsody.",
           "choices": [
-            "What is Queen?",
-            "What is Led Zeppelin?",
-            "What is Deep Purple?",
-            "What is Genesis?"
+            "Queen",
+            "Led Zeppelin",
+            "Deep Purple",
+            "Genesis"
           ],
           "correctIndex": 0
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "This guitarist, known for playing left-handed on a right-handed Stratocaster, headlined Woodstock in 1969.",
           "choices": [
-            "Who is Eric Clapton?",
-            "Who is Carlos Santana?",
-            "Who is Jimi Hendrix?",
-            "Who is Jimmy Page?"
+            "Eric Clapton",
+            "Carlos Santana",
+            "Jimi Hendrix",
+            "Jimmy Page"
           ],
           "correctIndex": 2
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "Pink Floyd's 1973 album that spent over 900 weeks on the Billboard 200 chart features a prism on its cover.",
           "choices": [
-            "What is Wish You Were Here?",
-            "What is The Wall?",
-            "What is Animals?",
-            "What is The Dark Side of the Moon?"
+            "Wish You Were Here",
+            "The Wall",
+            "Animals",
+            "The Dark Side of the Moon"
           ],
           "correctIndex": 3
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "This drummer, famous for his work with The Who, was one of rock's first to use a double bass drum setup and died in 1978.",
           "choices": [
-            "Who is John Bonham?",
-            "Who is Keith Moon?",
-            "Who is Neil Peart?",
-            "Who is Ginger Baker?"
+            "John Bonham",
+            "Keith Moon",
+            "Neil Peart",
+            "Ginger Baker"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "This is the official currency of Japan, symbolized by the yen sign.",
           "choices": [
-            "What is the Won?",
-            "What is the Yuan?",
-            "What is the Yen?",
-            "What is the Ringgit?"
+            "the Won",
+            "the Yuan",
+            "the Yen",
+            "the Ringgit"
           ],
           "correctIndex": 2
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "The pound sterling is the official currency of this island nation, the oldest currency still in use.",
           "choices": [
-            "What is Ireland?",
-            "What is the United Kingdom?",
-            "What is Iceland?",
-            "What is Australia?"
+            "Ireland",
+            "the United Kingdom",
+            "Iceland",
+            "Australia"
           ],
           "correctIndex": 1
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "This South African currency is named after the Witwatersrand ridge, where most of the country's gold deposits were found.",
           "choices": [
-            "What is the Rand?",
-            "What is the Shilling?",
-            "What is the Pula?",
-            "What is the Kwacha?"
+            "the Rand",
+            "the Shilling",
+            "the Pula",
+            "the Kwacha"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "India's currency, the rupee, features this leader on all its banknotes since 1996.",
           "choices": [
-            "Who is Jawaharlal Nehru?",
-            "Who is Indira Gandhi?",
-            "Who is B. R. Ambedkar?",
-            "Who is Mahatma Gandhi?"
+            "Jawaharlal Nehru",
+            "Indira Gandhi",
+            "B. R. Ambedkar",
+            "Mahatma Gandhi"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "This tiny European principality uses the Swiss franc as its official currency despite not being part of Switzerland.",
           "choices": [
-            "What is Andorra?",
-            "What is Liechtenstein?",
-            "What is San Marino?",
-            "What is Monaco?"
+            "Andorra",
+            "Liechtenstein",
+            "San Marino",
+            "Monaco"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "Animal Architects",
     "clue": "This Australian bird builds the most elaborate structures of any animal, decorating its avenue-shaped bower with colorful objects to attract mates.",
     "choices": [
-      "What is the Lyrebird?",
-      "What is the Bowerbird?",
-      "What is the Weaver Finch?",
-      "What is the Malleefowl?"
+      "the Lyrebird",
+      "the Bowerbird",
+      "the Weaver Finch",
+      "the Malleefowl"
     ],
     "correctIndex": 1
   }

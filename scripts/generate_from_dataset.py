@@ -20,6 +20,8 @@ import sys
 from datetime import datetime, timedelta
 from pathlib import Path
 
+from clue_registry import clue_hash, load_used_clues
+
 SCRIPT_DIR = Path(__file__).parent
 REPO_DIR = SCRIPT_DIR.parent
 QUESTIONS_DIR = REPO_DIR / "questions"
@@ -93,27 +95,43 @@ def pick_categories(clues_by_category, count=3, used_categories=set()):
     return candidates[:count]
 
 
-def pick_questions_for_category(clues, target_values=[200, 400, 600, 800, 1000]):
-    """Pick 5 questions at escalating difficulty from a category's clues."""
+def clean_answer(text):
+    """Strip Jeopardy phrasing from a raw answer if present, leaving just the noun phrase."""
+    text = text.strip()
+    # Remove leading "what is", "who is", "where is", etc.
+    text = re.sub(r'^(what|who|where|when)\s+(is|are|was|were)\s+', '', text, flags=re.IGNORECASE)
+    # Strip trailing question mark and whitespace
+    text = text.rstrip('?').strip()
+    return text
+
+
+def pick_questions_for_category(clues, used_global_hashes, target_values=[200, 400, 600, 800, 1000]):
+    """Pick 5 questions at escalating difficulty, avoiding clues already used in past boards."""
     picked = []
-    used_clues = set()
+    used_clues_local = set()
 
     for target in target_values:
         low, high = VALUE_BUCKETS[target]
-        # Find clues in the value range
         candidates = [
             c for c in clues
-            if low <= c["value"] <= high and c["answer"] not in used_clues
+            if low <= c["value"] <= high
+            and c["answer"] not in used_clues_local
+            and clue_hash(c["answer"]) not in used_global_hashes
         ]
         if not candidates:
-            # Fallback: any unused clue
-            candidates = [c for c in clues if c["answer"] not in used_clues]
+            # Fallback: any unused clue (still respecting global used set)
+            candidates = [
+                c for c in clues
+                if c["answer"] not in used_clues_local
+                and clue_hash(c["answer"]) not in used_global_hashes
+            ]
 
         if not candidates:
-            return None  # Not enough clues
+            return None
 
         chosen = random.choice(candidates)
-        used_clues.add(chosen["answer"])
+        used_clues_local.add(chosen["answer"])
+        used_global_hashes.add(clue_hash(chosen["answer"]))
         picked.append({
             "value": target,
             "clue": chosen["answer"],
@@ -131,8 +149,9 @@ def generate_wrong_answers(questions_batch):
         prompt_lines.append(f'{i}. Category: {q["category"]} | Clue: {q["clue"]} | Answer: {q["correct_response"]}')
 
     prompt = f"""For each numbered trivia question below, generate exactly 3 plausible but WRONG answers.
-Format each answer Jeopardy-style (e.g., "What is Paris?" or "Who is Einstein?").
-The wrong answers should be the same type/format as the correct answer — believable but clearly wrong to someone who knows the topic.
+Output the raw answer only — NO "What is" / "Who is" prefix, NO question marks. Just the noun phrase.
+Examples: "Paris", "Marie Curie", "the Eiffel Tower", "1789", "blue whale".
+Wrong answers should match the type/format of the correct answer — believable but clearly wrong.
 
 Output ONLY a JSON array where each element has "index" and "wrong" (array of 3 strings). No markdown, no explanation.
 
@@ -167,36 +186,29 @@ Questions:
     return None
 
 
-def build_daily_game(date_str, clues_by_category, all_clues, used_categories):
+def build_daily_game(date_str, clues_by_category, all_clues, used_categories, used_global_hashes):
     """Build a complete daily game JSON for the given date."""
     categories = pick_categories(clues_by_category, count=3, used_categories=used_categories)
     if len(categories) < 3:
         print(f"  [error] Not enough categories available")
         return None
 
-    game = {
-        "date": date_str,
-        "categories": [],
-    }
-
-    all_questions = []  # Flat list for batch wrong-answer generation
+    game = {"date": date_str, "categories": []}
+    all_questions = []
 
     for cat_name in categories:
         used_categories.add(cat_name)
         clues = clues_by_category[cat_name]
-        picked = pick_questions_for_category(clues)
+        picked = pick_questions_for_category(clues, used_global_hashes)
         if not picked:
-            print(f"  [error] Not enough clues in category '{cat_name}'")
+            print(f"  [error] Not enough fresh clues in category '{cat_name}'")
             return None
 
         for q in picked:
             q["category"] = cat_name
             all_questions.append(q)
 
-        game["categories"].append({
-            "name": cat_name,
-            "questions": picked,  # Will be filled in after wrong answer generation
-        })
+        game["categories"].append({"name": cat_name, "questions": picked})
 
     # Pick a daily double from a different category
     dd_cats = pick_categories(clues_by_category, count=1, used_categories=used_categories)
@@ -204,10 +216,16 @@ def build_daily_game(date_str, clues_by_category, all_clues, used_categories):
         dd_cat = dd_cats[0]
         used_categories.add(dd_cat)
         dd_clues = clues_by_category[dd_cat]
-        dd_candidates = [c for c in dd_clues if 600 <= c["value"] <= 1600]
+        dd_candidates = [c for c in dd_clues
+                         if 600 <= c["value"] <= 1600
+                         and clue_hash(c["answer"]) not in used_global_hashes]
         if not dd_candidates:
-            dd_candidates = dd_clues
+            dd_candidates = [c for c in dd_clues if clue_hash(c["answer"]) not in used_global_hashes]
+        if not dd_candidates:
+            print(f"  [error] No fresh DD clues in {dd_cat}")
+            return None
         dd_chosen = random.choice(dd_candidates)
+        used_global_hashes.add(clue_hash(dd_chosen["answer"]))
         dd_q = {
             "category": dd_cat,
             "clue": dd_chosen["answer"],
@@ -218,22 +236,26 @@ def build_daily_game(date_str, clues_by_category, all_clues, used_categories):
     # Check if Saturday — add bonus round
     day_of_week = datetime.strptime(date_str, "%Y-%m-%d").isoweekday()
     bonus_q = None
-    if day_of_week == 6:  # Saturday
+    if day_of_week == 6:
         bonus_cats = pick_categories(clues_by_category, count=1, used_categories=used_categories)
         if bonus_cats:
             bonus_cat = bonus_cats[0]
             used_categories.add(bonus_cat)
             bonus_clues = clues_by_category[bonus_cat]
-            bonus_candidates = [c for c in bonus_clues if 800 <= c["value"] <= 2000]
+            bonus_candidates = [c for c in bonus_clues
+                                if 800 <= c["value"] <= 2000
+                                and clue_hash(c["answer"]) not in used_global_hashes]
             if not bonus_candidates:
-                bonus_candidates = bonus_clues
-            bonus_chosen = random.choice(bonus_candidates)
-            bonus_q = {
-                "category": bonus_cat,
-                "clue": bonus_chosen["answer"],
-                "correct_response": bonus_chosen["question"],
-            }
-            all_questions.append(bonus_q)
+                bonus_candidates = [c for c in bonus_clues if clue_hash(c["answer"]) not in used_global_hashes]
+            if bonus_candidates:
+                bonus_chosen = random.choice(bonus_candidates)
+                used_global_hashes.add(clue_hash(bonus_chosen["answer"]))
+                bonus_q = {
+                    "category": bonus_cat,
+                    "clue": bonus_chosen["answer"],
+                    "correct_response": bonus_chosen["question"],
+                }
+                all_questions.append(bonus_q)
 
     # Generate wrong answers for all questions in one batch
     print(f"  Generating wrong answers for {len(all_questions)} questions...")
@@ -256,18 +278,13 @@ def build_daily_game(date_str, clues_by_category, all_clues, used_categories):
             if len(wrongs) < 3:
                 print(f"  [warn] Not enough wrong answers for Q{q_idx}, padding")
                 while len(wrongs) < 3:
-                    wrongs.append(f"What is unknown?")
+                    wrongs.append("unknown")
 
-            correct = q["correct_response"]
-            # Format correct answer Jeopardy-style if not already
-            if not correct.lower().startswith(("what ", "who ", "where ", "when ")):
-                correct = f"What is {correct}?"
-            elif not correct.endswith("?"):
-                correct += "?"
+            correct = clean_answer(q["correct_response"])
+            wrongs = [clean_answer(w) for w in wrongs[:3]]
 
-            # Randomize correct answer position
             correct_idx = random.randint(0, 3)
-            choices = list(wrongs[:3])
+            choices = list(wrongs)
             choices.insert(correct_idx, correct)
 
             final_questions.append({
@@ -282,18 +299,14 @@ def build_daily_game(date_str, clues_by_category, all_clues, used_categories):
 
     # Daily double
     dd_wrongs = wrong_map.get(q_idx, [])
-    if len(dd_wrongs) < 3:
-        while len(dd_wrongs) < 3:
-            dd_wrongs.append("What is unknown?")
+    while len(dd_wrongs) < 3:
+        dd_wrongs.append("unknown")
 
-    dd_correct = dd_q["correct_response"]
-    if not dd_correct.lower().startswith(("what ", "who ", "where ", "when ")):
-        dd_correct = f"What is {dd_correct}?"
-    elif not dd_correct.endswith("?"):
-        dd_correct += "?"
+    dd_correct = clean_answer(dd_q["correct_response"])
+    dd_wrongs = [clean_answer(w) for w in dd_wrongs[:3]]
 
     dd_correct_idx = random.randint(0, 3)
-    dd_choices = list(dd_wrongs[:3])
+    dd_choices = list(dd_wrongs)
     dd_choices.insert(dd_correct_idx, dd_correct)
     q_idx += 1
 
@@ -307,18 +320,14 @@ def build_daily_game(date_str, clues_by_category, all_clues, used_categories):
     # Bonus round
     if bonus_q:
         bonus_wrongs = wrong_map.get(q_idx, [])
-        if len(bonus_wrongs) < 3:
-            while len(bonus_wrongs) < 3:
-                bonus_wrongs.append("What is unknown?")
+        while len(bonus_wrongs) < 3:
+            bonus_wrongs.append("unknown")
 
-        bonus_correct = bonus_q["correct_response"]
-        if not bonus_correct.lower().startswith(("what ", "who ", "where ", "when ")):
-            bonus_correct = f"What is {bonus_correct}?"
-        elif not bonus_correct.endswith("?"):
-            bonus_correct += "?"
+        bonus_correct = clean_answer(bonus_q["correct_response"])
+        bonus_wrongs = [clean_answer(w) for w in bonus_wrongs[:3]]
 
         bonus_correct_idx = random.randint(0, 3)
-        bonus_choices = list(bonus_wrongs[:3])
+        bonus_choices = list(bonus_wrongs)
         bonus_choices.insert(bonus_correct_idx, bonus_correct)
 
         game["bonusRound"] = {
@@ -341,6 +350,9 @@ def main():
     clues_by_category, all_clues = load_clues()
     print(f"Loaded {len(all_clues)} clues across {len(clues_by_category)} categories")
 
+    used_global_hashes = load_used_clues()
+    print(f"Loaded {len(used_global_hashes)} previously-used clue hashes from existing boards")
+
     start = datetime.strptime(start_date, "%Y-%m-%d")
     dates = [(start + timedelta(days=i)).strftime("%Y-%m-%d") for i in range(num_days)]
 
@@ -357,7 +369,7 @@ def main():
             continue
 
         print(f"🎯 Generating {date_str}...")
-        game = build_daily_game(date_str, clues_by_category, all_clues, used_categories)
+        game = build_daily_game(date_str, clues_by_category, all_clues, used_categories, used_global_hashes)
 
         if game:
             with open(outfile, "w") as f:

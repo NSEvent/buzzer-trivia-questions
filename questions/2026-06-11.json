@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "The doctrine of papal this was adopted in 1870 by a vote of 533-2; the 2 promptly declared, \"Now I believe\\\"",
           "choices": [
-            "What is sovereignty?",
-            "What is infallibility?",
-            "What is supremacy?",
-            "What is infallibility?"
+            "sovereignty",
+            "infallibility",
+            "supremacy",
+            "infallibility"
           ],
           "correctIndex": 1
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "In 1819's McCulloch v. this state, the Supreme Court expanded the reach of Congress by saying it has implied powers",
           "choices": [
-            "What is Virginia?",
-            "What is Maryland?",
-            "What is Pennsylvania?",
-            "What is Ohio?"
+            "Virginia",
+            "Maryland",
+            "Pennsylvania",
+            "Ohio"
           ],
           "correctIndex": 1
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "In the 1820s this monarch founded a Zulu empire, one of the largest in Africa",
           "choices": [
-            "What is Cetshwayo?",
-            "What is Shaka?",
-            "What is Dingiswayo?",
-            "What is Mzilikazi?"
+            "Cetshwayo",
+            "Shaka",
+            "Dingiswayo",
+            "Mzilikazi"
           ],
           "correctIndex": 1
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Not a fan of abolitionists, he was a volunteer in the militia at the hanging of John Brown",
           "choices": [
-            "Who is Nathan Bedford Forrest?",
-            "Who is Stonewall Jackson?",
-            "What is John Wilkes Booth?",
-            "Who is James Longstreet?"
+            "Nathan Bedford Forrest",
+            "Stonewall Jackson",
+            "John Wilkes Booth",
+            "James Longstreet"
           ],
           "correctIndex": 2
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "Anita, the wife of this Italian Redshirts leader, often fought side-by-side with him",
           "choices": [
-            "Who is Mazzini?",
-            "What is Garibaldi?",
-            "Who is Cavour?",
-            "Who is Victor Emmanuel?"
+            "Mazzini",
+            "Garibaldi",
+            "Cavour",
+            "Victor Emmanuel"
           ],
           "correctIndex": 1
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Poet & dramatist William Yeats",
           "choices": [
-            "What is Edmund?",
-            "What is Henry?",
-            "What is James?",
-            "What is Butler?"
+            "Edmund",
+            "Henry",
+            "James",
+            "Butler"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Creator of \"The Runaway Bunny\" Margaret ____ Brown",
           "choices": [
-            "What is Anne?",
-            "What is Claire?",
-            "What is Wise?",
-            "What is Grace?"
+            "Anne",
+            "Claire",
+            "Wise",
+            "Grace"
           ],
           "correctIndex": 2
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Oz creator Lyman Baum",
           "choices": [
-            "What is Royal?",
-            "What is Thomas?",
-            "What is Edward?",
-            "What is Frank?"
+            "Royal",
+            "Thomas",
+            "Edward",
+            "Frank"
           ],
           "correctIndex": 3
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "He wrote \"O.T.: A Danish Romance\" & lived a fairy tale life: Christian",
           "choices": [
-            "What is Johan?",
-            "What is Niels?",
-            "What is Hans Christian Andersen?",
-            "What is Lars?"
+            "Johan",
+            "Niels",
+            "Hans Christian Andersen",
+            "Lars"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "It's no big mystery that her middle initial \"L.\" stood for Leigh",
           "choices": [
-            "What is Anne?",
-            "What is Jane?",
-            "What is Dorothy Sayers?",
-            "What is May?"
+            "Anne",
+            "Jane",
+            "Dorothy Sayers",
+            "May"
           ],
           "correctIndex": 2
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Stuck traffic, especially because cars don't clear the intersection",
           "choices": [
-            "What is gridlock?",
-            "What is a deadlock?",
-            "What is a bottleneck?",
-            "What is a standstill?"
+            "gridlock",
+            "a deadlock",
+            "a bottleneck",
+            "a standstill"
           ],
           "correctIndex": 0
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "An ox, or the last name of a \"Speed\" star",
           "choices": [
-            "What is Bullock?",
-            "What is Paddock?",
-            "What is Sherlock?",
-            "What is Hemlock?"
+            "Bullock",
+            "Paddock",
+            "Sherlock",
+            "Hemlock"
           ],
           "correctIndex": 0
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "She replaced Cloris Leachman as the mother figure on \"Lassie\\\"",
           "choices": [
-            "Who is Barbara Stanwyck?",
-            "What is June Lockhart?",
-            "Who is Donna Reed?",
-            "Who is Florence Henderson?"
+            "Barbara Stanwyck",
+            "June Lockhart",
+            "Donna Reed",
+            "Florence Henderson"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "\\\"In the spring a young man's fancy lightly turns to thoughts of love\" in this poetic \"Hall\\\"",
           "choices": [
-            "What is (Alfred Lord Tennyson's) \"Locksley Hall\\\"?",
-            "What is 'Lockwood Manor'?",
-            "What is 'Locksley Green'?",
-            "What is 'Lockwood Hall'?"
+            "(Alfred Lord Tennyson's) \"Locksley Hall\\\"",
+            "'Lockwood Manor'",
+            "'Locksley Green'",
+            "'Lockwood Hall'"
           ],
           "correctIndex": 0
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "A ring projecting above the gunwale of a small boat",
           "choices": [
-            "What is an oarlock?",
-            "What is a cleat?",
-            "What is a rowlock?",
-            "What is a davit?"
+            "an oarlock",
+            "a cleat",
+            "a rowlock",
+            "a davit"
           ],
           "correctIndex": 0
         }
@@ -186,10 +186,10 @@
     "category": "AD-JECTIVES",
     "clue": "This column may precede \"tingling\" in ad copy for haunted houses & mystery novels",
     "choices": [
-      "What is neck?",
-      "What is hair?",
-      "What is spine?",
-      "What is bone?"
+      "neck",
+      "hair",
+      "spine",
+      "bone"
     ],
     "correctIndex": 2
   }

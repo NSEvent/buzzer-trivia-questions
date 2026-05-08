@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Only 2 senators voted against the Tonkin Resolution, which immersed us in this war",
           "choices": [
-            "What is the Korean War?",
-            "What is the Gulf War?",
-            "What is the Vietnam War?",
-            "What is the Spanish-American War?"
+            "the Korean War",
+            "the Gulf War",
+            "the Vietnam War",
+            "the Spanish-American War"
           ],
           "correctIndex": 2
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "In the 1840s 2 wars broke out between the British & the Sikhs in the Punjab region of this country",
           "choices": [
-            "What is Pakistan?",
-            "What is India?",
-            "What is Afghanistan?",
-            "What is Burma?"
+            "Pakistan",
+            "India",
+            "Afghanistan",
+            "Burma"
           ],
           "correctIndex": 1
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "In 1939-40 Finns on skis fought invaders from this country",
           "choices": [
-            "What is Sweden?",
-            "What is Germany?",
-            "What is Russia?",
-            "What is Norway?"
+            "Sweden",
+            "Germany",
+            "Russia",
+            "Norway"
           ],
           "correctIndex": 2
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "During the Gurkha War in the early 19th century, Britain invaded this mountainous country",
           "choices": [
-            "What is Tibet?",
-            "What is Nepal?",
-            "What is Bhutan?",
-            "What is Afghanistan?"
+            "Tibet",
+            "Nepal",
+            "Bhutan",
+            "Afghanistan"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "The War of the Austrian Succession erupted when she became archduchess of Austria in 1740",
           "choices": [
-            "Who is Catherine the Great?",
-            "Who is Marie Antoinette?",
-            "What is Maria Theresa?",
-            "Who is Queen Anne?"
+            "Catherine the Great",
+            "Marie Antoinette",
+            "Maria Theresa",
+            "Queen Anne"
           ],
           "correctIndex": 2
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "A home run with the bases loaded",
           "choices": [
-            "What is a go-ahead run?",
-            "What is a golden run?",
-            "What is a grand prix?",
-            "What is a grand slam?"
+            "a go-ahead run",
+            "a golden run",
+            "a grand prix",
+            "a grand slam"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "He's the first astronaut later elected U.S. senator",
           "choices": [
-            "Who is Buzz Aldrin?",
-            "What is John Glenn?",
-            "Who is Neil Armstrong?",
-            "Who is Alan Shepard?"
+            "Buzz Aldrin",
+            "John Glenn",
+            "Neil Armstrong",
+            "Alan Shepard"
           ],
           "correctIndex": 1
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "Psychologist Max Wertheimer co-founded this theory in which the sum is greater than its parts",
           "choices": [
-            "What is Gradualism?",
-            "What is Gestalt?",
-            "What is Grounded theory?",
-            "What is Generativism?"
+            "Gradualism",
+            "Gestalt",
+            "Grounded theory",
+            "Generativism"
           ],
           "correctIndex": 1
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "It's the 2-word nickname for the Mongol army that overran Eastern Europe",
           "choices": [
-            "What is the Green Dragon?",
-            "What is the Great Horde?",
-            "What is the Golden Horde?",
-            "What is the Ghost Army?"
+            "the Green Dragon",
+            "the Great Horde",
+            "the Golden Horde",
+            "the Ghost Army"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "It's not dad's dad, it's a large gray dolphin with a blunt snout",
           "choices": [
-            "What is a grampus?",
-            "What is a grouper?",
-            "What is a gannet?",
-            "What is a gudgeon?"
+            "a grampus",
+            "a grouper",
+            "a gannet",
+            "a gudgeon"
           ],
           "correctIndex": 0
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "This colorless oil is also called liquid petrolatum",
           "choices": [
-            "What is machine oil?",
-            "What is mineral oil?",
-            "What is motor oil?",
-            "What is methanol?"
+            "machine oil",
+            "mineral oil",
+            "motor oil",
+            "methanol"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "The first name of French hairdresser Grateau, who came up with a style with regular waves",
           "choices": [
-            "What is Maurice?",
-            "What is Michel?",
-            "What is Marcel?",
-            "What is Martin?"
+            "Maurice",
+            "Michel",
+            "Marcel",
+            "Martin"
           ],
           "correctIndex": 2
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Mississippi celebrates a version of this holiday the last Monday in April to honor Confederate dead",
           "choices": [
-            "What is Mardi Gras?",
-            "What is Memorial Day?",
-            "What is Mothers' Day?",
-            "What is Midsummer Day?"
+            "Mardi Gras",
+            "Memorial Day",
+            "Mothers' Day",
+            "Midsummer Day"
           ],
           "correctIndex": 1
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "Called Peru's chief tourist attraction, it was discovered by an American, Hiram Bingham",
           "choices": [
-            "What is Monte Alb\u00e1n?",
-            "What is Mohenjo-daro?",
-            "What is Machu Picchu?",
-            "What is Montezuma's Castle?"
+            "Monte Alb\u00e1n",
+            "Mohenjo-daro",
+            "Machu Picchu",
+            "Montezuma's Castle"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "In Britain's M1, which opened in 1959 & links north to south, M stands for this",
           "choices": [
-            "What is a main road?",
-            "What is a macadam?",
-            "What is a median?",
-            "What is motorway?"
+            "a main road",
+            "a macadam",
+            "a median",
+            "motorway"
           ],
           "correctIndex": 3
         }
@@ -186,10 +186,10 @@
     "category": "FRENCH ROYALTY",
     "clue": "The last of the Bourbon kings to rule France was also the 10th & last French king named this",
     "choices": [
-      "What is Louis?",
-      "What is Henri?",
-      "What is Philippe?",
-      "What is Charles?"
+      "Louis",
+      "Henri",
+      "Philippe",
+      "Charles"
     ],
     "correctIndex": 3
   }

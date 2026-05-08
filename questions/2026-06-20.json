@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Today a national shrine, it has the year \"1620\" carved on it & is preserved under a granite canopy",
           "choices": [
-            "What is Bunker Hill Monument?",
-            "What is the Jamestown Memorial Stone?",
-            "What is the Mayflower Compact Stone?",
-            "What is Plymouth Rock?"
+            "Bunker Hill Monument",
+            "the Jamestown Memorial Stone",
+            "the Mayflower Compact Stone",
+            "Plymouth Rock"
           ],
           "correctIndex": 3
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "In 1691, after 71 years on its own, Plymouth became a part of this colony",
           "choices": [
-            "What is Connecticut Colony?",
-            "What is Massachusetts Bay?",
-            "What is Rhode Island Colony?",
-            "What is the Province of New Hampshire?"
+            "Connecticut Colony",
+            "Massachusetts Bay",
+            "Rhode Island Colony",
+            "the Province of New Hampshire"
           ],
           "correctIndex": 1
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "This barrelmaker & future husband of Priscilla Mullens was hired at Southampton before the ship left England",
           "choices": [
-            "Who is Miles Standish?",
-            "Who is William Bradford?",
-            "Who is John Howland?",
-            "What is John Alden?"
+            "Miles Standish",
+            "William Bradford",
+            "John Howland",
+            "John Alden"
           ],
           "correctIndex": 3
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "Plymouth was part of the Dominion of New England, an entity that collapsed when this couple took the throne in 1689",
           "choices": [
-            "Who are Charles II & Catherine of Braganza?",
-            "What is William & Mary?",
-            "Who are James II & Anne Hyde?",
-            "Who are George I & Sophia Dorothea?"
+            "Charles II & Catherine of Braganza",
+            "William & Mary",
+            "James II & Anne Hyde",
+            "George I & Sophia Dorothea"
           ],
           "correctIndex": 1
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "This Indian showed the Pilgrims how to plant corn & served as their interpreter in dealings with Massasoit",
           "choices": [
-            "Who is Samoset?",
-            "Who is Massasoit?",
-            "Who is Pocahontas?",
-            "What is Squanto?"
+            "Samoset",
+            "Massasoit",
+            "Pocahontas",
+            "Squanto"
           ],
           "correctIndex": 3
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "Julie Chen hosts this reality show in which strangers live together & the cameras record every moment",
           "choices": [
-            "What is Survivor?",
-            "What is The Real World?",
-            "What is The Bachelor?",
-            "What is Big Brother?"
+            "Survivor",
+            "The Real World",
+            "The Bachelor",
+            "Big Brother"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Spend part of \"Today\" with these ladies",
           "choices": [
-            "Who are Meredith Vieira & Ann Curry?",
-            "Who are Savannah Guthrie & Jenna Bush Hager?",
-            "Who are Kelly Ripa & Regis Philbin?",
-            "What is Kathie Lee Gifford & Hoda Kotb?"
+            "Meredith Vieira & Ann Curry",
+            "Savannah Guthrie & Jenna Bush Hager",
+            "Kelly Ripa & Regis Philbin",
+            "Kathie Lee Gifford & Hoda Kotb"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "(Hi, I'm Tom Bergeron.) Bob Saget was the original host & I'm the current host of this comedy TV show that made its debut in 1989",
           "choices": [
-            "What is Candid Camera?",
-            "What is America's Most Wanted?",
-            "What is Full House?",
-            "What is America's Funniest Home Videos?"
+            "Candid Camera",
+            "America's Most Wanted",
+            "Full House",
+            "America's Funniest Home Videos"
           ],
           "correctIndex": 3
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "This \"redneck\" comic hosts \"Are You Smarter than a 5th Grader?\\\"",
           "choices": [
-            "Who is Larry the Cable Guy?",
-            "Who is Bill Engvall?",
-            "What is (Jeff) Foxworthy?",
-            "Who is Ron White?"
+            "Larry the Cable Guy",
+            "Bill Engvall",
+            "(Jeff) Foxworthy",
+            "Ron White"
           ],
           "correctIndex": 2
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "\\\"Loveline\" featured Adam Carolla, Diane Farr & this Doctor who also helped on \"Celebrity Rehab\\\"",
           "choices": [
-            "Who is Dr. Phil?",
-            "Who is Dr. Oz?",
-            "Who is Dr. Ruth?",
-            "What is Dr. Drew?"
+            "Dr. Phil",
+            "Dr. Oz",
+            "Dr. Ruth",
+            "Dr. Drew"
           ],
           "correctIndex": 3
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Cinnamon or pepper, & an area that can be \"deep\" or \"outer\\\"",
           "choices": [
-            "What is spice and space?",
-            "What are spice and spite?",
-            "What are price and place?",
-            "What are slice and space?"
+            "spice and space",
+            "spice and spite",
+            "price and place",
+            "slice and space"
           ],
           "correctIndex": 0
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "The sound on an electronic device, & an examination you don't want to get from the IRS",
           "choices": [
-            "What are sound and bound?",
-            "What are radio and rapid?",
-            "What are chord and cord?",
-            "What is audio and audit?"
+            "sound and bound",
+            "radio and rapid",
+            "chord and cord",
+            "audio and audit"
           ],
           "correctIndex": 3
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "A tree remnant, & a economic downturn",
           "choices": [
-            "What are a stump and a stamp?",
-            "What are a trunk and a drunk?",
-            "What is a stump and a slump?",
-            "What are a bump and a dump?"
+            "a stump and a stamp",
+            "a trunk and a drunk",
+            "a stump and a slump",
+            "a bump and a dump"
           ],
           "correctIndex": 2
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "A speechless minute arachnid",
           "choices": [
-            "What is a cute cite?",
-            "What is a tame time?",
-            "What is a mute mite?",
-            "What is a pale tale?"
+            "a cute cite",
+            "a tame time",
+            "a mute mite",
+            "a pale tale"
           ],
           "correctIndex": 2
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "A man-made waterway, & a group of anti-government plotters",
           "choices": [
-            "What are trench and bench?",
-            "What are ditch and witch?",
-            "What are canal and banal?",
-            "What is canal and cabal?"
+            "trench and bench",
+            "ditch and witch",
+            "canal and banal",
+            "canal and cabal"
           ],
           "correctIndex": 3
         }
@@ -186,10 +186,10 @@
     "category": "HISTORIC STRUCTURES",
     "clue": "In the 1960s Egypt's Abu Simbel temple complex was relocated so it would not be submerged by the creation of this",
     "choices": [
-      "What is the Three Gorges Dam?",
-      "What is the Hoover Dam?",
-      "What is the Kariba Dam?",
-      "What is Aswan High Dam?"
+      "the Three Gorges Dam",
+      "the Hoover Dam",
+      "the Kariba Dam",
+      "Aswan High Dam"
     ],
     "correctIndex": 3
   },
@@ -197,10 +197,10 @@
     "category": "SONGS FROM DISNEY FILMS",
     "clue": "\\\"A Girl Worth Fighting For\" & \"True to Your Heart\\\"",
     "choices": [
-      "What is Mulan?",
-      "What is The Lion King?",
-      "What is Pocahontas?",
-      "What is Aladdin?"
+      "Mulan",
+      "The Lion King",
+      "Pocahontas",
+      "Aladdin"
     ],
     "correctIndex": 0
   }

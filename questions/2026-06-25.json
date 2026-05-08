@@ -8,10 +8,10 @@
           "value": 200,
           "clue": "Christopher Walken & Richard Dreyfuss have played this role opposite Raul Julia's Othello",
           "choices": [
-            "Who is Cassio?",
-            "What is Iago?",
-            "Who is Roderigo?",
-            "Who is Brabantio?"
+            "Cassio",
+            "Iago",
+            "Roderigo",
+            "Brabantio"
           ],
           "correctIndex": 1
         },
@@ -19,10 +19,10 @@
           "value": 400,
           "clue": "John Lithgow won a Drama Desk Award in '85 for playing \"Mountain McClintock\" in this play on B'way",
           "choices": [
-            "What is \"Death of a Salesman\"?",
-            "What is \"That Championship Season\"?",
-            "What is Requiem for a Heavyweight?",
-            "What is \"The Iceman Cometh\"?"
+            "\"Death of a Salesman\"",
+            "\"That Championship Season\"",
+            "Requiem for a Heavyweight",
+            "\"The Iceman Cometh\""
           ],
           "correctIndex": 2
         },
@@ -30,10 +30,10 @@
           "value": 600,
           "clue": "Rhonda Fleming & Myrna Loy were 2 of the title females in a 1973 revival of this Clare Boothe Luce play",
           "choices": [
-            "What is \"The Philadelphia Story\"?",
-            "What is \"Stage Door\"?",
-            "What is The Women?",
-            "What is \"Private Lives\"?"
+            "\"The Philadelphia Story\"",
+            "\"Stage Door\"",
+            "The Women",
+            "\"Private Lives\""
           ],
           "correctIndex": 2
         },
@@ -41,10 +41,10 @@
           "value": 800,
           "clue": "He played George in 1984's \"Sunday In The Park With George\\\"",
           "choices": [
-            "What is Mandy Patinkin?",
-            "Who is Bernadette Peters?",
-            "Who is Nathan Lane?",
-            "Who is James Lapine?"
+            "Mandy Patinkin",
+            "Bernadette Peters",
+            "Nathan Lane",
+            "James Lapine"
           ],
           "correctIndex": 0
         },
@@ -52,10 +52,10 @@
           "value": 1000,
           "clue": "She was 24 when she played 12-year-old Frankie Addams in \"The Member of the Wedding\" in 1950",
           "choices": [
-            "Who is Geraldine Page?",
-            "What is Julie Harris?",
-            "Who is Kim Stanley?",
-            "Who is Audrey Hepburn?"
+            "Geraldine Page",
+            "Julie Harris",
+            "Kim Stanley",
+            "Audrey Hepburn"
           ],
           "correctIndex": 1
         }
@@ -68,10 +68,10 @@
           "value": 200,
           "clue": "The Angus breed of cattle was developed in the Highlands of this country",
           "choices": [
-            "What is Ireland?",
-            "What is Wales?",
-            "What is Norway?",
-            "What is Scotland?"
+            "Ireland",
+            "Wales",
+            "Norway",
+            "Scotland"
           ],
           "correctIndex": 3
         },
@@ -79,10 +79,10 @@
           "value": 400,
           "clue": "Because it grew slowly & produced less meat, this famous Texas breed almost vanished by the 1920s",
           "choices": [
-            "What is the Hereford?",
-            "What is the Brahman?",
-            "What is the Shorthorn?",
-            "What is longhorn?"
+            "the Hereford",
+            "the Brahman",
+            "the Shorthorn",
+            "longhorn"
           ],
           "correctIndex": 3
         },
@@ -90,10 +90,10 @@
           "value": 600,
           "clue": "This term is used for cows until they've given birth",
           "choices": [
-            "What is heifers?",
-            "What are does?",
-            "What are fillies?",
-            "What are yearlings?"
+            "heifers",
+            "does",
+            "fillies",
+            "yearlings"
           ],
           "correctIndex": 0
         },
@@ -101,10 +101,10 @@
           "value": 800,
           "clue": "The determining characteristic of \"polled\" cattle",
           "choices": [
-            "What is that they have short legs?",
-            "What is that they are albino?",
-            "What is that they have no tail?",
-            "What is they have no horns?"
+            "that they have short legs",
+            "that they are albino",
+            "that they have no tail",
+            "they have no horns"
           ],
           "correctIndex": 3
         },
@@ -112,10 +112,10 @@
           "value": 1000,
           "clue": "These humped cattle are also called Zebu or Indian cattle",
           "choices": [
-            "What are Herefords?",
-            "What is Brahma?",
-            "What are Guernseys?",
-            "What are Water Buffalo?"
+            "Herefords",
+            "Brahma",
+            "Guernseys",
+            "Water Buffalo"
           ],
           "correctIndex": 1
         }
@@ -128,10 +128,10 @@
           "value": 200,
           "clue": "Mariners sometimes mistake a cape on Hoste Island 35 miles to the northwest for this cape in Tierra del Fuego",
           "choices": [
-            "What is Cape Fear?",
-            "What is Cape Horn?",
-            "What is Cape Froward?",
-            "What is Cape Agulhas?"
+            "Cape Fear",
+            "Cape Horn",
+            "Cape Froward",
+            "Cape Agulhas"
           ],
           "correctIndex": 1
         },
@@ -139,10 +139,10 @@
           "value": 400,
           "clue": "This Canadian city's most famous landmark, The Citadel, overlooks the city from Cape Diamond",
           "choices": [
-            "What is Montreal?",
-            "What is Halifax?",
-            "What is Quebec City?",
-            "What is St. John's?"
+            "Montreal",
+            "Halifax",
+            "Quebec City",
+            "St. John's"
           ],
           "correctIndex": 2
         },
@@ -150,10 +150,10 @@
           "value": 600,
           "clue": "Tourists flock to this cape or cabo where Baja California comes to a point",
           "choices": [
-            "What is Cabo San Lucas?",
-            "What is Cabo Corrientes?",
-            "What is Punta Eugenia?",
-            "What is Cabo Colonet?"
+            "Cabo San Lucas",
+            "Cabo Corrientes",
+            "Punta Eugenia",
+            "Cabo Colonet"
           ],
           "correctIndex": 0
         },
@@ -161,10 +161,10 @@
           "value": 800,
           "clue": "The entrance to this Australian bay near Sydney is guarded by Cape Banks & Cape Solander",
           "choices": [
-            "What is Sydney Harbour?",
-            "What is Jervis Bay?",
-            "What is Port Phillip Bay?",
-            "What is Botany Bay?"
+            "Sydney Harbour",
+            "Jervis Bay",
+            "Port Phillip Bay",
+            "Botany Bay"
           ],
           "correctIndex": 3
         },
@@ -172,10 +172,10 @@
           "value": 1000,
           "clue": "Cape Spartel, 6 miles west of Tangier, is the point where the Atlantic Ocean & this strait meet",
           "choices": [
-            "What is the Suez Canal?",
-            "What is Gibraltar?",
-            "What is the Strait of Messina?",
-            "What is the English Channel?"
+            "the Suez Canal",
+            "Gibraltar",
+            "the Strait of Messina",
+            "the English Channel"
           ],
           "correctIndex": 1
         }
@@ -186,10 +186,10 @@
     "category": "TENNESSEE WILLIAMS",
     "clue": "Williams worked with Jule Styne on a musical version of this play whose title mentions skin art",
     "choices": [
-      "What is The Rose Tattoo?",
-      "What is \"Suddenly Last Summer\"?",
-      "What is \"The Glass Menagerie\"?",
-      "What is \"A Streetcar Named Desire\"?"
+      "The Rose Tattoo",
+      "\"Suddenly Last Summer\"",
+      "\"The Glass Menagerie\"",
+      "\"A Streetcar Named Desire\""
     ],
     "correctIndex": 0
   }
