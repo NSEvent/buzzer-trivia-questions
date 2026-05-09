@@ -551,13 +551,20 @@ def main():
     parser.add_argument("start_date", nargs="?", default=datetime.now().strftime("%Y-%m-%d"))
     parser.add_argument("num_days", nargs="?", type=int, default=7)
     parser.add_argument("--backend", choices=["qwen", "claude"], default="qwen")
+    parser.add_argument("--output", type=Path, default=QDIR,
+                        help="Output directory (default: questions/). Use a different "
+                             "directory to generate boards without polluting the live bank.")
+    parser.add_argument("--prefix", default="",
+                        help="Filename prefix. e.g. --prefix fallback- gives 'fallback-2030-01-01.json'")
     args = parser.parse_args()
 
-    QDIR.mkdir(exist_ok=True)
+    out_dir = args.output
+    out_dir.mkdir(exist_ok=True, parents=True)
     print(f"Loading clue dataset...")
     by_cat = load_clues()
     used_global = load_used_clues()
-    print(f"  {len(used_global):,} hashes already used\n")
+    print(f"  {len(used_global):,} hashes already used")
+    print(f"  Output: {out_dir}\n")
 
     start = datetime.strptime(args.start_date, "%Y-%m-%d")
     dates = [(start + timedelta(days=i)).strftime("%Y-%m-%d") for i in range(args.num_days)]
@@ -566,9 +573,9 @@ def main():
 
     success = 0
     for date_str in dates:
-        out = QDIR / f"{date_str}.json"
+        out = out_dir / f"{args.prefix}{date_str}.json"
         if out.exists():
-            print(f"⏭  {date_str} exists")
+            print(f"⏭  {out.name} exists")
             continue
         print(f"🎯 {date_str}")
         game = build_board(date_str, by_cat, used_global, args.backend)
