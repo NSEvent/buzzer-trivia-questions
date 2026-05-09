@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-10",
+  "categories": [
+    {
+      "name": "ANAGRAMMED CANADIAN CITIES",
+      "questions": [
+        {
+          "clue": "Oh, man, it's in Manitoba: GIN IN PEW",
+          "choices": [
+            "Regina",
+            "Winnipeg",
+            "Saskatoon",
+            "Brandon"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "An \"equine\" town in the Yukon: HE HOTWIRES",
+          "choices": [
+            "Whitehorse",
+            "Yellowknife",
+            "Whitecourt",
+            "Haines Junction"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Cowboys love it: LACY RAG",
+          "choices": [
+            "Medicine Hat",
+            "Fort Macleod",
+            "Lethbridge",
+            "Calgary"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Capital of a prairie province: MOON DENT",
+          "choices": [
+            "Regina",
+            "Winnipeg",
+            "Edmonton",
+            "Saskatoon"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A \"feminine\" city on Prince Edward Island: NEWT LOOT CHART",
+          "choices": [
+            "Edmonton",
+            "Charlottetown",
+            "Regina",
+            "Saskatoon"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THEY MAKE THAT",
+      "questions": [
+        {
+          "clue": "Get the look with Great Lash waterproof mascara",
+          "choices": [
+            "L'Oreal",
+            "Maybelline",
+            "Revlon",
+            "CoverGirl"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "3D White Teeth whitening strips",
+          "choices": [
+            "Crest",
+            "Colgate",
+            "Oral-B",
+            "Sensodyne"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Be Delaware about Styrofoam brand XPS insulation",
+          "choices": [
+            "Monsanto",
+            "Dow",
+            "DuPont",
+            "3M"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Almond Joy & Mounds\u2014the same maker that bought out Peter Paul",
+          "choices": [
+            "Nestle",
+            "Ferrero",
+            "Hershey",
+            "Mars"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Game with its Core X-series processors",
+          "choices": [
+            "Intel",
+            "AMD",
+            "NVIDIA",
+            "Qualcomm"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SEA LIFE",
+      "questions": [
+        {
+          "clue": "From family Engraulidae, no real Caesar salad is complete without them",
+          "choices": [
+            "capers",
+            "olives",
+            "anchotta",
+            "anchovies"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "(Sarah of the Clue Crew reports from the USC Wrigley Institute.) This type of lobster thrives in Catalina's waters, even though it's missing its more popular cousin's claws",
+          "choices": [
+            "a spiny lobster",
+            "a rock lobster",
+            "a spiny crab",
+            "a coconut crab"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Prior to being caught in 1938, this fish was known only from fossil records & believed to be extinct",
+          "choices": [
+            "coelacanth",
+            "coyote",
+            "coconut",
+            "coal"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In April 2000 the U.S. Navy used these marine mammals to help locate WWII mines off the coast of Norway",
+          "choices": [
+            "dalmatians",
+            "doormats",
+            "diplomats",
+            "dolphins"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The nurse type of this fish can pump water over its gills, so it doesn't have to swim constantly to keep breathing",
+          "choices": [
+            "a sheep",
+            "a ship",
+            "a shark",
+            "a share"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In the classic folktale, this trio faces off against a huffing, puffing wolf",
+    "choices": [
+      "the Three Little Pigs",
+      "the Three Little Bears",
+      "the Three Little Kittens",
+      "the Three Little Fish"
+    ],
+    "correctIndex": 0,
+    "category": "PIGS"
+  }
+}

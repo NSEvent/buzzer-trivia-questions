@@ -1,0 +1,207 @@
+{
+  "date": "2028-03-04",
+  "categories": [
+    {
+      "name": "THE NETHERLANDS",
+      "questions": [
+        {
+          "clue": "This alternate name for the Netherlands refers to a historic northwest region of the country that was the core of the modern state",
+          "choices": [
+            "Zealand",
+            "Friesland",
+            "Groningen",
+            "Holland"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Until the 1700s, this city was noted for its fine blue patterned china",
+          "choices": [
+            "Delft",
+            "Leiden",
+            "Haarlem",
+            "Alkmaar"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This city, famous for a certain product, attracts tourists to its market",
+          "choices": [
+            "Amsterdam",
+            "Utrecht",
+            "Rotterdam",
+            "Gouda"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Queen Juliana's daughter, she is the present queen of the Netherlands",
+          "choices": [
+            "Wilhelmina",
+            "Emma",
+            "Beatrix",
+            "Princess Margriet"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Aruba, Cura\u00e7ao & this \"Saint\"ly island are all self-governing but also part of the Netherlands' kingdom",
+          "choices": [
+            "St. Maarten",
+            "St. Eustatius",
+            "St. Barth\u00e9lemy",
+            "St. Kitts"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SEWING",
+      "questions": [
+        {
+          "clue": "These fasteners come in chain & coil types",
+          "choices": [
+            "zippers",
+            "snaps",
+            "buttons",
+            "hooks"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Some of these holding devices come with a bag of emery for sharpening, & some look like tomatoes",
+          "choices": [
+            "thimbles",
+            "measuring tapes",
+            "pin cushions",
+            "seam rippers"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This fold in a skirt is usually sewn only on the top edge & gives the skirt decorative or functional fullness",
+          "choices": [
+            "a pleat",
+            "a dart",
+            "a tuck",
+            "a gather"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The patch type of this is relatively easy to sew; the welt type is slightly harder to make",
+          "choices": [
+            "zippers",
+            "pockets",
+            "buttonholes",
+            "seams"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 1863 Ebenezer Butterick created multiple sizes of these using tissue paper",
+          "choices": [
+            "patterns",
+            "threads",
+            "fabrics",
+            "needles"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WORLD LEADERS",
+      "questions": [
+        {
+          "clue": "In 1981 Francois Mitterand became the first socialist president of this country's Fifth Republic",
+          "choices": [
+            "France",
+            "Italy",
+            "Spain",
+            "Belgium"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1982 West Germany's Bundestag replaced Chancellor Helmut Schmidt with this man",
+          "choices": [
+            "Helmut Kohl",
+            "Willy Brandt",
+            "Konrad Adenauer",
+            "Gerhard Schr\u00f6der"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "It was on Lenin's orders that the last Russian czar, the second of this name, was executed with his family in 1918",
+          "choices": [
+            "Czar Nicholas",
+            "Czar Alexander",
+            "Czar Peter",
+            "Czar Ivan"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In 1974, he addressed the U.N. General Assembly with a gun in his belt",
+          "choices": [
+            "Yitzhak Rabin",
+            "Yasser Arafat",
+            "Ariel Sharon",
+            "Menachem Begin"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "(Jimmy reads from the streets of Lubeck, Germany.) This Lubeck-born West German chancellor said, \"I always carried a piece of Lubeck with me wherever I had to go\"",
+          "choices": [
+            "Helmut Kohl",
+            "Konrad Adenauer",
+            "Gerhard Schr\u00f6der",
+            "Willy Brandt"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "When one of these devices that measures air pressure is falling, wet weather is likely on the way",
+    "choices": [
+      "a thermometer",
+      "a hygrometer",
+      "an anemometer",
+      "a barometer"
+    ],
+    "correctIndex": 3,
+    "category": "METEOROLOGY"
+  },
+  "bonusRound": {
+    "clue": "(Cheryl of the Clue Crew demonstrates a novel book.) By changing one element on each page, we've created one of these, first patented in 1882",
+    "choices": [
+      "a storyboard",
+      "a stop motion",
+      "a kaleidoscope",
+      "a flip book"
+    ],
+    "correctIndex": 3,
+    "category": "\"BOOK\"S"
+  }
+}

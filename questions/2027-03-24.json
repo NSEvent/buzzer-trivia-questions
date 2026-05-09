@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-24",
+  "categories": [
+    {
+      "name": "19th CENTURY LIT",
+      "questions": [
+        {
+          "clue": "The urbane Brazilian author Machado de Assis set most of his works among the wealthy of this city",
+          "choices": [
+            "S\u00e3o Paulo",
+            "Santiago",
+            "Rio",
+            "Lima"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "1836's \"O.T.: a Danish Romance\" is a grownup novel by this man who'd soon turn his hand to fairy tales",
+          "choices": [
+            "(Hans Christian) Andersen",
+            "Johan Ludvig Heiberg",
+            "Peter Andreas Heiberg",
+            "Bernhard Severin Ingemann"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This writer of poems like \"Dover Beach\" also worked as an inspector of schools",
+          "choices": [
+            "Matthew Arnold",
+            "Arthur Hugh Clough",
+            "Alfred Lord Tennyson",
+            "Robert Browning"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This author created the noble Indian Uncas & the slimy Indian Magua",
+          "choices": [
+            "(James Fenimore) Cooper",
+            "James Fenimore",
+            "Fenimore Cooper",
+            "James Cooper"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In \"The Brothers Karamazov\", he wrote, \"Love all God's creation, the whole and every grain of sand in it\"",
+          "choices": [
+            "Tolstoy",
+            "Chekhov",
+            "Dostoevsky",
+            "Gogol"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BELLY UP TO THE BAR",
+      "questions": [
+        {
+          "clue": "Traditionally, a squeeze of this makes a whiskey sour sour",
+          "choices": [
+            "Lime",
+            "Orange",
+            "Grapefruit",
+            "Lemon"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The two brand names in a 7 & 7",
+          "choices": [
+            "Old Grand-Dad & 7 Up",
+            "Seagram's 7 & 7 Up",
+            "Jim Beam & 7 Up",
+            "Seagram's 7 & Ginger Ale"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Angostura is a brand of this aromatic liquor",
+          "choices": [
+            "vermouth",
+            "galliano",
+            "bitters",
+            "fernet"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A Cuba Libre contains a liberal amount of this potent potable",
+          "choices": [
+            "Tequila",
+            "Rum",
+            "Gin",
+            "Whiskey"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The brine from this garnish is what makes a dirty martini \"dirty\"",
+          "choices": [
+            "the lemon",
+            "the onion",
+            "the olive",
+            "the cucumber"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "JURY DUTY",
+      "questions": [
+        {
+          "clue": "A deadlocked jury is this 4-letter word",
+          "choices": [
+            "dead",
+            "lost",
+            "void",
+            "hung"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This type of jury charged with deciding whether there's enough evidence to try a person may have up to 23 members",
+          "choices": [
+            "a petit jury",
+            "a trial jury",
+            "a grand jury",
+            "a civil jury"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The general type of this military tribunal must have at least 5 members & the defense attorney may be military or civilian",
+          "choices": [
+            "tribunal general",
+            "military council",
+            "armed forces court",
+            "court-martial"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In the Manson trial this isolation of a jury to protect it from outside influences lasted 8 1/2 months",
+          "choices": [
+            "sequestered",
+            "sequestering",
+            "sequestration",
+            "jury isolation"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In selecting jurors, an attorney may reject some for no stated reason\u2014 this type of challenge",
+          "choices": [
+            "a peremptory challenge",
+            "a challenge for cause",
+            "a directed challenge",
+            "an implicit challenge"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A pate-like dish, or the name of the mold in which pate is baked",
+    "choices": [
+      "p\u00e2t\u00e9",
+      "foie gras",
+      "terrine",
+      "rillette"
+    ],
+    "correctIndex": 2,
+    "category": "HAUTE CUISINE"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-28",
+  "categories": [
+    {
+      "name": "TV NOSTALGIA",
+      "questions": [
+        {
+          "clue": "Ian Fleming came up with the name Napoleon Solo, Robert Vaughn's character on this series",
+          "choices": [
+            "The Man from U.N.C.L.E.",
+            "The Avengers",
+            "I Spy",
+            "Get Smart"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In the pilot for this '60s sitcom, Jed & Jethro first meet Mr. Drysdale when he comes to get them out of jail",
+          "choices": [
+            "The Beverly Hillbillies",
+            "Green Acres",
+            "Petticoat Junction",
+            "The Andy Griffith Show"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Bishop Sheen won an Emmy in 1953 for his series on this fourth network",
+          "choices": [
+            "the DuMont Television Network",
+            "the Dumont Network",
+            "the NTA Film Network",
+            "the ABC Television Network"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The 1973 TV season gave us Richard Roundtree as this supercool private eye he'd played on film",
+          "choices": [
+            "Nick Carter",
+            "Dennis Mitchell",
+            "(John) Shaft",
+            "Harry Palmer"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "(Hi. I'm Beau Bridges.) Early in my career, I appeared with my dad Lloyd Bridges in this classic TV series that often featured scenes shot underwater",
+          "choices": [
+            "Daktari",
+            "Voyage to the Bottom of the Sea",
+            "Lost in Space",
+            "Sea Hunt"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PULITZER PRIZE-WINNING AUTHORS",
+      "questions": [
+        {
+          "clue": "\"Rabbit at Rest\"",
+          "choices": [
+            "Richard Russo",
+            "E. Annie Proulx",
+            "Jonathan Franzen",
+            "John Updike"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"A Bell for Adano\"",
+          "choices": [
+            "Thomas Kennerley",
+            "E. B. White",
+            "Robert Penn Warren",
+            "John Hersey"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"The Reivers\"",
+          "choices": [
+            "William Faulkner",
+            "Ernest Hemingway",
+            "F. Scott Fitzgerald",
+            "John Steinbeck"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"The Fixer\"",
+          "choices": [
+            "Saul Bellow",
+            "Philip Roth",
+            "Bernard Malamud",
+            "Nathan Englander"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Advise and Consent\"",
+          "choices": [
+            "Allen Drury",
+            "John O'Hara",
+            "Irving Wallace",
+            "Sidney Sheldon"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MOVIE ADJECTIVES",
+      "questions": [
+        {
+          "clue": "\"Ella ____\", a fairy godmother is involved",
+          "choices": [
+            "bewitched",
+            "charmed",
+            "cursed",
+            "enchanted"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "1981: \"The Gods Must Be ____\"",
+          "choices": [
+            "Crazy",
+            "Mad",
+            "Wild",
+            "Insane"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "1945 Oscar winner: \"The ____ Weekend\"",
+          "choices": [
+            "The Drunken Weekend",
+            "The Missing Weekend",
+            "The Broken Weekend",
+            "The Lost Weekend"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "2 adjectives: \"____ Sunshine of the ____ Mind\"",
+          "choices": [
+            "Eternal Sunshine of the Clean Mind",
+            "Eternal Sunshine of the Blank Mind",
+            "Eternal Sunshine of the Clear Mind",
+            "Eternal Sunshine of the Spotless Mind"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "2004: \"Eternal Sunshine of the ____ Mind\"",
+          "choices": [
+            "Spotless",
+            "Clean",
+            "Blank",
+            "Clear"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Through (okay, along the south side of) Brazzaville",
+    "choices": [
+      "the Nile",
+      "the Amazon",
+      "the Mississippi",
+      "the Congo"
+    ],
+    "correctIndex": 3,
+    "category": "A RIVER RUNS THROUGH IT: WORLD CAPITAL EDITION"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-18",
+  "categories": [
+    {
+      "name": "COMPANY TOWNS",
+      "questions": [
+        {
+          "clue": "This company is based in Beaverton, Oregon but it doesn't manufacture shoes there",
+          "choices": [
+            "Nike",
+            "Adidas",
+            "Reebok",
+            "New Balance"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Bank of America; Transamerica; Levi Strauss",
+          "choices": [
+            "New York City",
+            "San Francisco",
+            "Los Angeles",
+            "Seattle"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "He built a town near Chicago to house his railcar company employees, & some homes still stand",
+          "choices": [
+            "John D. Rockefeller",
+            "(George) Pullman",
+            "Andrew Carnegie",
+            "Cornelius Vanderbilt"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Heinz; Westinghouse; USX, formerly U.S. Steel",
+          "choices": [
+            "Philadelphia",
+            "Baltimore",
+            "Pittsburgh",
+            "Boston"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The original name of the Kellogg Company included the name of this city, its location",
+          "choices": [
+            "Kalamazoo, Michigan",
+            "Grand Rapids, Michigan",
+            "Detroit, Michigan",
+            "Battle Creek, Michigan"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ARROWS",
+      "questions": [
+        {
+          "clue": "This 1992 event began in July with a flaming arrow igniting its symbolic flame",
+          "choices": [
+            "Summer Olympics in Barcelona",
+            "Winter Olympics in Albertville",
+            "Summer Olympics in Seoul",
+            "Commonwealth Games in Auckland"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "To help stop his company's Arrow shirts from shrinking, Sanford Cluett invented this process",
+          "choices": [
+            "Mercerizing",
+            "Calendering",
+            "Sanforization (post-shrinking them)",
+            "Sanforizing (pre-shrinking them)"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "He wrote \"I shot an arrow into the air, it fell to Earth, I knew not where\"",
+          "choices": [
+            "Henry Wadsworth Longfellow",
+            "William Wordsworth",
+            "Samuel Taylor Coleridge",
+            "Lord Byron"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "On the Great Seal of the U.S., the eagle holds this many arrows in its left talon",
+          "choices": [
+            "12",
+            "13",
+            "50",
+            "100"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This arrow-shooting constellation is a centaur of attention in the night sky",
+          "choices": [
+            "Orion",
+            "Scorpius",
+            "Centaurus",
+            "Sagittarius"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RESORTS",
+      "questions": [
+        {
+          "clue": "This N.J. resort's streets parallel to the ocean were named for bodies of water & the east-west streets for U.S. states",
+          "choices": [
+            "Atlantic City",
+            "Coney Island",
+            "Revere Beach",
+            "Cape May"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Hope & Crosby traveled the \"road\" to this South American resort city by stowing away on an ocean liner",
+          "choices": [
+            "Rio de Janeiro",
+            "Buenos Aires",
+            "Rio Grande",
+            "Bahia"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Unable to appeal to younger guests, Grossinger's in these New York mountains closed in 1986",
+          "choices": [
+            "the Berkshires",
+            "the Adirondacks",
+            "the Catskills",
+            "the Poconos"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This seaside resort on the English Channel became the \"in\" place in the 18th c., thanks to George IV",
+          "choices": [
+            "Brighton",
+            "Bournemouth",
+            "Eastbourne",
+            "Hastings"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Until it was sold recently, the exclusive Caneel Bay Resort on St. John was owned by this family",
+          "choices": [
+            "the Kennedys",
+            "the Vanderbilts",
+            "the Rockefellers",
+            "the Astors"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The last song Rodgers & Hammerstein wrote together, it ends, \"Bless my homeland forever\"",
+    "choices": [
+      "My Favorite Things",
+      "The Sound of Music",
+      "\"Edelweiss\"",
+      "Do-Re-Mi"
+    ],
+    "correctIndex": 2,
+    "category": "3 \"E\"s"
+  }
+}

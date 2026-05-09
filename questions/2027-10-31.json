@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-31",
+  "categories": [
+    {
+      "name": "THE ARABIAN NIGHTS",
+      "questions": [
+        {
+          "clue": "Until he married Scheherazade, the king was doing this to his wives the day after the wedding",
+          "choices": [
+            "imprisoning them",
+            "killing them",
+            "divorcing them",
+            "banishing them"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The tales of the Arabian Nights are told to the king by this woman, his wife",
+          "choices": [
+            "Scheherazade",
+            "Shahzaman",
+            "Sinbad",
+            "Aladdin"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The mounted men Ali Baba saw & figured were thieves, numbered this many",
+          "choices": [
+            "12",
+            "40",
+            "100",
+            "7"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Prince Houssain buys this transportation device at a bazaar for 40 purses of gold",
+          "choices": [
+            "a flying horse",
+            "a magic carpet",
+            "a flying chair",
+            "a flying bed"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The genie that the fisherman released had been bottled up by this king, the son of David",
+          "choices": [
+            "Solomon",
+            "David",
+            "Abraham",
+            "Moses"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE \"LAST\" CATEGORY",
+      "questions": [
+        {
+          "clue": "A desperate attempt, such as defending the endmost trench",
+          "choices": [
+            "a final blow",
+            "a last resort",
+            "a last ditch effort",
+            "a dying gasp"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "My patience is at an end! You've utilized this ultimate twig",
+          "choices": [
+            "the breaking point",
+            "last straw",
+            "the final word",
+            "the end of the line"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Administered by a Catholic priest to the very ill or dying",
+          "choices": [
+            "last words",
+            "last rites",
+            "last will",
+            "last breath"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Tom Cruise had to learn how to handle a sword & speak Japanese for his role in this movie",
+          "choices": [
+            "The Sword of Destiny",
+            "The Last Samurai",
+            "Samurai Jack",
+            "The Last Ronin"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Something about to tumble down is standing on these",
+          "choices": [
+            "its last days",
+            "its last breath",
+            "its last legs",
+            "its last hour"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "3-SYLLABLE WORDS",
+      "questions": [
+        {
+          "clue": "It's the less-than-enthusiastic sound delivered here",
+          "choices": [
+            "a snicker",
+            "a raspberry",
+            "a groan",
+            "a sigh"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Half the world (divided by the equator) or half the brain",
+          "choices": [
+            "quadrapole",
+            "octant",
+            "hemisphere",
+            "sextant"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A junior law enforcement officer answering to a sheriff",
+          "choices": [
+            "marshal",
+            "constable",
+            "officer",
+            "deputy"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Getting along; in music, there are 2-part & 3-part types",
+          "choices": [
+            "rhythm",
+            "melody",
+            "harmony",
+            "tempo"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Time to do this, recite a verb's inflected forms\u2014I am, you are, she is, we are...",
+          "choices": [
+            "conceive",
+            "connect",
+            "conjugate",
+            "conclude"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "If you've stopped for a breather next to this sign, it's only 100 more miles northeast to this capital",
+    "choices": [
+      "Little Rock (Arkansas)",
+      "Little Rock (Iowa)",
+      "Little Rock (Mississippi)",
+      "Little Rock (Missouri)"
+    ],
+    "correctIndex": 0,
+    "category": "SIGNS"
+  }
+}

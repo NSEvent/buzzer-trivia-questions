@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-02",
+  "categories": [
+    {
+      "name": "LITERARY WOMEN",
+      "questions": [
+        {
+          "clue": "It was no accident that her \"Accidental Tourist\" won a National Book Critics Circle Fiction Award",
+          "choices": [
+            "Jill Eisenstein",
+            "Anne Tyler",
+            "Laura Esquivel",
+            "Tobias Wolff"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This author of \"Hollywood Wives\" was formerly an actress, like her sister Joan",
+          "choices": [
+            "(Jackie) Collins",
+            "Liz Taylor",
+            "Joan Collins",
+            "Barbara Stanwyck"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "An avid horseback rider, this poet took her first name from English jockey Steve Donoghue",
+          "choices": [
+            "John Keats",
+            "Percy Bysshe Shelley",
+            "Steven Smith",
+            "William Wordsworth"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "She's kept us in suspense with over a dozen novels, including 1997's \"Pretend You Don't See Her\"",
+          "choices": [
+            "Stephen King",
+            "Mary Higgins Clark",
+            "Dean Koontz",
+            "Harlan Coben"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 1942 this \"Yearling\" author put together a book of regional recipes called \"Cross Creek Cookery\"",
+          "choices": [
+            "Marjorie Kinnan Rawlings",
+            "Zora Neale Hurston",
+            "Eudora Welty",
+            "Willa Cather"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "QUICK LIT",
+      "questions": [
+        {
+          "clue": "Cervantes published the first volume of this novel about a delusional hero in 1605",
+          "choices": [
+            "Don Giovanni",
+            "Don Juan",
+            "The Decameron",
+            "Don Quixote"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Maxine Hong Kingston won over critics & fans with the 1976 memoir \"The Woman\" this",
+          "choices": [
+            "Warrior",
+            "Dragon",
+            "Daughter",
+            "Ghost"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This Trojan war-set epic poem is the story of the wrath of Achilles",
+          "choices": [
+            "the Iliad",
+            "the Odyssey",
+            "the Aeneid",
+            "the Ilium"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It's book 3 in the \"Hunger Games\" trilogy",
+          "choices": [
+            "Catching Fire",
+            "The Ballad of Songbirds",
+            "Hunger Games",
+            "Mockingjay"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"The Plague\" by Camus is set in what is now this African country",
+          "choices": [
+            "Tunisia",
+            "Algeria",
+            "Morocco",
+            "Egypt"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COMPLETE THE MOVIE QUOTE",
+      "questions": [
+        {
+          "clue": "\"Sudden Impact\": \"Go ahead, ____ ____ ____\"",
+          "choices": [
+            "feel my wrath",
+            "kill me now",
+            "say your prayers",
+            "make my day"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"When Harry Met Sally\": \"I'll have ____ ____ ____\"",
+          "choices": [
+            "what she's having",
+            "what he's drinking",
+            "that one sandwich",
+            "the usual beer"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"All the President's Men\": \"Follow the ____\"",
+          "choices": [
+            "power",
+            "money",
+            "truth",
+            "votes"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"Fargo\": \"And I guess that was your accomplice in the ____ ____\"",
+          "choices": [
+            "wood chipper",
+            "ice chest",
+            "dumpster dive",
+            "mincing machine"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "\"All About Eve\": \"Fasten your seat belts. It's going to be a ____ ____\"",
+          "choices": [
+            "wild ride",
+            "long evening",
+            "bumpy night",
+            "thrilling time"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The oval window is a membranous opening between the middle & the inner parts of this",
+    "choices": [
+      "the nose",
+      "the eye",
+      "the ear",
+      "the ear canal"
+    ],
+    "correctIndex": 2,
+    "category": "STUCK IN THE MIDDLE"
+  }
+}

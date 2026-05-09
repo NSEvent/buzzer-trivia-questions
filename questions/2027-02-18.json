@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-18",
+  "categories": [
+    {
+      "name": "PRE-COLUMBIAN AMERICA",
+      "questions": [
+        {
+          "clue": "Ancient cliff dwellings in Bandelier National Monument were crafted from tuff, a rock formed of ash from these",
+          "choices": [
+            "canyons",
+            "glaciers",
+            "erosion",
+            "volcanoes"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In the Incan Empire, he was always \"The Inca\"",
+          "choices": [
+            "the king, the ruler, the prince, the man in charge, the boss",
+            "the priest",
+            "the warrior",
+            "the slave"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Beans, squashes & the \"Indian\" type of this supplied much of the caloric intake of Mesoamericans",
+          "choices": [
+            "potatoes",
+            "barley",
+            "rice",
+            "corn"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Ancient \"Clovis\" spear points have been found in New Mexico among the bones of these pachyderms",
+          "choices": [
+            "mammoths",
+            "mastodons",
+            "gomotheres",
+            "elephants"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "To bring home dinner, hunters back in the day had to kill mammoths & these relatives",
+          "choices": [
+            "a mastodon",
+            "a woolly rhino",
+            "a ground sloth",
+            "a giant bison"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CAPITAL TOURISM",
+      "questions": [
+        {
+          "clue": "Sir Francis Chantrey's statue of King George IV stands in a corner of this famous London square",
+          "choices": [
+            "Leicester Square",
+            "Hyde Park Corner",
+            "Trafalgar Square",
+            "Russell Square"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Visitors may feed giraffes at this Kenyan capital's Langata Giraffe Center",
+          "choices": [
+            "Luanda",
+            "Dakar",
+            "Nairobi",
+            "Abuja"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A hill known as El Panecillo \u2014 \"The Bread Roll\" \u2014 provides fine views of this Ecuadorian city",
+          "choices": [
+            "Guayaquil",
+            "Cuenca",
+            "Ambato",
+            "Quito"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Skirts called sulus make fine \"Suva\"nirs of Suva, the capital of this Pacific island country",
+          "choices": [
+            "Vanuatu",
+            "Samoa",
+            "Fiji",
+            "Tonga"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A huge monolith featuring 121 carved figures adorns Vigeland Sculpture Park in this Norwegian capital",
+          "choices": [
+            "Oslo",
+            "Stockholm",
+            "Copenhagen",
+            "Helsinki"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WATER",
+      "questions": [
+        {
+          "clue": "Named for a region of France, any deep water well",
+          "choices": [
+            "Arctic",
+            "Antarctic",
+            "Artesian",
+            "Atlantic"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Approximately 80 calories must be removed from 1g of water at 0\u00b0 C to convert it to this",
+          "choices": [
+            "steam",
+            "sleet",
+            "snow",
+            "ice"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "No time like the present to tell you this device is also called a clepsydra",
+          "choices": [
+            "a sundial",
+            "an hourglass",
+            "a mechanical clock",
+            "a water clock"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "During this part of nature's water cycle, the water is desalinated",
+          "choices": [
+            "condensation",
+            "evaporation",
+            "precipitation",
+            "transpiration"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Though industry uses more water than any other material, it uses most of it for this",
+          "choices": [
+            "heating",
+            "cleaning",
+            "processing",
+            "cooling"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "According to the initials, COPD is this type of pulmonary disease",
+    "choices": [
+      "chronic obstructive",
+      "congenital obstructive",
+      "chronic occlusive",
+      "clinical obstructive"
+    ],
+    "correctIndex": 0,
+    "category": "MED. ABBREV."
+  }
+}

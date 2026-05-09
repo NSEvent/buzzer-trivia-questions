@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-22",
+  "categories": [
+    {
+      "name": "BODIES IN WATER",
+      "questions": [
+        {
+          "clue": "Oceanographer James Snodgrass invented a gnathodynamometer to measure the force of this creature's bite",
+          "choices": [
+            "Hammerhead shark",
+            "Blue whale",
+            "Orca",
+            "Great white shark"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "These organisms cemented to ships & rocks are also called cirripedes, for their food-gathering cirri",
+          "choices": [
+            "Corals",
+            "Sea sponges",
+            "Barnacles",
+            "Anemones"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This swimmer did okay at the 1968 Olympics, winning 2 gold medals; he did better in 1972, winning 7, all record setters",
+          "choices": [
+            "Mark Foster",
+            "Mark Spitz",
+            "Ian Thorpe",
+            "Jason Lezak"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This swimmer's 8 medals (6 gold) at the 2004 Olympics aren't as well remembered as the 8 he won at the 2008 games",
+          "choices": [
+            "Ryan Lochte",
+            "Michael Phelps",
+            "Matt Biondi",
+            "Peter Vanderkaay"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This Olympic gold medalist traded in her swim goggles for hosting duties on \"Figure It Out\" & \"NBA Inside Stuff\"",
+          "choices": [
+            "Summer Sanders",
+            "Amy Van Dyken",
+            "Dara Torres",
+            "Shannon Miller"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"ICE\" PACK",
+      "questions": [
+        {
+          "clue": "Intentionally allowing a chess piece to be captured for strategic reasons",
+          "choices": [
+            "a gambit",
+            "a trap",
+            "a sacrifice",
+            "a blunder"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In social gatherings this type of opening line is used to ease tension",
+          "choices": [
+            "an opener",
+            "an icebreaker",
+            "a conversation",
+            "a greeting"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This verb means to join at the ends: film or rope, for example",
+          "choices": [
+            "splice",
+            "taper",
+            "bind",
+            "knot"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It was so-named because its flavor resembles a combination of cloves, cinnamon & nutmeg",
+          "choices": [
+            "allspice",
+            "pimento",
+            "clove",
+            "nutmeg"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It originates near the shoulder blade & is a conventional symbol of bodily strength",
+          "choices": [
+            "the tricep",
+            "the bicep",
+            "the deltoid",
+            "the latissimus"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ANAGRAMMED MUSICALS",
+      "questions": [
+        {
+          "clue": "Lerner & Loewe's Scotstravaganza: \"A GOON BIRD\"",
+          "choices": [
+            "Brigadoon",
+            "Cinderella",
+            "Evita",
+            "Phantom"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"Go Sin Amiss\"",
+          "choices": [
+            "Hamilton",
+            "Les Miserables",
+            "Miss Saigon",
+            "West Side Story"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"Boot Wash\"",
+          "choices": [
+            "Show Boat",
+            "Oklahoma",
+            "Carousel",
+            "My Fair Lady"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Lots of suckers saw it: \"BAN RUM\"",
+          "choices": [
+            "Circus",
+            "Menagerie",
+            "Fairground",
+            "Barnum"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"STEW RIDES TOYS\"",
+          "choices": [
+            "Oklahoma",
+            "Carousel",
+            "South Pacific",
+            "West Side Story"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The movie \"Awakenings\" depicts the use of this drug, usually for Parkinson's, on catatonic patients",
+    "choices": [
+      "Insulin",
+      "Morphine",
+      "L-dopa",
+      "Aspirin"
+    ],
+    "correctIndex": 2,
+    "category": "LETTER-WORD"
+  }
+}

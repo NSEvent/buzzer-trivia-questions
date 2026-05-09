@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-12",
+  "categories": [
+    {
+      "name": "IT'S ALL ABOUT HER",
+      "questions": [
+        {
+          "clue": "\"Condi: The Life of a Steel Magnolia\"",
+          "choices": [
+            "(Hillary) Clinton",
+            "(Madeleine) Albright",
+            "(Condoleezza) Rice",
+            "(Susan) Rice"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "\"Goodness Had Nothing to Do With It\"",
+          "choices": [
+            "Marlene Dietrich",
+            "Mae West",
+            "Groucho Marx",
+            "Judy Garland"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"The Downing Street Years\"",
+          "choices": [
+            "Theresa May",
+            "Tony Blair",
+            "Margaret Thatcher",
+            "Elizabeth II"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"Road to Tara: The Life of\" this author",
+          "choices": [
+            "Harper Lee",
+            "Eudora Welty",
+            "Margaret Mitchell",
+            "Flannery O'Connor"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Out of the Corner\" (because nobody puts Baby there)",
+          "choices": [
+            "Molly Ringwald",
+            "Brooke Shields",
+            "Cher",
+            "Jennifer Grey"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SHAKESPEAREAN TRIVIA",
+      "questions": [
+        {
+          "clue": "In \"Romeo & Juliet\", Escalus is the prince of this city",
+          "choices": [
+            "Mantua",
+            "Padua",
+            "Verona",
+            "Ferrara"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "\"Numerical\" title of the comedy that's subtitled \"Or What You Will\"",
+          "choices": [
+            "Twelfth Night",
+            "As You Like It",
+            "Much Ado About Nothing",
+            "A Midsummer Night's Dream"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "An Egyptian gave it to Othello's mother, & Othello gave it to Desdemona",
+          "choices": [
+            "his ring",
+            "her necklace",
+            "her handkerchief",
+            "his glove"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "About the time Shakespeare was plotting King Lear, this man was arrested in a plot to kill James I",
+          "choices": [
+            "Robert Cecil",
+            "Guy Fawkes",
+            "Thomas Walsingham",
+            "Francis Vere"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The 3 plays of Henry VI are set during this conflict",
+          "choices": [
+            "the Hundred Years War",
+            "the War(s) of the Roses",
+            "the Battle of Hastings",
+            "the English Civil War"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "STARGAZERS",
+      "questions": [
+        {
+          "clue": "47 of the 48 constellations he listed in his \"Almagest\" around 150 B.C. are still recognized",
+          "choices": [
+            "Nicolaus Copernicus",
+            "Aristarchus of Samos",
+            "Hipparchus",
+            "Ptolemy"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1705 he published \"A Synopsis of the Astronomy of Comets\" describing the orbits of 24 comets that had been observed",
+          "choices": [
+            "Johannes Kepler",
+            "Tycho Brahe",
+            "Galileo Galilei",
+            "(Edmond) Halley"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 1609 this Italian used his telescope to determine that the Moon has valleys & mountains",
+          "choices": [
+            "Galileo",
+            "Tycho",
+            "Kepler",
+            "Copernicus"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Traveling in Malawi, Africa on July 6, 1861, this Scottish explorer saw \"a large comet in Ursa Major\"",
+          "choices": [
+            "Mungo Park",
+            "Henry Morton Stanley",
+            "Richard Burton",
+            "David Livingstone"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1836, he noticed that light beads form around the edge of the moon during a solar eclipse",
+          "choices": [
+            "Newton",
+            "Baily",
+            "Huygens",
+            "Cassini"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Surf band The Ventures had a '60s hit with this show's theme; their re-recording for the reboot got rejected",
+    "choices": [
+      "Bonanza",
+      "Gunsmoke",
+      "The Rifleman",
+      "Hawaii Five-O"
+    ],
+    "correctIndex": 3,
+    "category": "HIT TV THEME SONGS"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-19",
+  "categories": [
+    {
+      "name": "COLORFUL PHRASES",
+      "questions": [
+        {
+          "clue": "Any of several small wasps of the family vespidae known for their colorful coats",
+          "choices": [
+            "paper wasps",
+            "yellowjackets",
+            "hornets",
+            "cicadas"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In India, this cell was the pits",
+          "choices": [
+            "the Black Hole of London",
+            "the Black Hole of Bombay",
+            "the Black Hole of Delhi",
+            "the Black Hole of Calcutta"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "From a French phrase, it's a person who exercises power behind the scenes or through another",
+          "choices": [
+            "a grey eminence (\u00e9minence grise)",
+            "a red eminence",
+            "a blue eminence",
+            "a white eminence"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A complete embarrassment to a family is this wool giver",
+          "choices": [
+            "a white sheep",
+            "a black cow",
+            "a grey sheep",
+            "a black sheep"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In Ivanhoe, when King Richard was in disguise he was described as this",
+          "choices": [
+            "the Red Baron",
+            "the White Rose",
+            "the Golden Eagle",
+            "the Black Knight"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IT GROWS ON TREES",
+      "questions": [
+        {
+          "clue": "This type of orange is so named because it has a small secondary fruit growing at the end",
+          "choices": [
+            "blood orange",
+            "mandarin orange",
+            "navel orange",
+            "clementine"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Occasionally, peach trees also yield these smooth-skinned cousins",
+          "choices": [
+            "nectarines",
+            "plums",
+            "apricots",
+            "cherries"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Since it spends most of its time up in the branches, you could say that this mammal slowly grows on trees",
+          "choices": [
+            "a sloth bear",
+            "a sloth",
+            "a koala",
+            "a tree sloth"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The vine that ate the South, it grows on trees and shrubs, smothering and killing them",
+          "choices": [
+            "ivy",
+            "kudzu",
+            "mistletoe",
+            "vine"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "An evergreen, the eastern hemlock produces mini 1/2\" to 1\"-long types of these seed-bearing structures",
+          "choices": [
+            "berries",
+            "nuts",
+            "cones",
+            "acorns"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "REVOLUTIONARY WAR HEROES",
+      "questions": [
+        {
+          "clue": "He fought well as a major general for the Americans & a brigadier-general for the British",
+          "choices": [
+            "George Washington",
+            "Benedict Arnold",
+            "John Adams",
+            "Thomas Jefferson"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Captured by the British, this 14-yr.-old future president was wounded when he wouldn't clean an officer's boots",
+          "choices": [
+            "Andrew Jackson",
+            "Thomas Jefferson",
+            "James Madison",
+            "Alexander Hamilton"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Because he hadn't begun to fight, he continued his career in Russia's navy",
+          "choices": [
+            "George Washington",
+            "Thomas Jefferson",
+            "John Paul Jones",
+            "Benjamin Franklin"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "After the war, this marquis returned to France with enough American soil in which to be buried",
+          "choices": [
+            "King George III",
+            "King Louis XVI",
+            "Napoleon Bonaparte",
+            "the Marquis de Lafayette"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "His pro-British cousin Samuel was widely accused of betraying this American spy",
+          "choices": [
+            "Benedict Arnold",
+            "John Andr\u00e9",
+            "Silas Deane",
+            "Nathan Hale"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Milk, seltzer & chocolate syrup combine to make this drink",
+    "choices": [
+      "an egg cream",
+      "a root beer float",
+      "a chocolate milkshake",
+      "a seltzer soda"
+    ],
+    "correctIndex": 0,
+    "category": "MISNOMERS"
+  }
+}

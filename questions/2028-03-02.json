@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-02",
+  "categories": [
+    {
+      "name": "APPETIZERS",
+      "questions": [
+        {
+          "clue": "To make Angels on Horseback, start by shucking these shellfish",
+          "choices": [
+            "clams",
+            "scallops",
+            "oysters",
+            "mussels"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Mee Krob is a sweet, crispy noodle dish from the cuisine of this country",
+          "choices": [
+            "Thailand",
+            "Vietnam",
+            "Cambodia",
+            "Laos"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A delicious hors d'oeuvre is this French cheese, perhaps de Melun, baked in pastry",
+          "choices": [
+            "Camembert",
+            "Brie",
+            "Ch\u00e8vre",
+            "Gruy\u00e8re"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Baba ghanoush is a dip made with this large purplish member of the nightshade family",
+          "choices": [
+            "tomato",
+            "potato",
+            "pepper",
+            "eggplant"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A popular Louisiana appetizer, crawfish tails that have been shelled, battered & deep-fried are called Cajun this",
+          "choices": [
+            "popcorn",
+            "nuggets",
+            "bites",
+            "crisps"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FAMILY VALUES",
+      "questions": [
+        {
+          "clue": "The Ten Commandments command do this to \"Thy father and thy mother, that thy days may be long....\"",
+          "choices": [
+            "Respect them",
+            "Love them",
+            "Honor them",
+            "Obey them"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "By 1890 the 2nd John Jacob of this family had increased the family fortune to more than $75 million",
+          "choices": [
+            "the Vanderbilts",
+            "the Astors",
+            "the Morgans",
+            "the Rockefellers"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Many conservatives value this key to advancement but want the cabinet department abolished",
+          "choices": [
+            "Justice",
+            "Defense",
+            "Treasury",
+            "Education"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "After setting the standard in oil, the head of this family gave $80 million to the Univ. of Chicago by the time of his death",
+          "choices": [
+            "Andrew Carnegie",
+            "J. P. Morgan",
+            "Cornelius Vanderbilt",
+            "(John D.) Rockefeller"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This \"commodore\" left less than 5% of his $100 mil. to his second wife & 8 daughters\u2014the rest went mainly to his son",
+          "choices": [
+            "John D. Rockefeller",
+            "Henry Ford",
+            "John D. Rockefeller Jr.",
+            "(Cornelius) Vanderbilt"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ROCKS",
+      "questions": [
+        {
+          "clue": "Siltstone, sandstone & shale are all rocks of this type",
+          "choices": [
+            "igneous",
+            "metamorphic",
+            "sedimentary",
+            "volcanic"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Gneiss & chlorite are regional types of this class of rock that forms when heat & pressure cause changes",
+          "choices": [
+            "sedimentary",
+            "igneous",
+            "metamorphic",
+            "limestone"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This word for a light-colored rock used in building comes from an old Roman name for Tivoli, Italy",
+          "choices": [
+            "limestone",
+            "marble",
+            "basalt",
+            "travertine"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "These alpine mountains in Italy are named for the magnesian limestone of which they're made",
+          "choices": [
+            "the Alps",
+            "the Dolomites",
+            "the Apennines",
+            "the Pyrenees"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Granite & gneiss are composed mainly of feldspar & this common mineral",
+          "choices": [
+            "mica",
+            "quartz",
+            "calcite",
+            "clay"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In titles of books by Laura Ingalls Wilder, these 2 words precede \"In the Big Woods\" & \"On the Prairie\"",
+    "choices": [
+      "Little Town",
+      "Grand Home",
+      "Small Cabin",
+      "Little House"
+    ],
+    "correctIndex": 3,
+    "category": "FOR THE KIDS"
+  }
+}

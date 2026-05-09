@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-23",
+  "categories": [
+    {
+      "name": "RETIRED JERSEYS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Chicago Bears No. 34",
+          "choices": [
+            "Gale Sayers",
+            "Dick Butkus",
+            "Mike Ditka",
+            "Walter Payton"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "Detroit Red Wings No. 9",
+          "choices": [
+            "Ted Lindsay",
+            "Steve Yzerman",
+            "Terry Sawchuk",
+            "Gordie Howe"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This legend hit the rafters in 1993",
+          "choices": [
+            "Magic Johnson",
+            "Julius Erving",
+            "Larry Bird",
+            "Kareem Abdul-Jabbar"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "San Francisco 49ers No. 16",
+          "choices": [
+            "Steve Young",
+            "Joe Montana",
+            "Jerry Rice",
+            "Ronnie Lott"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "New York Yankees No. 3",
+          "choices": [
+            "Lou Gehrig",
+            "Joe DiMaggio",
+            "Babe Ruth",
+            "Mickey Mantle"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "OCCUPATIONAL VERBS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "To sip a drink slowly, making it last longer",
+          "choices": [
+            "to savor",
+            "to tend",
+            "to stretch",
+            "to nurse"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "To prepare a pork loin for sale, or to make a mess of a project",
+          "choices": [
+            "doctor",
+            "hack",
+            "butcher",
+            "broker"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "TV cops get frustrated when a suspect in custody does this 2-word slang phrase meaning \"get an attorney\\\"",
+          "choices": [
+            "lawyer up",
+            "plead out",
+            "clam up",
+            "bail out"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "To steer, as a captain may steer a ship through rough waters",
+          "choices": [
+            "captain",
+            "pilot",
+            "navigate",
+            "helm"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "To admit to a misdeed or to enter a guilty plea",
+          "choices": [
+            "plead",
+            "judge",
+            "cop",
+            "broker"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "VIETNAM",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In the 1880s this European nation combined the 3 areas under its control into a unified Vietnam",
+          "choices": [
+            "Britain",
+            "France",
+            "Portugal",
+            "the Netherlands"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "In May Vietnam celebrates the defeat of this country's forces at the Battle of Dien Bien Phu",
+          "choices": [
+            "Japan",
+            "China",
+            "France",
+            "the United States"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "The \"Hanoi Hilton\" on Hoa Lo Street is actually one of these",
+          "choices": [
+            "a hotel",
+            "a military barracks",
+            "a prison",
+            "a hospital"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "A fertile marshland, Vietnam's southernmost region is the broad delta of this river",
+          "choices": [
+            "the Mekong",
+            "the Red River",
+            "the Irrawaddy",
+            "the Yangtze"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Vietnam's narrowest point, about 30 miles, is just north of this port city where U.S. troops landed in 1965",
+          "choices": [
+            "Hue",
+            "Hoi An",
+            "Da Nang",
+            "Quang Tri"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "HOT DOG!",
+    "clue": "Of cardamom, nutmeg & sage, the one not a popular hot dog spice",
+    "choices": [
+      "cardamom",
+      "sage",
+      "nutmeg",
+      "coriander"
+    ],
+    "correctIndex": 1
+  }
+}

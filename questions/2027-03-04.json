@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-04",
+  "categories": [
+    {
+      "name": "THE YEAR THAT WAS",
+      "questions": [
+        {
+          "clue": "The year Christopher Columbus discovered Cuba",
+          "choices": [
+            "1492",
+            "1493",
+            "1491",
+            "1500"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "On September 2, as supreme commander for the Allies, he accepted Japan's surrender",
+          "choices": [
+            "Eisenhower",
+            "MacArthur",
+            "Patton",
+            "Bradley"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Zachary Taylor was inaugurated & an estimated 80,000 people poured into California",
+          "choices": [
+            "1849",
+            "1850",
+            "1848",
+            "1851"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This is the year that was",
+          "choices": [
+            "1944",
+            "1945",
+            "1946",
+            "1943"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "By treaty, the British formally recognized U.S. independence in this year",
+          "choices": [
+            "1783",
+            "1776",
+            "1789",
+            "1801"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "19th CENTURY QUOTES",
+      "questions": [
+        {
+          "clue": "In 1899 this future president said he wished to preach \"the doctrine of the strenuous life\"",
+          "choices": [
+            "William McKinley",
+            "Grover Cleveland",
+            "Teddy Roosevelt",
+            "Mark Hanna"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The 4 words preceding \"...and grow up with the country\"",
+          "choices": [
+            "Rise early",
+            "Go west, young man",
+            "Work hard",
+            "Travel far"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "To Oscar Wilde's \"I wish I'd said that\", James Whistler famously responded this",
+          "choices": [
+            "That is a lie",
+            "I disagree entirely",
+            "\"You will, Oscar, you will\"",
+            "You are mistaken"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1807 this inventor went from New York City to Albany \"wholly by the power of the steam engine\"",
+          "choices": [
+            "(Robert) Stephenson",
+            "(Robert) Fulton",
+            "(Robert) Stevens",
+            "(Robert) Livingston"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Poet Charles Baudelarie said, \"Il faut epater\", or \"You must shock\", this social group",
+          "choices": [
+            "the aristocracy",
+            "the proletariat",
+            "the aristocrats",
+            "the bourgeoisie"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SCIENCE NEWS",
+      "questions": [
+        {
+          "clue": "In 2017 scientists developed a faster way to make magnesite, a mineral that can capture & store this greenhouse gas",
+          "choices": [
+            "methane",
+            "nitrous oxide",
+            "carbon dioxide",
+            "carbon monoxide"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 2013 the Supreme Court ruled that human ones can't be patented, though synthetic versions can",
+          "choices": [
+            "proteins",
+            "genes",
+            "enzymes",
+            "chromosomes"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Gene-edited versions of the embryonic type of these cells have helped geckos regrow their tails more perfectly",
+          "choices": [
+            "brain cells",
+            "stem cells",
+            "immune cells",
+            "skin cells"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "These DNA-bearing structures have caps called telomeres; learn to lengthen those & we'll all live forever",
+          "choices": [
+            "mitochondria",
+            "histones",
+            "ribosomes",
+            "chromosomes"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 2019 the IAU announced the discovery of 20 new moons of this planet, putting it 3 ahead of Jupiter's total",
+          "choices": [
+            "Uranus",
+            "Saturn",
+            "Neptune",
+            "Pluto"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"O, my dear Hamlet!\" cries this queen, who dies after drinking from a poisoned cup intended for her son",
+    "choices": [
+      "Ophelia",
+      "Desdemona",
+      "Lady Macbeth",
+      "Gertrude"
+    ],
+    "correctIndex": 3,
+    "category": "SHAKESPEARE'S KINGS & QUEENS"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2027-10-02",
+  "categories": [
+    {
+      "name": "1968",
+      "questions": [
+        {
+          "clue": "Camelot \"ended\" when Jackie married him",
+          "choices": [
+            "Onassis",
+            "Aristotle",
+            "Jackie Onassis",
+            "Aristotle Onassis"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This \"Oriental\" flu reached epidemic proportions just before Christmas",
+          "choices": [
+            "Hong Kong (flu)",
+            "Asian flu",
+            "Russian flu",
+            "Spanish flu"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This man was ordained in 1968; 20 years later he was running for president",
+          "choices": [
+            "Jesse Helms",
+            "Jesse Jackson",
+            "Al Sharpton",
+            "John Lewis"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This Midwestern landmark, designed by Eero Saarinen, was dedicated on May 25, 1968",
+          "choices": [
+            "the Gateway to the East",
+            "the Gateway to the North",
+            "the Gateway to the South",
+            "the Gateway to the West (Gateway Arch)"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Former ambassador to Russia & Gov. of N.Y., he represented the U.S. at Vietnam peace talks",
+          "choices": [
+            "George C. Marshall",
+            "Averell Harriman",
+            "Henry Cabot Lodge",
+            "Dean Acheson"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PRODUCE",
+      "questions": [
+        {
+          "clue": "I heard it through some kind of vine that 2440 B.C. Egyptian tomb paintings depict the cultivation of this fruit",
+          "choices": [
+            "olives",
+            "figs",
+            "grapes",
+            "apples"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 2008 a pair of Brits were out of their gourd, growing a 1,457-lb. one of these; smashing!",
+          "choices": [
+            "a watermelon",
+            "a butternut squash",
+            "a pumpkin",
+            "a cabbage"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The name of this cylindrical vegetable means \"little squashes\" in Italian",
+          "choices": [
+            "eggplant",
+            "zucchini",
+            "asparagus",
+            "artichoke"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "As a producer, he was smart enough to hire himself to direct \"A Beautiful Mind\"; imagine that!",
+          "choices": [
+            "Steven Spielberg",
+            "James Cameron",
+            "Martin Scorsese",
+            "Ron Howard"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This mega producer & creator of \"Scandal\" declared, \"You can waste your lives drawing lines or you can live your life crossing them\"",
+          "choices": [
+            "Shonda Rhett",
+            "(Shonda) Rhimes",
+            "Sarah Jessica",
+            "Sofia Vergara"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CLASSIC TV CHARACTERS",
+      "questions": [
+        {
+          "clue": "Drs. Greene, Weaver & Carter saved Windy City lives on this 15-season drama",
+          "choices": [
+            "ABC",
+            "NBC",
+            "HBO",
+            "ER"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Cool as a cucumber cop of \"Hawaii Five-O\" who bagged the bad guys while saying \"Book 'em, Dan-O\"",
+          "choices": [
+            "Steve Jobs",
+            "Matt McGarrett",
+            "Steve Rogers",
+            "Steve McGarrett"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Catsuited cutie cavorting with John Steed on \"The Avengers\"",
+          "choices": [
+            "Purdey",
+            "Tara King",
+            "Mrs. Peacock",
+            "Emma Peel"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Tyra Collette was more than just the bad girl of Dillon, Texas on this drama",
+          "choices": [
+            "One Tree Hill",
+            "Dawson's Creek",
+            "Friday Night Lights",
+            "Gilmore Girls"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Sabrina, Jill & Kelly solved crimes as this title trio of private investigators",
+          "choices": [
+            "Bewitched",
+            "I Dream of Jeannie",
+            "The Women of Brisco County Jr.",
+            "Charlie's Angels"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This term for the grooves or channels in the shaft of a marble column is not related to music",
+    "choices": [
+      "a rib",
+      "a flute (fluting)",
+      "a volute",
+      "a capital"
+    ],
+    "correctIndex": 1,
+    "category": "BUILDING TERMS"
+  },
+  "bonusRound": {
+    "clue": "You might take investing tips from this network's \"On the Money\" or \"The Call\"; Jon Stewart probably doesn't",
+    "choices": [
+      "CNBC",
+      "FOX News",
+      "Bloomberg",
+      "CNN"
+    ],
+    "correctIndex": 0,
+    "category": "MONEY & FINANCE"
+  }
+}

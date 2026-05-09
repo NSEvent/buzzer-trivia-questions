@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-18",
+  "categories": [
+    {
+      "name": "HOUSE PARTY",
+      "questions": [
+        {
+          "clue": "Hansel could tell you that building one of these houses requires more sugar than timber",
+          "choices": [
+            "a gingerbread house",
+            "a candy cane forest",
+            "a chocolate castle",
+            "a caramel cottage"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Billed as \"the most shocking tale of carnage ever seen\", Rob Zombie's first movie was titled \"House of 1000\" these",
+          "choices": [
+            "Ghosts",
+            "Monsters",
+            "Corpses",
+            "Vampires"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "From words for \"house study\", it's the study of the relations of organisms to one another & to their environment",
+          "choices": [
+            "biology",
+            "zoology",
+            "botany",
+            "ecology"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The Margaret Mitchell House & Museum is in this city, where she lived & wrote \"Gone With the Wind\"",
+          "choices": [
+            "Charleston",
+            "Savannah",
+            "Atlanta",
+            "Nashville"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This house in Massachusetts is actually on Turner Street, not Pyncheon Street as in the 1851 novel",
+          "choices": [
+            "Walden Pond",
+            "Hawthorne Estate",
+            "House of the Seven Gables",
+            "Salem Witch House"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FILE UNDER \"E\"",
+      "questions": [
+        {
+          "clue": "A candidate for knighthood in medieval times, or an English country gentleman",
+          "choices": [
+            "Gentleman",
+            "Sir Knight",
+            "Nobleman",
+            "Esquire"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This ancient Greek city in Asia Minor was the site of the temple of Artemis",
+          "choices": [
+            "Epidaurus",
+            "Elis",
+            "Ephesus",
+            "Eretria"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Eritrea, now the northernmost province of this country, was an Italian colony from 1890-1941",
+          "choices": [
+            "Egypt",
+            "Eritrea",
+            "Ethiopian Empire",
+            "Ethiopia"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Gene Chandler is the Duke of Earl & Prince Philip is the duke of this city",
+          "choices": [
+            "Enfield",
+            "Eastbourne",
+            "Exeter",
+            "Edinburgh"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "He's the only man nominated for V.P. by a natl. convention who resigned his candidacy under pressure",
+          "choices": [
+            "Sen. John Glenn",
+            "Sen. Barry Goldwater",
+            "Sen. Al Gore",
+            "Sen. Thomas Eagleton"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PLACES TO GO",
+      "questions": [
+        {
+          "clue": "Like Madame Tussaud's in London, the Grevin is a Paris museum of this",
+          "choices": [
+            "oil paintings",
+            "marble statues",
+            "bronze sculptures",
+            "wax figures"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This \"stately\" New York City skyscraper hosts an annual run-up of 86 flights of stairs",
+          "choices": [
+            "the Empire State Building",
+            "the Chrysler Building",
+            "the Flatiron Building",
+            "the Woolworth Building"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Celebrating its centennial in 2003, this city's Isabella Stewart Gardner Museum was known as Fenway Court when it opened",
+          "choices": [
+            "Philadelphia",
+            "Boston",
+            "New York",
+            "Chicago"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Philadelphia's Mutter Museum has the actual connected livers of this pair",
+          "choices": [
+            "Paddy & Joe Kelly",
+            "Hank & Mike Wilson",
+            "Bob & Tom Smith",
+            "Chang & Eng (Bunker)"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Built around 122 A.D., this wall was the northern defensive boundary of Roman Britain",
+          "choices": [
+            "The Great Wall",
+            "Hadrian's Wall",
+            "Hadrian's Gate",
+            "Antonine Wall"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Another word for vertex or summit",
+    "choices": [
+      "base",
+      "apex",
+      "center",
+      "edge"
+    ],
+    "correctIndex": 1,
+    "category": "IN EXPLICABLE"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-08",
+  "categories": [
+    {
+      "name": "THE DIRECTOR'S CUT",
+      "questions": [
+        {
+          "clue": "For this 1939 fantasy classic, Victor Fleming replaced George Cukor",
+          "choices": [
+            "Gone with the Wind",
+            "King Kong",
+            "Casablanca",
+            "The Wizard of Oz"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The director's cut of this 1986 film restored Frank Oz' original vision: Audrey II devours Seymour & Audrey",
+          "choices": [
+            "Tim Burton",
+            "Little Shop of Horrors",
+            "Wes Craven",
+            "Sam Raimi"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In Steven Spielberg's 1980 \"Special Edition\" cut of this film, moviegoers get to see Richard Dreyfuss inside the UFO",
+          "choices": [
+            "E.T. the Extra-Terrestrial",
+            "Independence Day",
+            "Close Encounters of the Third Kind",
+            "Contact"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "He has created the director's cut for \"Watchmen\", as well as \"Batman v. Superman: Dawn of Justice\"",
+          "choices": [
+            "Joss Whedon",
+            "Christopher Nolan",
+            "Ridley Scott",
+            "Zack Snyder"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Original director Philip Kaufman had creative differences with this final director of \"The Outlaw Josey Wales\"",
+          "choices": [
+            "Sergio Leone",
+            "Francis Ford Coppola",
+            "Clint Eastwood",
+            "Robert Altman"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "INTERNATIONAL LAW",
+      "questions": [
+        {
+          "clue": "Japan violated international law by bombing Pearl Harbor because it hadn't done this 1st",
+          "choices": [
+            "signed a treaty",
+            "sent a telegram",
+            "declared war",
+            "formed an alliance"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In the 1940s Raphael Lemkin coined this term for destruction of a group, now a crime under international law",
+          "choices": [
+            "genocide",
+            "ethnic cleansing",
+            "crimes against humanity",
+            "war crimes"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The 1982 Law of the Sea says for these groupings, like Indonesia, water between islands is for all states' ships",
+          "choices": [
+            "a peninsula",
+            "an island chain",
+            "an archipelago",
+            "a maritime zone"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The Vienna Conventions codified this principle that protects ambassadors from local prosecution",
+          "choices": [
+            "diplomatic immunity",
+            "sovereign immunity",
+            "consular protection",
+            "extradition treaty"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1793, as France & Britain went to war, George Washington proclaimed this status for the U.S.",
+          "choices": [
+            "hostile",
+            "allied",
+            "belligerent",
+            "neutral"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FEATURE FILM DEBUTS",
+      "questions": [
+        {
+          "clue": "She was nominated for a 1980 Oscar for writing the theme song of her first film, \"9 to 5\"",
+          "choices": [
+            "Reba McEntire",
+            "Loretta Lynn",
+            "Dolly Parton",
+            "Tammy Wynette"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The comedic talent of this former model was unmasked in \"The Mask\" \u2014 there's something about her...",
+          "choices": [
+            "Drew Barrymore",
+            "Salma Hayek",
+            "Brittany Murphy",
+            "Cameron Diaz"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Her character made Ed Begley Jr.'s life a living hell when she hit the big screen in \"She-Devil\"",
+          "choices": [
+            "Married... with Children",
+            "Roseanne Barr",
+            "Roseanne",
+            "The Mary Tyler Moore Show"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In her debut, she played second fiddle to an ape in 1976's \"King Kong\"; better roles & 2 Oscars were to follow",
+          "choices": [
+            "(Sigourney) Weaver",
+            "(Jessica) Lange",
+            "(Jessica) Chastain",
+            "(Meryl) Streep"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "At 13, she debuted as Mattie Ross in the 2010 remake of \"True Grit\" winning the part over more than 15,000 other girls",
+          "choices": [
+            "Dakota Fanning",
+            "Quvenzhan\u00e9 Wallis",
+            "Jodelle Ferland",
+            "Hailee Steinfeld"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "(Jimmy of the Clue Crew reports) It's the result I'll get [working a division problem on the chalkboard]; not the specific number, just the general term",
+    "choices": [
+      "quotient",
+      "product",
+      "sum",
+      "remainder"
+    ],
+    "correctIndex": 0,
+    "category": "TO A \"T\""
+  }
+}

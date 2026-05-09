@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-26",
+  "categories": [
+    {
+      "name": "MACY'S PARADE",
+      "questions": [
+        {
+          "clue": "In '86 parade, the Chipmunks rode a \"floloon\", a combination of these 2 parade standards",
+          "choices": [
+            "float & a balloon",
+            "truck and a tent",
+            "car and a flag",
+            "wagon and a banner"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Other than humans, most live animals in the parade nowadays are these",
+          "choices": [
+            "Dogs",
+            "Cats",
+            "Horses",
+            "Bears"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It took more helium to fill this fat feline balloon than any other in the '87 parade; kinda figures",
+          "choices": [
+            "Garfield",
+            "Charlie Brown",
+            "Peanuts",
+            "Snoopy"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This is the street that makes up the major portion of the 2 1/2 mile long parade route",
+          "choices": [
+            "Broadway",
+            "Fifth Avenue",
+            "Madison Avenue",
+            "Wall Street"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "With high winds in 1956, only this rodent balloon had the might to make it to the parade's end",
+          "choices": [
+            "Superman",
+            "Mighty Mouse",
+            "Spiderman",
+            "Batman"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE ROCKY MOUNTAINS",
+      "questions": [
+        {
+          "clue": "In 1865 this Wyoming city was named after a lieutenant killed by the Indians, not a ghost",
+          "choices": [
+            "Cheyenne",
+            "Laramie",
+            "Cody",
+            "Casper"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Not many people run into Bigfoot in the Rockies, but many see bighorns, which are these",
+          "choices": [
+            "goats",
+            "deer",
+            "sheep",
+            "elks"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "For much of its length, this ridge between western- & eastern-flowing river systems follows the crest of the Rocky Mountains",
+          "choices": [
+            "the Great Divide",
+            "the Appalachian Divide",
+            "the Cascadia Ridge",
+            "the Continental Ridge (Continental Divide)"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In the U.S. the southernmost point of the system is in New Mexico & the northernmost is in this state",
+          "choices": [
+            "Colorado",
+            "Wyoming",
+            "Alaska",
+            "British Columbia"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This Scotish explorer was the 1st white man to cross the Rockies; he did it up in Canada in 1793",
+          "choices": [
+            "David Thompson",
+            "(Alexander) Mackenzie",
+            "Simon Fraser",
+            "George Vancouver"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RHYME FIGHTER",
+      "questions": [
+        {
+          "clue": "What students \"pull\" staying up until morning studying",
+          "choices": [
+            "an all-nighter",
+            "a cram session",
+            "a study group",
+            "a revision night"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Synonym for a rabble-rouser who fires up a mob",
+          "choices": [
+            "a provocateur",
+            "a demagogue",
+            "an inciter",
+            "a agitator"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This item near a car's radio evolved into a 12-volt accessory charger",
+          "choices": [
+            "a cigarette holder",
+            "a cigarette pack",
+            "a cigarette lighter",
+            "a cigarette case"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Anatomical term for someone who talks spitefully about an absent person",
+          "choices": [
+            "a backslider",
+            "a backtalker",
+            "a backstabber",
+            "a backbiter"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In sports a close match is \"a real\" this",
+          "choices": [
+            "a nail-biter",
+            "a hair-raiser",
+            "a nail-bitten",
+            "a nail-polisher"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Fergie would have been wise to avoid Florida & Louisiana in 1992 when this hit",
+    "choices": [
+      "Andrew",
+      "Mitch",
+      "Sandy",
+      "Irma"
+    ],
+    "correctIndex": 0,
+    "category": "HURRICANE NAMES"
+  }
+}

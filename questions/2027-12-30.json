@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-30",
+  "categories": [
+    {
+      "name": "TEACHER'S PET",
+      "questions": [
+        {
+          "clue": "(Jon of the Clue Crew teaches his dog Rocko to sit.) Rocko, sit! When I teach human kids, I wish I could use the commands that are taught in this class, from the Latin for \"listen\"\u2014Okay!",
+          "choices": [
+            "kennel club",
+            "agility course",
+            "training session",
+            "obedience class"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "(Jon of the Clue Crew gets ready to clean Rocko's teeth with a finger-mounted brush.) Just like you, dogs need to get rid of this film that can build up into tartar\u2014regular brushing sure helps",
+          "choices": [
+            "gingivitis",
+            "plaque",
+            "calculus",
+            "decay"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "...is a Flemish giant one of these furry mammals that weighs almost 20 pounds",
+          "choices": [
+            "a rabbit",
+            "a hare",
+            "a guinea pig",
+            "a chinchilla"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "(Rocko gets frisky with his owner Jon of the Clue Crew.) Regular exercise benefits this system, a word referring to the heart & blood vessels together",
+          "choices": [
+            "the circulatory system",
+            "the respiratory system",
+            "the cardiovascular system",
+            "the digestive system"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "...is a pair of these large blue-eyed cats, Ann & Andy, who go limp & floppy when you pick them up",
+          "choices": [
+            "persians",
+            "ragdolls",
+            "maine coons",
+            "siamese"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NEW MEXICO",
+      "questions": [
+        {
+          "clue": "Century in which New Mexico became a state",
+          "choices": [
+            "the 19th century",
+            "the 20th century",
+            "the 21st century",
+            "the 18th century"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This city's Journal is the state's largest newspaper",
+          "choices": [
+            "Santa Fe",
+            "Las Cruces",
+            "Albuquerque",
+            "Roswell"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "On July 16, 1945 the Nuclear Age began when this govt. project exploded the first atomic bomb near Alamogordo",
+          "choices": [
+            "the Manhattan Plan",
+            "the Manhattan Project",
+            "the Atomic Program",
+            "the Trinity Initiative"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "New Mexico's acquiring statehood in 1912 didn't stop his gang from raiding the town of Columbus in 1916",
+          "choices": [
+            "Panama",
+            "Panhandle",
+            "Pantera",
+            "Pancho Villa"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"For a greatness of beauty I have never experienced anything like New Mexico\", wrote this Brit. author & Taos resident",
+          "choices": [
+            "George Orwell",
+            "Agatha Christie",
+            "Oscar Wilde",
+            "(D.H.) Lawrence"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "STATE NAMES",
+      "questions": [
+        {
+          "clue": "It's not named in honor of William Penn, but in honor of his father",
+          "choices": [
+            "Maryland",
+            "Delaware",
+            "Georgia",
+            "Pennsylvania"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It's not certain from where this New England state got its name, but it wasn't from the Indians",
+          "choices": [
+            "Vermont",
+            "Maine",
+            "Massachusetts",
+            "Connecticut"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This Rocky Mountain state is named for a valley in Pennsylvania",
+          "choices": [
+            "Colorado",
+            "Wyoming",
+            "Montana",
+            "Idaho"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The name of this state & its \"Big Muddy\" river, may mean \"owners of big canoes\"",
+          "choices": [
+            "Kansas",
+            "Nebraska",
+            "Missouri",
+            "Arkansas"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This state was named for the \"Sun King\"",
+          "choices": [
+            "Florida",
+            "Louisiana",
+            "Georgia",
+            "Carolina"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This was Burns' day job, hence the rustic touch to his poetry",
+    "choices": [
+      "a cobbler",
+      "a plowman",
+      "a weaver",
+      "a farmer"
+    ],
+    "correctIndex": 3,
+    "category": "ROBERT BURNS"
+  }
+}

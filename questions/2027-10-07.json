@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-07",
+  "categories": [
+    {
+      "name": "SEA WORLD",
+      "questions": [
+        {
+          "clue": "Rollin', rollin', rollin'...like cattle, a group of walruses is called this",
+          "choices": [
+            "flock",
+            "herd",
+            "pack",
+            "pride"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The name of this fleshy sea echinoderm reminds us of a salad ingredient",
+          "choices": [
+            "a sea sponge",
+            "a sea cucumber",
+            "a sea anemone",
+            "a sea slug"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The Orcinus orca is also known by this more deadly name",
+          "choices": [
+            "white shark",
+            "killer whale",
+            "blue whale",
+            "killer octopus"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Numerical name for the N. & S. Atlantic, N. & S. Pacific, Arctic, Antarctic & Indian Oceans collectively",
+          "choices": [
+            "the Seven Seas",
+            "the Five Oceans",
+            "the Four Seas",
+            "the Global Waters"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The Japanese spider variety of this sea creature is the world's largest crustacean",
+          "choices": [
+            "a crab",
+            "a lobster",
+            "a shrimp",
+            "a prawn"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"POT\"POURRI",
+      "questions": [
+        {
+          "clue": "It's at the end of the rainbow",
+          "choices": [
+            "pot of gold",
+            "pot of silver",
+            "pot of copper",
+            "pot of brass"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "She painted watercolors of fungi in addition to art for her children's tales like \"Peter Rabbit\"",
+          "choices": [
+            "(Arthur) Conan Doyle",
+            "(Beatrix) Potter",
+            "(A.A.) Milne",
+            "(Roald) Dahl"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A cheap book written for profit, not art",
+          "choices": [
+            "potsherd",
+            "potboiler",
+            "potshot",
+            "potpie"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Where the action is, especially for wireless users",
+          "choices": [
+            "hot spot",
+            "warm zone",
+            "heated area",
+            "hot corner"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Solanum tuberosum",
+          "choices": [
+            "tomato",
+            "potato",
+            "carrot",
+            "turnip"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"L\"EMENTARY",
+      "questions": [
+        {
+          "clue": "Types of these include ovate, obovate & oblong",
+          "choices": [
+            "leaves",
+            "petals",
+            "roots",
+            "stems"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This word refers to the track of one's descent from an ancestor",
+          "choices": [
+            "genealogy",
+            "lineage",
+            "ancestry",
+            "descent"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "From the Latin for \"to pour out as an offering\", it's a liquid used in a religious ritual",
+          "choices": [
+            "a libel",
+            "a ligation",
+            "a limitation",
+            "a libation"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This Brazilian ballroom dance is often called the \"forbidden dance\" due to its sensuality",
+          "choices": [
+            "samba",
+            "tango",
+            "rumba",
+            "lambada"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This group of organic compounds includes fats, oils, waxes & triglycerides",
+          "choices": [
+            "proteins",
+            "carbohydrates",
+            "lipids",
+            "vitamins"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "His last screen role was as Nevada Smith in \"The Carpetbaggers\"",
+    "choices": [
+      "Alan Ladd",
+      "John Wayne",
+      "Rock Hudson",
+      "James Dean"
+    ],
+    "correctIndex": 0,
+    "category": "\\'60s CINEMA"
+  }
+}

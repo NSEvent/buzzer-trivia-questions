@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-16",
+  "categories": [
+    {
+      "name": "THE '60S",
+      "questions": [
+        {
+          "clue": "In 1965, Wham-O filed a patent on this plastic projectile",
+          "choices": [
+            "the Discus",
+            "the Frisbee",
+            "the Football",
+            "the Saucer"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Boxer indicted May 9, 1967 for refusing induction into the army",
+          "choices": [
+            "Joe Frazier",
+            "George Foreman",
+            "Muhammad Ali",
+            "Sonny Liston"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "After this event on night of 11/9/65, Johnny Carson predicted that in 9 months, \"a lot of kids will be named Otis\"",
+          "choices": [
+            "the New York City blackout (the East Coast blackout)",
+            "the Boston Tea Party",
+            "the San Francisco Earthquake",
+            "the Great Chicago Fire"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "T.E. Lawrence's book came to the screen in '62 as this Oscar-winning film",
+          "choices": [
+            "Cleopatra",
+            "Lawrence of Arabia",
+            "Ben-Hur",
+            "The Ten Commandments"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "65-year-old Sir Francis Chichester took 9 months to do this in the Gipsy Moth IV",
+          "choices": [
+            "sail around the world",
+            "travel the globe",
+            "circumnavigate the earth",
+            "circle the planet"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "4-LETTER BIRDS",
+      "questions": [
+        {
+          "clue": "Ancient Egyptians believed this bird to be a representative of the god Thoth",
+          "choices": [
+            "hawk",
+            "crow",
+            "eagle",
+            "ibis"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Like a myna & parrot, some species of this black bird can be taught to talk",
+          "choices": [
+            "rook",
+            "crow",
+            "raven",
+            "dove"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Once considered sacred in Ancient Egypt, this wading bird is no longer found along the Nile",
+          "choices": [
+            "the crane",
+            "the heron",
+            "the stork",
+            "the ibis"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "You can tell the \"mourning\" species of this by its characteristic call & long, pointed tail",
+          "choices": [
+            "hawk",
+            "swan",
+            "dove",
+            "lark"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The white & glossy varieties of this bird live in the Americas, the sacred in Egypt",
+          "choices": [
+            "stork",
+            "crane",
+            "heron",
+            "an ibis"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ROBIN HOOD",
+      "questions": [
+        {
+          "clue": "Robin's chaplain",
+          "choices": [
+            "Little John",
+            "Will Scarlet",
+            "Maid Marian",
+            "Friar Tuck"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Here's this actor who played Robin Hood making merry with one of his men during a break in filming",
+          "choices": [
+            "Kevin Costner",
+            "Errol Flynn",
+            "Cary Elwes",
+            "Ernest Borgnine"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The 2010 film of \"Robin Hood\" starred him in the title role, as an archer in the army who becomes the legendary hero",
+          "choices": [
+            "Brad Pitt",
+            "Henry Cavill",
+            "Russell Crowe",
+            "Chris Hemsworth"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Viewers were shaken & stirred by his portrayal of the older but wiser title hero in \"Robin and Marian\"",
+          "choices": [
+            "(Sean) Connery",
+            "Pierce Brosnan",
+            "Roger Moore",
+            "Daniel Craig"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The evil brother of Richard the Lion-Hearted whose plans were often thwarted by Robin",
+          "choices": [
+            "King Henry II",
+            "King Richard III",
+            "King Edward I",
+            "King (Prince) John"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "An advocacy group looking to eradicate poverty; it's called DATA, short for Debt, AIDS, Trade, this place",
+    "choices": [
+      "Asia",
+      "South America",
+      "Africa",
+      "The Middle East"
+    ],
+    "correctIndex": 2,
+    "category": "WHO CARES?"
+  }
+}

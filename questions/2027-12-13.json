@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-13",
+  "categories": [
+    {
+      "name": "THE LETTER G",
+      "questions": [
+        {
+          "clue": "Of the U.S. presidents, the one whose middle name is usually shown as G.",
+          "choices": [
+            "Jackson",
+            "Taft",
+            "Coolidge",
+            "Harding"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This cereal maker uses the letter G as its logo",
+          "choices": [
+            "General Mills",
+            "Kellogg's",
+            "Post",
+            "Quaker"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In slang terms, a G refers to this amount of money",
+          "choices": [
+            "thousand",
+            "million",
+            "hundred",
+            "billion"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This group that meets to discuss economic concerns consists of the U.S., Canada, Japan & 5 European nations",
+          "choices": [
+            "Group of 7",
+            "Group of 8",
+            "Group of 20",
+            "European Union"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In Internet domain name extensions, gg stands for Alderney, Sark & this other Channel Island",
+          "choices": [
+            "Guernsey",
+            "Jersey",
+            "Manx",
+            "Wight"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"C\" BIRDS",
+      "questions": [
+        {
+          "clue": "Bird associated with Aeneas Williams & Mark McGwire",
+          "choices": [
+            "Robin",
+            "Cardinal",
+            "Jay",
+            "Sparrow"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The ani is a species of this \"crazy\" bird",
+          "choices": [
+            "a cuckoo",
+            "a loony",
+            "a wacky",
+            "a daffy"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The Whooping species of this is on the endangered list",
+          "choices": [
+            "Crane",
+            "Heron",
+            "Stork",
+            "Egret"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "With a 9-1/2 foot wingspan, this largest land bird in North America can be seen soaring over the Grand Canyon",
+          "choices": [
+            "a condor",
+            "an eagle",
+            "a vulture",
+            "a hawk"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "From Old French for \"raven of the sea\", these greedy, web-footed birds have a distensible neck pouch",
+          "choices": [
+            "Pelicans",
+            "Cormorants",
+            "Darters",
+            "Loons"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THEM'S FIGHTIN' WORDS",
+      "questions": [
+        {
+          "clue": "Boxing announcer Michael Buffer is known for the injunction \"Let's get ready to\" do this",
+          "choices": [
+            "fight!",
+            "rumble!",
+            "let's brawl!",
+            "prepare to duel!"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The Supreme Court has ruled that fighting words are not protected by this amendment",
+          "choices": [
+            "the 2nd Amendment",
+            "the 1st Amendment",
+            "the 4th Amendment",
+            "the 5th Amendment"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "To fight with the fists, \"put up\" these noblemen",
+          "choices": [
+            "your elbows",
+            "your knuckles",
+            "your eyebrows",
+            "your dukes"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "It means to stick something with glue, or to stick your fist in someone's jaw",
+          "choices": [
+            "glue",
+            "pasteurize",
+            "paste",
+            "slap"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A centuries-old fair held in a Dublin suburb gave its name to this type of melee",
+          "choices": [
+            "scrummage",
+            "brawl",
+            "racket",
+            "donnybrook"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Their typical place of worship is a stupa, a circular mound of earth covered with bricks & plaster",
+    "choices": [
+      "Buddhists",
+      "Hindus",
+      "Sikhs",
+      "Jains"
+    ],
+    "correctIndex": 0,
+    "category": "PLACES OF WORSHIP"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2028-04-01",
+  "categories": [
+    {
+      "name": "MOVIE TRIVIA",
+      "questions": [
+        {
+          "clue": "The Disney TV film \"Tiger Town\" was shown theatrically only in this \"Tiger Town\" of sports",
+          "choices": [
+            "Detroit",
+            "Cleveland",
+            "Chicago",
+            "New York"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "So that Charlie Chaplin could eat his boot during \"The Gold Rush\", it was made of this",
+          "choices": [
+            "licorice",
+            "chocolate",
+            "wood",
+            "plaster"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This European upheaval was the setting for Lillian Dish's classic silent film \"Orphans of the Storm\"",
+          "choices": [
+            "the French Revolution",
+            "the American Civil War",
+            "the Russian Revolution",
+            "World War I"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Audiences greeted these American Greetings characters by making their film a hit",
+          "choices": [
+            "the Smurfs",
+            "the Muppets",
+            "the Care Bears",
+            "Pac-Man"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In \"The Purple Rose of Cairo\", he played Tom Baxter, in \"Radio Days\", Biff Baxter",
+          "choices": [
+            "John Cusack",
+            "Rob Lowe",
+            "Jeff Daniels",
+            "Tim Daly"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "-OLA",
+      "questions": [
+        {
+          "clue": "In 1958 this brand introduced its 64 box, which featured a built-in sharpener",
+          "choices": [
+            "Binney & Smith",
+            "Koh-I-Noor",
+            "Faber-Castell",
+            "Crayola"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Thousands of cups of this food passed down from the stage helped feed the huge crowds at Woodstock",
+          "choices": [
+            "granola bars",
+            "oatmeal cookies",
+            "muesli",
+            "granola"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "He led the young Seminoles who opposed the 1832 Treaty of Payne's Landing",
+          "choices": [
+            "Tecumseh",
+            "Black Hawk",
+            "Seminole Chief",
+            "Osceola"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This oil-rich African country gained independence from Portugal in 1975",
+          "choices": [
+            "Mozambique",
+            "Guinea-Bissau",
+            "Cabo Verde",
+            "Angola"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This French author went to school with Paul Cezanne, who introduced him to the Impressionist painters",
+          "choices": [
+            "Paul Gauguin",
+            "(\u00c9mile) Zola",
+            "Edgar Degas",
+            "Claude Monet"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NATIONALITEASE",
+      "questions": [
+        {
+          "clue": "A batter's swing with no contact in Lucerne?",
+          "choices": [
+            "a Dutch opportunity",
+            "a Swiss miss",
+            "a French flair",
+            "a Belgian surprise"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Hat dance & beaded lizard",
+          "choices": [
+            "Argentinian (Argentina accepted)",
+            "Spanish (Spain accepted)",
+            "Peruvian (Peru accepted)",
+            "Mexican (Mexico accepted)"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The type of cotton in a Ritz-Carlton king sheet",
+          "choices": [
+            "Egyptian",
+            "Pima",
+            "Supima",
+            "Upland"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A lot of wall writing right here in the United States?",
+          "choices": [
+            "American graffiti",
+            "American expressionism",
+            "American impressionism",
+            "American realism"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Paris' young fish?",
+          "choices": [
+            "a Spanish fry",
+            "a French fry",
+            "a British fry",
+            "a Dutch fry"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Phil Lamarr tried to get back, back to the past voicing this magic sword-wielding title guy who took on the wicked Aku",
+    "choices": [
+      "Mulan",
+      "Samurai Jack",
+      "Hercules",
+      "Tarzan"
+    ],
+    "correctIndex": 1,
+    "category": "I HEAR VOICES"
+  },
+  "bonusRound": {
+    "clue": "1969: This playwright: did they keep him waiting?",
+    "choices": [
+      "Genet",
+      "Beckett",
+      "Ionesco",
+      "Pinter"
+    ],
+    "correctIndex": 1,
+    "category": "NOBEL LITERATURE PRIZE WINNERS"
+  }
+}

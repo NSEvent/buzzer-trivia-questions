@@ -1,0 +1,207 @@
+{
+  "date": "2027-05-08",
+  "categories": [
+    {
+      "name": "I MARRIED THIS SPORTS STAR",
+      "questions": [
+        {
+          "clue": "Gisele Bundchen, in 2009",
+          "choices": [
+            "Tom Brady",
+            "LeBron James",
+            "Peyton Manning",
+            "Drew Brees"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Ashley Judd, in 2001",
+          "choices": [
+            "Sebastian Vettel",
+            "Dario Franchitti",
+            "Kimi Raikkonen",
+            "Jenson Button"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Tatum O'Neal, in 1986; singer Patty Smyth, in 1997",
+          "choices": [
+            "Boris Becker",
+            "Pete Sampras",
+            "John McEnroe",
+            "Andre Agassi"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Nomar Garciaparra, in 2003",
+          "choices": [
+            "Alex Morgan",
+            "Carli Lloyd",
+            "Mia Hamm",
+            "Abby Wambach"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Vanessa Williams, in 1999",
+          "choices": [
+            "Scottie Pippen",
+            "Rick Fox",
+            "Magic Johnson",
+            "Patrick Ewing"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ROCKET MAN",
+      "questions": [
+        {
+          "clue": "Maurice \"Rocket\" Richard of this 1950s team's dynasty was the first NHL player to score 500 goals",
+          "choices": [
+            "the Canadiens",
+            "the Bruins",
+            "the Maple Leafs",
+            "the Rangers"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"First Man\" is a 2005 biography of this quiet Ohioan",
+          "choices": [
+            "Buzz Aldrin",
+            "Neil Armstrong",
+            "John Glenn",
+            "Alan Shepard"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Rod \"the Rocket\" Laver of this country is tennis' only repeat Grand Slam winner",
+          "choices": [
+            "England",
+            "South Africa",
+            "Australia",
+            "India"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The first non-Russian & non-American in space, Vladimir Remek, was from this country that broke up in 1993",
+          "choices": [
+            "Slovakia",
+            "Yugoslavia",
+            "Czechoslovakia",
+            "East Germany"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"I wouldn't touch\" the space station's antenna \"with\" this, but in 1998 that's what Jerry Ross used to fix it",
+          "choices": [
+            "a red carpet",
+            "a rubber chicken",
+            "a silver spoon",
+            "a 10-foot pole"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE VIRGIN MARY",
+      "questions": [
+        {
+          "clue": "Music for this prayer has been composed by Schubert & Gounod",
+          "choices": [
+            "the Ave Maria",
+            "the Hail Mary",
+            "the Magnificat",
+            "the Te Deum"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Tradition says Mary was a member of this royal house of Israel",
+          "choices": [
+            "the House of Saul",
+            "the House of David",
+            "the Tribe of Levi",
+            "the House of Ahab"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "At his crucifixion Jesus turned over the care of his mother to this \"Beloved Disciple\"",
+          "choices": [
+            "Matthew",
+            "Peter",
+            "James",
+            "John"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The vision that appeared to this 14-ear-old in 1858 called herself the Immaculate Conception",
+          "choices": [
+            "Bernadette of Lourdes",
+            "Catherine of Siena",
+            "Joan of Arc",
+            "Teresa of Avila"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "At the Council of Ephesus in 431 A.D., the Bishops gave Mary this maternal title",
+          "choices": [
+            "Mother of God",
+            "Mother of Men",
+            "Queen of Heaven",
+            "Mother of Mercy"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A member of the weasel family: GARBED",
+    "choices": [
+      "weasel",
+      "badger",
+      "ferret",
+      "stoat"
+    ],
+    "correctIndex": 1,
+    "category": "ANAGRAM ZOO"
+  },
+  "bonusRound": {
+    "clue": "The rounded head of one bone fits into the cuplike cavity of another bone in this type of joint",
+    "choices": [
+      "a ball & socket joint",
+      "a hinge joint",
+      "a pivot joint",
+      "a gliding joint"
+    ],
+    "correctIndex": 0,
+    "category": "BODY BASICS"
+  }
+}

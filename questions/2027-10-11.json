@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-11",
+  "categories": [
+    {
+      "name": "U.S. TRAVEL",
+      "questions": [
+        {
+          "clue": "The streetlights on Chocolate Avenue in this town are designed to look like chocolate kisses",
+          "choices": [
+            "Hershey",
+            "Choco",
+            "Sweetville",
+            "Cocoa"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Near Dyersville, Iowa, you can play baseball next to a cornfield where this 1989 movie was filmed",
+          "choices": [
+            "Field of Dreams",
+            "Hoosiers",
+            "A League of Their Own",
+            "The Natural"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The SpongeOrama exhibit center in Tarpon Springs in this state features a museum of sponge diving history",
+          "choices": [
+            "Georgia",
+            "Alabama",
+            "South Carolina",
+            "Florida"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The Kennebunk area, including Kennebunk Beach, is one of this state's most popular resort destinations",
+          "choices": [
+            "New Hampshire",
+            "Vermont",
+            "New York",
+            "Maine"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "It isn't forbidden to visit the Forbidden Caverns near Sevierville in this \"Volunteer State\"",
+          "choices": [
+            "Kentucky",
+            "Tennessee",
+            "Arkansas",
+            "Mississippi"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ON THE WEB",
+      "questions": [
+        {
+          "clue": "\"The pins you save live on your boards\" on this site",
+          "choices": [
+            "Pinterest",
+            "Instagram",
+            "Twitter",
+            "Reddit"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This search engine with a double-talk animal name emphasizes privacy, saying it doesn't track searches or collect user info",
+          "choices": [
+            "Yahoo",
+            "Ask",
+            "DuckDuckGo",
+            "Ecosia"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Called \"China's Google\", this search engine became the first Chinese company to be listed on the NASDAQ 100",
+          "choices": [
+            "Baidu",
+            "Alibaba",
+            "Tencent",
+            "JD.com"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Looking for old high school friends? Try this site, \"The World's Best Place to Reunite\"",
+          "choices": [
+            "FriendsReunited.com",
+            "Classmates.com",
+            "ClassSearch.com",
+            "AlumniNet.com"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "For information on health, beauty, diet, work & even pets, \"it takes\" this, \"the women's network\" of websites",
+          "choices": [
+            "iVillage.com",
+            "Women.com",
+            "SheKnows.com",
+            "NetMoms.com"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THIS IS C_NN_",
+      "questions": [
+        {
+          "clue": "Whoa-oh, here it comes, it's a man eater, like Dr. Lecter",
+          "choices": [
+            "a cannibal",
+            "a vampire",
+            "a werewolf",
+            "a zombie"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "To a Mexican this pepper is a chili",
+          "choices": [
+            "jalapeno",
+            "habanero",
+            "cayenne",
+            "poblano"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Take our challenge & name this food item that's grown a lot in Sri Lanka",
+          "choices": [
+            "cinnamon",
+            "turmeric",
+            "cloves",
+            "nutmeg"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It's a French word for one who gives expert judgment on matters of taste, such as wine",
+          "choices": [
+            "a sommelier",
+            "a connoisseur",
+            "a gourmet",
+            "a critic"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Thomas' English muffins are known for their nooks & these",
+          "choices": [
+            "crannies",
+            "holes",
+            "pockets",
+            "crevices"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "From 1638 until World War I, Iraq was under the rule of this empire",
+    "choices": [
+      "Ottoman Empire",
+      "British Empire",
+      "Roman Empire",
+      "Persian Empire"
+    ],
+    "correctIndex": 0,
+    "category": "IRAQ"
+  }
+}

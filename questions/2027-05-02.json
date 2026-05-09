@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-02",
+  "categories": [
+    {
+      "name": "LET'S ROCK!",
+      "questions": [
+        {
+          "clue": "Her father is Fred; her mother, Wilma",
+          "choices": [
+            "Dino Flintstone",
+            "Bam-Bam Rubble",
+            "Pebbles Rubble",
+            "Pebbles Flintstone"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "He sang backing vocals on Rod Stewart's \"Let Me Be Your Car\", which he co-wrote with Bernie Taupin",
+          "choices": [
+            "Paul McCartney",
+            "Freddie Mercury",
+            "George Harrison",
+            "Elton John"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Cannons fire during AC/DC's song \"For\" these people \"We Salute You\"",
+          "choices": [
+            "Those About To Die",
+            "Those About To Sing",
+            "\"Those About To Rock\"",
+            "Those About To Play"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The Black Eyed Peas: \"Rock That ____\"",
+          "choices": [
+            "Body",
+            "Soul",
+            "Mind",
+            "Heart"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Neil Young: \"Rockin' In The ____ ____\"",
+          "choices": [
+            "Heart of Gold",
+            "Cinnamon Girl",
+            "Free World",
+            "Southern Man"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE $1 BILL",
+      "questions": [
+        {
+          "clue": "On the reverse, the bald eagle in the Great Seal clutches arrows and an olive branch, symbolic of these two opposites",
+          "choices": [
+            "strength & honor",
+            "freedom & liberty",
+            "war & peace",
+            "conflict & harmony"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The number off to the right identifies which exact one of these metal sheets was used to print dozens of dollar bills at a time",
+          "choices": [
+            "a sheet",
+            "a block",
+            "a plate",
+            "a form"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "George Washington is properly powdered and primped for the bill's main image from a portrait by this artist",
+          "choices": [
+            "John Trumbull",
+            "Gilbert Jackson",
+            "Gilbert Stuart",
+            "Stuart Davis"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew shows currency on the monitor.) The back of every dollar bears the front & reverse of the image designed in part by Ben Franklin & known by this two-word name",
+          "choices": [
+            "the national emblem",
+            "the federal seal",
+            "the union crest",
+            "the Great Seal"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew shows currency on the monitor.) At the top of each bill are the words \"this note is...\" this two-word phrase \"...for all debts public and private\"",
+          "choices": [
+            "valid currency",
+            "official money",
+            "authorized cash",
+            "legal tender"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "QUOTATIONS IN AMERICAN HISTORY",
+      "questions": [
+        {
+          "clue": "Light Horse Harry Lee, eulogizing him: \"First in war, first in peace, and first in the hearts of his countrymen\"",
+          "choices": [
+            "Thomas Jefferson",
+            "(George) Washington",
+            "Alexander Hamilton",
+            "John Adams"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Her, in 1869 in a women's suffrage newspaper: \"Join the union, girls, and together say equal pay for equal work\"",
+          "choices": [
+            "Elizabeth Cady Stanton",
+            "Susan B. Anthony",
+            "Sojourner Truth",
+            "Ida B. Wells"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "No. 35 of these 1780s essays says, \"the most productive system of finance will always be the least burdensome\"",
+          "choices": [
+            "The Anti-Federalist Papers",
+            "The Federalist Papers",
+            "The Constitution of 1787",
+            "The Declaration of Independence"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Thomas Paine: \"These are the times that\" do these 3 words",
+          "choices": [
+            "test human spirits",
+            "reveal true courage",
+            "make strong men",
+            "try men's souls"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "During the Battle of Manila Bay, this commodore told his captain, \"you may fire when you are ready, Gridley\"",
+          "choices": [
+            "(William) Sampson",
+            "(George) Dewey",
+            "(Winfield) Scott",
+            "(Nathanael) Greene"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Common in Louisiana, this plant has no roots, hangs from trees & absorbs water from the air",
+    "choices": [
+      "Spanish lichen",
+      "Louisiana moss",
+      "Southern moss",
+      "Spanish moss"
+    ],
+    "correctIndex": 3,
+    "category": "LOUISIANA"
+  }
+}

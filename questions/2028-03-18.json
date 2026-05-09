@@ -1,0 +1,207 @@
+{
+  "date": "2028-03-18",
+  "categories": [
+    {
+      "name": "IT'S A GAS",
+      "questions": [
+        {
+          "clue": "One of the main jobs of red blood cells is to carry this gas from the lungs to the body's tissues",
+          "choices": [
+            "carbon dioxide",
+            "nitrogen",
+            "oxygen",
+            "hydrogen"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Europe's first use of gas for this purpose was with coal gas in William Murdock's cottage in 1792",
+          "choices": [
+            "heating",
+            "cooking",
+            "lighting",
+            "power"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Aside from a lot of energy, the major byproduct of nuclear fusion is this gaseous element",
+          "choices": [
+            "helium",
+            "neon",
+            "argon",
+            "xenon"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Swamp gas, which is basically methane, is also called this \"gas\", a synonym for swamp",
+          "choices": [
+            "bog gas",
+            "fen gas",
+            "mire gas",
+            "marsh gas"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Automobiles are equipped with catalytic converters that convert carbon monoxide into this gas",
+          "choices": [
+            "oxygen",
+            "carbon dioxide",
+            "nitrogen",
+            "hydrogen"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CREATURE FEATURES",
+      "questions": [
+        {
+          "clue": "2006: \"____ on a Plane\"",
+          "choices": [
+            "Snakes",
+            "Flies",
+            "Bees",
+            "Wasps"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "1988: \"____ in the Mist\"",
+          "choices": [
+            "Gorillas",
+            "Bears",
+            "Wolves",
+            "Lions"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "1950: \"Francis the Talking _____\"",
+          "choices": [
+            "Donkey",
+            "Mule",
+            "Horse",
+            "Cow"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The title role in this heartwarming 1993 movie was played by Keiko, a killer whale",
+          "choices": [
+            "The Little Mermaid",
+            "Finding Nemo",
+            "Shark Tale",
+            "Free Willy"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "1987: \"The ____ of August\"",
+          "choices": [
+            "Sharks",
+            "Dolphins",
+            "Seals",
+            "Whales"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ENDS WITH \"X\"",
+      "questions": [
+        {
+          "clue": "According to Chief Justice John Marshall, the power to do this is the power to destroy",
+          "choices": [
+            "regulate",
+            "control",
+            "suppress",
+            "tax"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Subject of NBC's historic 1st electronic TV transmission in 1930 was this cartoon hero",
+          "choices": [
+            "Felix the Cat",
+            "Mickey Mouse",
+            "Oswald the Lucky Rabbit",
+            "Betty Boop"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "After 273 yrs., the Royal Greenwich Observatory moved to castle in this English coastal county",
+          "choices": [
+            "Hampshire",
+            "Kent",
+            "Essex",
+            "Sussex"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "American actress whose career saw the \"Light in the Piazza\" before she stumbled into \"The Black Hole\"",
+          "choices": [
+            "Tuesday Weld",
+            "Yvette Mimieux",
+            "Stefanie Powers",
+            "Linda Evans"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Shortened name for type of cable bringing this answer to your TV, if you have CATV",
+          "choices": [
+            "fiber",
+            "twisted",
+            "ethernet",
+            "coax"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Though born in Sweden, she won an Oscar for her supporting role in 2015's \"The Danish Girl\"",
+    "choices": [
+      "Alicia Vikander",
+      "Alicia Silverstone",
+      "Rachel McAdams",
+      "Saoirse Ronan"
+    ],
+    "correctIndex": 0,
+    "category": "FOREIGN-BORN OSCAR WINNERS"
+  },
+  "bonusRound": {
+    "clue": "The aye-aye",
+    "choices": [
+      "rodent",
+      "primate",
+      "marsupial",
+      "lagomorph"
+    ],
+    "correctIndex": 1,
+    "category": "RODENT, MARSUPIAL OR PRIMATE"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-12",
+  "categories": [
+    {
+      "name": "PENNY FOR YOUR THOUGHTS",
+      "questions": [
+        {
+          "clue": "In 1977 he told David Frost, \"When the president does it, that means it is not illegal\"",
+          "choices": [
+            "Ronald Reagan",
+            "John F. Kennedy",
+            "Richard Nixon",
+            "Lyndon B. Johnson"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "James Ussher thought this was created in the evening of October 22, 4004 B.C.",
+          "choices": [
+            "The universe",
+            "The world",
+            "The earth",
+            "Humanity"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A profile of Queen Victoria is on the world's first-ever adhesive postage stamp, known as this",
+          "choices": [
+            "The Penny Red",
+            "The Half Penny Blue",
+            "The Queen Victoria",
+            "Penny Black"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Named for the 2 British coins it resembled, this early bicycle had a large front wheel & a small rear wheel",
+          "choices": [
+            "a velocipede",
+            "a boneshaker",
+            "a tricycle",
+            "a penny-farthing"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1927 Harry of the Warner Bros. said, \"Who the hell wants to hear actors\" do this",
+          "choices": [
+            "Music",
+            "Talk",
+            "Singing",
+            "Whistling"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PHILOSOPHIES IN A NUTSHELL",
+      "questions": [
+        {
+          "clue": "Nietzsche named the wild, creative impulse for Dionysus & the orderly one for this sun god",
+          "choices": [
+            "Ares",
+            "Apollo",
+            "Zeus",
+            "Hermes"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Henri Bergson saw this not as a series of moments but as a flow he called duration",
+          "choices": [
+            "space",
+            "history",
+            "memory",
+            "time"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "His \"Two Treatises of Government\", which influenced Jefferson, said man has a natural right to liberty",
+          "choices": [
+            "Thomas Hobbes",
+            "John Locke",
+            "Adam Smith",
+            "David Hume"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This man who died around 347 B.C. said we perceive examples of things, not their ideal forms",
+          "choices": [
+            "Aristotle",
+            "Socrates",
+            "Plato",
+            "Pythagoras"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Hobbes followed this -ism, not meaning he was greedy but that he reduced every experience to a physical process",
+          "choices": [
+            "dualism",
+            "idealism",
+            "positivism",
+            "materialism"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOLMES & WATSON",
+      "questions": [
+        {
+          "clue": "In 1971 he got a Psych degree from Stanford & joined the PGA",
+          "choices": [
+            "Tom Watson",
+            "Arnold Palmer",
+            "Jack Nicklaus",
+            "Bobby Jones"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "As part of this company, the Thomas J. Watson Research Center conducts work on A.I. & quantum computing",
+          "choices": [
+            "DEC",
+            "UNIVAC",
+            "IBM",
+            "Burroughs"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Homer Watson's line of work; Oscar Wilde called him \"The Canadian Constable\"",
+          "choices": [
+            "an artist",
+            "a photographer",
+            "a sculptor",
+            "a writer"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This Watson wrote a book on \"Behaviorism\" back in 1925",
+          "choices": [
+            "B.F. Skinner",
+            "John B. Watson",
+            "Ivan Pavlov",
+            "Wilhelm Wundt"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Called \"The Great Dissenter\", he was appointed to the Supreme Court in 1902 & served there for 29 years until the age of 90",
+          "choices": [
+            "Oliver Wendell Holmes",
+            "Louis Brandeis",
+            "Benjamin Cardozo",
+            "James McReynolds"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Aaron's mongrel dogs",
+    "choices": [
+      "Burr's curs",
+      "Jefferson's pets",
+      "Adams' hounds",
+      "Monroe's mules"
+    ],
+    "correctIndex": 0,
+    "category": "VICE PRESIDENTIAL RHYME TIME"
+  }
+}

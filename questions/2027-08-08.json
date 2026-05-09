@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-08",
+  "categories": [
+    {
+      "name": "TEEN-LETTER WORDS",
+      "questions": [
+        {
+          "clue": "13 letters: Enjoy the ice cream after the palatines get removed in this operation common for kids",
+          "choices": [
+            "appendicectomy",
+            "tonsillectomy",
+            "gastroenteritis",
+            "amigdalectomy"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Using the ocean itself to describe the crossing from Portugal to Haiti",
+          "choices": [
+            "transoceanic",
+            "transatlantic",
+            "transpacific",
+            "intercontinental"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "14 letters: The framework & installations that a country needs to function such as bridges, dams & roads",
+          "choices": [
+            "infrastructure",
+            "superstructure",
+            "substructure",
+            "infuscture"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "17 letters: Protestant churches that are independent & have no organizational affiliation are said to be this",
+          "choices": [
+            "nonsectarianism",
+            "nondenominational",
+            "nonpartisanism",
+            "nonspecificity"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "15 letters: It's the strong, often greedy, desire to get & own things",
+          "choices": [
+            "materialism",
+            "possessiveness",
+            "covetousness",
+            "acquisitiveness"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHEN THEY WERE TEENS",
+      "questions": [
+        {
+          "clue": "This \"Speed\" star, a cheerleader at her Arlington, VA. high school, also \"Net\"ted the title \"Class Clown\"",
+          "choices": [
+            "Julia Roberts",
+            "Meg Ryan",
+            "Drew Barrymore",
+            "Sandra Bullock"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Angie Harmon was in history class when she found out that she'd won this teen magazine's cover model contest",
+          "choices": [
+            "Seventy",
+            "Seventy-five",
+            "Seventy-one",
+            "Seventeen"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 1982 this future star of \"Law & Order: SVU\" was Miss Beverly Hills",
+          "choices": [
+            "(Mariska) Hargitay",
+            "(Cameron) Diaz",
+            "(Gwyneth) Paltrow",
+            "(Reese) Witherspoon"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Spider-Man wasn't there to protect her when she was menaced by giant spiders in \"Jumanji\"",
+          "choices": [
+            "Reese Witherspoon",
+            "Scarlett Johansson",
+            "Emma Stone",
+            "Kirsten Dunst"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "As a student at Eton, he did not have his own laptop computer, despite being second in line to the British throne",
+          "choices": [
+            "Prince William",
+            "Prince Harry",
+            "Prince Charles",
+            "Prince Edward"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ORCHESTRAS",
+      "questions": [
+        {
+          "clue": "This country's philharmonic orchestra was formed in 1936 as the Palestine Symphony",
+          "choices": [
+            "Jordan",
+            "Egypt",
+            "Israel",
+            "Lebanon"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This city's Philharmonic, formed in 1842, also plays regularly at the Salsburg festival",
+          "choices": [
+            "Vienna",
+            "Salzburg",
+            "Munich",
+            "Berlin"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In 1977 the \"Star Wars Theme\" as performed by John Williams & this British orchestra became a pop hit",
+          "choices": [
+            "the London Symphony Orchestra",
+            "the Royal Philharmonic Orchestra",
+            "the Berlin Philharmonic",
+            "the Vienna Philharmonic"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Eugene Goossens, first chief conductor of this city's Symphony, helped get the famous Opera House built",
+          "choices": [
+            "Melbourne",
+            "Sydney",
+            "London",
+            "New York"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The Boston Symphony's Berkshire Music Center was established in 1940 on this Lenox, Massachusetts estate",
+          "choices": [
+            "Tanglewood",
+            "Carnegie",
+            "Lincoln",
+            "Waltz"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In summer 2011 Ralph Fiennes took to the stage as Prospero in this play",
+    "choices": [
+      "Hamlet",
+      "The Tempest",
+      "Macbeth",
+      "Othello"
+    ],
+    "correctIndex": 1,
+    "category": "THE LONDON STAGE"
+  }
+}

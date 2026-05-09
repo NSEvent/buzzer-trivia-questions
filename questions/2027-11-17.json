@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-17",
+  "categories": [
+    {
+      "name": "CRUSTACEANS",
+      "questions": [
+        {
+          "clue": "The major food types of this crustacean are the American, European, Norwegian & spiny",
+          "choices": [
+            "a crab",
+            "a crayfish",
+            "a lobster",
+            "a clam"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Shrimp belong to the order \"Decapoda\", meaning this",
+          "choices": [
+            "20-tentacled",
+            "8-footed",
+            "10-legged",
+            "12-clawed"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Blue whales eat tons of these tiny crustaceans whose name is from the Norwegian for a fish's young",
+          "choices": [
+            "plankton",
+            "krill",
+            "copepods",
+            "zooplankton"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Prawn & this word are used interchangeably to refer to the same creature",
+          "choices": [
+            "a crab",
+            "a prawn",
+            "a shrimp",
+            "a lobster"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "They're stuck to ships' hulls & they're hermaphroditic just in case no one's close by",
+          "choices": [
+            "limpets",
+            "barnacles",
+            "gooseneck barnacles",
+            "acorn barnacles"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CELEBRITY SIBLINGS",
+      "questions": [
+        {
+          "clue": "These twins called their fashion line Elizabeth and James, the names of their 2 siblings",
+          "choices": [
+            "the Beckinsale sisters",
+            "the Faris twins",
+            "the Judds",
+            "the Olsen twins"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "(J.J. Watt presents the clue.) In 2020, I participated in a rare 3-brother NFL game; My Houston Texans played this team & I had to face the Terrible Towels as well as Derek & T.J.",
+          "choices": [
+            "the Pittsburgh Steelers",
+            "the Kansas City Chiefs",
+            "the Cleveland Browns",
+            "the Buffalo Bills"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "These siblings have both won Oscars; her for \"Terms of Endearment\" & him for \"Reds\"",
+          "choices": [
+            "Warren Beatty & Shirley MacLaine",
+            "Jack Nicholson & Anjelica Huston",
+            "Michael Douglas & Joan Allen",
+            "Dustin Hoffman & Meryl Streep"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Mark & Donnie",
+          "choices": [
+            "the Kardashians",
+            "the Joliet Jacks",
+            "the Wahlbergs",
+            "the Hiltons"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "First names of the Mara sisters; one was the girl with the dragon tattoo & the other had a \"House of Cards\" fall on her",
+          "choices": [
+            "Saoirse & Florence",
+            "Emma & Olivia",
+            "Rooney & Kate",
+            "Margot & Chlo\u00eb"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "VERMONTERS",
+      "questions": [
+        {
+          "clue": "On Aug. 3, 1923, in Plymouth Notch, Vermont, he became only president to be sworn into office by his father",
+          "choices": [
+            "Calvin Coolidge",
+            "Warren Harding",
+            "Franklin Roosevelt",
+            "Herbert Hoover"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Vermont's 1st one is Madeleine M. Kunin",
+          "choices": [
+            "woman governor",
+            "senator",
+            "governor",
+            "lieutenant governor"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Originally a Vermont blacksmith, he went on to invent the steel plow",
+          "choices": [
+            "Cyrus McCormick",
+            "Obed Hussey",
+            "James Oliver",
+            "John Deere"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "George Franklin Edmunds wrote most of this antitrust act of 1890",
+          "choices": [
+            "the Sherman (Antitrust Act)",
+            "the Clayton Act",
+            "the Federal Trade Commission Act",
+            "the Robinson-Patman Act"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "He demanded the surrender of Fort Ticonderoga \"in the name of the Great Jehovah & the Continental Congress\"",
+          "choices": [
+            "Benedict Arnold",
+            "Ezra Cornell",
+            "Timothy Bedel",
+            "Ethan Allen"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"California\" these birds \"Are Very Rare, But 10% of Them Are Trashing\" a house in Tehachapi",
+    "choices": [
+      "condors",
+      "vultures",
+      "crows",
+      "ravens"
+    ],
+    "correctIndex": 0,
+    "category": "RIPPED FROM THE HEADLINES"
+  }
+}

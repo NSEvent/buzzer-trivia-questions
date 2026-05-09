@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-30",
+  "categories": [
+    {
+      "name": "FAMOUS LAST WORDS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A monarch, 1603: \"All my possessions for a moment of time\\\"",
+          "choices": [
+            "Queen Elizabeth I",
+            "Mary Queen of Scots",
+            "Queen Mary I",
+            "King James VI"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "A woman facing the guillotine, 1793: \"Farewell, my children, I go to rejoin your father\\\"",
+          "choices": [
+            "Charlotte Corday",
+            "Madame Roland",
+            "Marie Antoinette",
+            "Olympe de Gouges"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "In 1923 this Mexican bandit died beseeching a journalist, \"Don't let it end like this. Tell them I said something.\\\"",
+          "choices": [
+            "Emiliano Zapata",
+            "Joaqu\u00edn Murrieta",
+            "Pancho Villa",
+            "Augusto Sandino"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "\\\"Pardon me, sir. I did not do it on purpose\", after stepping on her executioner's foot at the guillotine",
+          "choices": [
+            "Charlotte Corday",
+            "Mata Hari",
+            "Madame Roland",
+            "Marie Antoinette"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "A Mexican bandito, 1923: \"Don't let it end like this. Tell them I said something\\\"",
+          "choices": [
+            "Emiliano Zapata",
+            "Augusto Sandino",
+            "Pancho Villa",
+            "Victoriano Huerta"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "THE LETTER OF THE LAW",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "C: This synonym for co-conspirator to help do something illegal, a term used in a different way in the Civil War",
+          "choices": [
+            "accomplice",
+            "abettor",
+            "collaborator",
+            "confederate"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "E: It's also called defalcation or peculation, but either way, don't take funds entrusted to you",
+          "choices": [
+            "embezzle",
+            "extort",
+            "expropriate",
+            "exploit"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "A: This objection in court is made due to opposing counsel making conclusions & inferences drawn from facts; sustained!",
+          "choices": [
+            "assumes facts not in evidence",
+            "asked and answered",
+            "ambiguous",
+            "argumentative"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "B: Handgun violence prevention act passed in 1993",
+          "choices": [
+            "Buckley Act",
+            "Byrnes Law",
+            "Brady (Law)",
+            "Boland Amendment"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "O: Physics law describing the relation between voltage, current & resistance",
+          "choices": [
+            "Oersted's law",
+            "Ostwald's law",
+            "Ohm's law",
+            "Onsager's law"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "\\\"J.P.\\\"",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "He put together a band that was initially called the New Yardbirds; the band later got a new name\u2014Led Zeppelin",
+          "choices": [
+            "Joe Perry",
+            "Jimmy Page",
+            "Jeff Beck",
+            "John Paul Jones"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "(Hi, I'm Garry Marshall) When I was hired as a wrtiter for the \"Tonight Show\" in 1959, this host said he liked me because I thought like a 4-year-old",
+          "choices": [
+            "Jack Paar",
+            "Steve Allen",
+            "Johnny Carson",
+            "Jerry Lester"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "She played Laurence Olivier's daughter in 1960's \"The Entertainer\", & became his wife the next year",
+          "choices": [
+            "Jean Peters",
+            "Joan Plowright",
+            "Jane Powell",
+            "Julie Prowse"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "He was the founder of the New York Shakespeare Festival & the Public Theater",
+          "choices": [
+            "Joseph Papp",
+            "James Proctor",
+            "John Patrick",
+            "Jerome Price"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "(Jon of the Clue Crew doesn't fret at all.) This man who revolutionized bass playing with the group Weather Report made his own fretless bass by pulling out the frets & filling in the grooves",
+          "choices": [
+            "John Patitucci",
+            "Jeff Berlin",
+            "Jaco Pastorius",
+            "Jack Bruce"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "THE DEAD SEA SCROLLS",
+    "clue": "One scroll, a mash-up of a few Old Testament books, is devoted to the building & operation of this edifice",
+    "choices": [
+      "the Tabernacle",
+      "the Ark of the Covenant",
+      "the Synagogue",
+      "the Temple"
+    ],
+    "correctIndex": 3
+  }
+}

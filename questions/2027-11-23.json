@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-23",
+  "categories": [
+    {
+      "name": "GIRLS IN SONG",
+      "questions": [
+        {
+          "clue": "In \"Guys & Dolls\", \"Chances are he's insane as only a John can be for a\" girl named this",
+          "choices": [
+            "a Jane",
+            "Mary",
+            "Elizabeth",
+            "Patricia"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "According to John Anderson, she's \"as pretty as the angels when they sing\"",
+          "choices": [
+            "little Charlotte Johnson",
+            "little Sally Rogers",
+            "little Lucy Smith",
+            "little Betty Jones"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "If your name is this, & you're Irish, \"I'll take you home again\"",
+          "choices": [
+            "Siobhan",
+            "Kathleen",
+            "Niamh",
+            "Aoife"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Of her, it's asked \"When did your sparkle turn to fire & your warmth become desire?\"",
+          "choices": [
+            "Sophie",
+            "Madeline",
+            "Isabelle",
+            "Gigi"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1985 DeBarge wondered \"Who's Holding\" this girl \"Now\"",
+          "choices": [
+            "Donna",
+            "Monica",
+            "Sharon",
+            "Pamela"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHAT'S ON TV?",
+      "questions": [
+        {
+          "clue": "In 2007 Marie Osmond blamed allergies & L.A. air quality for her waltz into unconsciousness on this show",
+          "choices": [
+            "The Great British Bake Off",
+            "So You Think You Can Dance",
+            "Dance Moms",
+            "Dancing with the Stars"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Amandla Stenberg doubles the fun playing Osha & Mae on this \"Star Wars\" series set during the High Republic",
+          "choices": [
+            "The Clone Wars",
+            "Visions",
+            "Tales of the Jedi",
+            "The Acolyte"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This Neil Patrick Harris sitcom is narrated through flashbacks from the future",
+          "choices": [
+            "Friends",
+            "The Big Bang Theory",
+            "How I Met Your Mother",
+            "How I Met Your Dad"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Hey, Simon Baker plays this title crime solver on CBS; sure, he was a fraud in the past, but he gets the job done",
+          "choices": [
+            "The Mentalist's Rival",
+            "Sherlock Holmes",
+            "The Mentalist",
+            "The Mentalist's Sidekick"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Thomas Brodie-Sangster plays this Dickens character pulled back into a life of crime by Fagin",
+          "choices": [
+            "the Artful Dodger's Cousin",
+            "Oliver Twist",
+            "the Artful Dodger's Rival",
+            "the Artful Dodger"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LITERATURE IN SPANISH",
+      "questions": [
+        {
+          "clue": "It took him 10 years to come out with \"Don Quixote Part II\"",
+          "choices": [
+            "Cervantes' Brother",
+            "Miguel de Cervantes",
+            "Cervantes' Editor",
+            "Cervantes"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Not the tower but this place of Babel in a Borges story contains every possible book with every arrangement of letters",
+          "choices": [
+            "library of Alexandria",
+            "the Library of Congress",
+            "the Library of Babel",
+            "library"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"Barrabas came to us by sea\" is how this female author began \"The House of the Spirits\"",
+          "choices": [
+            "Gabriel Garc\u00eda M\u00e1rquez",
+            "Isabel Allende",
+            "Pablo Neruda",
+            "Jorge Luis Borges"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Circa 1554 \"Lazarillo de Tormes\" originated this genre about a lowborn scamp & his travels & adventures",
+          "choices": [
+            "baroque",
+            "picaresque",
+            "romanticism",
+            "realism"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "1949's \"The Kingdom of This World\", an early work in this style blending naturalism & fantasy, includes a manifesto of it",
+          "choices": [
+            "surrealism",
+            "existentialism",
+            "magical realism",
+            "modernism"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This Pennsylvania city was named for the family who founded the Lackawanna Iron & Coal Co., not Dunder Mifflin, in 1840",
+    "choices": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Scranton",
+      "Allentown"
+    ],
+    "correctIndex": 2,
+    "category": "USA"
+  }
+}

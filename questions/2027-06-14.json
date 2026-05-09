@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-14",
+  "categories": [
+    {
+      "name": "JUST CHUTE ME",
+      "questions": [
+        {
+          "clue": "Tom Petty likes this part of skydiving \u2014 the part between the jump & the chute opening",
+          "choices": [
+            "terminal velocity",
+            "parachute deployment",
+            "freefall",
+            "skydiving ascent"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1934 Stanley Switlik & George Putnam made the 1st jump tower; the 1st public demo was by this woman, Putnam's wife",
+          "choices": [
+            "Bessie Coleman",
+            "Amelia Earhart's sister",
+            "Harriet Quimby",
+            "Amelia Earhart"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "On Nov. 24, 1971 he parachuted out of a hijacked jet between Seattle & Reno with $200,000",
+          "choices": [
+            "(D.B.) Cooper",
+            "(D.B.) Cooper's brother",
+            "D.B. Cooper himself",
+            "Richard McCoy Jr."
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In the U.S. civilian riggers who pack parachutes must be certified by this government agency",
+          "choices": [
+            "the FAA (Federal Aviation Administration)",
+            "the NTSB (National Transportation Safety Board)",
+            "the TSA (Transportation Security Administration)",
+            "the OSHA (Occupational Safety and Health Administration)"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1485 this Italian designed a parachute; over 500 years later, Adrian Nicholas made a jump using that design",
+          "choices": [
+            "Filippo",
+            "Giovanni",
+            "Marco",
+            "Leonardo"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WRITERS AT REST",
+      "questions": [
+        {
+          "clue": "She & Alice B. Toklas are buried next to each other at Pere Lachaise Cemetery in Paris",
+          "choices": [
+            "Virginia Woolf",
+            "Jane Austen",
+            "Gertrude Stein",
+            "Emily Dickinson"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In Asheville his gravestone bears the line \"The last voyage, the longest, the best\" from \"Look Homeward, Angel\"",
+          "choices": [
+            "Thomas Wolfe",
+            "Robert Frost",
+            "Edgar Allan Poe",
+            "Walt Whitman"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Buried at the Sleepy Hollow Cemetery in Concord, Mass., she died 2 days after her father, Bronson",
+          "choices": [
+            "Charlotte Bronte",
+            "Elizabeth Gaskell",
+            "Louisa May Alcott",
+            "George Eliot"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This author of \"Light In August\" was laid to rest in Saint Peter's cemetery in Oxford, Mississippi",
+          "choices": [
+            "Mark Twain",
+            "Harper Lee",
+            "(William) Faulkner",
+            "Tennessee Williams"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1851 she was laid to rest in an English churchyard along with husband Percy's heart & a copy of his \"Adonais\"",
+          "choices": [
+            "Mary Shelley",
+            "Mary Wollstonecraft",
+            "Mary Shelley-Godwin",
+            "Lady Mary Shelley"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HAYDN",
+      "questions": [
+        {
+          "clue": "Let me pump... you up (with info)\u2014Joseph Haydn's middle name; this was his first name",
+          "choices": [
+            "Frank",
+            "Franz",
+            "Francis",
+            "Friedrich"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 1781 Haydn befriended this composer from Salzburg, 10 years before his all-too-premature death",
+          "choices": [
+            "Mozart",
+            "Beethoven",
+            "Schubert",
+            "Bach"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Haydn's \"Farewell\" Symphony was written this period in his work that translates into \"storm & stress\"",
+          "choices": [
+            "Sturm und Drang",
+            "Empfindsamer Stil",
+            "Rococo",
+            "Galant"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This composer dedicated a set of 6 quartets to Haydn, who was 24 years his senior",
+          "choices": [
+            "Ludwig van Beethoven",
+            "Franz Joseph Haydn",
+            "Wolfgang Amadeus Mozart",
+            "Wolfgang Mozart"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Symphony No. 94 is called this for its unexpected loud chord shortly after the soft beginning of the 2nd movement",
+          "choices": [
+            "the \"Joke Symphony\"",
+            "the \"Surprise Symphony\"",
+            "the \"Military Symphony\"",
+            "the \"Surprise Quartet\""
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This clear, watery, circulating fluid removes bacteria & certain proteins from tissues of the human body",
+    "choices": [
+      "plasma",
+      "serum",
+      "synovial fluid",
+      "lymph"
+    ],
+    "correctIndex": 3,
+    "category": "\"PH\"UN WORDS"
+  }
+}

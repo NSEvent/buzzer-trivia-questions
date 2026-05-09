@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-18",
+  "categories": [
+    {
+      "name": "FRANK LLOYD WRIGHT",
+      "questions": [
+        {
+          "clue": "The Taliesin West Center is located in Arizona; Taliesin is in this Midwest state where Wright was born",
+          "choices": [
+            "Ohio",
+            "Illinois",
+            "Minnesota",
+            "Wisconsin"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "(Cheryl of the Clue Crew stands in front of Wright's Robie House in Chicago, IL.) Wright's Robie House is from this school of architecture whose horizontal lines imitate Midwestern terrain",
+          "choices": [
+            "the Prairie School",
+            "the Gothic Revival",
+            "the Art Deco movement",
+            "the International Style"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Wright loved architecture that was this, meaning unified; it also means pertaining to living things",
+          "choices": [
+            "geometric",
+            "organic",
+            "symmetrical",
+            "industrial"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Wright's interiors show his aim to eliminate what he called \"the room as\" this 3-letter word",
+          "choices": [
+            "a box",
+            "a cage",
+            "a cube",
+            "a tomb"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Wright's own homes were named for this mythic 6th century Welsh bard",
+          "choices": [
+            "Merlin",
+            "Lancelot",
+            "Taliesin",
+            "Galahad"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"Y\" IN THE MIDDLE",
+      "questions": [
+        {
+          "clue": "Labored breathing & damaged alveoli may be aspects of this lung condition",
+          "choices": [
+            "pneumonia",
+            "emphysema",
+            "asthma",
+            "bronchitis"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "You can have fun for one in this type of boat",
+          "choices": [
+            "a canoe",
+            "a raft",
+            "a kayak",
+            "a dinghy"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Synonyms for this word from French include vestibule & lobby",
+          "choices": [
+            "hallway",
+            "foyer",
+            "alcove",
+            "antechamber"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A triangle is the simplest form of this type of closed plane figure bounded by straight lines",
+          "choices": [
+            "quadrilateral",
+            "polygon",
+            "pentagon",
+            "rectangle"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's sometimes referred to as a long-horned grasshopper",
+          "choices": [
+            "cricket",
+            "katydid",
+            "locust",
+            "cicada"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WORLD LITERATURE",
+      "questions": [
+        {
+          "clue": "Dostoyevsky's \"The House of the Dead\" tells of his 4 years spent in a penal colony here",
+          "choices": [
+            "Alaska",
+            "Mongolia",
+            "Kazakhstan",
+            "Siberia"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1967 Gabriel Garcia Marquez became world famous in publication of his \"One Hundred Years of\" this",
+          "choices": [
+            "Loneliness",
+            "Desolation",
+            "Solitude",
+            "Sorrow"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Ellen Douglas is the title character of this Scottish author's \"The Lady of the Lake\"",
+          "choices": [
+            "Sir Walter Scott",
+            "Jane Austen",
+            "Charles Dickens",
+            "Mark Twain"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This German worked on \"Faust II\" from 1825 to 1831",
+          "choices": [
+            "Goethe",
+            "Schiller",
+            "Heine",
+            "Hermann"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This language that \"Beowulf\" was written in is more like modern German than the language we speak",
+          "choices": [
+            "Old Norse",
+            "Old English",
+            "Middle English",
+            "Scottish Gaelic"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Champignon is the French word for an edible one of these",
+    "choices": [
+      "a potato",
+      "a mushroom",
+      "a vegetable",
+      "a fungus"
+    ],
+    "correctIndex": 1,
+    "category": "FOOD IN FRENCH"
+  }
+}

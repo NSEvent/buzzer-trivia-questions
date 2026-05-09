@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-09",
+  "categories": [
+    {
+      "name": "MUSICAL GEOGRAPHY",
+      "questions": [
+        {
+          "clue": "Roger Miller says it \"swings like a pendulum do\"",
+          "choices": [
+            "France",
+            "England",
+            "Germany",
+            "Italy"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "It's the city in the title of the 1873 work we've selected",
+          "choices": [
+            "Paris",
+            "Vienna",
+            "London",
+            "Prague"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Ottorino Respighi's \"Fountains Of\" this city where the composer lived depicts 4 of them",
+          "choices": [
+            "Rome",
+            "Florence",
+            "Venice",
+            "Naples"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "At \"Holyrood, where Queen Mary lived & loved\" Mendelssohn found the start of this \"national\" symphony",
+          "choices": [
+            "the Scottish symphony",
+            "the Norwegian symphony",
+            "the Finnish symphony",
+            "the Russian symphony"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "\"Start spreading the news\", Ol' Blue Eyes made it here",
+          "choices": [
+            "Los Angeles",
+            "Chicago",
+            "New York",
+            "Miami"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NUMBER, PLEASE",
+      "questions": [
+        {
+          "clue": "This number often follows \"Fortune\" & \"Indy\"",
+          "choices": [
+            "400",
+            "600",
+            "500",
+            "300"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "There's a period before this number that comes before \"Special\" in the name of Donnie Van Zant's high-caliber 1970s rock band",
+          "choices": [
+            "35",
+            "40",
+            "38",
+            "32"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A soldier's \"about face\" involves a turn of this many degrees",
+          "choices": [
+            "180",
+            "90",
+            "270",
+            "45"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "We just got a call from the authorities to evacuate, in the system known as \"reverse\" this",
+          "choices": [
+            "9-9-9",
+            "9-1-1",
+            "1-2-3",
+            "5-5-5"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Nate Silver is the editor in chief of this website",
+          "choices": [
+            "FiveThirtySeven",
+            "FiveThirtyNine",
+            "FiveThirtyEight",
+            "FourTwentyEight"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ORDINAL PHRASES",
+      "questions": [
+        {
+          "clue": "Intuition not arrived at via sight, hearing, touch, taste or smell",
+          "choices": [
+            "sixth sense",
+            "fifth sense",
+            "seventh sense",
+            "third sense"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The parable of the workers in the vineyard in Mark 20 gave us this idiom for anything done at the last minute",
+          "choices": [
+            "the eleventh hour",
+            "the tenth hour",
+            "the twelfth hour",
+            "the eleventh minute"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The Advent of Christ on Judgment Day is also called this 2-word phrase",
+          "choices": [
+            "the third arrival",
+            "the first return",
+            "the last judgment",
+            "the second coming"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Seattle Seahawks fans are considered this at football games, one more than are allowed to be fielded at a time",
+          "choices": [
+            "the 12th man",
+            "the 11th player",
+            "the 13th supporter",
+            "the 14th fan"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In Judaism, Arabot, a place where righteousness & justice are found, is also called this, just like a Jessica Biel TV show",
+          "choices": [
+            "fifth heaven",
+            "ninth circle",
+            "third level",
+            "seventh heaven"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The battle of this city raged from July 1942 to February 1943; when it was over, the German 6th Army was kaput",
+    "choices": [
+      "Leningrad",
+      "Stalingrad",
+      "Moscow",
+      "Kiev"
+    ],
+    "correctIndex": 1,
+    "category": "THAT'S HISTORY"
+  }
+}

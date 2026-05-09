@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-25",
+  "categories": [
+    {
+      "name": "BUSINESS NAMES",
+      "questions": [
+        {
+          "clue": "We predict you'll know that Israeli-born Safra Catz succeeded Larry Ellison as co-CEO & later became sole CEO of this company",
+          "choices": [
+            "Microsoft",
+            "Oracle",
+            "SAP",
+            "IBM"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 1920 Walter Bowes might have said \"After You!\" to this man when they made America's first postage meters",
+          "choices": [
+            "Arthur Pitney",
+            "John H. Patterson",
+            "Henry Ford",
+            "Thomas Edison"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Hellmann's mayo, Lipton tea & Vaseline are \"Uni\"fied as brands from this conglomerate",
+          "choices": [
+            "Procter & Gamble",
+            "Nestl\u00e9",
+            "Unilever",
+            "Johnson & Johnson"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Anne Wojcicki co-founded this genetics company that wants to tell you about you",
+          "choices": [
+            "AncestryDNA",
+            "Helix",
+            "23andMe",
+            "Color Genomics"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This Omaha company's annual shareholders' meeting has featured comedy skits, dancing & of course a Q&A with Warren Buffett",
+          "choices": [
+            "Berkshire Hathaway",
+            "GEICO",
+            "Duracell",
+            "Progressive"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "1968",
+      "questions": [
+        {
+          "clue": "In May students were demonstrating at the Sorbonne in Paris & at this oldest university in N.Y.",
+          "choices": [
+            "NYU",
+            "Columbia",
+            "Cornell",
+            "Princeton"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In October Apollo 7 was launched, Jackie became Jackie O., the Olympics began in this North American city",
+          "choices": [
+            "Los Angeles",
+            "Mexico City",
+            "Montreal",
+            "Beijing"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Goose\" Goslin & \"Ducky\" Medwick were inducted into this hall of fame in 1968",
+          "choices": [
+            "football",
+            "baseball",
+            "basketball",
+            "hockey"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "On January 1, 1968, this father of actor Daniel Day-Lewis was named Britain's poet laureate",
+          "choices": [
+            "Cecil Day-Lewis",
+            "Philip Larkin",
+            "Ted Hughes",
+            "John Betjeman"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "1968's \"Prague Spring\" didn't end in June but with this August event",
+          "choices": [
+            "Warsaw Pact military drills",
+            "Czechoslovakia declares independence",
+            "Prague student protests",
+            "Soviet invasion of Czechoslovakia"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE HISTORY CHANNEL",
+      "questions": [
+        {
+          "clue": "The program on this country \"& Iraq\" includes the 1997 election of moderate Mohammed Khatami as president",
+          "choices": [
+            "Syria",
+            "Turkey",
+            "Iran",
+            "Afghanistan"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Revolutionary inspiration whose work is read here \"These are times that try men's souls...\"",
+          "choices": [
+            "Benjamin Franklin",
+            "George Washington",
+            "Thomas Paine (\"The American Crisis\")",
+            "John Adams"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "3-named Grand Canyon conqueror described here \"He stood only 5-feet 2-inches tall, weighed a hundred and ten pounds and had only one arm, but he was a formidable man by any measure.\"",
+          "choices": [
+            "George Washington",
+            "Abraham Lincoln",
+            "John Wesley Powell",
+            "Teddy Roosevelt"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Irish teenager Annie Moore made history here January 1, 1892",
+          "choices": [
+            "Alcatraz Island",
+            "Ellis Island",
+            "Liberty Island",
+            "Angel Island"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's the mountain pass featured in the following: It was the time & the place that would forever crystalize the essence of Sparta in a single event that future generations will turn to again & again",
+          "choices": [
+            "Saros",
+            "Plataea",
+            "Marathon",
+            "Thermopylae"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Experts prefer to use a bowl made of this metal when beating egg whites",
+    "choices": [
+      "copper",
+      "stainless steel",
+      "aluminum",
+      "glass"
+    ],
+    "correctIndex": 0,
+    "category": "HAUTE CUISINE"
+  }
+}

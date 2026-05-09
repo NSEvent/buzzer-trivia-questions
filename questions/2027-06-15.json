@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-15",
+  "categories": [
+    {
+      "name": "THE BRITISH INVASION",
+      "questions": [
+        {
+          "clue": "Until Eric Burdon joined this group in 1962, it was known as the Alan Price Combo",
+          "choices": [
+            "The Yardbirds",
+            "The Kinks",
+            "The Hollies",
+            "The Animals"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "On June 5, 1964 Mick, Keith & the rest of these boys gave their first U.S. concert in San Bernardino",
+          "choices": [
+            "The Kinks",
+            "The Who",
+            "The Rolling Stones",
+            "The Animals"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The Searchers told us that Madame Ruth had \"a pad down on Thirty-fourth and Vine\" where she sold this",
+          "choices": [
+            "Pills",
+            "Candy",
+            "Tea",
+            "Love Potion No. 9"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "When Gerry Marsden formed his new band in 1959, he didn't have the \"heart\" to call it anything but this",
+          "choices": [
+            "Gerry & the Dreamers",
+            "Gerry & the Pacemakers",
+            "Gerry & the Shakers",
+            "Gerry & the Wanderers"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's the only No. 1 hit on which Eric Burdon sang lead",
+          "choices": [
+            "\"House Of The Rising Sun\"",
+            "\"Monterey\"",
+            "\"Smokestack Lightning\"",
+            "\"Good Times\""
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GOING NATIONAL",
+      "questions": [
+        {
+          "clue": "Cheese & army knife",
+          "choices": [
+            "French",
+            "Swiss",
+            "American",
+            "German"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Linen & potato",
+          "choices": [
+            "Ireland",
+            "Scotland",
+            "Wales",
+            "England"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Muffin & saddle",
+          "choices": [
+            "Scottish",
+            "American",
+            "English",
+            "French"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Auction & courage",
+          "choices": [
+            "French",
+            "Italian",
+            "Dutch",
+            "Spanish"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Measles & shepherd",
+          "choices": [
+            "English",
+            "German",
+            "Irish",
+            "Scottish"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "READING",
+      "questions": [
+        {
+          "clue": "In a Shakespeare adaptation by Jo Nesb\u00f8, Duncan is chief of police & this title guy, a devious inspector",
+          "choices": [
+            "Hamlet",
+            "Othello",
+            "Macduff",
+            "Macbeth"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"John Thomas and Lady Jane\" was an early version of this D.H. Lawrence novel",
+          "choices": [
+            "The Rainbow",
+            "Sons and Lovers",
+            "Lady Chatterley's Lover",
+            "Women in Love"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Many consider this story about a piece of stolen correspondence Edgar Allan Poe's greatest detective tale",
+          "choices": [
+            "The Gold Bug",
+            "The Murders in the Rue Morgue",
+            "The Black Cat",
+            "The Purloined Letter"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The structure of her novel \"To the Lighthouse\" is 2 days separated by the passage of 10 years",
+          "choices": [
+            "Virginia Woolf",
+            "Jane Austen",
+            "Emily Bronte",
+            "George Eliot"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "From the Greek for \"sound\", these sounds represented by letters might get you \"hooked on\" them",
+          "choices": [
+            "rhetoric",
+            "prosody",
+            "syntax",
+            "phonics"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Mark Rylance was a double nominee in 2014: as Richard III (he lost) & as this countess in \"Twelfth Night\" (he won)",
+    "choices": [
+      "Viola",
+      "Maria",
+      "Olivia",
+      "Malvolio"
+    ],
+    "correctIndex": 2,
+    "category": "THE TONY AWARDS"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-15",
+  "categories": [
+    {
+      "name": "VEGETARIAN CUISINE",
+      "questions": [
+        {
+          "clue": "This 4-letter word is seen after \"apple\" less often than after \"cole\"",
+          "choices": [
+            "sauce",
+            "skin",
+            "pie",
+            "slaw"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "As a vegetarian Jimmy Buffett \"made it nearly 70 days...drinkin' lots of\" this juice \"and soakin' up rays\"",
+          "choices": [
+            "carrot juice",
+            "apple juice",
+            "lemonade",
+            "grape juice"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Cooking sauces in this type of pot will increase levels of the mineral needed for hemoglobin",
+          "choices": [
+            "steel",
+            "iron",
+            "copper",
+            "bronze"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Nicknamed \"Wheat-Meat\", seitan is made from wheat gluten rich in this compound essential to life",
+          "choices": [
+            "protein",
+            "glucose",
+            "starch",
+            "fiber"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This white sweetener is excluded from recipes when animal bone char has been used to bleach it",
+          "choices": [
+            "sugar",
+            "honey",
+            "agave",
+            "maple syrup"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MEDICAL ABBREV.",
+      "questions": [
+        {
+          "clue": "Exercise (& sex) make it go up: HR",
+          "choices": [
+            "blood pressure",
+            "pulse rate",
+            "body temperature",
+            "heart rate"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It records brain waves: EEG",
+          "choices": [
+            "Electrocardiogram",
+            "Electromyogram",
+            "Electroencephalogram",
+            "Electrooculogram"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Adjective meaning after death: PM",
+          "choices": [
+            "post-partum",
+            "post-mortem",
+            "post-operative",
+            "post-natal"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A component of the blood: Hb",
+          "choices": [
+            "hematocrit",
+            "hemoglobin",
+            "hemophilia",
+            "hemoglobinopathy"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "A test used to diagnose diabetes: FBS (please, no eating or drinking after midnight)",
+          "choices": [
+            "fasting blood sugar",
+            "fructosamine level",
+            "fasting glucose index",
+            "fasting serum insulin"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MAGIC",
+      "questions": [
+        {
+          "clue": "2-word \"conjuring\" brand name for a felt-tip pen that comes in many colors",
+          "choices": [
+            "Magic Wand",
+            "Magic Pen",
+            "Magic Marker",
+            "Magic Stick"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "P.T. Selbit & Horace Goldin both claimed to have invented this illusion; they should have split credit",
+          "choices": [
+            "sawing a man in half",
+            "dividing a table in two",
+            "sawing a woman in half",
+            "splitting a card in half"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Harry Potter wizards can make things rise & fly with a swish & flick of their wands & the words \"Wingardium\" this",
+          "choices": [
+            "Levitate",
+            "Leviosa",
+            "Accio",
+            "Wingardium"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This 16-letter synonym for sleight of hand comes from the Latin for \"nimble finger\"",
+          "choices": [
+            "conjuratory",
+            "prestidigitation",
+            "dexterity",
+            "prestigious"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "(Mark Hamill delivers the clue.) The scene of the escape pod leaving Princess Leia's ship was the first effect created by this company, abbreviated ILM",
+          "choices": [
+            "Industrial Light & Magic",
+            "Industrial Lightworks",
+            "Industrial Magic",
+            "Industrial Mechanics"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "After a meal, you might want to use this, \"lumber\"",
+    "choices": [
+      "a napkin",
+      "a toothpick",
+      "a straw",
+      "a toothbrush"
+    ],
+    "correctIndex": 1,
+    "category": "LUNCH COUNTER LINGO"
+  }
+}

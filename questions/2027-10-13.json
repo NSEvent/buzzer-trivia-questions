@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-13",
+  "categories": [
+    {
+      "name": "NAME THAT MOVIE",
+      "questions": [
+        {
+          "clue": "\"I don't know nothin' 'bout birthin' babies\"",
+          "choices": [
+            "The Wizard of Oz",
+            "Gone with the Wind",
+            "To Kill a Mockingbird",
+            "The Sound of Music"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "1964: \"Supercalifragilis- ticexpialidocious\"",
+          "choices": [
+            "The Parent Trap",
+            "Charlie and the Chocolate Factory",
+            "An American in Paris",
+            "Mary Poppins"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "1988: \"I'll let you in on a little secret, Ray. K-mart sucks\"",
+          "choices": [
+            "Good Will Hunting",
+            "Forrest Gump",
+            "Rain Man",
+            "A Beautiful Mind"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"Take your stinking paws off me, you damn dirty ape\"",
+          "choices": [
+            "2001: A Space Odyssey",
+            "The Day the Earth Stood Still",
+            "War of the Worlds",
+            "Planet of the Apes"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "1958: \"Help me! Help me!\"",
+          "choices": [
+            "The Blob",
+            "The Thing",
+            "The Fly",
+            "Invasion of the Body Snatchers"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "INTERNATIONAL MEN OF MYSTERY",
+      "questions": [
+        {
+          "clue": "This Robert Ludlum mystery man first appears floating in the Mediterranean & suffering from amnesia",
+          "choices": [
+            "James Bond",
+            "(Jason) Bourne",
+            "Austin Powers",
+            "Ethan Hunt"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In \"The House Without a Key\" readers said aloha to Charlie Chan, a detective on this island city's police force",
+          "choices": [
+            "Honolulu",
+            "Maui",
+            "Oahu",
+            "Kauai"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "After treating Czar Nicholas & Alexandra's son, this holy man warned that their son's fate was linked to him",
+          "choices": [
+            "Rasputin",
+            "Himmler",
+            "Stalin",
+            "Trotsky"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Agatha Christie's Hercule Poirot is a refugee from Germany's World War I invasion of this country",
+          "choices": [
+            "France",
+            "Belgium",
+            "Poland",
+            "Luxembourg"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "After publishing his 1555 book of prophecies, he did horoscopes for Catherine de Medici's children",
+          "choices": [
+            "Cagliostro",
+            "Eliot",
+            "Casanova",
+            "Nostradamus"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A PAIN IN THE \"R\"s",
+      "questions": [
+        {
+          "clue": "The separation of the membrane from the choroids at the back of the eye is known as a detached one of these",
+          "choices": [
+            "the cornea",
+            "the iris",
+            "the retina",
+            "the lens"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Any mammal, including people, can contract this rhabdovirus disease affecting the nervous system & salivary glands",
+          "choices": [
+            "rabies",
+            "tetanus",
+            "measles",
+            "polio"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Parents are advised not to give children aspirin because of its link to this potentially fatal syndrome",
+          "choices": [
+            "Rett syndrome",
+            "Reye's syndrome",
+            "Ramsay Hunt syndrome",
+            "Reiter syndrome"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "These viruses responsible for many respiratory infections share part of their name with a pachyderm",
+          "choices": [
+            "a rhizobium",
+            "a ribosome",
+            "a rhabdovirus",
+            "a rhinovirus"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "It's what the R in the MMR vaccine stands for",
+          "choices": [
+            "rubric",
+            "rubella",
+            "rheumatism",
+            "retinitis"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Name of both Brutus' wife and Bassanio's girlfriend",
+    "choices": [
+      "Porter",
+      "Portia",
+      "Porscha",
+      "Pearlie"
+    ],
+    "correctIndex": 1,
+    "category": "SHAKESPEARE'S WOMEN"
+  }
+}

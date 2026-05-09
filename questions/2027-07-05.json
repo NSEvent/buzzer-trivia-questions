@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-05",
+  "categories": [
+    {
+      "name": "RIBS",
+      "questions": [
+        {
+          "clue": "In architecture a ribbed ceiling with arches is called one of these, like a room in a bank",
+          "choices": [
+            "domed",
+            "arched",
+            "coved",
+            "vaulted"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This fabric with vertical raised ribs comes in wide wale & pinwale varieties",
+          "choices": [
+            "velvet",
+            "corduroy",
+            "suede",
+            "tweed"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The ribs of a boat's frame, they're \"shiver\"ed in a salty expression",
+          "choices": [
+            "planks",
+            "beams",
+            "poles",
+            "timbers"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew shows an anatomical animation on the monitor.) The lowest two pairs of ribs in humans are known by this suspended adjective, as they don't attach in the front",
+          "choices": [
+            "false",
+            "loose",
+            "hanging",
+            "floating"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The long moveable ribs of the king variety of this snake stretch out loose skin to form its \"hood\"",
+          "choices": [
+            "a python",
+            "a cobra",
+            "a rattlesnake",
+            "a king snake"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "JULIE & JULIA",
+      "questions": [
+        {
+          "clue": "In 1966 Julie Newmar was in the first \"Batman\" episode that featured this villain, \"The Purr-Fect Crime\"",
+          "choices": [
+            "Catwoman",
+            "Harley Quinn",
+            "The Riddler",
+            "Poison Ivy"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In the Shrek movies, she's the voice of Queen Lillian; in \"The Princess Diaries\", she's Queen Clarisse Renaldi",
+          "choices": [
+            "Meryl Streep",
+            "Anne Hathaway",
+            "Julie Andrews",
+            "Jessica Chastain"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A decade after winning an Emmy for \"Seinfeld\", she won again for \"The New Adventures of Old Christine\"",
+          "choices": [
+            "Julia Louis-Dreyfus",
+            "Jerry Seinfeld",
+            "Julia Roberts",
+            "Jennifer Aniston"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A queen of the ski slopes, Julia Mancuso was known for wearing this on her head as she was crowned an Olympic champion",
+          "choices": [
+            "a beret",
+            "a visor",
+            "a headband",
+            "a tiara"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Lara in \"Doctor Zhivago\", this \"Darling\" Oscar winner grew up on her father's plantation in India",
+          "choices": [
+            "Julie Christie",
+            "Julia Roberts",
+            "Judi Dench",
+            "Vanessa Redgrave"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "YOU'RE THE TOP",
+      "questions": [
+        {
+          "clue": "Covering about 600,000 square miles, it's the largest gulf in the world",
+          "choices": [
+            "the Persian Gulf",
+            "the Gulf of Guinea",
+            "the Gulf of Mexico",
+            "the Gulf of Thailand"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Sometimes called the best of its kind in the world, Napa Valley's French Laundry isn't a laundry, but one of these",
+          "choices": [
+            "a bakery",
+            "a hotel",
+            "a winery",
+            "a restaurant"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A fictional co. that may or may not help in roadrunner chasing, or a word from the Greek for \"highest point\"",
+          "choices": [
+            "vertex",
+            "summit",
+            "acme",
+            "zenith"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This Vegas edifice is the tallest tower in the U.S. west of the Mississippi River",
+          "choices": [
+            "the Bellagio",
+            "the Stratosphere",
+            "the Empire State Building",
+            "the Willis Tower"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The point formed in the hairline in the middle of the forehead is a \"widow's\" this",
+          "choices": [
+            "curtain",
+            "veil",
+            "bangs",
+            "peak"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "From 1784 to 1788 the eastern part of this state was a separate state called Franklin",
+    "choices": [
+      "Tennessee",
+      "North Carolina",
+      "Kentucky",
+      "Virginia"
+    ],
+    "correctIndex": 0,
+    "category": "AIN'T THAT AMERICA"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-24",
+  "categories": [
+    {
+      "name": "DOUBLE \"L\" WORDS",
+      "questions": [
+        {
+          "clue": "It can be a husk or a ship part",
+          "choices": [
+            "hale",
+            "hall",
+            "hull",
+            "hole"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In Greek myth, Paris killed this hero by shooting him with an arrow; what a heel!",
+          "choices": [
+            "Hector",
+            "Odysseus",
+            "Achilles",
+            "Ajax"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Often translated into English, \"Schlaf, Kindlein, Schlaf\" is this type of song",
+          "choices": [
+            "a lullaby",
+            "a lasso",
+            "a lagoon",
+            "a lamppost"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The name of this game comes from a French word for \"cue\"",
+          "choices": [
+            "billiards",
+            "billboards",
+            "billable",
+            "billfold"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This bird is often hard to spot, but its song is easy to recognize",
+          "choices": [
+            "a wood thrush",
+            "a nightingale",
+            "a whippoorwill",
+            "a catbird"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"B\"4",
+      "questions": [
+        {
+          "clue": "In 1 Kings, Yahweh beats this god of the Canaanites in a contest to burn an offering",
+          "choices": [
+            "Bashan",
+            "Buz",
+            "Boaz",
+            "Baal"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "When you do this to \"your time\", you wait for a favorable opportunity",
+          "choices": [
+            "batter",
+            "bake",
+            "bide",
+            "bawl"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Myrrh is this type of aromatic resin used as a healing salve",
+          "choices": [
+            "a barge",
+            "a ball",
+            "a balm",
+            "a barn"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A thing that ruins or spoils; perhaps it's the this \"of your existence\"",
+          "choices": [
+            "curse",
+            "plague",
+            "bane",
+            "doom"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This monetary unit of Thailand equals 100 satangs",
+          "choices": [
+            "baht",
+            "dong",
+            "kyat",
+            "rial"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WANT TO MAKE SOMETHING OUT OF IT?",
+      "questions": [
+        {
+          "clue": "\"Titanic\" includes the exchange \"This ship can't sink!\" \u2014 \"She is made of\" this, \"Sir. I assure you she can\"",
+          "choices": [
+            "steel",
+            "brass",
+            "iron",
+            "metal"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The prototype of his \"Cube\" was made of 27 wooden blocks; it took him a month to solve it",
+          "choices": [
+            "Rubik",
+            "Per",
+            "Erno",
+            "Lazlo"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The soft ones are made from high-water-content polymers like hydroxyethylmethacrylate",
+          "choices": [
+            "contact lenses",
+            "eyeglasses",
+            "sunglasses",
+            "reading glasses"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"In the Big Rock Candy Mountain, the jails are made of\" this; \"you can slip right out again as soon as they put you in\"",
+          "choices": [
+            "tin",
+            "glass",
+            "wood",
+            "steel"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Gumboots are made primarily of this (do not say gum)",
+          "choices": [
+            "plastic",
+            "rubber",
+            "leather",
+            "canvas"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In \"The Searchers\", John Wayne was searching for her",
+    "choices": [
+      "Jean Arthur",
+      "Deborah Kerr",
+      "Audrey Hepburn",
+      "Natalie Wood"
+    ],
+    "correctIndex": 3,
+    "category": "WOMEN IN WESTERNS"
+  }
+}

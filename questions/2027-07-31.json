@@ -1,0 +1,207 @@
+{
+  "date": "2027-07-31",
+  "categories": [
+    {
+      "name": "SHAKESPEAREAN LAST SCENES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Gertrude, Laertes, Claudius & this man all die in the same scene\u2014 something must be rotten",
+          "choices": [
+            "Hamlet",
+            "Macbeth",
+            "Romeo",
+            "Lear"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "Emilia calls him a \"dull Moor\" for suspecting Desdemona of hanky-panky",
+          "choices": [
+            "Iago",
+            "Othello",
+            "Hamlet",
+            "Macbeth"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "The last scene of this tragedy takes place in a pavilion in Titus' garden in Rome",
+          "choices": [
+            "Coriolanus",
+            "Julius Caesar",
+            "Romeo and Juliet",
+            "Titus Andronicus"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "This prince of Tyre discovers the wife he believed was dead has become a priestess of Diana",
+          "choices": [
+            "Cymbeline",
+            "Leontes",
+            "Pericles",
+            "Prospero"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Puck's last speech in this play begins, \"If we shadows have offended, think but this\u2014and all is mended\\\"",
+          "choices": [
+            "The Tempest",
+            "As You Like It",
+            "The Merry Wives of Windsor",
+            "A Midsummer Night's Dream"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "CHAMPIONS OF TOURNAMENTS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Howard Staunton organized this board game's 1st international tournament in 1851 & Adolf Anderssen won",
+          "choices": [
+            "Checkers",
+            "Go",
+            "Chess",
+            "Backgammon"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "This event began in 1993 as a multi-match tournament, with jiu jitsu master Royce Gracie winning the first 2 titles",
+          "choices": [
+            "Pride FC",
+            "Bellator",
+            "Strikeforce",
+            "the UFC"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "The 2 teams that always qualify for soccer's World Cup are the previous champs & this nation \u2014 in 1994 it was the U.S.",
+          "choices": [
+            "the runner-up nation",
+            "the top FIFA-ranked nation",
+            "Host/home nation",
+            "the reigning continental champion"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "The U. of Denver won the 2022 NCAA men's hockey championship alliteratively called this, ahead of Minnesota State, Minnesota & Michigan",
+          "choices": [
+            "the Final Four",
+            "the Frozen Four",
+            "the Frozen Five",
+            "the Ice Four"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 1000,
+          "clue": "In 2007 16-year-old Ayan Tariq bested 31 others to win $100,000 playing this title ex-coach's football video game",
+          "choices": [
+            "(Bill) Walsh",
+            "(Don) Shula",
+            "(John) Madden",
+            "(Joe) Theismann"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "\\\"N\" THE DICTIONARY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Bedtime headgear, or a bedtime beverage",
+          "choices": [
+            "nightgown",
+            "Nightcap",
+            "nightshirt",
+            "sleeping cap"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Perhaps from a word for \"lump\", it's a small lump of gold, or of wisdom",
+          "choices": [
+            "nubbin",
+            "nodule",
+            "nob",
+            "nugget"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Attention, Mister Rogers: Nabe, which is slang for a local movie theater, is short for this",
+          "choices": [
+            "Neighborhood",
+            "nation",
+            "nabob",
+            "native"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Hunt for a synonym for \"hunter\" & you'll find this hunter mentioned in Genesis 10",
+          "choices": [
+            "Nimrod",
+            "Esau",
+            "Ishmael",
+            "Abel"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "This term for a between-meal snack comes from Yiddish",
+          "choices": [
+            "nosh",
+            "knish",
+            "blintz",
+            "schmear"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "QUEEN",
+    "clue": "The widow of Jordan's King Hussein, today she's an advocate for peace & cross-cultural understanding",
+    "choices": [
+      "(Queen) Rania",
+      "(Queen) Alia",
+      "(Queen) Noor",
+      "(Queen) Mona"
+    ],
+    "correctIndex": 2
+  },
+  "bonusRound": {
+    "category": "NAME CHANGES",
+    "clue": "Francesca Mitzi Marlene de Czenyi Von Weiss Gerber, who starred in \"South Pacific\\\"",
+    "choices": [
+      "Doris Day",
+      "Debbie Reynolds",
+      "Mitzi Gaynor",
+      "Jane Powell"
+    ],
+    "correctIndex": 2
+  }
+}

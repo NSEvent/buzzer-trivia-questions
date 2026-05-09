@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-23",
+  "categories": [
+    {
+      "name": "EMPTY WORDS",
+      "questions": [
+        {
+          "clue": "Having an empty space inside, like some disappointing chocolate Easter bunnies, or the title men in a T.S. Eliot poem",
+          "choices": [
+            "vacuous",
+            "insubstantial",
+            "hollow",
+            "void"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Tabula rasa is often translated as this 5-letter \"slate\"",
+          "choices": [
+            "clear",
+            "plain",
+            "blank",
+            "bare"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In Genesis 1:2 \"the earth was without form, and\" this",
+          "choices": [
+            "void",
+            "chaos",
+            "dark",
+            "nothing"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "CBS News called the emptying of East Coast states before Hurricane Floyd \"the biggest peacetime\" this \"in U.S. history\"",
+          "choices": [
+            "retreat",
+            "evacuation",
+            "departure",
+            "migration"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The past tense of a verb meaning to abandon military duty, as an adjective it means unoccupied",
+          "choices": [
+            "abandoned",
+            "vacated",
+            "forsaken",
+            "deserted"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SOLDIERS",
+      "questions": [
+        {
+          "clue": "This French minister of war died in 1932, too soon to see his \"line\" outflanked in World War II",
+          "choices": [
+            "Andre Maurois",
+            "Andre Breton",
+            "Andre Maginot",
+            "Andre Derain"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "He advocated a \"Search & Destroy\" policy as commander of U.S. forces in Vietnam from 1964 to 1968",
+          "choices": [
+            "Creighton Abrams",
+            "William Westmoreland",
+            "William DePuy",
+            "Samuel Harris"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Nicknamed \"Stormin' Norman\", he wrote the 1992 memoir \"It Doesn't Take A Hero\"",
+          "choices": [
+            "Powell",
+            "Schwarzenegger",
+            "Schwarzkopf",
+            "Shalikashvili"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Military strategists salute the book \"On War\" by this 19th century Prussian general",
+          "choices": [
+            "Helmuth von Moltke",
+            "Carl von Clausewitz",
+            "Alfred von Schlieffen",
+            "Hans von Seeckt"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 1821 this veteran of the Seminole Wars was appointed provisional gov. of Florida but didn't serve a year",
+          "choices": [
+            "Sam Houston",
+            "David Crockett",
+            "William Henry Harrison",
+            "Andrew Jackson"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CAMELS",
+      "questions": [
+        {
+          "clue": "Famous Egyptian leader whose 1st name meant \"camel\"",
+          "choices": [
+            "Hosni Mubarak",
+            "Anwar Sadat",
+            "(Gamal Abdel) Nasser",
+            "Gamal Dawoudi"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Camels are widely used on farms in the Punjab region of India & this country",
+          "choices": [
+            "India",
+            "Bangladesh",
+            "Pakistan",
+            "Afghanistan"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "(Sofia of the Clue Crew) Also a brand of blue jeans, it's the name for a handler of animals, like camels on a movie set",
+          "choices": [
+            "Cowboy",
+            "Herder",
+            "Rancher",
+            "Wrangler"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This ethnic group, whose name is from the Arabic for \"desert dwellers\", uses camels for riding & racing",
+          "choices": [
+            "Bedouins",
+            "Tuaregs",
+            "Berbers",
+            "Amazigh"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "From an earlier occupation, this prophet was known as the \"Camel Driver of Mecca\"",
+          "choices": [
+            "Abu Bakr",
+            "Umar",
+            "Mohammed",
+            "Ali"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1776, 2 years after the House of Burgesses was dissolved, this orator became the state's first governor",
+    "choices": [
+      "Patrick Henry",
+      "George Washington",
+      "Thomas Jefferson",
+      "James Madison"
+    ],
+    "correctIndex": 0,
+    "category": "VIRGINIA GOVERNORS"
+  }
+}

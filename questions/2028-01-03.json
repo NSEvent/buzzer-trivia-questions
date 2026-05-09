@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-03",
+  "categories": [
+    {
+      "name": "BEFORE & AFTER PEOPLE",
+      "questions": [
+        {
+          "clue": "Chicago Bulls legend & longtime comedy partner of Keegan-Michael Key",
+          "choices": [
+            "LeBron James Smith",
+            "Michael Jordan Peele",
+            "Kobe Bryant Garner",
+            "Dwyane Wade Johnson"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Chinese-American female architect who brought Tony-winning hip-hop history to Broadway",
+          "choices": [
+            "Frank Gehry Lin",
+            "Maya Lin-Manuel Miranda",
+            "Zaha Hadid Khan",
+            "I.M. Pei Lee"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This songbird came in on a \"Wrecking Ball\" after inventing the mechanical reaper in the 19th century",
+          "choices": [
+            "Britney Spears Spears",
+            "Marianne Faithfull Faithfull",
+            "Miley Cyrus McCormick",
+            "Adele Adkins Adkins"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Female rapper with the album \"The Naked Truth\" who became the leader of North Korea in 2011",
+          "choices": [
+            "Lil' Kim Jong-Un",
+            "Nicki Minaj Kim",
+            "Cardi B Lee",
+            "Rihanna Ross"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Sophocles drama about the king of Thebes becoming CEO of Exxon Mobil & Secretary of State",
+          "choices": [
+            "Oedipus Rex Bush",
+            "Oedipus Rex Cheney",
+            "Oedipus Rex Tillerson",
+            "Oedipus Rex Rumsfeld"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHAT A KNOCKOUT!",
+      "questions": [
+        {
+          "clue": "Angelina Jolie was No. 2 on this channel's \"100 Hottest Hotties\"; probably won't see her on \"Flavor of Love\", though",
+          "choices": [
+            "MTV",
+            "TLC",
+            "BET",
+            "VH1"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "His 1974 knockout of supposedly invincible George Foreman in Zaire shocked the world",
+          "choices": [
+            "Joe Frazier",
+            "(Muhammad) Ali",
+            "Mike Tyson",
+            "Lennox Lewis"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 2009 this Mexican-born beauty played a sexy nurse on \"30 Rock\"",
+          "choices": [
+            "Penelope Cruz",
+            "Sofia Vergara",
+            "Eva Longoria",
+            "Salma Hayek"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1937 he became the first African-Amer. heavyweight champ since Jack Johnson, with a K.O. of James J. Braddock",
+          "choices": [
+            "Joe Louis",
+            "Jack Dempsey",
+            "Muhammad Ali",
+            "Rocky Marciano"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1981, behind on all 3 scorecards, this welterweight came back with a TKO over Thomas Hearns in the 14th; sweet!",
+          "choices": [
+            "Sugar Ray Robinson",
+            "Sugar Ray Leonard",
+            "Roberto Duran",
+            "Marvin Hagler"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CHILDREN'S LITERATURE",
+      "questions": [
+        {
+          "clue": "Stan & Jan Berenstain have written a series of books about a family of these title animals",
+          "choices": [
+            "\"The Berenstain Bears\"",
+            "\"The Cat in the Hat\"",
+            "\"Where the Wild Things Are\"",
+            "\"Goodnight Moon\""
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A beloved 1964 book by him begins, \"Once there was a tree... and she loved a little boy\"",
+          "choices": [
+            "Dr. Seuss",
+            "Eric Carle",
+            "Beatrix Potter",
+            "Shel Silverstein"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Books about this title simian include his visit to an aquarium & him making pancakes",
+          "choices": [
+            "Curious Clara",
+            "Curious Charlie",
+            "Curious Cat",
+            "Curious George"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A classic book by George Selden tells of this noisy insect \"in Times Square\"",
+          "choices": [
+            "The Grasshopper",
+            "The Beetle",
+            "The Firefly",
+            "The Cricket"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Long John Silver was the mutinous cook aboard this \"Treasure Island\" ship that shares its name with a Caribbean island",
+          "choices": [
+            "Jamaica",
+            "Cuba",
+            "Hispaniola",
+            "Puerto Rico"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Grades of tea leaf quality include S for souchong & P for this",
+    "choices": [
+      "pekoe",
+      "sencha",
+      "matcha",
+      "bancha"
+    ],
+    "correctIndex": 0,
+    "category": "TEA TIME"
+  }
+}

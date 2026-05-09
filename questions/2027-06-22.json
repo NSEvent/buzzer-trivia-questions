@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-22",
+  "categories": [
+    {
+      "name": "\"F\"OOD",
+      "questions": [
+        {
+          "clue": "(Sofia of the Clue Crew) Philippe's in L.A. claims to be the birthplace of this",
+          "choices": [
+            "French Dip Sandwich",
+            "Beef Bourguignon",
+            "French Onion Soup",
+            "Croque Monsieur"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It's the Japanese name for certain species of puffer fish that contain lethal poison but can be eaten as a delicacy",
+          "choices": [
+            "sushi",
+            "fugu",
+            "tempura",
+            "ramen"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Help! I'm trapped in Golden Gate, this type of business on San Francisco's Ross Alley",
+          "choices": [
+            "fortune cookie factory",
+            "noodle shop",
+            "dim sum parlor",
+            "tea house"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The name of these long, flat egg noodles means \"little ribbons\"",
+          "choices": [
+            "linguine",
+            "fettuccine",
+            "spaghetti",
+            "pappardelle"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Italian for \"flour\", it's a flour that's turned into a hot breakfast cereal",
+          "choices": [
+            "farina",
+            "semolina",
+            "polenta",
+            "bulgur"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RELIGION",
+      "questions": [
+        {
+          "clue": "The Druids believed this was immortal & passed at death from one person to another",
+          "choices": [
+            "the spirit",
+            "the ghost",
+            "the mind",
+            "the soul"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The dietary laws of this religion allow only meat from animals killed by ritual slaughter called Shehitah",
+          "choices": [
+            "Islam",
+            "Hinduism",
+            "Sikhism",
+            "Judaism"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Bodhisattvas are personifications of the virtues of this founder of a religion",
+          "choices": [
+            "Buddha",
+            "Jesus",
+            "Moses",
+            "Muhammad"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The Karaite sect of Judaism rejects talmudic doctrine, relying on this set of 5 books for guidance",
+          "choices": [
+            "the Gospel",
+            "the Torah",
+            "the Pentateuch",
+            "the Quran"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's the state religion of Bhutan",
+          "choices": [
+            "Buddhism",
+            "Hinduism",
+            "Tibetan Buddhism",
+            "Christianity"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NO LONGER AROUND",
+      "questions": [
+        {
+          "clue": "In 2011 this airline returned briefly as a TV show starring Christina Ricci as one of its stewardesses",
+          "choices": [
+            "Pan Am",
+            "TWA",
+            "Eastern Airlines",
+            "BOAC"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Bovinity Divinity & Rainforest Crunch are among the \"dearly de-pinted\" flavors from this company",
+          "choices": [
+            "Dreyer's",
+            "H\u00e4agen-Dazs",
+            "Baskin-Robbins",
+            "Ben & Jerry's"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Richard LaMotta created this treat of vanilla ice cream between 2 cookies; Nestle bought the brand & phased it out",
+          "choices": [
+            "the IceCream Sandwich",
+            "the Chipwich",
+            "the Cookie Sandwich",
+            "the Frozen Delight"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Many cookie lovers still pine for this Oreo competitor that was discontinued in 2003 at age 95",
+          "choices": [
+            "Pepperidge Farm",
+            "Chips Ahoy",
+            "Hydrox",
+            "Arnold Palmer"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1997 after nearly 120 years in business, this iconic 5 & dime chain closed up shop in the USA",
+          "choices": [
+            "Sears",
+            "Kmart",
+            "JCPenney",
+            "Woolworth"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A color different of a horse",
+    "choices": [
+      "a different shade of brown",
+      "a horse of a different color",
+      "a horse of a different breed",
+      "a creature of a different kind"
+    ],
+    "correctIndex": 1,
+    "category": "A PROVERBIAL MESS"
+  }
+}

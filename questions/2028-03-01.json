@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-01",
+  "categories": [
+    {
+      "name": "IT'S EPIC",
+      "questions": [
+        {
+          "clue": "\"The Lusiads\" is an epic poem in this language about explorer Vasco da Gama",
+          "choices": [
+            "Spanish",
+            "Italian",
+            "Portuguese",
+            "French"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The action of this epic work begins in the 10th year of the Greek siege of Troy",
+          "choices": [
+            "the Odyssey",
+            "the Iliad",
+            "the Aeneid",
+            "the Mahabharata"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "All the epic events of the \"Iliad\" & the \"Odyssey\" keep Odysseus away from Penelope & Ithaca for this many years",
+          "choices": [
+            "10",
+            "30",
+            "40",
+            "20"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Perhaps the first ever written, \"The Epic of\" this king of Uruk includes a Sumerian account of a great flood",
+          "choices": [
+            "Sargon",
+            "Gilgamesh",
+            "Naram-Sin",
+            "Utnapishtim"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Come blow your horn at the Battle of Roncesvalles, the climax of this Old French epic \"Song\"",
+          "choices": [
+            "The Song of Nibelungen",
+            "The Lay of Leithian",
+            "The Song of Roland",
+            "The Song of the Nibelungs"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SPORTS QUOTES",
+      "questions": [
+        {
+          "clue": "Green Bay Packer coach who said, \"If you aren't fired with enthusiasm, you'll be fired with enthusiasm\"",
+          "choices": [
+            "George Halas",
+            "Vince Lombardi",
+            "Paul Brown",
+            "Tom Landry"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Only in America! This fight promoter said, \"I always feel sorry for people who are raided by the FBI\"",
+          "choices": [
+            "Bob Arum",
+            "Don King",
+            "Bernie Marcus",
+            "George Foreman"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "With \"a little humility, I would be perfect\", said this owner of 2 Atlanta teams",
+          "choices": [
+            "Stan Kroenke",
+            "Ted Turner",
+            "Jerry Jones",
+            "Mark Cuban"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This 1950s Yankee mgr. said of a pitcher, \"He don't smoke, he don't drink, he don't chase women & he don't win\"",
+          "choices": [
+            "(Casey) Stengel",
+            "Joe McCarthy",
+            "Billy Martin",
+            "Whitey Herzog"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "On his NBA fines, Kenyon Martin, then of this \"Garden State\" team: \"I lost almost $300,000. That's 2 cars\"",
+          "choices": [
+            "the Philadelphia 76ers",
+            "the New York Knicks",
+            "the New Jersey Devils",
+            "the New Jersey Nets"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FUN WITH COLORS",
+      "questions": [
+        {
+          "clue": "2-word phrase for a region whose definitions & categories become unclear",
+          "choices": [
+            "black hole",
+            "gray area",
+            "white lie",
+            "red tape"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Jimi Hendrix sang that this \"is all in my brain, lately things just don't seem the same\"",
+          "choices": [
+            "blue moon",
+            "green light",
+            "golden sky",
+            "purple haze"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A chocolate brown color, it shares its name with a coffee flavoring & a port in Yemen",
+          "choices": [
+            "java",
+            "macchiato",
+            "mocha",
+            "arabica"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The color with the shortest wavelength in the visible spectrum, it appears next to indigo in a rainbow",
+          "choices": [
+            "indigo",
+            "red",
+            "blue",
+            "violet"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Walnut, butternut & burnt almond are all shades of this",
+          "choices": [
+            "amber",
+            "brown",
+            "copper",
+            "hazel"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Along with Phil Gramm & Warren Rudman, he co-sponsored the 1985 bill to eliminate the deficit by 1991",
+    "choices": [
+      "dick gephardt",
+      "bob dole",
+      "(Ernest) Hollings",
+      "tom harkin"
+    ],
+    "correctIndex": 2,
+    "category": "U.S. SENATORS"
+  }
+}

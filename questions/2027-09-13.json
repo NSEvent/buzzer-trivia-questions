@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-13",
+  "categories": [
+    {
+      "name": "GAITS",
+      "questions": [
+        {
+          "clue": "The name of this gait between a trot & a gallop likely derives from an English pilgrimage site",
+          "choices": [
+            "a gallop",
+            "a canter",
+            "a trot",
+            "a pace"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "It can be a walk or a dance in which the feet aren't lifted from the floor",
+          "choices": [
+            "a shuffleboard",
+            "a shuffleboard game",
+            "a shuffleboard match",
+            "a shuffle"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This supermodel's strut has been deemed one of the fiercest runway walks of all time",
+          "choices": [
+            "(Naomi) Campbell",
+            "Naomi Watts",
+            "Kate Moss",
+            "Gisele B\u00fcndchen"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In a Monty Python sketch, John Cleese, working in this govt. office, grants Michael Palin a research fellowship on La Marche Futile",
+          "choices": [
+            "the Department of Redundancy Department",
+            "the Ministry of Silly Songs",
+            "the Ministry of Silly Walks",
+            "the Ministry of Silly Hats"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The amble is the name of the walk used by okapis & this relative; both legs on the same side move at the same time",
+          "choices": [
+            "camel",
+            "giraffe",
+            "hippopotamus",
+            "rhinoceros"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ALL THE MARBLES",
+      "questions": [
+        {
+          "clue": "This founder of the Roman empire said, \"I found Rome a city of bricks and left it a city of marble\"",
+          "choices": [
+            "Augustus",
+            "Julius Caesar",
+            "Trajan",
+            "Nero"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This 180-foot-tall marble landmark is now over 13 feet out of perpendicular",
+          "choices": [
+            "Guangzhou Tower",
+            "Leaning Tower of Pisa",
+            "Sweat Tower",
+            "Shenzen TV Tower"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 1968 Frank Borman called it a \"big blue marble\"",
+          "choices": [
+            "the moon",
+            "the planet Earth",
+            "Mars",
+            "Venus"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Tourist sites in this Mass. town include Elbridge Gerry's home & Abbot Hall, which houses the \"Spirit of '76\" painting",
+          "choices": [
+            "Salem",
+            "Marblehead",
+            "Lynn",
+            "Hingham"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Of the 7 Ancient Wonders, this one was a marble tomb",
+          "choices": [
+            "Mausoleum at Halicarnassus",
+            "Colosseum in Rome",
+            "Pyramid of Giza",
+            "Temple of Artemis"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MINI-COUNTRIES",
+      "questions": [
+        {
+          "clue": "Discoverers of these South Sea islands named them for wise Biblical king whose wealth they sought",
+          "choices": [
+            "the Fiji Islands",
+            "the Solomon Islands",
+            "the Marshall Islands",
+            "the Cook Islands"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A problem for this African country is that much of its mail is mistakenly sent to Switzerland",
+          "choices": [
+            "Switzerland",
+            "Sweden",
+            "Swaziland",
+            "Zimbabwe"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"Monte Carlo of the Orient\", this Portuguese dependency draws thousands of gamblers from nearby Hong Kong",
+          "choices": [
+            "Macau",
+            "Dubai",
+            "Singapore",
+            "Monaco"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "World's shortest railroad line runs 300 yards in this, the world's smallest independent state",
+          "choices": [
+            "San Marino",
+            "Liechtenstein",
+            "Vatican City",
+            "Monaco"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Independent since 301 A.D., this \"most serene republic\" in Europe is the oldest republic in the world",
+          "choices": [
+            "Andorra",
+            "Liechtenstein",
+            "San Marino",
+            "Monaco"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Physical process your breath undergoes so that you can see it on cold days",
+    "choices": [
+      "sublimation",
+      "evaporation",
+      "condensation",
+      "precipitation"
+    ],
+    "correctIndex": 2,
+    "category": "WINTER"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-25",
+  "categories": [
+    {
+      "name": "MNEMONICS",
+      "questions": [
+        {
+          "clue": "\"HOMES\" is a mnemonic for these, which border the U.S. & Canada",
+          "choices": [
+            "the Great Rivers",
+            "the Rocky Mountains",
+            "the Great Lakes",
+            "the Mississippi Valley"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Remember the books of the Pentateuch with \"God's eternal love never dies\", the \"D\" in \"dies\" for this",
+          "choices": [
+            "Numbers",
+            "Leviticus",
+            "Exodus",
+            "Deuteronomy"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"See, I have a rhyme assisting my feeble brain, its tasks sometime resisting\" is a 1914 mnemonic for this number",
+          "choices": [
+            "pi",
+            "euler's number",
+            "golden ratio",
+            "speed of light"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Remember this out-of-this-world group with \"My Very Educated Mother Just Served Us Noodles\"",
+          "choices": [
+            "the moons of Jupiter",
+            "the planets",
+            "the continents of Earth",
+            "the dwarfs in Snow White"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It helps to remember the notation for this system: \"Lucy Can't Drink Milk\"",
+          "choices": [
+            "Arabic numerals",
+            "Greek alphabet",
+            "Roman numerals",
+            "Binary code"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GAME",
+      "questions": [
+        {
+          "clue": "The field & the don't pass bar are part of this casino game, & don't forget to tip your stickman",
+          "choices": [
+            "poker",
+            "blackjack",
+            "roulette",
+            "craps"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In MMORPG the last 4 letters stand for \"online role-playing game\" & the first 2 letters stand for this",
+          "choices": [
+            "miniature model",
+            "massive multiplayer",
+            "mobile media",
+            "microscopic matter"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Make \"room\" for Change Seats! & Wink Murder, 2 of Mental Floss' 14 of these kind of \"games to bring back\" for the holidays",
+          "choices": [
+            "parlor games",
+            "video games",
+            "board games",
+            "card games"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Benedict Cumberbatch starred as enigma code-breaking Alan Turing in this 2014 film",
+          "choices": [
+            "The Theory of Everything",
+            "Enigma",
+            "The Imitation Game",
+            "The Man Who Knew Infinity"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The ABC game show, \"Don't\", had this \"Piranha 3D\" star, asking the contestants to do ridiculous tasks",
+          "choices": [
+            "Jeff Goldblum",
+            "Zach Galifianakis",
+            "Jack Black",
+            "Adam Scott"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SUMMER OLYMPIC CITIES",
+      "questions": [
+        {
+          "clue": "In 1980 the U.S. & 64 other countries boycotted the Olympics held in this city",
+          "choices": [
+            "Beijing",
+            "Moscow",
+            "Berlin",
+            "Atlanta"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This city hosted the Summer Games in 1964, a first for Asia",
+          "choices": [
+            "Seoul",
+            "Tokyo",
+            "Beijing",
+            "Sydney"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 2006, 30 years late, the debt was paid off for the stadium called \"The Big Owe\" & the rest of this city's games",
+          "choices": [
+            "Montego",
+            "Monterey",
+            "Monaco",
+            "Montreal"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This city between Lake Malaren & the Baltic Sea hosted the 1912 Olympics",
+          "choices": [
+            "Helsinki",
+            "Copenhagen",
+            "Stockholm",
+            "Oslo"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It took until 1956, but finally a Southern Hemisphere city hosted\u2014this one",
+          "choices": [
+            "Sydney",
+            "Brisbane",
+            "Auckland",
+            "Melbourne"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "His Top 40 career lasted 4 decades, from No. 1 \"Diana\" in 1957 to No. 40 \"Hold Me 'Til the Morning Comes\" in 1983",
+    "choices": [
+      "Neil Sedaka",
+      "Bobby Darin",
+      "Tom Jones",
+      "Paul Anka"
+    ],
+    "correctIndex": 3,
+    "category": "LET'S ROCK!"
+  }
+}

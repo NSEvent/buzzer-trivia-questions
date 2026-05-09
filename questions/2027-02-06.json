@@ -1,0 +1,207 @@
+{
+  "date": "2027-02-06",
+  "categories": [
+    {
+      "name": "DONALD DUCK",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Donald began his long romance with this vivacious girlfriend in the 1940 cartoon \"Mr. Duck Steps Out\\\"",
+          "choices": [
+            "Daisy",
+            "Minnie Mouse",
+            "Clarabelle Cow",
+            "Lena Hyena"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "The world's richest duck, he wears a red broadcloth coat",
+          "choices": [
+            "Gladstone Gander",
+            "Gyro Gearloose",
+            "Magica De Spell",
+            "Uncle $crooge"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "In the opening of \"The Mickey Mouse Club\", Donald would strike this instrument, usually with disastrous results",
+          "choices": [
+            "a drum",
+            "a gong",
+            "a cymbal",
+            "a triangle"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "Introduced on TV in 1961, this uncle of Donald was a professor who spoke with a European accent",
+          "choices": [
+            "Ludwig Von Drake",
+            "Gyro Gearloose",
+            "Professor Buffo",
+            "Uncle Gladstone"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Donald's girlfriend, she was first known as Donna Duck but was renamed in her second film, \"Mr. Duck Steps Out\\\"",
+          "choices": [
+            "Minnie Mouse",
+            "Daisy Duck",
+            "Clarabelle Cow",
+            "Goldie O'Gilt"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "ANIMALS IN CHILDREN'S BOOKS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Socks, who is owned by the Brickers in a book by Beverly Cleary",
+          "choices": [
+            "a dog",
+            "a cat",
+            "a hamster",
+            "a rabbit"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 400,
+          "clue": "Pongo & Missis: This breed that lives with Mr. & Mrs. Dearly",
+          "choices": [
+            "Labradors",
+            "Beagles",
+            "Dalmatians",
+            "German Shepherds"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "The title pooch of \"Good Dog, Carl\" is this breed named for a German place",
+          "choices": [
+            "Doberman Pinscher",
+            "German Shepherd",
+            "Rottweiler",
+            "Dachshund"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "Stellaluna: The fruit type of this mammal",
+          "choices": [
+            "a bat",
+            "a flying squirrel",
+            "a sugar glider",
+            "an opossum"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 1000,
+          "clue": "Mr. Nilsson, who belongs to Pippi Longstocking",
+          "choices": [
+            "a parrot",
+            "a dog",
+            "a cat",
+            "monkey"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "THE 3-DIGIT YEARS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "After this prophet's death in 632, armies spreading his word conquered large parts of the Middle East & North Africa",
+          "choices": [
+            "Jesus",
+            "Abraham",
+            "Moses",
+            "Mohammed"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "In the 300s Candra Gupta ruled this country as Maharajadhiraja, or king of kings",
+          "choices": [
+            "China",
+            "India",
+            "Persia",
+            "Egypt"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "Developed around the 9th century, this Slavic alphabet is used in as many as 50 languages today",
+          "choices": [
+            "Glagolitic",
+            "Cyrillic",
+            "Latin",
+            "Greek"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "The Pyramid of the Magician is found at Uxmal, a city built on this peninsula in the mid-first millennium",
+          "choices": [
+            "Baja California",
+            "Florida",
+            "the Yucatan",
+            "Isthmus of Tehuantepec"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "A Thomas Cahill book says this island people \"saved civilization\" by preserving writings",
+          "choices": [
+            "Scottish",
+            "Icelandic",
+            "Irish (Ireland)",
+            "Welsh"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "U2",
+    "clue": "8-letter term that's almost impossible to believe; why, it's \"absolutely\"...",
+    "choices": [
+      "gorgeous",
+      "fabulous",
+      "stunning",
+      "terrific"
+    ],
+    "correctIndex": 1
+  },
+  "bonusRound": {
+    "category": "\\\"BIG\\\"",
+    "clue": "When you \"hit\" this in vaudeville, you only had to perform 2 times a day",
+    "choices": [
+      "big top",
+      "big time",
+      "big circuit",
+      "big stage"
+    ],
+    "correctIndex": 1
+  }
+}

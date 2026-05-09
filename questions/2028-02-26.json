@@ -1,0 +1,207 @@
+{
+  "date": "2028-02-26",
+  "categories": [
+    {
+      "name": "CRAIGS LIST",
+      "questions": [
+        {
+          "clue": "Stretching back to the Middle Ages, the Craigs of Aberdeenshire, Scotland are one of these family groups",
+          "choices": [
+            "a tribe",
+            "a clan",
+            "a dynasty",
+            "a lineage"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "For 5 years he played family patriarch Zeek Braverman on \"Parenthood\"",
+          "choices": [
+            "Tim Daly",
+            "Peter Krause",
+            "Drea de Matteo",
+            "Craig T. Nelson"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Craig Bierko played Max Baer in this 2005 film about Depression-era boxer Jim Braddock",
+          "choices": [
+            "Cinderella Man",
+            "Raging Bull",
+            "The Fighter",
+            "Million Dollar Baby"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Giving it an amber color & a mellower taste, Rev. Elijah Craig is credited with being the first to age this liquor in charred barrels",
+          "choices": [
+            "rye whiskey",
+            "bourbon",
+            "scotch",
+            "vodka"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "He's the Craig who founded Craigslist",
+          "choices": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Craig Newmark",
+            "Mark Zuckerberg"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ILLINOIS",
+      "questions": [
+        {
+          "clue": "Once an Illinois legislator, this lawyer defended Leopold & Loeb in 1924, then John Scopes a year later",
+          "choices": [
+            "Ruth Bader Ginsburg",
+            "Thurgood Marshall",
+            "Clarence Darrow",
+            "Clara Shortridge Foltz"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Central Illinois owes its rich black soil to the deposits left by these some 20,000 years ago",
+          "choices": [
+            "volcanoes",
+            "earthquakes",
+            "glaciers",
+            "tsunamis"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The world's largest maker of farm machinery, it was founded in Grand Detour in 1837",
+          "choices": [
+            "Henry Ford",
+            "John Deere",
+            "Thomas Edison",
+            "Andrew Carnegie"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 1832 the U.S. Army defeated the Sauk Indians in this uprising, the last Indian war in Illinois",
+          "choices": [
+            "the Indian Removal",
+            "the Trail of Tears",
+            "the Black Hawk War",
+            "the Wounded Knee Massacre"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Though born in Kansas, this writer went to school in Lewiston, Illinois, near the Spoon River",
+          "choices": [
+            "Sherwood Anderson",
+            "Carl Sandburg",
+            "Irwin Chusid",
+            "(Edgar Lee) Masters"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BEFORE HE WAS PRESIDENT...",
+      "questions": [
+        {
+          "clue": "He commanded all the Union armies",
+          "choices": [
+            "Lee",
+            "McKinley",
+            "Rutherford B. Hayes",
+            "Grant"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "He was postmaster of New Salem, Illinois",
+          "choices": [
+            "Stephen Douglas",
+            "Abraham Lincoln",
+            "Jefferson Davis",
+            "John C. Calhoun"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "He taught debate & public speaking at a Houston, Texas high school",
+          "choices": [
+            "Lyndon B. Johnson",
+            "Richard Nixon",
+            "John F. Kennedy",
+            "George W. Bush"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "He was a movie star & president of the Screen Actors Guild",
+          "choices": [
+            "Brady",
+            "Reagan",
+            "Bing",
+            "Baberut"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "He practiced law in Grand Rapids, Michigan",
+          "choices": [
+            "Gerald Ford",
+            "John Adams",
+            "Abraham Lincoln",
+            "Ulysses S. Grant"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In an operation in 1846, William Morton employed ether in the first successful public use of this",
+    "choices": [
+      "chloroform",
+      "morphine",
+      "aspirin",
+      "anesthesia"
+    ],
+    "correctIndex": 3,
+    "category": "MEDICAL BREAKTHROUGHS"
+  },
+  "bonusRound": {
+    "clue": "Shh, don't tell! Suzanne used her medical FSA, short for this, to pay for botox treatments",
+    "choices": [
+      "a federal security agency",
+      "a financial service agreement",
+      "a flexible spending account",
+      "a flexible social association"
+    ],
+    "correctIndex": 2,
+    "category": "FRIENDS WITH BENEFITS"
+  }
+}

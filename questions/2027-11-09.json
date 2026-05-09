@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-09",
+  "categories": [
+    {
+      "name": "MEATY LANGUAGE",
+      "questions": [
+        {
+          "clue": "Term for a government project designed merely to benefit a politician's constituents",
+          "choices": [
+            "bacon",
+            "veal",
+            "brisket",
+            "pork"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "To \"run around like\" one of these means to do things without thinking",
+          "choices": [
+            "a bull in a china shop",
+            "a chicken with his head cut off",
+            "a cat with nine lives",
+            "a fox in the henhouse"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "When used before \"up\", it means to make something bigger or bulkier",
+          "choices": [
+            "beef",
+            "bacon",
+            "ham",
+            "pork"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Don't be sheepish in your response determining this hairy facial feature",
+          "choices": [
+            "beard trimmings",
+            "mutton chops",
+            "facial hair",
+            "sideburns"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Old-time comic George Jessel was the \"toastmaster general\"; today the snarkier Jeff Ross has this title",
+          "choices": [
+            "roast champion",
+            "comedy king",
+            "joke emperor",
+            "roastmaster general"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "15-LETTER WORDS",
+      "questions": [
+        {
+          "clue": "The order of a pope who kicks you out of the flock",
+          "choices": [
+            "Excommunication",
+            "expropriation",
+            "exhaustiveness",
+            "exaggeration"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Adjective for school activities held outside of class & after regular hours",
+          "choices": [
+            "extraordinary",
+            "extracurricular",
+            "exceedingly",
+            "extraterrestrial"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In this legal situation, a person or institution is designated to take over & protect the interests of one deemed unfit",
+          "choices": [
+            "conservatorship",
+            "conservatory",
+            "conservation",
+            "conversational"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "If a plane can fly, it's referred to as being \"sound\" in this way",
+          "choices": [
+            "hydrodynamically",
+            "aeromechanically",
+            "aerodynamically",
+            "thermodynamically"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Though not used technically, it's another term for the upper troposphere",
+          "choices": [
+            "tropopause",
+            "substratosphere",
+            "stratopause",
+            "mesosphere"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TAKE THE \"A\" TRAIN",
+      "questions": [
+        {
+          "clue": "It can be keynote or residential",
+          "choices": [
+            "a headline",
+            "a speech",
+            "a lecture",
+            "an address"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Use a Eurail pass to ride the Alberg line in this country for a scenic journey to Innsbruck",
+          "choices": [
+            "Switzerland",
+            "Germany",
+            "Austria",
+            "Italy"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Finished in 1889, Central Station in this city is similar in style to the Rijksmuseum",
+          "choices": [
+            "Copenhagen",
+            "Stockholm",
+            "Amsterdam",
+            "Oslo"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "According to Genesis 4, he was the middle child",
+          "choices": [
+            "Abel",
+            "Cain",
+            "Seth",
+            "Enoch"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Once a separate kingdom, it's now a state in the extreme northeast of India",
+          "choices": [
+            "Nagaland",
+            "Manipur",
+            "Assam",
+            "Meghalaya"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Let's enjoy this composer's Brandenburg Concerto No. 6, 3rd movement",
+    "choices": [
+      "George Frideric Handel",
+      "Antonio Vivaldi",
+      "Henry Purcell",
+      "(Johann Sebastian) Bach"
+    ],
+    "correctIndex": 3,
+    "category": "RELAX"
+  }
+}

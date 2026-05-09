@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-03",
+  "categories": [
+    {
+      "name": "FILE UNDER \"M\"",
+      "questions": [
+        {
+          "clue": "It's a plant, or an orange juice & champagne drink",
+          "choices": [
+            "mimosa",
+            "margarita",
+            "mimosa tree",
+            "mint julep"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Whatever this Lola wanted, King Louis I of Bavaria gave her",
+          "choices": [
+            "Lola Beltr\u00e1n",
+            "Lola Montez",
+            "Lola Falana",
+            "Lola Flores"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Do we have to spell it out? \u2014 \u2014- .-. ... . -.-. \u2014- -.. .",
+          "choices": [
+            "Morse code signal",
+            "Morse intelligence",
+            "Morse cipher",
+            "Morse code"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The proverbial saying that this crime \"will out\" was quoted by Chaucer & Cervantes",
+          "choices": [
+            "murder mystery",
+            "murder scene",
+            "murder weapon",
+            "murder"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The Alps & the Andes were built up during this epoch 5 million to 23 million years ago",
+          "choices": [
+            "the Pliocene",
+            "the Oligocene",
+            "the Miocene",
+            "the Eocene"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NOVEL PLOTS",
+      "questions": [
+        {
+          "clue": "Missouri boy who uses friends to whitewash part of his story",
+          "choices": [
+            "Huckleberry Finn",
+            "Joel Whitaker",
+            "Tom Sawyer",
+            "Ben Rogers"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "W. Somerset Maugham's tale of a medical student obsessed with the vulgar waitress Mildred",
+          "choices": [
+            "Cakes and Ale",
+            "Of Human Bondage",
+            "The Razor's Edge",
+            "The Moon and Sixpence"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Life on the Mississippi, according to Edna Ferber",
+          "choices": [
+            "Show Boat",
+            "Giant",
+            "Eula",
+            "Frieda"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A Dublin pub keeper one night dreams everything that has ever happened",
+          "choices": [
+            "Finnegans Wake",
+            "Ulysses",
+            "The Waste Land",
+            "Waiting for Godot"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "After a shipwreck, an 18th c. adventurer gets tied down in Lilliput before he can return home",
+          "choices": [
+            "Robinson Crusoe",
+            "Gulliver's Travels",
+            "Treasure Island",
+            "The Odyssey"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "EPONYMOUSLY YOURS",
+      "questions": [
+        {
+          "clue": "Practitioners of the \"scheme\" named for this Italian include Bernie Madoff, Reed Slatkin & Tom Petters, who ran a $3.7 billion one",
+          "choices": [
+            "Ponzi",
+            "Ponza",
+            "Positano",
+            "Pescara"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Made a national memorial in 1959, this presidential mausoleum is in Riverside Park, overlooking the Hudson",
+          "choices": [
+            "Washington's Tomb",
+            "Lincoln Memorial",
+            "Grant's Tomb",
+            "Jefferson Memorial"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In titles, it's his name that precedes \"Assisted Living\", \"The Marriage Counselor\" & \"A Madea Homecoming\"",
+          "choices": [
+            "Spike Lee",
+            "Tyler, The Creator",
+            "Will Smith",
+            "Tyler Perry"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A law describing the relationship of resistance, current & voltage as well as a unit of electrical resistance are named for this German",
+          "choices": [
+            "Ampere",
+            "Volt",
+            "Watt",
+            "Ohm"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "More than 1 in 100 Americans over 65 have this condition including tremors, named for physician James",
+          "choices": [
+            "Alzheimer's disease",
+            "Huntington's chorea",
+            "Lou Gehrig's disease",
+            "Parkinson's disease"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A \"nut graf\" gives the essentials of a story; \"graf\" is short for this",
+    "choices": [
+      "summary",
+      "headline",
+      "lede",
+      "paragraph"
+    ],
+    "correctIndex": 3,
+    "category": "JOURNALISM"
+  }
+}

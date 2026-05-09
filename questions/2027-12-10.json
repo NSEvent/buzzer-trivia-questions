@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-10",
+  "categories": [
+    {
+      "name": "LITERATURE ACROSS AMERICA",
+      "questions": [
+        {
+          "clue": "(I'm M.J. Acosta from NBC 7 San Diego.) This man resided at the Hotel Del Coronado for months at a time & wrote parts of several books here including \"Dorothy and the Wizard in Oz\"",
+          "choices": [
+            "Jack London",
+            "Stephen Crane",
+            "Zane Grey",
+            "Frank Baum"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "(Hi, this is Ryan Kristafer from News 8.) Harriet Beecher Stowe lived next door to this other great American author at the time he wrote \"A Connecticut Yankee in King Arthur's Court\"",
+          "choices": [
+            "O. Henry",
+            "(Mark) Twain",
+            "Edith Wharton",
+            "Theodore Dreiser"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "(I'm Juliana Mazza with 22News.) Leaping from the pages of the Dr. Seuss memorial sculpture are Thing 1 & Thing 2, agents of mayhem from this 1957 classic",
+          "choices": [
+            "Green Eggs and Ham",
+            "Horton Hears a Who!",
+            "The Cat in the Hat",
+            "One Fish Two Fish"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "(Hi, I'm Mark Allan from WDTN.) In his poem \"Sympathy\", Paul Laurence Dunbar wrote \"I know why the caged bird sings\"... giving this other African-American poet the title of her 1969 memoir",
+          "choices": [
+            "Toni Morrison",
+            "Alice Walker",
+            "(Maya) Angelou",
+            "Nikki Giovanni"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "(Hi. I'm Ryan Kristafer from News 8.) This author of \"Uncle Tom's Cabin\" lived in this Hartford home from 1873 until her death in 1896",
+          "choices": [
+            "(Louisa May Alcott)",
+            "(Emily Dickinson)",
+            "(Harriet Beecher) Stowe",
+            "(Edith Wharton)"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CHARLES DICKENS",
+      "questions": [
+        {
+          "clue": "Dickens came to fame at age 24 with his first novel, about this club's \"papers\"",
+          "choices": [
+            "Pickering Club",
+            "Pickwick Club",
+            "Pickwick Press",
+            "Picklewick Society"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 1960 this Dickens novel about a foundling was turned into a musical play",
+          "choices": [
+            "Oliver Twist",
+            "David Copperfield",
+            "Nicholas Nickleby",
+            "Great Expectations"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Charles met this \"Moonstone\" author & writing partner through a man named Augustus Egg",
+          "choices": [
+            "Bram Stoker",
+            "H.G. Wells",
+            "Wilkie Collins",
+            "Arthur Conan Doyle"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A 2012 bicentennial exhibition featured the manuscript of this unfinished mystery",
+          "choices": [
+            "The Mystery of Olly Wood",
+            "The Secret of Edwin Dood",
+            "The Mystery of Edwin Drood",
+            "The Mystery of Edwin Drope"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Profession of Ellen Ternan, with whom Dickens became infatuated in 1857 when he was 45 & she, 18",
+          "choices": [
+            "actress",
+            "singer",
+            "dancer",
+            "painter"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LITERARY EUROPE",
+      "questions": [
+        {
+          "clue": "This author hung out at Les Deux Magots in Paris, & wrote of drinking there with James Joyce in \"A Movable Feast\"",
+          "choices": [
+            "F. Scott Fitzgerald",
+            "T. S. Eliot",
+            "Gertrude Stein",
+            "Ernest Hemingway"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "(Kelly of the Clue Crew reports from a museum in Dublin, Ireland.) I'm holding this novelist's cane in an Irish museum dedicated to him; he wrote passionately of Dublin but died in exile",
+          "choices": [
+            "(W. B.) Yeats",
+            "(Oscar) Wilde",
+            "(James) Joyce",
+            "(Samuel) Beckett"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In Bath, England, tours devoted to her feature places she wrote about in \"Persuasion\" & \"Northanger Abbey\"",
+          "choices": [
+            "Virginia Woolf",
+            "Jane Austen",
+            "Charlotte Bronte",
+            "Emily Dickinson"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "You can visit the Moscow house where this author & some of his 13\u2014\"count\" 'em\u2014kids spent time from 1882 to 1901",
+          "choices": [
+            "Fyodor Dostoevsky",
+            "Anton Chekhov",
+            "Ivan Turgenev",
+            "Count Leo Tolstoy"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Stood up at the bar of Paris' Hotel de Crillon? Oh well, so was Jake Barnes in this Hemingway novel",
+          "choices": [
+            "A Farewell to Arms",
+            "For Whom the Bell Tolls",
+            "The Sun Also Rises",
+            "The Old Man and the Sea"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Lines called isobars & isotherms show up on these maps",
+    "choices": [
+      "topographic maps",
+      "weather maps",
+      "political maps",
+      "road maps"
+    ],
+    "correctIndex": 1,
+    "category": "LINES ON THE MAP"
+  }
+}

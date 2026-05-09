@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-26",
+  "categories": [
+    {
+      "name": "SEE THE U.S.A.",
+      "questions": [
+        {
+          "clue": "Fayetteville, Arkansas was named in honor of this Frenchman",
+          "choices": [
+            "George Washington",
+            "Benjamin Franklin",
+            "Thomas Jefferson",
+            "(Marquis de) Lafayette"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It's less than 50 miles from Montana to Washington across this state's northern tip",
+          "choices": [
+            "Oregon",
+            "Wyoming",
+            "Utah",
+            "Idaho"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This easternmost point of North Carolina is called the Graveyard of the Atlantic",
+          "choices": [
+            "Cape Cod",
+            "Cape Hatteras",
+            "Cape Canaveral",
+            "Cape Fear"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Nature trails in this Florida national park include the Gumbo Limbo Trail & Bobcat Hammock Trail",
+          "choices": [
+            "Yellowstone",
+            "Glacier",
+            "Grand Canyon",
+            "the Everglades"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Part of this South Dakota national park lies within Pine Ridge Indian Reservation",
+          "choices": [
+            "the Black Hills",
+            "Wind Cave",
+            "Custer State Park",
+            "the Badlands"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MISCELLANY",
+      "questions": [
+        {
+          "clue": "Rich in this stimulant, the kola nut is mainly used in soft drinks & medicine",
+          "choices": [
+            "theophylline",
+            "theobromine",
+            "caffeine",
+            "tannin"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Many schnauzers have coats described as looking like this pair of seasonings",
+          "choices": [
+            "sugar & spice",
+            "pepper & salt",
+            "salt & pepper",
+            "vinegar & oil"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Muhammad Ali called this late home run king \"the only man I idolize more than myself\"",
+          "choices": [
+            "Babe Ruth",
+            "Willie Mays",
+            "Jimmie Foxx",
+            "Hank Aaron"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In the Bible, one of these units equaled 21.8 inches",
+          "choices": [
+            "a cubit",
+            "a fathom",
+            "a cubicle",
+            "a caliber"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This Greek love goddess is the mom of Phobos & Deimos, \"fear\" & \"terror\", so yeah, thanks for that, mom",
+          "choices": [
+            "Aphrodite",
+            "Hera",
+            "Artemis",
+            "Demeter"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NATURAL DISASTERS",
+      "questions": [
+        {
+          "clue": "Volcanoes were named for this Roman god of fire",
+          "choices": [
+            "Venus",
+            "Vulcan",
+            "Vulgar",
+            "Valcan"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The point of origin of an earthquake",
+          "choices": [
+            "the hypocenter",
+            "the epicenter",
+            "the fault line",
+            "the seismic zone"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In Genesis 41:30 Joseph predicted one of these extreme shortages that cause people to starve",
+          "choices": [
+            "a drought",
+            "a famine",
+            "a blizzard",
+            "a locust plague"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "As Noah could tell you, a deluge is another name for one of these",
+          "choices": [
+            "a drought",
+            "a tsunami",
+            "a flood",
+            "a mudslide"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Storms known as cyclones or typhoons in the Pacific are called these when they form in the Atlantic",
+          "choices": [
+            "hurricanes",
+            "tornadoes",
+            "typhoons",
+            "cyclones"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"Roll 'em up & twist 'em up a high tuckahaw, & hit 'em up a tune called\" this",
+    "choices": [
+      "\"Camptown Races\"",
+      "\"Oh Susanna\"",
+      "\"Turkey In The Straw\"",
+      "\"Turkey Red\""
+    ],
+    "correctIndex": 2,
+    "category": "FOLK SONGS"
+  }
+}

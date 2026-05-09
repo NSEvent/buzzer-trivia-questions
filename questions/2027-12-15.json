@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-15",
+  "categories": [
+    {
+      "name": "HOLLYWOOD FAMILIES",
+      "questions": [
+        {
+          "clue": "This director's daughter Patricia played one of Janet Leigh's co-workers in his classic film \"Psycho\"",
+          "choices": [
+            "Orson Welles",
+            "Stanley Kubrick",
+            "Alfred Hitchcock",
+            "Billy Wilder"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Last name of composer cousins Randy & Thomas, who were both Oscar-nominated for scoring 1995 films",
+          "choices": [
+            "Newman",
+            "Weill",
+            "Bernstein",
+            "Kopland"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "When this actor was in his early 20s, he cut a record with his mother, Mary Martin",
+          "choices": [
+            "Barry Nelson",
+            "Larry Keating",
+            "Larry Linville",
+            "Larry Hagman"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Sam Warner, who convinced his brothers to make this talking picture, died 1 day before its 1927 premiere",
+          "choices": [
+            "Sunset Boulevard",
+            "The Jazz Singer",
+            "Singin' in the Rain",
+            "All Quiet on the Western Front"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Buck Henry's mother, Ruth Taylor, played Lorelei Lee in the 1928 silent film of this Anita Loos play",
+          "choices": [
+            "Gentlemen Prefer Pink",
+            "Gentlemen Prefer Brunettes",
+            "Gentlemen Prefer Redheads",
+            "Gentlemen Prefer Blondes"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FROM A TO Y",
+      "questions": [
+        {
+          "clue": "The 10 Commandments include \"Thou shalt not commit\" this",
+          "choices": [
+            "murder",
+            "adultery",
+            "stealing",
+            "lying"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "It's a symbolic narrative, like \"Piers Plowman\"",
+          "choices": [
+            "an allegory",
+            "a fable",
+            "a parable",
+            "a myth"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A women's group working with a men's club or fraternal order is a \"ladies\" one",
+          "choices": [
+            "supportive",
+            "junior",
+            "auxiliary",
+            "assistant"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "From the Latin for \"handy\", it's another word for skill or talent",
+          "choices": [
+            "strength",
+            "speed",
+            "size",
+            "ability"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Independence or self-government",
+          "choices": [
+            "freedom",
+            "liberty",
+            "sovereignty",
+            "autonomy"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NUMERICAL PHRASES",
+      "questions": [
+        {
+          "clue": "CBers & C.W. McCall use it to mean \"okay\"",
+          "choices": [
+            "10-1",
+            "10-4",
+            "10-9",
+            "10-0"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A slot machine",
+          "choices": [
+            "a three-reel slot",
+            "a one-armed bandit",
+            "a coin pusher",
+            "a poker machine"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Numerically speaking, some say it's a perfect touchdown for a plane",
+          "choices": [
+            "a three-point landing",
+            "a two-point turn",
+            "a four-star rating",
+            "a five-second rule"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Despite the name, this quantity you might get at your local donut shop totals 13",
+          "choices": [
+            "a baker's dozen",
+            "a dozen dozen",
+            "a baker's half",
+            "a baker's score"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It's a long necktie that's been tied in a slipknot & has the ends hanging down",
+          "choices": [
+            "a five by five",
+            "a six in row",
+            "a four in hand",
+            "a seven layer"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In the 1770s even the mellow Haydn was influenced by this movement whose name means \"storm & stress\"",
+    "choices": [
+      "Sturm und Drang",
+      "Empfindsamkeit",
+      "Classical elegance",
+      "Baroque grandeur"
+    ],
+    "correctIndex": 0,
+    "category": "HAYDN"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-06",
+  "categories": [
+    {
+      "name": "TROPICAL FRUIT",
+      "questions": [
+        {
+          "clue": "Like a lemon, the skin of a ripe breadfruit is this color",
+          "choices": [
+            "orange",
+            "green",
+            "brown",
+            "yellow"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It's the source of the enzyme papain, which aids in digestion",
+          "choices": [
+            "banana",
+            "pineapple",
+            "mango",
+            "papaya"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The tree that bears this fruit, often used to make chutney, is sacred in India",
+          "choices": [
+            "the mango",
+            "the coconut",
+            "the guava",
+            "the papaya"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Its name is from the Spanish \"aguacate\", which came from the Aztec \"ahuacatl\"",
+          "choices": [
+            "avocado",
+            "the banana",
+            "the orange",
+            "the grapefruit"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This \"peach of the tropics\" with a single large, flat seed can weigh up to 5 pounds",
+          "choices": [
+            "a papaya",
+            "a guava",
+            "a mango",
+            "a jackfruit"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BOOK 'EM, DAN-O",
+      "questions": [
+        {
+          "clue": "When he made Time's 2005 Top 100 List, his book was described as \"the novel that ate the world\"",
+          "choices": [
+            "Dan Brown",
+            "Stephen King",
+            "James Patterson",
+            "Dan Simmons"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"Standing Firm\" & \"Worth Fighting For\" are 2 books by this ex-Vice President",
+          "choices": [
+            "George Bush",
+            "Al Gore",
+            "Dick Cheney",
+            "Dan Quayle"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"Standing Firm\" & \"Worth Fighting For\" are two books by this ex-vice president",
+          "choices": [
+            "(Dan) Quayle",
+            "Mike Pence",
+            "Al Gore",
+            "Joe Biden"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Lemony Snicket should know this novelist penned \"Adverbs\" & \"Watch Your Mouth\"",
+          "choices": [
+            "Daniel Handler",
+            "Neil Gaiman",
+            "David Sedaris",
+            "Jonathan Franzen"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "From 1704 to 1713 he produced his own periodical, \"The Review\"; \"Robinson Crusoe\" washed ashore in 1719",
+          "choices": [
+            "Swift",
+            "Steele",
+            "Wycherley",
+            "Defoe"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SUMMERTIME",
+      "questions": [
+        {
+          "clue": "This object is the \"S\" in SPF, which should be at least 30 in the stuff mom slathers onto you",
+          "choices": [
+            "the heat",
+            "UV rays",
+            "summer days",
+            "the sun"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The fun-spoilers in city government don't want you to open these to play in the street\u2014what if there's no water to fight fires?",
+          "choices": [
+            "street signs",
+            "fire hydrants",
+            "parking meters",
+            "traffic lights"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Are you smarter than a fifth grader? Not a fifth grader who's at SIG, Summer Institute for them",
+          "choices": [
+            "the talented",
+            "the gifted class",
+            "the Gifted",
+            "the smart kids"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In the northern hemisphere, Vega, Altair & Deneb, 3 of these, make up the \"summer triangle\"",
+          "choices": [
+            "planets",
+            "constellations",
+            "galaxies",
+            "stars"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In Houston in the summer, this averages over 90% for the morning",
+          "choices": [
+            "heat",
+            "humidity",
+            "moisture",
+            "dew"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Sanibel Island on this U.S. state's west coast has great beaches to collect shells or just stroll the sand",
+    "choices": [
+      "Florida",
+      "California",
+      "Hawaii",
+      "South Carolina"
+    ],
+    "correctIndex": 0,
+    "category": "ON THE BEACH"
+  }
+}

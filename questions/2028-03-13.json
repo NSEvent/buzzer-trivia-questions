@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-13",
+  "categories": [
+    {
+      "name": "LETHAL WEAPONS",
+      "questions": [
+        {
+          "clue": "Also called a scattergun, this smooth-bored weapon is designed to shoot at short ranges",
+          "choices": [
+            "a rifle",
+            "a shotgun",
+            "a pistol",
+            "a musket"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "These weapons are divided into \"dumb\" ones, which just use gravity, & \"smart\" ones, which are guided",
+          "choices": [
+            "missiles",
+            "torpedoes",
+            "rockets",
+            "bombs"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Taking the first part of its name from the Dutch for thunder, it was a type of old-fashioned musket",
+          "choices": [
+            "arquebus",
+            "blunderbust",
+            "carbine",
+            "blunderbuss"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A combination of napthenic & palmitic acids resulting in a flammable substance",
+          "choices": [
+            "dynamite",
+            "thermite",
+            "napalm",
+            "plutonium"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "U.S. troops in Iraq have been menaced by RPGs, which stands for these weapons",
+          "choices": [
+            "radar guided missiles",
+            "remote operated drones",
+            "rapid fire projectiles",
+            "rocket propelled grenades"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "20th CENTURY NOVELS",
+      "questions": [
+        {
+          "clue": "It's subtitled \"The Sequel to Margaret Mitchell's Gone With the Wind\"",
+          "choices": [
+            "Gone With the Wind",
+            "The Wind Done Gone",
+            "Rhett Butler's Woman",
+            "Scarlett"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "James Michener's novel about this country centers on a village on the Vistula River",
+          "choices": [
+            "Poland",
+            "Hungary",
+            "Czech Republic",
+            "Germany"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"The Magician of Lublin\", by this Yiddish language Nobel Prize winner, is set in his native Poland",
+          "choices": [
+            "Isaac Bashevis Singer",
+            "Saul Bellow",
+            "Elie Wiesel",
+            "Bernard Malamud"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A 1969 novel says, \"His reward...the respectful title of 'Don', and sometimes the more affectionate salutation of\" this",
+          "choices": [
+            "Mafia",
+            "Don",
+            "Godfather",
+            "Boss"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Tyrone Slothrop, a character in his \"Gravity's Rainbow\", is also called Ian Scuffling & Rocketman",
+          "choices": [
+            "Robert Coover",
+            "Don DeLillo",
+            "Kurt Vonnegut",
+            "(Thomas) Pynchon"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SNOW WHITE'S UNKNOWN DWARFS",
+      "questions": [
+        {
+          "clue": "The name of this cheap, ungenerous dwarf is found in a famous Greta Garbo line in \"Anna Christie\"",
+          "choices": [
+            "Greedy",
+            "Poor",
+            "Stingy",
+            "Selfish"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "An exuberant dwarf, or one of Ken Kesey's \"pranksters\"",
+          "choices": [
+            "Merry",
+            "Happy",
+            "Jolly",
+            "Glad"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Snow White mistrusts this beaming dwarf who shares his name with John le Carre's title spy, George",
+          "choices": [
+            "Gloomy",
+            "Happy",
+            "Grumpy",
+            "Smiley"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The dwarf formerly known as \"swollen\" changed his name to this adjective, after rap artist Sean Combs",
+          "choices": [
+            "Diddy",
+            "Puffy",
+            "Puff Daddy",
+            "Love"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The name of this dwarf, a cousin of Happy, is also associated with a Green Giant",
+          "choices": [
+            "Jolly",
+            "Glad",
+            "Cheer",
+            "Giant"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This Cajun crayfish stew takes its name from a word meaning \"suffocated\"",
+    "choices": [
+      "cayenne",
+      "jambalaya",
+      "bisque",
+      "\u00e9touff\u00e9e"
+    ],
+    "correctIndex": 3,
+    "category": "QUIZINE"
+  }
+}

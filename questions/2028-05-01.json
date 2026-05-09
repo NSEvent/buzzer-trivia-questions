@@ -1,0 +1,196 @@
+{
+  "date": "2028-05-01",
+  "categories": [
+    {
+      "name": "\"B\" IN SCIENCE",
+      "questions": [
+        {
+          "clue": "This treelike grass with a woody stem is the favored food of pandas",
+          "choices": [
+            "coconut palm",
+            "sugar cane",
+            "bamboo",
+            "wheat grass"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Toxins from these single-celled organisms can cause diseases like botulism",
+          "choices": [
+            "viruses",
+            "fungi",
+            "bacteria",
+            "parasites"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Indium is in the periodic table group named for this element",
+          "choices": [
+            "aluminum",
+            "boron",
+            "gallium",
+            "thallium"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Not quite star material & actually appearing red, these astronomical objects can't reach stable luminosities",
+          "choices": [
+            "a white dwarf",
+            "a red giant",
+            "a brown dwarf",
+            "a neutron star"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This dark volcanic rock is low in silica content but fairly rich in iron & magnesium",
+          "choices": [
+            "granite",
+            "basalt",
+            "pumice",
+            "obsidian"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LIVE ENTERTAINMENT",
+      "questions": [
+        {
+          "clue": "A group of street performers in Quebec became this circus troupe that puts on shows like Myst\u00e8re",
+          "choices": [
+            "Cirque du Soleil",
+            "Ringling Bros.",
+            "Circus Krone",
+            "Hannibal Circus"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It opened its doors in Chicago in 1959 to become the world's premier comedy club & improv school",
+          "choices": [
+            "The Groundlings",
+            "the Second City",
+            "The iO Theatre",
+            "Upright Citizens Brigade"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This city's philharmonic loads up on Strauss waltzes in its New Year's concert dating back to 1941",
+          "choices": [
+            "Berlin",
+            "Vienna",
+            "Budapest",
+            "Prague"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "With shows around the globe, this group came a long way from 1987, when 3 bald guys began painting their faces",
+          "choices": [
+            "the Beastie Boys",
+            "the Blue Man Group",
+            "the Ramones",
+            "the Talking Heads"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "From the Spanish for \"shell\", this California valley lent its name to a festival where you could hear Franz Ferdinand in 2013",
+          "choices": [
+            "Bonnaroo",
+            "Coachella",
+            "Lollapalooza",
+            "Glastonbury"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ILLINOIS",
+      "questions": [
+        {
+          "clue": "Moline is headquarters to tis leading farm machinery producer",
+          "choices": [
+            "Casey General Store",
+            "International Harvester",
+            "Allis-Chalmers",
+            "(John) Deere (Company)"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The largest employer in the Peoria area is this earth-moving equipment manufacturer",
+          "choices": [
+            "John Deere",
+            "Komatsu",
+            "Volvo Construction Equipment",
+            "Caterpillar"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Chicago's Museum of Science & Industry occupies a building from this 1893 World's Fair",
+          "choices": [
+            "the Paris Exposition",
+            "the Louisiana Purchase Exposition",
+            "the Panama-Pacific Exposition",
+            "the Columbian Exposition"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Democrat with a penchant for bow ties who has represented Illinois in the U.S. Senate since 1985",
+          "choices": [
+            "Charles Percy",
+            "Paul Simon",
+            "Dick Durbin",
+            "Barack Obama"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Enrico Fermi was among a team of scientists at this univ. who set off the 1st controlled nuclear chain reaction",
+          "choices": [
+            "Columbia University",
+            "the University of Chicago",
+            "Yale University",
+            "Princeton University"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Katherine Mansfield was supposedly the inspiration for Gudrun in his book \"Women in Love\"",
+    "choices": [
+      "Virginia Woolf",
+      "E.M. Forster",
+      "James Joyce",
+      "D.H. Lawrence"
+    ],
+    "correctIndex": 3,
+    "category": "INSPIRED CHARACTERS"
+  }
+}

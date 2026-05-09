@@ -1,0 +1,196 @@
+{
+  "date": "2028-05-04",
+  "categories": [
+    {
+      "name": "FILMS OF THE '40s",
+      "questions": [
+        {
+          "clue": "This 1945 film, based on a novel by James M. Cain, earned Joan Crawford a career boost & her only Oscar",
+          "choices": [
+            "Double Indemnity",
+            "The Postman Always Rings Twice",
+            "Mildred Pierce",
+            "Laura"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "He directed \"My Darling Clementine\" & \"She Wore a Yellow Ribbon\"",
+          "choices": [
+            "John Huston",
+            "Howard Hawks",
+            "John Ford",
+            "William Wyler"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "His role as Raven in \"This Gun for Hire\" made this actor a star",
+          "choices": [
+            "Alan Ladd",
+            "Robert Mitchum",
+            "Gary Cooper",
+            "Humphrey Bogart"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "He directed & starred in 1948's \"The Lady from Shanghai\"",
+          "choices": [
+            "Alfred Hitchcock",
+            "Orson Welles",
+            "Frank Capra",
+            "Billy Wilder"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Judy Garland sang \"The Trolley Song\" & \"Have Yourself A Merry Little Christmas\" in this hit musical",
+          "choices": [
+            "The Wizard of Oz",
+            "Easter Parade",
+            "An American in Paris",
+            "Meet Me In St. Louis"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "19th CENTURY LITERATURE",
+      "questions": [
+        {
+          "clue": "In this Mark Twain story, a mechanic is knocked unconscious in a fight & awakens in Camelot in 528 A.D.",
+          "choices": [
+            "The Prince and the Pauper",
+            "A Yankee from the West",
+            "The American Claimant",
+            "\"A Connecticut Yankee in King Arthur's Court\""
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Leaving behind \"a smouldering, suffocating vapour\", Mr. Krook in Dickens' \"Bleak House\" dies in this weird way",
+          "choices": [
+            "heart failure",
+            "carbon monoxide poisoning",
+            "spontaneous combustion",
+            "exhaustion"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1863 he published a novel about \"The Cossacks\", who also get plenty of mention in his next, more epic, work",
+          "choices": [
+            "(Leo) Tolstoy",
+            "Fyodor Dostoevsky",
+            "Ivan Turgenev",
+            "Anton Chekhov"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In Pedro Antonio de Alarcon's \"The Three-Cornered\" this, a miller thinks his wife is having an affair with the mayor",
+          "choices": [
+            "scarf",
+            "gloves",
+            "hat",
+            "boots"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "2 expatriates come to Boston to visit relatives in his 1878 novel \"The Europeans\"",
+          "choices": [
+            "Henry James",
+            "Nathaniel Hawthorne",
+            "Louisa May Alcott",
+            "Mark Twain"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ASTROLOGY",
+      "questions": [
+        {
+          "clue": "Taurus is ruled by this planet named for the Roman goddess of love",
+          "choices": [
+            "Venus",
+            "Mars",
+            "Mercury",
+            "Jupiter"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The \"element\" that represents Leo the lion & Aries the ram",
+          "choices": [
+            "fire",
+            "water",
+            "earth",
+            "air"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Abe Lincoln's response to Mary had she said, \"Hi, I'm a Sagittarius, what's your sign?\"",
+          "choices": [
+            "Pisces",
+            "Capricorn",
+            "Aquarius",
+            "Scorpio"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Only soldier given full-time duty as astrologer during WWII",
+          "choices": [
+            "John Paul Stevens",
+            "Carl Jung",
+            "Sydney Omarr",
+            "L. Ron Hubbard"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Evangeline Adams' 1931 \"Astrology for Everyone\" has no mention of Earth's or this planet's effects",
+          "choices": [
+            "Pluto",
+            "Mars",
+            "Neptune",
+            "Uranus"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Paris' Montmartre area once had 30 windmills; today the best-known one is the moulin outside this nightspot",
+    "choices": [
+      "the Moulin de la Galette",
+      "the Moulin du Moulinet",
+      "the Moulin Rouge",
+      "the Moulin de l'Abreuvoir"
+    ],
+    "correctIndex": 2,
+    "category": "WINDMILLS"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2027-08-21",
+  "categories": [
+    {
+      "name": "INTERNATIONAL HOLIDAYS & OBSERVANCES",
+      "questions": [
+        {
+          "clue": "It officially became France's Fete nationale in 1880",
+          "choices": [
+            "Bermuda Day",
+            "Bastille Day",
+            "Remembrance Day",
+            "Victoria Day"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This country's national holiday, July 21, celebrates the ascension of its first king, Leopold I",
+          "choices": [
+            "Luxembourg",
+            "Belgium",
+            "Netherlands",
+            "Austria"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Iran's Revolution Day, February 11, celebrates his 1979 overthrow",
+          "choices": [
+            "the Ayatollah",
+            "the Prime Minister",
+            "the Shah",
+            "the President"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This boat festival in China is said to have begun as a search for the poet Qu Yuan, who drowned himself in a river",
+          "choices": [
+            "the Lantern Festival",
+            "the Mid-Autumn Festival",
+            "the Spring Festival",
+            "the Dragon Boat Festival"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "People lay flowers at an eternal flame in Yerevan on April 24, this country's genocide Remembrance Day",
+          "choices": [
+            "Azerbaijan",
+            "Georgia",
+            "Armenia",
+            "Turkey"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MONOPOLY",
+      "questions": [
+        {
+          "clue": "Players often draw from these 2 decks of cards during game play",
+          "choices": [
+            "Community Chest & Chance",
+            "Property Deeds & Title",
+            "Free Parking & Jail",
+            "Luxury Tax & Corner Store"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Landing on this square will set you back $200 or 10% of your total score",
+          "choices": [
+            "Luxury Tax",
+            "Just Visiting",
+            "Community Chest",
+            "Income Tax"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 1930 this man led a march to the sea to collect salt in protest of a monopoly by the govt. of India",
+          "choices": [
+            "Nehru",
+            "Tito",
+            "Atat\u00fcrk",
+            "Gandhi"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This antitrust act from 1890 was designed to prevent monopolies in American business",
+          "choices": [
+            "the Clayton Antitrust Act",
+            "the Federal Trade Commission Act",
+            "the Sherman Antitrust Act",
+            "the Robinson-Patman Act"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Most of the street names on a standard Monopoly board come from streets in this city",
+          "choices": [
+            "Chicago",
+            "New York City",
+            "Philadelphia",
+            "Atlantic City"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PARTNERS",
+      "questions": [
+        {
+          "clue": "Oscar-winning comics known abroad as \"Flip & Flop\" or \"Fat & Skinny\"",
+          "choices": [
+            "Laurel & Hardy",
+            "Martin & Lewis",
+            "Abbott & Costello",
+            "Cheech & Chong"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In film projectors: Donald Bell &....",
+          "choices": [
+            "Gould",
+            "Smith",
+            "Jones",
+            "Howell"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\\'61 Yankees' Slugging \"M & M\" duo",
+          "choices": [
+            "Mantle & Maris",
+            "Mays & McCovey",
+            "Maris & Mantle",
+            "Mantle & Mantle"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Superhero stars of own individual comics who are currently in \"World's Finest Comics\"",
+          "choices": [
+            "Superman & Wonder Woman",
+            "Flash & Green Lantern",
+            "Batman & Wonder Woman",
+            "Batman & Superman"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In wine coolers: The imaginary Frank Bartles &...",
+          "choices": [
+            "Hartley",
+            "Barlow",
+            "Carter",
+            "Jaymes"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This middle name of President Warren Harding was also the name of a first century rabbi mentioned in the Bible",
+    "choices": [
+      "Gamalius",
+      "Gamaliel",
+      "Gideon",
+      "Gad"
+    ],
+    "correctIndex": 1,
+    "category": "THE NAME GAME"
+  },
+  "bonusRound": {
+    "clue": "Study dispute resolution to become one of these & decide if Ryan Howard gets $7 million or $10 million",
+    "choices": [
+      "an attorney",
+      "an arbitrator",
+      "a mediator",
+      "a judge"
+    ],
+    "correctIndex": 1,
+    "category": "TAKE THE \"A\" TRAINING"
+  }
+}

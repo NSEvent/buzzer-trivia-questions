@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-05",
+  "categories": [
+    {
+      "name": "MEN & WOMEN OF SCIENCE",
+      "questions": [
+        {
+          "clue": "In the 1870s this French chemist demonstrated that anthrax was caused by a particular bacillus",
+          "choices": [
+            "Jacques Monod",
+            "Edmond Haeckel",
+            "Louis Pasteur",
+            "Alexandre Yersin"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In the 1930s this California transplant posthumously received plant patents No. 12-16",
+          "choices": [
+            "Luther Burbank",
+            "David Fairchild",
+            "Thomas Jefferson",
+            "Garrett Morgan"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The \"Hans\"-on work of this biochemist born in 1900 unraveled the mystery of the citric acid cycle",
+          "choices": [
+            "Hans Krebs",
+            "Carl Neuberg",
+            "Fritz Lipmann",
+            "Hans Adolf Krebs"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In 1925 this American anthropologist first visited Samoa; she wrote a book about it three years later",
+          "choices": [
+            "Zora Neale Hurston",
+            "Margaret Mead",
+            "Ruth Benedict",
+            "Ella Deloria"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 1909, after 7 years with the Swiss Patent Office, he became a professor at the University of Zurich",
+          "choices": [
+            "Max Planck",
+            "Niels Bohr",
+            "Ernest Rutherford",
+            "Albert Einstein"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DAWN",
+      "questions": [
+        {
+          "clue": "This film with Patrick Swayze & Jennifer Grey was about a Communist invasion",
+          "choices": [
+            "Red Dawn",
+            "Rocky IV",
+            "Rambo First Blood Part II",
+            "The Expendables"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "On the Medici tomb he designed, he had nudes representing dawn & dusk under the seated Lorenzo",
+          "choices": [
+            "Michelangelo",
+            "Donatello",
+            "Gian Lorenzo Bernini",
+            "Benvenuto Cellini"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Eos & Aurora",
+          "choices": [
+            "the daughters of Zeus",
+            "the hours of the day",
+            "the stars of the night",
+            "the goddesses of the dawn"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "He did a series of paintings of the Rouen Cathedral's facade as it looked from dawn to dusk",
+          "choices": [
+            "(Pablo) Picasso",
+            "(Edvard) Munch",
+            "(Claude) Monet",
+            "(Pierre-Auguste) Renoir"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1973 Helen Reddy had a No. 1 hit about this dawn",
+          "choices": [
+            "Rose Red",
+            "White Dawn",
+            "Midnight Blue",
+            "Delta Dawn"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WE'VE GOT TO STOP MEETING LIKE THIS",
+      "questions": [
+        {
+          "clue": "In the 1920s & '30s this literary group that included Dorothy Parker met regularly for lunch at a NYC hotel",
+          "choices": [
+            "the Lost Generation",
+            "the Algonquin Round Table",
+            "the Vicious Circle",
+            "the Greenwich Village Group"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In the 1920s & '30s this literary group that included Dorothy Parker met daily for lunch at a NYC hotel",
+          "choices": [
+            "the Algonquin Lunch Club",
+            "the Round Table Society",
+            "the Dorothy Parker Group",
+            "the Round Table at the Algonquin"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "During the 1604 Hampton Court conference, this king accepted a request for a new translation of the Bible",
+          "choices": [
+            "King George",
+            "King James",
+            "King Charles",
+            "King Henry"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In February 1945 FDR, Churchill & Stalin met at this Black Sea resort in the Livadiya Palace",
+          "choices": [
+            "Ypres",
+            "Yokohama",
+            "Yalta",
+            "Yamoussoukro"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Holy Roman Emperor Charles V called the 1521 meeting of this assembly at Worms",
+          "choices": [
+            "the Council of Trent",
+            "the Council of Nicaea",
+            "the Diet (of Worms) (the Council at Worms)",
+            "the Diet of Speyer"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Like his boss, this VP started at Yale; unlike his boss, he didn't finish there, graduating from the University of Wyoming in 1965",
+    "choices": [
+      "Joe Biden",
+      "Al Gore",
+      "Dick Cheney",
+      "Mike Pence"
+    ],
+    "correctIndex": 2,
+    "category": "PRESIDENTS & VICE PRESIDENTS"
+  }
+}

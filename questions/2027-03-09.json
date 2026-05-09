@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-09",
+  "categories": [
+    {
+      "name": "POP QUIZ",
+      "questions": [
+        {
+          "clue": "This soda was introduced in 1886 & patented in 1887",
+          "choices": [
+            "Pepsi",
+            "Dr Pepper",
+            "Coca-Cola",
+            "Sprite"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "1993's \"Linger\" was the first U.S. hit for this alternative band from Ireland",
+          "choices": [
+            "The Corrs",
+            "U2",
+            "The Pogues",
+            "The Cranberries"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In the Janis Joplin hit \"Me And Bobby McGee\", this is \"just another word for nothin' left to lose\"",
+          "choices": [
+            "hope",
+            "love",
+            "freedom",
+            "peace"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 2013 Marc Anthony's \"Vivir Mi Vida\" was Record of the Year at the 14th of these awards",
+          "choices": [
+            "the Latin Grammys",
+            "the Grammys",
+            "the MTV Video Music Awards",
+            "the Billboard Music Awards"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 2012 Carly Rae Jepsen hit No. 1 singing, \"Hey, I just met you, and this is crazy, but here's my number, so\" this title",
+          "choices": [
+            "\"Call Me Maybe\"",
+            "\"Shake It Off\"",
+            "\"Bad Romance\"",
+            "\"Rolling in the Deep\""
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COLORS",
+      "questions": [
+        {
+          "clue": "It's a common eye color ranging from light to yellowish brown",
+          "choices": [
+            "hazel",
+            "honey",
+            "amber",
+            "gold"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In \"An Essay on Criticism\", Pope wrote, \"All looks\" this color \"to the jaundiced eye\"",
+          "choices": [
+            "green",
+            "blue",
+            "red",
+            "yellow"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "His calculations led to discovery of the spectrum",
+          "choices": [
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Stephen Hawking",
+            "Sir Isaac Newton"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A \"cyanotic\" person has circulation problems which turn his skin \"cyan\", this color",
+          "choices": [
+            "reddish orange",
+            "grayish white",
+            "yellowish brown",
+            "bluish green"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A shade of purple, or something especially desirable",
+          "choices": [
+            "burgundy",
+            "lavender",
+            "plum",
+            "indigo"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AUTHOR! AUTHOR!",
+      "questions": [
+        {
+          "clue": "Oakland, Calif.'s Heinold's First & Last Chance Saloon was a favorite bar of this \"White Fang\" author",
+          "choices": [
+            "Jack London",
+            "Mark Twain",
+            "Ernest Hemingway",
+            "John Steinbeck"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"This Side of Paradise\"",
+          "choices": [
+            "Ernest Hemingway",
+            "F. Scott Fitzgerald",
+            "William Faulkner",
+            "John Steinbeck"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Winesburg, Ohio\"",
+          "choices": [
+            "Sherwood Anderson",
+            "Ernest Hemingway",
+            "William Faulkner",
+            "F. Scott Fitzgerald"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "His volunteering to take mind-altering drugs as a test subject at a hospital led to a 1962 novel, his best-known work",
+          "choices": [
+            "Ken Kesey",
+            "Hunter S. Thompson",
+            "Jack Kerouac",
+            "Neal Cassady"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "\"Midnight in the Garden of Good and Evil\"",
+          "choices": [
+            "Truman Capote",
+            "Harper Lee",
+            "Flannery O'Connor",
+            "John Berendt"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1957 athlete & future actor Bruce Dern left the Penn track team rather than shave these",
+    "choices": [
+      "his mutton chops",
+      "his sideburns",
+      "his pencil mustache",
+      "his goatee beard"
+    ],
+    "correctIndex": 1,
+    "category": "\"SIDE\" EFFECTS"
+  }
+}

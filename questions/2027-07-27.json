@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-27",
+  "categories": [
+    {
+      "name": "\"Y\" ME?",
+      "questions": [
+        {
+          "clue": "You were \"happy\" if you were a member of this '60s radical group that included Abbie Hoffman & Jerry Rubin",
+          "choices": [
+            "Yankees",
+            "Yahoos",
+            "Yippies",
+            "Yardies"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "It's the river that runs through Wuhan & Hubei",
+          "choices": [
+            "the Yangtze",
+            "the Yellow",
+            "the Yangon",
+            "the Yakima"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A 1995 Newsweek article advised this Russian to \"check into the Betski Ford Clinic\"",
+          "choices": [
+            "Putin",
+            "Yeltsin",
+            "Gorbachev",
+            "Medvedev"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This keyboardist's album \"Live At the Acropolis\" hit No. 5 on the charts",
+          "choices": [
+            "Yanni",
+            "Yardbirds",
+            "Yes",
+            "Yazoo"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This Irish poet's epitaph reads, \"Cast a cold eye on life, on death. Horseman, pass by\"",
+          "choices": [
+            "Oscar Wilde",
+            "(William Butler) Yeats",
+            "George Bernard Shaw",
+            "Samuel Beckett"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "2-LETTER WORDS",
+      "questions": [
+        {
+          "clue": "Most parents' answer to \"I found this snake; can I keep it?\"",
+          "choices": [
+            "maybe",
+            "no",
+            "later",
+            "yes"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Oh, deer! It's the first tone of the diatonic musical scale",
+          "choices": [
+            "fa",
+            "re",
+            "do",
+            "mi"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It can mean awake, cheerful, or at bat",
+          "choices": [
+            "in",
+            "up",
+            "out",
+            "at"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A moon in our solar system named for a maiden of myth",
+          "choices": [
+            "Io",
+            "Eu",
+            "Er",
+            "Es"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Creature of the bovine ilk that the Chinese use to symbolize a year",
+          "choices": [
+            "an ant",
+            "an ape",
+            "an arm",
+            "an ox"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"O\" NO!",
+      "questions": [
+        {
+          "clue": "The Southport Yellow Globe isn't a newspaper but one of these used in soups & stews",
+          "choices": [
+            "an olive",
+            "an oar",
+            "an oat",
+            "an onion"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This London theatre was once known as the Royal Victoria",
+          "choices": [
+            "the Oval",
+            "the O2",
+            "the Opera",
+            "the Old Vic"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "An onyx is a gem, while this similar word refers to an antelope",
+          "choices": [
+            "an oryx",
+            "an ostrich",
+            "an oxen",
+            "an otter"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The Museum of Modern Art's 1965 exhibition \"The Responsive Eye\" focused on this type of art",
+          "choices": [
+            "optics",
+            "op art",
+            "ocular art",
+            "open art"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "A liquid hydrocarbon formula C8H18, found in petroleum",
+          "choices": [
+            "octet",
+            "octave",
+            "octane",
+            "octopi"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Cockatoo Island is a former prison in this country settled by prisoners",
+    "choices": [
+      "Australia",
+      "New Zealand",
+      "South Africa",
+      "Canada"
+    ],
+    "correctIndex": 0,
+    "category": "ISLAND PRISONS"
+  }
+}

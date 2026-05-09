@@ -1,0 +1,207 @@
+{
+  "date": "2027-07-17",
+  "categories": [
+    {
+      "name": "TEXTBOOKS",
+      "questions": [
+        {
+          "clue": "Henry A. Millon paired rococo & this other ornate style in the title of his architecture textbook",
+          "choices": [
+            "rococo",
+            "art deco",
+            "baroque",
+            "neoclassical"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Curl up with \"Readings in Ancient Greek Philosophy: From Thales to\" this founder of logic",
+          "choices": [
+            "Aristotle",
+            "Socrates",
+            "Plato",
+            "Pythagoras"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "First published in 1858, this textbook was based on dissections performed on unclaimed corpses",
+          "choices": [
+            "Gray's Anatomy",
+            "Moore's Anatomy",
+            "Saunders Anatomy",
+            "Netter's Anatomy"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "For a laugh, try Montgomery & Runger's \"Applied\" this science of data analysis \"and Probability for Engineers\"",
+          "choices": [
+            "Calculus",
+            "Statistics",
+            "Algebra",
+            "Geometry"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "For epistemology, pick up this German philosopher's \"Critique of Judgement\" & \"Critique of Practical Reason\"",
+          "choices": [
+            "(Immanuel) Kant",
+            "(Georg) Hegel",
+            "(Arthur) Schopenhauer",
+            "(Friedrich) Nietzsche"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LEAGUES",
+      "questions": [
+        {
+          "clue": "The covenant creating this league in 1919 mentions the goal \"to promote international cooperation\"",
+          "choices": [
+            "the United Nations",
+            "the League of Arab States",
+            "the League of Nations",
+            "the Warsaw Pact"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Rabbi Meir Kahane, who founded it in 1968, was assassinated in November 1990",
+          "choices": [
+            "the Jewish Defense League",
+            "the Black Panther Party",
+            "the Nation of Islam",
+            "the Ku Klux Klan"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The NCL, or \"National\" these people's \"League\", works for economic justice for shoppers",
+          "choices": [
+            "consumers",
+            "workers",
+            "farmers",
+            "producers"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This ancient Greek confederation of Sparta & its allies is named for the peninsula where the city-states were located",
+          "choices": [
+            "the Ionian League",
+            "the Achaean League",
+            "the Peloponnesian League",
+            "the Delian League"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Defenders of soil, air, woods, waters & wildlife\" is the compleat motto of the league named for this 17th c. Brit",
+          "choices": [
+            "Thomas Hobbes",
+            "John Locke",
+            "Izaak Walton",
+            "Francis Bacon"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NONFICTION PULITZER WINNERS",
+      "questions": [
+        {
+          "clue": "A 2011 Pulitzer went to \"The Emperor of All Maladies: A Biography of\" this disease",
+          "choices": [
+            "diabetes",
+            "heart disease",
+            "cancer",
+            "tuberculosis"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "2007's winner, \"The Looming Tower\" is subtitled this terrorist group \"and the Road to 9/11\"",
+          "choices": [
+            "ISIS",
+            "Hezbollah",
+            "al-Qaeda",
+            "Al-Shabaab"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This astronomer nabbed the prize in 1978 for \"The Dragons Of Eden\"",
+          "choices": [
+            "Neil deGrasse Tyson",
+            "(Carl) Sagan",
+            "Stephen Hawking",
+            "Carl Linnaeus"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "William Warner's \"Beautiful Swimmers\" is an exploration of the Atlantic blue crab & this bay",
+          "choices": [
+            "the Delaware",
+            "the Chesapeake",
+            "the San Francisco",
+            "the Puget"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Jonathan Weiner told \"The Story of Evolution\" in \"The Beak of\" this bird",
+          "choices": [
+            "the robin",
+            "the eagle",
+            "the finch",
+            "the cardinal"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1944 he said, \"I have returned, by the grace of almighty God, our forces stand again on Philippine soil\"",
+    "choices": [
+      "General Eisenhower",
+      "General Patton",
+      "Admiral Nimitz",
+      "General MacArthur"
+    ],
+    "correctIndex": 3,
+    "category": "QUOTATIONS"
+  },
+  "bonusRound": {
+    "clue": "I'm giving only you the story as this because you're my favorite reporter & also I want it out there & otherwise no one might run it",
+    "choices": [
+      "a scoop",
+      "a leak",
+      "an exclusive",
+      "a tip"
+    ],
+    "correctIndex": 2,
+    "category": "SOLVE FOR \"EX\""
+  }
+}

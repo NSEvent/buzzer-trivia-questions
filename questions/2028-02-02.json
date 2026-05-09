@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-02",
+  "categories": [
+    {
+      "name": "\"K\" MART",
+      "questions": [
+        {
+          "clue": "Running from stem to stern in the bottom of a hull, it's the main structural part of a ship",
+          "choices": [
+            "Keypad",
+            "Keel",
+            "Keystone",
+            "Kestrel"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "After criminal activities by this secret society, Oklahoma was placed under martial law in September 1923",
+          "choices": [
+            "Knights of Columbus",
+            "Ku Klux Order",
+            "Ku Klux Klan",
+            "Kosher Council"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Jewish \"ravioli\" served in soup",
+          "choices": [
+            "kreplach",
+            "kibbeh",
+            "knaidelakh",
+            "kugels"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Called Durobrivae in ancient times, Rochester, England is found in this county where you'll also find Canterbury",
+          "choices": [
+            "Kesteven",
+            "Kincardineshire",
+            "Kirkcudbright",
+            "Kent"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In December of 1991 Nursultan Nazarbayev became this -stan's first democratically elected president",
+          "choices": [
+            "Kyrgyzstan",
+            "Kazakhstan",
+            "Tajikistan",
+            "Turkmenistan"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TOUGH STUFF",
+      "questions": [
+        {
+          "clue": "This Norse word for a fierce warrior is now associated with \"going\" nuts",
+          "choices": [
+            "Berserk",
+            "Frenzy",
+            "Mania",
+            "Rage"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Selections by this French classical composer include \"Tortoises\", \"Aquarium\" & \"The Elephant\"",
+          "choices": [
+            "Camille Saint-Saens",
+            "Gabriel Faur\u00e9",
+            "\u00c9ric Satie",
+            "Claude Debussy"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The languages of Mauritania include Soninke, French & this official one",
+          "choices": [
+            "Hassaniya",
+            "Pulaar",
+            "Arabic",
+            "Wolof"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This publishing company founded in 1939 made Gertrude the Kangaroo its mascot",
+          "choices": [
+            "Pocket Books",
+            "Random House",
+            "Scholastic",
+            "HarperCollins"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This northern Tanzania national park is twice the size of Yellowstone",
+          "choices": [
+            "Kruger",
+            "Serengeti",
+            "Maasai Mara",
+            "Tarangire"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AIRLINE LOGOS",
+      "questions": [
+        {
+          "clue": "A maple leaf in a circle",
+          "choices": [
+            "Air France",
+            "Air New Zealand",
+            "Japan Airlines",
+            "Air Canada"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Its red triangular logo is called a widget",
+          "choices": [
+            "United",
+            "American",
+            "Southwest",
+            "Delta"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "With its domestic & international partners, this airline's route network covers over 300 cities worldwide",
+          "choices": [
+            "United Airlines",
+            "American Airlines",
+            "Southwest Airlines",
+            "Delta Airlines"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 2019 Aer Lingus refreshed this symbol on its logo by giving it a slight backward tilt",
+          "choices": [
+            "a shamrock",
+            "a four-leaf clover",
+            "a harp",
+            "a triskelion"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Celebrating its 33rd anniversary in 2002, this airline's logo is a stylized version of the symbol on its national flag",
+          "choices": [
+            "Korean Air",
+            "Japan Airlines",
+            "Asiana Airlines",
+            "China Eastern"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "William Wrigley, Jr. introduced 2 gum flavors, Wrigley's spearmint & this",
+    "choices": [
+      "Doublemint",
+      "Juicy Fruit",
+      "Fruit Stripe",
+      "Wunder Gum"
+    ],
+    "correctIndex": 1,
+    "category": "1893"
+  }
+}

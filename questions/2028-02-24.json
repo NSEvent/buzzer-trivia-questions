@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-24",
+  "categories": [
+    {
+      "name": "COUNTRY SINGERS",
+      "questions": [
+        {
+          "clue": "\"Skinny\" nickname of Otis Dewey Whitman Jr., who sold millions of albums through TV ads",
+          "choices": [
+            "Little",
+            "Big",
+            "\"Slim\"",
+            "Tiny"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This blonde who was \"Country When Country Wasn't Cool\" has her own Nashville museum",
+          "choices": [
+            "Loretta Lynn",
+            "Dolly Parton",
+            "Barbara Mandrell",
+            "Patsy Cline"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This Texan was just 13 when her hit single \"Delta Dawn\" made her a country star in 1972",
+          "choices": [
+            "Shania Twain",
+            "Reba McEntire",
+            "Tanya Tucker",
+            "Dixie Chicks"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Sex symbol Tom Jones",
+          "choices": [
+            "Scotland",
+            "Ireland",
+            "England",
+            "Wales"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Sade, who's a \"Smooth Operator\"",
+          "choices": [
+            "Ghana",
+            "Kenya",
+            "South Africa",
+            "Nigeria"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ELEMENTAL RHYME TIME",
+      "questions": [
+        {
+          "clue": "A Trotsky noble gas",
+          "choices": [
+            "Leon neon",
+            "Ben boron",
+            "Carl carbon",
+            "Dan neon"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Outgoing & aggressive precious metal",
+          "choices": [
+            "shy silver",
+            "fast iron",
+            "cool copper",
+            "bold gold"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Epidermis of a character in \"The Wizard of Oz\"",
+          "choices": [
+            "wood body",
+            "steel face",
+            "tin skin",
+            "glass heart"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A beverage made with the metal whose principal ore is sphalerite",
+          "choices": [
+            "a lead tea",
+            "a tin soda",
+            "a zinc drink",
+            "a mercury brew"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Putrid aroma from a bluish-white metal",
+          "choices": [
+            "lead rot",
+            "zinc stink",
+            "tin stench",
+            "mercury funk"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "QUEEN VICTORIA",
+      "questions": [
+        {
+          "clue": "The \"Imperial State\" one created for Victoria is now worn by the monarch for state occasions",
+          "choices": [
+            "the sceptre",
+            "the orb",
+            "the ring",
+            "the crown"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This medal was instituted in 1856, retroactive to 1854, but not presented until 1857",
+          "choices": [
+            "the Victoria Cross",
+            "the Distinguished Service Order",
+            "the Albert Medal",
+            "the India General Service Medal"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "While she didn't have symptoms, Victoria was a carrier of this bleeding disorder & passed it on to several children",
+          "choices": [
+            "hemophilia",
+            "hemochromatosis",
+            "von Willebrand disease",
+            "thrombocytopenia"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "During a historic visit to Paris in 1855, Victoria had a meet & greet with this emperor III at the palace of Versailles",
+          "choices": [
+            "Louis-Napoleon Bonaparte",
+            "Maximilian I",
+            "Napoleon III",
+            "Emperor Wilhelm II"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "After attending this Shakespeare comedy, the queen mentioned \"Mendelssohn's beautiful overture\" in her diary",
+          "choices": [
+            "The Merchant of Venice",
+            "Much Ado About Nothing",
+            "A Midsummer Night's Dream",
+            "As You Like It"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"It is the green-eyed Jeopardy! which doth mock the meat it feeds on\"",
+    "choices": [
+      "beast",
+      "demon",
+      "fiend",
+      "monster"
+    ],
+    "correctIndex": 3,
+    "category": "SHAKESPEAREAN JEOPARDY!"
+  }
+}

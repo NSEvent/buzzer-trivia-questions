@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-09",
+  "categories": [
+    {
+      "name": "EMMY-WINNING ROLES",
+      "questions": [
+        {
+          "clue": "Thomas Magnum",
+          "choices": [
+            "(Tom) Hanks",
+            "(Tom) Cruise",
+            "(Tom) Brady",
+            "(Tom) Selleck"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "L.A. detective David Addison",
+          "choices": [
+            "Bruce Dern",
+            "Bruce Willis",
+            "Bruce Campbell",
+            "Bruce Springsteen"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "For 1983-84: John Ritter",
+          "choices": [
+            "Jack Bauer",
+            "Jack Sparrow",
+            "Jack Ryan",
+            "Jack Tripper"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Col. Wilhelm Klink",
+          "choices": [
+            "Werner Klemperer",
+            "Werner Herzog",
+            "Werner Heisenberg",
+            "Werner Erhard"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "For 1967-68: Werner Klemperer",
+          "choices": [
+            "Major Frank Burns",
+            "Captain Borelli",
+            "General Patton",
+            "Colonel Klink"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NICE SIDE WHISKERS!",
+      "questions": [
+        {
+          "clue": "Before becoming a prolific author, he taught biochemistry",
+          "choices": [
+            "(Isaac) Newton",
+            "(Isaac) Asimov",
+            "(Robert) Oppenheimer",
+            "(Linus) Pauling"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "He was both the eighth vice-president and the eighth president",
+          "choices": [
+            "Tyler",
+            "Johnson",
+            "Van Buren",
+            "Fillmore"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Here's this waltz king at around age 50",
+          "choices": [
+            "(Johann) Strauss",
+            "(Franz) Liszt",
+            "(Richard) Wagner",
+            "(Pyotr) Tchaikovsky"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Here's this general late in life, still sporting his signature side whiskers",
+          "choices": [
+            "General Lee",
+            "General Sherman",
+            "General Grant",
+            "General Burnside"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "His long reign over Austria-Hungary ended with his death in 1916",
+          "choices": [
+            "Franz Joseph",
+            "Emperor Franz II",
+            "Tsar Nicholas II",
+            "King George V"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HYPHENATES",
+      "questions": [
+        {
+          "clue": "First drawn between 1763 & 1767, it was extended to present-day West Virginia in 1779",
+          "choices": [
+            "Oregon Trail",
+            "Mason-Dixon Line",
+            "Appalachian Path",
+            "Missouri River"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Corporate creators of Fred Flintstone & Yogi Bear",
+          "choices": [
+            "Walt Disney",
+            "Hanna-Barbera",
+            "Pixar Animation",
+            "DreamWorks"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Ladies this Russian scored with include \"The Snow Maiden\" & \"Scheherazade\"",
+          "choices": [
+            "Tchaikovsky",
+            "Stravinsky",
+            "Mussorgsky",
+            "Rimsky-Korsakov"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This newspaper chain that picked up 39 Pulitzers between 1980 & 1990 had a hyphenectomy in 1997",
+          "choices": [
+            "Gannett",
+            "Knight-Ridder",
+            "Tribune",
+            "Times Mirror"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "After he founded the Boy Scouts, his sister Agnes founded the Girl Guides",
+          "choices": [
+            "Winston Churchill",
+            "Lord Baden-Powell",
+            "Arthur Conan Doyle",
+            "David Lloyd George"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In Britain, Dave Clark's Tottenham Sound competed with the \"Beat\" named for this river that's in a song by Gerry & the Pacemakers",
+    "choices": [
+      "Tyne",
+      "Thames",
+      "Humber",
+      "Mersey"
+    ],
+    "correctIndex": 3,
+    "category": "MUSICAL STYLES"
+  }
+}

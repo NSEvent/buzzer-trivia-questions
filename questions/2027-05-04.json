@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-04",
+  "categories": [
+    {
+      "name": "CLOTHES",
+      "questions": [
+        {
+          "clue": "It's the piece that turns a suit into a 3-piece suit",
+          "choices": [
+            "a tie",
+            "a vest",
+            "a jacket",
+            "a pocket square"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Christian Dior introduced the H-line, the Y-line & in 1955 this flared silhouette",
+          "choices": [
+            "the A-line",
+            "the T-line",
+            "the X-line",
+            "the S-line"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Made from heavier material than a polo, the shirt named for this sport usually has stripes, long sleeves & a white collar",
+          "choices": [
+            "a cricket shirt",
+            "a squash shirt",
+            "a hockey shirt",
+            "a rugby shirt"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Worn with a kimono, its name literally means \"belt\" or \"sash\"",
+          "choices": [
+            "an obi",
+            "a tabi",
+            "a haori",
+            "a geta"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This brand of footed pajamas sounds like it has a medical degree",
+          "choices": [
+            "Dr. Denton",
+            "Dr. Scholl",
+            "Nurse Practitioner",
+            "Med Student"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ON TV",
+      "questions": [
+        {
+          "clue": "Netflix' \"Mindhunter\" is about profilers in this agency in the 1970s",
+          "choices": [
+            "the CIA",
+            "the ATF",
+            "the FBI",
+            "the DEA"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This actor plays Chip, a dropout from French clown college, & his twin brother Dale on \"Baskets\"",
+          "choices": [
+            "Paul Rudd",
+            "Zach Galifianakis",
+            "Bill Hader",
+            "Jesse Eisenberg"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This comedian plays Tig Bavaro, exploring family mystery & history in \"One Mississippi\"",
+          "choices": [
+            "Amy Schumer",
+            "Tina Fey",
+            "Tig Notaro",
+            "Samantha Bee"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "On PBS, Benedict Cumberbatch's brilliant but wacky Sherlock is kept grounded by Dr. Watson, played by this actor",
+          "choices": [
+            "(Lucy) Liu",
+            "(Martin) Freeman",
+            "(Mark) Gatiss",
+            "(Aidan) Turner"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Syfy's creepy anthology series is \"Channel\" this number",
+          "choices": [
+            "Channel Four",
+            "Channel Seven",
+            "Channel Nine",
+            "Channel Zero"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CONQUERORS",
+      "questions": [
+        {
+          "clue": "Now thought to be a dwarf, this \"Scourge of God\" was the most feared Hun of all",
+          "choices": [
+            "Attila",
+            "Genghis",
+            "Attilus",
+            "Bleda"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Macedonian who lamented there was nothing left to conquer, he died in Babylon at 33",
+          "choices": [
+            "Julius Caesar",
+            "Alexander the Great",
+            "Genghis Khan",
+            "Cyrus the Great"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The last stronghold of the Moors in Spain, it was conquered by Ferdinand & Isabella in 1492",
+          "choices": [
+            "Seville",
+            "Granada",
+            "Toledo",
+            "Cordoba"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Known as the liberator of this country, Bernardo O' Higgins lived his last years exiled from it",
+          "choices": [
+            "Peru",
+            "Argentina",
+            "Chile",
+            "Brazil"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This \"Great\" founder of the Persian Empire conquered Babylon in 539 B.C. & freed the Jewish captives",
+          "choices": [
+            "Darius",
+            "Cyrus (the Great)",
+            "Xerxes",
+            "Cambyses"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In \"The Way of All Flesh\", S. Butler says spring, like this time of life, is an overpraised season",
+    "choices": [
+      "youth",
+      "middle age",
+      "old age",
+      "childhood"
+    ],
+    "correctIndex": 0,
+    "category": "SPRING"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-02",
+  "categories": [
+    {
+      "name": "BALLERINAS",
+      "questions": [
+        {
+          "clue": "Lucile Grahn choreographed the Bacchanal in this composer's opera \"Tannhauser\"",
+          "choices": [
+            "Giuseppe Verdi",
+            "Pyotr Ilyich Tchaikovsky",
+            "Richard Wagner",
+            "Johann Strauss II"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Suzanne Farrell has been called the \"muse\" of this late choreographer known as \"Mr. B.\"",
+          "choices": [
+            "Mikhail Fokine",
+            "George Balanchine",
+            "Rudolf Nureyev",
+            "Jerome Robbins"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In her native Leningrad she was nicknamed \"The Giraffe\"; maybe that's why she defected",
+          "choices": [
+            "Misty Copeland",
+            "Anna Pavlova",
+            "Natalia Makarova",
+            "Galina Ulanova"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Herbert Ross directed his goddaughter, Leslie Browne, to an Oscar nomination in this 1977 ballet film",
+          "choices": [
+            "Black Swan",
+            "The Turning Point",
+            "White Balloon",
+            "Dancer in the Dark"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"Dancing on My Grave\" & \"The Shape of Love\" are autobiographical works by this New York City ballet dancer",
+          "choices": [
+            "Gelsey Kirkland",
+            "Mikhail Baryshnikov",
+            "Margot Fonteyn",
+            "Svetlana Zakharova"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GET TO THE POINT",
+      "questions": [
+        {
+          "clue": "Colombia's Point Gallinas, the northernmost part of mainland South America, juts into this sea",
+          "choices": [
+            "the Atlantic Ocean",
+            "the Pacific Ocean",
+            "the Gulf of Mexico",
+            "the Caribbean Sea"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Adjective describing a rosebush, or a nickname of Ozzie Nelson's neighbor played by Don Defore",
+          "choices": [
+            "thorny",
+            "prickly",
+            "spiky",
+            "jagged"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Further from land than anywhere else on Earth, a South Pacific spot is called Point this, after a fictional captain",
+          "choices": [
+            "Nebuchadnezzar",
+            "Nemo",
+            "Nebula",
+            "Nimbus"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Head north to Alaska, then keep heading north & you'll hit this northernmost point in the state",
+          "choices": [
+            "Kaktovik",
+            "Point Barrow",
+            "Wainwright",
+            "Utqiagvik"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "According to King Lear, to have a thankless child is sharper than one of these",
+          "choices": [
+            "a viper's sting",
+            "a serpent's tooth",
+            "a scorpion's tail",
+            "a dragon's claw"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE MIDWEST",
+      "questions": [
+        {
+          "clue": "State where you can visit the American Swedish Institute, in the mansion built by immigrant Swan Turnblad",
+          "choices": [
+            "Wisconsin",
+            "Illinois",
+            "Minnesota",
+            "Iowa"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "From around 1885 to 1910 the political machine of George \"Boss\" Cox ran this southern Ohio metropolis",
+          "choices": [
+            "Dayton",
+            "Cleveland",
+            "Toledo",
+            "Cincinnati"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The people of this Indiana city call themselves Hauteans",
+          "choices": [
+            "Terre Haute",
+            "New Harmony",
+            "Vincennes",
+            "Carmel"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Mimicking the name of a prehistoric site in England, this monument is just outside of Alliance, Nebraska, along Highway 87",
+          "choices": [
+            "Carhenge",
+            "Carthage",
+            "Carlsbad",
+            "Cahokia"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Tonka Toys got their name from this lake, one of the largest in the Land of 10,000 Lakes",
+          "choices": [
+            "Superior",
+            "Itasca",
+            "Leech",
+            "Minnetonka"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Sgt. Preston worked for the Northwest Mounted Police; Inspector Renfrew worked for this later version",
+    "choices": [
+      "Royal Canadian Mounted Police",
+      "Mountie Security Services",
+      "Frontier Constabulary",
+      "Northern Guard Corps"
+    ],
+    "correctIndex": 0,
+    "category": "OLD-TIME RADIO"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-03",
+  "categories": [
+    {
+      "name": "ANAGRAMMED FOOD & DRINK",
+      "questions": [
+        {
+          "clue": "When I'm in a slump, these purple fruits perk me up",
+          "choices": [
+            "lumps",
+            "slums",
+            "clums",
+            "plums (from slump)"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "There is nothing like a dame who drinks this liquor made by fermenting honey & water",
+          "choices": [
+            "mead",
+            "beam",
+            "dame",
+            "ream"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Put on your cords & munch on this Boston fish",
+          "choices": [
+            "drops",
+            "lords",
+            "scrod",
+            "sword"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A martini ingredient: HUT MOVER",
+          "choices": [
+            "vermouth",
+            "veteran",
+            "rebuttal",
+            "traveller"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "When you boil this frilly-leafed green veggie, don't let the liquid leak out of the pot",
+          "choices": [
+            "kale",
+            "cabbage",
+            "lettuce",
+            "spinach"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WORDS OF THE '60s",
+      "questions": [
+        {
+          "clue": "To talk freely & frankly, or H. Brown's \"middle name\"",
+          "choices": [
+            "talk",
+            "rap",
+            "chat",
+            "speech"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Term for those who rode buses to test integration in interstate travel",
+          "choices": [
+            "\"Freedom Fighters\"",
+            "\"Freedom Riders\"",
+            "\"Peace Walkers\"",
+            "\"Civil Rights Marchers\""
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In '60s slang a wahine was a young woman who participated in this sport",
+          "choices": [
+            "Skiing",
+            "Diving",
+            "Skating",
+            "Surfing"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "An emotional problem or inhibition, or what you do if a phone call bums you out",
+          "choices": [
+            "hangover",
+            "hangtough",
+            "hangup",
+            "hangar"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Precedes \"wasted\", \"down\" & \"your act together\"",
+          "choices": [
+            "stay",
+            "keep",
+            "get",
+            "put"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AMERICAN SONGS",
+      "questions": [
+        {
+          "clue": "According to the minstrel song, \"There'll be\" one of these \"in the old town tonight\"",
+          "choices": [
+            "a good time",
+            "a hot meal",
+            "a hot time",
+            "a loud noise"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This plaintive Civil War song is sometimes called \"Tenting Tonight\"",
+          "choices": [
+            "\"Dixie\"",
+            "\"The Battle Cry of Freedom\"",
+            "\"Tenting on the Old Camp Ground\"",
+            "\"John Brown's Body\""
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The song \"On the Beach at\" this place, which became a stateside standard, was first published in Honolulu in 1915",
+          "choices": [
+            "Maui",
+            "Oahu",
+            "Waikiki",
+            "Kauai"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Undistinguished congressman Joseph Hopkinson is remembered for writing \"Hail\" this, now the VP's intro music",
+          "choices": [
+            "America",
+            "Liberty",
+            "Union",
+            "Columbia"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In this 1938 song the title line is followed by \"Where you're terrific if you're even good\"",
+          "choices": [
+            "Hello Hollywood",
+            "\"Hooray for Hollywood\"",
+            "Hail Hollywood",
+            "Hurrah for Hollywood"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Melvin Laird, Elliot Richardson & James Schlesinger",
+    "choices": [
+      "Lyndon Johnson",
+      "Gerald Ford",
+      "Richard Nixon",
+      "Jimmy Carter"
+    ],
+    "correctIndex": 2,
+    "category": "SECRETARIES OF DEFENSE"
+  }
+}

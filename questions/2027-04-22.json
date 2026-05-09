@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-22",
+  "categories": [
+    {
+      "name": "SHIPS & BOATS",
+      "questions": [
+        {
+          "clue": "It was the first nuclear-powered submarine to sail under the North Pole",
+          "choices": [
+            "the Triton",
+            "the Seawolf",
+            "the Nautilus",
+            "the Thresher"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1904 the Supreme Court said this type of boat is \"a continuation of the highway from one side of the water... to the other\"",
+          "choices": [
+            "a tug",
+            "a barge",
+            "a ferry",
+            "a liner"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It was the name of Aristotle Onassis' famous yacht",
+          "choices": [
+            "the Athena",
+            "the Christina",
+            "the Olympiad",
+            "the Meridian"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The world's largest cruise ship, this company's Wonder of the Seas, debuted in 2022 with a voyage from Florida to the Bahamas (of course)",
+          "choices": [
+            "Carnival Cruise Line",
+            "Norwegian Cruise Line",
+            "Royal Caribbean",
+            "Princess Cruises"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "We wonder how many miles the Spanish got to one of these 16th century treasure ships",
+          "choices": [
+            "a galleon",
+            "a caravel",
+            "a dinghy",
+            "a sloop"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SCIENCE FAIR",
+      "questions": [
+        {
+          "clue": "Viki's samples from the locker room floor showed how the trichophyton fungi caused this \"sporty\" condition",
+          "choices": [
+            "Jock itch",
+            "Ringworm",
+            "Athlete's knee",
+            "Athlete's foot"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Ohm's law, V = IR, states that potential difference equals current times resistance; the V is short for this",
+          "choices": [
+            "velocity (meters per second accepted)",
+            "voltage (volts accepted)",
+            "volume (liters accepted)",
+            "viscosity (poise accepted)"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "These organs of locomotion, from the Greek for \"false feet\", also enable amoebas to surround & take in food",
+          "choices": [
+            "pseudopods",
+            "flagella",
+            "cilia",
+            "pseudopodia"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Arvid's diorama on the history of these included the following symbols (V, for example)",
+          "choices": [
+            "Letters",
+            "Numbers",
+            "Shapes",
+            "Colors"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The duodenum, jejunum & ileum are 3 parts of this",
+          "choices": [
+            "the large intestine",
+            "the stomach",
+            "the esophagus",
+            "the small intestine"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "7 WONDERS",
+      "questions": [
+        {
+          "clue": "Giza's great graves",
+          "choices": [
+            "the Hanging Gardens",
+            "the Colossus",
+            "the Statue of Zeus",
+            "the Pyramids"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The only 1 of the 7 Wonders of the Ancient World that had a fire going at the top of it",
+          "choices": [
+            "the Colossus of Rhodes",
+            "the Temple of Artemis",
+            "the Lighthouse at Alexandria",
+            "the Statue of Zeus"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "If you were \"as rich as\" this king, you could help fund a Temple of Artemis just like he did",
+          "choices": [
+            "Cyrus",
+            "Xerxes",
+            "Croesus",
+            "Darius"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Ancient pictures show this statue astride the harbor's entrance, ships passing under its legs",
+          "choices": [
+            "the Lighthouse of Alexandria",
+            "the Temple of Artemis",
+            "the Colossus of Rhodes",
+            "the Hanging Gardens"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The French & Spanish caves containing these are listed not as ancient, but natural wonders",
+          "choices": [
+            "petroglyphs",
+            "rock art",
+            "cave drawings",
+            "cave paintings"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In a book by Frances Hodgson Burnett, Mary Lennox finds a key that she hopes will open this title place",
+    "choices": [
+      "The Little Princess",
+      "The Secret Garden",
+      "A Little Princess",
+      "The Magic Garden"
+    ],
+    "correctIndex": 1,
+    "category": "SECRETS"
+  }
+}

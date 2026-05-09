@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-03",
+  "categories": [
+    {
+      "name": "\"HEART\"Y PHRASES",
+      "questions": [
+        {
+          "clue": "While ruling England from 1189 to 1199, he spent only a total of about 6 months there due to the Crusades",
+          "choices": [
+            "Richard the Lionheart",
+            "John Lackland",
+            "Henry II Plantagenet",
+            "Edward the Confessor"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Jesus said, \"Blessed are\" these \"for they shall see God\"",
+          "choices": [
+            "the peacemakers",
+            "the pure of heart",
+            "the poor in spirit",
+            "the meek"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Meaning \"be merciful\", it's used in response to a harsh demand",
+          "choices": [
+            "have some mercy",
+            "have a heart",
+            "show some compassion",
+            "have a little pity"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "About 2,000 years ago, Sextus Propertius wrote that \"absence\" does this",
+          "choices": [
+            "fuels the passion",
+            "grows the love stronger",
+            "deepens the affection",
+            "makes the heart grow fonder"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "19th century writer, Fanny Fern was the first to say it's through his stomach",
+          "choices": [
+            "the way to a man's soul",
+            "the path to a man's love",
+            "the road to a man's home",
+            "the way to a man's heart"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HERO SANDWICH",
+      "questions": [
+        {
+          "clue": "This hero of WWII was the \"Lion of Luzon\", but on Bataan he was known as \"Dugout Doug\"",
+          "choices": [
+            "Roosevelt",
+            "MacArthur",
+            "Eisenhower",
+            "Marshall"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "For his leadership that resulted in final victory, General Ulysses S. Grant was known as \"The Hero of\" this location",
+          "choices": [
+            "Gettysburg",
+            "Antietam",
+            "Vicksburg",
+            "Appomattox"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This title swashbuckling hero rescues aristocrats during the French Revolution in an Orczy work",
+          "choices": [
+            "the Scarlet Pimpernel",
+            "the Count of Monte Cristo",
+            "the Three Musketeers",
+            "the Man in the Iron Mask"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Law west of the _____ _____ Moyers",
+          "choices": [
+            "Davy Crockett",
+            "Pecos Bill",
+            "Daniel Boone",
+            "Jesse James"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "A 15th century poem by a guy known as Blind Harry is the main source for the life of this Scottish hero",
+          "choices": [
+            "William Wallace",
+            "Robert the Bruce",
+            "Mary Queen of Scots",
+            "Robert Burns"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ANIMAL, VEGETABLE OR MINERAL",
+      "questions": [
+        {
+          "clue": "The European this bird, also known as the redbreast, sings all year; its spring song is more powerful & upbeat",
+          "choices": [
+            "a sparrow",
+            "a thrush",
+            "a wren",
+            "a robin"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Springhaas",
+          "choices": [
+            "vegetable",
+            "mineral",
+            "animal",
+            "fungus"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Its colorful iridescence, like in certain feathers, give the mineral bornite the nickname this bird ore",
+          "choices": [
+            "flamingo",
+            "hummingbird",
+            "peacock",
+            "jay"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A bit underappreciated, it's good for you, it can be eaten raw or cooked & its flavor is comparable to anise or licorice",
+          "choices": [
+            "anise",
+            "fennel",
+            "dill",
+            "parsley"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The pygmy type of this small monkey lives in the rainforests of South America",
+          "choices": [
+            "a marmoset",
+            "tamarin",
+            "squirrel monkey",
+            "capuchin"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Topped a year-round ski slope, CopenHill is a waste-to-energy plant in this European nation",
+    "choices": [
+      "Sweden",
+      "Denmark",
+      "Norway",
+      "Finland"
+    ],
+    "correctIndex": 1,
+    "category": "SCIENCE & TECHNOLOGY"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-24",
+  "categories": [
+    {
+      "name": "OLD TESTAMENT WOMEN",
+      "questions": [
+        {
+          "clue": "She was offered 1,100 pieces of silver from each Philistine lord for help in defeating Samson",
+          "choices": [
+            "Ruth",
+            "Naomi",
+            "Delilah",
+            "Bathsheba"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In chapter 2 of the book named for her, she became queen of Persia",
+          "choices": [
+            "Esther",
+            "Deborah",
+            "Jael",
+            "Miriam"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The name of this wicked idol worshipper is often applied to a shameful seductress",
+          "choices": [
+            "Delilah",
+            "Jezebel",
+            "Athaliah",
+            "Ezra"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Ms. Winfrey was supposed to be called this, after a Moabite woman in the book of Ruth",
+          "choices": [
+            "Ruth",
+            "Naomi",
+            "Boaz",
+            "Orpah"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The victory song of Aaron & this sister of Moses at the Red Sea is one of the earliest pieces of Hebrew literature",
+          "choices": [
+            "Miriam",
+            "Sarah",
+            "Rebekah",
+            "Ruth"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TV CASTS",
+      "questions": [
+        {
+          "clue": "Jeff Probst, 16 or so people in the middle of nowhere",
+          "choices": [
+            "Lost",
+            "The Amazing Race",
+            "Alone",
+            "Survivor"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Donald Trump, 18 people in the middle of New York City",
+          "choices": [
+            "The Apprentice",
+            "The Celebrity Apprentice",
+            "Shark Tank",
+            "The Bachelor"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Dax Shepard, Al Shearer, Ashton Kutcher",
+          "choices": [
+            "Jackass",
+            "Chappelle's Show",
+            "Punk'd",
+            "MTV Cribs"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Veronica Hamel, Betty Thomas, Daniel J. Travanti",
+          "choices": [
+            "St. Elsewhere",
+            "Hill Street Blues",
+            "NYPD Blue",
+            "Homicide: Life on the Street"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Danny DeVito, Rob McElhenney, Kaitlin Olson",
+          "choices": [
+            "The Office",
+            "Community",
+            "It's Always Sunny in Philadelphia",
+            "30 Rock"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOW INVENTIVE!",
+      "questions": [
+        {
+          "clue": "(Sarah of the Clue Crew demonstrates.) Mirrors placed at 60 or 45 degree angles are key to this optical device invented in 1816 by British physicist Sir David Brewster",
+          "choices": [
+            "a periscope",
+            "a telescope",
+            "a kaleidoscope",
+            "a microscope"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This inventor's name is spelled out here",
+          "choices": [
+            "Alexander Graham Bell",
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Samuel Morse"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This guitarist invented multi-track recording techniques & was the 2nd half of \"Chester & Lester\" (Chester was Chet Atkins)",
+          "choices": [
+            "Eddie Van Halen",
+            "Jimi Hendrix",
+            "Les Paul",
+            "Stevie Ray Vaughan"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Dean Kamen left college without a degree but invented the Segway & a portable machine for this kidney-assisting process",
+          "choices": [
+            "dialysate",
+            "dialyzers",
+            "dialysis",
+            "dialyzed"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Don't fear the mechanical this, patented by National Inventors Hall of Famer Cyrus McCormick in 1834",
+          "choices": [
+            "reaper",
+            "plow",
+            "threshing machine",
+            "cotton gin"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1505 this writer established a Florentine militia",
+    "choices": [
+      "Machiavelli",
+      "Leonardo da Vinci",
+      "Dante Alighieri",
+      "Galileo Galilei"
+    ],
+    "correctIndex": 0,
+    "category": "DAYS OF YORE"
+  }
+}

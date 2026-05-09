@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-06",
+  "categories": [
+    {
+      "name": "EVERYDAY SCIENCE",
+      "questions": [
+        {
+          "clue": "When we used to say \"fill it up with ethyl\", the ethyl was this in premium gasoline",
+          "choices": [
+            "lead",
+            "octane",
+            "gasoline",
+            "additive"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "If these are still in your woolens after 6 months, the naphthalene has not yet turned into a gas",
+          "choices": [
+            "mothballs",
+            "pesticides",
+            "pest control",
+            "repellents"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "His second law, force equals mass times acceleration, is demonstrated when you push a child on a swing",
+          "choices": [
+            "Einstein",
+            "Newton",
+            "Hawking",
+            "Galileo"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Blisters can be caused by this resistance to motion between surfaces, from the Latin for \"to rub\"",
+          "choices": [
+            "tension",
+            "pressure",
+            "friction",
+            "gravity"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "(Kelly sends a Slinky down some blocks.) At rest, a Slinky has potential energy, which is converted to this type of energy as it makes its descent",
+          "choices": [
+            "thermal",
+            "potential",
+            "nuclear",
+            "kinetic"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DING DONG",
+      "questions": [
+        {
+          "clue": "In 1967 this company introduced its chocolate-covered Ding Dong snack cakes",
+          "choices": [
+            "Oscar Mayer",
+            "Keebler",
+            "Little Debbie",
+            "Hostess"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "4-word title of the Barry Mann song that asks, \"Who put the ram in the rama lama ding dong?\"",
+          "choices": [
+            "\"Who Put The Beef\"",
+            "\"Who Put The Bats\"",
+            "\"Who Put The Boom\"",
+            "\"Who Put The Bomp\""
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In a song from this musical, \"We go together like rama lama lama ka dinga da dinga dong\"",
+          "choices": [
+            "Grease",
+            "Hairspray",
+            "Rent",
+            "Jersey Boys"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This children's song says, \"Morning bells are ringing, ding dong ding, ding dong ding\"",
+          "choices": [
+            "Twinkle Twinkle",
+            "Row Row Your Boat",
+            "Hot Cross Buns",
+            "\"Fr\u00e8re Jacques\""
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Ding-Dongs is another alliterative term for these flared pants popular in the '60s & '70s",
+          "choices": [
+            "Flare Pants",
+            "Wide Legs",
+            "Boot Cuts",
+            "Bell Bottoms"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ROCK ME",
+      "questions": [
+        {
+          "clue": "In 1999 he hit the road with his E Street Band in their first major tour in over a decade",
+          "choices": [
+            "Bruce Springsteen",
+            "Steven Tyler",
+            "Billy Joel",
+            "Mick Jagger"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Stalactites & stalagmites are formed primarily in caves of this \"stone\"",
+          "choices": [
+            "Sandstone",
+            "Limestone",
+            "Granite",
+            "Marble"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A huge boot-shaped rock is one of the formations on the promontory of Northern Ireland called \"The Giant's\" this",
+          "choices": [
+            "Highland",
+            "Passage",
+            "Causeway",
+            "Gateway"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It's molten rock below ground",
+          "choices": [
+            "Lava",
+            "Magma",
+            "Ash",
+            "Ember"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Though steeped in history, it's really a bit underwhelming when you see it",
+          "choices": [
+            "Liberty Bell",
+            "Independence Hall",
+            "Plymouth Rock",
+            "Boston Tea Party"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A thingamajig; its usage dates back 100 years",
+    "choices": [
+      "a doohickey",
+      "a whatchamacallit",
+      "a thingamabob",
+      "a gizmo"
+    ],
+    "correctIndex": 0,
+    "category": "\"KEY\" WORDS & PHRASES"
+  }
+}

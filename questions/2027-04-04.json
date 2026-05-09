@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-04",
+  "categories": [
+    {
+      "name": "RHYMES WITH TEEN",
+      "questions": [
+        {
+          "clue": "Spotless or pristine",
+          "choices": [
+            "green",
+            "clean",
+            "mean",
+            "keen"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A hereditary unit",
+          "choices": [
+            "scene",
+            "a gene",
+            "teen",
+            "queen"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A spongy organ near your stomach",
+          "choices": [
+            "a spleen",
+            "skein",
+            "gleam",
+            "queen"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Just one Boston baked veggie",
+          "choices": [
+            "Bean",
+            "Peen",
+            "Been",
+            "Lean"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Noor, to her Jordanian subjects",
+          "choices": [
+            "Mean",
+            "Clean",
+            "Queen",
+            "Green"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MUSIC OF THE '60s",
+      "questions": [
+        {
+          "clue": "In 1969 \"Something\" became the only No. 1 hit he composed for The Beatles",
+          "choices": [
+            "John Lennon",
+            "Paul McCartney",
+            "Ringo Starr",
+            "George Harrison"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Marvin Gaye's first No. 1 hit, it got new life when it was used in a commercial for California raisins in the 1980s",
+          "choices": [
+            "What's Going On",
+            "Mercy Mercy Me",
+            "\"I Heard It Through The Grapevine\"",
+            "Sexual Healing"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This Aretha Franklin song says, \"For five long years I thought you were my man but I found out I'm just a link in your chain\"",
+          "choices": [
+            "Respect",
+            "Natural Woman",
+            "\"Chain Of Fools\"",
+            "Think"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This top 5 hit by The Mamas & The Papas was written on a cold winter night in Manhattan",
+          "choices": [
+            "Blue Moon",
+            "Eve of Destruction",
+            "\"California Dreamin'\"",
+            "California Nights"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The Sherman brothers of Disney fame wrote this song of young love that mentions \"peaches & cream\" & \"lips like strawberry wine\"",
+          "choices": [
+            "Young Love",
+            "Sixteen Candles",
+            "Pepperland",
+            "\"You're Sixteen\""
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "I MYTH YOU",
+      "questions": [
+        {
+          "clue": "This Norse trickster god directed the blind Hodur's mistletoe toss that got Balder dashed",
+          "choices": [
+            "Loki",
+            "Odin",
+            "Thor",
+            "Freya"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Don't confuse this Egyptian mother goddess, sister & consort of Osiris, with a Mideast terrorist group of the same name",
+          "choices": [
+            "Isis",
+            "Hathor",
+            "Bastet",
+            "Maat"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Also the name of a city in Arizona, this mythical bird dies in a fire & is reborn from the ashes",
+          "choices": [
+            "the Griffin",
+            "the Roc",
+            "the Thunderbird",
+            "the Phoenix"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "For 14th century Aztecs, this god was the patron of priests & inventor of the calendar",
+          "choices": [
+            "Huitzilopochtli",
+            "Quetzalcoatl",
+            "Tlaloc",
+            "Mictlantecuhtli"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Let's drink to the Greeks, who dedicated the Great Theater in Athens to this god, Bacchus' alter ego",
+          "choices": [
+            "Apollo",
+            "Ares",
+            "Hermes",
+            "Dionysus"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1803 this erotic author was incarcerated for the last time in the Charenton Asylum",
+    "choices": [
+      "the Duke de Richelieu",
+      "the Chevalier de Faublas",
+      "the Marquis de Sade",
+      "the Comte de Saint-Germain"
+    ],
+    "correctIndex": 2,
+    "category": "THE EARLY 1800s"
+  }
+}

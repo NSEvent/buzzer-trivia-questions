@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-17",
+  "categories": [
+    {
+      "name": "SPORTS QUOTES",
+      "questions": [
+        {
+          "clue": "Celebrated Notre Dame football coach who asked team to \"win one for the Gipper\"",
+          "choices": [
+            "Knute Rockne",
+            "Bear Bryant",
+            "Woody Hayes",
+            "Amos Alonzo Stagg"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Asked about his golf game after leaving the White House, this 34th Pres. said that \"a lot more people beat me now\"",
+          "choices": [
+            "Roosevelt",
+            "Taft",
+            "Harding",
+            "Eisenhower"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Ike Taylor of this Bill Cowher-coached NFL team said, \"You only get a once-in-a-lifetime opportunity so many times\"",
+          "choices": [
+            "Pittsburgh Steelers",
+            "Dallas Cowboys",
+            "Philadelphia Eagles",
+            "Washington Redskins"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Meeting Joe Garagiola Jr., this ex-president said, \"I'm always suspicious of guys who've got a famous father\"",
+          "choices": [
+            "George Walker Bush",
+            "Bill Clinton",
+            "Jimmy Carter",
+            "Lyndon Johnson"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Vince Lombardi declared that \"Winning isn't everything, it's\" this",
+          "choices": [
+            "the only thing",
+            "everything",
+            "the key",
+            "all that matters"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WORLD PRESS",
+      "questions": [
+        {
+          "clue": "The Halifax Herald",
+          "choices": [
+            "United States",
+            "Canada",
+            "United Kingdom",
+            "Australia"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Now available around the world, this paper grew out of the N.Y. Herald's Paris edition",
+          "choices": [
+            "The International Herald Tribune",
+            "The Washington Post International",
+            "The Global Times",
+            "The International New York Times"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Xinhua, China's news agency, was founded by this political party",
+          "choices": [
+            "Communist Party",
+            "Nationalist Party",
+            "KMT",
+            "Sun Yat-sen"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It's the length of time between issues of Germany's news magazine Der Spiegel",
+          "choices": [
+            "One month",
+            "One day",
+            "One week",
+            "One year"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "El Periodico de Catalunya is the second-largest newspaper serving this second-largest Spanish city",
+          "choices": [
+            "Madrid",
+            "Barcelona",
+            "Valencia",
+            "Seville"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "X, Y, & Z",
+      "questions": [
+        {
+          "clue": "To the Air Force, it's wild & blue",
+          "choices": [
+            "the beyond",
+            "the forever",
+            "the yonder",
+            "the endless"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Where the Village People told young men to go in '79",
+          "choices": [
+            "the YMHA",
+            "the JCC",
+            "the YWCA",
+            "the YMCA"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "1972 love triangle starring Elizabeth Taylor, Michael Caine & Susannah York",
+          "choices": [
+            "A, B, & C",
+            "Q, R, & S",
+            "P, Q, & R",
+            "XYZ"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The woody element of a plant that acts as a conductor of water",
+          "choices": [
+            "a phloem",
+            "a cambium",
+            "a parenchyma",
+            "a xylem"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The case of Baby Fae brought this new English word for a cross-species transplant into the news",
+          "choices": [
+            "an allograft",
+            "an autograft",
+            "isograft",
+            "a xenograft"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Agrippina's kid, this wacky (OK, unbalanced) emperor was killed in 41 A.D., & Uncle Claudius took over",
+    "choices": [
+      "Nero",
+      "Otho",
+      "Vitellius",
+      "Caligula"
+    ],
+    "correctIndex": 3,
+    "category": "OF THE ROMAN EMPIRE"
+  }
+}

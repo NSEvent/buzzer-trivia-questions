@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-30",
+  "categories": [
+    {
+      "name": "WEBCAMS",
+      "questions": [
+        {
+          "clue": "In April of 2011, people set their browsers to watch these baby birds hatch in Decorah, Iowa",
+          "choices": [
+            "golden eagles",
+            "peregrine falcons",
+            "red-tailed hawks",
+            "bald eagles"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Target Field in this city has a webcam\u2014only serious Twins fans are watching in January",
+          "choices": [
+            "St. Paul",
+            "Chicago",
+            "Milwaukee",
+            "Minneapolis"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This 5:30 PM footage that might want to make you work late is from Caltrans, short for this state government department",
+          "choices": [
+            "the Oregon Department of Transportation",
+            "the Nevada Department of Transportation",
+            "the California Department of Transportation",
+            "the Arizona Department of Transportation"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Looking at a webcam, you can always answer the question in \"The Merchant of Venice\", \"what news on\" this bridge?",
+          "choices": [
+            "the Thames",
+            "the Seine",
+            "the Ponte Vecchio",
+            "the Rialto"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "You might want to keep an eye on the webcam of this volcano next to Mauna Loa; it's the world's most active",
+          "choices": [
+            "Mauna Kea",
+            "Mount St. Helens",
+            "Mount Fuji",
+            "Kilauea"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LET'S PLAY POKER",
+      "questions": [
+        {
+          "clue": "Traditionally, the dealer deals the cards in this direction",
+          "choices": [
+            "counter-clockwise",
+            "clockwise and counter-clockwise",
+            "clockwise",
+            "dealt to the left"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "It's the regal name for a ten, jack, queen, king & ace all of one suit",
+          "choices": [
+            "a straight flush",
+            "four of a kind",
+            "a royal flush",
+            "a full house"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In June of 2004 this star of \"Hollywoodland\" won the California State Poker Tourney & pocketed $356,000",
+          "choices": [
+            "Matt Damon",
+            "Ben Affleck",
+            "George Clooney",
+            "Brad Pitt"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The main event of the World Series of Poker is the game called \"Texas\" this",
+          "choices": [
+            "Omaha Hi-Lo",
+            "Seven-Card Stud",
+            "Five-Card Draw",
+            "Texas Hold 'Em"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The biggest annual poker game there is, it's held at the Horseshoe in Las Vegas each spring",
+          "choices": [
+            "the World Series of Poker",
+            "the World Poker Tour",
+            "the PokerStars Championship",
+            "the Wynn Millions"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"WILD\" MOVIES",
+      "questions": [
+        {
+          "clue": "Kevin Kline was the gadget-loving 1860s government agent Artemus Gordon in this film based on a TV show",
+          "choices": [
+            "Wild Hogs",
+            "Wild Card",
+            "Wild River",
+            "Wild Wild West"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Sam Peckinhah's classic 1969 Western about a gang of aging outlaws",
+          "choices": [
+            "The Wild Bunch",
+            "The Wild One",
+            "Pale Rider",
+            "Butch Cassidy and the Sundance Kid"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Goldie Hawn coached a high school football team in this 1986 film",
+          "choices": [
+            "Varsity",
+            "Trophies",
+            "Wildcats",
+            "Spartans"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Meryl Streep needed a lot more than one degree of separation from Kevin Bacon on the water in this movie",
+          "choices": [
+            "Riverdance",
+            "Riverworld",
+            "Riverboat",
+            "The River Wild"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Hushpuppy deals with some prehistoric creatures called aurochs in this 2012 drama set in the delta",
+          "choices": [
+            "Giants of the North",
+            "Beasts of the Southern Wild",
+            "Creatures of the Bayou",
+            "Monsters of the Delta"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This hot state inspired the name of John Ferolito & Don Vultaggio's beverage company that's known for its iced tea",
+    "choices": [
+      "Nevada",
+      "Arizona",
+      "Texas",
+      "Florida"
+    ],
+    "correctIndex": 1,
+    "category": "FOOD & DRINK BRANDS"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-19",
+  "categories": [
+    {
+      "name": "LATIN AMERICAN HISTORY",
+      "questions": [
+        {
+          "clue": "In 1903 the U.S. signed a treaty with Cuba for the rights to establish a naval base at this site",
+          "choices": [
+            "Havana Harbor",
+            "Cienfuegos",
+            "Guantanamo Bay",
+            "Santiago de Cuba"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "General Alfredo Stroessner ruled this South American country with an iron hand for 35 years, 1954-1989",
+          "choices": [
+            "Chile",
+            "Bolivia",
+            "Paraguay",
+            "Uruguay"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The 1881 addition of this region stretching south from Argentina's Colorado River expanded the nation's territory",
+          "choices": [
+            "Patagonia",
+            "Chaco",
+            "Pampas",
+            "Gran Chaco"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In 1862 Great Britain formally took control of this country, then called British Honduras",
+          "choices": [
+            "Guatemala",
+            "Honduras",
+            "El Salvador",
+            "Belize"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "It's the Spanish acronym for the Revolutionary Armed Forces of Colombia, battling the government since 1964",
+          "choices": [
+            "ELN",
+            "FARC",
+            "M-19",
+            "Narcos"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LETTERS",
+      "questions": [
+        {
+          "clue": "The major blood types are represented by these 3 letters",
+          "choices": [
+            "A, B & AB",
+            "A, O & AB",
+            "A, B & O",
+            "A, B & B"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "It stands for a metric unit equal to about a quarter gallon",
+          "choices": [
+            "L (liter)",
+            "G (gallon)",
+            "L (litre)",
+            "O (ounce)"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Having completed his dictionary, he spurned Lord Chesterfield's belated offer of patronage in a 1755 letter",
+          "choices": [
+            "Samuel Taylor",
+            "Samuel Pepys",
+            "Samuel Coleridge",
+            "Samuel Johnson"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Letters of marque give private citizens the right to be corsairs, seizing the merchant these of another nation",
+          "choices": [
+            "ships",
+            "airplanes",
+            "trucks",
+            "bicycles"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1897 she wrote, \"Dear Editor: I am 8 years old. Some of my little friends say there is no Santa Claus\"",
+          "choices": [
+            "Clara",
+            "Susan",
+            "Mary",
+            "Virginia"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE HEART",
+      "questions": [
+        {
+          "clue": "This explosive is used to reduce the chest pains called angina pectoris",
+          "choices": [
+            "aspirin",
+            "ibuprofen",
+            "nitroglycerin",
+            "acetaminophen"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The lower chamber on each side of the heart",
+          "choices": [
+            "the ventricle",
+            "the atrium",
+            "the septum",
+            "the valve"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In coronary angioplasty, this is used to open clogged arteries",
+          "choices": [
+            "a balloon",
+            "a stent",
+            "a catheter",
+            "a laser"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The 4 heart valves are the tricuspid, the aortic, the pulmonic & this one",
+          "choices": [
+            "the mitral valve",
+            "the aortic valve",
+            "the tricuspid valve",
+            "the bicuspid (mitral)"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The myocardium, or heart muscle, is covered by this thin sac",
+          "choices": [
+            "the epicardium",
+            "the pericardium",
+            "the endocardium",
+            "the pleura"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "When this '70s \"Comes Alive!\" megastar sings \"I'm In You\", he doesn't mean the Hall",
+    "choices": [
+      "Robert Plant",
+      "Steven Tyler",
+      "Jim Morrison",
+      "Peter Frampton"
+    ],
+    "correctIndex": 3,
+    "category": "NOT IN THE ROCK & ROLL HALL OF FAME"
+  }
+}

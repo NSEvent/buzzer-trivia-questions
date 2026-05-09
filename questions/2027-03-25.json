@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-25",
+  "categories": [
+    {
+      "name": "ICE CREAM",
+      "questions": [
+        {
+          "clue": "In January of 2011, pecans fruit & chocolaty bits in vanilla soft serve was this brand's \"Blizzard of the Month\"",
+          "choices": [
+            "Dairy Queen",
+            "Baskin-Robbins",
+            "Ben & Jerry's",
+            "Tastee-Freez"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "McDonald's has the McFlurry, & Dairy Queen has this signature treat blended with cookies or candies",
+          "choices": [
+            "a sundae",
+            "a Blizzard",
+            "a soft serve",
+            "a shake"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "An \"ice cream parade\" through the Blue Hall of Stockholm's city hall is part of the banquet after these awards",
+          "choices": [
+            "Olympic Medals",
+            "Pulitzer Prizes",
+            "Turing Awards",
+            "Nobel Prizes"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This treat gets its name because a certain fruit is cut lengthwise & then topped with ice cream, nuts, & whipped cream",
+          "choices": [
+            "a hot fudge",
+            "a banana split",
+            "a banana boat",
+            "a chocolate sundae"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Ice cream cones first became popular after appearing at the World's Fair in this city in 1904",
+          "choices": [
+            "New York",
+            "Chicago",
+            "St. Louis",
+            "Los Angeles"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "EAST ON THE MAP",
+      "questions": [
+        {
+          "clue": "Cheech Marin played a movie character born in this title area",
+          "choices": [
+            "West Hollywood",
+            "East L.A.",
+            "North Beach",
+            "South Bronx"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "It's home to Michigan State University",
+          "choices": [
+            "West Lafayette",
+            "Northville",
+            "East Lansing",
+            "South Bend"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Ambeno, an enclave surrounded by Indonesia, is part of this country that gained its independence in 2002",
+          "choices": [
+            "East Timor",
+            "Portugal",
+            "Indonesia",
+            "Papua New Guinea"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "As a geopolitical term it was coined in 1902 by U.S. Naval Officer Alfred Mahan to describe an Asian-African area",
+          "choices": [
+            "the Middle East",
+            "the Near East",
+            "the Orient",
+            "the Far East"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This waterway separates Manhattan from Long Island",
+          "choices": [
+            "the Hudson River",
+            "the Harlem River",
+            "the East Bay",
+            "the East River"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ARE YOU READY FOR SOME FOOTBALL?",
+      "questions": [
+        {
+          "clue": "(Hi, I'm Jerome Bettis, running back for the Pittsburgh Steelers.) Long before I played at Notre Dame, this man taught chemistry there before he became head coach in 1918",
+          "choices": [
+            "Bear Bryant",
+            "Woody Hayes",
+            "Knute Rockne",
+            "Pop Warner"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "(Hi, I'm Tim Dwight of the NFL) Along with offense & defense there are these \"teams\" of wild men who charge down the field on punts & kickoffs",
+          "choices": [
+            "special teams",
+            "offensive line",
+            "defensive backs",
+            "coaching staff"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "(Hi, this is Dick Riordan, mayor of Los Angeles) Renovated in 1993, this 88,000-seat facility first opened in May of 1923",
+          "choices": [
+            "Rose Bowl Stadium",
+            "Los Angeles Memorial Coliseum",
+            "Soldier Field",
+            "Yankee Stadium"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "91,136 fans can watch this college team play home games in Pasadena",
+          "choices": [
+            "USC (Trojans)",
+            "Stanford Cardinal",
+            "UCLA (Bruins)",
+            "Cal Golden Bears"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The 17 members of the Pro Football Hall of Fame's first class in 1963 included this 1912 Olympian",
+          "choices": [
+            "Jim Thorpe",
+            "Jesse Owens",
+            "Babe Didrikson Zaharias",
+            "Paavo Nurmi"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Now used on ball gowns, panniers are these under supports that hold dresses out at the sides",
+    "choices": [
+      "layers",
+      "ruffles",
+      "hoops",
+      "pleats"
+    ],
+    "correctIndex": 2,
+    "category": "CLOTHING"
+  }
+}

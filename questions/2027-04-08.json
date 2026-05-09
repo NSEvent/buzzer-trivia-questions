@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-08",
+  "categories": [
+    {
+      "name": "OCEAN LIFE",
+      "questions": [
+        {
+          "clue": "These rays have a variety that can grow to more than 20 feet wide",
+          "choices": [
+            "stingrays",
+            "skate fish",
+            "batoid rays",
+            "manta rays"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The manatee is distantly related to this land mammal that also uses its snout to push food into its mouth",
+          "choices": [
+            "elephant",
+            "hippopotamus",
+            "rhinoceros",
+            "tapir"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Having flat teeth is one way that these animals differ from the related dolphins who have pointy triangular teeth",
+          "choices": [
+            "whales",
+            "seals",
+            "porpoises",
+            "sharks"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Like coral reefs in tropical water, in northern seas the areas called these forests are home & refuge to a diverse array of life",
+          "choices": [
+            "sea grass beds",
+            "coral gardens",
+            "tide pools",
+            "kelp forests"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A Pacific northern bluefin one of these fish was tracked swimming 6,700 miles from Japan to Baja",
+          "choices": [
+            "salmon",
+            "marlin",
+            "swordfish",
+            "tuna"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "STARTS WITH \"KN\"",
+      "questions": [
+        {
+          "clue": "In this city, you can visit the home of John Sevier, the first governor of Tennessee",
+          "choices": [
+            "Nashville",
+            "Memphis",
+            "Knoxville",
+            "Chattanooga"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "First name of the man famous for telling his team to \"Win this one for the Gipper\"",
+          "choices": [
+            "Knute",
+            "Knute (Rockne)",
+            "Knott",
+            "Knish"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A hilarious joke might be described as \"a real\" one of these",
+          "choices": [
+            "eye-opener",
+            "a knee-slapper",
+            "gut-buster",
+            "chucklehead"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A short, thick German sausage",
+          "choices": [
+            "knish",
+            "knucklehead",
+            "knockwurst",
+            "knight"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "I love to go a-wandering (Valderee, Valdera) with one of these on my back",
+          "choices": [
+            "a knoll",
+            "a knave",
+            "a knapsack",
+            "a knickknack"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "OLD DEUTERONOMY",
+      "questions": [
+        {
+          "clue": "A series of these ill wishes includes one on \"he that taketh reward to slay an innocent person\"",
+          "choices": [
+            "curses",
+            "blessings",
+            "covenants",
+            "commandments"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"Hear, O Israel: the Lord our God is one Lord\" from Deuteronomy is part of Maariv, evening these",
+          "choices": [
+            "psalms",
+            "prayers",
+            "hymns",
+            "chants"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Verses from Deuteronomy are contained in the Mezuzah, which you can usually find on this part of the house",
+          "choices": [
+            "the doorway",
+            "the ceiling",
+            "the floor",
+            "the window"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "These dietary rules are detailed in Deuteronomy, like salting to remove blood",
+          "choices": [
+            "halal laws",
+            "pork bans",
+            "kosher rules",
+            "vegetarian diets"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In chapter 32 God considered Jacob to be this fruit \"of his eye\"",
+          "choices": [
+            "a pear",
+            "an orange",
+            "an apple",
+            "a grape"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "To apply pressure to extract juice, or to give someone a hug",
+    "choices": [
+      "compress",
+      "crush",
+      "press",
+      "squeeze"
+    ],
+    "correctIndex": 3,
+    "category": "7-LETTER WORDS"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-10",
+  "categories": [
+    {
+      "name": "RAILROADS",
+      "questions": [
+        {
+          "clue": "From Oct. 4, 1883 to May 22, 1977, this train ran from Paris to Istanbul",
+          "choices": [
+            "the Night Train",
+            "the Orient Express",
+            "the Eurostar",
+            "the Trans-Siberian"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "10 years after designing a sleeping car, he introduced the dining car",
+          "choices": [
+            "(Thomas) Edison",
+            "(James) Watt",
+            "(George) Stephenson",
+            "(George) Pullman"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 1981 France began operating this high-speed train capable of speeds of up to 235 mph",
+          "choices": [
+            "the TGV",
+            "the ICE",
+            "the Tr\u00e8s Grande Vitesse",
+            "the Shinkansen"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This country's TGV train, which can cruise at speeds of 180 mph, began operating in 1981",
+          "choices": [
+            "Germany",
+            "France",
+            "Japan",
+            "Italy"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 1971 20 passenger railroads joined this corporation",
+          "choices": [
+            "Amcon",
+            "Amtrak",
+            "Amway",
+            "Amoco"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TRUCKIN\\'",
+      "questions": [
+        {
+          "clue": "There's no getting around this company's Dakota & Ram pickups",
+          "choices": [
+            "Datsun",
+            "Daewoo",
+            "Delorean",
+            "Dodge"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "When you hit the tundra, take this truck maker's Tacoma",
+          "choices": [
+            "Tesla",
+            "Tata",
+            "Trabant",
+            "Toyota"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This company gives its trucks an \"F\": 150, 250 & 350",
+          "choices": [
+            "Fiat",
+            "Ford",
+            "Fuso",
+            "Ferrari"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The Pierce Initial Attack Pumper is a fast-response type of this truck",
+          "choices": [
+            "Ambulance",
+            "Ladder truck",
+            "Rescue vehicle",
+            "Fire truck"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "You could drive this automaker's Silverado through an avalanche",
+          "choices": [
+            "GMC",
+            "Ford",
+            "Dodge",
+            "Chevrolet"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FIRST & LAST NAME, PLEASE",
+      "questions": [
+        {
+          "clue": "U.S. vice president: ____ Horatio ____",
+          "choices": [
+            "Al Gore",
+            "Walter Mondale",
+            "Hubert Humphrey",
+            "George H.W. Bush"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Pioneering director known for his historical films: ____ B. ____",
+          "choices": [
+            "Cecil B. DeMille",
+            "John Ford",
+            "Frank Capra",
+            "Orson Welles"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Teamsters president: ____ Riddle ____",
+          "choices": [
+            "John Smith",
+            "Jimmy Hoffa",
+            "James Brown",
+            "Robert Johnson"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "World War II tank commander: ____ S. ____",
+          "choices": [
+            "George W. Bush",
+            "John F. Kennedy",
+            "George S. Patton",
+            "Dwight D. Eisenhower"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Oscar presenter & \"Creed\" star: ____ B. ____",
+          "choices": [
+            "Chadwick Boseman",
+            "John Boyega",
+            "Michael B. Jordan",
+            "Michael B. Keaton"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The bodybuilding documentary \"Pumping Iron\" brought attention to this gym that started in Venice, California",
+    "choices": [
+      "Iron Paradise",
+      "Gold's Gym",
+      "Muscle Beach",
+      "Westside Barbell"
+    ],
+    "correctIndex": 1,
+    "category": "HIT THE GYM"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-07",
+  "categories": [
+    {
+      "name": "LESSER KNOWN NAMES",
+      "questions": [
+        {
+          "clue": "Col. Edward House wasn't part of Wilson's cabinet but did help draw up this treaty at the end of WWI",
+          "choices": [
+            "the Treaty of Versailles",
+            "the Treaty of Brest-Litovsk",
+            "the League of Nations Charter",
+            "the Treaty of Trianon"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Raymond Ditmars, 1876-1942, was a leading one of these scientists who study amphibians & reptiles",
+          "choices": [
+            "Entomologist",
+            "Mammalogist",
+            "Ornithologist",
+            "Herpetologist"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Sir Robert John Le Mesurier McClure proved the existence of this long sought-after passage",
+          "choices": [
+            "the Northwest Passage",
+            "the Northeast Passage",
+            "the Southern Sea Route",
+            "the Panama Canal"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The capital of this Australian island state was named for Robert Hobart",
+          "choices": [
+            "Western Australia",
+            "Tasmania",
+            "South Australia",
+            "New South Wales"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "For his syphilis test, he used a technique devised by Jules Bordet & Octave Gengou",
+          "choices": [
+            "Koch",
+            "Wasserman",
+            "Pasteur",
+            "Lwoff"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IT'S FROM THE GREEK FOR...",
+      "questions": [
+        {
+          "clue": "\"The drink of the gods\"... sweet!",
+          "choices": [
+            "ambrosia (nectar)",
+            "honey (syrup)",
+            "wine (elixir)",
+            "nectar (ambrosia)"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"Master craftsman\"; some folks have designs on this job",
+          "choices": [
+            "engineer",
+            "architect",
+            "surveyor",
+            "constructor"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"First state of the universe\", which was pretty much utter this",
+          "choices": [
+            "order",
+            "void",
+            "nothingness",
+            "chaos"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "\"Conversation\", or \"to speak alternately\"",
+          "choices": [
+            "monologue",
+            "soliloquy",
+            "dialogue",
+            "polylogue"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Mother city\"",
+          "choices": [
+            "a capital",
+            "a homeland",
+            "a metropolis",
+            "a province"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"OO\", SORRY",
+      "questions": [
+        {
+          "clue": "It means free to travel about & is often paired with \"fancy-free\"",
+          "choices": [
+            "footloose",
+            "carefree",
+            "lighthearted",
+            "unfettered"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The first electric implement to apply these designs was patented in the U.S. in 1891",
+          "choices": [
+            "piercings",
+            "brandings",
+            "tattoos",
+            "scarifications"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This nickname for Oklahoma comes from settlers who were early to stake claims",
+          "choices": [
+            "the Frontier State",
+            "the Quick Claim Land",
+            "the Early Bird Territory",
+            "the Sooner State"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Pandas live in these forests in China",
+          "choices": [
+            "oak",
+            "pine",
+            "bamboo",
+            "maple"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Wild Bill Hickok died in this type of establishment in Deadwood, South Dakota",
+          "choices": [
+            "a hotel",
+            "a saloon",
+            "a church",
+            "a general store"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Compared to Handel's other oratorios, this most famous one, from 1742, really doesn't have much plot",
+    "choices": [
+      "Saul",
+      "Judas Maccabaeus",
+      "Israel in Egypt",
+      "Messiah"
+    ],
+    "correctIndex": 3,
+    "category": "CLASSICAL CLASSICS"
+  }
+}

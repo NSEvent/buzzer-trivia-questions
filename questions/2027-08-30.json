@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-30",
+  "categories": [
+    {
+      "name": "\"P\" COUNTRY",
+      "questions": [
+        {
+          "clue": "The Andes cover about 25% of it",
+          "choices": [
+            "Chile",
+            "Peru",
+            "Bolivia",
+            "Ecuador"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "King Afonso I's 57-year reign from 1128-85 was an important factor in this country's independence from a larger neighbor",
+          "choices": [
+            "Spain",
+            "France",
+            "Portugal",
+            "Germany"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It's the 3-word name for the eastern half of the island of New Guinea",
+          "choices": [
+            "Papua New Guinea",
+            "East Timor",
+            "Solomon Islands",
+            "Vanuatu"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "An Islamic republic",
+          "choices": [
+            "Iran",
+            "Pakistan",
+            "Afghanistan",
+            "Indonesia"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Pacific land named for a 16th century king",
+          "choices": [
+            "the Philippines",
+            "the Bahamas",
+            "New Zealand",
+            "the Mariana Islands"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ANATOMICAL QUOTES",
+      "questions": [
+        {
+          "clue": "Completes Stephen Vincent Benet's line \"Bury my heart at Wounded...\"",
+          "choices": [
+            "Knee",
+            "Elbow",
+            "Wrist",
+            "Shin"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Longfellow's village blacksmith had \"brawny arms\" ending in \"large and sinewy\" these",
+          "choices": [
+            "feet",
+            "hands",
+            "eyes",
+            "ears"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "At Bunker Hill, William Prescott (or was it Israel Putnam?) told his troops to not fire until they saw these of the enemy",
+          "choices": [
+            "pupils",
+            "eyebrows",
+            "faces",
+            "the whites of their eyes"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Shakespeare's Richard III says, \"Let us to it pell-mell, If not to heaven, then\" this in this \"to hell\"",
+          "choices": [
+            "arm in arm",
+            "hand over fist",
+            "heart to heart",
+            "hand in hand"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "According to the 119th Psalm, \"Thy word is a lamp unto\" these, & \"a light unto my path\"",
+          "choices": [
+            "feet",
+            "eyes",
+            "soul",
+            "mind"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BOB DYLAN",
+      "questions": [
+        {
+          "clue": "In 1975 Bob spoke out for this imprisoned boxer; in 1999 Denzel Washington played him on film",
+          "choices": [
+            "Muhammad Ali",
+            "Rubin \"Hurricane\" Carter",
+            "Joe Frazier",
+            "George Foreman"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Bob's \"Lay Lady Lay\" was considered for this 1969 Jon Voight film, but didn't make the soundtrack",
+          "choices": [
+            "Midnight Cowboy",
+            "Easy Rider",
+            "Midnight Special",
+            "The Graduate"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In 1998 a man with \"Soy Bomb\" marked on his chest interrupted Bob's performance at this awards show",
+          "choices": [
+            "Academy Awards",
+            "American Music Awards",
+            "MTV Video Music Awards",
+            "Grammy Awards"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Jenna Elfman played drums when Bob made an appearance on this ABC sitcom",
+          "choices": [
+            "Friends",
+            "The Big Bang Theory",
+            "Seinfeld",
+            "Dharma & Greg"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "When this Robbie Robertson group first backed Dylan in the '60s, it was known as The Hawks",
+          "choices": [
+            "The Beatles",
+            "The Rolling Stones",
+            "The Band",
+            "Creedence Clearwater Revival"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "There are more than 10 million members of the south African ethnic group that represents this letter",
+    "choices": [
+      "Zulu",
+      "Xhosa",
+      "Sotho",
+      "Tswana"
+    ],
+    "correctIndex": 0,
+    "category": "THE NATO PHONETIC ALPHABET"
+  }
+}

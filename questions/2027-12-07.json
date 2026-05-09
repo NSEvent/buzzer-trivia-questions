@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-07",
+  "categories": [
+    {
+      "name": "CHURCHES & CATHEDRALS",
+      "questions": [
+        {
+          "clue": "T.S. Eliot's \"Murder in the Cathedral\" takes place in this one, where Thomas \u00e0 Becket was murdered",
+          "choices": [
+            "York Minster",
+            "Westminster Abbey",
+            "Canterbury Cathedral",
+            "Lincoln Cathedral"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Built over the grave of St. Olaf, Nidaros Cathedral is this country's national sanctuary & once the site for its coronations",
+          "choices": [
+            "Sweden",
+            "Finland",
+            "Norway",
+            "Denmark"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In Italy the Cathedral of San Giovanni Battista houses this sacred burial cloth",
+          "choices": [
+            "The Holy Mantle of Toulouse",
+            "the Shroud of Turin",
+            "The Sudarium of Oviedo",
+            "The Veil of Veronica"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The Chapel of the Holy Cross is built into the red rocks of this Arizona \"most beautiful place on Earth\"",
+          "choices": [
+            "Sedona",
+            "Flagstaff",
+            "Catalina",
+            "Prescott"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In Ulm, Germany the tallest spire in the world rises 528 feet above a cathedral built in this style",
+          "choices": [
+            "Baroque",
+            "Romanesque",
+            "Neoclassical",
+            "Gothic"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MIND YOUR OWN BUSINESS",
+      "questions": [
+        {
+          "clue": "Last names of the pair of chemists in Worcester, England who made up a food sauce requested by a British nobleman",
+          "choices": [
+            "Lea & Perrins",
+            "Heinz & Kraft",
+            "Cadbury & Fry",
+            "Tate & Lyle"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "You auto know that this company is the world's largest automaker",
+          "choices": [
+            "Ford",
+            "Toyota",
+            "GM",
+            "VW"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 2001 Nestle merged with this pet food company headquartered in Checkerboard Square",
+          "choices": [
+            "Iams",
+            "Blue Buffalo",
+            "Hill's",
+            "Purina"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Based in Laufen, Switzerland, this company makes cough drops & breath mints from Alpine herbs",
+          "choices": [
+            "Halls",
+            "Ricola",
+            "Strepsil",
+            "Eucalyptus"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Brothers Robert, Edward & James didn't need a band-aid concert to help this company they founded in 1886",
+          "choices": [
+            "Pfizer",
+            "Bayer",
+            "Merck",
+            "Johnson & Johnson"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NOBEL PEACE PRIZE WINNERS",
+      "questions": [
+        {
+          "clue": "1989: Tenzin Gyatso, the 14th holder of this religious title",
+          "choices": [
+            "Pope",
+            "Monk",
+            "Lama",
+            "Dalai Lama"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "1990: A Communist party head",
+          "choices": [
+            "Boris Yeltsin",
+            "Vladimir Putin",
+            "Nelson Mandela",
+            "Mikhail Gorbachev"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "1997: Jody Williams & the group she helped found, the International Campaign to Ban these weapons",
+          "choices": [
+            "landmines",
+            "nerve gas",
+            "drones",
+            "cluster munitions"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "An advocate for human rights, Rigoberta Menchu of this Central American country won the 1992 prize",
+          "choices": [
+            "Guatemala",
+            "Honduras",
+            "El Salvador",
+            "Nicaragua"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This sitting U.S. president won the 1919 prize for his efforts to make peace an part of international law",
+          "choices": [
+            "Wilson",
+            "Roosevelt",
+            "Taft",
+            "Cleveland"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Private dicks Sam & Miles; sexy, deceitful client Miss Wonderly; acquisitive Caspar Gutman",
+    "choices": [
+      "The Big Sleep",
+      "The Long Goodbye",
+      "The Maltese Falcon",
+      "Farewell My Lovely"
+    ],
+    "correctIndex": 2,
+    "category": "PEOPLE OF THE BOOK"
+  }
+}

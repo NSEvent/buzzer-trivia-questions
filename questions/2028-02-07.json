@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-07",
+  "categories": [
+    {
+      "name": "OLD YORK, OLD YORK",
+      "questions": [
+        {
+          "clue": "A York native, she began bonding with 007 as M in 1995's \"GoldenEye\"",
+          "choices": [
+            "Helen Mirren",
+            "Judi Dench",
+            "Eva Green",
+            "Maggie Smith"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The Sixth, a York-based Roman legion, was big in the making of the wall begun in 122 A.D. on the orders of this emperor",
+          "choices": [
+            "Augustus",
+            "Trajan",
+            "Nero",
+            "Hadrian"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Also meaning a total mess, as in \"left the place in\" these, it's the name for an area of York with narrow, medieval streets",
+          "choices": [
+            "alleyways",
+            "shambles",
+            "lanes",
+            "alleys"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "York's cathedral of St. Peter is the largest church in England built in this medieval architectural style",
+          "choices": [
+            "Romanesque",
+            "Baroque",
+            "Gothic",
+            "Renaissance"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "York suffered severely during this man's conquest of Northern England in the 1060s",
+          "choices": [
+            "Oliver Cromwell",
+            "Edward the Confessor",
+            "William the Conqueror",
+            "Richard the Lionheart"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"N\"TERTAINMENT",
+      "questions": [
+        {
+          "clue": "\"See Dad Run\" & \"The Haunted Hathaways\" are on this channel",
+          "choices": [
+            "Nickelodeon",
+            "Cartoon Network",
+            "Disney Channel",
+            "Nick Jr."
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Real-life historical people who came to life in this 2006 Ben Stiller film included Teddy Roosevelt & Sacajawea",
+          "choices": [
+            "National Treasure",
+            "Indiana Jones",
+            "Night at the Museum",
+            "The Mummy"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "First names in One Direction are Harry, Liam, Zayn, Louis & this one",
+          "choices": [
+            "Liam",
+            "Louis",
+            "Niall",
+            "Zayn"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "One of Netflix' biggest hits is this spy thriller about an FBI agent who works a secret phone line at the White House",
+          "choices": [
+            "The Night Agent",
+            "The Morning Show",
+            "The Night Manager",
+            "The Day Agent"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This band with songs like \"Animal\" takes its name from illuminated palms on an In-N-Out Burger sign",
+          "choices": [
+            "Green Day",
+            "Blue October",
+            "Purple Rain",
+            "Neon Trees"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"BOOK\"S",
+      "questions": [
+        {
+          "clue": "The insect kind eats binding, & the human kind devours pages",
+          "choices": [
+            "silverfish",
+            "bookworms",
+            "bookend",
+            "bookmark"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Samuel Pepys sometimes put one of these in both the front & the back of his books",
+          "choices": [
+            "a bookmark",
+            "a ribbon",
+            "a title page",
+            "a bookplate"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "It has lyrics & chords & is often used by cocktail lounge pianists instead of standard sheet music",
+          "choices": [
+            "a songbook",
+            "a method book",
+            "a lyric book",
+            "a fake book"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Term for a tome that gives the pedigrees of horses",
+          "choices": [
+            "a herd book",
+            "stud book",
+            "a stud farm",
+            "a bloodline book"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Famous fooderie, found on 15th, for feasting on fish in Philly",
+          "choices": [
+            "Reading Terminal",
+            "Franklin's Fountain",
+            "Zahav",
+            "Bookbinder's"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Dutch: Donderdag",
+    "choices": [
+      "Friday",
+      "Thursday",
+      "Wednesday",
+      "Saturday"
+    ],
+    "correctIndex": 1,
+    "category": "DAYS OF THE WEEK"
+  }
+}

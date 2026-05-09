@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-02",
+  "categories": [
+    {
+      "name": "3-LETTER WORDS",
+      "questions": [
+        {
+          "clue": "It's the hole you want to get a hole-in-one in",
+          "choices": [
+            "Bun",
+            "Pin",
+            "Cup",
+            "Mat"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In tennis, a high-arcing shot hit deep into the opponent's court",
+          "choices": [
+            "a lob",
+            "a serve",
+            "a drop",
+            "a smash"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A large tub for holding liquids such as dye",
+          "choices": [
+            "bin",
+            "vat",
+            "box",
+            "bag"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Nickname of General Henry Arnold, the first commander of the Army Air Force",
+          "choices": [
+            "\"Hap\"",
+            "\"Slim\"",
+            "\"Ace\"",
+            "\"Max\""
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "To Chaucer it was the belly; now it's the gaping mouth of a hungry creature",
+          "choices": [
+            "maw",
+            "jaw",
+            "snout",
+            "gape"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FILE UNDER \"O\"",
+      "questions": [
+        {
+          "clue": "If this husband of Titania committed a crime, police might fairy dust for fingerprints",
+          "choices": [
+            "Puck",
+            "Titania",
+            "Oberon",
+            "Lysander"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This Italian premier was furioso & left the WWI Paris Peace Conference in a huff",
+          "choices": [
+            "Clemenceau",
+            "(Vittorio Emanuele) Orlando",
+            "Lloyd George",
+            "Wilson"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Dial \"O\" & you get this person",
+          "choices": [
+            "Dispatcher",
+            "Operator",
+            "Attendant",
+            "Receptionist"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Du Pont began commercial production of this acrylic fiber in 1950",
+          "choices": [
+            "Nylon",
+            "Lycra",
+            "Acetate",
+            "Orlon"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Without this endangered layer of the atmosphere, you'd get a real bad sunburn",
+          "choices": [
+            "Greenhouse effect",
+            "Ozone hole",
+            "Smog layer",
+            "Ozone layer"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ON THE \"GO\"",
+      "questions": [
+        {
+          "clue": "After trying out 3 different types, this fairy tale girl eventually fell asleep in the baby bear's bed",
+          "choices": [
+            "Goldilocks",
+            "Snow White",
+            "Cinderella",
+            "Sleeping Beauty"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Beastly highest awarded handed out at the Berlin Film Festival, not the Berlin Golf Tournament",
+          "choices": [
+            "the Golden Lion",
+            "the Palme d'Or",
+            "the Oscar statuette",
+            "the Golden Bear"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Magical clay figure of Jewish legend brought to life by incantations",
+          "choices": [
+            "a homunculus",
+            "a goblin",
+            "a gothic",
+            "a golem"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This river carries more water than any other except the Amazon",
+          "choices": [
+            "the Nile",
+            "the Yangtze",
+            "the Congo",
+            "the Mississippi"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In the Book of Daniel, he survives being put into a furnace",
+          "choices": [
+            "Shadrach",
+            "Abednego",
+            "Meshach",
+            "Ezekiel"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "2 things that are in agreement are also \"in\" this with each other",
+    "choices": [
+      "harmony",
+      "accordance",
+      "unison",
+      "synchronization"
+    ],
+    "correctIndex": 1,
+    "category": "SHALL WE \"DANCE\"?"
+  }
+}

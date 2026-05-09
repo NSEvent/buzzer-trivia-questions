@@ -1,0 +1,207 @@
+{
+  "date": "2027-08-14",
+  "categories": [
+    {
+      "name": "COMMERCIALS",
+      "questions": [
+        {
+          "clue": "Coke spokes\"man\" whose name came from an overpass warning in a British garage",
+          "choices": [
+            "Batman",
+            "Max Headroom",
+            "The Mask",
+            "Ghost Rider"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Subtitle which appeared when the commerical spokesman said the Isuzu gets \"94 mpg city, 112 highway!\"",
+          "choices": [
+            "It's Not True",
+            "He Is Wrong",
+            "He's Lying",
+            "That Is Fake"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "And now a word from Ed & one of his friends about this, \"The Tonight Show\"s longest-running sponsor",
+          "choices": [
+            "Purina cat food",
+            "Pedigree dog food",
+            "Iams pet food",
+            "Alpo dog food"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "1st line of jingle whose 2nd line is \"America is asking you to call\"",
+          "choices": [
+            "Get the Look",
+            "See the USA in your Chevrolet",
+            "Hit the Road",
+            "Take the Wheel"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Breakfast cereal with \"the unsinkable taste\"",
+          "choices": [
+            "Cap'n Crunch",
+            "Lucky Charms",
+            "Frosted Flakes",
+            "Cheerios"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\\'50'S TV",
+      "questions": [
+        {
+          "clue": "Singer Cricket Blake hung out with the \"eyes\" from this tropical private detective firm",
+          "choices": [
+            "Burma Police",
+            "Hawaiian Style",
+            "Surfside 6",
+            "Hawaiian Eye"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "According to the series title, Charles Bronson was \"A Man with...\" one of these",
+          "choices": [
+            "a knife",
+            "a camera",
+            "a gun",
+            "a secret"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Amount Michael Anthony gave out each week on behalf of John Beresford Tipton",
+          "choices": [
+            "$100",
+            "$5 million",
+            "$10 million",
+            "$1 million"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In the opening, the announcer said these 2 \"present 'The Mickey Mouse Club'\"",
+          "choices": [
+            "Jackie Gleason & Ralph Kramden",
+            "Ed Sullivan & his Orchestra",
+            "Walt Disney & Mickey Mouse",
+            "Steve Allen & his Dog"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Name under which experimenter Don Herbert taught viewers all about science",
+          "choices": [
+            "Dr. Who",
+            "Professor Branestawm",
+            "The Great Gazoo",
+            "Mr. Wizard"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "I WANT CANDY!",
+      "questions": [
+        {
+          "clue": "Invented in 1948, the first dispenser for this candy resembled a lighter, to encourage people to quit smoking",
+          "choices": [
+            "Laffy Taffy",
+            "Butterfingers",
+            "Pez",
+            "Cracker Jack"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This chewy chocolately \"Roll\" is found inside a similarly named \"Pop\"",
+          "choices": [
+            "Twix",
+            "Tootsie",
+            "Kit Kat",
+            "Hershey's"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This word, a synonym for chewy, is found before \"worms\" & \"bears\" in the names of candy",
+          "choices": [
+            "chewy",
+            "gummy",
+            "sticky",
+            "soft"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Introduced in England in 1968, this candy bar is a caramel-coated shortbread cookie that's covered in chocolate",
+          "choices": [
+            "KitKat",
+            "Twix",
+            "Marathon",
+            "Milky Way"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This British chocolatier makes a dairy milk bar as well as a milk tray",
+          "choices": [
+            "Nestle",
+            "Ferrero",
+            "Cadbury",
+            "Lindt"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1950 he adapted his novel \"Les Enfants Terribles\" for the screen",
+    "choices": [
+      "Jean-Luc Godard",
+      "Andre Bazin",
+      "Jean Cocteau",
+      "Louis Lumiere"
+    ],
+    "correctIndex": 2,
+    "category": "FAMOUS FRENCHMEN"
+  },
+  "bonusRound": {
+    "clue": "This \"Twin City\" is a port of entry at the head of navigation on the Mississippi River",
+    "choices": [
+      "Saint Louis",
+      "Saint Petersburg",
+      "Saint Augustine",
+      "Saint Paul"
+    ],
+    "correctIndex": 3,
+    "category": "\"SAINT\"LY CITIES"
+  }
+}

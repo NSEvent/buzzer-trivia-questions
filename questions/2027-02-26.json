@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-26",
+  "categories": [
+    {
+      "name": "SINGING ACTORS",
+      "questions": [
+        {
+          "clue": "As a teenager this \"Gladiator\" star recorded the song \"I Want to Be Like Marlon Brando\" under the name Rus Le Roc",
+          "choices": [
+            "Russell Crowe",
+            "Russell Brand",
+            "Russell Howard",
+            "Russell Crowe's cousin"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This \"Sex and the City\" actress starred in a 1996 revival of the Broadway musical \"Once Upon a Mattress\"",
+          "choices": [
+            "Sarah Michelle Gellar",
+            "Sarah Jessica Parker",
+            "Sarah Paulson",
+            "Sarah Jessica's sister"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This \"Goodfella\" sang \"Yo Cousin Vinny\" on his \"Vincent Laguardia Gambini Sings Just for You\" CD",
+          "choices": [
+            "Joe Mantegna",
+            "Joe Pesci's brother",
+            "Joe Pesci",
+            "Robert De Niro"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It's worth renting \"Heartburn\" just to hear this actor sing the \"Soliloquy\" from \"Carousel\"",
+          "choices": [
+            "Jack Nicholson",
+            "Jack Black",
+            "Jack Lemmon",
+            "Jack Nicholson's brother"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Fans of her \"Star Trek\" role as Uhura go into orbit when they listen to her \"Out of This World\" CD",
+          "choices": [
+            "Leonard Nimoy",
+            "Nichelle Nichols",
+            "William Shatner",
+            "DeForest Kelley"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE EMMYS",
+      "questions": [
+        {
+          "clue": "On September 13, 1998 he won an Emmy for his Oscar hosting",
+          "choices": [
+            "Bob Hope",
+            "Jerry Lewis",
+            "Billy Crystal",
+            "David Letterman"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "1973 Best Supporting Comedy Actor winner for playing Ted Baxter on \"The Mary Tyler Moore Show\"",
+          "choices": [
+            "Ed Asner",
+            "Ted Knight",
+            "Valerie Harper",
+            "Georgia Engel"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Alan Brady would have been jealous when Carl Reiner won Emmys for writing & producing this series in the '60s",
+          "choices": [
+            "Get Smart",
+            "The Dick Van Dyke Show",
+            "Bewitched",
+            "I Love Lucy"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "(Hi. I'm LeVar Burton.) In 1977 I got my first Emmy nomination for playing this ancestor of Alex Haley",
+          "choices": [
+            "Foday",
+            "Kunta Kinte",
+            "Juffure",
+            "Toby"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The TV Academy dug this Ray Romano sitcom\u2014it won Emmys as Best Comedy Series in 2003 & 2005",
+          "choices": [
+            "Everybody Loves Sue",
+            "Everybody Loves Frank",
+            "Everybody Loves Joe",
+            "Everybody Loves Raymond"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TALKING TURKEY",
+      "questions": [
+        {
+          "clue": "Female turkeys are called hens; males are called toms or this voracious word from the sound they make",
+          "choices": [
+            "squawkers",
+            "screechers",
+            "yellers",
+            "gobblers"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Turks don't eat much turkey; they call it \"hindi\" because they believe it originated here",
+          "choices": [
+            "India",
+            "Egypt",
+            "Persia",
+            "China"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This ragtime dance step resembles the wing & foot movement of the bird",
+          "choices": [
+            "the turkey polka",
+            "the turkey trot",
+            "the chicken strutter",
+            "the goose march"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In Turkish the Asian portion of Turkey is called Anadolu; in English, it's Asia Minor or this",
+          "choices": [
+            "Asia Major",
+            "Little Asia",
+            "Thrace",
+            "Anatolia"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Dropping the first letter from Izmir, Homer's supposed birthplace, will help you detect this former name of the city",
+          "choices": [
+            "Phocaea",
+            "Smyrna",
+            "Pergamon",
+            "Ephesus"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Inspired by \"Bluebell in Fairyland\", he wrote his own fairy play \"Peter Pan\"",
+    "choices": [
+      "James M. Barrie",
+      "J.M. Barrie",
+      "Barry J.M.",
+      "James Barry"
+    ],
+    "correctIndex": 0,
+    "category": "CHILDREN'S LIT"
+  }
+}

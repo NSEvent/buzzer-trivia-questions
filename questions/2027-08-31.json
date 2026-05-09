@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-31",
+  "categories": [
+    {
+      "name": "A GREEN CATEGORY",
+      "questions": [
+        {
+          "clue": "It's the name of this experienced, yet still \"Green\" politician",
+          "choices": [
+            "Ralph Nader",
+            "Bernie Sanders",
+            "Elizabeth Warren",
+            "Joe Biden"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A large green sandstone block at this prehistoric English site is called the \"Altar Stone\"",
+          "choices": [
+            "Bath Abbey",
+            "Tintagel Castle",
+            "Stonehenge",
+            "Hadrian's Wall"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "At age 61 in 1941, he made his screen debut in \"The Maltese Falcon\" as Kaspar Gutman",
+          "choices": [
+            "Sydney Greenstreet",
+            "Peter Lorre",
+            "John Huston",
+            "Mary Astor"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "For decades the Green Line was the buffer zone between the Greek & Turkish forces on this island",
+          "choices": [
+            "Cyprus",
+            "Sri Lanka",
+            "Malta",
+            "Bali"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Her \"Rilla of Ingleside\" & \"Pat of Silver Bush\" were not as successful as her \"Anne of Green Gables\"",
+          "choices": [
+            "L.M. Boston",
+            "Lucy Maud Montgomery",
+            "Emily Bront\u00eb",
+            "E. Nesbit"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CLASSIC CHILDREN'S BOOKS",
+      "questions": [
+        {
+          "clue": "He needed oil to move his parts, but what the Tin Man in \"The Wizard of Oz\" really sought was this",
+          "choices": [
+            "a brain",
+            "a nervous system",
+            "a heart",
+            "courage"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Today we might call it phrogging, but in a title by Mary Norton, the tiny Clock family, living beneath a kitchen floor, are these",
+          "choices": [
+            "The Borrowers",
+            "The Borrowers Afoot",
+            "The Secret Kingdom",
+            "The Underlanders"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In a series that began in 1904, Nan & Bert are one set of the title siblings",
+          "choices": [
+            "the Bobbsey twins",
+            "the Hardy boys",
+            "the Campbell kids",
+            "the Appleton twins"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In this picture book by Janell Cannon, a fruit bat ends up in a bird's nest & is adopted by the mama bird",
+          "choices": [
+            "Stellaluna",
+            "Curious George",
+            "The Very Hungry Caterpillar",
+            "Charlotte's Web"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The book about her begins, \"In an old house in Paris that was covered with vines lived twelve little girls in two straight lines\"",
+          "choices": [
+            "Madeline",
+            "Anne of Green Gables",
+            "Little House on the Prairie",
+            "The Secret Garden"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SOUTH AMERICAN COUNTRIES",
+      "questions": [
+        {
+          "clue": "This country's area is more than 45% of South America's land mass",
+          "choices": [
+            "Argentina",
+            "Brazil",
+            "China",
+            "India"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "On an alphabetical list of world nations, it comes directly before Uzbekistan",
+          "choices": [
+            "Uganda",
+            "Uruguay",
+            "Turkey",
+            "Vietnam"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This country is 2,650 miles long but narrows to 55 miles wide at Illapel",
+          "choices": [
+            "Peru",
+            "Chile",
+            "Colombia",
+            "Argentina"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "It has 2 capitals: La Paz & Sucre",
+          "choices": [
+            "Ecuador",
+            "Venezuela",
+            "Paraguay",
+            "Bolivia"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This small country gained its independence from the Netherlands in 1975",
+          "choices": [
+            "Suriname",
+            "Guyana",
+            "French Guiana",
+            "Brazil"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Melissa McCarthy steals Jason Bateman's name to become the title character of this 2013 film",
+    "choices": [
+      "Bridesmaids",
+      "The Heat",
+      "Tammy",
+      "Identity Thief"
+    ],
+    "correctIndex": 3,
+    "category": "MOVIE COMEDY"
+  }
+}

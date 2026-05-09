@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-01",
+  "categories": [
+    {
+      "name": "SHAPING UP",
+      "questions": [
+        {
+          "clue": "Body-builders' nickname for their prized chest muscles",
+          "choices": [
+            "lats",
+            "traps",
+            "delts",
+            "pecs"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "M. Navratilova follows Haas' \"Eat to Win\" formula by loading up on these before a match",
+          "choices": [
+            "proteins",
+            "carbohydrates",
+            "fats",
+            "vitamins"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Serious body builders go for the \"washboard\" effect with these muscles",
+          "choices": [
+            "the abdominals",
+            "the biceps",
+            "the quadriceps",
+            "the glutes"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Exercising to the point of oxygen debt puts you in this condition, meaning \"without oxygen\"",
+          "choices": [
+            "anaerobic",
+            "hypoxic",
+            "asphyxiated",
+            "oxygenated"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Hot term for catabolic tissue breakdown, it's what Jane Fonda \"goes for\"",
+          "choices": [
+            "the pain",
+            "the shock",
+            "the drop",
+            "the burn"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AMONG THE 10 LARGEST ISLANDS",
+      "questions": [
+        {
+          "clue": "In the 1720s Daniel Defoe published a 3-volume \"Tour\" of this home island",
+          "choices": [
+            "Ireland",
+            "Iceland",
+            "Great Britain",
+            "Manhattan"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The cities of Padang & Bukittinggi are found on this Indonesian island",
+          "choices": [
+            "Java",
+            "Sumatra",
+            "Borneo",
+            "Sulawesi"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Part of Canada, this fifth-largest island is mostly inhabited by Inuit",
+          "choices": [
+            "Victoria",
+            "Ellesmere",
+            "Newfoundland",
+            "Baffin"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "At No. 10, Ellesmere Island covers about 75,000 square miles in this ocean",
+          "choices": [
+            "the Arctic",
+            "the Pacific",
+            "the Atlantic",
+            "the Indian"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A silhouette of this second-largest island kind of looks like a bird in flight",
+          "choices": [
+            "Madagascar",
+            "Greenland",
+            "Borneo",
+            "New Guinea"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WAR & PEAS",
+      "questions": [
+        {
+          "clue": "A Civil War song popular with Confederate troops celebrated goober peas, another name for these",
+          "choices": [
+            "soybeans",
+            "lentils",
+            "chickpeas",
+            "peanuts"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "During the Revolutionary War, Congress passed a resolution making peas a part of this army's rations",
+          "choices": [
+            "the Continental Navy",
+            "the Minutemen",
+            "the Continental Army",
+            "the British Army"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Pea soup was a staple in the ships of this navy that beat the French & Spanish at Trafalgar",
+          "choices": [
+            "the American navy",
+            "the French navy",
+            "the British navy",
+            "the Dutch navy"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In the 1940s General Mills produced dried peas for these \"alphabetical\" (& infamous) army rations",
+          "choices": [
+            "C-rations",
+            "K-rations",
+            "D-rations",
+            "M-rations"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Every Thursday, this country's armed forces get served a traditional pea soup called \u00e4rtsoppa",
+          "choices": [
+            "Norway",
+            "Finland",
+            "Sweden",
+            "Denmark"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1980, watching this movie we thought was the second in a series, we learned \"Do or do not. There is no try\"",
+    "choices": [
+      "Return of the Jedi",
+      "A New Hope",
+      "The Phantom Menace",
+      "The Empire Strikes Back"
+    ],
+    "correctIndex": 3,
+    "category": "MOVIE LINES"
+  }
+}

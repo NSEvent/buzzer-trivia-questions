@@ -1,0 +1,196 @@
+{
+  "date": "2028-05-05",
+  "categories": [
+    {
+      "name": "LOGIC",
+      "questions": [
+        {
+          "clue": "In this type of argument, as opposed to an inductive one, premises lead to a necessary conclusion",
+          "choices": [
+            "Inductive",
+            "Abductive",
+            "Analogical",
+            "Deductive"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This ancient Greek originated logic by extending the methods of Plato's dialogues",
+          "choices": [
+            "Plato",
+            "Socrates",
+            "Aristotle",
+            "Epicurus"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The \"theory\" of membership in these, also called classes, is part of mathematics as well as logic",
+          "choices": [
+            "Groups",
+            "Classes",
+            "Sets",
+            "Categories"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "An example of this type of argument is: All dogs bark. George is a dog. Therefore George barks.",
+          "choices": [
+            "Enthymeme",
+            "Syllepsis",
+            "Analogy",
+            "Syllogism"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Contrasted with deduction, it's the type of reasoning that moves from particulars & generalities",
+          "choices": [
+            "Deduction",
+            "Abduction",
+            "Induction",
+            "Retroduction"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CHOW",
+      "questions": [
+        {
+          "clue": "Campbell's classic recipe for green bean casserole calls for one can of this soup",
+          "choices": [
+            "cream of mushroom",
+            "cream of celery",
+            "cream of chicken",
+            "cream of potato"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "At a sushi bar order iwashi to see how many of these fish you can pack away",
+          "choices": [
+            "sardines",
+            "anchovies",
+            "mackerel",
+            "herring"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "I'm all up for Deli but let's skip this lingual meat, even if it does come with a potato pancake",
+          "choices": [
+            "cheek",
+            "lip",
+            "tongue",
+            "gum"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Chicken is popularly prepared this way, Italian for \"hunter's style\", with mushrooms, onions & tomatoes",
+          "choices": [
+            "arrabbiata",
+            "piccata",
+            "cacciatore",
+            "bergamote"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Oui! An hors d'oeuvre of raw cut-up vegetables served with a cold dip goes by this French name",
+          "choices": [
+            "beurre blanc",
+            "cr\u00e8me fra\u00eeche",
+            "crudites",
+            "bruschetta"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AMERICAN LIT",
+      "questions": [
+        {
+          "clue": "In an 1845 poem he quoted the raven as saying \"Nevermore\"",
+          "choices": [
+            "Whitman",
+            "Poe",
+            "Longfellow",
+            "Eliot"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Sinclair Lewis' real estate salesman who's \"never done a single thing I've wanted to do in my whole life\"",
+          "choices": [
+            "Tito Jones",
+            "Jim Burden",
+            "(George) Babbitt",
+            "Jay Gatsby"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "His novel \"Sister Carrie\" was inspired by his own sister Emma, who ran off with a married man",
+          "choices": [
+            "Stephen Crane",
+            "Frank Norris",
+            "Theodore Dreiser",
+            "Upton Sinclair"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "He wrote \"Bartleby, the Scrivener\" while living at Arrowhead, his farm in the Berkshires",
+          "choices": [
+            "Poe",
+            "Whitman",
+            "Melville",
+            "Emerson"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Her poem \"Daddy\" with its Nazi imagery dramatizes the oppression she felt; her actual dad was a non-Nazi entomologist",
+          "choices": [
+            "E.E. Cummings",
+            "Diane DiPrima",
+            "Sylvia Plath",
+            "Anne Sexton"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A doctor who's fluent in Pig Latin could tell you Inesway Uflay is this",
+    "choices": [
+      "bird flu",
+      "swine stock",
+      "swine flu",
+      "swine food"
+    ],
+    "correctIndex": 2,
+    "category": "PIG LATIN"
+  }
+}

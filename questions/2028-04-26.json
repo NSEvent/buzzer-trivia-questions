@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-26",
+  "categories": [
+    {
+      "name": "1970s ROCK",
+      "questions": [
+        {
+          "clue": "In 1975, 13 years after hitting No. 1 with \"Breaking Up Is Hard To Do\", he charted again with a remake of the song",
+          "choices": [
+            "Elvis Presley",
+            "Neil Sedaka",
+            "Frank Sinatra",
+            "Barry Manilow"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 1971 Janis Joplin told us in this song that \"Freedom's just another word for nothin' left to lose\"",
+          "choices": [
+            "Piece of My Heart",
+            "Cry Baby",
+            "Summertime",
+            "\"Me And Bobby McGee\""
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Janis Joplin's second Top 10 album, this gem contained the hit \"Me And Bobby McGee\"",
+          "choices": [
+            "Pearl",
+            "I Got You Babe",
+            "Hotel California",
+            "Stairway to Heaven"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In 1971 Three Dog Night sang this, \"comin' down in 3-part harmony\"",
+          "choices": [
+            "Joy to the World",
+            "\"Just An Old Fashioned Love Song\"",
+            "MacArthur Park",
+            "Rock Me Baby"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Their 1973 hit about \"The Cover of 'Rolling Stone'\" landed them on the March 29th cover of Rolling Stone",
+          "choices": [
+            "The Allman Brothers Band",
+            "Dr. Hook & the Medicine Show",
+            "Creedence Clearwater Revival",
+            "The Eagles"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WE LOVE BROADWAY",
+      "questions": [
+        {
+          "clue": "Well, chim chim cher-ee! This musical about a flying nanny is flying onto Broadway",
+          "choices": [
+            "The Sound of Music",
+            "Mary Poppins",
+            "Annie",
+            "Oliver!"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Hey, hey! This member of The Monkees took over the role of Zoser in \"Aida\" in 2004",
+          "choices": [
+            "Micky Dolenz",
+            "Peter Tork",
+            "Davy Jones",
+            "Michael Nesmith"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew is upstaged by a chandelier in the Majestic Theatre in New York.) A real accident at the Paris Opera House in 1896 inspired the famous falling chandelier in this musical",
+          "choices": [
+            "Cats",
+            "Les Mis\u00e9rables",
+            "Phantom of the Opera",
+            "Wicked"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Love means never having to say you're sorry you saw this movie actress make her stage debut in \"Festen\" in 2006",
+          "choices": [
+            "Liv Ullmann",
+            "Annette Bening",
+            "Meryl Streep",
+            "Ali MacGraw"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "There are gory goings-on in \"The Lieutenant of Inishmore\", a black comedy set in this country's Aran Islands",
+          "choices": [
+            "Scotland",
+            "Ireland",
+            "Wales",
+            "England"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TV TITLE ROLES",
+      "questions": [
+        {
+          "clue": "Will Smith 1990-96",
+          "choices": [
+            "The Golden Palace",
+            "The Cosby Show",
+            "The Fresh Prince",
+            "The Fresh Prince of Bel-Air"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Orphaned 7-year-old Emmanuel Lewis",
+          "choices": [
+            "Webster's Dictionary",
+            "Webster Groves",
+            "Webster",
+            "Webster Bank"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"Sabrina the Teenage Witch\"",
+          "choices": [
+            "Sara Gilbert",
+            "Tiffani Thiessen",
+            "Melissa Joan Hart",
+            "Melanie Brown"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"Boy Meets World\"",
+          "choices": [
+            "Jake Gyllenhaal",
+            "Topher Grace",
+            "Ben Savage",
+            "Zac Efron"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Buddy Ebsen 1973-1980",
+          "choices": [
+            "Harry Armstrong",
+            "Evan Drake",
+            "Lew Archer",
+            "Barnaby Jones"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Boba Fett froze Han Solo in carbonite & brought him to this crime lord who called the prize \"his favorite decoration\"",
+    "choices": [
+      "Darth Vader",
+      "Emperor Palpatine",
+      "Jabba the Hutt",
+      "Grand Moff Tarkin"
+    ],
+    "correctIndex": 2,
+    "category": "LARGE & IN CHARGE"
+  }
+}

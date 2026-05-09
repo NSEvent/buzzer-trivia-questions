@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-05",
+  "categories": [
+    {
+      "name": "SHAKESPEARE'S EXIT LINES",
+      "questions": [
+        {
+          "clue": "\"I'll to the friar to know his remedy; if all else fail, myself have power to die\"",
+          "choices": [
+            "Rosaline",
+            "Mercutio",
+            "Juliet",
+            "Isabella"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "\"Fair is foul and foul is fair; hover through the fog and filthy air\"",
+          "choices": [
+            "The Three Witches in \"Macbeth\"",
+            "The Porter in",
+            "Banquo and Lady Macduff",
+            "The Ghost in"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"And kiss me Kate, we will be married O'Sunday\"",
+          "choices": [
+            "Lucentio",
+            "Biondello",
+            "Petruchio",
+            "Hortensio"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"Some one take order Buckingham be brought to Salisbury; the rest march on with me\"",
+          "choices": [
+            "King Henry IV",
+            "Duke of Norfolk",
+            "Richard III",
+            "Lord Hastings"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"I kiss'd thee ere I kill'd thee: no way but this; killing myself, to die upon a kiss\"",
+          "choices": [
+            "Othello",
+            "Macbeth",
+            "Romeo and Juliet",
+            "Hamlet"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE GLOBE",
+      "questions": [
+        {
+          "clue": "On this \"new\" island, the world's second largest, some people may still practice the old habit of cannibalism",
+          "choices": [
+            "Australia",
+            "New Guinea",
+            "Greenland",
+            "Madagascar"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The globe's largest peninsula is this one found in the Middle East",
+          "choices": [
+            "Iberian Peninsula",
+            "Italian Peninsula",
+            "Arabian Peninsula",
+            "Korean Peninsula"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This \"sea\", the globe's largest lake, has been known to evaporate at an alarming rate of 40 inches per year",
+          "choices": [
+            "Dead Sea",
+            "Great Salt Lake",
+            "Caspian Sea",
+            "Lake Baikal"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Canada's Mackenzie River system traverses 2,635 miles from the Omineca mountains to this ocean",
+          "choices": [
+            "Atlantic Ocean",
+            "Pacific Ocean",
+            "Southern Ocean",
+            "Arctic Ocean"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The temple doors are a fitting color in this Asian capital city whose name means \"red hero\"",
+          "choices": [
+            "Beijing",
+            "Ulaanbaatar",
+            "Seoul",
+            "Tokyo"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE ELECTRIC COMPANY",
+      "questions": [
+        {
+          "clue": "Using direct current, this U.S. metropolis' first electric supplier was the Pearl Street Power Station in 1882",
+          "choices": [
+            "New York City",
+            "Los Angeles",
+            "Chicago",
+            "Boston"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Here's some current info: Duke Energy, headquartered in this state, brings electric power to 4 million people",
+          "choices": [
+            "California",
+            "Texas",
+            "Florida",
+            "North Carolina"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 1882 this U.S. inventor opened a steam-powered electricity generating station",
+          "choices": [
+            "Tesla",
+            "Westinghouse",
+            "Bell",
+            "Edison"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Rita Moreno, who played Carmela, was known for opening the show with this rousing 3-word cry",
+          "choices": [
+            "Hello there!",
+            "\"Hey, you guys!\"",
+            "Hey folks!",
+            "Hi everybody!"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Cartoon segments featuring Wile E. Coyote & the Road Runner were created by this man",
+          "choices": [
+            "Tex Avery",
+            "Bob Clampett",
+            "Friz Freleng",
+            "Chuck Jones"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Hyphenated term for someone old-fashioned & out of touch",
+    "choices": [
+      "an old fart",
+      "a dinosaur",
+      "a relic",
+      "a fuddy-duddy"
+    ],
+    "correctIndex": 3,
+    "category": "REAL-DEAL RHYME TIME"
+  }
+}

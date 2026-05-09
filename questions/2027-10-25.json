@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-25",
+  "categories": [
+    {
+      "name": "THE MAP OF EUROPE",
+      "questions": [
+        {
+          "clue": "In the 12th century, Afonso I reigned over this republic",
+          "choices": [
+            "Greece",
+            "Italy",
+            "Portugal",
+            "Morocco"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "It's the only country that borders Portugal",
+          "choices": [
+            "Spain",
+            "France",
+            "Portugal",
+            "Algeria"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This nation, though largely in Asia, has a small European section that's about the size of Massachusetts",
+          "choices": [
+            "Egypt",
+            "Turkey",
+            "Russia",
+            "Iran"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Founded as far back as the 7th century B.C., Constanta is one of Romania's main ports on this sea",
+          "choices": [
+            "the Mediterranean Sea",
+            "the Black Sea",
+            "the Caspian Sea",
+            "the Red Sea"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "About the same distance from two other capitals of former Soviet Socialist Republics, you'll find this capital city",
+          "choices": [
+            "Minsk",
+            "Tashkent",
+            "Kiev",
+            "Yerevan"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GOVERNMENTAL STUPID ANSWERS",
+      "questions": [
+        {
+          "clue": "This service determines, assesses & collects internal revenue in the United States",
+          "choices": [
+            "the Internal Revenue Service",
+            "the Bureau of Alcohol Tobacco and Firearms",
+            "the Federal Bureau of Investigation",
+            "the Department of Homeland Security"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Yvette Sanchez Fuentes is the head of this program that got its start in 1965 to help kids out of poverty",
+          "choices": [
+            "Upward Bound",
+            "TRIO",
+            "Head Start",
+            "Job Corps"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Even though it's in Arlington, Va., the address for this building is 1400 Defense Pentagon, Washington D.C. 20301",
+          "choices": [
+            "the White House",
+            "the Capitol Building",
+            "the State Department",
+            "the Pentagon"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The Ohio House of Representatives makes state law in this building",
+          "choices": [
+            "the Capitol Building",
+            "the State House",
+            "the Governor's Mansion",
+            "the Supreme Court"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In this post James Clapper serves under Secretary of Defense Gates, who turns to him for intelligence",
+          "choices": [
+            "the Chief of Staff",
+            "the National Security Advisor",
+            "the Undersecretary of Defense (for Intelligence)",
+            "the Deputy Secretary"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GROCERIES",
+      "questions": [
+        {
+          "clue": "Arm & Hammer suggests using one box of this for the fridge & another for the freezer",
+          "choices": [
+            "borax",
+            "cornstarch",
+            "cream of tartar",
+            "baking soda"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Nabisco's Double Stuf version of this chocolate sandwich cookie has twice the filling",
+          "choices": [
+            "an Oreo",
+            "a Brownie",
+            "a Nilla Wafer",
+            "a Girl Scout Cookie"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "You could spell out this cereal's slogan, \"ABC Delicious\", with its frosted letters",
+          "choices": [
+            "Froot Loops",
+            "Frosted Flakes",
+            "Cocoa Puffs",
+            "Alpha-Bits"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "These 4 reptiles are so popular that Chef Boyardee named a canned pasta dish for them",
+          "choices": [
+            "the Angry Birds",
+            "the Powerpuff Girls",
+            "the Smurfs",
+            "the Teenage Mutant Ninja Turtles"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Friskies' \"4 Flavor Crunchy Dog Food\" is called \"Come 'N\" do this",
+          "choices": [
+            "Mary Poppins",
+            "Get It",
+            "Elvis Presley",
+            "Michael Jackson"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Meaning \"to use unfair means\", this action was prohibited by the Marquess of Queensberry's rules",
+    "choices": [
+      "use an underhand pitch",
+      "hold an opponent's arms",
+      "hit below the belt",
+      "wear padded gloves"
+    ],
+    "correctIndex": 2,
+    "category": "METAPHORS BE WITH YOU"
+  }
+}

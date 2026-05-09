@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-29",
+  "categories": [
+    {
+      "name": "RODENTS",
+      "questions": [
+        {
+          "clue": "The crested species of this is Africa's largest rodent; its quills can reach over a foot in length",
+          "choices": [
+            "a porcupine",
+            "a hedgehog",
+            "a porpoise",
+            "a porcupine fish"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "These rodents live in towns in extended family groups called coteries",
+          "choices": [
+            "marmots",
+            "prairie dogs",
+            "ground squirrels",
+            "beavers"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A popular pet, it was introduced to Europe from Guiana in the 16th century",
+          "choices": [
+            "the guinea pig",
+            "the capybara",
+            "the chinchilla",
+            "the degu"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The giant species of this rodent has been recorded as gliding up to 1,500 feet from tree to tree",
+          "choices": [
+            "the sugar glider",
+            "the flying phalanger",
+            "flying squirrel",
+            "the colugo"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "When Lewis & Clark encountered this Great Plains rodent, they called it a \"barking squirrel\"",
+          "choices": [
+            "a ground squirrel",
+            "a chipmunk",
+            "a prairie dog",
+            "a marmot"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DRIVER'S ED.",
+      "questions": [
+        {
+          "clue": "On a one-way street, you may not make this turn symbolized by a letter",
+          "choices": [
+            "a left turn",
+            "a right turn",
+            "a U-turn",
+            "a lane change"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "You must do this before you turn or change lanes",
+          "choices": [
+            "check your mirrors",
+            "honk your horn",
+            "slow down",
+            "put on your turn signal"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "If, God forbid, the gas pedal sticks on you, quickly shift into this",
+          "choices": [
+            "neutral",
+            "reverse",
+            "park",
+            "drive"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "(Sarah of the Clue Crew reports) When you pull out, check your mirrors & look over your shoulder at the area called this",
+          "choices": [
+            "rear view mirror",
+            "blind spot",
+            "side mirror",
+            "windshield glare"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "When parking your car facing downhill you should do this with your front wheels",
+          "choices": [
+            "turn them to the right (turn them towards the curb)",
+            "turn them to the left (turn them towards the road)",
+            "turn them straight ahead",
+            "turn them upwards"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MAKE YOUR OWN SPY NOVEL TITLES",
+      "questions": [
+        {
+          "clue": "The + a Jewish holiday in which the story of Exodus is retold + a musical term for a gradual increase in volume",
+          "choices": [
+            "The Passover Diminuendo",
+            "The Exodus Fortissimo",
+            "The Passover Crescendo",
+            "The Seder Mezzo Forte"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The + a Green Knight-battling Round Tabler + milk substitute for babies, such as Enfamil",
+          "choices": [
+            "The Lancelot Syrup",
+            "The Gawain Formula",
+            "The Percival Lotion",
+            "The Bedivere Mixture"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The + the zodiac sign covering June 1 + an autograph on a legal document",
+          "choices": [
+            "The Cancer Contract",
+            "The Libra Agreement",
+            "The Gemini Signature",
+            "The Aries Stipulation"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The + any one of Jason's sailors in Greek myth + any line of geographic longitude",
+          "choices": [
+            "The Argonaut Latitude",
+            "The Argonaut Meridian",
+            "The Argonaut Parallel",
+            "The Argonaut Equator"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The + a 35-year \"Price is Right\" host + an act of reasoning from the general to the specific",
+          "choices": [
+            "The Barker Deduction",
+            "The Barker Induction",
+            "The Barker Abstraction",
+            "The Barker Generalization"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"American Wilderness\" is \"The Story of\" this 19th century school of painting",
+    "choices": [
+      "the Barbizon School",
+      "the Hudson River School",
+      "the Luminist Circle",
+      "the Ashcan Movement"
+    ],
+    "correctIndex": 1,
+    "category": "ART BOOKS"
+  }
+}

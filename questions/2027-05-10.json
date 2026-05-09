@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-10",
+  "categories": [
+    {
+      "name": "LESSEN PLAN",
+      "questions": [
+        {
+          "clue": "The 1914 Clayton one of these business-restricting acts prohibits mergers when they \"lessen competition\"",
+          "choices": [
+            "monopoly",
+            "cartel",
+            "trustbuster",
+            "antitrust"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Dr. Kellyann says you shed pounds & wrinkles with this alliterative stock made from short ribs or a chicken carcass",
+          "choices": [
+            "chicken soup",
+            "meat stock",
+            "bone marrow",
+            "bone broth"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Because of 2010 Census tallies, New York & Ohio each lost 2 of these",
+          "choices": [
+            "senators",
+            "governors",
+            "representatives",
+            "congressmen"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "To lessen his reliance on Chinese bureaucrats, Kublai Khan used foreigners like this man born in Venice in 1254",
+          "choices": [
+            "John Cabot",
+            "Marco Polo",
+            "Amerigo Vespucci",
+            "Christopher Columbus"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The \"Big Book\" of this now-trendy fermented tea with a Japanese name tells how to brew it and extols its health benefits",
+          "choices": [
+            "matcha",
+            "pu-erh",
+            "kombucha",
+            "genmaicha"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ISLANDS OF THE SOUTH PACIFIC",
+      "questions": [
+        {
+          "clue": "The 1840 Treaty of Waitangi guaranteed the Maori rights to this country's land in return for British sovereignty",
+          "choices": [
+            "Australia",
+            "Fiji",
+            "Papua New Guinea",
+            "New Zealand"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Most of the inhabitants of this tiny island are descended from the Bounty mutineers & their Polynesian wives",
+          "choices": [
+            "Pitcairn Island",
+            "Easter Island",
+            "Tahiti",
+            "Galapagos Islands"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This island is named for the captain of the British whaler L'Aigle, not the first mate of the Pequod",
+          "choices": [
+            "Mocha (Island)",
+            "Ahab (Island)",
+            "Starbuck (Island)",
+            "Queequeg (Island)"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Legend says that the god Maui threw a fishhook into the sea from Samoa & brought up this current island kingdom",
+          "choices": [
+            "Fiji",
+            "Tonga",
+            "Vanuatu",
+            "Samoa"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Administered by the U.S. Department of the Interior, this territory consists of Tutuila & 6 other islands",
+          "choices": [
+            "Guam",
+            "American Samoa",
+            "Northern Mariana Islands",
+            "Wake Island"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE HOME SPA",
+      "questions": [
+        {
+          "clue": "For disguise, try one in black silk; to refresh your skin, try one made from oatmeal or avocado",
+          "choices": [
+            "a mask",
+            "a hat",
+            "a scarf",
+            "a veil"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "National name for the procedure of giving yourself white-tipped fingernails",
+          "choices": [
+            "a gel polish",
+            "a French manicure (French tip)",
+            "a dip powder",
+            "a shellac coat"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "(Cheryl of the Clue Crew wipes some oil on her hand in a home spa.) Oil from this shrub with a Spanish name makes a good moisturizer; it's similar to our natural skin oil",
+          "choices": [
+            "lavender",
+            "jojoba",
+            "aloe",
+            "coconut"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Oil from this shrub with a Spanish name makes a good moisturizer; it's similar to our natural skin oil",
+          "choices": [
+            "the willow",
+            "the jojoba",
+            "the olive",
+            "the palm"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Cleopatra is said to have used rejuvenating products from this saline body of water in which the Jordan ends",
+          "choices": [
+            "the Red Sea",
+            "the Caspian Sea",
+            "the Great Salt Lake",
+            "the Dead Sea"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "He served in Vietnam before joining New York's finest as Det. Sipowicz on \"NYPD Blue\"",
+    "choices": [
+      "Denzel Washington",
+      "(Dennis) Franz",
+      "Samuel L. Jackson",
+      "Forest Whitaker"
+    ],
+    "correctIndex": 1,
+    "category": "CELEBRITY VETERANS"
+  }
+}

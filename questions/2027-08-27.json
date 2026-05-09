@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-27",
+  "categories": [
+    {
+      "name": "MUSIC ON TV",
+      "questions": [
+        {
+          "clue": "After this British quintet's October 1964 appearance, Ed Sullivan announced they'd never be back on his show",
+          "choices": [
+            "The Beatles",
+            "Rolling Stones",
+            "The Who",
+            "The Kinks"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "(I'm James McDaniel) Before \"NYPD Blue\", I appeared in this Steven Bochco series in which policemen burst into song",
+          "choices": [
+            "Hill Street Blues",
+            "Cop Rock",
+            "L.A. Law",
+            "NYPD Blue"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "On \"Star Trek: The Next Generation\", this Vulcan, Spock's father, is brought to tears by a Brahms chamber piece",
+          "choices": [
+            "Sulu",
+            "Sarek",
+            "Data",
+            "Q"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The heroine of this streaming series played the oboe & a certain composer's oboe concerto in C major was heard in it",
+          "choices": [
+            "The Crown",
+            "Bridgerton",
+            "Downton Abbey",
+            "Mozart in the Jungle"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "As \"Hannibal\", this actor plays a bit of the \"Goldberg\" variations, also heard in \"The Silence of the Lambs\"",
+          "choices": [
+            "Mads Mikkelsen",
+            "Johnny Depp",
+            "Anthony Hopkins",
+            "Gary Oldman"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "19th C. AMERICA",
+      "questions": [
+        {
+          "clue": "In the early 1800s these runaways took refuge in Seminole territory",
+          "choices": [
+            "escaped slaves",
+            "indentured servants",
+            "convict laborers",
+            "political dissidents"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It was 1st used in the U.S. May 24, 1844 to send a message from D.C. to Baltimore",
+          "choices": [
+            "telephone",
+            "telegraph",
+            "teleprinter",
+            "telex"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The Treaty of Ghent, which ended this war, stopped the fighting but no territory changed hands",
+          "choices": [
+            "Mexican-American War",
+            "War of 1898",
+            "War of 1812",
+            "Civil War"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1892 farm leaders from this new political party nominated James B. Weaver for the presidency",
+          "choices": [
+            "Greenback Party",
+            "Prohibition Party",
+            "Free Soil Party",
+            "Populist Party"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Noted for his triumph in Tripoli, this naval hero was killed in a duel in 1820",
+          "choices": [
+            "Oliver Hazard Perry",
+            "Thomas Macdonough",
+            "Stephen Decatur",
+            "Jacob Jones"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GOLFERS",
+      "questions": [
+        {
+          "clue": "This Aussie golfer has refused offers to pose for Playboy & Penthouse",
+          "choices": [
+            "Karrie Webb",
+            "Jan Stephenson",
+            "Michelle McGann",
+            "Beth Daniel"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 2000 Tiger Woods' winning streak brought new attention to this man's record 11 straight wins in 1945",
+          "choices": [
+            "Sam Snead",
+            "Ben Hogan",
+            "Jack Nicklaus",
+            "Byron Nelson"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Born in Latrobe, Penn., this popular pro did his military service in the Coast Guard",
+          "choices": [
+            "Jack Nicklaus",
+            "Tiger Woods",
+            "Ben Hogan",
+            "Arnold Palmer"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "If you've ever wondered, him nickname comes from his initials F.U.Z.",
+          "choices": [
+            "Tom Watson",
+            "Fuzzy Zoeller",
+            "Lee Trevino",
+            "Gene Sarazen"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Bobby Jones' Grand Slam didn't include this Augusta, Georgia tournament he later co-founded",
+          "choices": [
+            "The Masters",
+            "The PGA Championship",
+            "The U.S. Open",
+            "The Open Championship"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The Taft Museum of Art",
+    "choices": [
+      "Ohio",
+      "Pennsylvania",
+      "Kentucky",
+      "Indiana"
+    ],
+    "correctIndex": 0,
+    "category": "STATE OF THE ART MUSEUM"
+  }
+}

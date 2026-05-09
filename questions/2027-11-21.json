@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-21",
+  "categories": [
+    {
+      "name": "INVENTION",
+      "questions": [
+        {
+          "clue": "In 1893 Marie Tucek invented an early version of this metallic support system in brassieres",
+          "choices": [
+            "underwire",
+            "pocket spring",
+            "lace trim",
+            "elastic band"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1814 London Times editor John Walter snapped up the new double-cylinder version of this",
+          "choices": [
+            "a steam locomotive",
+            "a printing press",
+            "a telegraph machine",
+            "a rotary mower"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "(Cheryl of the Clue Crew presents from the Eli Whitney Museum in New Haven, Connecticut.) In 1793 this device changed an industry by separating the seeds from the fiber",
+          "choices": [
+            "the cotton mill",
+            "the spinning jenny",
+            "the threshing machine",
+            "the cotton gin"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Reading about this group's fate in 1840s California spurred Gail Borden to invent a dried meat biscuit, & then condensed milk",
+          "choices": [
+            "the Donner Party",
+            "the Lost Battalion",
+            "the Donner Pass",
+            "the Oregon Trail"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Working at Kodak in the 1970s, Steven Sasson invented this device that became the company's ruination",
+          "choices": [
+            "the digital camera",
+            "the film scanner",
+            "the instant camera",
+            "the digital copier"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "EUROPEAN CUISINE",
+      "questions": [
+        {
+          "clue": "Panettone, a traditional Italian treat for this holiday, can be baked in a coffee can",
+          "choices": [
+            "Halloween",
+            "Thanksgiving",
+            "Christmas",
+            "Easter"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Made with cheese & nuts, paskha is a traditional Russian treat for this spring holiday",
+          "choices": [
+            "Christmas",
+            "Easter",
+            "New Year",
+            "Hanukkah"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Blaa may not sound appetizing, but it's a nice floury bread from Waterford in this country",
+          "choices": [
+            "Scotland",
+            "England",
+            "Wales",
+            "Ireland"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Some folks make Welsh rarebit with milk instead of this traditional liquid; Homer Simpson would be outraged",
+          "choices": [
+            "water",
+            "beer",
+            "wine",
+            "stock"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "There are many variations of this layered Greek dish, but you probably know the one made with meat & eggplant",
+          "choices": [
+            "saganaki",
+            "dolmades",
+            "spanakopita",
+            "moussaka"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"BIG\" & \"LITTLE\"",
+      "questions": [
+        {
+          "clue": "\"I think I can \u2014 I think I can \u2014 I think I can\" name this classic children's tale by Watty Piper",
+          "choices": [
+            "The Little Engine That Would",
+            "The Little Engine That Did",
+            "The Little Engine That Could",
+            "The Little Engine That Should"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1928 Commander Richard E. Byrd established this U.S. base on Antarctica",
+          "choices": [
+            "Little Russia",
+            "Little Japan",
+            "Little America",
+            "Little Chile"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Your kids might enjoy a visit to S. Williamsport, PA. where there's a museum devoted to this sports program",
+          "choices": [
+            "Little League",
+            "Major League",
+            "Youth League",
+            "Junior League"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "(Hi, I'm Brenda Lee) The title of one of my first records gave me this \"explosive\" nickname",
+          "choices": [
+            "\"Little Miss Muffet\"",
+            "\"Little Miss Sunshine\"",
+            "\"Little Miss Dynamite\"",
+            "\"Little Miss Perfect\""
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It sounds every hour on the hour outside London's houses of Parliament",
+          "choices": [
+            "Big Brother",
+            "Big Ben's Twin",
+            "Big Ben",
+            "Big Ben's Cousin"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Petr Tranchell turned his 1886 novel \"The Mayor of Casterbridge\" into a 1951 opera",
+    "choices": [
+      "(Thomas) Hardy's Son",
+      "(Charles) Dickens",
+      "(Thomas) Hardy",
+      "(George) Eliot"
+    ],
+    "correctIndex": 2,
+    "category": "NOVEL OPERAS"
+  }
+}

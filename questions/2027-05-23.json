@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-23",
+  "categories": [
+    {
+      "name": "1776",
+      "questions": [
+        {
+          "clue": "In that year of America's rise, Edward Gibbon began to write of \"The Decline and Fall of\" this",
+          "choices": [
+            "the Greek Kingdom",
+            "the Roman Empire",
+            "the British Throne",
+            "the French Republic"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Completes the first sentence of Thomas Paine's first \"Crisis\" pamphlet, \"These are the times that...\"",
+          "choices": [
+            "test our loyalty",
+            "bring forth hope",
+            "define our fate",
+            "try men's souls"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "On July 4, 1776 the Congress appointed Franklin, Adams & Jefferson to design this",
+          "choices": [
+            "The Great Seal of the United States",
+            "The Liberty Bell",
+            "The Declaration of Independence",
+            "The Federal Flag"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The German title of this 1776 Von Klinger play lent its name to a literary movement headed by Goethe und Schiller",
+          "choices": [
+            "Romantik und Idealismus",
+            "Sturm und Drang",
+            "Aufkl\u00e4rung und Vernunft",
+            "Barock und Rokoko"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"First In Freedom\", this U.S. colony was first to authorize its delegates to vote for independence",
+          "choices": [
+            "South Carolina",
+            "Virginia",
+            "Pennsylvania",
+            "North Carolina"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "KEEP THE FAITH",
+      "questions": [
+        {
+          "clue": "Kalkin is an avatar-to-come of this Hindu deity",
+          "choices": [
+            "Shiva",
+            "Brahma",
+            "Vishnu",
+            "Ganesha"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Apis, a bull god of this ancient people, was believed to be the personification of the creator god Ptah",
+          "choices": [
+            "the Romans",
+            "the Egyptians",
+            "the Greeks",
+            "the Assyrians"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A group of 16th century German princes started this Protestant denomination",
+          "choices": [
+            "Lutheranism",
+            "Calvinism",
+            "Anabaptism",
+            "Methodism"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The Koran was revealed to Muhammad during this century",
+          "choices": [
+            "the eighth",
+            "the sixth",
+            "the seventh",
+            "the ninth"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "2-letter name shared by the Maori creator of the universe & Jupiter's third-largest moon",
+          "choices": [
+            "Io",
+            "Lo",
+            "Mo",
+            "Do"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"SIDE\" EFFECTS",
+      "questions": [
+        {
+          "clue": "A straight man, like Gromit to Wallace",
+          "choices": [
+            "a partner",
+            "a sidekick",
+            "a foil",
+            "an assistant"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Manner assumed by good doctors",
+          "choices": [
+            "bedside manner",
+            "consulting manner",
+            "office manner",
+            "hospital manner"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "You can get an 18-pound collection of every one of these Gary Larson cartoons",
+          "choices": [
+            "\"The Far Side\"",
+            "\"Calvin and Hobbes\"",
+            "\"Peanuts\"",
+            "\"Doonesbury\""
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Economists also know it as Reaganomics",
+          "choices": [
+            "trickle-down economics",
+            "demand-side economics",
+            "supply-side economics",
+            "keynesian economics"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A trial judge may call this conference with the attorneys, out of the jury's hearing",
+          "choices": [
+            "sidebar conversation",
+            "in camera hearing",
+            "bench conference",
+            "sidebar"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Mozart's \"Eine Kleine Gigue\" is not as well known as this similarly-titled piece, Kochel 525",
+    "choices": [
+      "\"Eine Kleine Nachtmusik\"",
+      "The Magic Flute",
+      "Don Giovanni",
+      "The Marriage of Figaro"
+    ],
+    "correctIndex": 0,
+    "category": "CLASSICAL CLASSICS"
+  }
+}

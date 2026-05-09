@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-13",
+  "categories": [
+    {
+      "name": "INSIDE THE COUNTRY",
+      "questions": [
+        {
+          "clue": "We rate the roads in this European principality a \"ten\"",
+          "choices": [
+            "Liechtenstein",
+            "Monaco",
+            "Andorra",
+            "San Marino"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "You can \"ham\" it up in the middle of this commonwealth in the Atlantic",
+          "choices": [
+            "the Azores",
+            "the Bahamas",
+            "the Canaries",
+            "the Bermuda"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Let's \"run\" inside this sultanate on Borneo",
+          "choices": [
+            "Sarawak",
+            "Sabah",
+            "Java",
+            "Brunei"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "You can find \"Mali\" spelled out in the name of this other African country",
+          "choices": [
+            "Uganda",
+            "Rwanda",
+            "Somalia",
+            "Kenya"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "We can have a \"ton\" of fun in this northernmost Baltic state",
+          "choices": [
+            "Latvia",
+            "Lithuania",
+            "Finland",
+            "Estonia"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE ROLE PLAYED",
+      "questions": [
+        {
+          "clue": "Sandra Dee, Deborah Walley & Cindy Carol",
+          "choices": [
+            "Sandy",
+            "Katy",
+            "Gidget",
+            "Jan"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Lon Chaney, Claude Rains & Herbert Lom",
+          "choices": [
+            "the Hunchback of Notre Dame",
+            "the Invisible Man",
+            "the Phantom of the Opera",
+            "Dracula"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "George Montgomery, Fess Parker, John Wayne",
+          "choices": [
+            "Paul Bunyan",
+            "Daniel Boone",
+            "Kit Carson",
+            "Davy Crockett"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Boris Karloff, Lon Chaney, Jr., Arnold Vosloo",
+          "choices": [
+            "the Mummy",
+            "Frankenstein's monster",
+            "Dracula",
+            "The Wolf Man"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Theda Bara, Claudette Colbert, Elizabeth Taylor",
+          "choices": [
+            "Cleopatra",
+            "Joan of Arc",
+            "Marie Antoinette",
+            "Lady Macbeth"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "STATUARY HALL: THE STATE REPRESENTED",
+      "questions": [
+        {
+          "clue": "Brigham Young",
+          "choices": [
+            "Colorado",
+            "Arizona",
+            "New Mexico",
+            "Utah"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "For Oklahoma: Sequoyah & this humorist",
+          "choices": [
+            "Will Rogers",
+            "Mark Twain",
+            "Bob Hope",
+            "George Carlin"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "William Jennings Bryan",
+          "choices": [
+            "Kansas",
+            "Nebraska",
+            "Colorado",
+            "Wyoming"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Helen Keller",
+          "choices": [
+            "Alabama",
+            "Georgia",
+            "Mississippi",
+            "Louisiana"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Father Damien",
+          "choices": [
+            "Alaska",
+            "California",
+            "Hawaii",
+            "Oregon"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Asian action star Zhou Run Fa is better known by this name in the West",
+    "choices": [
+      "Jackie Chan",
+      "Jet Li",
+      "Donnie Yen",
+      "Chow Yun Fat"
+    ],
+    "correctIndex": 3,
+    "category": "EYE ON ASIA"
+  }
+}

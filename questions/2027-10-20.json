@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-20",
+  "categories": [
+    {
+      "name": "LATIN WORDS & PHRASES",
+      "questions": [
+        {
+          "clue": "It literally means \"in glass\" & is where some fertilizations occur",
+          "choices": [
+            "In Vivo",
+            "In Situ",
+            "In Vitro",
+            "In Vitrum"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The period before this event is called ante-partum",
+          "choices": [
+            "conception",
+            "childbirth",
+            "gestation",
+            "menopause"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The motto \"Ad astra per aspera\" means \"to\" these \"through hardships\"",
+          "choices": [
+            "to the heavens",
+            "to the moon",
+            "to the stars",
+            "to the sky"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Horace's quote \"carpe diem, quam minimum credula postero\" means do this, \"put no trust in the morrow\"",
+          "choices": [
+            "enjoy the moment",
+            "live in the now",
+            "seize the day",
+            "take today"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Meaning \"course of one's life\", it's more extensive than a resum\u00e9 & emphasizes academic achievements",
+          "choices": [
+            "a curriculum vitae",
+            "a cover letter",
+            "a resume summary",
+            "a professional bio"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SINGERS & THEIR FILMS",
+      "questions": [
+        {
+          "clue": "She was \"Divine\" as the voice of a French poodle named Georgette in the Disney film \"Oliver & Company\"",
+          "choices": [
+            "Barbra Streisand",
+            "Cher",
+            "Bette Midler",
+            "Madonna"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "She earned a 1955 Oscar nomination for acting in \"Pete Kelly's Blues\" 3 years before she gave us \"Fever\"",
+          "choices": [
+            "Doris Day",
+            "Ella Fitzgerald",
+            "Judy Garland",
+            "Peggy Lee"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Wayne Newton played professor Joe Butcher in the James Bond film \"Licence to\" do this",
+          "choices": [
+            "to Live",
+            "to Kill",
+            "to Die",
+            "to Let Die"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "He appeared in \"Voyage To The Bottom Of The Sea\" before he hit the beach with Annette Funicello",
+          "choices": [
+            "Bobby Rydell",
+            "Fabian Forte",
+            "Frankie Avalon",
+            "Billy Dee Williams"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "At age 9 she was \"Zadorable\" as a Martian child in 1964's \"Santa Claus Conquers The Martians\"",
+          "choices": [
+            "Pia Zadora",
+            "Annette Funicello",
+            "Shelley Long",
+            "Cybill Shepherd"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "POTENT POTABLES",
+      "questions": [
+        {
+          "clue": "The Bartender's Guide calls it the Russian national drink",
+          "choices": [
+            "vodka martini",
+            "stoli",
+            "absolut",
+            "vodka"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In the song, \"American Pie\", it's what \"them good ole boys were drinkin'\"",
+          "choices": [
+            "whiskey & rye",
+            "beer and wine",
+            "moonshine",
+            "bourbon"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The name of this German white wine can be translated as \"blessed mother's milk\"",
+          "choices": [
+            "Liebfraumilch",
+            "Riesling",
+            "Spatlese",
+            "Kabinett"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The formula for this liquor used in a Scarlett O'Hara is secret, but it's probably bourbon based",
+          "choices": [
+            "Southern Bell",
+            "Georgia Peach",
+            "Crescent City",
+            "Southern Comfort"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A beauty spot cocktail is gin, dry & sweet vermouth, orange juice & a dash of this pomegranate-flavored syrup",
+          "choices": [
+            "cr\u00e8me de cassis",
+            "rose syrup",
+            "cherry brandy",
+            "grenadine"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1834 this \"attractive\" Englishman patented a covered cab slung between 2 large wheels",
+    "choices": [
+      "George Stephenson",
+      "Isambard Kingdom Brunel",
+      "(Joseph) Hansom",
+      "Thomas Telford"
+    ],
+    "correctIndex": 2,
+    "category": "WHEELS"
+  }
+}

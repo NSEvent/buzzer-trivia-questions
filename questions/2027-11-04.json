@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-04",
+  "categories": [
+    {
+      "name": "NUTS",
+      "questions": [
+        {
+          "clue": "About 1900 a fungus almost completely destroyed the American species of this \"spreading\" tree",
+          "choices": [
+            "the oak tree",
+            "the elm tree",
+            "the maple tree",
+            "the chestnut tree"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "America's leading pecan-growing state",
+          "choices": [
+            "Georgia",
+            "Texas",
+            "Florida",
+            "California"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The English species of this popular food nut does not actually thrive in England",
+          "choices": [
+            "a hazelnut",
+            "a walnut",
+            "an almond",
+            "a pecan"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In the musical \"South Pacific\", Bloody Mary was said to chew these nuts which blacken the teeth",
+          "choices": [
+            "areca nuts",
+            "kola nuts",
+            "betel nuts",
+            "poppy seeds"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Due to an irritating oil, touching the shell of this C-shaped nut can cause blisters",
+          "choices": [
+            "cashew",
+            "pecan",
+            "almond",
+            "walnut"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ARCHITECTS",
+      "questions": [
+        {
+          "clue": "You can buy copies of the china this architect designed for Tokyo's Imperial Hotel",
+          "choices": [
+            "Frank Lloyd Wright",
+            "Louis Kahn",
+            "Walter Gropius",
+            "Le Corbusier"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Born in Canton, China in 1917, he designed Boston's John Hancock Tower",
+          "choices": [
+            "Alvar Aalto",
+            "Kenzo Tange",
+            "I.M. Pei",
+            "Marcel Breuer"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "(Sarah of the Clue Crew delivers the clue from Pittsburgh, PA.) This American architect, born in 1906 & known for his work in glass, designed PPG Place, made with 20,000 pieces of glass",
+          "choices": [
+            "Richard Meier",
+            "Frank Gehry",
+            "Michael Graves",
+            "Philip Johnson"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Ludwig Mies appended this, his mother's surname, to his own",
+          "choices": [
+            "van der Rohe",
+            "de Stijl",
+            "van Allen",
+            "van Gogh"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Walter Gropius founded this innovative design school at Weimar in 1919",
+          "choices": [
+            "the De Stijl",
+            "the Blaue Reiter",
+            "the Bauhaus",
+            "the Constructivists"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LITERARY E-MAIL ADDRESSES",
+      "questions": [
+        {
+          "clue": "hogwarts_headmaster @harrypotter.edu",
+          "choices": [
+            "Snape",
+            "Voldemort",
+            "Dumbledore",
+            "Lockhart"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "megs_mom@ littlewomen.com",
+          "choices": [
+            "Marmee",
+            "March",
+            "Abba",
+            "Beth"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "aka-smeagol@my-precious.info",
+          "choices": [
+            "Sm\u00e9agol",
+            "Gollum",
+            "Deagol",
+            "Sauron"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "naval-historian-action-guy@clancy.cia.gov",
+          "choices": [
+            "Jack Bauer",
+            "Jack Ryan",
+            "Tom Clancy",
+            "John Clark"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "wannabe_crazy_ irish_con_man@ oneflewoverthe cuckoosnest.com",
+          "choices": [
+            "Nurse Ratched",
+            "Chief Bromden",
+            "Martini",
+            "Randle McMurphy"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "He said he made his brother attorney general \"to give him...experience before he goes out to practice law\"",
+    "choices": [
+      "FDR",
+      "LBJ",
+      "JFK",
+      "Nixon"
+    ],
+    "correctIndex": 2,
+    "category": "PRESIDENTIAL WIT"
+  }
+}

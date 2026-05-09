@@ -1,0 +1,207 @@
+{
+  "date": "2028-02-19",
+  "categories": [
+    {
+      "name": "WE WILL ROCK YOU",
+      "questions": [
+        {
+          "clue": "\"I Love Rock 'N Roll\", \"I Hate Myself for Loving You\"",
+          "choices": [
+            "Daryl Hannah",
+            "Joan Rivers",
+            "Joan Jett",
+            "Janet Jackson"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This 2015 Rock Hall inductee: \"We came back to Liverpool, & there was a knock on my door. The drummer wasn't well & would I sit in?\"",
+          "choices": [
+            "John Lennon",
+            "Paul McCartney",
+            "George Harrison",
+            "Ringo Starr"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In November 2018 this band flew high with 12 of 50 songs on the Hot Rock Songs chart, including \"Bandito\", \"Morph\" & \"My Blood\"",
+          "choices": [
+            "Imagine Dragons",
+            "Twenty One Pilots",
+            "OneRepublic",
+            "The Weeknd"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "You can ponder if Euterpe herself inspired this band to write, \"Dig down...dig down...dig down and find faith\"",
+          "choices": [
+            "Radiohead",
+            "Nirvana",
+            "Muse",
+            "Coldplay"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"The Pretender\", \"Times Like These\"",
+          "choices": [
+            "Nirvana",
+            "The Foo Fighters",
+            "Green Day",
+            "Weezer"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RED ALL OVER",
+      "questions": [
+        {
+          "clue": "Less common today, this infectious bacterial disease of kids characterized by a red rash has a hue of red in its name",
+          "choices": [
+            "scarlet fever",
+            "chicken pox",
+            "measles",
+            "mumps"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A tarocco is this type of hybrid orange whose flesh is actually a vivid red, thanks to anthocyanins",
+          "choices": [
+            "navel orange",
+            "a blood orange",
+            "valencia orange",
+            "mandarin orange"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The killer in this Thomas Harris novel is obsessed with a William Blake image of the title mythological creature",
+          "choices": [
+            "The Red Dragon",
+            "The Silent Sheep",
+            "The Black Lamb",
+            "The Pale Calf"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This word for red wine, now especially Bordeaux wine, can also mean a reddish color",
+          "choices": [
+            "burgundy",
+            "merlot",
+            "claret",
+            "pinot noir"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This vibrant form of red takes its name from the Latin for \"red worm\"",
+          "choices": [
+            "scarlet",
+            "vermilion",
+            "crimson",
+            "ruby"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "I LOVE A PARADE",
+      "questions": [
+        {
+          "clue": "Newport Beach in this California county has a lighted holiday boat parade dating back to 1908",
+          "choices": [
+            "Los Angeles County",
+            "San Diego County",
+            "Riverside County",
+            "Orange County"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This 2-word military-sounding job is the ceremonial head of a parade",
+          "choices": [
+            "field marshal",
+            "commander general",
+            "troop leader",
+            "grand marshal"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Festivities on this July 14th holiday include fireworks & a huge military parade down Paris' Champs-Elysees",
+          "choices": [
+            "Bermuda Day",
+            "Victory Day",
+            "Republic Day",
+            "Bastille Day"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The annual Chinese New Year parade in this West Coast city is the largest celebration of its kind outside Asia",
+          "choices": [
+            "Los Angeles",
+            "Seattle",
+            "San Francisco",
+            "New York"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Appleton in this state claims the oldest Flag Day parade in the nation",
+          "choices": [
+            "Michigan",
+            "Ohio",
+            "Illinois",
+            "Wisconsin"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Napoleon lived at the Briars Pavilion & then at Longwood on this island in the South Atlantic",
+    "choices": [
+      "Tristan da Cunha",
+      "Ascension Island",
+      "Falkland Islands",
+      "Saint Helena"
+    ],
+    "correctIndex": 3,
+    "category": "SAINTS ON THE MAP"
+  },
+  "bonusRound": {
+    "clue": "\"The Short\"",
+    "choices": [
+      "Louis (IX of France)",
+      "Philippe (IV of France)",
+      "Charles (IV of France)",
+      "Pepin (III of France)"
+    ],
+    "correctIndex": 3,
+    "category": "ROYAL NICKNAMES"
+  }
+}

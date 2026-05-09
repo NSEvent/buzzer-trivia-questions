@@ -1,0 +1,207 @@
+{
+  "date": "2028-04-22",
+  "categories": [
+    {
+      "name": "CHOCOLATE",
+      "questions": [
+        {
+          "clue": "When chocolate is exposed to sunlight or heat, this rises to the surface, leaving a gray film",
+          "choices": [
+            "cocoa powder",
+            "milk solids",
+            "cocoa butter",
+            "vanilla extract"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1600s, brick dust was sometimes used to improve color of this chocolate powder",
+          "choices": [
+            "cocoa",
+            "caramel",
+            "sugar",
+            "chocolate chips"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Emeril's recipe for chocolate-covered turtles doesn't actually call for turtles but for these nuts",
+          "choices": [
+            "cashews",
+            "pecans",
+            "almonds",
+            "walnuts"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "With a little luck or fate, you might find yourself at this New York City restaurant famous for its Frrrozen Hot Chocolate",
+          "choices": [
+            "Eataly",
+            "Serendipity",
+            "Le Bernardin",
+            "The Plaza"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "As far as we know, this was the 1st European country to enjoy the taste of chocolate",
+          "choices": [
+            "Portugal",
+            "France",
+            "Italy",
+            "Spain"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SHOPPING ABBREV.",
+      "questions": [
+        {
+          "clue": "It's been around for more than a century: A&F",
+          "choices": [
+            "American Express",
+            "Abercrombie & Fitch",
+            "Apple & Oak",
+            "Atlas & Field"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "These \"Outfitters\": AE",
+          "choices": [
+            "American Express",
+            "American Eagle",
+            "Arizona Express",
+            "Alaska Eagle"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "It has a line called pink: VS",
+          "choices": [
+            "Very Secret",
+            "Victoria's Secret",
+            "Vogue Style",
+            "Velvet & Silk"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "There's one at 5th & 58th in NYC: BG",
+          "choices": [
+            "Bloomingdale's",
+            "Barneys New York",
+            "Bergdorf Goodman",
+            "Bergdorf Goodman Store"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It revamped its stores in 2012: JCP",
+          "choices": [
+            "K mart",
+            "Sears",
+            "J. C. Penney",
+            "Macy's"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SIBLINGS",
+      "questions": [
+        {
+          "clue": "Brothers who implored little Susie to wake up in '57 hit",
+          "choices": [
+            "the Carpenters",
+            "the Bee Gees",
+            "the Everly Brothers",
+            "the Everly Brothers Band"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1961 Ray Kroc bought out these brothers for $2.7 million",
+          "choices": [
+            "the McDonald brothers Chain",
+            "Ray Kroc's Partners",
+            "the McDonald brothers",
+            "the McDonald Corporation Founders"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "He was the one \"Mom always liked best\"",
+          "choices": [
+            "Dick Smothers",
+            "Tom Smothers",
+            "Eddie Smothers",
+            "John Smothers"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Last name of siblings George, Charles & Edward, who went into business together to sell board games",
+          "choices": [
+            "Parker",
+            "Milton",
+            "Hasbro",
+            "Mattel"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Sophocles named a play for this woman of myth who defied her uncle Creon in attempting to bury her brother Polynices",
+          "choices": [
+            "Clytemnestra",
+            "Electra",
+            "Antigone",
+            "Iphigenia"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Henri Langlois founded this Paris institution that helped introduce the world to Fritz Lang & Jean Renoir",
+    "choices": [
+      "Mus\u00e9e du Louvre",
+      "Cin\u00e9math\u00e8que Fran\u00e7aise",
+      "Gaumont Film Company",
+      "Path\u00e9 Fr\u00e8res"
+    ],
+    "correctIndex": 1,
+    "category": "IN PARIS"
+  },
+  "bonusRound": {
+    "clue": "Yorba Linda",
+    "choices": [
+      "Reagan",
+      "Nixon",
+      "Carter",
+      "Gerald Ford"
+    ],
+    "correctIndex": 1,
+    "category": "PRESIDENTIAL BIRTHPLACES"
+  }
+}

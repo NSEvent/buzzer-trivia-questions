@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-06",
+  "categories": [
+    {
+      "name": "LITERARY TRANSLATIONS",
+      "questions": [
+        {
+          "clue": "Many of these English Christmas songs are translations, like \"Silent Night\" from German",
+          "choices": [
+            "Carols",
+            "Anthems",
+            "Hymns",
+            "Chants"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Magical realism masterpiece \"Cien Anos de Soledad\"",
+          "choices": [
+            "One Hundred Years of Loneliness",
+            "\"100 Years of Solitude\"",
+            "The Century of Solitude",
+            "Hundred Years of Solitary"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Gogol's 1842 \"mortal\"ity play \"Myortvye Dushi\"",
+          "choices": [
+            "The Overcoat",
+            "The Government Inspector",
+            "\"Dead Souls\"",
+            "The Nose"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A memoir: \"Den Afrikanske Farm\"",
+          "choices": [
+            "From Africa",
+            "Out of Africa",
+            "Outside the Farm",
+            "The African Farm"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The weighty \"Nesnesitelna Lekhost Oyti\" (in Czech) or \"L'Insoutenable Legerte de l'Etre\" (in French)",
+          "choices": [
+            "\"The Unforeseen Weight of Existence\"",
+            "\"The Burdensome Lightness of Life\"",
+            "\"The Unbearable Lightness of Being\"",
+            "\"The Heavy Emptiness of Being\""
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"ANTI\" UP",
+      "questions": [
+        {
+          "clue": "In Italian cuisine, it's cold food you eat at the start of a meal",
+          "choices": [
+            "appetizer",
+            "antipasto",
+            "antidote",
+            "antagonist"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "They're y-shaped protein molecules produced by B cells as a primary immune defense",
+          "choices": [
+            "antigens",
+            "antacids",
+            "antibodies",
+            "antitoxins"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It was the capital of the ancient kingdom of Syria & home to Monty Python's holy hand grenade",
+          "choices": [
+            "Antibes",
+            "Antrim",
+            "Antwerp",
+            "Antioch"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "From the Latin for \"of opposite feelings\", it's a natural repugnance or aversion",
+          "choices": [
+            "apathy",
+            "antagonism",
+            "aversion",
+            "antipathy"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "It's one who studies ancient relics, or a type of bookstore dealing in old & rare volumes",
+          "choices": [
+            "antiquarian",
+            "archaeologist",
+            "antiquary",
+            "historian"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CLASSIC SONGS' FIRST LINES",
+      "questions": [
+        {
+          "clue": "From Mr. Sinatra: \"And now the end is near, and so I face the final curtain\"",
+          "choices": [
+            "\"My Way\"",
+            "Strangers in the Night",
+            "The Way We Were",
+            "My Kind of Town"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A disco anthem: \"First I was afraid, I was petrified\"",
+          "choices": [
+            "Stayin' Alive",
+            "Dancing Queen",
+            "Le Freak",
+            "\"I Will Survive\""
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"Deep down in Louisiana, close to New Orleans, way back up in the woods among the evergreens\"",
+          "choices": [
+            "Maybellene",
+            "Great Balls of Fire",
+            "\"Johnny B. Goode\"",
+            "Tutti Frutti"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It earned ours: \"What you want, baby, I got it, what you need, do you know I got it?\"",
+          "choices": [
+            "Proud Mary",
+            "I'm a Woman",
+            "\"Respect\"",
+            "Chain of Fools"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A CCR title: \"Left a good job in the city, workin' for the man every night and day\"",
+          "choices": [
+            "Sweet Home Alabama",
+            "\"Proud Mary\"",
+            "Born to Be Wild",
+            "Bad Moon Rising"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "She left NBC News in June 1986 over a salary dispute. And so it goes.",
+    "choices": [
+      "Betty Williams",
+      "Susan Williams",
+      "Linda Ellerbee",
+      "Angela Williams"
+    ],
+    "correctIndex": 2,
+    "category": "SHOW BIZ BUSINESS"
+  }
+}

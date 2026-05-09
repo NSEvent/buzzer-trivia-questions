@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-16",
+  "categories": [
+    {
+      "name": "OLD MONEY",
+      "questions": [
+        {
+          "clue": "This current U.S. currency traces its name back to the joachimsthaler of Bohemia",
+          "choices": [
+            "the euro",
+            "the pound",
+            "the dollar",
+            "the yen"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The florin goes back to this city in 1252",
+          "choices": [
+            "Venice",
+            "Rome",
+            "Naples",
+            "Florence"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This British coin worth one-quarter of a penny was withdrawn as of 1961",
+          "choices": [
+            "a groat",
+            "a farthing",
+            "a ha'penny",
+            "a threepence"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This old Spanish coin is twice as nice as the rest, as its name means twofold",
+          "choices": [
+            "Portuguese ducat",
+            "Italian scudo",
+            "Spanish doubloon",
+            "French louis"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This colorful currency printed during the Civil War lent its name to a political party of the 1870s & '80s",
+          "choices": [
+            "the blueback",
+            "the greenback",
+            "the rednote",
+            "the yellowbill"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\\'90s NONFICTION",
+      "questions": [
+        {
+          "clue": "In Kathryn Harrison's memoir \"The Kiss\", it's her relationship to the man who gives her the kiss",
+          "choices": [
+            "sister",
+            "daughter",
+            "mother",
+            "wife"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Adlai Stevenson & big fins on cars appear in David Halberstam's '90s book about this earlier decade",
+          "choices": [
+            "the '30s",
+            "the '40s",
+            "the '50s",
+            "the '60s"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Deepak Chopra became a household name after publishing \"Ageless Body, Timeless\" this",
+          "choices": [
+            "Mind",
+            "Body",
+            "Soul",
+            "Spirit"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "USA Today called this Richard Preston bestseller about the Ebola virus \"more terrifying than any sci-fi nightmare\"",
+          "choices": [
+            "The Andromeda Strain",
+            "The Hot Zone",
+            "State of Fear",
+            "The Coming Plague"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "He dedicated the Pulitzer Prize-winning \"Angela's Ashes\" \"To my brothers, alachy, Michael, Alphonsus\"",
+          "choices": [
+            "Sweeney",
+            "Doherty",
+            "McCourt",
+            "Kavanagh"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TEA TIME",
+      "questions": [
+        {
+          "clue": "This rabbit was put to bed with camomile tea, but Flopsy, Mopsy & Cotton Tail had bread, milk & blackberries",
+          "choices": [
+            "Peter (Rabbit)",
+            "Bungle",
+            "Jemima",
+            "Samuel"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The sinensis in the Latin name of the tea plant Camellia sinensis means \"from\" this country",
+          "choices": [
+            "China",
+            "Japan",
+            "India",
+            "Korea"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This black tea grown in the foothills of the Himalayas is named for an Indian district",
+          "choices": [
+            "darjeeling",
+            "assam",
+            "ceylon",
+            "earl grey"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Long favored by Asians, this type of tea gives the body an antioxidant boost",
+          "choices": [
+            "green tea",
+            "black tea",
+            "oolong",
+            "white tea"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Not the British but the Dutch this company brought the first shipment of tea to Europe in the early 1600s",
+          "choices": [
+            "East India Company",
+            "Royal Dutch Shell",
+            "VOC",
+            "British South Africa Company"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"Wolf Hall\" tells of the rise of this Henry VIII adviser, Mark Rylance in the miniseries",
+    "choices": [
+      "Thomas More",
+      "(Thomas) Cromwell",
+      "Cardinal Wolsey",
+      "Henry Norris"
+    ],
+    "correctIndex": 1,
+    "category": "QUICK LIT"
+  }
+}

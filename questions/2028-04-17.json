@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-17",
+  "categories": [
+    {
+      "name": "IT'S ALL POLITICS",
+      "questions": [
+        {
+          "clue": "In July 1804 Alexander Hamilton ended up on the losing end of a duel with this politician",
+          "choices": [
+            "Thomas Jefferson",
+            "John Adams",
+            "Aaron Burr",
+            "George Washington"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Usually given in January, it was once known simply as the president's annual message to congress",
+          "choices": [
+            "the Inaugural Address",
+            "the Presidential Budget",
+            "the State of the Union Address",
+            "the State of the Nation"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In April 1960 Dick Clark testified before a Congressional committee probing this illegal practice",
+          "choices": [
+            "bribery",
+            "kickbacks",
+            "payola",
+            "racketeering"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In a 2009 impeachment trial, this state's Senate voted 59-0 to convict Governor Rod Blagojevich",
+          "choices": [
+            "Illinois",
+            "California",
+            "Texas",
+            "Florida"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This young senator is a rising star of the Grand Old Party",
+          "choices": [
+            "Marco Rubio",
+            "Ted Cruz",
+            "Chris Christie",
+            "Rick Santorum"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AROUND THE U.S.A.",
+      "questions": [
+        {
+          "clue": "The only state without an adult seatbelt use law; hey, it goes with its motto, \"Live Free or Die\"",
+          "choices": [
+            "Vermont",
+            "Wyoming",
+            "New Hampshire",
+            "Maine"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The Presbytere in New Orleans boasts a life-size painting of this tragic Longfellow heroine & her lover, Gabriel",
+          "choices": [
+            "Hiawatha",
+            "Rebecca",
+            "Lucy",
+            "Evangeline"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This town in Alaska says it's \"where the spirit of Christmas lives year 'round\"",
+          "choices": [
+            "Fairbanks",
+            "Anchorage",
+            "North Pole",
+            "Juneau"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The U.S. Coast Guard grounded its academy in this Connecticut city",
+          "choices": [
+            "New Haven",
+            "New Bedford",
+            "New Rochelle",
+            "New London"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "If you want to see the International Museum of the Horse, trot over to Lexington in this state",
+          "choices": [
+            "Tennessee",
+            "Kansas",
+            "Missouri",
+            "Kentucky"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"IN\" WORDS",
+      "questions": [
+        {
+          "clue": "Jean Anouilh called this \"a force that poets have invented to give themselves importance\"",
+          "choices": [
+            "insanity",
+            "inspiration",
+            "insincerity",
+            "insufficiency"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Meaning \"to engrave\", it's any gemstone with a design carved into its surface",
+          "choices": [
+            "intact",
+            "intimate",
+            "integral",
+            "intaglio"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "It's the branch of an army made up of foot soldiers",
+          "choices": [
+            "infantry",
+            "cavalcade",
+            "infarction",
+            "inflammation"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "An historical happening in which you'd find people revolting",
+          "choices": [
+            "rebellion",
+            "insurrection",
+            "uprising",
+            "revolt"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Cab Calloway first recorded his song about this \"Moocher\" in 1931",
+          "choices": [
+            "Minnie",
+            "Minnie Mouse",
+            "Minneapolis",
+            "Minerva"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Milton called it \"the eye of Greece, mother of arts & eloquence\"",
+    "choices": [
+      "Alexandria",
+      "Athens",
+      "Thebes",
+      "Sparta"
+    ],
+    "correctIndex": 1,
+    "category": "TALK OF THE TOWN"
+  }
+}

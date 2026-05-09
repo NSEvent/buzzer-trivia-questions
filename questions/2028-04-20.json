@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-20",
+  "categories": [
+    {
+      "name": "NEVER WON AN EMMY",
+      "questions": [
+        {
+          "clue": "It was \"Sorry, They Wrote\" for this British woman, a 17-time nominee in the '80s, '90s & 2000s",
+          "choices": [
+            "Jean Stapleton",
+            "Peggy Lipton",
+            "Angela Lansbury",
+            "Estelle Parsons"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Christina Hendricks was nominated 6 straight years for this show",
+          "choices": [
+            "The Sopranos",
+            "Breaking Bad",
+            "Deadwood",
+            "Mad Men"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"The Honeymooners\" was a TV groundbreaker, but this creator & star never basked in Emmy glory",
+          "choices": [
+            "Red Skelton",
+            "George Burns",
+            "Bob Hope",
+            "Jackie Gleason"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A long career including the iconic role of this hillbilly never brought Buddy Ebsen an Emmy",
+          "choices": [
+            "Uncle Jesse",
+            "Boss Hogg",
+            "Jed Clampett",
+            "Jesse James"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Her 6 career nominations include 2 for Outstanding Lead Actress as Clair Huxtable, but no wins",
+          "choices": [
+            "Sondra Currie",
+            "Lisa Bonet",
+            "Jasmine Guy",
+            "Phylicia Rashad"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LITERARY CROSSWORD CLUES \"P\"",
+      "questions": [
+        {
+          "clue": "The most worldly of the 3 Musketeers (7)",
+          "choices": [
+            "Athos",
+            "Aramis",
+            "D'Artagnan",
+            "Porthos"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Well-named \"Magazine of Verse\" dating from 1912 (6)",
+          "choices": [
+            "Literary",
+            "Harper's",
+            "Atlantic",
+            "Poetry"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Ancient Greek poet who \"ode\" a lot (6)",
+          "choices": [
+            "Pindar",
+            "Horace",
+            "Ovid",
+            "Sappho"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Captain Ahab's whaling vessel (6)",
+          "choices": [
+            "the Moby Dick",
+            "the Pequod",
+            "the Ahab",
+            "the Whaler"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "AKA Robin Goodfellow (4)",
+          "choices": [
+            "Pease",
+            "Pest",
+            "Pipe",
+            "Puck"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LET'S GO TO THE MOVIES",
+      "questions": [
+        {
+          "clue": "In the 1960s, California had over 200 of these, where people watched movies from their cars",
+          "choices": [
+            "drive-ins",
+            "movie theaters",
+            "open cinemas",
+            "drive-ups"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This Supreme Court justice is the focus of the documentary \"RBG\"",
+          "choices": [
+            "(Ruth Bader) O'Connor",
+            "(Sandra Day) O'Connor",
+            "(Thurgood) Marshall",
+            "(Ruth Bader) Ginsburg"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 2002 these 3 superheroes from the Cartoon Network joined forces to defeat the evil monkey Mojo Jojo",
+          "choices": [
+            "the Teen Titans",
+            "the Avengers",
+            "the X-Men",
+            "the Powerpuff Girls"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The third & last film in this labyrinthine series is based on the novel \"The Death Cure\"",
+          "choices": [
+            "The Hunger Games",
+            "The Maze Runner",
+            "Divergent",
+            "The Maze Runner Series"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This type of \"seating\", named for a place to watch sports, puts each row well above the one in front",
+          "choices": [
+            "amphitheater",
+            "stadium",
+            "bleachers",
+            "grandstand"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In the 1760s mapmaker John Spilsbury invented this, which must be fit together",
+    "choices": [
+      "a tangram",
+      "a Rubik's Cube",
+      "a jigsaw puzzle",
+      "a crossword"
+    ],
+    "correctIndex": 2,
+    "category": "ARE YOU GAME?"
+  }
+}

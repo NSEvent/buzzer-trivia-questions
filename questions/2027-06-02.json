@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-02",
+  "categories": [
+    {
+      "name": "GRAY MATTERS",
+      "questions": [
+        {
+          "clue": "His career \"Bud\"ded as Princess & Kitten's brother \"Father Knows Best\"",
+          "choices": [
+            "Jack Gray",
+            "Bill Gray",
+            "Tom Gray",
+            "Sam Gray"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Boron neutron capture therapy is an experimental treatment for these growths in the brain",
+          "choices": [
+            "Lesions",
+            "Cysts",
+            "Nodules",
+            "Tumors"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This hemisphere of the brain generally governs musical & artistic creativity",
+          "choices": [
+            "Right",
+            "Left",
+            "Top",
+            "Bottom"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "To move messages around the brain, chemicals called neurotransmitters jump these 1/10,000,000-inch gaps",
+          "choices": [
+            "Synapses",
+            "Neurons",
+            "Axons",
+            "Dendrites"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "\"Elegy...\" poet who said he would no more accept the title of poet laureate than royal rat-catcher",
+          "choices": [
+            "William Wordsworth",
+            "Samuel Taylor Coleridge",
+            "Thomas Gray",
+            "John Keats"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "REMEMBER THE MANE",
+      "questions": [
+        {
+          "clue": "If you lived through the '70s you must remember her hair & probably that poster",
+          "choices": [
+            "Farrah Fawcett",
+            "Jane Fonda",
+            "Cher",
+            "Barbra Streisand"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "He's toured & recorded with his Large Band",
+          "choices": [
+            "George Strait",
+            "Lyle Lovett",
+            "Garth Brooks",
+            "Alan Jackson"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "If we had a time machine we'd go back to 1999 & ask this \"Felicity\" star not to cut that hair",
+          "choices": [
+            "Alyson Hannigan",
+            "Minka Kelly",
+            "Lizzy Caplan",
+            "Keri Russell"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Remember when she & her wedge cut won gold at the '76 Olympics?",
+          "choices": [
+            "Dorothy Hamill",
+            "Sonja Henie",
+            "Kristi Yamaguchi",
+            "Katarina Witt"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Bouffant hair & a pillbox hat were part of her look that sparked a fashion trend",
+          "choices": [
+            "Grace Kelly",
+            "Elizabeth Taylor",
+            "Jacqueline Kennedy",
+            "Rita Hayworth"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RETIRED",
+      "questions": [
+        {
+          "clue": "Good grief! By the time he retired in 2000, he had drawn some 18,000 comic strips",
+          "choices": [
+            "Milton Caniff",
+            "Chic Young",
+            "Hal Foster",
+            "(Charles) Schulz"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Since retiring as anchorman in 1981, he's kept busy with other projects as a CBS news special correspondent",
+          "choices": [
+            "Walter Kronkite",
+            "David Brinkley",
+            "Dan Rather",
+            "Charles Kuralt"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "2012 was not \"My Favorite Year\" once it brought the retirement of this British acting legend at age 79",
+          "choices": [
+            "Peter O'Toole",
+            "Sir Laurence Olivier",
+            "Sir John Gielgud",
+            "Richard Harris"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This battleship on which Japan surrendered in '45 was retired in '55 recommissioned, & retired again in '92",
+          "choices": [
+            "the Iowa",
+            "the New Jersey",
+            "the Missouri",
+            "the Wisconsin"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1990 Crayola's first group of crayons to be permanently retired included lemon yellow & this \"raw\" brown",
+          "choices": [
+            "sienna",
+            "ochre",
+            "umber",
+            "sepia"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Traditionally a dancer takes over the role of Laury in the dream-ballet part of this Rodgers & Hammerstein show",
+    "choices": [
+      "Carousel",
+      "Oklahoma!",
+      "South Pacific",
+      "The King and I"
+    ],
+    "correctIndex": 1,
+    "category": "CHARACTERS IN MUSICALS"
+  }
+}

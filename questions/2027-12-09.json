@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-09",
+  "categories": [
+    {
+      "name": "THE \"IV\" LEAGUE",
+      "questions": [
+        {
+          "clue": "Also known as an E-1, it's the lowest rank in the U.S. Army",
+          "choices": [
+            "a corporal",
+            "a sergeant",
+            "a lieutenant",
+            "a private"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Onion relative to go with sour cream on top of your baked potato",
+          "choices": [
+            "chili",
+            "cumin",
+            "chives",
+            "cilantro"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "General term for an animal that eats other animals",
+          "choices": [
+            "a herbivore",
+            "an omnivore",
+            "a scavenger",
+            "a carnivore"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "As a verb, it means to live together closely, like bees",
+          "choices": [
+            "to swarm",
+            "to nest",
+            "to hive",
+            "to sting"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "From the Latin for \"from a stream\", it's the historical origin of a word",
+          "choices": [
+            "evolution",
+            "tradition",
+            "derivation",
+            "consequence"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LUNCH COUNTER LINGO",
+      "questions": [
+        {
+          "clue": "To \"wreck a pair\" is to do this to 2 eggs",
+          "choices": [
+            "to fry",
+            "to poach",
+            "to scramble",
+            "to boil"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "\"Looseners\", named because of this fruit's supposed laxative effect",
+          "choices": [
+            "apricots",
+            "figs",
+            "raisins",
+            "prunes"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A houseboat is this ice cream & fruit dessert",
+          "choices": [
+            "a banana split",
+            "a sundae",
+            "a float",
+            "a parfait"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "(Hi, I'm Joe Theismann.) My column for espn.com is called this, slang for a serving of coffee",
+          "choices": [
+            "Cuppa Latte",
+            "Mug O' Java",
+            "Cup O' Joe",
+            "Cup Of Beans"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Bossy in a bowl\"",
+          "choices": [
+            "beef stew",
+            "meat loaf",
+            "chicken pot pie",
+            "tuna casserole"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A PREQUEL TO WHICH MOVIE?",
+      "questions": [
+        {
+          "clue": "\"Friday Night Sniffles\" could have been a prequel\u2014to this 1977 film",
+          "choices": [
+            "Grease",
+            "West Side Story",
+            "Saturday Night Fever",
+            "Rocky Horror Picture Show"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "\"Add Primer to Your Conestoga\"\u2014to this 1969 musical",
+          "choices": [
+            "Paint Your Wagon",
+            "The Sound of Music",
+            "Oklahoma!",
+            "Annie Get Your Gun"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"Conceived on the Fourth of October\"\u2014to this 1989 biopic",
+          "choices": [
+            "Born in the Fourth of July",
+            "Born on the Fourth of July",
+            "Born on the Fifth of July",
+            "Born on the Fourth of June"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"Mr. Negative Goes to Med School\"\u2014to this 1962 adventure",
+          "choices": [
+            "Dr. Strangelove",
+            "Dr. Zhivago",
+            "Dracula",
+            "Dr. No"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"Adding the Mallard to the Stock\"\u2014to this 1933 comedy",
+          "choices": [
+            "Animal Crackers",
+            "Duck Soup",
+            "Duck Soup to Nuts",
+            "Go West"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1960 he said, \"Mr. Nixon dismissed me as... 'another Truman'... I consider him another Dewey\"",
+    "choices": [
+      "(Lyndon B.) Johnson",
+      "(Richard M.) Nixon",
+      "(John F.) Kennedy",
+      "(Hubert H.) Humphrey"
+    ],
+    "correctIndex": 2,
+    "category": "DEWEY"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-09",
+  "categories": [
+    {
+      "name": "IT HAPPENED ON HALLOWEEN",
+      "questions": [
+        {
+          "clue": "With help from the British & the French, Israeli forces occupied this peninsula Oct. 31, 1956",
+          "choices": [
+            "Gaza",
+            "Negev",
+            "Sinai Peninsula",
+            "Sinai"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "1846: Heavy snowfall traps this carnivorous \"Party\" in the Sierra Nevada mountains",
+          "choices": [
+            "the Mountain Meadows Massacre",
+            "the Donner Rescue Party",
+            "the Donner Expedition",
+            "the Donner Party"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "1961: This man's body is removed from Lenin's tomb",
+          "choices": [
+            "Trotsky",
+            "Stalin",
+            "Khrushchev",
+            "Brezhnev"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "1956: The Brits & the French invade Egypt in response to the nationalization of this",
+          "choices": [
+            "the Suez Strait",
+            "the Nile River",
+            "the Sinai Peninsula",
+            "the Suez Canal"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "1998: This Mideast nation announces it will no longer cooperate with U.N. weapons inspectors",
+          "choices": [
+            "Syria",
+            "Iraq",
+            "Iran",
+            "Lebanon"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FRATERNITIES & SORORITIES",
+      "questions": [
+        {
+          "clue": "A golden one of these symbolizes Kappa Kappa Gamma as well as Phi Beta Kappa",
+          "choices": [
+            "ring",
+            "watch",
+            "bracelet",
+            "key"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1902 Pi Beta Phi was a founding member of the NPC, this \"National Conference\" of Greek-letter societies",
+          "choices": [
+            "North-American Interfraternity Conference",
+            "National Association of Collegiate Directors of Athletics",
+            "Pan-Hellenic Association",
+            "National Panhellenic Conference"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "During this period, students seeking to join a fraternity attend events to learn about them & meet members",
+          "choices": [
+            "pledging",
+            "recruitment",
+            "initiation",
+            "rush"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The first post-Civil War fraternity, Alpha Tau Omega started at this \"institute\" that trained many Civil War generals",
+          "choices": [
+            "West Point (United States Military Academy)",
+            "The Citadel (The Military College of South Carolina)",
+            "Norwich University (The Ancient Military College)",
+            "VMI (Virginia Military Institute)"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Founded as a fraternity in 1776, it's now the nations oldest honor society",
+          "choices": [
+            "Phi Beta Kappa",
+            "Sigma Xi (Scientific Research Honor Society)",
+            "Omicron Delta Kappa (National Leadership Honor Society)",
+            "Alpha Omega Epsilon (Honor Society)"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DANCE",
+      "questions": [
+        {
+          "clue": "\"Birdie hop out & crow hop in\" is part of a call for \"Birdie in the Cage\", one of these dances",
+          "choices": [
+            "a line dance",
+            "a contra dance",
+            "a square dance",
+            "a folk dance"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Choreographer whose song & dance routines from \"Gypsy\", \"The King & I\" & other shows are a new B'way hit",
+          "choices": [
+            "Bob Fosse",
+            "George Balanchine",
+            "Agnes de Mille",
+            "Jerome Robbins"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The paso doble is a march step associated with this sport",
+          "choices": [
+            "wrestling",
+            "bullfighting",
+            "soccer",
+            "boxing"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In Wonderland, the Mock Turtle & the Gryphon tell Alice how seals, turtles & salmon partner with lobsters for this dance",
+          "choices": [
+            "the quadrille",
+            "the waltz",
+            "the tango",
+            "the polka"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This elegant dance performed at Louis XIV's court probably derived from a folk dance from Poitou",
+          "choices": [
+            "the gavotte",
+            "the pavane",
+            "the sarabande",
+            "the minuet"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "You'll find these, los escritorios, in the classroom",
+    "choices": [
+      "chairs",
+      "desks",
+      "whiteboards",
+      "lockers"
+    ],
+    "correctIndex": 1,
+    "category": "ESPA\u00d1OL"
+  }
+}

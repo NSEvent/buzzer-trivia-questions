@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-28",
+  "categories": [
+    {
+      "name": "EUROPE",
+      "questions": [
+        {
+          "clue": "This nation's official name is the Hellenic Republic",
+          "choices": [
+            "Greece",
+            "Turkey",
+            "Italy",
+            "Spain"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Kosovo is now an autonomous province within this Balkan republic",
+          "choices": [
+            "Croatia",
+            "Serbia",
+            "Bosnia",
+            "Slovenia"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In area, this tiny country between Austria & Switzerland is smaller than Washington, D.C.",
+          "choices": [
+            "Monaco",
+            "San Marino",
+            "Liechtenstein",
+            "Andorra"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The architectural style known as Jugendstil is prevalent in this capital of Latvia",
+          "choices": [
+            "Tallinn",
+            "Vilnius",
+            "Riga",
+            "Stockholm"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A major port since ancient times, Cagliari is the capital city of this Italian island",
+          "choices": [
+            "Sicily",
+            "Sardinia",
+            "Corsica",
+            "Elba"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "KIDDIE LIT",
+      "questions": [
+        {
+          "clue": "In 1970 this Russian count's story \"How Varinka Grew Up in a Single Night\" was published as a children's book",
+          "choices": [
+            "Fyodor Dostoevsky",
+            "Anton Chekhov",
+            "Leo Tolstoy",
+            "Ivan Turgenev"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "It isn't Hans Brinker but his 12-year-old sister Gretel who wins these title objects",
+          "choices": [
+            "the gold medals",
+            "the bronze trophy",
+            "the silver skates",
+            "the wooden sled"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Tommy Stubbins, a cobbler's son, narrates some of Hugh Lofting's books about this physician",
+          "choices": [
+            "Dr. Doolittle",
+            "Dr. Watson",
+            "Dr. House",
+            "Dr. Dolittle"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In best seller by Maurice Sendak, a boy sent to his room goes on a fantastic trip to this untamed place",
+          "choices": [
+            "The Phantom Tollbooth",
+            "The Cat in the Hat",
+            "Where the Wild Things Are",
+            "Green Eggs and Ham"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Maurice Sendak illustrated this \"I, Claudius\" author's children's story \"The Big Green Book\"",
+          "choices": [
+            "Aldous Huxley",
+            "Roald Dahl",
+            "C.S. Lewis",
+            "(Robert) Graves"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MATH FORMULAS",
+      "questions": [
+        {
+          "clue": "A formula used for cubes is V = e3, in which \"V\" is this",
+          "choices": [
+            "volume",
+            "length",
+            "weight",
+            "area"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "C=pi d or 2 pi r, r being this",
+          "choices": [
+            "the diameter",
+            "the radius",
+            "the circumference",
+            "the center"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This famous theorem in trigonometry is a2 plus b2 = c2",
+          "choices": [
+            "Fibonacci sequence",
+            "Euler's identity",
+            "Pythagorean theorem",
+            "Quadratic formula"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The formula to calculate the area of this figure is A=1/2bh",
+          "choices": [
+            "a square",
+            "a triangle",
+            "a circle",
+            "a rectangle"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "For a parallelogram, use A = bh \u2014\"A\" for this",
+          "choices": [
+            "perimeter",
+            "volume",
+            "circumference",
+            "area"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Martin Luther is excommunicated",
+    "choices": [
+      "the 15th century (1492)",
+      "the 17th century (1618)",
+      "the 16th century (1521)",
+      "the 18th century (1776)"
+    ],
+    "correctIndex": 2,
+    "category": "NAME THE CENTURY"
+  }
+}

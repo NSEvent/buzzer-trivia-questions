@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-28",
+  "categories": [
+    {
+      "name": "PARDON ME",
+      "questions": [
+        {
+          "clue": "He pardoned Jimmy Hoffa; later he'd need one himself",
+          "choices": [
+            "Gerald Ford",
+            "Richard Nixon",
+            "Bill Clinton",
+            "Ronald Reagan"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This religious leader received a pardon for his role in the 1857-58 Utah War",
+          "choices": [
+            "Joseph Smith",
+            "John Taylor",
+            "Brigham Young",
+            "Heber C. Kimball"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1992 President Bush pardoned 6 Iran-Contra figures, saying this was their main motivation",
+          "choices": [
+            "national security",
+            "patriotism",
+            "patriotic duty",
+            "public service"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "He pardoned Dr. Samuel Mudd shortly before leaving office",
+          "choices": [
+            "(Andrew) Johnson",
+            "Abraham Lincoln",
+            "Ulysses S. Grant",
+            "James Buchanan"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "He fought against Julius Caesar, who pardoned him; a mistake, as he then conspired with Brutus in Caesar's murder",
+          "choices": [
+            "Brutus",
+            "Cassius",
+            "Cicero",
+            "Mark Antony"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NOVELS & NOVELISTS",
+      "questions": [
+        {
+          "clue": "The German title of this Franz Werfel novel is called Das Lied von Bernadette",
+          "choices": [
+            "The Song of Roland",
+            "The Song of Bernadette",
+            "The Hunchback of Notre Dame",
+            "The Count of Monte Cristo"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "An immigrant named Jurgis Rudkus is the leading character in his \"meaty\" novel \"The Jungle\"",
+          "choices": [
+            "Upton Sinclair",
+            "Stephen Crane",
+            "Frank Norris",
+            "Theodore Dreiser"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Clive is an art student in love with his cousin Ethel in \"The Newcomes\" by this \"Vanity Fair\" novelist",
+          "choices": [
+            "Charles Dickens",
+            "William Makepeace Thackeray",
+            "Jane Austen",
+            "George Eliot"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "David Herbert were the given names of this author whose 1915 \"The Rainbow\" was banned as obscene",
+          "choices": [
+            "(J.R.R.) Tolkien",
+            "(D.H.) Lawrence",
+            "(E.M.) Forster",
+            "(G.K.) Chesterton"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Carol Kennicott struggles to change the town of Gopher Prairie in this Sinclair Lewis novel",
+          "choices": [
+            "Main Street",
+            "Babbitt",
+            "Arrowsmith",
+            "Elmer Gantry"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHEN THEY WERE TEENS",
+      "questions": [
+        {
+          "clue": "It's all been uphill for this \"Grey's Anatomy\" hunk since he was a downhill skiing champ in high school",
+          "choices": [
+            "(Patrick) Dempsey",
+            "(James) Marsden",
+            "(Channing) Tatum",
+            "(Ryan) Gosling"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "She was 16 when she was cast to play Beverly Hills teenager Donna Martin",
+          "choices": [
+            "Jennie Garth",
+            "Shannen Doherty",
+            "Tori Spelling",
+            "Paula Abdul"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "While a student at Hot Springs High, he played tenor sax in a jazz combo called Three Blind Mice",
+          "choices": [
+            "Al Gore",
+            "John Kerry",
+            "George W. Bush",
+            "Bill Clinton"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "At age 13, Christian Slater was on Broadway portraying a youthful version of this Arthurian wizard",
+          "choices": [
+            "Gandalf",
+            "Dumbledore",
+            "Merlin",
+            "Wizard of Oz"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1991 Heather Tom was a teen when she debuted as Victor Newman's daughter on this CBS soap opera",
+          "choices": [
+            "The Young & the Restless",
+            "General Hospital",
+            "Days of Our Lives",
+            "One Life to Live"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The 1965 film \"Ferry Cross\" this starring Gerry & the Pacemakers featured 9 songs written by Gerry",
+    "choices": [
+      "Tyne",
+      "Thames",
+      "Severn",
+      "the Mersey"
+    ],
+    "correctIndex": 3,
+    "category": "\\'60s POP MUSIC"
+  }
+}

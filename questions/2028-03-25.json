@@ -1,0 +1,207 @@
+{
+  "date": "2028-03-25",
+  "categories": [
+    {
+      "name": "THE WAR YEARS",
+      "questions": [
+        {
+          "clue": "In South Africa: 1899-1902",
+          "choices": [
+            "the Anglo-Zulu War",
+            "the Boer War",
+            "the Second Boer War",
+            "the Mahdist War"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "264-241 B.C.",
+          "choices": [
+            "the Second Punic War",
+            "the Peloponnesian War",
+            "the Sicilian Expedition",
+            "the First Punic War"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "1701-1714, over a throne",
+          "choices": [
+            "the War of the Austrian Succession",
+            "the Seven Years' War",
+            "the War of the Spanish Succession",
+            "the War of Devolution"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A series of wars in north Africa & around the Mediterranean: 264-146 B.C.",
+          "choices": [
+            "the Punic Wars",
+            "the Persian Wars",
+            "the Greco-Persian Wars",
+            "the Macedonian Wars"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In the south Atlantic: 1982",
+          "choices": [
+            "the Gulf War",
+            "the Bosnian War",
+            "the Falkland Islands War",
+            "the Yugoslav Wars"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "1990s NO. 1 ALBUMS",
+      "questions": [
+        {
+          "clue": "This rap group had \"Ill Communication\"; take a \"Sure Shot\"",
+          "choices": [
+            "the Red Hot Chili Peppers",
+            "the Beastie Boys",
+            "Public Enemy",
+            "the Beastie Girls"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "& I'm here... to remind you... her \"Jagged Little Pill\" was No. 1 in 1995 & again in '96",
+          "choices": [
+            "Sheryl Crow",
+            "Sinead O'Connor",
+            "Alanis Morisette",
+            "Alanis Morissette"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"Hell Freezes Over\" to culminate this band's unlikely reunion in an MTV special",
+          "choices": [
+            "The Eagles",
+            "The Rolling Stones",
+            "The Doobie Brothers",
+            "The Eagles Eye View"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Not afraid to re-dip in previous success, he topped the chart with \"Bat out of Hell II: Back Into Hell\"",
+          "choices": [
+            "Alice Cooper",
+            "Meat Loaf",
+            "Def Leppard",
+            "Guns N' Roses"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This Seattle band was \"Unplugged in New York\"; cuts included \"Lake Of Fire\"",
+          "choices": [
+            "Pearl Jam",
+            "Soundgarden",
+            "Nirvana",
+            "Stone Temple Pilots"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COUNTIES",
+      "questions": [
+        {
+          "clue": "Georgia's Seminole County borders Alabama & this state's panhandle",
+          "choices": [
+            "Alabama",
+            "Florida",
+            "South Carolina",
+            "Georgia"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This Montana county was named for a river that was named for a type of sheep",
+          "choices": [
+            "Yellowstone",
+            "Sweetwater",
+            "Fremont",
+            "Big Horn"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The seal of this most populous Illinois county features Lake Michigan",
+          "choices": [
+            "DuPage",
+            "Cook",
+            "Lake",
+            "Will"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Colorado has counties named for John C. Fremont & this scout who traveled with him",
+          "choices": [
+            "Kit Carson",
+            "Jim Bridger",
+            "Davey Crockett",
+            "Daniel Boone"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Counties in this state include Jefferson, Shoshone & Twin Falls",
+          "choices": [
+            "Montana",
+            "Wyoming",
+            "Idaho",
+            "Nevada"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Looking for their forever homes, Adoptimals are pet companions for these dolls from Babyland General",
+    "choices": [
+      "Cabbage Patch Dolls",
+      "American Girl Dolls",
+      "Barbie",
+      "Tonka Toys"
+    ],
+    "correctIndex": 0,
+    "category": "HELLO, DOLLY!"
+  },
+  "bonusRound": {
+    "clue": "The many waterways in Recife, in this large South American country, are compared to those of Venice",
+    "choices": [
+      "Argentina",
+      "Chile",
+      "Brazil",
+      "Colombia"
+    ],
+    "correctIndex": 2,
+    "category": "ATLANTIC CITIES"
+  }
+}

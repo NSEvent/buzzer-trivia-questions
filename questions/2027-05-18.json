@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-18",
+  "categories": [
+    {
+      "name": "CHEWING GUM",
+      "questions": [
+        {
+          "clue": "Once kicked out of school, this \"chewing gum king\" eventually captured 70% of gum market",
+          "choices": [
+            "Lindt",
+            "Cadbury",
+            "Hershey",
+            "Wrigley"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A primary part of gum base, it's the natural gum of the sapodilla tree",
+          "choices": [
+            "latex",
+            "chicle",
+            "rubber",
+            "gutta-percha"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A WWII morale booster for Filipinos was gum printed with this famous promise",
+          "choices": [
+            "I will come back",
+            "Never surrender",
+            "We are coming",
+            "I shall return"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Using gum profits, William Wrigley bought this southern California resort island",
+          "choices": [
+            "Margarita Island",
+            "Alcatraz Island",
+            "Martha's Vineyard",
+            "Catalina Island"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "1st produced in 1928, manufacturers blew their wad making it",
+          "choices": [
+            "bubble gum",
+            "chewing tobacco",
+            "licorice whip",
+            "gum drop"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FASHION STATEMENTS",
+      "questions": [
+        {
+          "clue": "To economize is to tighten this accessory",
+          "choices": [
+            "one's belt",
+            "one's purse",
+            "one's wallet",
+            "one's shoes"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A clothing store mannequin probably inspired this 2-word phrase for a pompous person",
+          "choices": [
+            "a stiff collar",
+            "a high hat",
+            "a full dress",
+            "a stuffed shirt"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This phrase means a situation has been reversed; in the 19th c. that switch was easier: there weren't right & left ones",
+          "choices": [
+            "the cap is on the other shoe",
+            "the heel is in the other place",
+            "the shoe is on the other foot",
+            "the sole is on the other side"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Napoleon has been credited with coining the phrase \"an iron hand in\" one of these",
+          "choices": [
+            "a steel fist",
+            "a silk scarf",
+            "a woolen wrap",
+            "a velvet glove"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "As Garibaldi's followers were known as Redshirts, Mussolini's devotees were called these",
+          "choices": [
+            "Whiteshirts",
+            "Blackshirts",
+            "Greenjackets",
+            "Bluecoats"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PRO FOOTBALL",
+      "questions": [
+        {
+          "clue": "This city's Superdome has been just super, hosting 6 Super Bowls, more than any other site",
+          "choices": [
+            "Los Angeles",
+            "Pittsburgh",
+            "Arlington",
+            "New Orleans"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This Dolphins quarterback retired after the 1999 season with a record 420 career touchdown passes",
+          "choices": [
+            "Joe Montana",
+            "Steve Young",
+            "Philip Rivers",
+            "Dan Marino"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In his 18 years of scrambling in the NFL, he ran for more yards than any other quarterback",
+          "choices": [
+            "Fran Tarkenton",
+            "Doug Williams",
+            "Dan Marino",
+            "John Elway"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In his career he had a record 22,895 yards receiving, about 50% more than runner-up Tim Brown",
+          "choices": [
+            "Cris Carter",
+            "Lynn Swann",
+            "Jerry Rice",
+            "Isaac Bruce"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The last Heisman Trophy winner to be selected No. 1 in the NFL Draft was this Miami Hurricanes quarterback in 1987",
+          "choices": [
+            "Tim Tebow",
+            "Vinny Testaverde",
+            "Peyton Manning",
+            "Eli Manning"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A country in Africa: \"THP\"",
+    "choices": [
+      "Egypt",
+      "Kenya",
+      "Ethiopia",
+      "Ghana"
+    ],
+    "correctIndex": 2,
+    "category": "MSSNG VWLS"
+  }
+}

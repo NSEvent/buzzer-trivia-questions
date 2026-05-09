@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-20",
+  "categories": [
+    {
+      "name": "FRANKLY",
+      "questions": [
+        {
+          "clue": "The Imperial Hotel he designed in Tokyo survived quakes & wars but was demolished in 1968",
+          "choices": [
+            "Louis Kahn",
+            "Mies van der Rohe",
+            "Walter Gropius",
+            "Frank Lloyd Wright"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Alaric II, King of these \"goths\", was killed in the decisive Battle of Vouille against the Franks in 507",
+          "choices": [
+            "the Visigoths",
+            "the Ostrogoths",
+            "the Vandals",
+            "the Burgundians"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Here's a photo of this American minimalist artist in his studio",
+          "choices": [
+            "Jasper Johns",
+            "Frank Stella",
+            "Robert Ryman",
+            "Agnes Martin"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "He won 3 Oscars as a director, including one for \"It Happened One Night\"",
+          "choices": [
+            "Billy Wilder",
+            "John Ford",
+            "(Frank) Capra",
+            "William Wyler"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Don't call him \"Short\" Stuff\u2014this king of the Franks founded the Carolingian dynasty in 751",
+          "choices": [
+            "Pepin (the Short)",
+            "Charles Martel",
+            "Charlemagne",
+            "Louis the Pious"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GREAT AMERICAN NOVELS",
+      "questions": [
+        {
+          "clue": "A nameless black protagonist narrates this 1952 classic by Ralph Ellison",
+          "choices": [
+            "Native Son",
+            "Invisible Man",
+            "The Color Purple",
+            "Their Eyes Were Watching God"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Chief Bromden, a Native American who feigns muteness, is the narrator of this Ken Kesey novel",
+          "choices": [
+            "One Flew Over the Cuckoo's Nest",
+            "The Bell Jar",
+            "One Hundred Years of Solitude",
+            "A Clockwork Orange"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The title of this 1962 Faulkner novel refers to 3 young men who steal a car & take it for a joy ride",
+          "choices": [
+            "The Reivers",
+            "The Sound and the Fury",
+            "As I Lay Dying",
+            "Sanctuary"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This author's \"An American Tragedy\" was based on a real-life murder case",
+          "choices": [
+            "Hemingway",
+            "Fitzgerald",
+            "Dreiser",
+            "Steinbeck"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This 1985 Cormac McCarthy novel has the alternate title \"The Evening Redness in the West\"",
+          "choices": [
+            "Blood Meridian",
+            "The Road",
+            "No Country for Old Men",
+            "All the Pretty Horses"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SHOP 'TIL YOU DROP",
+      "questions": [
+        {
+          "clue": "This store is one of the largest employers in the U.S. & Canada & is the largest in Mexico",
+          "choices": [
+            "Target",
+            "Costco",
+            "Kmart",
+            "Wal-Mart"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "To clear the air, this specialty retailer that sells the Ionic Breeze started as a way for the owner to have fun",
+          "choices": [
+            "Bed Bath & Beyond",
+            "Crate & Barrel",
+            "Williams Sonoma",
+            "The Sharper Image"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The trendy Brass Plum section has now been shortened to BP in this Seattle-based department store",
+          "choices": [
+            "Macy's",
+            "Saks Fifth Avenue",
+            "Neiman Marcus",
+            "Nordstrom"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "One of California's first surf shops in a mall, this \"sunny\" company sells Bullhead & Tilt brands",
+          "choices": [
+            "A\u00e9ropostale",
+            "Hollister",
+            "Old Navy",
+            "Pacific Sunwear"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In the 1860s this NYC store only sold hoop skirts; now you need a big brown bag for all the couture it sells",
+          "choices": [
+            "Saks Fifth Avenue",
+            "Bergdorf Goodman",
+            "Bloomingdale's",
+            "Macy's"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Frank Sinatra & Gene Kelly were singing & dancing baseball players in this 1949 musical",
+    "choices": [
+      "Take Me Out to the Ballgame",
+      "On the Town",
+      "An American in Paris",
+      "The Pirate"
+    ],
+    "correctIndex": 0,
+    "category": "\"GIVE\" & \"TAKE\""
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2027-11-06",
+  "categories": [
+    {
+      "name": "CHURCH & STATE",
+      "questions": [
+        {
+          "clue": "In 2000 2 men were indicted for a 1963 church bombing in Birmingham in this state",
+          "choices": [
+            "Mississippi",
+            "Louisiana",
+            "South Carolina",
+            "Alabama"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Ebenezer Baptist on Auburn Avenue",
+          "choices": [
+            "Georgia",
+            "Tennessee",
+            "Kentucky",
+            "North Carolina"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Coeur d'Alene Church of the Nazarene",
+          "choices": [
+            "Montana",
+            "Wyoming",
+            "Idaho",
+            "Colorado"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The Old North Church, a beacon to worshippers since 1723, is in this state",
+          "choices": [
+            "New York",
+            "Massachusetts",
+            "Pennsylvania",
+            "Connecticut"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The Little Church of the West, specializing in weddings",
+          "choices": [
+            "Nevada",
+            "California",
+            "New York",
+            "Florida"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SHEEP",
+      "questions": [
+        {
+          "clue": "In St. Louis, this NFL team had a unit called \"The Greatest Show on Turf\"",
+          "choices": [
+            "the Bears",
+            "the 49ers",
+            "the Rams",
+            "the Raiders"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Take the wool off a sheep, or pull the wool over someone's eyes & steal him blind",
+          "choices": [
+            "hide",
+            "wool",
+            "fleece",
+            "hair"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Philip K. Dick wondered, \"Do Androids Dream of\" this type of \"Sheep\"",
+          "choices": [
+            "real sheep",
+            "electric sheep",
+            "cyber sheep",
+            "virtual sheep"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This composer's \"Messiah\" says, \"All we like sheep have gone astray\"",
+          "choices": [
+            "Bach",
+            "Mozart",
+            "Handel",
+            "Beethoven"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The East Frisian breed isn't raised for its wool but for this",
+          "choices": [
+            "its meat",
+            "its wool",
+            "its milk",
+            "its leather"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IT'S ALL IN YOUR HEAD",
+      "questions": [
+        {
+          "clue": "This \"master gland\" produces hormones like ACTH & prolactin",
+          "choices": [
+            "the thyroid",
+            "the pineal",
+            "the pituitary",
+            "the adrenal"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This soft central part of your teeth contains the nerves & blood vessels, & that's no fiction",
+          "choices": [
+            "the pulp",
+            "the enamel",
+            "the dentin",
+            "the gum"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "It's the structure of the inner ear highlighted here",
+          "choices": [
+            "the cochlea",
+            "the vestibule",
+            "the ossicles",
+            "the eustachian tube"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "If I had a malleus, a bone in the middle ear (& I do!), I'd know its name is Latin for this",
+          "choices": [
+            "a hammer",
+            "anvil",
+            "stirrup",
+            "drumstick"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "While it may be important for speech, the true function of this dangly lobe at the back of the throat is unknown",
+          "choices": [
+            "the tonsil",
+            "the epiglottis",
+            "the uvula",
+            "the appendix"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Many massage oils have the scent of this purplish plant, the \"herb of love\" that's a member of the mint family",
+    "choices": [
+      "jasmine",
+      "eucalyptus",
+      "lavender",
+      "chamomile"
+    ],
+    "correctIndex": 2,
+    "category": "MASSAGE IN A BOTTLE"
+  },
+  "bonusRound": {
+    "clue": "In 2023 a stalled IPO & co-founder Jack Ma's selling of shares led to this Chinese tech co. losing $21 billion in market value",
+    "choices": [
+      "Alibaba",
+      "Tencent",
+      "JD.com",
+      "PDD Holdings"
+    ],
+    "correctIndex": 0,
+    "category": "STOCKS"
+  }
+}

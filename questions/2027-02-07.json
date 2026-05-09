@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-07",
+  "categories": [
+    {
+      "name": "EMOTIONS",
+      "questions": [
+        {
+          "clue": "Something lowly may be \"beneath\" this synonym for \"disdain\"",
+          "choices": [
+            "scorn",
+            "disgust",
+            "loathing",
+            "contempt"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The fourth of FDR's \"Four Freedoms\" is freedom from this",
+          "choices": [
+            "want",
+            "tyranny",
+            "ignorance",
+            "fear"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "(Tony Hale presents the clue.) It's not exactly fear; it's kind of pre-fear\u2014it covers a group of psychological disorders & in the '40s, W.H. Auden wrote his longest poem called \"The Age of\" it",
+          "choices": [
+            "anger",
+            "Anxiety",
+            "worry",
+            "stress"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "(Tony Hale presents the clue.) The personified ancient Greek spirits of fear & dread share their names with these two moons of Mars",
+          "choices": [
+            "Phobos & Deimos",
+            "Ares & Hephaestus",
+            "Cyllene & Kouris",
+            "Eos & Selene"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "(Tony Hale presents the clue.) At the start of Act III, Ophelia despairs over Hamlet acting crazy & uses this 3-word phrase that starts with a 3-letter emotion to describe her pain",
+          "choices": [
+            "Woe is me",
+            "Sigh no more",
+            "Lament no more",
+            "Grieve no more"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHAT'S UP, DUCK?",
+      "questions": [
+        {
+          "clue": "Head to L.A.'s Chinatown to eat this classic dish named for a capital city",
+          "choices": [
+            "Beijing duck",
+            "Pekingese pork",
+            "Nanjing duck",
+            "Peking duck"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "DU for short, this organization publishes Puddler Magazine for kids",
+          "choices": [
+            "Ducks Unlimited",
+            "Ducks Forever",
+            "Ducks United",
+            "Ducks Alliance"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This controversial social drama by Henrik Ibsen premiered in Norway in 1885",
+          "choices": [
+            "The Wild Duck",
+            "The Wild Rose",
+            "The Wild Swans",
+            "The Wild Goose"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It's on the puss of a platypus",
+          "choices": [
+            "a snout",
+            "a beak",
+            "a duckbill",
+            "a muzzle"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This phrase means to have all your arrangements complete",
+          "choices": [
+            "\"All your ducks in a row\"",
+            "\"All your chickens in the coop\"",
+            "\"All your birds in the cage\"",
+            "\"All your geese in the pen\""
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CELEBRITY COUPLES",
+      "questions": [
+        {
+          "clue": "Her real-life romance isn't Gomez Addams but sculptor Robert Graham",
+          "choices": [
+            "Anjelica Huston",
+            "Annette Bening",
+            "Angela Lansbury",
+            "Anjelica Washington"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The new Batman & the new Scarlett",
+          "choices": [
+            "Michael Keaton & Sharon Stone",
+            "Val Kilmer & Sharon Stone",
+            "Val Kilmer & Joanne Whalley-Kilmer",
+            "Michael Keaton & Joanne Whalley"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "She married Steven Spielberg after co-starring in his film \"Indiana Jones And The Temple Of Doom\"",
+          "choices": [
+            "Martha Rhea",
+            "Kate Capshaw",
+            "Karen Allen",
+            "Maud Adams"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Among this big band singer's wives were Joanne Dru & Rita Hayworth",
+          "choices": [
+            "Dick Haymes",
+            "Howard Keel",
+            "Frank Sinatra",
+            "Mickey Rooney"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Sofia Vergara & this hunky husband co-star in Hulu's \"Better Ruins Everything\" commercials",
+          "choices": [
+            "Joe Manganiello",
+            "Channing Tatum",
+            "Ryan Gosling",
+            "Zac Efron"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Film director whose \"Stolen Kisses\" was a sequel to his \"The 400 Blows\"",
+    "choices": [
+      "Jean-Luc Godard",
+      "Francois Truffaut",
+      "Louis Malle",
+      "Claude Lanzmann"
+    ],
+    "correctIndex": 1,
+    "category": "FAMOUS FRENCHMEN"
+  }
+}

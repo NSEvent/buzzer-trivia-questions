@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-02",
+  "categories": [
+    {
+      "name": "\"ICK\"Y WORDS",
+      "questions": [
+        {
+          "clue": "A snide, slightly stifled laugh",
+          "choices": [
+            "Chortle",
+            "Giggle",
+            "Guffaw",
+            "Snicker"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It can be a man's detachable shirt front or a child's bib",
+          "choices": [
+            "Collar",
+            "Cummerbund",
+            "Dickie",
+            "Pinafore"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It's a billy club carried by a policeman",
+          "choices": [
+            "a billy club",
+            "a baton",
+            "a nightstick",
+            "a truncheon"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Difficult to please, like Morris the cat",
+          "choices": [
+            "finicky",
+            "picky",
+            "fussy",
+            "hard-to-please"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "These long bloomers were once worn by women & girls as underwear",
+          "choices": [
+            "pantaloons",
+            "petticoats",
+            "knickers",
+            "drawers"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AFRICAN-AMERICAN LIT",
+      "questions": [
+        {
+          "clue": "\"Song Of Solomon\" was the first of her novels to have a male protagonist",
+          "choices": [
+            "Maya Angelou",
+            "Toni Morrison",
+            "Zora Neale Hurston",
+            "Nikki Giovanni"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Her marriage to Mel Leventhal produced Rebecca Walker, who produced the memoir \"Black, White and Jewish\"",
+          "choices": [
+            "Maya Angelou",
+            "Alice Walker",
+            "Toni Morrison",
+            "Zora Neale Hurston"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Linden Hills\" was Gloria Naylor's second novel; her first was \"The Women of\" this \"Place\"",
+          "choices": [
+            "Brewster Place",
+            "Harlem",
+            "Brooklyn",
+            "Bronx"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A mother of five is the heroine of \"Mama\" by this author who helped Stella get her groove back",
+          "choices": [
+            "Maya Angelou",
+            "Toni Morrison",
+            "Zora Neale Hurston",
+            "Terry McMillan"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Soon after this jazzman died, poet Michael Harper published a \"Dear John\" book about him",
+          "choices": [
+            "Miles Davis",
+            "Louis Armstrong",
+            "John Coltrane",
+            "Thelonious Monk"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\\'70s TV",
+      "questions": [
+        {
+          "clue": "The kids in this TV family were named Tracy, Chris, Danny, Laurie & Keith",
+          "choices": [
+            "the Brady Bunch",
+            "the Cleaver family",
+            "the Partridge Family",
+            "the Conners"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1962 this pair was together at Carnegie Hall; 10 years later both had variety shows",
+          "choices": [
+            "Lucille Ball & Desi Arnaz",
+            "Betty White & Valerie Harper",
+            "Carol Burnett & Julie Andrews",
+            "Julie Andrews & Elizabeth Taylor"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The 1979 sequel to this 1977 miniseries was subtitled \"The Next Generations\"",
+          "choices": [
+            "Holocaust",
+            "Shogun",
+            "Roots",
+            "Little House"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Lisa Hartman played the title character on this sitcom, a spin-off from \"Bewitched\"",
+          "choices": [
+            "Tabitha",
+            "Samantha",
+            "Amanda",
+            "Tabatha"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Played by Robert Conrad in a 1970s series, he died in 1988 & is buried in Arlington Nat'l Cemetery",
+          "choices": [
+            "Gregory Peck",
+            "Lee Marvin",
+            "Robert Stack",
+            "\"Pappy\" Boyington"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The smallmouth species of this is also called a bronzeback due to its brown hue",
+    "choices": [
+      "trout",
+      "bream",
+      "perch",
+      "bass"
+    ],
+    "correctIndex": 3,
+    "category": "4-LETTER FISH"
+  }
+}

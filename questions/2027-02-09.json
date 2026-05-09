@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-09",
+  "categories": [
+    {
+      "name": "DEWEY",
+      "questions": [
+        {
+          "clue": "In 1883 Melvil Dewey took this job at Columbia College",
+          "choices": [
+            "librarian",
+            "professor",
+            "student",
+            "janitor"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Jazz instrument on which Miles Dewey Davis III was a legendary virtuoso",
+          "choices": [
+            "saxophone",
+            "trombone",
+            "trumpet",
+            "piano"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "They're Donald Duck's 3 nephews",
+          "choices": [
+            "Huey, Dewey & Louie",
+            "Donald, Daisy & Huey",
+            "Scrooge, Flintheart & Goldie",
+            "Huey, Louie & Gyro"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A N.Y. prosecutor before he was a 2-time presidential nominee, he won convictions in 72 of 73 racketeering cases",
+          "choices": [
+            "Al Smith",
+            "Franklin D. Roosevelt",
+            "Thomas Dewey",
+            "Wendell Willkie"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "You may ring in when ready & name this May 1, 1898 battle that made Admiral George Dewey a national hero",
+          "choices": [
+            "the Battle of Manila Bay",
+            "the Battle of Santiago Bay",
+            "the Battle of Tuguegarao",
+            "the Battle of Cavite"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BIOGRAPHIES",
+      "questions": [
+        {
+          "clue": "A book called \"Mother India\" covers the life & political career of this late leader",
+          "choices": [
+            "Indira Nehru",
+            "Indira Gandhi",
+            "Indira Devi",
+            "Indira Kaur"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Title of Sylvia Nasar's tale of \"The Life of Mathematical Genius and Nobel Laureate John Nash\"",
+          "choices": [
+            "A Beautiful Day",
+            "A Beautiful Soul",
+            "A Beautiful Brain",
+            "\"A Beautiful Mind\""
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Hollywood bios include Scott Eyman's life of Louis B. Mayer & Scott Berg's 1989 life of this Mayer associate",
+          "choices": [
+            "Samuel Goldwyn",
+            "Darryl Zanuck",
+            "David O. Selznick",
+            "Jack L. Warner"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This man who laid the groundwork for modern genetics is the subject of \"The Monk in the Garden\"",
+          "choices": [
+            "Charles Darwin",
+            "Gregor Mendel",
+            "Louis Pasteur",
+            "Thomas Hunt Morgan"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"Star\" tells us \"How\" this star of \"Shampoo\" & \"Bugsy\" \"Seduced America\"",
+          "choices": [
+            "Warren Beatty",
+            "Jack Nicholson",
+            "Robert Redford",
+            "Dustin Hoffman"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LASTS",
+      "questions": [
+        {
+          "clue": "In September 1957 this baseball team played its last game at Ebbets Field, beating the Pirates 2-0",
+          "choices": [
+            "the Brooklyn Dodgers",
+            "the New York Giants",
+            "the Boston Braves",
+            "the Philadelphia Phillies"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This car company merged with Packard in 1954 & made its last car in the U.S. in 1963",
+          "choices": [
+            "Hudson Motor",
+            "Rambler Motors",
+            "Studebaker",
+            "Nash Motors"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "On Sunday, May 14, 1989 these 2 network shows aired their last episodes & they were on against each other",
+          "choices": [
+            "Cheers & M*A*S*H",
+            "The Cosby Show & Family Matters",
+            "Seinfeld & Friends",
+            "Family Ties & Moonlighting"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1995 the funnies got less funny with the ending of both \"The Far Side\" & this comic strip by Bill Watterson",
+          "choices": [
+            "Peanuts",
+            "B.C.",
+            "Doonesbury",
+            "Calvin & Hobbes"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Lord John Russell, who left office in 1866, was the last prime minister of Great Britain who was one of these, foes of the tories",
+          "choices": [
+            "the tories",
+            "the whigs",
+            "the whips",
+            "the radicals"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Around 9 pounds at birth, the pygmy species of this African mammal may eventually reach some 600 pounds",
+    "choices": [
+      "a rhinoceros",
+      "a buffalo",
+      "a hippopotamus",
+      "an elephant"
+    ],
+    "correctIndex": 2,
+    "category": "YOU'RE SUCH AN ANIMAL!"
+  }
+}

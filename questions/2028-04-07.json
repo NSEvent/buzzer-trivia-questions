@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-07",
+  "categories": [
+    {
+      "name": "OLD HISTORY",
+      "questions": [
+        {
+          "clue": "From 1588 to 1629 Abbas the Great was shah of this country & its empire",
+          "choices": [
+            "Egypt",
+            "Persia",
+            "Turkey",
+            "Greece"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In this work Virgil wrote that \"a woman is always a fickle, unstable thing\"",
+          "choices": [
+            "the Iliad",
+            "the Odyssey",
+            "the Metamorphoses",
+            "the Aeneid"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Built in the 3rd century B.C. on an island in the harbor, the Pharos of Alexandria was one of these structures",
+          "choices": [
+            "a pyramid",
+            "a bridge",
+            "a lighthouse",
+            "a fortress"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This Babylonian connected his palace with a temple by building a tunnel under the Euphrates River",
+          "choices": [
+            "Nebuchadnezzar",
+            "Hammurabi",
+            "Sargon",
+            "Julius Caesar"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 44 B.C. Caesar was assassinated & fell dead at this foot of the statue of this rival, his son-in-law",
+          "choices": [
+            "Pompey the Great",
+            "Crassus",
+            "Brutus",
+            "Cicero"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ACADEMY AWARDS",
+      "questions": [
+        {
+          "clue": "For 1966, Vanessa Redgrave was nominated for \"Morgan!\" & her sister Lynn, for this movie",
+          "choices": [
+            "A Man for All Seasons",
+            "The Sandpiper",
+            "The Russians Are Coming",
+            "\"Georgy Girl\""
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1961, this winner of a 1934 miniature statuette presented Hayley Mills with one",
+          "choices": [
+            "Judy Garland",
+            "Mickey Rooney",
+            "Shirley Temple",
+            "Deanna Durbin"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Oddly, he was nominated for both \"Best Actor\" & \" \"Best Supporting Actor\" for \"Going My Way\"",
+          "choices": [
+            "Bing Crosby",
+            "Barry Fitzgerald",
+            "Fred Astaire",
+            "Jack Benny"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"All about Eve\" won \"Best Picture\" for 1950, but she took \"Best Actress\" for \"Born Yesterday\"",
+          "choices": [
+            "Jane Wyman",
+            "Judy Holliday",
+            "Shelley Winters",
+            "Deborah Kerr"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This Englishwoman won an Oscar for playing an Oscar loser in \"California Suite\"",
+          "choices": [
+            "Glenda Jackson",
+            "Helen Mirren",
+            "Maggie Smith",
+            "Vanessa Redgrave"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "OF THE ROMAN EMPIRE",
+      "questions": [
+        {
+          "clue": "For walls & vaults, the Romans invented a superior type of this material made of cement, water & gravel",
+          "choices": [
+            "Brick",
+            "Concrete",
+            "Marble",
+            "Stucco"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Nearing death, he asked that his \"Aeneid\" be burned, but Augustus refused to have it destroyed",
+          "choices": [
+            "Ovid",
+            "Horace",
+            "Lucretius",
+            "Virgil"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "After Caligula's assassination, this stammerer was found hiding behind a curtain & made emperor",
+          "choices": [
+            "Nero",
+            "Tiberius",
+            "Claudius",
+            "Caligula"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Along with high shoes called calcei, Romans wore this 4-letter outer garment",
+          "choices": [
+            "a cloak",
+            "a tunic",
+            "a toga",
+            "a shawl"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "From the Greek for \"Phoenician\", this word describes the 3 Rome vs. Carthage wars; Rome went 3-0",
+          "choices": [
+            "Punic",
+            "Triune",
+            "Triple",
+            "Thrice"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Like insects, arachnids belong to this \"joint legged\" phylum of the animal kingdom",
+    "choices": [
+      "the hexapods",
+      "the arachnids",
+      "the arthropods",
+      "the invertebrates"
+    ],
+    "correctIndex": 2,
+    "category": "ARACHNIDS"
+  }
+}

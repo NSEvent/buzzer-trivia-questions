@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-14",
+  "categories": [
+    {
+      "name": "TOP O' THE CHARTS",
+      "questions": [
+        {
+          "clue": "Her \"Control\" album produced 5 Top 5 singles, each in a different spot; \"When I Think Of You\" hit No. 1",
+          "choices": [
+            "Janet Jackson",
+            "Tina Turner",
+            "Whitney Houston",
+            "Aretha Franklin"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In a 1957 No. 1 hit, he sang, \"Darling, you send me, honest you do\"",
+          "choices": [
+            "Ray Charles",
+            "Sammy Davis Jr.",
+            "Sam Cooke",
+            "James Brown"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "With the 1999 song \"Bailamos\", he accomplished something his father was unable to achieve\u2014a No. 1 U.S. pop hit",
+          "choices": [
+            "Ricky Martin",
+            "Marc Anthony",
+            "Enrique Iglesias",
+            "Shakira"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Madonna's \"This Used To Be My Playground\" was sung over the closing credits of this 1992 film",
+          "choices": [
+            "Pretty Woman",
+            "Sixteen Candles",
+            "A League of Their Own",
+            "Dirty Dancing"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1998 this \"nude\" Toronto-based group reached No. 1 for 1 week with \"One Week\"",
+          "choices": [
+            "Crash Test Dummies",
+            "The Tragically Hip",
+            "Rheostatics",
+            "Barenaked Ladies"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IT'S A \"SMALL\" WORLD",
+      "questions": [
+        {
+          "clue": "This type of bass is a fisherman's favorite",
+          "choices": [
+            "largemouth",
+            "striped",
+            "smallmouth",
+            "channel"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Have the guts to name this main organ of digestion in the human body",
+          "choices": [
+            "smallpox",
+            "small talk",
+            "small scale",
+            "small intestine"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "If you want to open your own pub, consider getting a loan from this government agency, the SBA",
+          "choices": [
+            "Small Business Administration",
+            "Small Claims Court",
+            "Small Arms Division",
+            "Smallpox Eradication Program"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Played by Al Franken on both TV & film, he was good enough, smart enough & doggone it, people liked him",
+          "choices": [
+            "Barney Fife",
+            "Dwight Schrute",
+            "Jim Halpert",
+            "Stuart Smalley"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A single red triangular pennant tells boaters that this 3-word alert is in effect",
+          "choices": [
+            "High surf warning",
+            "Rip current advisory",
+            "Small craft advisory (warning)",
+            "Tsunami alert"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"MEN\" AT WORK",
+      "questions": [
+        {
+          "clue": "Rediscovered c. 1900, the work of this Austrian monk was thought irrelevant to evolutionary theory",
+          "choices": [
+            "Charles Darwin",
+            "Albert Einstein",
+            "(Gregor) Mendel",
+            "Isaac Newton"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A 9-branch Hanukkah candelabrum",
+          "choices": [
+            "a candelabrum",
+            "a menorah",
+            "a hanukiah",
+            "a chanukkiah"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This journalist said no one \"has ever lost money by underestimating the intelligence of the great masses\"",
+          "choices": [
+            "(Elbert) Hubbard",
+            "(H.L.) Mencken",
+            "(Walter) Lippmann",
+            "(Dorothy) Parker"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Technically, this French phrase means \"household of 3\"... technically",
+          "choices": [
+            "m\u00e9nage \u00e0 deux",
+            "triple entente",
+            "party of three",
+            "m\u00e9n\u00e0ge a trois"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This composer of \"Amahl and the Night Visitors\" won 2 Pulitzers for his work",
+          "choices": [
+            "(Samuel) Barber",
+            "(Aaron) Copland",
+            "(Gian Carlo) Menotti",
+            "(William) Schuman"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Dress for his Boston Tea Party wasn't tie & tails but feathers & war paint",
+    "choices": [
+      "Samuel Adams",
+      "John Hancock",
+      "Paul Revere",
+      "Crispus Attucks"
+    ],
+    "correctIndex": 0,
+    "category": "THE ADAMS FAMILY"
+  }
+}

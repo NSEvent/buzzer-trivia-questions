@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-12",
+  "categories": [
+    {
+      "name": "\"F\" IN HISTORY",
+      "questions": [
+        {
+          "clue": "In 1380 Charles the Mad succeeded his father, Charles the Wise, as king of this country",
+          "choices": [
+            "France",
+            "Spain",
+            "Italy",
+            "Germany"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Part of this group of Woodrow Wilson demands were an independent Poland & freedom of the seas",
+          "choices": [
+            "the Open Door Policy",
+            "the Fourteen Points",
+            "the Monroe Doctrine",
+            "the Neutrality Acts"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This system that involved vassals & lords flourished in Europe from the 9th-13th centuries",
+          "choices": [
+            "the mercantile system",
+            "the manorial system",
+            "the guild system",
+            "the feudal system"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This U.S. president was known as \"The American Louis Philippe\"",
+          "choices": [
+            "(Chester) Arthur",
+            "(Zachary) Taylor",
+            "(Franklin) Pierce",
+            "(Millard) Fillmore"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The Rothschilds opened their first bank in the late 1700s, in this city",
+          "choices": [
+            "Vienna",
+            "London",
+            "Frankfurt",
+            "Berlin"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WINSTON CHURCHILL",
+      "questions": [
+        {
+          "clue": "In 1951, 6 years after leaving it, he was returned to this office",
+          "choices": [
+            "prime minister",
+            "chancellor",
+            "foreign secretary",
+            "home secretary"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Winnie didn't take up this hobby, at which he excelled, until he was in his forties",
+          "choices": [
+            "painting",
+            "sculpting",
+            "photography",
+            "stamp collecting"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Completes Churchill's line about the RAF \"Never in the field of human conflict was so much owed...\"",
+          "choices": [
+            "by so many to so few",
+            "to so many by so few",
+            "by so many from so few",
+            "to so few by so many"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "At 18 Churchill entered this British military college where he graduated 20th in a class of 130",
+          "choices": [
+            "West Point",
+            "Eton College",
+            "Sandhurst",
+            "Harrow School"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1945, 5 months before Churchill, St. Vincent Troubridge told us about one of these \"across Europe\"",
+          "choices": [
+            "the steel curtain",
+            "the iron curtain",
+            "the glass wall",
+            "the bamboo fence"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "INSPIRED CHARACTERS",
+      "questions": [
+        {
+          "clue": "Scythrop Glowry in the 1818 novel \"Nightmare Abbey\" is believed to be a spoof of this poet, Lord Byron's pal",
+          "choices": [
+            "Shelley",
+            "Keats",
+            "Percy Bysshe Shelley",
+            "Lord Tennyson"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This Victorian P.M.'s scandalous affair with Lady Henrietta Sykes inspired his 1877 novel \"Henrietta Temple\"",
+          "choices": [
+            "Benjamin Disraeli",
+            "William Gladstone",
+            "Benjamin Franklin",
+            "Charles Dickens"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"The Financier\" by this author of \"Sister Carrie\" was inspired by real financier Charles T. Yerkes",
+          "choices": [
+            "Stephen Crane",
+            "Frank Norris",
+            "Theodore Dreiser",
+            "Upton Sinclair"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Neal Cassady was called the \"Adonis of Denver\" by Allen Ginsberg & was the model for Dean Moriarty in this novel",
+          "choices": [
+            "Duluoz Legend",
+            "On the Road",
+            "Naked Lunch",
+            "The Electric Kool-Aid Acid Test"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This Willa Cather novel was inspired by the life of Jean Baptiste Lamy, the first bishop of Santa Fe",
+          "choices": [
+            "Death Comes for the Archbishop",
+            "My Antonia",
+            "O Pioneers!",
+            "The Song of the Lark"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1864 the International Red Cross was founded in this European country",
+    "choices": [
+      "France",
+      "Germany",
+      "Belgium",
+      "Switzerland"
+    ],
+    "correctIndex": 3,
+    "category": "THE 19TH CENTURY"
+  }
+}

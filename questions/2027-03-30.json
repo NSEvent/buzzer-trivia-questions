@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-30",
+  "categories": [
+    {
+      "name": "IN THE PINK",
+      "questions": [
+        {
+          "clue": "pinkribbonshop.com promotes awareness of this disease, \"one pink ribbon at a time\"",
+          "choices": [
+            "lung cancer",
+            "ovarian cancer",
+            "breast cancer",
+            "skin cancer"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Rapper Cam'ron had a pink one of these alliterative super-SUVs, but sold it as it got too much attention",
+          "choices": [
+            "Lexus RX",
+            "Cadillac Escalade",
+            "Range Rover",
+            "Lincoln Navigator"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This Italian-born designer was known for her surrealist fashions & for her signature color, shocking pink",
+          "choices": [
+            "(Elsa) Schiaparelli",
+            "Coco Chanel",
+            "Giorgio Armani",
+            "Yves Saint Laurent"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A group of Minnesota ladies got a pink lady's-this named as the state flower, brushing aside a guy who suggested the dandelion",
+          "choices": [
+            "slipper",
+            "boot",
+            "shoe",
+            "sandal"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In Hawaii, these flowers are often used to make leis",
+          "choices": [
+            "jasmine",
+            "orchid",
+            "hibiscus",
+            "plumeria"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "I'M WALKIN' HERE!",
+      "questions": [
+        {
+          "clue": "Sci-fi TV fans have somehow schismed into factions called this word plus -kers & also -kies",
+          "choices": [
+            "star",
+            "warp",
+            "trek",
+            "lifter"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "You're \"out of\" this walkin' word if you're not in rhythm or up on current events",
+          "choices": [
+            "step",
+            "beat",
+            "pace",
+            "time"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "...from the Arno up Via Roma to see the plumbline-challenged highlight of this city",
+          "choices": [
+            "Venice",
+            "Rome",
+            "Pisa",
+            "Florence"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "...heeding the call of the deep, toward the Eastern Harbor in this main Egyptian seaport",
+          "choices": [
+            "Cairo",
+            "Port Said",
+            "Suez",
+            "Alexandria"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Proverbially, if you acted on stage, you did this to \"the boards\"",
+          "choices": [
+            "trod",
+            "treaded",
+            "trampled",
+            "walked"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "EUROPEANA",
+      "questions": [
+        {
+          "clue": "In 1986 local farmers in this country protested the plan to take their land for Europe's first Disneyland",
+          "choices": [
+            "Italy",
+            "Spain",
+            "Germany",
+            "France"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "You might have to window shop in this Swiss city's elegant Bahnhofstrasse: prices are lethal there",
+          "choices": [
+            "Geneva",
+            "Basel",
+            "Zurich",
+            "Bern"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "From the name of the peninsula on which they lie, Greece & Albania are considered 2 of these \"states\"",
+          "choices": [
+            "Mediterranean states",
+            "Adriatic states",
+            "Balkan states",
+            "Aegean states"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1997 Ferrari bought this other fast car maker founded in Bologna in 1914",
+          "choices": [
+            "Maserati",
+            "Lamborghini",
+            "Bertone",
+            "Pagani"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Marcel Proust is buried in this vast Parisian cemetery",
+          "choices": [
+            "the Montparnasse Cemetery",
+            "the Montmartre Cemetery",
+            "the P\u00e8re-Lachaise Cemetery",
+            "the Bagneux Cemetery"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In the early third trimester, many women are given a glucose tolerance test to look for this",
+    "choices": [
+      "anemia",
+      "diabetes",
+      "preeclampsia",
+      "hyperemesis"
+    ],
+    "correctIndex": 1,
+    "category": "PREGNANCY & CHILD CARE"
+  }
+}

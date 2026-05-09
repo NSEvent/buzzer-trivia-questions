@@ -1,0 +1,207 @@
+{
+  "date": "2027-04-03",
+  "categories": [
+    {
+      "name": "GRAPHIC NOVELS",
+      "questions": [
+        {
+          "clue": "\"Usagi Yojimbo\" is an epic tale of a rabbit one of these feudal warriors",
+          "choices": [
+            "a ninja",
+            "a ronin",
+            "a shogun",
+            "a samurai"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"Persepolis\" Chronicles Marjane Satrapi's youth in this Islamic republic",
+          "choices": [
+            "Iran",
+            "Iraq",
+            "Afghanistan",
+            "Syria"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The kids are a lot more hormonal in this 2012 J.K. Rowling book than in her Harry Potter tales",
+          "choices": [
+            "The Silkworm",
+            "The Cuckoo's Calling",
+            "The Casual Vacancy",
+            "The Running Grave"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The March trilogy about his experiences during the civil rights era, was co-written by this current congressman",
+          "choices": [
+            "John McCain",
+            "Barney Frank",
+            "Jim Clyburn",
+            "John Lewis"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Not to gripe but in this 1969 Philip Roth novel, quite a time is had with a young lady known as \"The Monkey\"",
+          "choices": [
+            "Portnoy's Complaint",
+            "Portnoy's Soliloquy",
+            "Portnoy's Lament",
+            "Portnoy's Confession"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ZEUS",
+      "questions": [
+        {
+          "clue": "In honor of Zeus, these were held by the Greeks every 4 years",
+          "choices": [
+            "Pythians",
+            "Isthmians",
+            "Olympics",
+            "Nemeans"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The 9 kids Zeus had with Mnemosyne all girls, are known collectively as these",
+          "choices": [
+            "Horae",
+            "Charites",
+            "Muses",
+            "Moirai"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The statue of Zeus at Olympia depicted him holding a scepter on which this bird was perched",
+          "choices": [
+            "the dove",
+            "the owl",
+            "the swan",
+            "the eagle"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "After Zeus swallowed his consort, Metis, this goddess of wisdom was born from his head",
+          "choices": [
+            "Artemis",
+            "Athena",
+            "Aphrodite",
+            "Hestia"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Zeus disguised himself as a cuckoo to seduce this goddess, but she married him anyway",
+          "choices": [
+            "Demeter",
+            "Persephone",
+            "Hera",
+            "Leto"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "POP CULTURE PRINCESSES",
+      "questions": [
+        {
+          "clue": "She was actually adopted into the royal family of Alderaan, raised by Senator Bail Organa & his wife, the queen of Alderaan",
+          "choices": [
+            "Princess Leia",
+            "Padm\u00e9 Amidala",
+            "Rey Skywalker",
+            "Lumiya"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Clad in leather with body armor, Xena was this kind of title princess on 1990s TV",
+          "choices": [
+            "Amazon Princess",
+            "Battle Princess",
+            "Fighter Princess",
+            "Warrior Princess"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Buttercup is the title betrothed in this tale of page & screen",
+          "choices": [
+            "The Princess Bride's Revenge",
+            "The Princess Bride",
+            "A Tale of Two Princesses",
+            "The Princess Bride Returns"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In \"The Princess Diaries\", Mia Thermopolis finds out that she is the crown princess of this (fictional) country",
+          "choices": [
+            "Monaco",
+            "Sylvania",
+            "Dystopia",
+            "Genovia"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"Once Upon A December\" was a song in this Broadway musical whose title is the name of a Romanov princess",
+          "choices": [
+            "Catherine",
+            "Anastasia",
+            "Olga",
+            "Nadia"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The Erechtheum is an ancient Ionic temple made of this stone",
+    "choices": [
+      "granite",
+      "limestone",
+      "sandstone",
+      "marble"
+    ],
+    "correctIndex": 3,
+    "category": "ANTIQUITIES"
+  },
+  "bonusRound": {
+    "clue": "Her many costume designs include the sarong worn by Dorothy Lamour & Redford & Newman's suits in \"The Sting\"",
+    "choices": [
+      "Milena Canonero",
+      "Edith Head",
+      "Colleen Atwood",
+      "Trish Summerville"
+    ],
+    "correctIndex": 1,
+    "category": "MOVIE PEOPLE"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-26",
+  "categories": [
+    {
+      "name": "\"HEART\"s",
+      "questions": [
+        {
+          "clue": "\"The Vamp of Savanna\"",
+          "choices": [
+            "Soft Hearted Sally",
+            "Cold Hearted Catherine",
+            "Hard Hearted Hannah",
+            "Brave Hearted Betty"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The proverb \"Out of sight, out of mind\" is contradicted by \"Absence\" does this",
+          "choices": [
+            "makes the heart grow fonder",
+            "fades away",
+            "breaks the bond",
+            "warms the soul"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The film \"Apocalypse Now\" is based in part on this Joseph Conrad novella",
+          "choices": [
+            "Heart of the Jungle",
+            "\"Heart of Darkness\"",
+            "Shadow of the Congo",
+            "Soul of the River"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Elvis made his Top 40 debut with this song",
+          "choices": [
+            "\"Heartbreak Hotel\"",
+            "Heartbreak Lane",
+            "Heartbreak Inn",
+            "Heartbreak Motel"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Clothing phrase for showing one's feelings plainly",
+          "choices": [
+            "keeping one's cards close to one's chest",
+            "wearing one's heart on one's sleeve",
+            "having a heart of gold",
+            "losing one's heart"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BALLS",
+      "questions": [
+        {
+          "clue": "Bob Molitor at Spalding pioneerd the change from white to yellow balls in this sport",
+          "choices": [
+            "basketball",
+            "cricket",
+            "tennis",
+            "soccer"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The RAF began using this instrument in 1944 because it didn't leak at high altitudes",
+          "choices": [
+            "fountain pen",
+            "pencil",
+            "stylus",
+            "ballpoint pen"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A target ball called a \"pallino\" is thrown first in this Italian ball game",
+          "choices": [
+            "bocce",
+            "bowling",
+            "croquet",
+            "lawn bowls"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Kermit the Frog's eyeballs were originally made of these light sports balls",
+          "choices": [
+            "ping pong balls",
+            "tennis balls",
+            "golf balls",
+            "baseball"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This racquet court sport was named after the sound the rubber ball made when it hit a wall",
+          "choices": [
+            "Squash",
+            "Racquetball",
+            "Handball",
+            "Paddleball"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PHYSICAL SCIENCE",
+      "questions": [
+        {
+          "clue": "Though its mirror is flawed, this $1.5 billion space telescope is producing useful data",
+          "choices": [
+            "Hubble",
+            "Spitzer",
+            "Compton",
+            "Chandra"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "4-letter word for the force that hinders an airplane's forward thrust, caused by friction with the air",
+          "choices": [
+            "lift",
+            "drag",
+            "thrust",
+            "mass"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A coronagraph is a telescope that simulates this natural occurrence to allow study of the sun's corona",
+          "choices": [
+            "a lunar cycle",
+            "an eclipse",
+            "a solar flare",
+            "a starburst"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This scale has 180 degrees between the freezing & boiling points of water",
+          "choices": [
+            "Celsius",
+            "Kelvin",
+            "Rankine",
+            "Fahrenheit"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Atomic #24, this metal is used with iron to make stainless steel",
+          "choices": [
+            "nickel",
+            "manganese",
+            "cobalt",
+            "chromium"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1915, these two physician brothers gave $1.5 million to the University of Minnesota to establish a research foundation",
+    "choices": [
+      "Mayo",
+      "Cleveland",
+      "Rockefeller",
+      "Carnegie"
+    ],
+    "correctIndex": 0,
+    "category": "MEN OF MEDICINE"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-12",
+  "categories": [
+    {
+      "name": "ONE-HIT WONDERS",
+      "questions": [
+        {
+          "clue": "In the 1975 Morris Albert hit this 2-letter word is repeated 3 times after \"Feelings\"",
+          "choices": [
+            "no",
+            "go",
+            "do",
+            "wo"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This TV comedienne had a big hit with 1973's \"The Night the Lights Went Out in Georgia\"",
+          "choices": [
+            "Betty White",
+            "Lucille Ball",
+            "Vicki Lawrence",
+            "Mary Tyler Moore"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Bertie Higgins' only Top 40 hit, it was inspired by a 1948 Bogart-Bacall flick set on a Florida island",
+          "choices": [
+            "Casablanca",
+            "The Maltese Falcon",
+            "To Have and Have Not",
+            "\"Key Largo\""
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "He died of cardiac arrest in 1996 moments after singing his lone hit, \"Tip Toe Thru' The Tulips With Me\"",
+          "choices": [
+            "John Denver",
+            "Pee Wee Herman",
+            "Victor Borge",
+            "Tiny Tim"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Daniel Powter had this 2006 hit, also used as a kiss-off song on \"American Idol\"",
+          "choices": [
+            "Losing Grip",
+            "Complicated",
+            "\"Bad Day\"",
+            "Sk8er Boi"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ALMOST RHYMES WITH ORANGE",
+      "questions": [
+        {
+          "clue": "To adapt existing music for a performer, as Nelson Riddle did for Frank Sinatra",
+          "choices": [
+            "Compose",
+            "Adapt",
+            "Remix",
+            "Arrange"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A tube fitted with a plunger & needle, used to inject fluids",
+          "choices": [
+            "Syringe",
+            "Hypodermic",
+            "Catheter",
+            "Injector"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "To scorch, or to burn the ends of hair or cloth",
+          "choices": [
+            "Scorch",
+            "Char",
+            "singe",
+            "Burn"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"Some like it hot, some like it cold, some like it in the pot, nine days old\"",
+          "choices": [
+            "porcupine",
+            "porridge stone",
+            "porridge cloud",
+            "porridge"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "If this squeaks every time you enter or leave a room, try taking out the pin & lubricating it",
+          "choices": [
+            "a latch",
+            "a hinge",
+            "a spring",
+            "a knob"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HAIKU ABOUT THE POET",
+      "questions": [
+        {
+          "clue": "Born in Beatrice / Worshiped a girl named Florence / Oops, got that backwards",
+          "choices": [
+            "Dante Alighieri",
+            "Dante",
+            "Dante Gabriel Rossetti",
+            "Dante Ferretti"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"Aurora Leigh\", whoa! / 19th century lady / Let me count the ways",
+          "choices": [
+            "Elizabeth Barrett Browning",
+            "Elizabeth I",
+            "Elizabeth Taylor",
+            "Elizabeth Swados"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A joy forever / Big \"into Chapman's Homer\" / Tuberculosis",
+          "choices": [
+            "Byron",
+            "Keats",
+            "Coleridge",
+            "Wordsworth"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "American guy / \"The Wreck of the Hesperus\" / That's all you should need",
+          "choices": [
+            "Whittier",
+            "Bryant",
+            "Longfellow",
+            "Lowell"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Queen Mab\" was so fab / Was the groom of Frankenstein / Not waving, drowning",
+          "choices": [
+            "Byron",
+            "Marlowe",
+            "Milton",
+            "Shelley"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Failed chromosomal disjunction can lead to trisomy 21, aka this syndrome causing cognitive issues",
+    "choices": [
+      "Down syndrome",
+      "Eisenmenger syndrome",
+      "Turner syndrome",
+      "Patau syndrome"
+    ],
+    "correctIndex": 0,
+    "category": "PARTING WORDS"
+  }
+}

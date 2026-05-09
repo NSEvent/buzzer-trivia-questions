@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-13",
+  "categories": [
+    {
+      "name": "ACTION FIGURES",
+      "questions": [
+        {
+          "clue": "In 2003 Paul Crake ran up the 1,576 steps of this NYC building in 9 minutes 33 seconds",
+          "choices": [
+            "the Empire State Building",
+            "the Chrysler Building",
+            "the One World Trade Center",
+            "the Empire State Plaza"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 2006 Leyan Lo, a student at this Pasadena school, solved a Rubik's Cube puzzle in 11.13 seconds",
+          "choices": [
+            "Pomona College",
+            "Occidental College",
+            "UCLA",
+            "Caltech"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In the \"Left 4 Dead\" video games, you can play as an apocalyptic survivor or as one of these undead beings, \"the infected\"",
+          "choices": [
+            "a zombie",
+            "a vampire",
+            "a werewolf",
+            "a ghoul"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Fact: This \"Office\" star sees plenty of action as the title character on Amazon's \"Jack Ryan\"",
+          "choices": [
+            "John Krasinski",
+            "Steve Carell",
+            "Ryan Reynolds",
+            "Jon Hamm"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Paddy Doyle's fitness records include throwing 470 of these in 1 minute\u2014that should win the round",
+          "choices": [
+            "kicks",
+            "knees",
+            "elbows",
+            "punches"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CELEBRITY BOOKS",
+      "questions": [
+        {
+          "clue": "\"A-Team\" co-star who subtitled his autobiography \"The Man with the Gold\"",
+          "choices": [
+            "Arnold Schwarzenegger",
+            "Hulk Hogan",
+            "Carl Weathers",
+            "Mr. T"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In \"My Word is My Bond\", he talks about some of his memorable roles from The Saint to Beau Maverick to 007",
+          "choices": [
+            "Sean Connery",
+            "Tim Dalton",
+            "Roger Moore",
+            "George Lazenby"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This co-host of \"The View\" shares some of her views in a 2010 book called \"Is It Just Me? Or Is It Nuts Out There?\"",
+          "choices": [
+            "Joy Behar",
+            "Wendy Williams",
+            "Whoopi Goldberg",
+            "Sherri Shepherd"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"Smokey Inside My Life\" is about his life, not Smokey the Bear's",
+          "choices": [
+            "Smokey Robinson",
+            "Stevie Wonder",
+            "Lionel Richie",
+            "Marvin Gaye"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In \"The Best Awful\", she continued the story of Suzanne Vale from \"Postcards from the Edge\"",
+          "choices": [
+            "Goldie Hawn",
+            "Shirley MacLaine",
+            "Jane Fonda",
+            "Carrie Fisher"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOOK, LINE & SINKER",
+      "questions": [
+        {
+          "clue": "The Steel Curtain was the defensive line of this 1970s NFL team",
+          "choices": [
+            "the Dallas Cowboys",
+            "the San Francisco 49ers",
+            "the Pittsburgh Steelers",
+            "the Minnesota Vikings"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This \"60 Minutes\" commentator: \"I'd like to be rich enough so I could throw soap away after the letters are worn off\"",
+          "choices": [
+            "Dan Rather",
+            "Charles Kuralt",
+            "Andy Rooney",
+            "Ed Bradley"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1985 it was located in 2 pieces at 41\u00b0 43' N. 49\u00b0 56' W. at a depth of about 13,000 feet",
+          "choices": [
+            "the Andrea Doria",
+            "the Lusitania",
+            "the Britannic",
+            "the Titanic"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Orel Hershiser's sinker helped bring him the 1988 N.L. Cy Young Award & this team a World Series title",
+          "choices": [
+            "the Dodgers",
+            "the Giants",
+            "the Cubs",
+            "the Mets"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In Job the question is asked, \"Canst you draw out\" this sea monster \"with an hook?\"",
+          "choices": [
+            "Behemoth",
+            "Leviathan",
+            "Baphomet",
+            "Cerberus"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Basil & Sybil ran this title place with a little help from Manuel the waiter & his pet rat",
+    "choices": [
+      "The Ritz",
+      "Fawlty Towers",
+      "Blackadder's House",
+      "Fawlty Castle"
+    ],
+    "correctIndex": 1,
+    "category": "BRITCOMS"
+  }
+}

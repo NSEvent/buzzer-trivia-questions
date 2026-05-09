@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-29",
+  "categories": [
+    {
+      "name": "THE CRUSADES",
+      "questions": [
+        {
+          "clue": "The early Crusades were all organized by men holding this office",
+          "choices": [
+            "the papacy",
+            "the monarchy",
+            "the nobility",
+            "the clergy"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Leading the third Crusade, this English king captured Cyprus",
+          "choices": [
+            "Richard the Lionhearted",
+            "Henry the Second",
+            "John the Lackland",
+            "Edward the First"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Around 1171 Saladin became sultan of this state that was larger than Syria",
+          "choices": [
+            "Mesopotamia",
+            "Persia",
+            "Egypt",
+            "Anatolia"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The Muslims referred to the Christians by this term, the people who took over Gaul & gave it its present name",
+          "choices": [
+            "the Lombards",
+            "the Visigoths",
+            "the Franks",
+            "the Normans"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Also called the order of St. John of Jerusalem, it was founded to give health care & protection to Christians",
+          "choices": [
+            "the Knights Templar",
+            "the Knights Hospitallers",
+            "the Teutonic Knights",
+            "the Order of Santiago"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "1919",
+      "questions": [
+        {
+          "clue": "In April this city was named as headquarters to the League of Nations",
+          "choices": [
+            "Paris, France",
+            "London, England",
+            "Geneva, Switzerland",
+            "Brussels, Belgium"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Founded in 1919, this Dutch airline is the world's oldest airline still operating under its original name",
+          "choices": [
+            "Lufthansa",
+            "Air France",
+            "KLM",
+            "Korean Air"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 2019 Germany & other lands have events honoring the 100th birthday of this modernist design school",
+          "choices": [
+            "Bauhaus",
+            "De Stijl",
+            "Arts and Crafts",
+            "Constructivism"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This number amendment was ratified by Nebraska on Jan. 16, putting Prohibition in force",
+          "choices": [
+            "19th",
+            "21st",
+            "18th",
+            "16th"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This Scottish-born steel magnate died of pneumonia on August 11",
+          "choices": [
+            "(Andrew) Carnegie",
+            "John D. Rockefeller",
+            "Henry Ford",
+            "J.P. Morgan"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SEEING RED",
+      "questions": [
+        {
+          "clue": "This Russian soup is served cold with a dollop of sour cream on top",
+          "choices": [
+            "shchi",
+            "solyanka",
+            "ukha",
+            "borscht"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Ocean Spray now has a drink made from the white type of this bog fruit",
+          "choices": [
+            "a blueberry",
+            "a raspberry",
+            "a cranberry",
+            "a blackberry"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It's what gives \"The Red Badge of Courage\" its redness",
+          "choices": [
+            "rust",
+            "pain",
+            "blood",
+            "shame"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A Brunswick bowling ball & a Stratocaster guitar have both come in this red, named for a sugar-coated fruit",
+          "choices": [
+            "a cherry (red)",
+            "a candy apple (red)",
+            "a strawberry (red)",
+            "a watermelon (red)"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"Red, Yellow, Red\" is one of this abstract artist's color field paintings",
+          "choices": [
+            "Pollock",
+            "Kandinsky",
+            "Rothko",
+            "Mondrian"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "He was stripped of his title of President for Life of Indonesia",
+    "choices": [
+      "Sukarno",
+      "Suharto",
+      "Gorbachev",
+      "Mussolini"
+    ],
+    "correctIndex": 0,
+    "category": "1966"
+  }
+}

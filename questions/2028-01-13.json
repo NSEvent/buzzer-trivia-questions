@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-13",
+  "categories": [
+    {
+      "name": "IN SO MANY WORDS",
+      "questions": [
+        {
+          "clue": "5 words: Prepositional phrase that immediately follows \"what so proudly we hailed\"",
+          "choices": [
+            "in the dawn's early light",
+            "by the dawn's early light",
+            "at the twilight's last gleaming",
+            "at the day's first light"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "3 words: George Mallory's 1923 reply to \"Why did you want to climb Mt. Everest?\"",
+          "choices": [
+            "\"Because it's there\"",
+            "Because it exists",
+            "Because I can",
+            "Because it calls"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "3 words: The end of the 1963 \"I Have a Dream\" speech",
+          "choices": [
+            "free at last",
+            "soul brother",
+            "let freedom ring",
+            "god bless america"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "3 words: Classic Avis slogan extolling the company work ethic",
+          "choices": [
+            "we are number one",
+            "drive the best",
+            "rent the rest",
+            "\"We try harder\""
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "One word: The motto of ever-optimistic Rhode Island",
+          "choices": [
+            "\"Hope\"",
+            "Liberty",
+            "Independence",
+            "Freedom"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE DEAD SEA SCROLLS",
+      "questions": [
+        {
+          "clue": "The longest scroll at around 27 feet includes a design for this Jerusalem building & its compound",
+          "choices": [
+            "the First Temple",
+            "the Second Temple",
+            "the Western Wall",
+            "the Dome of the Rock"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A host of sacred writings are in the Scrolls, including a commentary about this psalm writer",
+          "choices": [
+            "(King) Solomon",
+            "(King) Hezekiah",
+            "Moses",
+            "(King) David"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 1954 Athanasius Samuel, a Syrian Orthodox archbishop, sold 4 scrolls after placing an ad in this New York daily financial newspaper",
+          "choices": [
+            "The New York Times",
+            "The Wall Street Tribune",
+            "The Wall Street Journal",
+            "The Financial Post"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The Scrolls reveal a rich & diversified literary tradition amongst the Jews of this ordinal temple period",
+          "choices": [
+            "the Third Temple Period",
+            "the First Temple Period",
+            "the Post-Temple Period",
+            "the Second Temple Period"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Most scholars believe the Dead Sea Scrolls were written by this religious community of apocalyptic Jews",
+          "choices": [
+            "the Pharisees",
+            "the Sadducees",
+            "the Essenes",
+            "the Zealots"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MEXICAN STATES",
+      "questions": [
+        {
+          "clue": "A peninsula that includes the capital of Belize shares its name with this state",
+          "choices": [
+            "Oaxaca",
+            "Chiapas",
+            "Campeche",
+            "Yucatan"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This peninsula that borders the U.S. is divided into 2 states, one norte, one sur",
+          "choices": [
+            "Sonora",
+            "Chihuahua",
+            "Baja",
+            "Sinaloa"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Dog-gone it! Ciudad Juarez is in this Mexican state",
+          "choices": [
+            "Sonora",
+            "Sinaloa",
+            "Chihuahua",
+            "Durango"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This state was the source for pepper seeds used by the McIlhennys in hot sauce",
+          "choices": [
+            "Oaxaca",
+            "Tabasco",
+            "Puebla",
+            "Jalisco"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Baja California Sur, the lower state on the Baja Peninsula, has this city for a capital, just like Bolivia",
+          "choices": [
+            "Sucre",
+            "Oruro",
+            "Cochabamba",
+            "La Paz"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A ladder that reached to heaven appeared to him in a dream",
+    "choices": [
+      "Abraham",
+      "Jacob",
+      "Moses",
+      "Noah"
+    ],
+    "correctIndex": 1,
+    "category": "KNOW YOUR BIBLE"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-19",
+  "categories": [
+    {
+      "name": "SOCK IT TO ME",
+      "questions": [
+        {
+          "clue": "Original Rockford red heel socks come with instructions on making these animals, around since the 1900s",
+          "choices": [
+            "knitted bears",
+            "sock monkeys",
+            "crocheted mice",
+            "stuffed cats"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Originally green & white, these socks worn by the Campbell clan were named for a county in west Scotland",
+          "choices": [
+            "plaid",
+            "argyle",
+            "stripes",
+            "polka dots"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 1931 ankle socks caused a sensation when Mrs. Fernley-Whittingstall wore them playing this at Forest Hills",
+          "choices": [
+            "squash",
+            "badminton",
+            "croquet",
+            "tennis"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Nike & Adidas still make low-cut socks with one of these ornamental tufts on the heel",
+          "choices": [
+            "fringe socks",
+            "tassel slippers",
+            "pom-pom socks",
+            "feather booties"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This term for a teenage girl of the 1940s refers to ankle socks folded over at the top",
+          "choices": [
+            "poodle skirts",
+            "bobby socks",
+            "sock hops",
+            "knee socks"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TRUCKS",
+      "questions": [
+        {
+          "clue": "Tractor trailers are often called this, for the number of wheels they have",
+          "choices": [
+            "a semi-truck",
+            "a big rig",
+            "a 10-wheeler",
+            "an 18-wheeler"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Division of Chrysler Corp. that makes pickup trucks",
+          "choices": [
+            "Ford",
+            "Chevrolet",
+            "GMC",
+            "Dodge"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In the U.S., this largest employer uses more trucks than any single industry",
+          "choices": [
+            "the postal service",
+            "the construction industry",
+            "the military",
+            "the U.S. government"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Famed for its strength, its symbol is a bulldog",
+          "choices": [
+            "Peterbilt",
+            "Kenworth",
+            "Freightliner",
+            "Mack"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The engine & cab are housed in this part of a tractor-trailer",
+          "choices": [
+            "the tractor part",
+            "the trailer section",
+            "the fifth wheel",
+            "the landing gear"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PICTURE THE PREZ",
+      "questions": [
+        {
+          "clue": "This president was a famous actor before going into public politics",
+          "choices": [
+            "John Wayne",
+            "Clark Gable",
+            "Gary Cooper",
+            "Ronald Reagan"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "You're on the money if you know he's the president in this photo",
+          "choices": [
+            "Andrew Jackson",
+            "Abraham Lincoln",
+            "Thomas Jefferson",
+            "Ulysses S. Grant"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A Founding Father, he was a Francophile & a friend of scientific discovery",
+          "choices": [
+            "John Adams",
+            "James Madison",
+            "Benjamin Franklin",
+            "Thomas Jefferson"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "His military career did much to swell this 7th president's reputation",
+          "choices": [
+            "Jackson",
+            "Washington",
+            "Lincoln",
+            "Roosevelt"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This president was described as a \"non-entity with sidewhiskers\" & \"first in ability on the list of second-rate men\"",
+          "choices": [
+            "Chester A. Arthur",
+            "Grover Cleveland",
+            "Benjamin Harrison",
+            "William McKinley"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This cowboy humorist & Wiley Post were killed on August 15, 1935 when Post's plane crashed in Alaska",
+    "choices": [
+      "Charles Lindbergh",
+      "Amelia Earhart",
+      "Howard Hughes",
+      "Will Rogers"
+    ],
+    "correctIndex": 3,
+    "category": "WHAT HAPPENED WHEN?"
+  }
+}

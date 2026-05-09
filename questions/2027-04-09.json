@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-09",
+  "categories": [
+    {
+      "name": "SHORT STORIES",
+      "questions": [
+        {
+          "clue": "His \"Plain Tales from the Hills\" is a volume of stories about life in India",
+          "choices": [
+            "(Arthur) Conan Doyle",
+            "(H.G.) Wells",
+            "(Joseph) Conrad",
+            "(Rudyard) Kipling"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Known for some dreariness in his plays, this Russian also gave us \"A Dreary Story\" of a dying professor of medicine in 1889",
+          "choices": [
+            "Tolstoy",
+            "Dostoevsky",
+            "Chekhov",
+            "Gogol"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The title of O. Henry's 1906 collection \"The Four Million\" refers to the population of this city",
+          "choices": [
+            "Chicago",
+            "Boston",
+            "New York",
+            "Philadelphia"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In the last paragraph, this James Thurber guy goes from smoking by a drugstore to bravely facing a firing squad",
+          "choices": [
+            "Jiminy Cricket",
+            "Walter Mitty",
+            "Peter Pan",
+            "Captain Hook"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"A Perfect Day for Bananafish\" introduced his characters the Glass family",
+          "choices": [
+            "J.R.R. Tolkien",
+            "J.D. Salinger",
+            "J.K. Rowling",
+            "J.D. Robb"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PARENTING",
+      "questions": [
+        {
+          "clue": "Between 1999 & 2007 this educational practice went up nearly 75% & kids don't even have to get out of their jammies",
+          "choices": [
+            "distance learning",
+            "online tutoring",
+            "home schooling",
+            "virtual classrooms"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A tough question for parents; Dr. Ellen Libby wrote a book on the issue & says it can rotate from kid to kid, if that's any help",
+          "choices": [
+            "the middle child",
+            "your favorite meal",
+            "your favorite child",
+            "your favorite color"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Irish wit who quipped, \"to lose one parent... may be regarded as a misfortune; to lose both looks like carelessness\"",
+          "choices": [
+            "George Bernard Shaw",
+            "Wilde East",
+            "A.A. Milne",
+            "Oscar Wilde"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Parents who hover too much over their kids have come to be called this type of parents, after a certain aircraft",
+          "choices": [
+            "drone parents",
+            "cruise ship parents",
+            "helicopter parents",
+            "spotlight parents"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Some airports & other spaces have installed Pluie, a self-sanitizing type of this often desperately needed furniture item",
+          "choices": [
+            "a diaper pail",
+            "a stroller",
+            "a bench",
+            "a changing table"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BEASTLY BOOKS",
+      "questions": [
+        {
+          "clue": "\"Because of Winn-Dixie\" by Kate DiCamillo",
+          "choices": [
+            "a cat",
+            "a horse",
+            "a bear",
+            "a dog"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Daryl Hannah starred in the 1986 big screen version of this Jean Auel work",
+          "choices": [
+            "Clan of the Cave Bear",
+            "The Land Before Time",
+            "Earth's Children",
+            "Prehistoric Women"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"Misty of Chincoteague\" by Marguerite Henry",
+          "choices": [
+            "a pig",
+            "a dog",
+            "a horse",
+            "a cow"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Savagery lurking beneath the Hollywood dream breaks free in this Nathanael West novel",
+          "choices": [
+            "The Sweet Smell of Success",
+            "Lolita",
+            "American Psycho",
+            "The Day of the Locust"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"The Yearling\" by Marjorie Kinnan Rawlings",
+          "choices": [
+            "a moose",
+            "a deer",
+            "a bear",
+            "a wolf"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 2005 this actress was very supportive in her roles in \"Capote\" & \"The 40-Year-Old Virgin\"",
+    "choices": [
+      "Vera Farmiga",
+      "Sylvia Hoeks",
+      "Catherine Keener",
+      "Amy Adams"
+    ],
+    "correctIndex": 2,
+    "category": "ENTERTAINERS"
+  }
+}

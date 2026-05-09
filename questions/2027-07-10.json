@@ -1,0 +1,207 @@
+{
+  "date": "2027-07-10",
+  "categories": [
+    {
+      "name": "NOVELS BY QUOTE",
+      "questions": [
+        {
+          "clue": "\"Phileas Fogg had, without suspecting it, gained one day on his journey, and this merely because he had traveled constantly eastward\"",
+          "choices": [
+            "Around the World in Eighty Days",
+            "Twenty Thousand Leagues Under the Sea",
+            "The Count of Monte Cristo",
+            "Treasure Island"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"... It was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair\"",
+          "choices": [
+            "Great Expectations",
+            "Oliver Twist",
+            "A Tale of Two Cities",
+            "David Copperfield"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"So Tyler and I are on top of the Parker-Morris Building with the gun stuck in my mouth, and we hear glass breaking\"",
+          "choices": [
+            "American Psycho",
+            "The Secret History",
+            "Fight Club",
+            "On the Road"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"We would not talk of Manderley, I would not tell my dream. For Manderley was ours no longer\"",
+          "choices": [
+            "Wuthering Heights",
+            "Jane Eyre",
+            "The Turn of the Screw",
+            "Rebecca"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Retells a biblical story: \"First Aron prayed silently for Cal\"",
+          "choices": [
+            "Grapes of Wrath",
+            "The Pearl",
+            "East of Eden",
+            "Of Mice and Men"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DESCRIBING THE TV SHOW",
+      "questions": [
+        {
+          "clue": "Accidents will happen on camera; hilarity since 1990; Saget lasted 7 years",
+          "choices": [
+            "America's Funniest People",
+            "World's Funniest Videos",
+            "America's Funniest Home Videos",
+            "Best of America's Funniest Home Videos"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Jensen & Jared, battling personal demons since 2005; the show's been known to raise Cain",
+          "choices": [
+            "Supernatural",
+            "Grimm",
+            "Lost Girl",
+            "Being Human"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A 2020 Data re-entry; Seven of Nine, too! & Isn't that Will Riker & Deanna Troi? Engage!",
+          "choices": [
+            "Star Trek: Discovery",
+            "Star Trek: Strange New Worlds",
+            "Star Trek: Lower Decks",
+            "Star Trek: Picard"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Lonely astronaut hits the bottle, 2,000-year-old woman pops out of it, wackiness ensues",
+          "choices": [
+            "Bewitched",
+            "I Dream of Jeannie",
+            "The Flying Nun",
+            "I Love Lucy"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Alaskan adventures, Cicely but not Tyson, ah, the casual moose-about-town",
+          "choices": [
+            "Northern Lights",
+            "Alaska Daily",
+            "Northern Exposure",
+            "The Last Frontier"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THAT'S OXYMORONIC",
+      "questions": [
+        {
+          "clue": "Simon & Garfunkel hit No. 1 for the first time with this deafening title",
+          "choices": [
+            "The Sound of Thunder",
+            "A Noiseless Patient Spider",
+            "The Silent Echo",
+            "\"The Sound Of Silence\""
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Type of internal conflict that consumed England in the 1640s",
+          "choices": [
+            "a cold war",
+            "a civil war",
+            "a religious schism",
+            "a dynastic struggle"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Laurel & Hardy had a 1930 short called \"Another Fine\" this",
+          "choices": [
+            "Trouble",
+            "Morning",
+            "Mess",
+            "Afternoon"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Like my love affair with Vanna, it's a supposedly hidden fact that everyone really knows about",
+          "choices": [
+            "a closed book",
+            "a public secret",
+            "an open book",
+            "an open secret"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Nonviolent activism for political change, it's AKA civil disobedience",
+          "choices": [
+            "civil disobedience",
+            "passive resistance",
+            "active protest",
+            "violent resistance"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Linnaeus compiled a list of these that opened at certain hours & found that a clock could be made of them",
+    "choices": [
+      "trees",
+      "flowers",
+      "birds",
+      "insects"
+    ],
+    "correctIndex": 1,
+    "category": "NOTHING BUT TIME"
+  },
+  "bonusRound": {
+    "clue": "These 2 official languages of Finland differ from each other more than English & Russian",
+    "choices": [
+      "Norwegian & Danish",
+      "Estonian & Latvian",
+      "German & Polish",
+      "Finnish & Swedish"
+    ],
+    "correctIndex": 3,
+    "category": "OFFICIAL LANGUAGES"
+  }
+}

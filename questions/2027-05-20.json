@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-20",
+  "categories": [
+    {
+      "name": "CLOTHES-MINDED",
+      "questions": [
+        {
+          "clue": "These parts of an evening gown bear the name of a pasta",
+          "choices": [
+            "penne sleeves",
+            "rigatoni cords",
+            "fettuccine ties",
+            "spaghetti straps"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "(Cheryl of the Clue Crew reports from Japan.) This sash that ties the kimono varies in style with seasons & occasions, & can cost much more than the kimono",
+          "choices": [
+            "an obi",
+            "a hakama",
+            "a tabi",
+            "a jinbei"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "He studied medicine & served in the Italian army before becoming a clothing designer & opening his Emporio shops",
+          "choices": [
+            "Gianni Versace",
+            "Dolce & Gabbana",
+            "Giorgio Armani",
+            "Valentino Garavani"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "To be authentic, this type of plaid must be registered & approved by the Lyon Court in Edinburgh",
+          "choices": [
+            "Chevron",
+            "Plisse",
+            "Damask",
+            "Tartan"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "4-letter term for a fancy fabric woven with metallic threads & popular for evening wear",
+          "choices": [
+            "lace",
+            "silk",
+            "lam\u00e9",
+            "velvet"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SOUNDS GOOD TO ME",
+      "questions": [
+        {
+          "clue": "The jig is up when this instrument stops playing",
+          "choices": [
+            "fife",
+            "flute",
+            "fiddle",
+            "horn"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The following sound is regularly heard on this TV show created by Merv Griffin (it's spinning)",
+          "choices": [
+            "Family Feud",
+            "Jeopardy",
+            "Press Your Luck",
+            "Wheel of Fortune"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "It's the title of the following piece of music (played at military funerals)",
+          "choices": [
+            "Reveille",
+            "The Last Post",
+            "Amazing Grace",
+            "\"Taps\""
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This up-tempo song was said to be one of Abe Lincoln's favorites",
+          "choices": [
+            "Oh My Darling Clementine",
+            "The Daring Young Man on the Flying Trapeze",
+            "\"Jimmy Crack Corn\"",
+            "Camptown Races"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This double reed woodwind can be 4 feet long",
+          "choices": [
+            "oboe",
+            "bass clarinet",
+            "contrabassoon",
+            "bassoon"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "1980s ROCK MUSIC",
+      "questions": [
+        {
+          "clue": "Although this Jerry Garcia group had a huge following, \"Touch of Grey\" in 1987 was its only Top 20 hit",
+          "choices": [
+            "the Allman Brothers Band",
+            "the Eagles",
+            "the Grateful Dead",
+            "Fleetwood Mac"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This former Lakers cheerleader had the first debut album with 4 No. 1 hits",
+          "choices": [
+            "Janet Jackson",
+            "Madonna",
+            "Paula Abdul",
+            "Mariah Carey"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The soundtrack from this Patrick Swayze film topped the album charts for 18 weeks",
+          "choices": [
+            "Flashdance",
+            "Top Gun",
+            "Dirty Dancing",
+            "Footloose"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "At the August 12, 1984 closing of the Summer Olympics, he sang \"All Night Long\"",
+          "choices": [
+            "Michael Jackson",
+            "Stevie Wonder",
+            "Lionel Richie",
+            "Dionne Warwick"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Joining the Traveling Wilburys in the 1980s helped revive this \"Only the Lonely\" singer's career",
+          "choices": [
+            "Sam Cooke",
+            "Marvin Gaye",
+            "Ray Charles",
+            "Roy Orbison"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Wines made from this German white grape are characterized by a spicy, fruity bouquet",
+    "choices": [
+      "Chardonnay",
+      "Riesling",
+      "Sauvignon Blanc",
+      "Pinot Grigio"
+    ],
+    "correctIndex": 1,
+    "category": "\"LING\"O"
+  }
+}

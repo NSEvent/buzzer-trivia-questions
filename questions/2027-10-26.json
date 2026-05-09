@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-26",
+  "categories": [
+    {
+      "name": "AMUSEMENT & THEME PARKS",
+      "questions": [
+        {
+          "clue": "At Halloween Knott's Berry Farm goes all creepy & becomes Knott's this Farm",
+          "choices": [
+            "Knott's Spooky Farm",
+            "Knott's Haunted Farm",
+            "Knott's Scary Farm",
+            "Knott's Creepy Farm"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In Las Vegas have some fun \"clowning\" around at this hotel's fully enclosed Adventuredome",
+          "choices": [
+            "Circus Circus",
+            "Treasure Island",
+            "Excalibur",
+            "Fantasy Springs"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Step back in time at Silver Dollar City, an 1880s-style theme park in this Missouri city famous for its entertainment",
+          "choices": [
+            "Joplin",
+            "Springfield",
+            "Branson",
+            "Kansas City"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Kurashiki Tivoli Park is in Japan; Tivoli Gardens is in this country",
+          "choices": [
+            "Sweden",
+            "Denmark",
+            "Norway",
+            "Finland"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "These theme parks, including the one in San Diego, announced they're ending their orca shows as well as orca breeding",
+          "choices": [
+            "Cedar Fair",
+            "SeaWorld",
+            "Six Flags",
+            "Universal Studios"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WORDS WITH DIACRITICAL MARKS",
+      "questions": [
+        {
+          "clue": "Herr Hitler of the Third Reich used this title meaning \"leader\", Herr Bismarck of the Second did not",
+          "choices": [
+            "Reichsmarschall",
+            "Gauleiter",
+            "Obergruppenf\u00fchrer",
+            "F\u00fchrer"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "We should get a good table, I know this person, the head waiter at the restaurant we're going to",
+          "choices": [
+            "the sommelier",
+            "the concierge",
+            "the ma\u00eetre d\\'",
+            "the head chef"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A daytime movie or play",
+          "choices": [
+            "a matin\u00e9e",
+            "an afternoon",
+            "a matinee show",
+            "a midday break"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "At the 2024 Olympics, swimmer L\u00e9on Marchand was acclaimed as \"Le h\u00e9ros\" this national word",
+          "choices": [
+            "espagnol",
+            "fran\u00e7ais",
+            "italien",
+            "allemand"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This 2-word Native American tribe lived in the Pacific Northwest",
+          "choices": [
+            "the Cherokee",
+            "the Sioux",
+            "the Apache",
+            "the Nez Perc\u00e9"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BOYS IN THE BAND",
+      "questions": [
+        {
+          "clue": "Mick Jagger, Keith Richards. Mick Taylor",
+          "choices": [
+            "The Rolling Stones",
+            "The Beatles",
+            "The Who",
+            "Led Zeppelin"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Nick Rhodes, Andy, John & Roger Taylor, Simon Le Bon",
+          "choices": [
+            "Duran Duran",
+            "Duke Dumont",
+            "Depeche Mode",
+            "Darts"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison",
+          "choices": [
+            "The Velvet Underground",
+            "The Stooges",
+            "The MC5",
+            "The Doors"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Donnie Wahlberg, Joey McIntyre, Jordan Knight",
+          "choices": [
+            "Backstreet Boys",
+            "NSYNC",
+            "Take That",
+            "New Kids on the Block"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Peter Buck, Mike Mills, Bill Berry, Michael Stipe",
+          "choices": [
+            "Pearl Jam",
+            "Nirvana",
+            "Radiohead",
+            "R.E.M."
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Quick, it's the term for 1 billionth of a second",
+    "choices": [
+      "a picosecond",
+      "a millisecond",
+      "a femtosecond",
+      "a nanosecond"
+    ],
+    "correctIndex": 3,
+    "category": "TIME"
+  }
+}

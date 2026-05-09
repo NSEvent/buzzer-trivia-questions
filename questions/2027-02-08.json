@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-08",
+  "categories": [
+    {
+      "name": "THE 23rd PSALM",
+      "questions": [
+        {
+          "clue": "They're the first 5 words of the Psalm",
+          "choices": [
+            "God is my strong tower",
+            "The Lord is my light",
+            "The Lord is my shepherd",
+            "Hear my prayer, O Lord"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "These 2 items, \"they comfort me\"",
+          "choices": [
+            "(thy) rod & (thy) staff",
+            "his cup & his bowl",
+            "her sword & her shield",
+            "thy voice & thy word"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"Surely\" these 2 quantities \"shall follow me all the days of my life\"",
+          "choices": [
+            "peace & joy",
+            "faith & hope",
+            "grace & truth",
+            "goodness & mercy"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "\"Thou preparest a table before me in the presence of\" these",
+          "choices": [
+            "my friends",
+            "mine enemies",
+            "my children",
+            "thy enemies"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"He maketh me to lie down in green pastures: he leadeth me beside\" these",
+          "choices": [
+            "still waters",
+            "dark valleys",
+            "deep rivers",
+            "calm seas"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CALL ME SMITTY",
+      "questions": [
+        {
+          "clue": "Her Armistice Day rendition of \"God Bless America\" in 1938 introduced the song to the world",
+          "choices": [
+            "Ethel Waters",
+            "Kate Smith",
+            "Billie Holiday",
+            "Ella Fitzgerald"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"Most good gossip columnists have a touch of Savonarola in them\", wrote this author & gossip columnist",
+          "choices": [
+            "Walter Winchell",
+            "Dorothy Kilgallen",
+            "Ed Sullivan",
+            "Liz Smith"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This expressive blues \"empress\" was born in Chattanooga, Tennessee around 1894",
+          "choices": [
+            "Mamie Smith",
+            "Ma Rainey",
+            "Bessie Smith",
+            "Ethel Waters"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This 18th C. Scottish political philosopher laid the foundations of free-market economic theory",
+          "choices": [
+            "David Hume",
+            "Adam Smith",
+            "John Locke",
+            "Thomas Hobbes"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The founder of the Rhodesian Front, he was prime minister of Rhodesia from 1964 to 1979",
+          "choices": [
+            "Ian Smith",
+            "Kenneth Kaunda",
+            "Joshua Nkomo",
+            "Robert Mugabe"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ALMA MATERS",
+      "questions": [
+        {
+          "clue": "(I'm political commentator S.E. Cupp.) I wasn't a politics or history major but graduated from this upstate New York Ivy League school with a degree in art history & wrote art reviews for the Sun",
+          "choices": [
+            "Cornell",
+            "Princeton",
+            "Dartmouth",
+            "Boston University"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "William J. Mayo (of clinic founding fame) was a Wolverine, getting his medical degree from this school",
+          "choices": [
+            "the University of Michigan",
+            "Johns Hopkins University",
+            "Harvard University",
+            "Yale University"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In the heartland: Joe Montana, Nicholas Sparks",
+          "choices": [
+            "Notre Dame",
+            "University of Michigan",
+            "University of Texas",
+            "University of Southern California"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Presidential kids are welcome at this New Orleans university: both Neil Bush & Amy Carter hold degrees from it",
+          "choices": [
+            "University of Miami",
+            "Tulane",
+            "University of Florida",
+            "Louisiana State University"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Out west: Chelsea Clinton, Peter Thiel",
+          "choices": [
+            "Harvard University",
+            "Massachusetts Institute of Technology",
+            "Stanford",
+            "University of Pennsylvania"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A nutritious snack & fun to pop from their pods, green soybeans go by this Japanese name",
+    "choices": [
+      "miso",
+      "edamame",
+      "sake",
+      "wasabi"
+    ],
+    "correctIndex": 1,
+    "category": "FOOD GLORIOUS FOOD"
+  }
+}

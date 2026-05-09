@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-14",
+  "categories": [
+    {
+      "name": "I'M JUST WILD ABOUT HARRY",
+      "questions": [
+        {
+          "clue": "Clint Eastwood played him 5 times on the big screen \u2014 or was it six, punk? In all the excitement, I kind of forgot myself",
+          "choices": [
+            "Jack Reacher",
+            "John McClane",
+            "Harry Callahan",
+            "James Bond"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "For more than a day-o he co-starred with Dorothy Dandridge in \"Carmen Jones\"",
+          "choices": [
+            "Sidney Poitier",
+            "Harry Belafonte",
+            "Sammy Davis Jr.",
+            "Louis Armstrong"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "From 2007 to 2015 he was the U.S. Senate Majority Leader",
+          "choices": [
+            "Mitch McConnell",
+            "Dick Durbin",
+            "Harry Reid",
+            "Lloyd Bentsen"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In England the bestseller \"Harry Potter and the Sorcerer's Stone\" is known as \"Harry Potter and\" this stone",
+          "choices": [
+            "the Goblet of Fire",
+            "the Chamber of Secrets",
+            "the Philosopher's Stone",
+            "the Half-Blood Prince"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This late character actor played \"Repo Man\" Bud & Molly Ringwald's dad in \"Pretty in Pink\"",
+          "choices": [
+            "John Forsythe",
+            "Martin Landau",
+            "Harry Dean Stanton",
+            "Burt Reynolds"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BUSINESSES",
+      "questions": [
+        {
+          "clue": "This company that also makes Pine-Sol has a popular brand of disinfecting wipes",
+          "choices": [
+            "Lysol",
+            "Clorox",
+            "Dawn",
+            "Method"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 2020 this car rental co. that offers gold plus rewards said that even if you're 20, you're good to go, with no extra fee",
+          "choices": [
+            "Avis",
+            "Enterprise",
+            "Hertz",
+            "Budget"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Yeesh, there's no easy way to tell you... you're in need of one of these chewy mints billed as \"The Freshmaker\"",
+          "choices": [
+            "Mentos",
+            "Altoids",
+            "Eclipse",
+            "Wrigley"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Last name of Henry David, whose Kansas company started making dungarees in 1911",
+          "choices": [
+            "Levi",
+            "Wrangler",
+            "Lee",
+            "Carhartt"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "If you need to know the history of this toilet co., I don't think we're in Kansas anymore \u2014it was founded in Japan in 1917",
+          "choices": [
+            "Toto",
+            "Kohler",
+            "American Standard",
+            "Duravit"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ABBREVIATIONS",
+      "questions": [
+        {
+          "clue": "To a baseball player, his ERA is this",
+          "choices": [
+            "earned run average",
+            "earned runs allowed",
+            "expected runs average",
+            "effective runs area"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A parents' organization: MADD",
+          "choices": [
+            "Mothers Against Dangerous Driving",
+            "Mothers Against Drug Driving",
+            "Mothers Against Distractions Driving",
+            "Mothers Against Drunk Driving"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "To a Londoner, LM is Lord Mayor; to an astronaut, it's this craft",
+          "choices": [
+            "lunar lander",
+            "lunar module",
+            "lunar motor",
+            "lunar mount"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A regional cooperative body: O.A.S.",
+          "choices": [
+            "the Organization of American States",
+            "the Office of American Services",
+            "the Order of American Saints",
+            "the Organization of Allied States"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "On a radio: FM",
+          "choices": [
+            "frequency mapping",
+            "fine modulation",
+            "flying modulation",
+            "frequency modulation"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Detroit's big fist honoring this \"Brown Bomber\" & boxing champ is a heavyweight itself at about 8,000 pounds",
+    "choices": [
+      "Joe Louis",
+      "Joe Frazier",
+      "Jack Johnson",
+      "George Foreman"
+    ],
+    "correctIndex": 0,
+    "category": "HEAVY"
+  }
+}

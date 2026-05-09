@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-24",
+  "categories": [
+    {
+      "name": "NATIONAL SYMBOLS",
+      "questions": [
+        {
+          "clue": "The flag of each of the countries in this group contains the Dannebrog cross",
+          "choices": [
+            "the Nordic nations",
+            "the Baltic states",
+            "the Scandinavian countries",
+            "the Visegr\u00e1d Group"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Scientific name Mangifera indica, it's the national fruit of India",
+          "choices": [
+            "the lychee",
+            "the mango",
+            "the jackfruit",
+            "the banana"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The words \"Ordem e Progresso\" adorn the flag of this South American nation",
+          "choices": [
+            "Argentina",
+            "Brazil",
+            "Colombia",
+            "Chile"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Sung in French, Dutch & German, \"La Braban\u00e7onne\", or \"The Song Of Brabant\", is its national anthem",
+          "choices": [
+            "Belgium",
+            "Netherlands",
+            "Luxembourg",
+            "Switzerland"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Congress \"wants you\" to know in 1961 it resolved that this symbol's origin was a Mr. Wilson of Troy, N.Y.",
+          "choices": [
+            "Uncle Sam",
+            "John Bull",
+            "Columbia",
+            "Brother Jonathan"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"HO\"CUS \"PO\"CUS",
+      "questions": [
+        {
+          "clue": "Also called an ace, it's what every golfer dreams of getting",
+          "choices": [
+            "eagle two",
+            "condor",
+            "double eagle",
+            "Hole-in-one"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Group dance performed in a circle that requires synchronized shaking of the limbs",
+          "choices": [
+            "the hokey pokey",
+            "the macarena",
+            "the worm",
+            "the sprinkler"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The base harbor from which a ship originates or is registered",
+          "choices": [
+            "docking bay",
+            "safe harbor",
+            "dry dock",
+            "home port"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Versifier James Whitcomb Riley from Greenfield, Indiana was known as this",
+          "choices": [
+            "the Hoosier bard",
+            "the Hoosier writer",
+            "the Hoosier poet",
+            "the Hoosier scribe"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Some Lamborghini engines have 750 of these \"beastly\" units under the hood",
+          "choices": [
+            "horsepower",
+            "horsepower rating",
+            "horsepower units",
+            "horsepower figures"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MATH VOCABULARY",
+      "questions": [
+        {
+          "clue": "An angle greater than 90 degrees but less than 180 degrees, or lacking sharpness of intellect",
+          "choices": [
+            "reflexive",
+            "retrograde",
+            "obtunded",
+            "obtuse"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Point (0,0) on a graph; or the beginning",
+          "choices": [
+            "Zero",
+            "Null",
+            "Void",
+            "Origin"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The sum of x numbers divided by x; or typical, common or ordinary",
+          "choices": [
+            "Median",
+            "Mean",
+            "Mode",
+            "Average"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The instantaneous rate of change of a function; or not original, adapted from others",
+          "choices": [
+            "Integral",
+            "Function",
+            "Gradient",
+            "Derivative"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The second power of a number; or an old-fashioned, unhip person",
+          "choices": [
+            "Cube",
+            "Square",
+            "Root",
+            "Factor"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "As a verb, this first name means to send mail free of charge",
+    "choices": [
+      "Frank",
+      "Penny",
+      "Mail",
+      "Stamp"
+    ],
+    "correctIndex": 0,
+    "category": "FIRST NAMES"
+  }
+}

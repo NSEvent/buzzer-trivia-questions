@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-13",
+  "categories": [
+    {
+      "name": "MIDDLE EAST HISTORY",
+      "questions": [
+        {
+          "clue": "On June 5, 1967 this country launched an air strike against Egypt",
+          "choices": [
+            "Israel",
+            "Syria",
+            "Jordan",
+            "Iraq"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "On Oct. 23, 1983 a truck loaded with explosives killed 241 U.S. servicemen at their barracks in this capital city",
+          "choices": [
+            "Damascus",
+            "Amman",
+            "Beirut",
+            "Kuwait City"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It was built with the help of the French between 1859 & 1869",
+          "choices": [
+            "Pablo Picasso",
+            "Victor Hugo",
+            "Suez Canal",
+            "Napoleon Bonaparte"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 331 B.C. the Greek & Macedonian armies under this general conquered the Persians",
+          "choices": [
+            "Julius Caesar",
+            "Alexander the Great",
+            "Genghis Khan",
+            "Julius Agamemnon"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The ancient Phoenicians' homeland is now part of this country known for its cedars",
+          "choices": [
+            "Syria",
+            "Israel",
+            "Lebanon",
+            "Jordan"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE GADSDEN PURCHASE",
+      "questions": [
+        {
+          "clue": "One reason for the purchase was to provide a route for this across the southern U.S.; it wasn't completed until 1881",
+          "choices": [
+            "the Transcontinental Railroad",
+            "the Panama Canal",
+            "the Interstate Highway System",
+            "the Transcontinental Telegraph"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In Spanish, the purchase is \"Venta de La Mesilla\" after a town now in this state, a few miles from Las Cruces",
+          "choices": [
+            "Arizona",
+            "Texas",
+            "New Mexico",
+            "Colorado"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Famous for his leadership at the Alamo, this Mexican dictator negotiated the deal for Mexico",
+          "choices": [
+            "(Antonio Lopez de) Santa Anna",
+            "Benito Juarez",
+            "Porfirio Diaz",
+            "Antonio Maceo"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Settlers who were now Americans rather than Mexicans wondered, would the deal reduce raids by these people, Cochise & co.",
+          "choices": [
+            "the Comanches",
+            "the Apaches",
+            "the Navajos",
+            "the Utes"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The Gadsden Purchase covered almost 30,000 square miles, much of it in this desert straddling Mexico & the USA",
+          "choices": [
+            "the Mojave Desert",
+            "the Chihuahuan Desert",
+            "the Sonoran Desert",
+            "the Great Basin Desert"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BAND DEBUTS BY DECADE",
+      "questions": [
+        {
+          "clue": "Danny & the Juniors",
+          "choices": [
+            "the '40s",
+            "the '60s",
+            "the '50s",
+            "the '30s"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Linkin Park",
+          "choices": [
+            "the '80s",
+            "the 2000s",
+            "the '90s",
+            "the '70s"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Franz Ferdinand",
+          "choices": [
+            "the 1990s",
+            "the 2000s",
+            "the 2010s",
+            "the 1980s"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The Platters",
+          "choices": [
+            "the 1950s",
+            "the 1940s",
+            "the 1960s",
+            "the 1970s"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The Sex Pistols",
+          "choices": [
+            "the '80s",
+            "the '60s",
+            "the '70s",
+            "the '90s"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This explorer claimed the Louisiana Territory for France in 1682",
+    "choices": [
+      "Marquette",
+      "Joliet",
+      "Cabeza de Vaca",
+      "De La Salle"
+    ],
+    "correctIndex": 3,
+    "category": "THE SWEET 1600s"
+  }
+}

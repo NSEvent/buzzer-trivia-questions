@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-27",
+  "categories": [
+    {
+      "name": "HOOKED ON PHOENIX",
+      "questions": [
+        {
+          "clue": "Phoenix's firefighting museum isn't called the Hall of Fame but the Hall of this",
+          "choices": [
+            "Flame",
+            "Smoke",
+            "Ashes",
+            "Spark"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Born in Phoenix in 1909, he ran for president in 1964",
+          "choices": [
+            "Barry Goldwater",
+            "Ronald Reagan",
+            "George McGovern",
+            "John Connally"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The city of Phoenix lies in the huge sprawling Valley of this",
+          "choices": [
+            "Valley of the Moon",
+            "Valley of the Sun",
+            "Valley of the Kings",
+            "Valley of the Shadows"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This pro team plays its home games at Phoenix' Bank One Ballpark",
+          "choices": [
+            "the Diamondbacks",
+            "the Suns",
+            "the Cardinals",
+            "the Coyotes"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1539 explorers from this nation became the first Europeans to visit the area that's now Phoenix",
+          "choices": [
+            "Portugal",
+            "France",
+            "England",
+            "Spain"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ZIMBABWE",
+      "questions": [
+        {
+          "clue": "In 1980, when Zimbabwe gained its independence, Robert Mugabe became PM, & Reverend Banana became this",
+          "choices": [
+            "prime minister",
+            "president",
+            "monarch",
+            "dictator"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This neighbor is Zimbabwe's leading trade partner, accounting for more than 30% of exports & 40% of imports",
+          "choices": [
+            "Botswana",
+            "Mozambique",
+            "Angola",
+            "South Africa"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Niagara Falls is a city in New York at the Canadian border; similarly, this is a town in Zimbabwe at the Zambian border",
+          "choices": [
+            "Livingstone",
+            "Victoria Falls",
+            "Harare",
+            "Bulawayo"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "When Zimbabwe was still Rhodesia, Harare, the capital, was called this",
+          "choices": [
+            "Fort Victoria",
+            "Salisbury",
+            "Bulawayo",
+            "Gweru"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 1987 he became the country's first president; Zimbabweans are still waiting for the second one",
+          "choices": [
+            "Mnangagwa",
+            "Zvobgo",
+            "Ncube",
+            "Mugabe"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MAGAZINES & NEWSPAPERS",
+      "questions": [
+        {
+          "clue": "In March 1983 this \"Magnum P.I.\" star became the first male centerfold in McCall's history; he kept his clothes on",
+          "choices": [
+            "Tom Selleck's brother",
+            "A Magnum P.I. writer",
+            "Tom Selleck",
+            "A TV critic"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A new magazine devoted entirely to the \"pot bellied\" type of these pets debuted in 1990",
+          "choices": [
+            "a pig",
+            "a cat",
+            "a dog",
+            "a rabbit"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In 1989 & 1999, it got the National Magazine Award's \"Seal of Approval\" for personal service",
+          "choices": [
+            "Woman's Day",
+            "Better Homes and Gardens",
+            "Family Circle",
+            "Good Housekeeping"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In March 2004 Arnold Schwarzenegger became executive editor of the magazine called Muscle & this",
+          "choices": [
+            "Bodybuilding",
+            "Exercising",
+            "Fitness",
+            "Gymnastics"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The first public newspaper in Alaska was established in 1868 in this Russian settlement",
+          "choices": [
+            "Juneau",
+            "Wrangell",
+            "Unalaska",
+            "Sitka"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Director who said \"If I made Cinderella, the audience would be looking for the body in the coach\"",
+    "choices": [
+      "(Stanley) Kubrick",
+      "(Billy) Wilder",
+      "(Alfred) Hitchcock",
+      "(Orson) Welles"
+    ],
+    "correctIndex": 2,
+    "category": "HOLLYWOOD HISTORY"
+  }
+}

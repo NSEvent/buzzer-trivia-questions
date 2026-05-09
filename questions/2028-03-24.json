@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-24",
+  "categories": [
+    {
+      "name": "\"C\" IN LITERATURE",
+      "questions": [
+        {
+          "clue": "\"The Miller's Tale\" & \"The Wife of Bath's Tale\", among others",
+          "choices": [
+            "The Decameron",
+            "The Canterbury Tales",
+            "Piers Plowman",
+            "Sir Gawain and the Green Knight"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This ex-music hall dancer wrote \"Gigi\" & \"Cheri\", cheri",
+          "choices": [
+            "Anais Nin",
+            "Colette Willy",
+            "Gigi Perreault",
+            "Colette"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This Jonathan Franzen novel about the dysfunctional Lambert family won a National Book Award",
+          "choices": [
+            "Freedom",
+            "The Corrections",
+            "Purity",
+            "Twenty-Seventh City"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "He's the only human in the \"Winnie-the-Pooh\" stories",
+          "choices": [
+            "Christopher Robin",
+            "Peter Pan",
+            "Daniel Day-Lewis",
+            "Christopher Plummer"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This sci-fi author's \"C\" novels include \"Childhood's End\" & \"Cradle\", about contact with an alien civilization",
+          "choices": [
+            "Arthur C. Clarke",
+            "Isaac Asimov",
+            "Robert A. Heinlein",
+            "Ray Bradbury"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GEOGRAPHIC PAIRS",
+      "questions": [
+        {
+          "clue": "Name of the \"twin cities\" on the Arkansas-Texas border",
+          "choices": [
+            "St. Louis",
+            "Texarkana",
+            "Minneapolis",
+            "Richmond"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In exploration this name is paired with Clark; in the Outer Hebrides it's paired with Harris",
+          "choices": [
+            "Lewis",
+            "Shetland",
+            "Skye",
+            "Mull"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The 2 largest islands that are part of Italy",
+          "choices": [
+            "Corsica & Elba",
+            "Crete & Cyprus",
+            "Sardinia & Sicily",
+            "Malta & Sicily"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In South Carolina Greenville & this city are paired in the name of an international airport",
+          "choices": [
+            "Charlotte",
+            "Asheville",
+            "Columbia",
+            "Spartanburg"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "These neighbors are the only 2 New World countries without coastlines",
+          "choices": [
+            "Chad & Uganda",
+            "Bosnia & Herzegovina",
+            "Malawi & Zambia",
+            "Bolivia & Paraguay"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AFRICAN COUNTRIES",
+      "questions": [
+        {
+          "clue": "In May 1997, after a 32-year rule, strongman Mobutu Sese Seko was ousted from the country he had named this",
+          "choices": [
+            "Rwanda",
+            "Zaire",
+            "Kenya",
+            "Somalia"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Asmara is the capital & largest city of this country that was formerly part of Ethiopia",
+          "choices": [
+            "Djibouti",
+            "Sudan",
+            "Somalia",
+            "Eritrea"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Some in Puntland, part of this East African country, defend piracy as a response to illegal fishing & toxic dumping",
+          "choices": [
+            "Eritrea",
+            "Somalia",
+            "Ethiopia",
+            "Djibouti"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "It gets its \"N\"ame from its large coastal desert",
+          "choices": [
+            "Angola",
+            "Namibia",
+            "Mozambique",
+            "Tanzania"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Gambia or the Gambia was once part of a union with this country that surrounds it",
+          "choices": [
+            "Senegal",
+            "Mauritania",
+            "Ghana",
+            "Sierra Leone"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "No one knows what happened to this prominent American atheist leader who disappeared in '95; she's still missing",
+    "choices": [
+      "Madalyn Murray O'Hair",
+      "Aileen Wuornos",
+      "Joni Schmid",
+      "Patty Hearst"
+    ],
+    "correctIndex": 0,
+    "category": "WHERE ARE THEY NOW?"
+  }
+}

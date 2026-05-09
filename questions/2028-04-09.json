@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-09",
+  "categories": [
+    {
+      "name": "INTERNATIONAL CUISINE",
+      "questions": [
+        {
+          "clue": "Hungarian goulash is traditionally seasoned with this powdered pepper",
+          "choices": [
+            "cayenne",
+            "chili",
+            "paprika",
+            "papaw"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This fruity Indian relish is a popular accompaniment to curried dishes",
+          "choices": [
+            "salsa",
+            "pickles",
+            "relish",
+            "chutney"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Finhan haddie got its name from the village of Findon in this country",
+          "choices": [
+            "England",
+            "Ireland",
+            "Scotland",
+            "Wales"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The seafood in this Mexican dish is \"cooked\" not by heat, but by the acid in lime juice",
+          "choices": [
+            "sushi",
+            "tacos",
+            "sashimi",
+            "ceviche"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "French dishes described as a la diplomate contain truffles & this shellfish",
+          "choices": [
+            "lobster",
+            "crab",
+            "shrimp",
+            "clam"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CONSTELLATIONS",
+      "questions": [
+        {
+          "clue": "The Great Square, an astronomical landmark, connects Andromeda & this winged horse",
+          "choices": [
+            "Pegasus",
+            "Phoenix",
+            "Griffin",
+            "Dragon"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Myth says Orion was put on opposite side of sky from this creature which had stung him to death",
+          "choices": [
+            "Leo",
+            "Hydra",
+            "Taurus",
+            "Scorpio"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "One of the first double stars discovered was found by Robert Hook in 1664 in this constellation of the ram",
+          "choices": [
+            "Taurus",
+            "Aries",
+            "Cancer",
+            "Libra"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The largest constellation, this \"water serpent\" covers 1,303 square degrees of the sky",
+          "choices": [
+            "Hydra",
+            "Draco",
+            "Cetus",
+            "Serpens"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew delivers the clue from Luxor, Egypt.) Constellations in the tomb of Seti I include this familiar one that was associated with the god Osiris",
+          "choices": [
+            "Lyra",
+            "Scorpio",
+            "Cygnus",
+            "Orion"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SUMMER READING?",
+      "questions": [
+        {
+          "clue": "Alexander Solzhenitsyn's \"August 1914\" centers on a military defeat suffered by this country",
+          "choices": [
+            "Germany",
+            "France",
+            "Austria",
+            "Russia"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Barbara Tuchman's history of the events that led to World War I is called these \"of August\"",
+          "choices": [
+            "The Trenches",
+            "The Front",
+            "The Tides",
+            "The Guns"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Spoiler alert! A character is murdered & eaten by cannibals in this drama by Tennessee Williams",
+          "choices": [
+            "A Streetcar Named Desire",
+            "Suddenly, Last Summer",
+            "Cat on a Tin Roof",
+            "The Glass Menagerie"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"Summer sisters\" was the third novel for adults by this woman who wrote the children's classic \"Superfudge\"",
+          "choices": [
+            "Anne McCaffrey",
+            "Judy Blume",
+            "Louise Fitzhugh",
+            "Sylvia Engdahl"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This memoir by Ron Kovic begins, \"The blood is still rolling off my flak jacket from the hole in my shoulder\"",
+          "choices": [
+            "Born on the Fourth of July",
+            "Born Free",
+            "Full Metal Jacket",
+            "The Things They Carried"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Native groups living in Nevada before the arrival of settlers include this one who lend their name to a vast desert of the Southwest",
+    "choices": [
+      "the Paiute",
+      "the Mojave",
+      "the Shoshone",
+      "the Hopi"
+    ],
+    "correctIndex": 1,
+    "category": "NEVADA"
+  }
+}

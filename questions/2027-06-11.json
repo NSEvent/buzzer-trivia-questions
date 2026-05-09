@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-11",
+  "categories": [
+    {
+      "name": "FRENCH CITIES",
+      "questions": [
+        {
+          "clue": "This film festival city became a popular resort after Baron Brougham built a villa there",
+          "choices": [
+            "Nice",
+            "Marseille",
+            "Toulon",
+            "Cannes"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A major battle of the revolution took place in this city, now famous for its grand prix",
+          "choices": [
+            "Bordeaux",
+            "Strasbourg",
+            "Le Mans",
+            "Lille"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A cooking style utilizing onions is named for this city at the juncture of the Rhone & Saone rivers",
+          "choices": [
+            "Bourg-en-Bresse",
+            "Lyon",
+            "Valence",
+            "Chalon-sur-Saone"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 1431 Joan of Arc was burned at the stake at the Place du Vieux-Marche in this city on the Seine",
+          "choices": [
+            "Paris",
+            "Orleans",
+            "Reims",
+            "Rouen"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This city where Louis XIV had his palace is the capital of Yvelines department",
+          "choices": [
+            "Versailles",
+            "Saint-Germain",
+            "Rueil-Malmaison",
+            "Nanterre"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FASTENERS",
+      "questions": [
+        {
+          "clue": "Men in this country once used small, carved objects called netsuke to attach items to their sashes",
+          "choices": [
+            "China",
+            "Korea",
+            "Japan",
+            "Thailand"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The long metal pin that holds your shish kebab together",
+          "choices": [
+            "a skewer",
+            "a toothpick",
+            "a lollipop stick",
+            "a chopstick"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This fastening tape has 2 parts: one with tiny nylon hooks & another with nylon pile",
+          "choices": [
+            "Duct tape",
+            "Packing tape",
+            "Velcro",
+            "Masking tape"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "These square, hexagonal or round threaded pieces fit over the end of bolts",
+          "choices": [
+            "nuts",
+            "bolts",
+            "screws",
+            "rivets"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This famous pair consists of a curved metal device that fits through a loop",
+          "choices": [
+            "zipper",
+            "hook & eye",
+            "snaps",
+            "buttons"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BANDS IN OTHER WORDS",
+      "questions": [
+        {
+          "clue": "American bomber planes introduced in the 1950s",
+          "choices": [
+            "the B-17s",
+            "the F-15s",
+            "the C-130s",
+            "the B-52s"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Unused young goats for sale at an auction",
+          "choices": [
+            "New Kids on the Block",
+            "Old Guys on the Roof",
+            "Young Cows in the Barn",
+            "Baby Sheep on the Stage"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Communal foe",
+          "choices": [
+            "Private Enemy",
+            "Enemy Public",
+            "Public Enemy",
+            "Public Rival"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Buddhist Bliss",
+          "choices": [
+            "Nirvana",
+            "Karma",
+            "Rebirth",
+            "Samsara"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Ebony Sunday",
+          "choices": [
+            "White Monday",
+            "Blue Friday",
+            "Black Sabbath",
+            "Red Thursday"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Elvis Presley had \"Fun In\" this Mexican resort city with Ursula Andress \u2014 who wouldn't?",
+    "choices": [
+      "Acapulco",
+      "Cancun",
+      "Veracruz",
+      "Puerto Vallarta"
+    ],
+    "correctIndex": 0,
+    "category": "MOVIE GEOGRAPHY"
+  }
+}

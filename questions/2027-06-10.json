@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-10",
+  "categories": [
+    {
+      "name": "ISN'T IT ICONIC?",
+      "questions": [
+        {
+          "clue": "Volkswagen described this iconic model as \"a classic that keeps up with the times\"",
+          "choices": [
+            "the Bus",
+            "the Karmann Ghia",
+            "the Beetle",
+            "the Golf"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "More than 14 years in the making, the faces here are each about 60 feet from chin to forehead",
+          "choices": [
+            "Mount Rushmore",
+            "Crazy Horse",
+            "Stone Mountain",
+            "Devils Tower"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "One of \"Harper Bazaar\"'s 50 Most Iconic Looks, the 1956 wedding dress of this woman, whose job title changed, actress to princess",
+          "choices": [
+            "Princess Diana",
+            "Grace Jones",
+            "Elizabeth Taylor",
+            "Grace Kelly"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "San Francisco's Pier 39 is part of this iconic area that's not called a pier but something similar",
+          "choices": [
+            "Fisherman's Wharf",
+            "Chinatown",
+            "Union Square",
+            "North Beach"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This \"Hero With a Thousand Faces\" author co-wrote 1974's \"The Mythic Image\", which explored iconography",
+          "choices": [
+            "Carl Jung",
+            "Joseph Conrad",
+            "Joseph Campbell",
+            "Stephen King"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE ILIAD",
+      "questions": [
+        {
+          "clue": "A minor figure in \"The Iliad\", he's the main character of Homer's other epic",
+          "choices": [
+            "Odysseus",
+            "Achilles",
+            "Agamemnon",
+            "Hector"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "For settling a dispute in her favor, Aphrodite promises him the world's most beautiful woman as his wife",
+          "choices": [
+            "Hector",
+            "Paris",
+            "Priam",
+            "Menelaus"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This Trojan warrior is saved by Aphrodite, or there might never have been that epic by Virgil",
+          "choices": [
+            "Diomedes",
+            "Aeneas",
+            "Patroclus",
+            "Ajax"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Like this woman, his sister, Helenus has the gift of second sight",
+          "choices": [
+            "Cassandra",
+            "Hecuba",
+            "Andromache",
+            "Clytemnestra"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Commander of the Greeks, he is the older brother of King Menelaus",
+          "choices": [
+            "King Nestor",
+            "King Odysseus",
+            "King Agamemnon",
+            "King Ajax"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CHRISTMAS ON BROADWAY",
+      "questions": [
+        {
+          "clue": "This musical wraps up with \"A New Deal For Christmas\", featuring FDR, Daddy Warbucks & the gang",
+          "choices": [
+            "Oliver!",
+            "The King and I",
+            "Guys and Dolls",
+            "Annie"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1989 \"Meet Me in St. Louis\" came to Broadway along with this Yuletide tune introduced by Judy Garland in the movie",
+          "choices": [
+            "\"Over the River and Through the Woods\"",
+            "\"Have Yourself A Merry Little Christmas\"",
+            "\"Jingle Bells\"",
+            "\"Silent Night\""
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Songs from this show based on a movie include \"Red Ryder Carbine Action BB Gun\" & \"Ralphie To The Rescue\"",
+          "choices": [
+            "National Lampoon's Christmas Vacation",
+            "Elf The Musical",
+            "The Grinch Live on Stage",
+            "A Christmas Story"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "\"Here's Love\" was Meredith Willson's stage adaptation of this classic film with a street that crosses Broadway in its title",
+          "choices": [
+            "It's a Wonderful Life",
+            "White Christmas",
+            "Miracle on 8th Street",
+            "Miracle on 34th Street"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 2018 these mind-blowing magicians with monikers like the Deductionist debuted their \"Magic of the Holidays\" show",
+          "choices": [
+            "The Illusionists",
+            "Penn & Teller",
+            "The Magic Circle",
+            "David Copperfield"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"2 Broke Girls\" helped Les Moonves of this network earn $41 million",
+    "choices": [
+      "NBC",
+      "CBS",
+      "ABC",
+      "FOX"
+    ],
+    "correctIndex": 1,
+    "category": "CEO COMPENSATION"
+  }
+}

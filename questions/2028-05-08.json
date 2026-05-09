@@ -1,0 +1,196 @@
+{
+  "date": "2028-05-08",
+  "categories": [
+    {
+      "name": "THE '80S",
+      "questions": [
+        {
+          "clue": "4 of the 5 finalists in the 1988 Miss Universe pageant represented countries on this continent",
+          "choices": [
+            "Asia",
+            "Europe",
+            "South America",
+            "Africa"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "If you're a \"thrasher\", you're into this sport",
+          "choices": [
+            "snowboarding",
+            "BMX biking",
+            "skateboarding",
+            "surfing"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "As promised by Gorbachev in 1987, Soviet troops began leaving this nation in May 1988",
+          "choices": [
+            "Cuba",
+            "Iraq",
+            "Angola",
+            "Afghanistan"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1989, for the 1st time, Australia sold over 1 million gallons of this in the U.S.",
+          "choices": [
+            "beer",
+            "whiskey",
+            "wine",
+            "juice"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1986 the U.S. suspended our ANZUS Treaty obligations to this country due to its ban on nuclear weapons",
+          "choices": [
+            "Australia",
+            "New Zealand",
+            "Canada",
+            "United Kingdom"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "POLITICAL LINGO",
+      "questions": [
+        {
+          "clue": "In the mid-1800s Samuel Ward was the \"King of\" this, soliciting legislative support for his causes",
+          "choices": [
+            "bribery",
+            "patronage",
+            "lobbying",
+            "lobbyist"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Nonprofits that spend to influence elections don't need to disclose donors & are thereby using this \"money\"",
+          "choices": [
+            "soft money",
+            "super PACs",
+            "dark money",
+            "slush fund"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "An 1868 definition of this term: \"men traveling with little luggage and less character\" to profit from the situation",
+          "choices": [
+            "a scalawag",
+            "a carpetbagger",
+            "a speculator",
+            "a contractor"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "It's a bird, it's a plane, no, it's this specified level of support needed to pass a vote, usually 3/5 in the Senate",
+          "choices": [
+            "a simple majority",
+            "a veto proof majority",
+            "a plurality",
+            "a supermajority"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Spiro Agnew spoke of \"nattering\" these \"of negativism\"",
+          "choices": [
+            "narcissists",
+            "\"nabobs\"",
+            "nobodies",
+            "narrators"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "VALLEYS",
+      "questions": [
+        {
+          "clue": "Come & sit by my side if you know this valley straddles the border of Texas & Oklahoma",
+          "choices": [
+            "the Rio Grande Valley",
+            "the Red River Valley",
+            "the Arkansas Valley",
+            "the Pecos Valley"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "With a narrow valley between 2 mountain masses, this second-largest Hawaiian island is the Valley Isle",
+          "choices": [
+            "Kauai",
+            "Oahu",
+            "Hawaii",
+            "Maui"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "West Point guards this river valley",
+          "choices": [
+            "Potomac River Valley",
+            "Connecticut River Valley",
+            "Hudson River Valley",
+            "Mississippi River Valley"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Lotsa fuming fumaroles populate the Alaska region known as the Valley of Ten Thousand these",
+          "choices": [
+            "smog",
+            "dust",
+            "ash",
+            "smokes"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Full of biblical sites, Israel's Jezreel Valley is bounded to the west by this mount with Haifa on its slopes",
+          "choices": [
+            "Mount Hermon",
+            "Mount Carmel",
+            "Mount Zion",
+            "Mount Tabor"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "You can use leftovers to make one of these Italian-named egg dishes that's similar to an omelet",
+    "choices": [
+      "a strudel",
+      "a lasagna",
+      "a risotto",
+      "a frittata"
+    ],
+    "correctIndex": 3,
+    "category": "ITALIAN COOKING"
+  }
+}

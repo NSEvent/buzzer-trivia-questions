@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-21",
+  "categories": [
+    {
+      "name": "TEEN-LETTER WORDS",
+      "questions": [
+        {
+          "clue": "Examples of these include Cygnus, Centaurus & Cepheus",
+          "choices": [
+            "constellations",
+            "celestial bodies",
+            "astronomical objects",
+            "galactic clusters"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "18 letters, including the final \"S\": AT&T & Verizon are major companies in this sector of the economy",
+          "choices": [
+            "information technology",
+            "financial services",
+            "telecommunications",
+            "media industries"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Thinking about the past, or an exhibit spanning the career of one artist",
+          "choices": [
+            "a retrospective",
+            "a monograph",
+            "a biography",
+            "a chronicle"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "13 letters: This type of scientist studies pyroclasts & lava flows",
+          "choices": [
+            "a volcanologist",
+            "a paleontologist",
+            "a geophysicist",
+            "a seismologist"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "16 letters: Embezzlement or other improper use of funds",
+          "choices": [
+            "embezzlement",
+            "fraudulent",
+            "misappropriation",
+            "mismanagement"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE FRENCH & INDIAN WAR",
+      "questions": [
+        {
+          "clue": "Fort Ligonier was built in SW Pennsylvania to enable the Brits to capture France's Fort Duquesne, now this city",
+          "choices": [
+            "Philadelphia",
+            "Harrisburg",
+            "Pittsburgh",
+            "Allentown"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The British deported French-speaking settlers from Acadia in Nova Scotia; many went south, where their descendants became these people",
+          "choices": [
+            "the Acadians",
+            "the Creoles",
+            "the Cajuns",
+            "the M\u00e9tis"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The British won the 1759 battle for this Canadian city & protected it from recapture 7 months later",
+          "choices": [
+            "Quebec",
+            "Montreal",
+            "Ottawa",
+            "Toronto"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This European power came in on the losing side late in the war & lost Florida as a result",
+          "choices": [
+            "France",
+            "Great Britain",
+            "Portugal",
+            "Spain"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This Indian confederacy that controlled Upstate New York sided with the British",
+          "choices": [
+            "the Cherokee",
+            "the Sioux",
+            "the Algonquin",
+            "the Iroquois"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IOWANS",
+      "questions": [
+        {
+          "clue": "The movie version of this Meredith Willson musical premiered in Mason City, his hometown",
+          "choices": [
+            "Music Man",
+            "The Music Box",
+            "The Grand Hotel",
+            "The City Lights"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Both this president and his wife Lou were born in Iowa: he in West Branch & she in Waterloo",
+          "choices": [
+            "Hoover",
+            "Lincoln",
+            "Cleveland",
+            "Taft"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "It's said this baseball player turned evangelist preached to over 100 million people",
+          "choices": [
+            "Billy Graham",
+            "Oswald J. Smith",
+            "Billy Sunday",
+            "Mordecai Ham"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Though this actress was born in Des Moines, on TV, she \"lived\" in Minneapolis, downstairs from Mary Richards",
+          "choices": [
+            "Valerie Harper",
+            "Georgia Engel",
+            "Cloris Leachman",
+            "Gwen Verdon"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The film \"The Music Man\" had its premiere in Mason City, home town of this man, its composer",
+          "choices": [
+            "Meredith Willson",
+            "Irving Berlin",
+            "George Gershwin",
+            "Jerome Kern"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Etymologically speaking, \"Skt.\" isn't short for skirt or Skittles but this",
+    "choices": [
+      "Sanskrit",
+      "Swahili",
+      "Serbian",
+      "Sinhala"
+    ],
+    "correctIndex": 0,
+    "category": "DICTIONARY ABBREVIATIONS"
+  }
+}

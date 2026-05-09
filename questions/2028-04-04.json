@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-04",
+  "categories": [
+    {
+      "name": "IN THE BIG INNING",
+      "questions": [
+        {
+          "clue": "Fernando Tatis had a big inning at Dodger Stadium in 1999: 2 of these home runs for 8 RBIs",
+          "choices": [
+            "grand slams",
+            "inside-the-park home runs",
+            "sacrifice flies",
+            "ground rule doubles"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The most runs scored by both teams in 1 inning: 19, when Cleveland came to this park in Boston in 1977",
+          "choices": [
+            "Fenway Park",
+            "Yankee Stadium",
+            "Wrigley Field",
+            "Shea Stadium"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Coming to bat in the 4th inning of a game against the L.A. Dodgers in 1974, this Atlanta Brave hit his 715th home run",
+          "choices": [
+            "Willie Mays",
+            "Stan Musial",
+            "Hank Aaron",
+            "Mickey Mantle"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In the 8th inning of a 1941 game, a play by shortstop Lou Boudreau ended this Yankee's 56-game hitting streak",
+          "choices": [
+            "Joe DiMaggio",
+            "Ted Williams",
+            "Lou Gehrig",
+            "Derek Jeter"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Up 5-3 in the 10th, this team lost game 6 & later the '86 Series after a ball went through Bill Buckner's legs",
+          "choices": [
+            "the New York Yankees",
+            "the Boston Red Sox",
+            "the Chicago Cubs",
+            "the St. Louis Cardinals"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NATIONALITY RHYMES",
+      "questions": [
+        {
+          "clue": "Joy for those of Geneva",
+          "choices": [
+            "Dutch wish",
+            "Greek kiss",
+            "Finnish hiss",
+            "Swiss bliss"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A nimble Bangkok fellow",
+          "choices": [
+            "a quick Lao",
+            "a fast Thai",
+            "a spry Thai",
+            "a light Thai"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A group of soldiers in Trieste",
+          "choices": [
+            "an Austrian legion",
+            "a German platoon",
+            "a French company",
+            "an Italian battalion"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Strapless purse of that gal from Utrecht",
+          "choices": [
+            "Punch lunch",
+            "Much smutch",
+            "Touch clutch",
+            "Dutch clutch"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The standard principle for evaluation in Damascus",
+          "choices": [
+            "Tyrian barrier",
+            "Guyan barrier",
+            "Ceylon barrier",
+            "Syrian criterion"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MIXED DRINKS",
+      "questions": [
+        {
+          "clue": "The juice of one of these citrus fruits makes a Whiskey Sour sour",
+          "choices": [
+            "a lime",
+            "a lemon",
+            "a grape",
+            "a melon"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A teaspoon of creme de cassis is added to this to make a Kir",
+          "choices": [
+            "red wine",
+            "white wine",
+            "sparkling water",
+            "dark rum"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A basic Gin Rickey is gin, lime & this non-potent potable",
+          "choices": [
+            "tonic water",
+            "club soda",
+            "ginger ale",
+            "soda water"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "WARN ME RETAIL",
+          "choices": [
+            "mineral oil",
+            "mineral spirit",
+            "mineral water",
+            "mineral salt"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Using Scotch whisky turns a Manhattan into this drink",
+          "choices": [
+            "a Black Manhattan",
+            "a Rob Roy",
+            "a Vieux Carr\u00e9",
+            "a Godfather"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This 5-letter word can stand by itself or precede Mennonite to refer to a Christian group in America",
+    "choices": [
+      "Quaker",
+      "Hutter",
+      "Mormon",
+      "Amish"
+    ],
+    "correctIndex": 3,
+    "category": "THAT'S A FACT"
+  }
+}

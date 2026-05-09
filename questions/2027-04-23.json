@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-23",
+  "categories": [
+    {
+      "name": "AT THE BALLET",
+      "questions": [
+        {
+          "clue": "The fantastic ballet \"Le Violon du Diable\" features Doctor Matheus, who in fact is this",
+          "choices": [
+            "a musician",
+            "the king",
+            "the devil",
+            "a scholar"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In one version of this fairy tale ballet, the prince summons cobblers throughout the kingdom, but to no avail",
+          "choices": [
+            "Snow White",
+            "Sleeping Beauty",
+            "Cinderella",
+            "Rapunzel"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A male drifter lusts after a garage owner's wife in \"The Car Man\", inspired by this composer's opera \"Carmen\"",
+          "choices": [
+            "Bizet",
+            "Tchaikovsky",
+            "Mussorgsky",
+            "Stravinsky"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The principal female role in the ballet \"Ivan the Terrible\" is his wife with this name, familiar in Russian history",
+          "choices": [
+            "Irina",
+            "Sophia",
+            "Maria",
+            "Anastasia"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In \"Copp\u00e9lia\", a magical doctor creates a life-size one of these that young Franz becomes obsessed with",
+          "choices": [
+            "a robot",
+            "a mannequin",
+            "a puppet",
+            "a doll"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"GO\" FOR IT",
+      "questions": [
+        {
+          "clue": "If you visit this Mongolian desert, you may see gazelles & sand rats",
+          "choices": [
+            "the Sahara",
+            "the Namib",
+            "the Gobi",
+            "the Atacama"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Little Anthony hit that goes, \"I want you to want me, I need you so badly, I can't think of anything but you\"",
+          "choices": [
+            "\"A Little Bit Less\"",
+            "\"I Just Can't Stop Loving You\"",
+            "\"I'm Gonna Make You Love Me\"",
+            "\"Goin' Out Of My Head\""
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The kind of intermediary mentioned in the title of a classic Joseph Losey film",
+          "choices": [
+            "a go-between",
+            "a middleman",
+            "an agent",
+            "a go-slip"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Home to Volvo, it's the second-most populous city in Sweden",
+          "choices": [
+            "Stockholm",
+            "Gothenburg",
+            "Malm\u00f6",
+            "Uppsala"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's the Hebrew word for calvary",
+          "choices": [
+            "Bethlehem",
+            "golgotha",
+            "Jerusalem",
+            "Nazareth"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TEXT MESSAGING",
+      "questions": [
+        {
+          "clue": "In this classic by Louisa May Alcott, Mrs. March got a letter addressed to \"My precious Marmee\" from her \"Topsy-turvy Jo\"",
+          "choices": [
+            "Aunt Amy",
+            "Little Women",
+            "Megan Markle",
+            "Jane Austen"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"KIT\" tells a pal to do this, though he may be far away",
+          "choices": [
+            "keep in touch",
+            "stay in touch",
+            "keep up with me",
+            "write to me"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Van Helsing writes to Mrs. Harker to send her \"sad news of Miss Lucy Westerna's death\" in this spooky novel",
+          "choices": [
+            "Dracula",
+            "Frankenstein",
+            "The Castle of Otranto",
+            "The Vampyre"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Careful! \"P911\" is a text message alert about the looming presence of one of these",
+          "choices": [
+            "a police officer",
+            "a teacher",
+            "a boss",
+            "a parent"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Madame Defarge knits a list in code to condemn the aristocracy in this Dickens tale",
+          "choices": [
+            "Oliver Twist",
+            "A Tale of Two Cities",
+            "Great Expectations",
+            "David Copperfield"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The name of this dish literally means \"rice with chicken\"",
+    "choices": [
+      "arroz con pollo",
+      "paella valenciana",
+      "arroz con leche",
+      "arroz frito"
+    ],
+    "correctIndex": 0,
+    "category": "SAY IT IN SPANISH"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-31",
+  "categories": [
+    {
+      "name": "FOOTBALL",
+      "questions": [
+        {
+          "clue": "A quarterback with a rifle arm & a scattershot approach might use this formation",
+          "choices": [
+            "the pistol",
+            "the shotgun",
+            "the singleback",
+            "the I-formation"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In college play the ball is placed on this yard line for a point after touchdown attempt",
+          "choices": [
+            "the 2-yard line",
+            "the 5-yard line",
+            "the goal line",
+            "the 3-yard line"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This \"time\" is the number of seconds between the ball being kicked & caught on a kickoff or a punt",
+          "choices": [
+            "hang time",
+            "air time",
+            "drop time",
+            "flight time"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This Cowboys wide receiver of the 1990s entered the Pro Football Hall of Fame in 2007",
+          "choices": [
+            "Michael Irvin",
+            "Emmitt Smith",
+            "Troy Aikman",
+            "Larry Brown"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Leading the Redskins in 1988, he became the first black quarterback to win the Super Bowl",
+          "choices": [
+            "John Elway",
+            "Warren Moon",
+            "Steve Young",
+            "Doug Williams"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE EARLY 1900s",
+      "questions": [
+        {
+          "clue": "The 1st time it was held, this So. Cal. bowl game was such a rout that chariot races replaced it for the next 14 years",
+          "choices": [
+            "Rose Bowl",
+            "Peach Bowl",
+            "Cotton Bowl",
+            "Orange Bowl"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This 1904 Puccini opera partly inspired a 1980s play that just uses the letter M.",
+          "choices": [
+            "La Boheme",
+            "Tosca",
+            "Madame Butterfly",
+            "Turandot"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Karl Landsteiner discovered there were 4 of these: A, B, O & AB",
+          "choices": [
+            "skin colors",
+            "hair types",
+            "eye colors",
+            "blood types"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This car company was founded in Detroit August 22, 1902 & named after an 18th century French explorer",
+          "choices": [
+            "Ford",
+            "Cadillac",
+            "Chevrolet",
+            "Buick"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The 1901 Platt Amendment allowed the U.S. to intervene in this formerly Spanish, now Communist island",
+          "choices": [
+            "Puerto Rico",
+            "Philippines",
+            "Cuba",
+            "Guam"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"PRO\"s & \"CON\"s",
+      "questions": [
+        {
+          "clue": "This Utah city was named for a Canadian fur trapper who visited the area in 1825",
+          "choices": [
+            "Salt Lake",
+            "Ogden",
+            "Logan",
+            "Provo"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "High levels of this hormone act to prevent a miscarriage during pregnancy",
+          "choices": [
+            "progesterone",
+            "estrogen",
+            "testosterone",
+            "insulin"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "From the Latin for \"to know\", it's a person with expert knowledge or training",
+          "choices": [
+            "amateur",
+            "novice",
+            "beginner",
+            "connoisseur"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Smuggled goods",
+          "choices": [
+            "luggage",
+            "parcels",
+            "suitcases",
+            "contraband"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A poetic image with an outlandish comparison",
+          "choices": [
+            "simile",
+            "conceit",
+            "metaphor",
+            "analogy"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The one found in the center of the Crab Nebula flashes about 30 times each second",
+    "choices": [
+      "a pulsar",
+      "quasar",
+      "neutron star",
+      "black hole"
+    ],
+    "correctIndex": 0,
+    "category": "ASTRONOMY"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-20",
+  "categories": [
+    {
+      "name": "\"M.G.\"",
+      "questions": [
+        {
+          "clue": "Let's have a Carnival on this, literally \"fat Tuesday\"",
+          "choices": [
+            "Carnival Monday",
+            "Ash Wednesday",
+            "Mardi Gras",
+            "Fat Thursday"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Catalina Island has an 18-hole course for this",
+          "choices": [
+            "mini van",
+            "mini golf",
+            "mini skirt",
+            "mini bar"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This left-handed cartoonist drew his character Bart Simpson as a lefty too",
+          "choices": [
+            "Matt Groening",
+            "Matt Damon",
+            "Matt LeBlanc",
+            "Matt Groening's cousin"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Burning Spear named a classic reggae song for this black nationalist leader of 1920s America",
+          "choices": [
+            "Marcus Garvey",
+            "Malcolm X",
+            "Martin Luther King Jr",
+            "Mandela Mandela"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "These stocky ruminants have muscular legs & broad hooves, making them surefooted climbers",
+          "choices": [
+            "rocky cliffs",
+            "mountain goats",
+            "steep peaks",
+            "alpine ridges"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NAME",
+      "questions": [
+        {
+          "clue": "Scottish for \"pretty\", it can be used as a name or an adjective",
+          "choices": [
+            "Gaelic",
+            "Celtic",
+            "Bonnie",
+            "Highland"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This novelist who wrote screenplays for Howard Hawks has a last name that means \"one who works with falcons\"",
+          "choices": [
+            "John Steinbeck",
+            "Ernest Hemingway",
+            "F. Scott Fitzgerald",
+            "William Faulkner"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The Apache leader given the name Goyathlay, meaning \"one who yawns\", took on this name, perhaps the Spanish version of Jerome",
+          "choices": [
+            "Cochise",
+            "Crazy Horse",
+            "Sitting Bull",
+            "Geronimo"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This billionaire was born Gy\u00f6rgy Schwartz in Budapest; his family changed their surname to avoid persecution as Jews",
+          "choices": [
+            "Michael Bloomberg",
+            "Larry Ellison",
+            "Karl Marx",
+            "George Soros"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This 18th century French writer may have derived his mononym from an anagram of a Latinized version of his surname, Arouet",
+          "choices": [
+            "Moliere",
+            "Rousseau",
+            "Voltaire",
+            "Descartes"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "20th CENTURY ARTISTS",
+      "questions": [
+        {
+          "clue": "In 1936 he showed up for a Surrealist exhibition dressed in a diving suit",
+          "choices": [
+            "Pablo Picasso",
+            "Henri Matisse",
+            "(Salvador) Dali",
+            "Joan Mir\u00f3"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Pop artist Roy Lichtenstein taught at this New Jersey state university from 1960 to 1963",
+          "choices": [
+            "Rutgers",
+            "Princeton",
+            "Yale",
+            "Columbia"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "He produced the first album by the Velvet Underground & showed his films at their performances",
+          "choices": [
+            "Jean-Michel Basquiat",
+            "Roy Lichtenstein",
+            "Andy Warhol",
+            "Keith Haring"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "He conveyed the loneliness of life in the big city in paintings like \"Chop Suey\" & \"Nighthawks\"",
+          "choices": [
+            "Georgia O'Keeffe",
+            "Grant Wood",
+            "Thomas Hart Benton",
+            "(Edward) Hopper"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"Sky Blue\", \"Blue Mountain\" & \"The Blue Rider\" are all paintings by this Russian abstract artist",
+          "choices": [
+            "Malevich",
+            "Kandinsky",
+            "Cezanne",
+            "Klee"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"Significa\" says this engraver sold prints by other artists as his own, taking fellow colonials for a ride",
+    "choices": [
+      "Paul Revere",
+      "Samuel Adams",
+      "John Hancock",
+      "John Paul Jones"
+    ],
+    "correctIndex": 0,
+    "category": "HOAXES"
+  }
+}

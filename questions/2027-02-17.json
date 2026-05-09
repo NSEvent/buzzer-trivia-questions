@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-17",
+  "categories": [
+    {
+      "name": "PUBLIC TRANSPORTATION",
+      "questions": [
+        {
+          "clue": "The nicer buses within South Korean cities are called jwaseok, which means this, something most people look for when they board",
+          "choices": [
+            "seat",
+            "armrest",
+            "headrest",
+            "floor mat"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It's the 4-letter nickname for London's subway system",
+          "choices": [
+            "the tube",
+            "the loop",
+            "the metro",
+            "the subway"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Atlanta's metropolitan area has this rapid transit rail system, similar to the Bay Area's BART",
+          "choices": [
+            "MARTA",
+            "LIFT",
+            "GRTA",
+            "MSTA"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "You & your car can travel by ferry from Washington State to the town of Sidney, British Columbia on this island",
+          "choices": [
+            "Vancouver Island",
+            "Prince Edward Island",
+            "Olympic Peninsula",
+            "Baranof Island"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The L train & a bus to Skokie are run by the CTA, short for this original name of the \"Does Anybody Really Know What Time It Is?\" band",
+          "choices": [
+            "Chicago Transit Authority",
+            "Chicago Area Transportation",
+            "Chicago Public Transit",
+            "Chicago Transport Agency"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PENINSULAS",
+      "questions": [
+        {
+          "clue": "During an 11-month siege, 1854-55, the city of Sevastopol on this peninsula was heavily damaged",
+          "choices": [
+            "the Iberian Peninsula",
+            "the Crimean Peninsula",
+            "the Scandinavian Peninsula",
+            "the Italian Peninsula"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This country's Chukchi Peninsula is the easternmost mainland part of Asia",
+          "choices": [
+            "China",
+            "Japan",
+            "Russia",
+            "Kazakhstan"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The Turkish name for this peninsula is Gelibolu",
+          "choices": [
+            "Gallipoli",
+            "Santorini",
+            "Capri",
+            "Palma"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This triangular peninsula was occupied by Israeli forces during the Six Day War",
+          "choices": [
+            "the Sinai Peninsula",
+            "the Arabian Peninsula",
+            "the Korean Peninsula",
+            "the Balkan Peninsula"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This peninsula constitutes the mainland portion of Hong Kong",
+          "choices": [
+            "the Liaodong Peninsula",
+            "the Shandong Peninsula",
+            "the Kowloon Peninsula",
+            "the Leizhou Peninsula"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HAIR CARE",
+      "questions": [
+        {
+          "clue": "The 2 letters & a number you're likely to find on a label that reads \"Alberto\"",
+          "choices": [
+            "AO9",
+            "VO3",
+            "VO7",
+            "VO5"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "He was flown from London to Hollywood just to cut Mia Farrow's hair for the film \"Rosemary's Baby\"",
+          "choices": [
+            "Stella McCutcheon",
+            "Christophe Robin",
+            "Vidal Sassoon",
+            "Adir Ayal"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "If you want to give yourself one of these at home, Lilt makes a kit with sponge end-wraps",
+          "choices": [
+            "perm",
+            "permanent",
+            "curling",
+            "wave"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This dark pigment that largely determines your hair color is also found in fish scales",
+          "choices": [
+            "keratin",
+            "cysteine",
+            "melanocyte",
+            "melanin"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1954 the \"No More Tears\" formula of this product was introduced",
+          "choices": [
+            "Crest Toothpaste",
+            "Johnson's Baby Shampoo",
+            "Vaseline Petroleum Jelly",
+            "Ivory Soap"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The name of this Pennsylvania borough is from Algonquian for \"town of gnats\", not groundhogs",
+    "choices": [
+      "Punxsutawney",
+      "Hoboken",
+      "Schenectady",
+      "Manhattan"
+    ],
+    "correctIndex": 0,
+    "category": "U.S. PLACE NAMES"
+  }
+}

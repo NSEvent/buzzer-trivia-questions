@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-07",
+  "categories": [
+    {
+      "name": "BRAND \"X\"",
+      "questions": [
+        {
+          "clue": "This blue glass cleaner was launched in 1936",
+          "choices": [
+            "Windex",
+            "Pine-Sol",
+            "Method",
+            "Seventh Generation"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"Discover what your lips are missing\" is a slogan for this product",
+          "choices": [
+            "ChapStick",
+            "Blistex",
+            "Burt's Bees",
+            "Aquaphor"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This antianxiety medication not only ends in X, it also begins with it",
+          "choices": [
+            "Valium",
+            "Ativan",
+            "Xanax",
+            "Klonopin"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This Mars candy bar is 2 fingers of cookie, caramel & chocolate",
+          "choices": [
+            "Kit Kat",
+            "Twix",
+            "Snickers",
+            "3 Musketeers"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This company's Jack Kilby created the first integrated circuit back in 1958",
+          "choices": [
+            "Intel Corporation",
+            "Texas Instruments",
+            "Fairchild Semiconductor",
+            "AT&T Bell Labs"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "3 VOWELS IN A ROW",
+      "questions": [
+        {
+          "clue": "A Maui food feast",
+          "choices": [
+            "a potluck",
+            "a picnic",
+            "a luau",
+            "a banquet"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Mais oui, it's a word for a fabulous mansion\u2014perhaps on the Loire River?",
+          "choices": [
+            "a villa",
+            "a manor",
+            "a chateau",
+            "a castle"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Instead of \"instead of\", you can say \"in\" this \"of\"",
+          "choices": [
+            "place",
+            "lieu",
+            "stead",
+            "spot"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Hunkpapa & Oglala are branches of this Native American people",
+          "choices": [
+            "Crow",
+            "Lakota",
+            "Sioux",
+            "Cheyenne"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This mental disorder makes it seem like everyone's out to get you, despite having little or no cause",
+          "choices": [
+            "paralysis",
+            "paranoia",
+            "pandemic",
+            "patience"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ACRONYMS & ABBREVS.",
+      "questions": [
+        {
+          "clue": "HGH stands for this hormone secreted by the pituitary",
+          "choices": [
+            "human genetic code",
+            "heart health guide",
+            "high grade hardness",
+            "human growth hormone"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The slang term PDA is short for this, like smooching at the movies",
+          "choices": [
+            "public displays of affection",
+            "public domain access",
+            "personal data archive",
+            "post daily updates"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In business, the CFO is this job title",
+          "choices": [
+            "chief funding officer",
+            "chief financial officer",
+            "chief fiscal officer",
+            "chief financial organizer"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Seen on pay stubs, FICA is short for these 2 words \"Contributions Act\"",
+          "choices": [
+            "federal income",
+            "financial insurance",
+            "federal social",
+            "federal insurance"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "JSYK is texting shorthand for this 4-word phrase",
+          "choices": [
+            "just say yeah",
+            "just see you",
+            "just so you know",
+            "just say you"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "During his 1986 to 1992 presidency of Austria, the country was diplomatically isolated",
+    "choices": [
+      "Kurt Waldheim",
+      "Klaus Hoffbauer",
+      "Franz Vranitzky",
+      "Thomas Klestil"
+    ],
+    "correctIndex": 0,
+    "category": "EUROPE TO NO GOOD"
+  }
+}

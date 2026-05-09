@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-13",
+  "categories": [
+    {
+      "name": "20-SOMETHING",
+      "questions": [
+        {
+          "clue": "He sent his first radio signals in 1895, when he was 21",
+          "choices": [
+            "Tesla",
+            "Bell",
+            "Marconi",
+            "Hertz"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "26 is the atomic number of this chemical element, symbol Fe",
+          "choices": [
+            "cobalt",
+            "nickel",
+            "iron",
+            "copper"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In the Olympics, games of table tennis are played to 11 points & games of this racket sport are played to 21",
+          "choices": [
+            "squash",
+            "lawn tennis",
+            "badminton",
+            "racketball"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This language, introduced around 1900, has 28 letters, including 6 special ones; you can enable your keyboard to type them",
+          "choices": [
+            "Latin",
+            "Sanskrit",
+            "Greek",
+            "Esperanto"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "She was 23 when her first novel, \"The Heart Is A Lonely Hunter\", was published",
+          "choices": [
+            "Harper Lee",
+            "Flannery O'Connor",
+            "Carson McCullers",
+            "Eudora Welty"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "KEEP ON TRUCKIN\\'",
+      "questions": [
+        {
+          "clue": "This type of engine named for its 19th c. German inventor powers most large trucks",
+          "choices": [
+            "Steam",
+            "Gasoline",
+            "Electric",
+            "Diesel"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Many large trucks have this many gears, matching the number of \"wheels\" in a popular nickname for the vehicles",
+          "choices": [
+            "ten",
+            "six",
+            "eighteen",
+            "twenty"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Also called splash guards, these on a truck help prevent splashing on following cars",
+          "choices": [
+            "mud flaps",
+            "wind deflectors",
+            "splash shields",
+            "rocker panels"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Truckers know these have a range of about 25 miles in motor vehicles & federally limited power of 4 watts",
+          "choices": [
+            "satellite dishes",
+            "amateur radios",
+            "cell phones",
+            "C.B. radios"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A high center of gravity & excessive speed on a curve can both lead to this deadliest type of trucking accident",
+          "choices": [
+            "a head-on collision",
+            "a sideswipe accident",
+            "a rollover",
+            "a jackknife"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MERRIE OLDE ENGLAND",
+      "questions": [
+        {
+          "clue": "The Italian Pulcinella became this handy character in England",
+          "choices": [
+            "Punch",
+            "Harlequin",
+            "Columbine",
+            "Polichinelle"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This court was first built in 1539, adjacent to Newgate Prison",
+          "choices": [
+            "the Royal Courts",
+            "the Old Bailey Courts",
+            "the Old Bailey",
+            "the Central Criminal Court"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The Tudor mansion at Knole has 52 staircases (1 for each week in the year) & this many rooms",
+          "choices": [
+            "365",
+            "366",
+            "364",
+            "360"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "(Cheryl of the Clue Crew reports from under the boughs of a riverside willow in England.) Holy Trinity Church, where Shakespeare was baptized & buried, stands on the banks of this English river",
+          "choices": [
+            "Thames",
+            "Avon",
+            "Severn",
+            "Ouse"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The 1644 battlefield of Marston this, a type of gloomy field, is mentioned in a Bronte novel",
+          "choices": [
+            "Moor",
+            "Dale",
+            "Moss",
+            "Heath"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "(Jimmy of the Clue Crew in Paris) It was the first stone bridge on the Seine, not the ninth, as you might think by its name",
+    "choices": [
+      "Pont Marie",
+      "Pont de la Concorde",
+      "Pont Neuf",
+      "Pont Saint-Michel"
+    ],
+    "correctIndex": 2,
+    "category": "PARIS"
+  }
+}

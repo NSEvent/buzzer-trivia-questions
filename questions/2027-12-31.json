@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-31",
+  "categories": [
+    {
+      "name": "BEST SCREENPLAY OSCARS",
+      "questions": [
+        {
+          "clue": "1996: Billy Bob Thornton for this story of a mentally handicapped man",
+          "choices": [
+            "Fargo",
+            "The Usual Suspects",
+            "Shine",
+            "Sling Blade"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "2002: Ronald Harwood for this biography of a Polish Jewish musician",
+          "choices": [
+            "Life Is Beautiful",
+            "Schindler's List",
+            "The Pianist",
+            "The English Patient"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "2004: Alexander Payne & Jim Taylor for this trip through wine country",
+          "choices": [
+            "Sideways",
+            "Lost in Translation",
+            "Little Miss Sunshine",
+            "Milk"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "1994: Eric Roth for this story of a shrimp boat captain, among other things",
+          "choices": [
+            "Pulp Fiction",
+            "The Silence of the Lambs",
+            "Goodfellas",
+            "Forrest Gump"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "1996: Joel & Ethan Coen for this tale of Midwestern murder & mayhem",
+          "choices": [
+            "Blood Simple",
+            "No Country for Old Men",
+            "Fargo",
+            "The Big Lebowski"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "READ ANY GOOD BOOKS?",
+      "questions": [
+        {
+          "clue": "Holden Caulfield is the narrator of this novel",
+          "choices": [
+            "The Great Gatsby",
+            "To Kill a Mockingbird",
+            "1984",
+            "\"Catcher in the Rye\""
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "When exorcising on your Scaremaster, you might want to read \"The Shining\" by this author",
+          "choices": [
+            "Frank Herbert",
+            "George R.R. Martin",
+            "Stephen King",
+            "J.K. Rowling"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The city Armistead Maupin did \"Tales\", \"More Tales\" & \"Further Tales\" about",
+          "choices": [
+            "New York City",
+            "Los Angeles",
+            "San Francisco",
+            "Seattle"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In April 1986 Larry McMurtry won a Pulitzer Prize for this western novel",
+          "choices": [
+            "Blood Meridian",
+            "The Last of the Mohicans",
+            "\"Lonesome Dove\"",
+            "True Grit"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "He followed \"The Seven Spiritual Laws of Success\" with \"The Seven Spiritual Laws for Parents\"",
+          "choices": [
+            "Eckhart Tolle",
+            "Marianne Williamson",
+            "Deepak Chopra",
+            "Wayne Dyer"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AMERICA THE BEAUTIFUL",
+      "questions": [
+        {
+          "clue": "Both Dakotas have areas of eroded terrain called this; South Dakota's has a national park named for it",
+          "choices": [
+            "Canyons",
+            "Plateaus",
+            "Buttes",
+            "Badlands"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In spring, California comes alive with these, the state flower",
+          "choices": [
+            "poppies",
+            "wildflowers",
+            "lupines",
+            "poppy seeds"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The last time both major party conventions were held in the same place was 1972 in this southern \"beach\" city",
+          "choices": [
+            "Orlando",
+            "Atlanta",
+            "Miami",
+            "Charlotte"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "You can drive from Yellowstone to the national park named for these \"Grand\" mountains in under 30 minutes",
+          "choices": [
+            "the Smokies",
+            "the Rockies",
+            "the Cascades",
+            "the Tetons"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Named for a surveyor & flowing from the Juneau Icefield, this 13-mile-long glacier often features ice caves to explore",
+          "choices": [
+            "the Athabasca Glacier",
+            "the Mendenhall Glacier",
+            "the Malaspina Glacier",
+            "the Mendenhall Lake"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This family of freshwater fish that includes the muskellunge can be identified by its duckbill-shaped snout",
+    "choices": [
+      "bass",
+      "trout",
+      "perch",
+      "pike"
+    ],
+    "correctIndex": 3,
+    "category": "4-LETTER FISH"
+  }
+}

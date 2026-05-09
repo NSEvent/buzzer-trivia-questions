@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-16",
+  "categories": [
+    {
+      "name": "EUROPEAN ARTISTS",
+      "questions": [
+        {
+          "clue": "In 1816 this onetime court painter to Spanish royalty published \"Tauromaquia\", his etchings on bullfighting",
+          "choices": [
+            "Vel\u00e1zquez",
+            "Murillo",
+            "Goya",
+            "Ribera"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Although best known for his nonsense poems such as \"The Jumblies\", he was an accomplished landscape painter",
+          "choices": [
+            "Edward Lear",
+            "Lewis Carroll",
+            "Samuel Taylor Coleridge",
+            "John Keats"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Painter & woodcut designer called the greatest German Renaissance artist",
+          "choices": [
+            "Hans Holbein",
+            "Albrecht D\u00fcrer",
+            "Albrecht Altdorfer",
+            "Lucas Cranach"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This Norwegian's first masterpiece, \"The Sick Child\", recalled the death of his sister Sophie due to tuberculosis",
+          "choices": [
+            "Edvard Grieg",
+            "(Edward) Munch",
+            "Henrik Ibsen",
+            "Edvard Westman"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This Fauvist's wife Amelie, who posed for his \"Woman with the Hat\", ran a Paris hat shop to earn money for the family",
+          "choices": [
+            "Henri Matisse",
+            "Pablo Picasso",
+            "Andr\u00e9 Derain",
+            "Maurice de Vlaminck"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SIBLING REVELRY",
+      "questions": [
+        {
+          "clue": "The loopy comedy \"Raising Arizona\" was written & directed by these brothers",
+          "choices": [
+            "the Wachowskis",
+            "the Dardenne Brothers",
+            "the Coen Brothers",
+            "the Farrelly Brothers"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "By 1890 the Scott brothers rolled more of this paper product into U.S. homes than any other company",
+          "choices": [
+            "paper towels",
+            "toilet paper",
+            "facial tissue",
+            "cardboard boxes"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In this Irish family Jack B. was a portrait painter & his brother William B., a poet",
+          "choices": [
+            "the Synge",
+            "the Yeats",
+            "the Lady Gregory",
+            "the Shaw"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The real first names of this comedy troupe were Julius, Leonard, Milton, Adolph & Herbert",
+          "choices": [
+            "the Three Stooges",
+            "the Goon Show",
+            "the Marx Brothers",
+            "the Keystone Cops"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The United Business Company, begun by brothers Henry & Richard in 1946, is now filing under this name",
+          "choices": [
+            "H&R Block",
+            "Intuit TurboTax",
+            "H&R Hanes",
+            "Block & H&R"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "EAT IT!",
+      "questions": [
+        {
+          "clue": "It's the Spanish-named appetizer of tortilla chips & often beans, beef & onions topped with melted cheese",
+          "choices": [
+            "nachos",
+            "quesadillas",
+            "bruschetta",
+            "guacamole"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "For a quick version of this French sauce, mix together mayo, minced garlic, a little salt & lemon juice",
+          "choices": [
+            "mayonnaise",
+            "tartar sauce",
+            "ranch dressing",
+            "aioli"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A Spanish word for a sloop gives us the name of this appetizer, a crisp corn tortilla \"boat\" filled with beef & cheese",
+          "choices": [
+            "a taco",
+            "a tostada",
+            "a quesadilla",
+            "a chalupa"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Traditionally, shepherd's pie contains this meat, ground or diced",
+          "choices": [
+            "beef",
+            "pork",
+            "chicken",
+            "lamb"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Paper-thin & often served for dessert, it's the French equivalent of a pancake",
+          "choices": [
+            "waffles",
+            "cr\u00eapes",
+            "blinis",
+            "pancakes"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Smile if you know that \"Smile\", based on an instrumental theme in the movie \"Modern Times\", was composed by this star",
+    "choices": [
+      "Buddy Rich",
+      "Louis Armstrong",
+      "(Charlie) Chaplin",
+      "Gene Kelly"
+    ],
+    "correctIndex": 2,
+    "category": "CLASSIC SONGS"
+  }
+}

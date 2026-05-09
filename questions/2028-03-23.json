@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-23",
+  "categories": [
+    {
+      "name": "CATCHING SOME \"Z\"s",
+      "questions": [
+        {
+          "clue": "This Italian squash can be eaten raw, steamed or grilled, or baked in a sweet bread",
+          "choices": [
+            "zucchini",
+            "summer squash",
+            "butternut",
+            "acorn"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Kazantzakis' fictional funloving title peasant",
+          "choices": [
+            "Achilles",
+            "Zorba the Greek",
+            "Hector",
+            "Odysseus"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "2-word term for the weightlessness experienced by astronauts in orbit",
+          "choices": [
+            "weightlessness",
+            "microgravity",
+            "zero gravity",
+            "free fall"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In the 1838 Battle of Blood River, Andres Pretorius led troops against this African people's warriors",
+          "choices": [
+            "the Xhosa",
+            "the Zulus",
+            "the Zande",
+            "the Yoruba"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This \"Master of the Pan Flute\" has sold millions of albums worldwide",
+          "choices": [
+            "Zorba",
+            "Zamfir",
+            "Zappa",
+            "Zidane"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SLOGANS",
+      "questions": [
+        {
+          "clue": "Fox News says it's \"fair &\" this",
+          "choices": [
+            "balanced",
+            "impartial",
+            "equal",
+            "objective"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"You'll wonder where the yellow went when you brush your teeth with\" this",
+          "choices": [
+            "Colgate",
+            "Crest",
+            "Closeup",
+            "Pepsodent"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This company's \"Yeah, we've got that\" slogan was replaced in 2003",
+          "choices": [
+            "Dell",
+            "Office Depot",
+            "Staples",
+            "Best Buy"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"Move over, bacon\" it's this",
+          "choices": [
+            "Sizzl-Burger",
+            "Sizzle-Patty",
+            "Sizzle-Fry",
+            "Sizzlean"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "FDR's campaign running against Kansan Alf Landon in 1936 declared these \"die in November\"",
+          "choices": [
+            "sunsets",
+            "sunbeams",
+            "sunflowers",
+            "sunrays"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FOUNDERS",
+      "questions": [
+        {
+          "clue": "In the 1830s Henry Miller Shreve founded a port city in this state",
+          "choices": [
+            "Mississippi",
+            "Louisiana",
+            "Alabama",
+            "Arkansas"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Tradition says this \"great\" rival of Julius Caesar founded a colony in Pamplona in 75 B.C.; the city's name honors him",
+          "choices": [
+            "Crassus",
+            "Pompey (the Great)",
+            "Nerva",
+            "Augustus"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This Mass. Ocean Institute was founded in 1930 with money from the Rockefeller Foundation",
+          "choices": [
+            "the Harvard University",
+            "the Stanford Foundation",
+            "the Yale Scientific Group",
+            "the Woods Hole Institute"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "To support the Bill of Rights, Roger Baldwin co-founded this group in NYC in 1920",
+          "choices": [
+            "the ACLU (the American Civil Liberties Union)",
+            "the NAACP",
+            "the Sierra Club",
+            "the Red Cross"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1914 Lilian Baylis founded a Shakespeare company at this \"Old\" London theatre",
+          "choices": [
+            "the Globe Theatre",
+            "the Royal Court",
+            "the National Theatre",
+            "the Old Vic"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The Duke Energy Center for the Performing Arts",
+    "choices": [
+      "Raleigh",
+      "Charlotte",
+      "Greenville",
+      "Durham"
+    ],
+    "correctIndex": 0,
+    "category": "IN THE STATE CAPITAL"
+  }
+}

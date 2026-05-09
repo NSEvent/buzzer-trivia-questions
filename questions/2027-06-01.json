@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-01",
+  "categories": [
+    {
+      "name": "CELEBRITY COUPLES",
+      "questions": [
+        {
+          "clue": "In 1957 this crooner tied the knot with actress Kathryn Grant in Las Vegas",
+          "choices": [
+            "Frank Sinatra",
+            "Dean Martin",
+            "Bing Crosby",
+            "Elvis Presley"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "She & Paul Newman became grandparents for the first time when daughter Lissy had a baby boy in 1996",
+          "choices": [
+            "Meryl Streep",
+            "Jane Fonda",
+            "Goldie Hawn",
+            "Joanne Woodward"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This Real Housewife of Beverly Hills is Mrs. Harry Hamlin",
+          "choices": [
+            "Kim Richards",
+            "Kyle Richards",
+            "Patti Davis",
+            "Lisa Rinna"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Paula Prentiss played a perverse nurse in \"Mrs. Winterbourne\", directed by this man, her husband",
+          "choices": [
+            "Robert Altman",
+            "Richard Benjamin",
+            "Woody Allen",
+            "Sidney Lumet"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Eva Mendes has 2 daughters with this longtime boyfriend, her co-star in \"The Place Beyond the Pines\"",
+          "choices": [
+            "Ryan Gosling",
+            "Christian Bale",
+            "Bradley Cooper",
+            "Jake Gyllenhaal"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "YOU CAN QUOTE ME",
+      "questions": [
+        {
+          "clue": "Robert Frost reminds us, \"No tears in the writer, no tears in\" this person",
+          "choices": [
+            "the critic",
+            "the audience",
+            "the publisher",
+            "the reader"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "He once said, \"You have deliberately tasted two whole worms and you can leave Oxford by the next town drain\"",
+          "choices": [
+            "Professor Higgins",
+            "Father Brown",
+            "Reverend Spooner",
+            "Doctor Zhivago"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This author of \"I, Robot\" once observed, \"Life is pleasant. Death is peaceful. It's the transition that's troublesome\"",
+          "choices": [
+            "Isaac Asimov",
+            "Ray Bradbury",
+            "Arthur C. Clarke",
+            "Philip K. Dick"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It's the year Martin Luther King declared at the Lincoln Memorial, \"I have a dream\"",
+          "choices": [
+            "1963",
+            "1964",
+            "1960",
+            "1965"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Lord Acton famously said, this \"tends to corrupt\"",
+          "choices": [
+            "money",
+            "wealth",
+            "power",
+            "status"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THEATRE HISTORY",
+      "questions": [
+        {
+          "clue": "Medieval plays about the lives & miracles of these people were called miracle plays",
+          "choices": [
+            "the saints",
+            "the kings",
+            "the apostles",
+            "the prophets"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "He founded the New York Shakespeare Festival in 1954",
+          "choices": [
+            "Orson Welles",
+            "Joseph Papp",
+            "Elia Kazan",
+            "Harold Prince"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The great Greek tragic playwrights also wrote comedies about these lecherous goat-men",
+          "choices": [
+            "Satyrs",
+            "Nymphs",
+            "Centaurs",
+            "Fawns"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This famous acting couple first appeared together in 1923 in \"Sweet Nell of Old Drury\"",
+          "choices": [
+            "Branagh & McKellen",
+            "Pacino & De Niro",
+            "Lunt & Fontanne",
+            "Hepburn & Bogart"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1882 his play \"Ghosts\" had its world premiere in Chicago, not in Oslo, but it was presented in Norwegian",
+          "choices": [
+            "Ibsen",
+            "Chekhov",
+            "Strindberg",
+            "Shaw"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This two-word term describes the place on the horizon where parallel lines appear to meet",
+    "choices": [
+      "the horizon line",
+      "the eye level",
+      "the vanishing point",
+      "the focal point"
+    ],
+    "correctIndex": 2,
+    "category": "TERMS OF ART"
+  }
+}

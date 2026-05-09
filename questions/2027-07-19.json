@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-19",
+  "categories": [
+    {
+      "name": "YANKEES",
+      "questions": [
+        {
+          "clue": "3 years before marching through Georgia, he was president of a St. Louis street railway",
+          "choices": [
+            "Lee",
+            "Sherman",
+            "Jackson",
+            "Grant"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Mormon leader Brigham Young & this founder of the Mormon church were both born in Vermont",
+          "choices": [
+            "Lorenzo Snow",
+            "Joseph Smith",
+            "Heber C Kimball",
+            "Brigham Young"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "For forcing the surrender of New Orleans on April 25, 1862, he was promoted to rear admiral",
+          "choices": [
+            "Admiral Porter",
+            "General Banks",
+            "Flag Officer Foote",
+            "David Farragut"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This \"Ben hur\" author was a member of the court that tried the Lincoln assassination conspirators",
+          "choices": [
+            "General Butler",
+            "Judge Holt",
+            "Senator Wade",
+            "(Lew) Wallace"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Shortly after the outbreak of the Civil War, Lincoln appointed this \"Pathfinder\" a major general",
+          "choices": [
+            "William Sherman",
+            "Ulysses Grant",
+            "George McClellan",
+            "(John) Fremont"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ALSO A BODY PART",
+      "questions": [
+        {
+          "clue": "A tropical tree",
+          "choices": [
+            "a pine",
+            "a palm",
+            "an oak",
+            "a maple"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Hitch a ride",
+          "choices": [
+            "shoulder",
+            "elbow",
+            "wrist",
+            "thumb"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "It equals 30.48 centimeters",
+          "choices": [
+            "a foot",
+            "a yard",
+            "a meter",
+            "a mile"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A bare minimum crew",
+          "choices": [
+            "rib",
+            "jaw",
+            "skeleton",
+            "skull"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A card game participant, as in \"Sir Nigel, we need a fourth\" one \"at whist\"",
+          "choices": [
+            "head",
+            "hand",
+            "toe",
+            "chin"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ON A STAMP",
+      "questions": [
+        {
+          "clue": "A 2024 Forever stamp series celebrating this role-playing game incorporates its fire-breathing ampersand",
+          "choices": [
+            "Dungeons & Dragons",
+            "Doom",
+            "World of Warcraft",
+            "Magic the Gathering"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A round stamp used for international postage depicts this red, green & yellow holiday flower",
+          "choices": [
+            "a poinsettia",
+            "a carnation",
+            "a chrysanthemum",
+            "a tulip"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A 2021 stamp features the Colorado hairstreak, a beautiful one of these",
+          "choices": [
+            "a butterfly",
+            "a moth",
+            "a bee",
+            "a fly"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The $1 Statue of Freedom stamp depicts the head of the figure that stood atop this building since 1863",
+          "choices": [
+            "the White House",
+            "the Capitol Building",
+            "the Jefferson Memorial",
+            "the Pentagon"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Included in a set of stamps celebrating American architecture was this Pennsylvania house designed by Frank Lloyd Wright",
+          "choices": [
+            "Falling Water",
+            "Taliesin",
+            "Robie House",
+            "Unity Temple"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "It's \"here\" in French",
+    "choices": [
+      "aha",
+      "mom",
+      "pop",
+      "ici"
+    ],
+    "correctIndex": 3,
+    "category": "3-LETTER PALINDROMES"
+  }
+}

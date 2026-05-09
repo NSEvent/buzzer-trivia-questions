@@ -1,0 +1,207 @@
+{
+  "date": "2028-05-06",
+  "categories": [
+    {
+      "name": "1994",
+      "questions": [
+        {
+          "clue": "The ferry Estonia sank in this sea on September 28, killing more than 800",
+          "choices": [
+            "the Mediterranean Sea",
+            "the North Sea",
+            "the Black Sea",
+            "the Baltic Sea"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The Zapatistas took over 4 towns in Chiapas, Mexico on Jan. 1, the day this treaty took effect",
+          "choices": [
+            "GATT",
+            "CUSFTA",
+            "CAFTA",
+            "NAFTA"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This ex-CIA official who sold agents' identities to the Russians received a life sentence",
+          "choices": [
+            "Robert Hanssen",
+            "John Walker",
+            "Edward Lee Howard",
+            "Aldrich Ames"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Los Angeles was hit by a major one January 17",
+          "choices": [
+            "a tsunami",
+            "an earthquake",
+            "a hurricane",
+            "a wildfire"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In October Mike Espy announced his resignation from this cabinet post",
+          "choices": [
+            "Secretary of Agriculture",
+            "Secretary of Defense",
+            "Secretary of State",
+            "Secretary of Commerce"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TREES",
+      "questions": [
+        {
+          "clue": "In the United States, turpentine comes chiefly from the slash & long-leaf varieties of this tree",
+          "choices": [
+            "the oak",
+            "the maple",
+            "the cedar",
+            "the pine"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Pecans are the largest of these, a type of walnut tree, whose wood is popularly used in barbecues",
+          "choices": [
+            "ash",
+            "elm",
+            "hickory",
+            "beech"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This 16-letter word is the study of tree rings to determine a tree's age pattern of growth",
+          "choices": [
+            "phytogeography",
+            "mycology",
+            "palynology",
+            "dendrochronology"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The inner bark of the slippery species of this tree has been used as a thirst quencher & for medicinal purposes",
+          "choices": [
+            "oak",
+            "elm",
+            "maple",
+            "willow"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "If you don't want to say California laurel, you can use this 3-letter name instead",
+          "choices": [
+            "Pecan",
+            "Bay",
+            "Palm",
+            "Acacia"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"C\" WORLD",
+      "questions": [
+        {
+          "clue": "Taiwan honors this ancient philosopher every year on September 28",
+          "choices": [
+            "Aristotle",
+            "Plato",
+            "Socrates",
+            "Confucius"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "(Cheryl of the Clue Crew in Berlin) The Nazis blamed the 1933 Reichstag fire on this political group that may well have set it themselves",
+          "choices": [
+            "the Socialists",
+            "the Anarchists",
+            "the Monarchists",
+            "the Communists"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Pollux could have fed some of this oil to his brother of the same name",
+          "choices": [
+            "neem oil",
+            "olive oil",
+            "Castor oil",
+            "jojoba oil"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It's linked to the European mainland by the Perekop Isthmus",
+          "choices": [
+            "Scandinavia",
+            "Sicily",
+            "Iberia",
+            "Crimea (Crimean Peninsula)"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The name of this Tennessee city is from the Creek, meaning \"rock rising to a point\", not \"choo choo\"",
+          "choices": [
+            "Memphis",
+            "Nashville",
+            "Knoxville",
+            "Chattanooga"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "At the Acropolis museum in Athens, you'll find a whole gallery devoted to this ancient temple of Athena",
+    "choices": [
+      "the Parthenon",
+      "the Erechtheion",
+      "the Temple of Olympian Zeus",
+      "the Propylaea"
+    ],
+    "correctIndex": 0,
+    "category": "LET'S VISIT A MUSEUM"
+  },
+  "bonusRound": {
+    "clue": "Tall Emirati building & \"See You Again\" rapper",
+    "choices": [
+      "the Burj Al Arab & Pharrell Williams",
+      "the Palm Jumeirah & Eminem",
+      "the Burj Khalifa & Wiz Khalifa",
+      "the Dubai Marina & Snoop Dogg"
+    ],
+    "correctIndex": 2,
+    "category": "MISMATCHED PAIRS"
+  }
+}

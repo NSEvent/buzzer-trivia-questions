@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-28",
+  "categories": [
+    {
+      "name": "GOLLY \"G\"!",
+      "questions": [
+        {
+          "clue": "\"Colorful\" 9-letter word used derisively of an immigrant unfamiliar with American life",
+          "choices": [
+            "a greenblatt",
+            "a greystone",
+            "a greenhorn",
+            "a greenback"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "January is the first month of the year on this, first used in 1582",
+          "choices": [
+            "the Julian calendar",
+            "the Gregorian calendar",
+            "the Gregorian anthem",
+            "the Gregorian chant"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This 64-square-mile lake is really just a broad basin of the Jordan River",
+          "choices": [
+            "the Sea of Galahad",
+            "the Sea of Galilee",
+            "the Sea of Galilea",
+            "the Sea of Galileo"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "He's the cutting-edge composer of works like \"Koyaanisqatsi\"",
+          "choices": [
+            "Philip Glass",
+            "Philip Pullman",
+            "Philip Seymour",
+            "Philip Roth"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A short prayer of thanks said before a meal, it's from the Latin for \"favor\"",
+          "choices": [
+            "amen",
+            "blessing",
+            "grace",
+            "gratitude"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SPORTS-POURRI",
+      "questions": [
+        {
+          "clue": "...& the No. 1 reason it's good to be this late-night TV host... he co-owned the winner of the 2004 Indy 500",
+          "choices": [
+            "Jay Leno",
+            "David Letterman",
+            "Conan O'Brien",
+            "Jimmy Fallon"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In cricket, the only defensive player who wears gloves is the guy in charge of keeping this vital thing",
+          "choices": [
+            "the crease",
+            "the boundary",
+            "the stump",
+            "the wicket"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This floppy-haired Giants ace pitcher started the 2010 World Series-winning game",
+          "choices": [
+            "Barry Zito",
+            "Matt Cain",
+            "(Tim) Lincecum",
+            "Tim Hudson"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This NHL \"Golden Brett\" said coach Mike Keenan was \"the kind of guy who will stab you in the back right to your face\"",
+          "choices": [
+            "Brendan Shanahan",
+            "Brett Hull",
+            "Mario Lemieux",
+            "Wayne Gretzky"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 2014, 260 years after its founding, this legendary golf club finally agreed to accept female members",
+          "choices": [
+            "Pebble Beach",
+            "St. Andrews",
+            "Augusta National",
+            "Carnoustie"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"BACK\" WORDS",
+      "questions": [
+        {
+          "clue": "It's a return to former popularity; John Travolta made one in \"Pulp Fiction\"",
+          "choices": [
+            "a comeback",
+            "a breakthrough",
+            "a revival",
+            "a resurgence"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "L.A.'s Century City stands on what was once this part of 20th Century-Fox",
+          "choices": [
+            "backlot",
+            "backdrop",
+            "background",
+            "backstage"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "It's the wood at the rear of a hearth, or, more commonly, all those unperformed tasks",
+          "choices": [
+            "a backlog of tasks",
+            "backwater",
+            "a backlog",
+            "backfire"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A snarl on a fishing line, or sharling against socio-political changes",
+          "choices": [
+            "backdoor",
+            "backseat",
+            "backbone",
+            "backlash"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "German for twice-baked, it's as often gummed as chewed",
+          "choices": [
+            "baklava",
+            "zwieback",
+            "biscuit",
+            "pancake"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Edinburgh, Scotland, home to many a thinker: This Greek city \"of the North\"",
+    "choices": [
+      "Rome",
+      "Athens",
+      "Athens, Georgia",
+      "Thebes"
+    ],
+    "correctIndex": 1,
+    "category": "CITY NICKNAMES"
+  }
+}

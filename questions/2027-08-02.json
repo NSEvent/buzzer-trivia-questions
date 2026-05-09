@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-02",
+  "categories": [
+    {
+      "name": "WRITERS' RELATIVES",
+      "questions": [
+        {
+          "clue": "Heading it in the 1930s, her father Eugene was the second president of the Atlanta Historical Society",
+          "choices": [
+            "Fannie Flagg",
+            "Alice Walker",
+            "Margaret Mitchell",
+            "Harper Lee"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This poet's grandfather, Gen. Peleg Wadsworth, built the first brick home in Portland, Maine",
+          "choices": [
+            "Ralph Waldo Emerson",
+            "Nathaniel Hawthorne",
+            "(Henry Wadsworth) Longfellow",
+            "James Russell Lowell"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "His father Emmet, a country doctor, gave him much of the background for Dr. Kennicott in his novel \"Main Street\"",
+          "choices": [
+            "Toni Morrison",
+            "Ernest Hemingway",
+            "F. Scott Fitzgerald",
+            "Sinclair Lewis"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This \"Naked Lunch\" author was named for his paternal grandfather, who invented the adding machine",
+          "choices": [
+            "(William) Burroughs",
+            "JG Ballard",
+            "Gore Vidal",
+            "Hunter S Thompson"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This \"Ship of Fools\" author was a descendant of Daniel Boone's brother & a cousin of O. Henry",
+          "choices": [
+            "Mark Twain",
+            "William Faulkner",
+            "Katherine Anne Porter",
+            "Ernest Hemingway"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LITERARY ADJECTIVES",
+      "questions": [
+        {
+          "clue": "Resembling the totalitarian future described in \"1984\"",
+          "choices": [
+            "dystopian",
+            "brave new world",
+            "orwellian",
+            "1984-esque"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "8 letters: a type of \"bargain\" with the devil, named for a man who made such a deal",
+          "choices": [
+            "Promethean",
+            "Mephistophelian",
+            "Bargain-based",
+            "Faustian"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "10 letters: after the author of \"A Hunger Artist\", it means marked by surreal distortion",
+          "choices": [
+            "metamorphic",
+            "Borgesian",
+            "surrealistic",
+            "Kafkaesque"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "7 letters: adjective for works like \"Arms and the Man\"",
+          "choices": [
+            "Romantic",
+            "Victorian",
+            "Shavian",
+            "Modern"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In a word, \"Like Pantagruel's father\"",
+          "choices": [
+            "gargantuan",
+            "colossal",
+            "enormous",
+            "massive"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"ACK\"!",
+      "questions": [
+        {
+          "clue": "This 1877 Anna Sewell novel helped establish the pony story as a popular genre in England",
+          "choices": [
+            "Old Yeller",
+            "Rascal",
+            "Benji",
+            "\"Black Beauty\""
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A needle's proverbial best hiding place",
+          "choices": [
+            "a haystack",
+            "a needle case",
+            "a sewing kit",
+            "a fabric swatch"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "If you're \"taken\" this way, also a nautical term, you're surprised",
+          "choices": [
+            "in shock",
+            "taken aback",
+            "caught off guard",
+            "aback"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Future cancer researcher William Thilly had the idea for this cereal as a Kellogg's intern in 1965",
+          "choices": [
+            "Fruit Loops",
+            "Apple Jacks",
+            "Cinnamon Toast Crunch",
+            "Golden Grahams"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This \"body part\" type of compliment is ambiguous & insincere",
+          "choices": [
+            "backseat",
+            "backdoor",
+            "backhanded",
+            "background"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In the 1930s Socony-Vacuum started selling gas under this brand name using a flying red horse logo",
+    "choices": [
+      "Chevron",
+      "Exxon",
+      "Gulf",
+      "Mobil"
+    ],
+    "correctIndex": 3,
+    "category": "GAS"
+  }
+}

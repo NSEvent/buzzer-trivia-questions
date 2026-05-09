@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-02",
+  "categories": [
+    {
+      "name": "MEDICAL SPECIALTIES",
+      "questions": [
+        {
+          "clue": "When you have skin problems like acne or rosacea, you go to this type of doctor",
+          "choices": [
+            "a cardiologist",
+            "a dermatologist",
+            "a dermatome",
+            "a podiatrist"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Someone who's trained to put patients to sleep before surgery is called this",
+          "choices": [
+            "Anatomist",
+            "Anesthesiometry",
+            "Anesthesiograph",
+            "Anesthesiologist"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Disorders of the brain & nervous system are the concern of this medical specialist",
+          "choices": [
+            "Oncologist",
+            "Psychiatrist",
+            "Neurologist",
+            "Orthopedist"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Allergy & this \"I\" specialty are usually paired",
+          "choices": [
+            "infectiologist",
+            "immunizer",
+            "immunologist",
+            "immunizationist"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Palliative medicine goes hand in hand with this type of end-of-life care, providing comfort to both the patient & their family",
+          "choices": [
+            "hospice",
+            "respite",
+            "remedy",
+            "rehab"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "12-LETTER WORDS",
+      "questions": [
+        {
+          "clue": "Person to whom you would sing, \"Mapmaker, mapmaker, make me a map\"",
+          "choices": [
+            "geographer",
+            "topographer",
+            "astronomer",
+            "cartographer"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It was a scornful term for a Northerner who went to the South after the Civil War to profit from Reconstruction",
+          "choices": [
+            "carpetbomber",
+            "carpetbagger",
+            "carpetlayer",
+            "carpetmaker"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This lyre-shaped instrument played with hammers is most often seen in marching bands",
+          "choices": [
+            "xylophone",
+            "marimba",
+            "glockenspiel",
+            "vibraphone"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "From the Greek for \"stopping of the pulse\", it's another term for suffocation",
+          "choices": [
+            "Asphyxiation",
+            "Hypothermia",
+            "Oxygenation",
+            "Intubation"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Type of cloud that's also called a thunderhead",
+          "choices": [
+            "a cumulonimbus",
+            "a stratus",
+            "a cirrus",
+            "a nimbostratus"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "JANUARY",
+      "questions": [
+        {
+          "clue": "Nickname of the Notre Dame group which played their last game together January 1,1925",
+          "choices": [
+            "the Fighting Irish",
+            "the Golden Girls",
+            "the Gridiron Giants",
+            "the Four Horsemen"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The Treaty of this place, imposing reparations on Germany, took effect January 10, 1920",
+          "choices": [
+            "Versailles",
+            "Glasgow",
+            "Vienna",
+            "Geneva"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The U.S. slapped down $25 mil to buy this island group from Denmark January 17, 1917",
+          "choices": [
+            "the U.S. Virgin Islands",
+            "the British Virgin Islands",
+            "the U.S. territories",
+            "Puerto Rico"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Born Jan. 11, 1755 in the West Indies, he became the 1st Secretary of the U.S. treasury",
+          "choices": [
+            "Alexander Hamilton",
+            "Thomas Jefferson",
+            "James Madison",
+            "Aaron Burr"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Team which lost the first Super Bowl in 1967 but won the 4th in 1970",
+          "choices": [
+            "the Green Bay Packers",
+            "the Baltimore Colts",
+            "the Dallas Cowboys",
+            "the Kansas City Chiefs"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Throw spheroid called horsehide, but not always made of such, run 360 feet to score, get $252 million contract",
+    "choices": [
+      "Cricket",
+      "Baseball",
+      "Softball",
+      "Rounders"
+    ],
+    "correctIndex": 1,
+    "category": "DESCRIBING THE SPORT"
+  }
+}

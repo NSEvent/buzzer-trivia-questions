@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-06",
+  "categories": [
+    {
+      "name": "LIQUEURS",
+      "questions": [
+        {
+          "clue": "If you wake up & smell this, it could be Kahlua or Pasha",
+          "choices": [
+            "tea",
+            "cocoa",
+            "espresso",
+            "coffee"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It takes 7 years to go from coffee bean to a bottle of this Mexican liqueur brand",
+          "choices": [
+            "Tia Maria",
+            "Amaretto",
+            "Kahl\u00faa",
+            "Grand Marnier"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Here, Manet depicted a drinker of this liqueur, made from wormwood",
+          "choices": [
+            "absinthe",
+            "vermouth",
+            "sambuca",
+            "fernet"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "French monks have made this brightly colored herbal liqueur since 1737",
+          "choices": [
+            "Campari",
+            "Benedictine",
+            "Underberg",
+            "Chartreuse"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Herbs, heather honey & this liquor are blended in Drambuie",
+          "choices": [
+            "brandy",
+            "whisky",
+            "scotch",
+            "gin"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "UNITS OF MEASURE",
+      "questions": [
+        {
+          "clue": "The energy content of food is measured in these well-watched units",
+          "choices": [
+            "grams",
+            "ounces",
+            "calories",
+            "pounds"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The scale on the bottom of a sextant is in these units",
+          "choices": [
+            "inches",
+            "degrees",
+            "minutes",
+            "seconds"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Atmos\", divers can endure pressure of about 6 of these units, each 14.7 pounds per square inch",
+          "choices": [
+            "meters",
+            "feet",
+            "atmospheres",
+            "yards"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The EPA standard for carbon monoxide exposure includes 35 of these \"parts\"",
+          "choices": [
+            "parts per billion",
+            "parts per million",
+            "parts per billionth",
+            "parts per thousand"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "1/12 of the starry night; the main may be in the 7th one",
+          "choices": [
+            "room",
+            "apartment",
+            "flat",
+            "house"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "KIDDIE LIT",
+      "questions": [
+        {
+          "clue": "German legend best-known in English through Robert Browning's rodent rhyme",
+          "choices": [
+            "The Pied Piper of Rotherham",
+            "The Pied Piper of Amsterdam",
+            "The Pied Piper of Leipzig",
+            "The Pied Piper of Hamelin"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Pollyanna's favorite 4-letter word, it's a synonym for \"happy\"",
+          "choices": [
+            "joy",
+            "glad",
+            "merry",
+            "cheer"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This craftman's wife made clothes & knitted stockings for 2 elves, but they left his shop & never came back",
+          "choices": [
+            "the carpenter",
+            "the cobbler",
+            "the tailor",
+            "the shoemaker"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Lewis Carroll asked \"will you, won't you, will you, won't you join\" this",
+          "choices": [
+            "the lobster quadrille",
+            "the walrus and the carpenter",
+            "the turtle's tale",
+            "the hatter's tea party"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Published in 1915, \"The Lost Prince\" was the last children's book by this author of \"The Secret Garden\"",
+          "choices": [
+            "Louisa May Alcott",
+            "Beatrix Potter",
+            "(Frances Hodgson) Burnett",
+            "E. Nesbit"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Jim Carrey voices an elephant that heads to Toon Town to solve a murder with Bob Hoskins in this animated classic",
+    "choices": [
+      "Who Framed Roger Rabbit",
+      "Horton Hears a Who Framed Roger Rabbit",
+      "The Iron Giant",
+      "Monsters, Inc."
+    ],
+    "correctIndex": 1,
+    "category": "BEFORE & AFTER GOES TO THE MOVIES"
+  }
+}

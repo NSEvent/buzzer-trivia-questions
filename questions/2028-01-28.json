@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-28",
+  "categories": [
+    {
+      "name": "A LOOK AT BOOKS",
+      "questions": [
+        {
+          "clue": "In 1932 Pearl Buck's \"Sons\" was a No. 3 bestseller; this other Buck book held the top spot",
+          "choices": [
+            "The House of Earth",
+            "The Good Earth",
+            "The Fighting Ground",
+            "A House Divided"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "By prosecutor Vincent Bugliosi, \"Helter Skelter\" reveals the facts behind the crimes of this so-called family",
+          "choices": [
+            "Leigh",
+            "Manson",
+            "Babitt",
+            "Kemper"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Hearts Insurgent\" is an abridged form of the novel called him \"the Obscure\"",
+          "choices": [
+            "Troy",
+            "Suffolk",
+            "Jude",
+            "North"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Yann Martel named the tiger in \"Life of Pi\" after this shipwreck victim in Edgar Allan Poe's \"Narrative of Arthur Gordon Pym\"",
+          "choices": [
+            "Edgar Allan",
+            "Pyrgo",
+            "Richard Parker",
+            "Augustus"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Girl with curious hair\", with a tale of a \"Jeopardy!\" win streak, is a story collection by this late author of a looong novel",
+          "choices": [
+            "John Irving",
+            "(David Foster) Wallace",
+            "Don DeLillo",
+            "Thomas Pynchon"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE SON ALSO RISES",
+      "questions": [
+        {
+          "clue": "In 2000, after completing his studies at Eton, this heir headed for the jungles of Central America",
+          "choices": [
+            "Prince Harry",
+            "Prince Edward",
+            "Prince Charles",
+            "Prince William"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "His grandfather was prime minister of India, & so was his mother",
+          "choices": [
+            "Rahul Gandhi",
+            "Rajiv Gandhi",
+            "Manmohan Singh",
+            "Indira Gandhi"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "You may have \"Red\" about his father, Erik, but he was so successful he was nicknamed \"The Lucky\"",
+          "choices": [
+            "Leif Erikson",
+            "Leif Ericson",
+            "Erik the Red",
+            "Thorvald Asvaldsson"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "On May 14, 1643 the Sun rose on the reign of this 4-year-old king whose father had died at age 42",
+          "choices": [
+            "Henry IV",
+            "James II",
+            "Charles II",
+            "Louis XIV"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This only son of Prince Andrew of Greece became a British subject in 1947 & gained a dukedom",
+          "choices": [
+            "Prince Edward",
+            "Prince Charles",
+            "Prince Andrew",
+            "Prince Philip"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FLOWER POWER",
+      "questions": [
+        {
+          "clue": "This lily blooms & dies within 24 hours & has a name that reflects its brief life",
+          "choices": [
+            "a daylilly",
+            "the morning glory",
+            "the epiphyllum",
+            "the tulip"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This flower produces a latex in its seeds from which codeine is derived",
+          "choices": [
+            "cotton plants",
+            "rubber trees",
+            "poppies",
+            "dandelions"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "I can't recall the last time that I saw one of these hyphenated perennials, from the Old French \"Ne m'oubliez mie\"",
+          "choices": [
+            "bluebell",
+            "hyacinth",
+            "forget-me-not",
+            "violet"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The poem \"I Wandered Lonely as a Cloud\" says, \"All at once I saw a crowd, a host, of golden\" these flowers",
+          "choices": [
+            "tulips",
+            "daffodils",
+            "pansies",
+            "marigolds"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The oil made from this purple flower is used in perfumes and cosmetics",
+          "choices": [
+            "jasmine",
+            "lavender",
+            "rosemary",
+            "chamomile"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "These mountains form the natural boundary between European Russia & Asian Siberia",
+    "choices": [
+      "the Urals",
+      "the Alps",
+      "the Andes",
+      "the Himalayas"
+    ],
+    "correctIndex": 0,
+    "category": "RUSSIA"
+  }
+}

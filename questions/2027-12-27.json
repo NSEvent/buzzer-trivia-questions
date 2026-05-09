@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-27",
+  "categories": [
+    {
+      "name": "SHAPE UP!",
+      "questions": [
+        {
+          "clue": "This chess piece can only move in an L-shape",
+          "choices": [
+            "the knight",
+            "the bishop",
+            "the rook",
+            "the queen"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The shape created by two interlocking circles is called a vesica piscis, Latin for this bladder",
+          "choices": [
+            "shrimp",
+            "eel",
+            "fish",
+            "trout"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Connect two semicircles with parallel lines & you have this shape, named for a type of arena",
+          "choices": [
+            "a coliseum",
+            "a stadium",
+            "a theater",
+            "an amphitheater"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Regular exercise boosts HDL, high-density this (\"good\" cholesterol), while decreasing triglycerides",
+          "choices": [
+            "lipoprotein",
+            "carbohydrate",
+            "protein",
+            "vitamin"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Time to take your talents to this Arthur Agatston \"diet\"; one book is \"Quick and Easy\"' another, \"Supercharged\"",
+          "choices": [
+            "South Beach",
+            "Atkins",
+            "Paleo",
+            "Zone"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SHELLFISH",
+      "questions": [
+        {
+          "clue": "2 edible types of this shellfish found on the Pacific coast of North America are the Red King & Dungeness",
+          "choices": [
+            "lobsters",
+            "crabs",
+            "shrimp",
+            "prawns"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "It's really an old wives' tale that it's unsafe to eat this bivalve in months without an \"R\" in their name",
+          "choices": [
+            "scallops",
+            "clams",
+            "mussels",
+            "oysters"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In the southern U.S., one can often see the mud mounds around the burrows created by this crustacean",
+          "choices": [
+            "crawfish",
+            "crickets",
+            "spiders",
+            "crayfish"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Some of these shellfish, such as genus Crangon, change color to fit surroundings; maybe to cocktail-sauce red?",
+          "choices": [
+            "shrimp",
+            "lobster",
+            "crab",
+            "prawn"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The name of this fan-shaped shellfish is from the French for \"shell\"",
+          "choices": [
+            "a scallop",
+            "an oyster",
+            "a clam",
+            "a mussel"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SPECIAL DAYS",
+      "questions": [
+        {
+          "clue": "I can smell it in the oven\u2014be it white, wheat or sourdough, November 17 is Homemade this Day",
+          "choices": [
+            "bread",
+            "cake",
+            "cookies",
+            "pastries"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "On Powder House Day this Conn. college town reenacts Benedict Arnold (still a good guy in 1775) standing up for the colonists",
+          "choices": [
+            "Stamford",
+            "New Haven",
+            "Hartford",
+            "Waterbury"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Mid-June brings World this Day; give me 3 balls, 3 rings or better yet 3 flaming torches & I'll show you!",
+          "choices": [
+            "juggling",
+            "unicycling",
+            "acrobatics",
+            "clowning"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "July 13 honors these side orders, whether matchstick or shoestring",
+          "choices": [
+            "french fries",
+            "potato chips",
+            "onion rings",
+            "mashed potatoes"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "July 12 celebrates those like Jane Seymour & Kate Bosworth who have heterochromia, meaning this",
+          "choices": [
+            "cross-eyed vision",
+            "double vision",
+            "different-colored eyes",
+            "color blindness"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A review of this Laura Esquivel book calls it \"A Cookbook!, no, it's a memoir! No, it's a novel!\"",
+    "choices": [
+      "Like Water for Chocolate",
+      "The House of the Spirits",
+      "One Hundred Years of Solitude",
+      "Love in the Time of Cholera"
+    ],
+    "correctIndex": 0,
+    "category": "BESTSELLERS"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2028-01-01",
+  "categories": [
+    {
+      "name": "FARAWAY PLACES",
+      "questions": [
+        {
+          "clue": "You'd find Mauritius, the Maldives, & Madagascar in this ocean",
+          "choices": [
+            "the Atlantic Ocean",
+            "the Pacific Ocean",
+            "the Indian Ocean",
+            "the Southern Ocean"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1999 all of Nunavut became a territory in this country, the second largest in area in the world",
+          "choices": [
+            "Canada",
+            "Russia",
+            "China",
+            "United States"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Tours in this faraway land include a safari in Royal Chitwan National Park & rafting trips near Katmandu",
+          "choices": [
+            "Nepal",
+            "India",
+            "Bhutan",
+            "Pakistan"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A city \"Uz\"ing culture, Samarkand in this former Soviet republic is the site of Tamerlane's tomb",
+          "choices": [
+            "Uzbekistan",
+            "Kazakhstan",
+            "Kyrgyzstan",
+            "Tajikistan"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "If your bags bear a \"KUL\" airport code, they're headed for the capital of this Asian country",
+          "choices": [
+            "Singapore",
+            "Thailand",
+            "Malaysia",
+            "Indonesia"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CIVIL WAR GENERALS",
+      "questions": [
+        {
+          "clue": "Driving the Confederates off Missionary Ridge near Chattanooga in Nov. 1863 made him a national hero",
+          "choices": [
+            "William Tecumseh Sherman",
+            "Philip Sheridan",
+            "William Rosecrans",
+            "Ulysses S. Grant"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Replaced by Pres. Lincoln on November 7, 1862, he challenged the president as the Democratic nominee in 1864",
+          "choices": [
+            "Ambrose Burnside",
+            "(George) McClellan",
+            "Don Carlos Buell",
+            "Joseph Hooker"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Known as \"Young Napoleon\" & \"Little Mac\", he served as governor of New Jersey after the war",
+          "choices": [
+            "George Pickett",
+            "James Longstreet",
+            "George McClellan",
+            "Jubal Early"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Nicknamed \"Fighting Joe\", he replaced Ambrose Burnside as commander of the Army of the Potomac in 1863",
+          "choices": [
+            "George Meade",
+            "John Reynolds",
+            "(Joe) Hooker",
+            "Joseph K. Mansfield"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In the Shenandoah Valley in 1862, this \"granite-like\" Virginian's 17,000 men defeated 60,000 Union troops",
+          "choices": [
+            "Stonewall Jackson",
+            "James Longstreet",
+            "J.E.B. Stuart",
+            "Richard Ewell"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"P.M.\"",
+      "questions": [
+        {
+          "clue": "In a familiar old song, it's \"sailing over a cardboard sea\"",
+          "choices": [
+            "Paper Tiger",
+            "\"Paper Moon\"",
+            "Cardboard Box",
+            "Cardboard City"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Sinanthropus pekinensis is another name for this Homo erectus whose remains were discovered in the 1920s",
+          "choices": [
+            "Peking Man",
+            "Java Man",
+            "Zhoukoudian Man",
+            "Peking Woman"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In \"Cool Hand Luke\", Paul Newman is sent to a chain gang camp as punishment for destroying these",
+          "choices": [
+            "traffic lights",
+            "bus stops",
+            "park benches",
+            "parking meters"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Longitude east & west is reckoned by this, which runs through Greenwich, England",
+          "choices": [
+            "the Equator",
+            "the Prime Meridian",
+            "the International Date Line",
+            "the Tropic of Cancer"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "While at LSU he became college basketball's first point-a-minute scorer",
+          "choices": [
+            "Pete Maravich",
+            "Oscar Robertson",
+            "Jerry West",
+            "Lenny Wilkens"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Fast on the buzzer now: it means \"hurry hurry\"",
+    "choices": [
+      "Wiki wiki hula",
+      "Wiki wiki no go",
+      "Wiki wiki",
+      "Wiki wiki aloha"
+    ],
+    "correctIndex": 2,
+    "category": "SPEAK IN HAWAIIAN"
+  },
+  "bonusRound": {
+    "clue": "This Canadian who built steamboats is even more famous for the brewery he built in Montreal in 1786",
+    "choices": [
+      "Labatt",
+      "Moosehead",
+      "Alexander Keith's",
+      "Molson"
+    ],
+    "correctIndex": 3,
+    "category": "IF YOU BUILD IT..."
+  }
+}

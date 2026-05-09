@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-02",
+  "categories": [
+    {
+      "name": "FOR RICHARD",
+      "questions": [
+        {
+          "clue": "\"There's a small hotel\" is a tune from \"Pal Joey\" by him & Lorenz Hart",
+          "choices": [
+            "Oscar Hammerstein",
+            "George Gershwin",
+            "Richard Rodgers",
+            "Cole Porter"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Accounts vary as to whether Richard Worley, who flew the \"skull &\" these, was hanged or killed fighting in 1719",
+          "choices": [
+            "crossed swords",
+            "crossbones",
+            "skull and cross",
+            "skull and bones"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This English scholar was the first European to discover Lake Tanganyika",
+          "choices": [
+            "David Livingstone",
+            "Henry Stanley",
+            "Sir Richard Burton",
+            "John Hanning Speke"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In this city in 1948, SS general Richard Hildebrandt was convicted of crimes against humanity",
+          "choices": [
+            "Frankfurt",
+            "Leipzig",
+            "Nuremberg",
+            "Berlin"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This American physicist won a 1965 Nobel Prize for his work on the interaction of light & matter",
+          "choices": [
+            "Richard Feynman",
+            "Robert Oppenheimer",
+            "Ernest Rutherford",
+            "Paul Dirac"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ONE-WORD PLAY TITLES",
+      "questions": [
+        {
+          "clue": "\"Double, double toil and trouble\" is a famous line from this tragedy",
+          "choices": [
+            "Hamlet",
+            "Macbeth",
+            "Othello",
+            "King Lear"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This play ends with Salieri saying, \"Mediocrities everywhere\u2014now & to come\u2014I absolve you all. Amen!\"",
+          "choices": [
+            "Leopoldstadt",
+            "Amadeus",
+            "Mozart",
+            "Salieri"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In this play named for a Danish city, the spirits of Heisenberg & Niels Bohr come together to discuss a meeting they once had there",
+          "choices": [
+            "Heisenberg",
+            "Gotham",
+            "Copenhagen",
+            "Berlin"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This Pulitzer Prize-winner by Margaret Edson tells of English professor Vivian Bearing, diagnosed with terminal cancer",
+          "choices": [
+            "Death",
+            "Life",
+            "Wit",
+            "Mind"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This Moliere comedy about an imposter was first performed for King Louis XIV at Versailles in 1664",
+          "choices": [
+            "Misanthrope",
+            "Tartarin",
+            "Tartuffe",
+            "Don Juan"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CROSSWORD CLUES \"V\"",
+      "questions": [
+        {
+          "clue": "Spike sport (10)",
+          "choices": [
+            "volleyball",
+            "volley",
+            "basketball",
+            "badminton"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Cellar item seller (7)",
+          "choices": [
+            "brewer",
+            "distiller",
+            "merchant",
+            "vintner"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"Tender\" eats for felines (7)",
+          "choices": [
+            "vitae",
+            "vittles",
+            "visits",
+            "violet"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Orchid with a tasty bean (7)",
+          "choices": [
+            "violet",
+            "varnish",
+            "vanilla",
+            "vandal"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Lice or mice (6 letters)",
+          "choices": [
+            "verbal",
+            "vermin",
+            "verses",
+            "vectors"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Jews, who don't eat or drink at all on Yom Kippur, might envy the 1-meal Catholic \"fast\" on Ash Wednesday & this day",
+    "choices": [
+      "Good Friday",
+      "Holy Thursday",
+      "Maundy Thursday",
+      "Easter Sunday"
+    ],
+    "correctIndex": 0,
+    "category": "CATHOLICISM"
+  }
+}

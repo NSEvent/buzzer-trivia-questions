@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-21",
+  "categories": [
+    {
+      "name": "ANCIENT SCIENCE",
+      "questions": [
+        {
+          "clue": "Democritus believed these tiny particles were inert solids that interact mechanically",
+          "choices": [
+            "elements",
+            "atoms",
+            "moieties",
+            "quanta"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Greek physician Praxagoras noted that pulsation is found in these, not veins; he did, however, believe they carried air",
+          "choices": [
+            "veins",
+            "arteries",
+            "capillaries",
+            "nerves"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Around 270 B.C. Aristarchus calculated that its distance was 60 times the radius of the earth \u2014 he was pretty darn close",
+          "choices": [
+            "distance to the sun",
+            "(distance to) the moon",
+            "distance to Mars",
+            "distance to Saturn"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Greek who 1st used math to tune an instrument, he's more famous for a triangle",
+          "choices": [
+            "Pythagoras",
+            "Euclid",
+            "Archimedes",
+            "Thales"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Insects are covered in book 11 & botany in books 12-19 of this Roman scholar's \"Natural History\"",
+          "choices": [
+            "Pliny the Elder",
+            "Pliny the Younger",
+            "Seneca the Younger",
+            "Aristotle"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE BOSS",
+      "questions": [
+        {
+          "clue": "Since 1974, they've been the band that backs up the Boss",
+          "choices": [
+            "E Street Band",
+            "The E-Street Horns",
+            "Jersey Devils",
+            "Asbury Jukes"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The boss has lots of stories from his years at this insurance company that's \"Like a good neighbor\"",
+          "choices": [
+            "State Farm",
+            "Allstate",
+            "Farmers Insurance",
+            "GEICO"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In May 1985, he broke many female hearts by marrying this actress",
+          "choices": [
+            "Julianne Phillips",
+            "Patti Scialfa",
+            "Jessica Lange",
+            "Cybill Shepherd"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Bruce was indeed born in the U.S.A.\u2014in this town, in fact",
+          "choices": [
+            "Asbury Park, New Jersey",
+            "Hoboken, New Jersey",
+            "New York City, New York",
+            "Freehold, New Jersey"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The boss is scaring me; he's acting weird & and growing his nails long, like this guy who sold his TWA shares for $500 million in 1966",
+          "choices": [
+            "John D. Rockefeller",
+            "Andrew Carnegie",
+            "John Jacob Astor",
+            "Howard Hughes"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHAT'S \"NEW\"?",
+      "questions": [
+        {
+          "clue": "Collective term for the Western Hemisphere after Columbus' voyages",
+          "choices": [
+            "the New Frontier",
+            "the New Deal",
+            "the New Republic",
+            "the New World"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Here's a revelation: it consists of 27 books including Revelation",
+          "choices": [
+            "the New Testament Apocrypha",
+            "the New Testament",
+            "the Book of Mormon",
+            "the New Psalter"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In February 2002 this NFL team's Foxboro stadium was demolished",
+          "choices": [
+            "the New York Jets",
+            "the New Orleans Saints",
+            "the New England Patriots",
+            "the New England Revolution"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This \"Gray Lady\" published its first issue on September 18, 1851",
+          "choices": [
+            "The New York Times",
+            "The New Yorker",
+            "The New York Post",
+            "The Boston Globe"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "There was an uptick in scientific knowledge when he published \"Opticks\" in 1704",
+          "choices": [
+            "(Sir Isaac) Newton",
+            "(Sir) Edmund Halley",
+            "(Sir) Christopher Wren",
+            "(Sir) Francis Bacon"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Leaping insects! This pie is actually made with creme de menthe, not with the bug in its name",
+    "choices": [
+      "grasshopper",
+      "cricket",
+      "cicada",
+      "grasshopper jelly"
+    ],
+    "correctIndex": 0,
+    "category": "PIE-POURRI"
+  }
+}

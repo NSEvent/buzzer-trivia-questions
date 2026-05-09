@@ -1,0 +1,207 @@
+{
+  "date": "2028-01-22",
+  "categories": [
+    {
+      "name": "\"MOTHER\", \"FATHER\", \"SISTER\", \"BROTHER\"",
+      "questions": [
+        {
+          "clue": "Bearded codger carrying a scythe & an hourglass",
+          "choices": [
+            "Grandfather Winter",
+            "Reaper of Years",
+            "Father Time",
+            "Eternal Harvester"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Seattle has about 20 of these, including Kobe, Mombasa & Gdynia",
+          "choices": [
+            "cousin towns",
+            "partner municipalities",
+            "sister cities",
+            "friend regions"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Produced by certain mollusks, it's also known as nacre",
+          "choices": [
+            "the Mother of Pearl",
+            "the Father of Iridescence",
+            "the Sister of Shells",
+            "the Brother of Oysters"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The inner iridescent layers of the shells of many bivalve mollusks",
+          "choices": [
+            "father of shells",
+            "sister of iridescence",
+            "brother of nacre",
+            "mother of pearl"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Though he had no biological kids of his own, George Washington is known by this paternal nickname",
+          "choices": [
+            "the Father of the Nation",
+            "the President of his People",
+            "the Father of his Country",
+            "the Father of his State"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SWEET!",
+      "questions": [
+        {
+          "clue": "Butter is an ingredient of this hard candy that has \"butter\" in its name; the rest of its name doesn't refer to whisky",
+          "choices": [
+            "buttercream",
+            "butterscotch",
+            "butterfinger",
+            "butterfingers"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Columbus native Buster Douglas was a 1990s champion in this sport dubbed \"The Sweet Science\"",
+          "choices": [
+            "boxing",
+            "wrestling",
+            "fencing",
+            "pugilism"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A red cake named for this smooth fabric is really a chocolate cake\u2014food coloring gives it the distinctive color",
+          "choices": [
+            "satin",
+            "velvet",
+            "velour",
+            "corduroy"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "According to the spiritual, one of these is \"comin' for to carry me home\"",
+          "choices": [
+            "sweet chariot",
+            "bitter train",
+            "sour bus",
+            "harsh wagon"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A confection called a kiss is baked this: sugar & stiffly beaten egg whites",
+          "choices": [
+            "souffle",
+            "meringue",
+            "curd",
+            "custard"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CLASSIC TV DRAMA EPISODES",
+      "questions": [
+        {
+          "clue": "1964: \"Ponderosa Matador\"",
+          "choices": [
+            "Rawhide",
+            "Gunsmoke",
+            "The Rifleman",
+            "Bonanza"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"Ewing vs. Ewing\"",
+          "choices": [
+            "Dynasty",
+            "Dallas",
+            "Knots Landing",
+            "Falcon Crest"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "1997: \"Welcome To The Hellmouth\"",
+          "choices": [
+            "Babylon 5",
+            "Angel",
+            "Smallville",
+            "Buffy the Vampire Slayer"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "1967: \"The Squire of Gothos\"",
+          "choices": [
+            "Star Wars",
+            "Star Trek",
+            "Star Trek: The Next Generation",
+            "The Twilight Zone"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "1974: \"Matt Dillon Must Die\"",
+          "choices": [
+            "Bonanza",
+            "Gunsmoke",
+            "Rawhide",
+            "The Rifleman"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The wilderness was terrible, there were fiery serpents, scorpions & you had to get this out of a rock!",
+    "choices": [
+      "Manna",
+      "Water",
+      "Blood",
+      "Oil"
+    ],
+    "correctIndex": 1,
+    "category": "DEUTERONOMY"
+  },
+  "bonusRound": {
+    "clue": "From a T.S. Eliot poem: \"In the room the women come and go talking of\" this Italian master",
+    "choices": [
+      "Leonardo",
+      "Raphael",
+      "Michelangelo",
+      "Donatello"
+    ],
+    "correctIndex": 2,
+    "category": "PEOPLE IN POETRY"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-26",
+  "categories": [
+    {
+      "name": "PROVINCES",
+      "questions": [
+        {
+          "clue": "Bataan & Quezon",
+          "choices": [
+            "the Caribbean",
+            "the Middle East",
+            "the Philippines",
+            "Southeast Asia"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Leon & Segovia",
+          "choices": [
+            "Italy",
+            "Greece",
+            "Spain",
+            "Portugal"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Punjab & Sindh are 2 of its 4 provinces",
+          "choices": [
+            "India",
+            "Iran",
+            "Afghanistan",
+            "Pakistan"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This former province at the southern tip of Africa took up half the area of South Africa",
+          "choices": [
+            "Cape Province",
+            "Orange Free State",
+            "Transvaal",
+            "KwaZulu-Natal"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Limpopo & Northern Cape",
+          "choices": [
+            "South Africa",
+            "Kenya",
+            "Nigeria",
+            "Egypt"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COLONIAL AMERICANS",
+      "questions": [
+        {
+          "clue": "On June 23, 1683 this Quaker signed a treaty with the Delaware Indians",
+          "choices": [
+            "John Smith",
+            "Roger Williams",
+            "William Penn",
+            "Thomas Hooker"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1622 John Rolfe, widower of this Indian princess, was presumed killed in an Indian massacre",
+          "choices": [
+            "Squanto",
+            "Metacomet",
+            "Pocahontas",
+            "Samoset"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "From 1733 to 1743 this future British general served as Georgia's first governor",
+          "choices": [
+            "Benjamin Franklin",
+            "George Washington",
+            "(James) Oglethorpe",
+            "Thomas Jefferson"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1629 he was elected the first governor of the Massachusetts Bay Colony",
+          "choices": [
+            "Roger Williams",
+            "(John) Winthrop",
+            "William Bradford",
+            "Cotton Mather"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Tradition says he was the first Pilgrim to set foot on Plymouth Rock",
+          "choices": [
+            "Myles Standish",
+            "John Alden",
+            "William Brewster",
+            "Edward Winslow"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CLASSIC POP",
+      "questions": [
+        {
+          "clue": "\"Only The Lonely\" (1960)",
+          "choices": [
+            "Elvis Presley",
+            "Buddy Holly",
+            "Fats Domino",
+            "Roy Orbison"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Bobby \"Boris\" Pickett recorded this classic Halloween song with the Crypt-Kickers",
+          "choices": [
+            "\"Monster Mash\"",
+            "Thriller",
+            "Monster Madness",
+            "Night of the Living Dead"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"In Your Eyes\"",
+          "choices": [
+            "David Byrne",
+            "Paul Simon",
+            "Peter Gabriel",
+            "George Harrison"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"Mack The Knife\" (1959)",
+          "choices": [
+            "Louis Armstrong",
+            "Frank Sinatra",
+            "Dean Martin",
+            "Bobby Darin"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"Go Your Own Way\"",
+          "choices": [
+            "The Beatles",
+            "Fleetwood Mac",
+            "The Rolling Stones",
+            "The Who"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Babar's friend Zephir is just a monkey; Friday, in a book by Hester Mundis, is this closer relative to humans",
+    "choices": [
+      "a gorilla",
+      "a chimpanzee",
+      "an orangutan",
+      "a lemur"
+    ],
+    "correctIndex": 1,
+    "category": "CHILDREN'S LIT"
+  }
+}

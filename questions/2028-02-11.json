@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-11",
+  "categories": [
+    {
+      "name": "FEMALE SINGERS",
+      "questions": [
+        {
+          "clue": "Her 1989 single \"Like A Prayer\" debuted in a Pepsi-Cola TV commercial telecast in 40 countries",
+          "choices": [
+            "Britney Spears",
+            "Cher",
+            "Janet Jackson",
+            "Madonna"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It's Martha Davis who sings lead for this group, not the Travelodge sleepy bear",
+          "choices": [
+            "The Go-Go's",
+            "The Bangles",
+            "The Motels",
+            "The Go-Gos"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "With a name like a Wild West outlaw, she set off some alarms with her 2009 country-pop tune \"Blue Jeans\"",
+          "choices": [
+            "Jessie James",
+            "Lana Del Rey",
+            "Lady Gaga",
+            "Kelly Clarkson"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Last name Kilcher, she restyled herself as a country singer in 2008 with the album \"Perfectly Clear\"",
+          "choices": [
+            "Sheryl Crow",
+            "Jewel",
+            "Faith Hill",
+            "Shania Twain"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "She's no criminal, although she often steals the show",
+          "choices": [
+            "Fiona Apple",
+            "Alanis Morissette",
+            "Sheryl Crow",
+            "Tori Amos"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PRESIDENTIAL QUOTATIONS",
+      "questions": [
+        {
+          "clue": "In a 1976 Playboy interview, he said, \"I've committed adultery in my heart many times\"",
+          "choices": [
+            "Jimmy Carter",
+            "Bill Clinton",
+            "Ronald Reagan",
+            "Richard Nixon"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "After this April 1775 battle John Adams said, \"The die was cast, the Rubicon passed\"",
+          "choices": [
+            "Concord & Lexington",
+            "Bunker Hill",
+            "Trenton",
+            "Yorktown"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In his 1885 inaugural address he said that \"Every voter... exercises a public trust\"",
+          "choices": [
+            "William McKinley",
+            "Benjamin Harrison",
+            "Rutherford B. Hayes",
+            "Grover Cleveland"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Against Bryan's \"Cross of Gold\" oratory, in 1896 he said, \"I am a tariff man standing on a tariff platform\"",
+          "choices": [
+            "Grover Cleveland",
+            "Benjamin Harrison",
+            "William McKinley",
+            "William Howard Taft"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In this collection of essays, James Madison wrote, \"If men were angels, no government would be necessary\"",
+          "choices": [
+            "The Constitution",
+            "The Federalist Papers",
+            "The Declaration of Independence",
+            "The Bill of Rights"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE HEART",
+      "questions": [
+        {
+          "clue": "The passage of blood around a valve not entirely shut causes a sound called this",
+          "choices": [
+            "gallop",
+            "click",
+            "thud",
+            "murmur"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The left ventricle sends oxygen-rich blood to this largest artery in the body",
+          "choices": [
+            "the vena cava",
+            "the aorta",
+            "the pulmonary artery",
+            "the carotid artery"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This, not auricle, is proper name for the upper chamber\u2014or a central chamber of a Roman house",
+          "choices": [
+            "the peristyle",
+            "the tablinum",
+            "the atrium",
+            "the impluvium"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Physician who designed the artificial heart Barney Clark & others received",
+          "choices": [
+            "Cooley",
+            "DeBakey",
+            "Hurst",
+            "Jarvik"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "When these need to be replaced, it's generally the ones on the left side of the heart, where the pressure's higher",
+          "choices": [
+            "a valve",
+            "an artery",
+            "a valve spring",
+            "a ventricle"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This detachable men's shirt front started to become popular in the 19th century",
+    "choices": [
+      "a tuxedo shirt",
+      "a detachable collar",
+      "a dickey",
+      "a cravat"
+    ],
+    "correctIndex": 2,
+    "category": "\"KEY\" WORDS & PHRASES"
+  }
+}

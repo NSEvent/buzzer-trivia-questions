@@ -1,0 +1,207 @@
+{
+  "date": "2027-08-07",
+  "categories": [
+    {
+      "name": "FILE UNDER \"F\"",
+      "questions": [
+        {
+          "clue": "These include similes, metaphors & puns",
+          "choices": [
+            "literary devices",
+            "rhetorical questions",
+            "poetic meter",
+            "figures of speech"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Something you do without thinking, because you've always done it, is from this \"of habit\"",
+          "choices": [
+            "force of nature",
+            "force field",
+            "force majeure",
+            "force"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A building's lobby may get this fancier-sounding synonym if it's done in marble",
+          "choices": [
+            "entrance hall",
+            "reception room",
+            "foyer",
+            "vestibule"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It's a mindlessly obedient person, perhaps from (an attendant at someone's) \"flank\"",
+          "choices": [
+            "flunkie",
+            "flunky",
+            "flunky boy",
+            "flunky suit"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The fiddlehead fronds of these graceful green plants taste a bit like green beans & asparagus",
+          "choices": [
+            "ferns",
+            "fuzz",
+            "fronds",
+            "foliage"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LESSER-KNOWN ANCIENT ROMANS",
+      "questions": [
+        {
+          "clue": "Whether it was integral or differential, it was hard to understand the math this guy would spout",
+          "choices": [
+            "Calculus",
+            "Algebra",
+            "Geometry",
+            "Arithmetic"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "His hand turned red when he touched orange juice, blue when he touched seawater",
+          "choices": [
+            "Thermometer",
+            "Barometer",
+            "Hygrometer",
+            "Litmus"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "People always got advance warning of this bad smelling guy",
+          "choices": [
+            "Malodorous",
+            "Fragrant",
+            "Sweet",
+            "Pleasant"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The name of this \"super\" pal of Contemptuous means \"eyebrow\", & he kept raising his",
+          "choices": [
+            "Supercilious",
+            "Supercilium",
+            "Condescending",
+            "Haughty"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This spear-shaped Roman was usually green, maybe with envy that people thought his white cousin tasted better",
+          "choices": [
+            "Artichoke",
+            "Cauliflower",
+            "Zucchini",
+            "Asparagus"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "REVIVAL",
+      "questions": [
+        {
+          "clue": "Nationality name for the literary revival that included writers like Yeats & O'Casey",
+          "choices": [
+            "Scottish",
+            "Welsh",
+            "English",
+            "Irish"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "I got the leads for this Mamet play, revived in 2005! Liev Schreiber as Ricky Roma & Alan Alda as Shelly Levene!",
+          "choices": [
+            "The American Way",
+            "Glengarry Glen Ross",
+            "Buried Child",
+            "Speed-the-Plow"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A 1949 article said the revival meetings of this male evangelist drew more than 20,000 people \"in the big tent\"",
+          "choices": [
+            "(Oral) Roberts",
+            "(Billy) Graham",
+            "(Jerry) Falwell",
+            "(Tommy) Okes"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "1765's \"Reliques of Ancient English Poetry\" was part of a revival of this type of folk poem, like the one \"Of Constant Susanna\"",
+          "choices": [
+            "an epic",
+            "a sonnet",
+            "a limerick",
+            "a ballad"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Baroque revival architecture is typified by London's criminal courts building called the \"Old\" this (it was New in 1907)",
+          "choices": [
+            "Bailey",
+            "Globe",
+            "Hall",
+            "Castle"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "On this ABC show Junior Johnson said he was called \"a less cool Steve Urkel\" & was \"like if Drake never left 'Degrassi\"\\'",
+    "choices": [
+      "black-ish",
+      "Fresh Off the Boat",
+      "The Fresh Prince",
+      "Black Lightning"
+    ],
+    "correctIndex": 0,
+    "category": "AS HEARD ON TV"
+  },
+  "bonusRound": {
+    "clue": "This Nazi propagandist wrote that Eleanor Roosevelt wouldn't shoot her mouth off if she were his wife",
+    "choices": [
+      "Joseph Goebbels",
+      "Hermann G\u00f6ring",
+      "Heinrich Himmler",
+      "Alfred Rosenberg"
+    ],
+    "correctIndex": 0,
+    "category": "DEAR DIARY"
+  }
+}

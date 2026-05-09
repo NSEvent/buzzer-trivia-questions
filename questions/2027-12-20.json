@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-20",
+  "categories": [
+    {
+      "name": "ROLL OVER, BEETHOVEN",
+      "questions": [
+        {
+          "clue": "\"By the time\" this work \"is over, fate has been trampled underfoot by triumphant music\"",
+          "choices": [
+            "the Ninth Symphony",
+            "the Fifth Symphony",
+            "the Appassionata Sonata",
+            "the Moonlight Sonata"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 1792 Beethoven went to this city, where he went into Haydn for lessons & stayed for the rest of his life",
+          "choices": [
+            "Vienna",
+            "Paris",
+            "Prague",
+            "Berlin"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Beethoven lifted a theme from his own \"Prometheus\" for his 3rd Symphony, called this",
+          "choices": [
+            "\"Pathetique\"",
+            "\"Eroica\" (\"Heroic\")",
+            "\"Les Adieux\"",
+            "\"Emperor\""
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Variants of the 4 notes that begin this Beethoven work, Opus 67, drive all 4 of its movements",
+          "choices": [
+            "3rd Symphony",
+            "9th Symphony",
+            "5th Symphony",
+            "3rd Piano Concerto"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In a Beethoven opera, Leonore disguises herself as this title boy",
+          "choices": [
+            "Leonore",
+            "Fidelio",
+            "Don Jose",
+            "The Flying Dutchman"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AMERICAN WOMEN",
+      "questions": [
+        {
+          "clue": "This model & wife of Billy Joel says she was a chubby & self-conscious teenager",
+          "choices": [
+            "Brooke Shields",
+            "Christie Brinkley",
+            "Linda Evangelista",
+            "Naomi Campbell"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 1967 Kathrine Switzer broke the gender barrier by becoming the first female runner to officially enter this race",
+          "choices": [
+            "the New York City Marathon",
+            "the Boston Marathon",
+            "the Chicago Marathon",
+            "the London Marathon"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "After her daughter was killed by an inebriated motorist, Candy Lightner founded this organization",
+          "choices": [
+            "MADD (Mothers Against Drunk Driving)",
+            "Mothers for Safe Streets",
+            "Prevent Drunk Driving",
+            "Stop Impaired Driving Now"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This daughter of William Booth composed many of the hymns sung by the Salvation Army",
+          "choices": [
+            "Kate Booth",
+            "Maybell Booth",
+            "Violet Booth",
+            "Evangeline Booth"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "After vehemently opposing WWI, this Hull House founder was kicked out of the DAR",
+          "choices": [
+            "Ellen Gates Starr",
+            "Julia Lathrop",
+            "Jane Addams",
+            "Alice Hamilton"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MORTAL MATTERS",
+      "questions": [
+        {
+          "clue": "In Henry VI Pt. II Dick shouts \"the 1st thing we do, let's kill all the... members of this profession",
+          "choices": [
+            "Politicians",
+            "Lawyers",
+            "Soldiers",
+            "Merchants"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Identity of the murderer of this naturalist, played in film by Sigourney Weaver, remains uncertain",
+          "choices": [
+            "Jane Goodall",
+            "Dian Fossey",
+            "Louis Leakey",
+            "Richard Leakey"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The song \"The Ocean Burial\" became this cowboy lament about choosing a burial place",
+          "choices": [
+            "\"I'm Just a Country Boy\"",
+            "\"'O Bury Me Not on the Lone Prairie\"",
+            "\"The Streets of Laredo\"",
+            "\"Home on the Range\""
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In a December night in 1916, he was poisoned, shot & thrown in the Neva River to drown",
+          "choices": [
+            "Trotsky",
+            "Lenin",
+            "Rasputin",
+            "Stalin"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Robert Ressler coined this 2-word phrase to classify people like Ted Bundy & David Berkowitz",
+          "choices": [
+            "serial murderer",
+            "mass killer",
+            "homicide suspect",
+            "serial killer"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The colors on its flag \"were those of William I, Prince of Orange\"",
+    "choices": [
+      "Belgium",
+      "the Netherlands",
+      "Luxembourg",
+      "France"
+    ],
+    "correctIndex": 1,
+    "category": "THE WORLD FACTBOOK SAYS..."
+  }
+}

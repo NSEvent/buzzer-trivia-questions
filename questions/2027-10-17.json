@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-17",
+  "categories": [
+    {
+      "name": "LEGAL \"E\"s",
+      "questions": [
+        {
+          "clue": "This one of the three branches of government is charged with the detail of carrying the laws into effect",
+          "choices": [
+            "the legislative branch",
+            "the judicial branch",
+            "the administrative branch",
+            "the executive branch"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A legal prohibition on commerce, the U.S. imposed one on exports to Cuba over 30 years ago",
+          "choices": [
+            "a tariff",
+            "a sanction",
+            "a blockade",
+            "an embargo"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This person is appointed by a testator to carry out the directions & requests in his will",
+          "choices": [
+            "executrix",
+            "heir",
+            "beneficiary",
+            "executor"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "One definition of this is entering a private place with the intent of listening secretly to private conversations",
+          "choices": [
+            "eavesdropping",
+            "wiretapping",
+            "surveillance",
+            "bugging"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This clause in a union contract says that wages will rise or fall depending on a standard such as cost of living",
+          "choices": [
+            "deflator",
+            "escalator",
+            "stabilizer",
+            "adjuster"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RED STATES",
+      "questions": [
+        {
+          "clue": "Red is one of the many colors in the palette of this state's \"Painted Desert\"",
+          "choices": [
+            "Arizona",
+            "Colorado",
+            "New Mexico",
+            "Utah"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Some of its larger cities, including Huntington & Wheeling, are on the Ohio River",
+          "choices": [
+            "West Virginia",
+            "Pennsylvania",
+            "Ohio",
+            "Kentucky"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The 1854 act named for these 2 states allowed slavery north of 36\u00ba 30' latitude",
+          "choices": [
+            "Iowa & Missouri",
+            "Kansas & Nebraska",
+            "Minnesota & Wisconsin",
+            "Texas & Oregon"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "2 of the 3 states whose borders are partially formed by the Red River of the South",
+          "choices": [
+            "Texas & Oklahoma (& Arkansas)",
+            "Louisiana & Mississippi (& Alabama)",
+            "Kansas & Missouri (& Iowa)",
+            "New Mexico & Colorado (& Arizona"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "If you're visiting Glacier National Park in this state, be sure to check out Red Mountain & Red Eagle Mountain",
+          "choices": [
+            "Wyoming",
+            "Idaho",
+            "Utah",
+            "Montana"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "17-LETTER WORDS",
+      "questions": [
+        {
+          "clue": "Legalization differs from this ac-\"tion\", by which a drug is still illegal but possession of a limited amount is not prosecuted",
+          "choices": [
+            "decriminalization",
+            "legalization",
+            "prohibition",
+            "regulation"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It's having a business meeting in 2 or more locations at once, linked by \"v\"isual technology",
+          "choices": [
+            "teleconferencing",
+            "videotelephony",
+            "webcasting",
+            "videoconferencing"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Judicial review tests congressional legislation for this, conformity with a certain U.S. document",
+          "choices": [
+            "constitutionality",
+            "legislativeness",
+            "jurisprudence",
+            "constitutionalism"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Reduction of the body's ability to fight infection; it happens with HIV & can be done deliberately before a transplant",
+          "choices": [
+            "immunosuppression",
+            "immunodeficiency",
+            "hypersensitivity",
+            "autoimmunity"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In politics, really, really traditional & right wing",
+          "choices": [
+            "progressivistic",
+            "moderatelyleft",
+            "ultraconservative",
+            "centristorientated"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "With more than 400 monks, Mongolia's Gandan Monastery is a leading national center of this religion",
+    "choices": [
+      "Buddhism",
+      "Shintoism",
+      "Taoism",
+      "Confucianism"
+    ],
+    "correctIndex": 0,
+    "category": "FOUND IN MONGOLIA"
+  }
+}

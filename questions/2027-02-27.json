@@ -1,0 +1,207 @@
+{
+  "date": "2027-02-27",
+  "categories": [
+    {
+      "name": "\"SAINT\"LY CITIES",
+      "questions": [
+        {
+          "clue": "Site of the Winter Olympics twice, this Swiss resort has a leaning tower dating back several hundred years",
+          "choices": [
+            "Saint Moritz",
+            "Saint Bernard",
+            "Saint Sevier",
+            "Saint Gall"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1804 this city became the seat of government of the Louisiana Territory",
+          "choices": [
+            "Saint Louis",
+            "Saint John",
+            "Saint Paul",
+            "Saint Joseph"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This Scottish city known for its golf courses was once the country's ecclesiastical capital",
+          "choices": [
+            "Saint David",
+            "Saint Giles",
+            "Saint Andrews",
+            "Saint Ninian"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1837 the 1st railroad in Russia linked what's now Pushkin with this city on the Gulf of Finland",
+          "choices": [
+            "Saint Tikhvin",
+            "Saint Valaam",
+            "Saint Petersburg",
+            "Saint Sergius"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In the 1840s this future state capital became headquarters of the American Fur Company",
+          "choices": [
+            "Minneapolis",
+            "Saint Louis",
+            "Saint Paul",
+            "Saint John"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOBBIES",
+      "questions": [
+        {
+          "clue": "Scientists say there are over 75,000 known types of these, many of which are collected at low tide",
+          "choices": [
+            "seashells",
+            "shrimp boats",
+            "marine fossils",
+            "starfish"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This term for collecting postage stamps comes in part from Greek for \"exemption from payment\"",
+          "choices": [
+            "numismatics",
+            "philately",
+            "philology",
+            "phrenology"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "(Cheryl of the Clue Crew presents from a model train showroom.) Model railroading was popularized at the 1933 Century of Progress Expo, in this U.S. city, a longtime railroad hub",
+          "choices": [
+            "New York, New York",
+            "Chicago, Ohio",
+            "Detroit, Michigan",
+            "Chicago, Illinois"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This term for a coin collector comes from a Greek word meaning \"what is sanctioned by law\"",
+          "choices": [
+            "numismatist",
+            "philatelist",
+            "antiquarian",
+            "archaeologist"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "If your new interest is mycology, the study of these, be careful which ones you eat",
+          "choices": [
+            "algae (seaweed)",
+            "lichens",
+            "fungi (mushrooms)",
+            "ferns"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PRESIDENTS BY KIDS",
+      "questions": [
+        {
+          "clue": "John, Calvin",
+          "choices": [
+            "Calvin Coolidge",
+            "Woodrow Wilson",
+            "William Howard Taft",
+            "Warren G. Harding"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "2 stepkids: John & Martha",
+          "choices": [
+            "George Washington",
+            "Abraham Lincoln",
+            "Thomas Jefferson",
+            "James Madison"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Lynda, Luci",
+          "choices": [
+            "FDR",
+            "LBJ",
+            "TR",
+            "Nixon"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Jack, Chip, Jeffrey & Amy",
+          "choices": [
+            "Nixon",
+            "Ford",
+            "Reagan",
+            "(Jimmy) Carter"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Abraham, Martin, John",
+          "choices": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Martin Van Buren",
+            "Andrew Jackson"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"Law & Order\" fans take note\u2014in 1963 there was \"Arrest and\" this, a cop & court show with 2 interwoven parts",
+    "choices": [
+      "Punishment",
+      "Trial",
+      "Verdict",
+      "Guilt"
+    ],
+    "correctIndex": 1,
+    "category": "\\'60s TV"
+  },
+  "bonusRound": {
+    "clue": "The permanent members of the U.N. Security Council are known as this",
+    "choices": [
+      "Great Powers",
+      "Big Five",
+      "P5 Nations",
+      "Major Members"
+    ],
+    "correctIndex": 1,
+    "category": "\"BIG\""
+  }
+}

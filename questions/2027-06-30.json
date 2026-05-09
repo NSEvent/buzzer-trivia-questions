@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-30",
+  "categories": [
+    {
+      "name": "HEAVENLY BODIES",
+      "questions": [
+        {
+          "clue": "Albert Brooks cast her as \"The Muse\"",
+          "choices": [
+            "Sharon Stone",
+            "Nicole Kidman",
+            "Sandra Bullock",
+            "Meryl Streep"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Draco, Monoceros",
+          "choices": [
+            "planets",
+            "stars",
+            "constellations",
+            "galaxies"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Borrelly, Hyakutake",
+          "choices": [
+            "asteroids",
+            "planets",
+            "comets",
+            "stars"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Titania, Enceladus",
+          "choices": [
+            "moons",
+            "planets",
+            "asteroids",
+            "stars"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Schedar, the brightest star in this constellation, is one of the two bottom points in its distinctive W shape",
+          "choices": [
+            "Cassiopeia",
+            "Andromeda",
+            "Perseus",
+            "Cepheus"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ADD AN E",
+      "questions": [
+        {
+          "clue": "A North Atlantic food fish ingests an E to become a system used for secrecy of communication",
+          "choices": [
+            "tuna & turban",
+            "shark & share",
+            "mackerel & market",
+            "cod & code"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "To experience again in your mind becomes a word meaning to ease pain",
+          "choices": [
+            "replay & repeal",
+            "remember & remedy",
+            "relive & relieve",
+            "recall & rectify"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "To converse in an informal manner, with an E, will violate rules in a game",
+          "choices": [
+            "chat & cheat",
+            "talk & tackle",
+            "speak & spoof",
+            "gossip & goose"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A synonym for fear adds an E to become cargo transported for pay",
+          "choices": [
+            "sight & flight",
+            "light & night",
+            "fright & freight",
+            "tight & flight"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A proposal formally made to a deliberative assembly takes on an E to get in touch with 1 of its many types of feelings",
+          "choices": [
+            "proposal & compassion",
+            "motion & emotion",
+            "motion & passion",
+            "motion & irritation"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "POP",
+      "questions": [
+        {
+          "clue": "The hunky astronaut in this singer's 2000 \"Oops!... I Did It Again\" video became an orthopedic surgeon",
+          "choices": [
+            "Christina Aguilera",
+            "Justin Timberlake",
+            "NSYNC",
+            "Britney Spears"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "His dad, Sir John, was killed by the ape Kerchak",
+          "choices": [
+            "King Kong",
+            "Tarzan",
+            "Jane Porter",
+            "Cheetah"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Born in Muskogee, Oklahoma, she won the 4th season of \"American Idol\" in 2005",
+          "choices": [
+            "Kelly Clarkson",
+            "Jordin Sparks",
+            "Katie Curran",
+            "Carrie Underwood"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This main character of the God of War video game franchise has issues with his dad, Zeus, who hasn't done right by his mom, Callisto",
+          "choices": [
+            "Kratos",
+            "Ares",
+            "Perseus",
+            "Heracles"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This Ira Levin novel finds expectant dad Guy Woodhouse & wife moving into a creepy New York City apartment",
+          "choices": [
+            "Rebecca",
+            "The Shining",
+            "Hush Hush",
+            "Rosemary's Baby"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This 2-word phrase for policies assisting minorities is found in a 1961 executive order",
+    "choices": [
+      "equal opportunity",
+      "positive discrimination",
+      "affirmative action",
+      "minority rights"
+    ],
+    "correctIndex": 2,
+    "category": "WE'VE GOT ISSUES"
+  }
+}

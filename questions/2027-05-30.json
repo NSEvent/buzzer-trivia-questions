@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-30",
+  "categories": [
+    {
+      "name": "SINGLE-NAMED SINGERS",
+      "questions": [
+        {
+          "clue": "The dollar sign in her name is pronounced as an \"S\"",
+          "choices": [
+            "Miley",
+            "Ke$ha",
+            "Madonna",
+            "Rihanna"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This St. Louis rapper's real name is Cornell Haynes Jr.",
+          "choices": [
+            "Jay-Z",
+            "Nelly",
+            "Drake",
+            "Eminem"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Hope you still know this Belgian-Australian man who had a smash hit in 2012 with \"Somebody That I Used To Know\"",
+          "choices": [
+            "Bruno",
+            "Gotye",
+            "Ed Sheeran",
+            "OneRepublic"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Bey's younger sister, in 2016 she had her first No. 1 album with \"A Seat at the Table\"",
+          "choices": [
+            "Beyonc\u00e9",
+            "Solange",
+            "Nicki",
+            "Kesha"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 2022, Georgia State University honored this rapper & alumnus with an honorary Bachelor of Science in Music Management",
+          "choices": [
+            "Jay-Z",
+            "Drake",
+            "Kanye West",
+            "Ludacris"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COUNTRY FACTS",
+      "questions": [
+        {
+          "clue": "It's officially known as the Hellenic Republic",
+          "choices": [
+            "Italy",
+            "Portugal",
+            "Greece",
+            "Spain"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A leading coffee & coal producer, this country ranks 2nd in population in South America",
+          "choices": [
+            "Brazil",
+            "Colombia",
+            "Peru",
+            "Argentina"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Go as far east as you can in South Africa & you'll wade into this ocean",
+          "choices": [
+            "Atlantic Ocean",
+            "Pacific Ocean",
+            "Indian Ocean",
+            "Southern Ocean"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In Central Africa, it's been led since 1986 by Yoweri Museveni, elected to a sixth term in 2021",
+          "choices": [
+            "Kenya",
+            "Tanzania",
+            "Democratic Republic of the Congo",
+            "Uganda"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1991 Moldova broke away from the USSR, which had seized it from this country in World War II",
+          "choices": [
+            "Hungary",
+            "Bulgaria",
+            "Poland",
+            "Romania"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WORDS WITH SILENT CONSONANTS",
+      "questions": [
+        {
+          "clue": "Public or private, it's what you owe",
+          "choices": [
+            "credit",
+            "loan",
+            "interest",
+            "debt"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "From the German for \"hunting ship\", it's a large, often expensive pleasure craft",
+          "choices": [
+            "a liner",
+            "a cruiser",
+            "a sloop",
+            "a yacht"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Tiny imaginary bearded guy guarding his treasure or standing in your garden",
+          "choices": [
+            "globe",
+            "goblin",
+            "gnome",
+            "grimoire"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It's a glancing rebound of a projectile off a flat surface, like a bullet off a wall",
+          "choices": [
+            "an explosion",
+            "a ricochet",
+            "a collision",
+            "an eruption"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"Facade\" by Frederick Ashton is this type of artistic work",
+          "choices": [
+            "opera",
+            "ballet",
+            "symphony",
+            "oratorio"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Known for his Tahitian paintings, he served as a laborer in Panama in 1887 while France attempted to build a canal",
+    "choices": [
+      "Monet",
+      "Renoir",
+      "Degas",
+      "Gauguin"
+    ],
+    "correctIndex": 3,
+    "category": "FRENCH ART & ARTISTS"
+  }
+}

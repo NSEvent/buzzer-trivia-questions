@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-27",
+  "categories": [
+    {
+      "name": "SPEAK OF THE DICKENS",
+      "questions": [
+        {
+          "clue": "Almost every year from 1843 to 1867 Dickens wrote a special story or book for this holiday",
+          "choices": [
+            "Christmas",
+            "Easter",
+            "Halloween",
+            "Thanksgiving"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Dora Spenlow was this title character's first wife; Agnes Wickfield was his second",
+          "choices": [
+            "Oliver Twist",
+            "Pip",
+            "David Copperfield",
+            "Little Dorrit"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"In case anything turned up\" was his favorite expression in \"David Copperfield\"",
+          "choices": [
+            "Uriah Heep",
+            "Mr. Micawber",
+            "Silas Wegg",
+            "Sam Weller"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Dickens collaborated on several stories with a dear friend, this author of \"The Moonstone\"",
+          "choices": [
+            "Charles Lamb",
+            "Jane Austen",
+            "William Thackeray",
+            "Wilkie Collins"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"A London particular\" was how Dickens described this condition in the novel \"Bleak House\"",
+          "choices": [
+            "fog",
+            "smog",
+            "dust",
+            "mist"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SCIENTISTS",
+      "questions": [
+        {
+          "clue": "In 1633 this astronomer was found guilty of \"vehement suspicion of heresy\"",
+          "choices": [
+            "Copernicus",
+            "Galileo",
+            "Kepler",
+            "Tycho"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In the 1860s this chemist saved France's wine industry by showing that microbes can be killed with heat",
+          "choices": [
+            "Louis Pasteur",
+            "Joseph Lister",
+            "Robert Koch",
+            "Alexander Fleming"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In 1977 this \"A Brief History of Time\" author became professor of gravitational physics at Cambridge",
+          "choices": [
+            "(Stephen) Spalding",
+            "(Stephen) Fry",
+            "(Stephen) Hawking",
+            "(Stephen) Colbert"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This Englishman is considered the most original & influential thinker in the history of science",
+          "choices": [
+            "Einstein",
+            "Darwin",
+            "Hawking",
+            "Newton"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This English astronomer taught himself architecture & designed St. Paul's Cathedral",
+          "choices": [
+            "Sir Christopher Wren",
+            "Inigo Jones",
+            "Nicholas Hawksmoor",
+            "James Gibbs"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RANK-LY SPEAKING",
+      "questions": [
+        {
+          "clue": "Principal field of study for a college student",
+          "choices": [
+            "minor",
+            "concentration",
+            "elective",
+            "major"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Dr, Regina Benjamin is the current holder of this government job",
+          "choices": [
+            "CDC Director",
+            "FDA Commissioner",
+            "Surgeon General",
+            "NIH Director"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In economic terms, free enterprise is also known as this enterprise",
+          "choices": [
+            "private",
+            "public",
+            "corporate",
+            "state"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Aye aye! I got this style of chair for $129.99 at Walmart",
+          "choices": [
+            "an office chair",
+            "a director's chair",
+            "a captain's table",
+            "a captain's chair"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In the South, this 7-letter word is a title of respect prefixed to the name of distinguished elderly men",
+          "choices": [
+            "colonel",
+            "general",
+            "major",
+            "doctor"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Becker & Edberg were idols of this Swiss man who won Wimbledon in 2003 & 2004",
+    "choices": [
+      "Roger Waters",
+      "Roger Federer",
+      "Roger Moore",
+      "Roger Federico"
+    ],
+    "correctIndex": 1,
+    "category": "SPORTSMEN"
+  }
+}

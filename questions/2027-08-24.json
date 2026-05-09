@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-24",
+  "categories": [
+    {
+      "name": "IN THE SAND",
+      "questions": [
+        {
+          "clue": "This fanged, hairy spider of the Southwest desert can live up to 30 years",
+          "choices": [
+            "a black widow",
+            "a tarantula",
+            "a wolf spider",
+            "a scorpion"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "He's the movie character sculpted in sand for the 2013 Weston Sand Sculpture Festival in England",
+          "choices": [
+            "Yoda",
+            "Darth Vader",
+            "Stormtrooper",
+            "Chewbacca"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This rattlesnake gets its name from the way it moves across the sand",
+          "choices": [
+            "a horned viper",
+            "a speckled rattler",
+            "a coral snake",
+            "a sidewinder"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This Beach Boy had a sandbox built around his piano so he could feel the sand between his toes for inspiration",
+          "choices": [
+            "Brian Wilson",
+            "Carl Wilson",
+            "Mike Love",
+            "Al Jardine"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This desert insect was part of Egyptian cosmogony; it was the Sun, & its rolled food was the Earth",
+          "choices": [
+            "a dung beetle",
+            "a firefly",
+            "a scarab beetle",
+            "a praying mantis"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GREAT BRITS",
+      "questions": [
+        {
+          "clue": "The Westminster Reference Library in London occupies the site where this scientist lived from 1710 to 1725",
+          "choices": [
+            "Sir Christopher Wren",
+            "Edmond Halley",
+            "Robert Hooke",
+            "Sir Isaac Newton"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "He joined the British navy at age 12 & died at the Battle of Trafalgar 35 years later",
+          "choices": [
+            "Captain Cook",
+            "Lord Nelson",
+            "Horatio Nelson",
+            "Admiral Hood"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "He penned \"Cakes and Ale\", a 1930 satire of British life",
+          "choices": [
+            "Aldous Huxley",
+            "E.M. Forster",
+            "George Orwell",
+            "W. Somerset Maugham"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1923, on the 200th anniversary of his death, a memorial service was held in his St. Paul's Cathedral",
+          "choices": [
+            "Sir Christopher Wren",
+            "Sir Isaac Newton",
+            "Sir Hans Sloane",
+            "Sir Godfrey Kneller"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "He wrote a review of Samuel Johnson's dictionary before inquiring into the \"Wealth of Nations\"",
+          "choices": [
+            "David Hume",
+            "Adam Smith",
+            "Thomas Reid",
+            "Adam Ferguson"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"PAT\"",
+      "questions": [
+        {
+          "clue": "Adjective meaning characteristic of being a father",
+          "choices": [
+            "paternal",
+            "maternal",
+            "patrimony",
+            "patent"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A regional form of a language, not necessarily French",
+          "choices": [
+            "patois",
+            "pastiche",
+            "patriot",
+            "patron"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "It's the murder of one's own father",
+          "choices": [
+            "matricide",
+            "patricide",
+            "filicide",
+            "fratricide"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This 260,000-square-mile area is found between the Andes Mountains & the South Atlantic Ocean",
+          "choices": [
+            "Tierra del Fuego",
+            "Pampas",
+            "Patagonia",
+            "Atacama Desert"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Tropical Asian plant made into an oil used in perfumes",
+          "choices": [
+            "sandalwood oil",
+            "patchouli oil",
+            "bergamot oil",
+            "ylang-ylang oil"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Gavin Newsom",
+    "choices": [
+      "Los Angeles",
+      "Seattle",
+      "Portland",
+      "San Francisco"
+    ],
+    "correctIndex": 3,
+    "category": "BIG CITY MAYORS"
+  }
+}

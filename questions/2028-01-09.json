@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-09",
+  "categories": [
+    {
+      "name": "LETTER-WORD",
+      "questions": [
+        {
+          "clue": "Walther Schwieger was the captain of this type of vessel that torpedoed the Lusitania",
+          "choices": [
+            "a battleship",
+            "a destroyer",
+            "a U-boat",
+            "a cruiser"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A double bend in a road, or a record label with Tom Jones on its roster",
+          "choices": [
+            "a hairpin",
+            "S-curve",
+            "a switchback",
+            "a hairpin curve"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In varying sizes, this versatile item holds almost anything together & is especially useful when glue is drying",
+          "choices": [
+            "a B-clamp",
+            "a C-clamp",
+            "a G-clamp",
+            "a hose clamp"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The excellence of a roller coaster may be judged by these it inflicts on riders",
+          "choices": [
+            "adrenaline rushes",
+            "g-forces",
+            "heart palpitations",
+            "screaming matches"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Yeah, decided to go here, take courses in entrepreneurial finance & marketing strategy, graduate & make a few mil",
+          "choices": [
+            "B-school",
+            "trade school",
+            "business college",
+            "master's program"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FIRST NAMES IN THE DICTIONARY",
+      "questions": [
+        {
+          "clue": "Fashionable & high class, like Mr. Bennett",
+          "choices": [
+            "tony",
+            "posh",
+            "snooty",
+            "chic"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A shade of brown, like Crayola's burnt & raw crayons",
+          "choices": [
+            "umber",
+            "ochre",
+            "sienna",
+            "tan"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It's the traditional gift for the 15th wedding anniversary; Waterford is a good choice",
+          "choices": [
+            "crystal",
+            "silver",
+            "porcelain",
+            "glass"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Past tense verb meaning \"sketched a picture\"",
+          "choices": [
+            "dried",
+            "dread",
+            "drew",
+            "droll"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It's a Scottish word for a church",
+          "choices": [
+            "kilt",
+            "kirk",
+            "kelp",
+            "kern"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "4-SYLLABLE WORDS",
+      "questions": [
+        {
+          "clue": "Exactly the same",
+          "choices": [
+            "similar",
+            "uniform",
+            "exact",
+            "identical"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "To increase the velocity of an object, such as a particle",
+          "choices": [
+            "decelerate",
+            "acceleration",
+            "Accelerate",
+            "retard"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In math the product of any expression & its this is 1",
+          "choices": [
+            "conjugate",
+            "coefficient",
+            "numerator",
+            "reciprocal"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This word, the \"S\" in ASPCA, squeezes 4 syllables into just 7 letters",
+          "choices": [
+            "Society",
+            "Association",
+            "Organization",
+            "Institution"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Change the second, third & fourth letters in \"maleficent\" to get this word for \"generous\"",
+          "choices": [
+            "beneficent",
+            "magnificent",
+            "effulgent",
+            "munificent"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The name of this folk instrument may come from an African word meaning \"string instrument\"",
+    "choices": [
+      "a guitar",
+      "a harp",
+      "a lute",
+      "a banjo"
+    ],
+    "correctIndex": 3,
+    "category": "SOUNDS GOOD TO ME"
+  }
+}

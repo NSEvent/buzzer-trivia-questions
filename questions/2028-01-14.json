@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-14",
+  "categories": [
+    {
+      "name": "FINE",
+      "questions": [
+        {
+          "clue": "Legally coerced to be a good neighbor, in 2024 this company was there to pay $2 million over unfair claims practices in Montana",
+          "choices": [
+            "State Farm",
+            "Progressive",
+            "GEICO",
+            "Allstate"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"Credit\" where credit is due\u2014this big-on-secrecy European bank took a $2.5 billion hit for helping Americans evade taxes",
+          "choices": [
+            "UBS",
+            "Credit Suisse",
+            "Credit Agricole",
+            "Societe Generale"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 2013 this energy co. once run by a pre-veep Dick Cheney paid $200,000 for destroying Deepwater Horizon oil spill evidence",
+          "choices": [
+            "Baker Hughes",
+            "Schlumberger",
+            "Halliburton",
+            "Cameron International"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The beaches of Playa del Carmen in the Yucatan in this country are noted for the fineness of their sand",
+          "choices": [
+            "Guatemala",
+            "Honduras",
+            "Mexico",
+            "Costa Rica"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The company that's now just GSK still had this longer name when it got a $3 billion fine in part for promoting drugs for unapproved uses",
+          "choices": [
+            "Pfizer",
+            "Novartis",
+            "Sanofi",
+            "GlaxoSmithKline"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE OLD FARMER'S ALMANAC",
+      "questions": [
+        {
+          "clue": "The Almanac's gardener's companion says it's the most popular garden vegetable (or is it a fruit?)",
+          "choices": [
+            "Potato",
+            "Tomato",
+            "Carrot",
+            "Lettuce"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The first issue cost 6 pence & was published during this U.S. president's first term",
+          "choices": [
+            "Thomas Jefferson",
+            "John Adams",
+            "James Madison",
+            "George Washington"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "An article about this German born in 1571 is titled \"The Man Who Moved the Universe\"",
+          "choices": [
+            "(Galileo) Galilei",
+            "(Isaac) Newton",
+            "(Tycho) Brahe",
+            "(Johannes) Kepler"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In late May, ahead of the official hurricane season, Tropical Storm Ana will threaten this state",
+          "choices": [
+            "Georgia",
+            "Louisiana",
+            "Florida",
+            "Texas"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "On May 1 in the western U.S. this is estimated to be 6:13 A.M.; by month's end it will be 5:44",
+          "choices": [
+            "sunset",
+            "sunrise",
+            "noon",
+            "midnight"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE CONSTITUTION",
+      "questions": [
+        {
+          "clue": "If no candidate receives a majority of electoral votes, then this body shall elect the president",
+          "choices": [
+            "the House of Representatives",
+            "the Senate",
+            "the Supreme Court",
+            "the Electoral College"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Article I, Section 3 states it's the only time the Vice President can cast a vote in the Senate",
+          "choices": [
+            "in the case of a tie",
+            "during a recess",
+            "when the President is ill",
+            "to break a filibuster"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The compromise which gave us a 2-house Congress was proposed by this state, hence its nickname",
+          "choices": [
+            "Delaware (\"The First State\")",
+            "Connecticut (\"The Constitution State\")",
+            "Virginia (\"The Old Dominion\")",
+            "Massachusetts (\"The Bay State\")"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Approval by this fraction of the states is necessary to amend the Constitution",
+          "choices": [
+            "one-half",
+            "three-quarters",
+            "two-thirds",
+            "three-fifths"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The only state not represented at the convention, it was the last of the original 13 to ratify",
+          "choices": [
+            "Rhode Island",
+            "Delaware",
+            "Rhode Island (\"The Ocean State\")",
+            "Vermont"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "It's debatable how accurate the 2-word name of this food fish is in describing its color",
+    "choices": [
+      "an orange roughy",
+      "a red snapper",
+      "a blue marlin",
+      "a green sea bass"
+    ],
+    "correctIndex": 0,
+    "category": "\"O\"POURRI"
+  }
+}

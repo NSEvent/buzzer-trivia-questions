@@ -1,0 +1,207 @@
+{
+  "date": "2028-01-29",
+  "categories": [
+    {
+      "name": "FAMILIAR PHRASES",
+      "questions": [
+        {
+          "clue": "When you need something badly, it's said you'll beg, borrow or do this illegal act",
+          "choices": [
+            "rob",
+            "steal",
+            "swipe",
+            "lift"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Frenchmen once assumed names in the military, hence this phrase, French for \"name of war\"",
+          "choices": [
+            "Nom de plume",
+            "Nom de famille",
+            "Nom de code",
+            "Nom de guerre"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "To the phrase \"Safe as\" these little creatures, James Thurber added \"under a cookstove\"",
+          "choices": [
+            "chicks",
+            "puppies",
+            "rabbits",
+            "kittens"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Alluding to a Samuel Taylor Coleridge poem, an annoying burden is like having this bird \"around one's neck\"",
+          "choices": [
+            "a raven",
+            "an albatross",
+            "a crow",
+            "a vulture"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"To hang by a thread\" is an allusion to this weapon suspended above a banquet guest",
+          "choices": [
+            "the Spear of Destiny",
+            "the Sword of Damocles",
+            "the Lasso of Truth",
+            "the Trident of Neptune"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE LAW",
+      "questions": [
+        {
+          "clue": "6-letter term meaning to take away someone's license to practice law",
+          "choices": [
+            "Rescind",
+            "Invalidate",
+            "Revoke",
+            "Disbar"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Sir Edward Coke's maxim \"a man's house is his\" this is one basis for privacy law",
+          "choices": [
+            "citadel",
+            "fortress",
+            "bastion",
+            "castle"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 2013 a military judge said this was a bad idea, but she couldn't stop the accused Fort Hood shooter from doing it",
+          "choices": [
+            "pleading guilty",
+            "defending himself",
+            "remaining silent",
+            "hiring counsel"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Let's set this, a legal decision that serves as an authoritative rule for future similar cases",
+          "choices": [
+            "a statute",
+            "a verdict",
+            "a precedent",
+            "an ordinance"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1979 this Watergate judge wrote a book about his experiences titled \"To Set The Record Straight\"",
+          "choices": [
+            "John Sirica",
+            "Leon Jaworski",
+            "J. Skelly Wright",
+            "Archibald Cox"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "F-STOP",
+      "questions": [
+        {
+          "clue": "The nape of the neck",
+          "choices": [
+            "the nape",
+            "the collar",
+            "the throat",
+            "the scruff"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A recurring theme in a musical or literary work",
+          "choices": [
+            "a motif",
+            "a theme",
+            "a symbol",
+            "an allegory"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "To take off\u2014your hat, for example",
+          "choices": [
+            "remove",
+            "discard",
+            "doff",
+            "drop"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "To interrogate a friendly spy after a mission",
+          "choices": [
+            "question",
+            "interrogate",
+            "interview",
+            "debrief"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A role in \"Rocky Horror\", or low-class folks",
+          "choices": [
+            "Frank N Furter",
+            "Dr. Frank",
+            "Crimson Pirate",
+            "Riff Raff"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The $1.99 lamb as opposed to the $19.99 one",
+    "choices": [
+      "poor goat",
+      "cheap lamb",
+      "cheap sheep",
+      "cheap bull"
+    ],
+    "correctIndex": 2,
+    "category": "ANIMAL RHYME TIME"
+  },
+  "bonusRound": {
+    "clue": "In this song Elvis complained, \"You ain't never caught a rabbit & you ain't no friend of mine\"",
+    "choices": [
+      "Jailhouse Rock",
+      "Love Me Tender",
+      "\"Hound Dog\"",
+      "Heartbreak Hotel"
+    ],
+    "correctIndex": 2,
+    "category": "#1 HITS"
+  }
+}

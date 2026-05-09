@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-15",
+  "categories": [
+    {
+      "name": "SPEAKERS OF THE HOUSE",
+      "questions": [
+        {
+          "clue": "Until Nathaniel Macon, a Democratic-Republican in 1801, all speakers were from this party",
+          "choices": [
+            "Democratic",
+            "Whig",
+            "Anti-Masonic",
+            "Federalist"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This Texan & Joseph Martin, Jr. alternated in the post 1940-1961",
+          "choices": [
+            "John McCormack",
+            "Carl Albert",
+            "James C. Wright",
+            "(Sam) Rayburn"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Alice Roosevelt's husband, he was speaker from 1925 until his death in 1931",
+          "choices": [
+            "John W. Davis",
+            "Charles Curtis",
+            "Joshua Waring",
+            "(Nicholas) Longworth"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This Kentuckian was speaker on 3 different occasions in the early 1800s",
+          "choices": [
+            "John W. Stephenson",
+            "(Henry) Clay",
+            "John Bell",
+            "Linn Boyd"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This Tennessean who was speaker 1835-39 became president in 1845",
+          "choices": [
+            "Van Buren",
+            "Tyler",
+            "Polk",
+            "Harrison"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "1980s BOOKS",
+      "questions": [
+        {
+          "clue": "This novel by Arthur C. Clarke is subtitled \"Odyssey Two\"",
+          "choices": [
+            "2010",
+            "1985",
+            "2001",
+            "1990"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This auto executive wrote the bestselling hardcover nonfiction book of 1984 & 1985",
+          "choices": [
+            "(Jack) Welch",
+            "(Robert) McNamara",
+            "(Henry) Ford II",
+            "(Lee) Iacocca"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This First Lady set the record straight with her memoir \"My Turn\"",
+          "choices": [
+            "Nancy Reagan",
+            "Barbara Bush",
+            "Betty Ford",
+            "Rosalynn Carter"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This New England title establishment is located in Derry; would you like turndown service?",
+          "choices": [
+            "Hotel New Hampshire",
+            "Hotel California",
+            "Hotel del Coronado",
+            "Hotel Ritz Paris"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In a memoir this sportscaster told us, \"I Never Played the Game\"",
+          "choices": [
+            "Jim McKay",
+            "Al Michaels",
+            "Howard Cosell",
+            "Verne Lundquist"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ALL \"AMERICAN\"",
+      "questions": [
+        {
+          "clue": "Europeans know this once popular rose of Madame Ferdinand Jamin",
+          "choices": [
+            "Queen Elizabeth II",
+            "American Beauty",
+            "Lady Washington",
+            "Peace Rose"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 2009 this organization that maintains the largest registry for purebred dogs celebrated its 125th anniversary",
+          "choices": [
+            "the Canadian Kennel Club",
+            "the British Kennel Association",
+            "the American Kennel Club",
+            "the Australian National Kennel Council"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "When Iowa farmers & their wives first saw this 1930 painting of a farm couple, many of them were downright angry",
+          "choices": [
+            "American Renaissance",
+            "American Gothic Novel",
+            "American Gothic Jazz",
+            "American Gothic"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "\"Barrister\" is a quarterly publication of this organization",
+          "choices": [
+            "American Medical Association",
+            "American Bar Association",
+            "American Law Institute",
+            "American Civil Liberties Union"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The screenplay for this Gene Kelly - Leslie Caron musical was written by Alan Jay Lerner",
+          "choices": [
+            "American Beauty",
+            "American Beauty Queen",
+            "An American in Paris",
+            "American Beauty Supply"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Lord Kelvin had his own understanding of heat transfer, leading him to estimate this at 20 million years (try 4.5 billion)",
+    "choices": [
+      "the age of the Earth",
+      "the age of the universe",
+      "the age of the moon",
+      "the age of the sun"
+    ],
+    "correctIndex": 0,
+    "category": "SCIENCE: MISSED IT BY THAT MUCH"
+  }
+}

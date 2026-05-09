@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-11",
+  "categories": [
+    {
+      "name": "IT'S ALL ABOUT \"U\"",
+      "questions": [
+        {
+          "clue": "To open a flag",
+          "choices": [
+            "unfurl",
+            "upraise",
+            "unfold",
+            "unroll"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Dairy farmers say thanks for this mammary gland of bovines",
+          "choices": [
+            "utero",
+            "ulna",
+            "urine",
+            "udders"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This Greek god was the father of the Titans",
+          "choices": [
+            "Neptune",
+            "Pluto",
+            "Uranus",
+            "Poseidon"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"Red, Red Wine\" & \"Here I Am\" are hit songs by this reggae-pop group",
+          "choices": [
+            "U2",
+            "Usher",
+            "UB40",
+            "UBW"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A language closely related to Hindi but written in Arabic script",
+          "choices": [
+            "Bengali",
+            "Punjabi",
+            "Assamese",
+            "Urdu"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"E\" BAY",
+      "questions": [
+        {
+          "clue": "A crude figure or dummy representing a disliked person",
+          "choices": [
+            "Mannequin",
+            "Statue",
+            "Effigy",
+            "Scarecrow"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Use your birr to buy a beer in this country that borders Djibouti & Eritrea",
+          "choices": [
+            "Ethiopia",
+            "Somalia",
+            "Sudan",
+            "Kenya"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A burrowing \"terrestrial\" annelid",
+          "choices": [
+            "a leech",
+            "an earthworm",
+            "a slug",
+            "a mole"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Colonel Paul Tibbets was at the controls of this B-29 bomber on August 6, 1945",
+          "choices": [
+            "the Bockscar",
+            "the Great Artiste",
+            "the Enola Gay",
+            "the Divine Right"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1817 at age 51, Eli Whitney wed the 31-year-old granddaughter of this \"Great Awakening\" clergyman",
+          "choices": [
+            "John Wesley",
+            "George Whitefield",
+            "Jonathan Mayhew",
+            "Jonathan Edwards"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOW OFTEN DOES IT HAPPEN?",
+      "questions": [
+        {
+          "clue": "A U.S. representative's re-election bid",
+          "choices": [
+            "every 2 years",
+            "every 4 years",
+            "every 6 years",
+            "every 3 years"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The Commonwealth Games are held",
+          "choices": [
+            "every 2 years",
+            "every 5 years",
+            "every 3 years",
+            "every 4 years"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A jubilee year as recounted in the book of Leviticus in the Bible",
+          "choices": [
+            "every 40 years",
+            "every 60 years",
+            "every 49 years",
+            "every 50 years"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The appearance of the title Highland village in the musical \"Brigadoon\"",
+          "choices": [
+            "every 100 years",
+            "every 90 years",
+            "every 110 years",
+            "every 101 years"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Sesquicentennially",
+          "choices": [
+            "Every 100 years",
+            "Every 200 years",
+            "Every 149 years",
+            "Every 150 years"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "He headlines at the Stardust in Las Vegas 40 weeks a year",
+    "choices": [
+      "Elvis Presley",
+      "Frank Sinatra",
+      "Dean Martin",
+      "Wayne Newton"
+    ],
+    "correctIndex": 3,
+    "category": "WAYNE'S WORLD"
+  }
+}

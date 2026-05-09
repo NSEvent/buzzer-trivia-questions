@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-28",
+  "categories": [
+    {
+      "name": "\"IQ\" TEST",
+      "questions": [
+        {
+          "clue": "They're decorative objects from the past like furniture, glass & ceramics that people collect",
+          "choices": [
+            "antiquities",
+            "relics",
+            "antiques",
+            "heirlooms"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "It means highly unusual, extraordinary, one of a kind",
+          "choices": [
+            "singular",
+            "unparalleled",
+            "unique",
+            "inimitable"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It's a tightly wound bandage, used to stop severe bleeding",
+          "choices": [
+            "a splint",
+            "a pressure bandage",
+            "a dressing",
+            "a tourniquet"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A special aura; Betty Friedan's was a \"Feminine\" one",
+          "choices": [
+            "charisma",
+            "magnetism",
+            "allure",
+            "mystique"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "We assume you know it's French for a nickname or assumed name",
+          "choices": [
+            "sobriquet",
+            "pseudonym",
+            "nom de plume",
+            "byname"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "OFFICIAL STATE FOODS",
+      "questions": [
+        {
+          "clue": "Like Georgia, South Carolina picked this as its state fruit",
+          "choices": [
+            "peaches",
+            "oranges",
+            "apples",
+            "grapes"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This tangy dessert is a state food of Florida",
+          "choices": [
+            "orange creamsicle",
+            "strawberry shortcake",
+            "key lime pie",
+            "apple pie"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "With some friendly persuasion from Bill Cosby, Utah adopted this fruity treat as its state snack in 2001",
+          "choices": [
+            "fruit snacks",
+            "jelly beans",
+            "gummy bears",
+            "Jell-O"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In Maryland, you can feast on this \"colorful\" state crustacean, both hard-shell & soft-shell",
+          "choices": [
+            "the red lobster",
+            "the green shrimp",
+            "the yellow crab",
+            "the blue crab"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "German for \"cake\", this fruit- or cheese-filled, yeast-raised cake is South Dakota's official desert",
+          "choices": [
+            "strudel",
+            "kuchen",
+            "baklava",
+            "pretzel"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AUSTRALIAN WILDLIFE",
+      "questions": [
+        {
+          "clue": "Brought to Australia c. 3000 B.C., this canine is the continent's largest hunting mammal, besides man",
+          "choices": [
+            "the dhole",
+            "the dingo",
+            "the fox",
+            "the coyote"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This furry cutie spends most of its daylight hours sleeping in the fork of a eucalyptus tree",
+          "choices": [
+            "a sloth",
+            "a koala bear",
+            "a kangaroo",
+            "a possum"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The common species of this burrowing marsupial can weigh up to 80 pounds",
+          "choices": [
+            "a wombat",
+            "a kangaroo",
+            "a koala",
+            "a platypus"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "North Australia is a habitat of the saltwater species of this reptile that has reached 30 feet in length",
+          "choices": [
+            "a shark",
+            "a whale",
+            "a turtle",
+            "a crocodile"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This manatee relative of the order Sirenia can be found in the coastal waters of North Australia",
+          "choices": [
+            "a dolphin",
+            "a porpoise",
+            "a manatee",
+            "a dugong"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "E.M. Forster called this \"Lord Jim\" author \"misty in the middle as well as at the edges\"",
+    "choices": [
+      "(Joseph) Conrad",
+      "Rudyard Kipling",
+      "H.G. Wells",
+      "Arthur Conan Doyle"
+    ],
+    "correctIndex": 0,
+    "category": "AUTHORS ON AUTHORS"
+  }
+}

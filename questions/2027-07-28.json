@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-28",
+  "categories": [
+    {
+      "name": "HOTELS BY CITY",
+      "questions": [
+        {
+          "clue": "The Mirage, Excalibur, Caesar's Palace",
+          "choices": [
+            "Las Cruces",
+            "Los Angeles",
+            "Las Vegas",
+            "Lancaster"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Summit Hotel, Hotel Shangrila, Yak & Yeti",
+          "choices": [
+            "Kathmandu, (Pakistan)",
+            "Katmandu, (Nepal)",
+            "Kabul, (Afghanistan)",
+            "Kolkata, (India)"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Santa Lucia, Mediterraneo, Vesuvio",
+          "choices": [
+            "Napoli",
+            "Nagasaki",
+            "Neuchatel",
+            "Naples"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Sacher, Imperial, Pension Wiener",
+          "choices": [
+            "Venice",
+            "Verona",
+            "Viareggio",
+            "Vienna"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The Inn at the Opera, The Nob Hill Lambourne, The Hyatt Fisherman's Wharf",
+          "choices": [
+            "Los Angeles",
+            "San Francisco",
+            "New York",
+            "Seattle"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MYTHOLOGICAL OPERAS",
+      "questions": [
+        {
+          "clue": "Rameau's opera about Castor & this brother has been called his masterpiece",
+          "choices": [
+            "Pollens",
+            "Pollen",
+            "Pulchra",
+            "Pollux"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This hero of \"Gotterdammerung\" is the son of incestuous twins",
+          "choices": [
+            "Gunther",
+            "Hagen",
+            "Siegfried",
+            "Alberich"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This Roman god of fire brightens up Gounod's opera \"Philemon et Baucis\"",
+          "choices": [
+            "Jupiter",
+            "Mars",
+            "Vulcan",
+            "Neptune"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Richard Strauss' opera about Menelaus & this wife features 3 elves & a singing seashell",
+          "choices": [
+            "Helen (of Troy)",
+            "Iphigenia (of Aulis)",
+            "Clytemnestra",
+            "Penelope (of Ithaca)"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Gluck's opera about Echo & Narcissus is based on this poet's \"Metamorphoses\"",
+          "choices": [
+            "Homer",
+            "Virgil",
+            "Ovid",
+            "Hesiod"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TENNESSEE",
+      "questions": [
+        {
+          "clue": "In 1854 Tennessee's first railroad was completed between Nashville & this \"choo-choo\" city",
+          "choices": [
+            "Memphis",
+            "Knoxville",
+            "Chattanooga",
+            "Johnson City"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Capt. William Driver, who gave this 2-word nickname to the U.S. flag, is buried in Nashville's city cemetery",
+          "choices": [
+            "Old Betsy",
+            "Stars and Stripes",
+            "Old Glory",
+            "The Grand Old Flag"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Defeated for reelection to Congress, this Tennessean said, \"You can go to hell. I'm going to Texas\"",
+          "choices": [
+            "Davy Crockett",
+            "Sam Houston",
+            "Andrew Jackson",
+            "David Crothers"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "WWII's Manhattan Project was centered in this town near Knoxville, not Manhattan",
+          "choices": [
+            "Oakridge",
+            "Oak Ridge Park",
+            "Oak Garden",
+            "Oak Valley"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Almost all of present-day Tennessee originally belonged to this state, now its eastern neighbor",
+          "choices": [
+            "South Carolina",
+            "Virginia",
+            "North Carolina",
+            "Kentucky"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "You may have worked with a newfangled cash register called a POS terminal, the POS standing for this",
+    "choices": [
+      "point of service",
+      "point of sale",
+      "point of supply",
+      "place of sale"
+    ],
+    "correctIndex": 1,
+    "category": "COMPUTER STUFF"
+  }
+}

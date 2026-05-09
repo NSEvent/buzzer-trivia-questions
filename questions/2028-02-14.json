@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-14",
+  "categories": [
+    {
+      "name": "FRENCH FOOD TERMS",
+      "questions": [
+        {
+          "clue": "French for \"veil\", this pancake is almost as thin as a veil",
+          "choices": [
+            "millefeuille",
+            "gaufre",
+            "crepe",
+            "cr\u00eape dentelle"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "\"Coarse stew\" in French, its basic ingredient is eggplant",
+          "choices": [
+            "bouillabaisse",
+            "ratatouille",
+            "cassoulet",
+            "daube"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Though it literally means \"greedy\", this term for a food connoisseur isn't negative in France",
+          "choices": [
+            "gourmand",
+            "glouton",
+            "bouchon",
+            "manger"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Though in French it means \"white food\", it actually refers to a pudding thickened with constarch",
+          "choices": [
+            "blancmange",
+            "panna cotta",
+            "cr\u00e8me br\u00fbl\u00e9e",
+            "mousse au chocolat"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A French \"salad in the style of the city of Nice\"",
+          "choices": [
+            "provencal",
+            "nicoise",
+            "niemeyer",
+            "bistro"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CLASSIC TOYS & GAMES",
+      "questions": [
+        {
+          "clue": "This object will have you jumping for joy",
+          "choices": [
+            "a jump rope",
+            "a pogo stick",
+            "a trampoline",
+            "a pogo pin"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In Clue, this weapon may be found in the dining room but can be used to illuminate any room of the mansion",
+          "choices": [
+            "the revolver",
+            "the candelabra",
+            "the candlestick",
+            "the lamp"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "On a standard Monopoly board, they're the 2 most expensive properties",
+          "choices": [
+            "Park Place & Marvin Gardens",
+            "Boardwalk & Park Place",
+            "Boardwalk & Baltic Avenue",
+            "Ventnor & Pacific Avenue"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "First sold in 1976, this gel-filled action figure can be twisted, pulled & tied in knots but always returns to its original shape",
+          "choices": [
+            "Mr. Potato Head",
+            "G.I. Joe",
+            "Barbie",
+            "Stretch Armstrong"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "During the Vietnam War, this toy of 80 feet of wire was sometimes used as a portable antenna for radios",
+          "choices": [
+            "a jump rope",
+            "a garden hose",
+            "a Slinky",
+            "a coil spring"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SPACE EXPLORERS",
+      "questions": [
+        {
+          "clue": "This astronaut who died in the Apollo 1 fire was the subject of \"Starfall\", co-written by his wife Betsy",
+          "choices": [
+            "Edward White",
+            "Roger Chaffee",
+            "John Glenn",
+            "Virgil \"Gus\" Grissom"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "She was the third woman to fly into space as well as the first American woman",
+          "choices": [
+            "Valentina Tereshkova",
+            "Sian Proctor",
+            "Mae Jemison",
+            "Sally Ride"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In \"Apollo 13\" Tom Hanks portrays this astronaut",
+          "choices": [
+            "Ken Mattingly",
+            "Fred Haise",
+            "Jack Swigert",
+            "Jim Lovell"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1981, on the Soyuz 40 mission, Dumitru Prunariu became the first person from this country in space",
+          "choices": [
+            "Bulgaria",
+            "Romania",
+            "Hungary",
+            "Czechoslovakia"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This Apollo 11 command module pilot wrote \"Flying to the Moon and Other Strange Places\" for kids",
+          "choices": [
+            "Buzz Aldrin",
+            "Neil Armstrong",
+            "(Michael) Collins",
+            "John Young"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This Nathan Lane film is basically \"Home Alone\" with a rodent",
+    "choices": [
+      "The Mask",
+      "Babe",
+      "Eight Below",
+      "MouseHunt"
+    ],
+    "correctIndex": 3,
+    "category": "COMEDIES"
+  }
+}

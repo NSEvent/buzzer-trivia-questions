@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-01",
+  "categories": [
+    {
+      "name": "ROCKS & MINERALS",
+      "questions": [
+        {
+          "clue": "The name of this fine-grained, translucent variety of gypsum was used by the Romans for marble",
+          "choices": [
+            "obsidian",
+            "jasper",
+            "onyx",
+            "alabaster"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "As its name indicates, the sial that composes much of Earth's crust contains these two elements",
+          "choices": [
+            "silicon & magnesium",
+            "silicon & aluminum",
+            "silicon & oxygen",
+            "aluminum & calcium"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Mount Pentelikon in Attica, Greece is known for the pentelic type of this statue material",
+          "choices": [
+            "granite",
+            "marble",
+            "slate",
+            "limestone"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Chalk is a form of this sedimentary rock",
+          "choices": [
+            "limestone",
+            "sandstone",
+            "shale",
+            "chert"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Kimberlite, a mineral in which diamonds are found, was named for a city in this country",
+          "choices": [
+            "South Africa",
+            "Botswana",
+            "Australia",
+            "Namibia"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE THEATER",
+      "questions": [
+        {
+          "clue": "According to the title of a 1967 Tom Stoppard play, \"Rosencrantz And\" this character \"Are Dead\"",
+          "choices": [
+            "Hamlet",
+            "Horatio",
+            "Guildenstern",
+            "Ophelia"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In a Euripides play, after she exacts revenge on Jason, she escapes in a chariot provided by her grandpa, the sun god Helios",
+          "choices": [
+            "Medea",
+            "Clytemnestra",
+            "Electra",
+            "Antigone"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "2 recent books, \"Wonder of Wonders\" & \"Tradition!\", celebrate this show that turned 50 in 2014",
+          "choices": [
+            "West Side Story",
+            "The King and I",
+            "My Fair Lady",
+            "Fiddler on the Roof"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 2014 \"The Winter's Tale\" was staged at the \"Old\" this Shakespearean theater, a San Diego landmark",
+          "choices": [
+            "Globe",
+            "Biltmore",
+            "Balboa",
+            "Copley"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Rosalind Russell originated this role of a wealthy, eccentric flapper who inherits her late brother's son Patrick",
+          "choices": [
+            "My Fair Lady",
+            "Gypsy",
+            "(Auntie) Mame",
+            "Mame"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHAT A CHARACTER!",
+      "questions": [
+        {
+          "clue": "Troubled Air Force Captain John Yossarian",
+          "choices": [
+            "Catch-22",
+            "Slaughterhouse-Five",
+            "M*A*S*H",
+            "The Naked Lunch"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Charles Dickens' own father was the inspiration for the eternally optimistic Wilkins Micawber in this novel",
+          "choices": [
+            "Oliver Twist",
+            "David Copperfield",
+            "Great Expectations",
+            "The Pickwick Papers"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Sam Spade was a real bird brain when introduced to the world in this 1930 classic",
+          "choices": [
+            "The Maltese Falcon",
+            "The Big Sleep",
+            "Murder My Sweet",
+            "The High Window"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"Mouse\" is the species of this character featured in video games, trading cards & TV shows",
+          "choices": [
+            "Charizard",
+            "Eevee",
+            "Pikachu",
+            "Jigglypuff"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Kurtz cuts loose when cut off from humanity in this 1902 tale",
+          "choices": [
+            "The Jungle Book",
+            "Lord of the Flies",
+            "Heart of a Dog",
+            "Heart of Darkness"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The title of Robert Shelton's bio \"No Direction Home\" about this performer comes from a line in one of his hits",
+    "choices": [
+      "Leonard Cohen",
+      "Bob Dylan",
+      "Joni Mitchell",
+      "Tom Waits"
+    ],
+    "correctIndex": 1,
+    "category": "ROCK & ROLL BOOKSTORE"
+  }
+}

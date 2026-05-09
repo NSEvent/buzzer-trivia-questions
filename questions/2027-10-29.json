@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-29",
+  "categories": [
+    {
+      "name": "AMERICAN NICKNAMES",
+      "questions": [
+        {
+          "clue": "It was the nickname of frontiersman William Cody",
+          "choices": [
+            "Wild Bill",
+            "Dusty Rose",
+            "Iron Horse",
+            "Buffalo Bill"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Arkansas columnist Paul Greenberg first used the nickname \"Slick Willie\" for this man in 1980",
+          "choices": [
+            "Slick Steve",
+            "Slick Ted",
+            "Bill Clinton",
+            "Slick Dick"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Adjective in common to Ronald Reagan, the ____ President, & John Gotti, the ____ Don",
+          "choices": [
+            "Iron",
+            "Golden",
+            "Teflon",
+            "Silent"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Sam Rayburn was \"Mr. Sam\", not \"Mr. Democrat\"; this politician was \"Mr. Republican\", not \"Mr. Robert\"",
+          "choices": [
+            "Robert Taft",
+            "Robert Byrd",
+            "Robert Dole",
+            "Robert Kennedy"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The 1930s politician known as \"Kingfish\" was also known as the \"Dictator of\" this state",
+          "choices": [
+            "Mississippi",
+            "Louisiana",
+            "Alabama",
+            "Texas"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PESTS",
+      "questions": [
+        {
+          "clue": "East of the Rocky Mountains malaria is spread by the anopheles quadrimaculatus species of this insect",
+          "choices": [
+            "Flea",
+            "Tick",
+            "Louse",
+            "Mosquito"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This wingless household pest with 3 appendages at its tail eats anything containing paste, glue or starch",
+          "choices": [
+            "Carpenter Ants",
+            "Earwigs",
+            "Termites",
+            "Silverfish"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The black fire species of this insect was introduced to the United States from South America",
+          "choices": [
+            "Ants",
+            "Beetles",
+            "Wasps",
+            "Spiders"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Paradichlorobenzene crystals are used to control these fabric-eating insects",
+          "choices": [
+            "Beetles",
+            "Moths",
+            "Silverfish",
+            "Termites"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The brown type of this rodent is known by many names including house, sewer & Norway",
+          "choices": [
+            "Rat",
+            "Mouse",
+            "Squirrel",
+            "Vole"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CAPITAL CITY UNIVERSITIES",
+      "questions": [
+        {
+          "clue": "University of Westminster",
+          "choices": [
+            "Paris",
+            "Berlin",
+            "Madrid",
+            "London"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Istituto Guglielmo Tagliacarne",
+          "choices": [
+            "Madrid",
+            "Lisbon",
+            "Vienna",
+            "Rome"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Kyung Hee University",
+          "choices": [
+            "Seoul",
+            "Pyongyang",
+            "Tokyo",
+            "Beijing"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Gallaudet University",
+          "choices": [
+            "Ottawa",
+            "Washington, D.C.",
+            "Canberra",
+            "Bern"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Indira Gandhi National Open University",
+          "choices": [
+            "Islamabad",
+            "Dhaka",
+            "Kathmandu",
+            "New Delhi"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This synonym for dictionary comes from the Greek for \"word\"",
+    "choices": [
+      "glossary",
+      "thesaurus",
+      "encyclopedia",
+      "lexicon"
+    ],
+    "correctIndex": 3,
+    "category": "FROM THE GREEK"
+  }
+}

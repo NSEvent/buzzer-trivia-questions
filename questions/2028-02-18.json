@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-18",
+  "categories": [
+    {
+      "name": "WOMEN IN LITERATURE",
+      "questions": [
+        {
+          "clue": "Nicole is a patient of psychiatrist Dick Diver in this author's \"Tender is the Night\"",
+          "choices": [
+            "Ernest Hemingway",
+            "John Steinbeck",
+            "William Faulkner",
+            "F. Scott Fitzgerald"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In this E.M. Forster work, Adela Quested wrongly accuses Dr. Aziz of assaulting her",
+          "choices": [
+            "Howards End",
+            "A Room with a View",
+            "A Passage to India",
+            "The Longest Journey"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Phoebe Caulfield is a prominent character in this popular modern novel",
+          "choices": [
+            "To Kill a Mockingbird",
+            "Lord of the Flies",
+            "The Great Gatsby",
+            "The Catcher in the Rye"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This William Makepeace Thackeray novel deals with the interwoven fortunes of 2 women: the passive Amelia & the scheming Becky",
+          "choices": [
+            "Bleak House",
+            "David Copperfield",
+            "Great Expectations",
+            "Vanity Fair"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Rosalind from this comedy has the most lines of any of Shakespeare's women",
+          "choices": [
+            "Much Ado About Nothing",
+            "Twelfth Night",
+            "As You Like It",
+            "A Midsummer Night's Dream"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HISTORIC DAYS",
+      "questions": [
+        {
+          "clue": "July 20, 1969",
+          "choices": [
+            "moon landing",
+            "space shuttle launch",
+            "apollo 13 mission",
+            "first man in space"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "May 21, 1927",
+          "choices": [
+            "Lindbergh flight across Atlantic",
+            "first transatlantic flight",
+            "wright brothers flight",
+            "first nonstop flight across America"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Jan, 24, 1848 (out West)",
+          "choices": [
+            "california gold rush begins",
+            "sutter mill discovered gold",
+            "gold discovered in California",
+            "forty-niners arrive in california"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "April 30, 1975",
+          "choices": [
+            "the beginning of the Cold War",
+            "the end of the Vietnam War",
+            "the signing of the Geneva Accords",
+            "the independence of Cambodia"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "May 29, 1453",
+          "choices": [
+            "the fall of Constantinople",
+            "the start of the Crusades",
+            "the coronation of Charlemagne",
+            "the discovery of America"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BULGARIA",
+      "questions": [
+        {
+          "clue": "In January 1990 the Parliament voted away its constitutional guarantee as the dominant party",
+          "choices": [
+            "the Communist Party",
+            "the National Party",
+            "the Social Democratic Party",
+            "the Agrarian Union"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This river forms most of the border between Bulgaria & Romania",
+          "choices": [
+            "the Danube",
+            "the Rhine",
+            "the Elbe",
+            "the Vistula"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A party representing this political view won historic free elections in 1990; guess the people weren't tired of it",
+          "choices": [
+            "socialism",
+            "democracy",
+            "communism",
+            "fascism"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "City that's home to the Bulgarian Academy of Sciences & the Bulgarian State Conservatory",
+          "choices": [
+            "Plovdiv",
+            "Varna",
+            "Burgas",
+            "Sofia"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This bridge wrapper is Bulgaria's most famous contemporary artist",
+          "choices": [
+            "Christo",
+            "Elvis",
+            "David",
+            "Michael"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "European Christians launched the First Crusade in response to an appeal for help from Alexius Comnenus, ruler of this empire",
+    "choices": [
+      "the Byzantine Empire",
+      "the Ottoman Empire",
+      "the Holy Roman Empire",
+      "the Persian Empire"
+    ],
+    "correctIndex": 0,
+    "category": "THE CRUSADES"
+  }
+}

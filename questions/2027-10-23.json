@@ -1,0 +1,207 @@
+{
+  "date": "2027-10-23",
+  "categories": [
+    {
+      "name": "1970s TV",
+      "questions": [
+        {
+          "clue": "The fall of 1975 saw \"The Mary Tyler Moore Show\" & these 2 spin-offs from it on the schedule",
+          "choices": [
+            "Lou Grant & Ted",
+            "Rhoda & Phyllis",
+            "Mary & Alice",
+            "Rhoda & Mary"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This Robin Williams title alien was introduced on \"Happy Days\" as he tried to kidnap Richie Cunningham",
+          "choices": [
+            "Mork",
+            "Zapp",
+            "Orky",
+            "Mirk"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "It was due to Diana Hyland's death that Dick Van Patten became a widower on this series",
+          "choices": [
+            "Eight Below",
+            "Eight Men Out",
+            "Eight Is Not Enough",
+            "Eight Is Enough"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Starbuck was the ace pilot who helped fight off the evil Cylons on this '70s sci-fi show",
+          "choices": [
+            "Star Trek",
+            "Buck Rogers",
+            "Space: 1999",
+            "Battlestar Galactica"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Full name of the show on which Bill Bixby became angry, became too big for his shirt & became Lou Ferrigno",
+          "choices": [
+            "The Six Million Dollar Man",
+            "The Incredible Hulk",
+            "Kung Fu",
+            "Star Trek"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PULITZER PRIZE PLAYS",
+      "questions": [
+        {
+          "clue": "The color of the \"pastures\" in the title of Marc Connelly's 1930 prize winner",
+          "choices": [
+            "Yellow",
+            "Blue",
+            "Green",
+            "Red"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Slinky Kathleen Turner slunk across the stage in a slip in a 1990 revival of this \"feline\" drama",
+          "choices": [
+            "Death of a Salesman",
+            "Cat on a Hot Tin Roof",
+            "A Streetcar Named Desire",
+            "Long Day's Journey Into Night"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Paul Newman appeared in the original cast of this William Inge play whose title could attract ants",
+          "choices": [
+            "The Rose Tattoo",
+            "Picnic at Hanging Rock",
+            "The Teahouse of the August Moon",
+            "Picnic"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Inspired by a painting, this Sondheim musical won the 1985 Pulitzer",
+          "choices": [
+            "Into the Woods",
+            "A Little Night Music",
+            "Sunday in the Park with George",
+            "Sweeney Todd"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Based on a nonfiction work, this play set in the Netherlands won a 1956 Pulitzer Prize",
+          "choices": [
+            "The Diary of Anne Frank",
+            "The Crucible",
+            "Death of a Salesman",
+            "The Rose Tattoo"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "YOU'VE GOT TASTE",
+      "questions": [
+        {
+          "clue": "This fancy brand of mustard says that since 1777 it's \"been synonymous with all that is refined, exquisite and delicious\"",
+          "choices": [
+            "French's",
+            "Grey Poupon",
+            "Heinz",
+            "Maille"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The Oyster Perpetual is a legendary watch from this upscale brand",
+          "choices": [
+            "Omega",
+            "Patek Philippe",
+            "Rolex",
+            "Cartier"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Model yourself on a baron in this banking family, who in 1853 bought a chateau so he could serve his own wine to guests",
+          "choices": [
+            "the Rockefellers",
+            "the Morganas",
+            "the Vanderbilts",
+            "the Rothschilds"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "You can keep your Cheez Whiz; I'm sticking with this other Kraft cheese food that got the AMA seal of approval in 1931",
+          "choices": [
+            "Kraft Singles",
+            "American Cheese",
+            "Velveeta",
+            "String Cheese"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Love that $2,400 single-breasted suit! This Italian designer was murdered in 1997 but he'll never go out of style!",
+          "choices": [
+            "Gianni Versace's brother",
+            "(Gianni) Versace",
+            "Donatella Versace",
+            "Versace's tailor"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The kestrel",
+    "choices": [
+      "reptile",
+      "bird",
+      "feline",
+      "insect"
+    ],
+    "correctIndex": 1,
+    "category": "BIRD, REPTILE OR FELINE"
+  },
+  "bonusRound": {
+    "clue": "The names of this state & its state capital both end with the letters \"na\"",
+    "choices": [
+      "Nebraska",
+      "Virginia",
+      "Montana",
+      "Alaska"
+    ],
+    "correctIndex": 2,
+    "category": "U.S. STATE NAMES"
+  }
+}

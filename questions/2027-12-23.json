@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-23",
+  "categories": [
+    {
+      "name": "WOMEN ON THE MAP",
+      "questions": [
+        {
+          "clue": "New Jersey's 4 largest cities in population are Newark, Jersey City, Paterson & her",
+          "choices": [
+            "Trenton",
+            "Elizabeth",
+            "Camden",
+            "Cherry Hill"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Located about 4 miles off the coast of Massachusetts, it's one of the few U.S. place names to have an apostrophe",
+          "choices": [
+            "Martha's Vineyard",
+            "Nantucket",
+            "Block Island",
+            "Cape Cod"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This capital of South Australia was named for the wife of Britain's King William IV",
+          "choices": [
+            "Adelaide",
+            "Perth",
+            "Victoria",
+            "Sydney"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The city of Enid in this state is believed to be named for a character in \"Idylls of the King\"",
+          "choices": [
+            "Oklahoma",
+            "Kansas",
+            "Texas",
+            "Colorado"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A state in Australia & an African waterfall both bear her name",
+          "choices": [
+            "King George",
+            "(Queen) Victoria",
+            "Princess Diana",
+            "Empress Elizabeth"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BLOWIN' IN THE WIND",
+      "questions": [
+        {
+          "clue": "Before it first touches down on the ground, its funnel looks white, as it's just made up of water droplets",
+          "choices": [
+            "a hurricane",
+            "a tornado",
+            "a cyclone",
+            "a dust devil"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A tower in Athens shows the 8 winds in an ancient Greek systemization; Boreas is the strong wind from this compass direction",
+          "choices": [
+            "south",
+            "east",
+            "north",
+            "west"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Safaga on Egypt's east coast is a windsurfing & sailing destination on this sea",
+          "choices": [
+            "the Red Sea",
+            "the Mediterranean Sea",
+            "the Persian Gulf",
+            "the Indian Ocean"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Antarctic downslope winds, which can average nearly 50 mph, get their speed from this force, rather than the atmosphere",
+          "choices": [
+            "pressure",
+            "friction",
+            "magnetism",
+            "gravity"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1944, this specific type of tropical storm that damaged dozens of Navy ships was named for Admiral Halsey",
+          "choices": [
+            "a typhoon",
+            "a hurricane",
+            "a cyclone",
+            "a tornado"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "2011 NEWS",
+      "questions": [
+        {
+          "clue": "Starting Sept. 17, part of Lower Manhattan was occupied 24/7 by the protest group \"Occupy\" this",
+          "choices": [
+            "Madison Square Garden",
+            "Wall Street",
+            "City Hall",
+            "Brooklyn Bridge"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This orbiter that got the Shuttle program back aloft after 2 disasters made its 39th & final flight",
+          "choices": [
+            "Atlantis",
+            "Discovery",
+            "Endeavour",
+            "Challenger"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Democratic state senators fled this state to stall Gov. Walker's union-busting budget bill",
+          "choices": [
+            "Minnesota",
+            "Iowa",
+            "Illinois",
+            "Wisconsin"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This European country with 2 distinct ethnic groups broke a record by marking 249 days without a government",
+          "choices": [
+            "Greece",
+            "Ireland",
+            "Belgium",
+            "Croatia"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In January this \"Godfather of Fitness\", who opened his first exercise studio in 1936, died at age 96",
+          "choices": [
+            "Joe Weider",
+            "Steve Reeves",
+            "Jack LaLanne",
+            "Arthur Jones"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Standing inside this 5-pointed star can protect you from witchcraft",
+    "choices": [
+      "hexagram",
+      "sigil",
+      "pentacle",
+      "amulet"
+    ],
+    "correctIndex": 2,
+    "category": "WITCHCRAFT"
+  }
+}

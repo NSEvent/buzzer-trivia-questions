@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-06",
+  "categories": [
+    {
+      "name": "CATCHPHRASES",
+      "questions": [
+        {
+          "clue": "Biblical term for a menacing sermon, from 2 torments it depicts awaiting sinners",
+          "choices": [
+            "Blood & guts",
+            "Fire & brimstone",
+            "Smoke & mirrors",
+            "Fire & ice"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A slogan for women's political representation goes, \"A woman's place is in the house... and\" here",
+          "choices": [
+            "in the Senate",
+            "in the kitchen",
+            "in the office",
+            "in the field"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The answer is yes if a dish of foie hache asks, \"What am I,\" this?",
+          "choices": [
+            "Poached egg",
+            "Scrambled cheese",
+            "Chopped liver",
+            "Fried rice"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Rhyming phrase that means a nap can lead to a missed opportunity",
+          "choices": [
+            "if you sleep, you weep",
+            "if you nod, you sod",
+            "if you snooze, you lose",
+            "if you rest, you fail"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The \"hole\" in this phrase meaning an explosive device is about to go off may have originally been a mine",
+          "choices": [
+            "fire in the hole",
+            "bomb in the box",
+            "explosive in the pit",
+            "detonation in the shaft"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ART TRIVIA",
+      "questions": [
+        {
+          "clue": "If you're facing Whistler's mother, she's looking off in this direction",
+          "choices": [
+            "right",
+            "center",
+            "left",
+            "behind"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "His most famous bronze sculpture is called \"Bronco Buster\"",
+          "choices": [
+            "Bierstadt",
+            "Remington",
+            "Cole",
+            "Durand"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In famous 1810 painting by Jacques Louis David, hand Napoleon has tucked in his vest",
+          "choices": [
+            "his left hand",
+            "his hidden hand",
+            "his gloved hand",
+            "his right hand"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Objects melted over the landscape in Dali's \"The Persistence of Memory\"",
+          "choices": [
+            "rubber ducks",
+            "(pocket) watches (clocks accepted)",
+            "ice cream cones",
+            "golden statues"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Direction you have to look to view the famous \"The Creation of Adam\"",
+          "choices": [
+            "left",
+            "up",
+            "right",
+            "behind"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PRESIDENTIAL TERMS OF SERVICE",
+      "questions": [
+        {
+          "clue": "January 20, 1953 - January 2, 1961",
+          "choices": [
+            "Harry S. Truman",
+            "John F. Kennedy",
+            "Lyndon B. Johnson",
+            "Dwight D. Eisenhower"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "March 4, 1857- March 3, 1861",
+          "choices": [
+            "James Buchanan",
+            "Abraham Lincoln",
+            "Andrew Johnson",
+            "Ulysses S. Grant"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "March 4, 1869- March 3, 1877",
+          "choices": [
+            "Rutherford B. Hayes",
+            "James A. Garfield",
+            "Ulysses S. Grant",
+            "Chester A. Arthur"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "September 14, 1901 - March 4, 1909",
+          "choices": [
+            "William McKinley",
+            "William Howard Taft",
+            "Theodore Roosevelt",
+            "Franklin D. Roosevelt"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "March 4, 1797- March 3, 1801",
+          "choices": [
+            "Thomas Jefferson",
+            "George Washington",
+            "John Adams",
+            "James Madison"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "James Leo Herlihy wrote this 1965 novel about Joe Buck, who tries to make it in New York as a stud for hire",
+    "choices": [
+      "Midnight Cowboy",
+      "American Gigolo",
+      "Taxi Driver",
+      "Blue Velvet"
+    ],
+    "correctIndex": 0,
+    "category": "\\'ROUND MIDNIGHT"
+  }
+}

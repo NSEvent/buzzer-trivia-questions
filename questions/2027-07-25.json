@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-25",
+  "categories": [
+    {
+      "name": "TOUGH TV",
+      "questions": [
+        {
+          "clue": "When this game show premiered on July 12, 1976, the Moseleys were pitted agains the Abramowitzes",
+          "choices": [
+            "Match Game",
+            "Family Feud",
+            "The Price is Right",
+            "What's My Line"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Micky Dolenz was billed as Micky Braddock when he played this \"Circus Guy\"",
+          "choices": [
+            "Ringo",
+            "Corky",
+            "Mickey",
+            "Dennis"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Season 8 of this visually challenged dating show debuted on Valentine's Day 2025",
+          "choices": [
+            "The Bachelorette",
+            "Love Actually",
+            "Love Is Blind",
+            "Single's Inferno"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Jodie Foster played Addie in the series based on this movie for which Tatum O'Neal won an Oscar",
+          "choices": [
+            "Little Miss Marker",
+            "Paper Moonlight",
+            "Paper Moon",
+            "Oscar Wilde"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 2018 this foreign-born sitcom star continued her reign as the highest-paid TV actress",
+          "choices": [
+            "Kim Cattrall",
+            "Jessica Lange",
+            "Sofia Vergara",
+            "Julianna Margulies"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DICT. ABBREV.",
+      "questions": [
+        {
+          "clue": "pp (a verb form)",
+          "choices": [
+            "present perfect",
+            "past tense",
+            "past participle",
+            "present participle"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Another way to shorten: contr.",
+          "choices": [
+            "a combination",
+            "a contraction",
+            "a reduction",
+            "a mixture"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Not a comment on originality, but for etymology: der.",
+          "choices": [
+            "a derivative (derivation accepted)",
+            "a copy",
+            "a replica",
+            "a mimicry"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "LaF (what a Cajun might speak)",
+          "choices": [
+            "Creole",
+            "Cajun Spanish",
+            "Louisiana French",
+            "Louisiana Creole"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "IE (a hyphenated family of languages)",
+          "choices": [
+            "Indo-Iranian",
+            "Proto-Indo-European",
+            "Anatolian",
+            "Indo-European"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COMPLETE THE MOVIE QUOTE",
+      "questions": [
+        {
+          "clue": "\"To Have and Have Not\": \"You know how to ____, don't you, Steve?\"",
+          "choices": [
+            "whistle",
+            "whiz",
+            "hiss",
+            "sing"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"Love Story\": \"Love means ____ ____ ____ ____ ____ ____\"",
+          "choices": [
+            "never forgetting who you are",
+            "always giving more than you take",
+            "never letting go of the past",
+            "never having to say you're sorry"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"Gone with the Wind\": \"As God is my witness... I'll never be ____ ____\"",
+          "choices": [
+            "afraid again",
+            "alone now",
+            "poor again",
+            "hungry again"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "\"White Heat\": \"Made it, ma! Top of ____ ____\"",
+          "choices": [
+            "the sky",
+            "the hill",
+            "the world",
+            "the peak"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Fast Times at Ridgemont High\": \"When it comes down to making out, whenever possible, put on side 1 of ____ ____ ____\"",
+          "choices": [
+            "Pink Floyd Dark Side",
+            "Led Zeppelin IV",
+            "The Beatles Abbey Road",
+            "Queen A Night at the Opera"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This Caribbean nation's oldest lighthouse sits on Morant Point about 40 miles from Kingston",
+    "choices": [
+      "Jamaica",
+      "Cuba",
+      "Bahamas",
+      "Trinidad and Tobago"
+    ],
+    "correctIndex": 0,
+    "category": "WHAT'S THE POINT?"
+  }
+}

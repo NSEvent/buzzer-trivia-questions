@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-30",
+  "categories": [
+    {
+      "name": "SUFFRAGETTE CITY",
+      "questions": [
+        {
+          "clue": "Lucy Burns took to the sky in 1916 to scatter leaflets over this city in Washington state",
+          "choices": [
+            "Seattle",
+            "Portland",
+            "Tacoma",
+            "Spokane"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A utilitarian philosopher who worked with suffrage societies, he wrote 1869's \"The Subjection of Women\"",
+          "choices": [
+            "Jeremy Bentham",
+            "John Stuart Mill",
+            "John Locke",
+            "Thomas Hobbes"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 1913 Alice Paul arranged for a demonstration of over 5,000 women before this man's inauguration in D.C.",
+          "choices": [
+            "Taft",
+            "Roosevelt",
+            "Wilson",
+            "Hoover"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The first woman to run for president, she was a proponent of free love as well as suffrage",
+          "choices": [
+            "Victoria Woodhull",
+            "Susan B. Anthony",
+            "Elizabeth Cady Stanton",
+            "Carrie Chapman Catt"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It's the number of the U.S. Constitutional amendment that gave women the right to vote",
+          "choices": [
+            "18th Amendment",
+            "17th Amendment",
+            "19th President",
+            "19th Amendment"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DESCRIBING THE TV SHOW",
+      "questions": [
+        {
+          "clue": "Gary Coleman co-stars, at home with the Drummonds, what'chu talkin' 'bout, contestants?",
+          "choices": [
+            "Diff'rent Strokes",
+            "The Facts of Life",
+            "Good Times",
+            "The Cosby Show"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Mr. Exotic! Country songs! Murder-for-hire! Polyamory! & More!",
+          "choices": [
+            "Tiger King",
+            "The Crown",
+            "Planet Earth",
+            "Making a Murderer"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"The Child\" needs caring for; a force-ful show in 2019; hold on, Nick Nolte was in it?!",
+          "choices": [
+            "Game of Thrones",
+            "Westworld",
+            "The Mandalorian",
+            "Stranger Things"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A TV show about a TV show; an ex-\"Friends\" star plays an ex-\"Friends\" star",
+          "choices": [
+            "Friends",
+            "Seinfeld",
+            "Episodes",
+            "The Office"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A plane crashes, people die (though it doesn't slow some of 'em down much), much DHARMA but little Greg",
+          "choices": [
+            "Lost",
+            "Survivor",
+            "Battlestar Galactica",
+            "Lost in Space"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MUSIC'S MISSING LINKS",
+      "questions": [
+        {
+          "clue": "Smells like Teen ____ In The Sky",
+          "choices": [
+            "Fire",
+            "Smoke",
+            "Spirit",
+            "Grain"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Fat Bottomed ____ Just Want To Have Fun",
+          "choices": [
+            "Girls",
+            "Boys",
+            "Women",
+            "Ladies"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Save Your ____ In Heaven",
+          "choices": [
+            "Tears",
+            "Pain",
+            "Soul",
+            "Breath"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "My Heart Will Go _____ Bended Knee",
+          "choices": [
+            "Until",
+            "On",
+            "Through",
+            "Across"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Almost _____ City",
+          "choices": [
+            "Eden",
+            "Paradise",
+            "Heaven",
+            "Utopia"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In a song from the film \"The Jungle Book\", these are \"bare\"",
+    "choices": [
+      "necessities",
+      "requirements",
+      "essentials",
+      "demands"
+    ],
+    "correctIndex": 0,
+    "category": "\"N\" GAME"
+  }
+}

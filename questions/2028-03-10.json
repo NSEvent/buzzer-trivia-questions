@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-10",
+  "categories": [
+    {
+      "name": "WHO'S WHO IN THE BIBLE",
+      "questions": [
+        {
+          "clue": "According to John's gospel, she was the first person to notice Jesus' empty tomb",
+          "choices": [
+            "Mary Magdalene",
+            "Mary of Bethany",
+            "The Virgin Mary",
+            "Salome"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1 Samuel 28 this king consulted the witch of Endor",
+          "choices": [
+            "Saul",
+            "David",
+            "Sennacherib",
+            "Nebuchadnezzar"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This big guy told Saul's army, \"Give me a man, that we may fight together\"",
+          "choices": [
+            "Gog",
+            "Goliath",
+            "Nimrod",
+            "Absalom"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "For committing murder, he was exiled to \"the Land of Nod, on the east of Eden\"",
+          "choices": [
+            "Abel",
+            "Jabal",
+            "Cain",
+            "Lamech"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "His jealous rivals should have seen the handwriting on the wall when the lions failed to eat him",
+          "choices": [
+            "Jonah",
+            "Ezekiel",
+            "Daniel",
+            "Jeremiah"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SIGN O' THE TIMES",
+      "questions": [
+        {
+          "clue": "In Catholicism it's made by touching the forehead, the chest, the left shoulder & then the right",
+          "choices": [
+            "the blessing of the faithful",
+            "the ritual of ablution",
+            "the sign of the cross",
+            "the confession of sins"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "One of these \"in the cloud\" was God's sign to Noah that he would never again flood the earth",
+          "choices": [
+            "a storm cloud",
+            "a rainbow",
+            "a shooting star",
+            "a halo of light"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Groovy, man; the pair of street signs marks an iconic intersection is this city",
+          "choices": [
+            "New York City",
+            "Los Angeles",
+            "Chicago",
+            "San Francisco"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Add a vertical line to the bottom half of a Mercedes logo & you'll have this familiar symbol",
+          "choices": [
+            "a peace sign",
+            "a nuclear symbol",
+            "a recycling symbol",
+            "a prohibition sign"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "On a telephone it's commonly to the immediate right of the zero",
+          "choices": [
+            "the star sign",
+            "the asterisk symbol",
+            "the pound sign",
+            "the hash tag"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "3-NAMED AUTHORS",
+      "questions": [
+        {
+          "clue": "On February 7, 1867 she was born in a little house in the big woods in Lake Pepin, Wisconsin",
+          "choices": [
+            "Louisa May Alcott",
+            "Frances Hodgson Burnett",
+            "Edith Wharton",
+            "Laura Ingalls Wilder"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1917, 3 years after \"Tarzan of the Apes\", he wrote \"A Princess of Mars\", the first of 11 John Carter novels",
+          "choices": [
+            "H. G. Wells",
+            "Arthur Conan Doyle",
+            "Robert Louis Stevenson",
+            "Edgar Rice Burroughs"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This pal of Emerson was known for a little \"Civil Disobedience\"",
+          "choices": [
+            "Ralph Waldo Emerson",
+            "Walt Whitman",
+            "Henry David Thoreau",
+            "Nathaniel Hawthorne"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "His \"The General in His Labyrinth\" is a historical novel about Simon Bolivar's last days",
+          "choices": [
+            "Mario Vargas Llosa",
+            "Gabriel Garc\u00eda Marquez",
+            "Jorge Luis Borges",
+            "Isabel Allende"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "A rhyme says he, \"by a mighty effort of will, overcame his...bonhomie & wrote 'Principles of Political Economy'\"",
+          "choices": [
+            "Adam Smith",
+            "Karl Marx",
+            "David Ricardo",
+            "John Stuart Mill"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Country with the longest national road; it runs 4,860 miles from a city with a woman's name to one with a man's",
+    "choices": [
+      "Australia",
+      "Canada",
+      "Russia",
+      "Brazil"
+    ],
+    "correctIndex": 1,
+    "category": "THE LONGEST"
+  }
+}

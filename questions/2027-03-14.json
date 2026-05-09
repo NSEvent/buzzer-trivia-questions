@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-14",
+  "categories": [
+    {
+      "name": "MEASURE FOR MEASURE",
+      "questions": [
+        {
+          "clue": "In England a \"long\" one of these is equal to 2,240 pounds",
+          "choices": [
+            "a long mile",
+            "a long yard",
+            "a long ton",
+            "a long foot"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Measured in degrees, it's the angular distance north or south of the Earth's equator",
+          "choices": [
+            "longitude",
+            "latitude",
+            "altitude",
+            "azimuth"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "One British thermal unit = about 1,055 of these units of energy named for a British physicist",
+          "choices": [
+            "the calory",
+            "the watt",
+            "the joule",
+            "the erg"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Noah must have read the World Almanac to know that 21.8 inches equals one of this type of ancient measure",
+          "choices": [
+            "a fathom",
+            "a span",
+            "a hand",
+            "a cubit"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "With regard to height, 3 hands equals 1 of these",
+          "choices": [
+            "a yard",
+            "a foot",
+            "a meter",
+            "a furlong"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BARE FACTS",
+      "questions": [
+        {
+          "clue": "Some cast members appeared nude in the 1st Act finale of this \"American Tribal Love-Rock, Musical\"",
+          "choices": [
+            "Hair",
+            "The Rocky Horror Picture Show",
+            "Showboat",
+            "Rent"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Guinness says Oaklake Trails in Oklahoma is the largest in area of these special places in the U.S.",
+          "choices": [
+            "a nudist colony",
+            "a nature preserve",
+            "a state park",
+            "a wildlife refuge"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "He became Cosmopolitan's 1st male nude centerfold in 1972, the year he co-starred in \"Deliverance\"",
+          "choices": [
+            "Jon Voight",
+            "Billy Dee Williams",
+            "Burt Reynolds",
+            "Michael Caine"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It's a \"thin\" term for swimming without your bathing suit",
+          "choices": [
+            "naked swimming",
+            "bareback diving",
+            "skinny dipping",
+            "topless bathing"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It's the term for the stand-in who performs your nude scenes while you relax in your trailer",
+          "choices": [
+            "a stunt double",
+            "a visual substitute",
+            "a body double",
+            "a scene stand-in"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ACTION FIGURES",
+      "questions": [
+        {
+          "clue": "In a tune by the Flaming Lips, Yoshimi battles some pink these; \"she's a black belt in karate\"",
+          "choices": [
+            "aliens",
+            "drones",
+            "robots",
+            "warriors"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In the Bravo reality show \"Spy Games\", contestants are assessed by a former officer at this Langley, Virginia organization",
+          "choices": [
+            "the FBI",
+            "the NSA",
+            "the CIA",
+            "the Pentagon"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A term for a tireless Soviet worker comes from the name of Alexei Stakhanov; he mined 102 tons of this in 6 hours",
+          "choices": [
+            "coal",
+            "iron",
+            "graphite",
+            "lignite"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Ted Martin kept one of these fad items aloft with 63,326 consecutive kicks in just under 9 hours",
+          "choices": [
+            "a football",
+            "a Hacky Sack",
+            "a beach ball",
+            "a volleyball"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In between epic fights, this Toronto hero of comics fame plays in a band called Sex Bob-omb",
+          "choices": [
+            "Scott Pilgrim vs. the World",
+            "Scott Pilgrim Takes Off",
+            "Scott Pilgrim",
+            "Scott Pilgrim Gets It Together"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Antimony gives strength & hardness to this metal, so you don't have those mushy bullets",
+    "choices": [
+      "tin",
+      "lead",
+      "zinc",
+      "copper"
+    ],
+    "correctIndex": 1,
+    "category": "METALS"
+  }
+}

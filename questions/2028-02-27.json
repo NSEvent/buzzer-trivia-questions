@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-27",
+  "categories": [
+    {
+      "name": "BEFORE THEY WON OSCARS",
+      "questions": [
+        {
+          "clue": "She played a teenage vamp on \"As The World Turns\" before \"My Cousin Vinny\" won her an Oscar",
+          "choices": [
+            "Demi Moore",
+            "Marisa Tomei",
+            "Liza Minnelli",
+            "Michelle Pfeiffer"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "She romanced Ian Ziering on \"Beverly Hills 90210\" before she found out that \"Boys Don't Cry\"",
+          "choices": [
+            "Gwyneth Paltrow",
+            "Hilary Swank",
+            "Jennifer Aniston",
+            "Claire Danes"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "He slayed us as the villainous Dario in the 007 film \"Licence to Kill\" before he got to play in \"Traffic\"",
+          "choices": [
+            "Javier Bardem",
+            "Benicio del Toro's cousin",
+            "The director of Traffic",
+            "Benicio del Toro"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "He played a man called Meatball in \"The Caine Mutiny\" 11 years before he horsed around in \"Cat Ballou\"",
+          "choices": [
+            "Michael Caine",
+            "Lee Marvin",
+            "Charles Bronson",
+            "Steve McQueen"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "We've lionized him ever since he played the young Richard the Lionhearted on film in \"The Lion in Winter\"",
+          "choices": [
+            "Gary Oldman",
+            "Helen Mirren",
+            "Judi Dench",
+            "Anthony Hopkins"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "POLITICAL HISTORY",
+      "questions": [
+        {
+          "clue": "Party whose 1852 slogan was, \"We Polk you in '44, we shall Pierce you in '52.\"",
+          "choices": [
+            "the Whigs",
+            "the Federalists",
+            "the Know Nothings",
+            "the Democrats"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Northern Democrats who had Confederate sympathies or the viper Agkistrodon contortrix",
+          "choices": [
+            "Copperheads",
+            "Cottonmouths",
+            "Timber Rattlesnakes",
+            "Water Moccasins"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "15 of the 39 men who became President were born in these two states",
+          "choices": [
+            "Maryland & New York",
+            "Pennsylvania & Kentucky",
+            "Tennessee & Massachusetts",
+            "Virginia & Ohio"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In the 1789 election he got 34 electoral votes \u2014the second highest total",
+          "choices": [
+            "John Adams",
+            "Thomas Jefferson",
+            "George Washington",
+            "Benjamin Franklin"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1970, the Senate repealed this 1964 resolution that allowed the use of force in Vietnam",
+          "choices": [
+            "The War Powers Resolution",
+            "The Gulf of Tonkin Resolution",
+            "The National Security Act",
+            "The Monroe Doctrine"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CORNERSTONES",
+      "questions": [
+        {
+          "clue": "The cornerstone for their monument was laid atop Kill Devil Hill on December 17, 1928",
+          "choices": [
+            "the Lindberghs",
+            "the Wright brothers",
+            "the Wright Flyer",
+            "the Wright Field"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "On a return visit to the U.S. in the 1820s, he visited all 24 states & laid the cornerstone for the Bunker Hill monument",
+          "choices": [
+            "George Washington",
+            "Marquis de Sade",
+            "(Marquis de) Lafayette",
+            "Sim\u00f3n Bol\u00edvar"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In June 1825, 50 years after the battle, Lafayette laid the",
+          "choices": [
+            "the Bunker Hill statue",
+            "the Boston Tea Party memorial",
+            "the Old North Church cornerstone",
+            "the Bunker Hill monument"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1163 Pope Alexander III laid the cornerstone for this iconic Paris cathedral that would take 200 years to complete",
+          "choices": [
+            "Sainte-Chapelle",
+            "Notre Dame",
+            "Lyon Cathedral",
+            "Chartres Cathedral"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "At the laying of the cornerstone for the Bunker Hill Monument, the Marquis de Lafayette & this famous orator led the ceremony",
+          "choices": [
+            "Daniel Boone",
+            "Daniel Webster",
+            "Daniel Shays",
+            "Daniel Tompkins"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "2001 to 2003: A Democrat from the Dakotas",
+    "choices": [
+      "Harry Reid",
+      "Mitch McConnell",
+      "Tom Daschle",
+      "Bob Dole"
+    ],
+    "correctIndex": 2,
+    "category": "SENATE MAJORITY LEADERS"
+  }
+}

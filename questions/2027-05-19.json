@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-19",
+  "categories": [
+    {
+      "name": "SHIP SHAPE",
+      "questions": [
+        {
+          "clue": "In 1720 the Water Club became one of the first organizations for these luxurious transports",
+          "choices": [
+            "sloops",
+            "galleons",
+            "brigs",
+            "yachts"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In an amazing engineering feat in 2013 the Costa Concordia was raised from the rocks off this country's coast",
+          "choices": [
+            "Italy",
+            "Spain",
+            "Greece",
+            "Croatia"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A PBS \"Nova\" special on the salvage efforts to recover it called this ship \"Lincoln's secret weapon\"",
+          "choices": [
+            "the Monitor's sister ship",
+            "the Ironclad Congress",
+            "the Monitor",
+            "the USS Princeton"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Henry Hudson used this \"astronomical\" ship to explore America in 1609",
+          "choices": [
+            "the Halve Maen's rival",
+            "the Half Moon",
+            "the Discovery",
+            "the Endeavour"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It was hijacked in 1985 by Palestinian terrorists who killed American Leon Klinghoffer",
+          "choices": [
+            "the Costa Concordia",
+            "the RMS Titanic",
+            "the MV Seabourn Spirit",
+            "the Achille Lauro"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COLD PLAY",
+      "questions": [
+        {
+          "clue": "This play that opened on Broadway in 2018 had Elsa, Hans, Anna & Kristoff perform \"Colder By The Minute\"",
+          "choices": [
+            "The Lion King",
+            "Frozen",
+            "Wicked",
+            "The Book of Mormon"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In a 1963 play Shelley Winters reminisced, \"I'd lay ...on my back, and swish my arms up and down\" & make this title item",
+          "choices": [
+            "snowmen",
+            "ice cubes",
+            "snow angels",
+            "frost flowers"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"Humbug High\" reimagined him as a ghost-plagued teen, taken on a Christmas journey",
+          "choices": [
+            "Jacob Marley",
+            "Tiny Tim",
+            "Bob Cratchit",
+            "Ebenezer Scrooge"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This Scandinavian's \"John Gabriel Borkman\" takes place on a winter night in a snowstorm",
+          "choices": [
+            "Ibsen",
+            "Chekhov",
+            "Strindberg",
+            "Shaw"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Henry II tries to get Eleanor to give up Aquitaine in this \"Winter\" play",
+          "choices": [
+            "King John",
+            "The Lion in Winter",
+            "Cymbeline",
+            "Much Ado About Nothing"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TELL",
+      "questions": [
+        {
+          "clue": "Although he may be legendary, William Tell is one of the best-known heroes of this nation",
+          "choices": [
+            "Switzerland",
+            "Austria",
+            "Denmark",
+            "Norway"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In the traditional William Tell story, this is the cause of death of the cruel governor Gessler",
+          "choices": [
+            "beheaded by sword",
+            "strangled with a bowstring",
+            "shot with an arrow",
+            "burned at the stake"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Tell, real or imagined, led the fight for Swiss freedom from this Austrian ruling house",
+          "choices": [
+            "Hohenzollern",
+            "Wittelsbach",
+            "Ascania",
+            "Habsburg"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The bad guys in the William Tell story work for this Austrian dynasty",
+          "choices": [
+            "Hohenzollerns",
+            "Wittelsbachs",
+            "Habsburgs",
+            "Ascanias"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This German cut down on the Sturm und Drang a bit for his 1804 play about the Tell legend",
+          "choices": [
+            "(Friedrich) Schiller",
+            "Goethe",
+            "Lessing",
+            "Herder"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "About 2170 B.C. the first known pedestrian tunnel was dug in Babylonia & passed under this river",
+    "choices": [
+      "the Tigris",
+      "the Nile",
+      "the Indus",
+      "the Euphrates"
+    ],
+    "correctIndex": 3,
+    "category": "TUNNELS"
+  }
+}

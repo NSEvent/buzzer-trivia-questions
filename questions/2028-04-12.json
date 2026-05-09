@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-12",
+  "categories": [
+    {
+      "name": "FICTIONAL VILLAINS",
+      "questions": [
+        {
+          "clue": "He's the personification of evil who beats Uncle Tom to death in Harriet Beecher Stowe's novel",
+          "choices": [
+            "Simon Legree",
+            "Rip Van Winkle",
+            "Huck Finn",
+            "Jay Gatsby"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Brom Bones is the rival who loses his head & scares this schoolmaster out of Sleepy Hollow",
+          "choices": [
+            "Tom Sawyer",
+            "Huckleberry Finn",
+            "Natty Bumppo",
+            "Ichabod Crane"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Tom Sawyer could tell you there's a cave named for him at Disneyland",
+          "choices": [
+            "The Mad Hatter",
+            "Captain Hook",
+            "Injun Joe",
+            "The Big Bad Wolf"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The evil Milady de Winter poisoned Mme. Bonacieux in this French swashbuckler",
+          "choices": [
+            "The Count of Monte Cristo",
+            "D'Artagnan",
+            "Athos",
+            "The Three Musketeers"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The decadent Snopes clan were featured in this author's \"The Hamlet\", \"The Town\", & \"The Mansion\"",
+          "choices": [
+            "Faulkner",
+            "Hemingway",
+            "Fitzgerald",
+            "Steinbeck"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BLANK \"UM\"",
+      "questions": [
+        {
+          "clue": "The National one, located in Baltimore's Inner Harbor, has a water capacity of more than 2.2 million gallons",
+          "choices": [
+            "aqueduct",
+            "aquifer",
+            "aquasonic",
+            "aquarium"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Pit's partner in a Poe title",
+          "choices": [
+            "the pendulum",
+            "the raven",
+            "the cat",
+            "the black bird"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In the classification of organisms, it comes between \"class\" and \"kingdom\"",
+          "choices": [
+            "species",
+            "order",
+            "phylum",
+            "domain"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In an old-fashioned grandfather clock, it swings back & forth regulating the time & causing the tick tock, tick tock",
+          "choices": [
+            "a spring",
+            "a weight",
+            "a pendulum",
+            "a gear"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The anti-anxiety drug Diazepam was introduced in 1963 under this trade name",
+          "choices": [
+            "Xanax",
+            "Valium",
+            "Prozac",
+            "Ritalin"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DECEMBER 7",
+      "questions": [
+        {
+          "clue": "1787: This state becomes the first to ratify the Constitution",
+          "choices": [
+            "Maryland",
+            "Pennsylvania",
+            "Delaware",
+            "New Hampshire"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "1678: Louis Hennepin becomes the first European to describe this landmark on the U.S.-Canada border",
+          "choices": [
+            "Cataract",
+            "Waterfall",
+            "Niagara Falls",
+            "Reynolds"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "1917: The U.S. declares war on this hyphenated kingdom",
+          "choices": [
+            "Germany-Belgium",
+            "Austria-Hungary",
+            "Ottoman-Egypt",
+            "Prussia-Saxony"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "1982: At a Texas prison, murderer Charlie Brooks becomes the first U.S. prisoner to be executed this way",
+          "choices": [
+            "gas chamber",
+            "electric chair",
+            "hanging",
+            "lethal injection"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "1972: America's last lunar landing mission, this one, blasts off from Cape Canaveral",
+          "choices": [
+            "Apollo 11",
+            "Gemini 12",
+            "Apollo 17",
+            "Soyuz 15"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "As a colony, Delaware passed from Sweden's control to this country's control in 1655",
+    "choices": [
+      "The United Kingdom",
+      "France",
+      "The Netherlands",
+      "The Spanish Empire"
+    ],
+    "correctIndex": 2,
+    "category": "DELAWARE"
+  }
+}

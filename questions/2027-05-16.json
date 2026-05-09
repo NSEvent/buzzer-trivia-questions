@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-16",
+  "categories": [
+    {
+      "name": "POLITICAL CARICATURES",
+      "questions": [
+        {
+          "clue": "He was only 30 when he won his U.S. Senate seat in 1962",
+          "choices": [
+            "John F. Kennedy",
+            "Robert Kennedy",
+            "Ted Kennedy",
+            "Edward M. Koch"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Once a Democrat, this senator switched parties before her 1975 marriage",
+          "choices": [
+            "Elizabeth Dole",
+            "Kay Bailey Hutchison",
+            "Sandra Day O'Connor",
+            "Mitt Romney"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "She served as a staff attorney for the Children's Defense Fund",
+          "choices": [
+            "Hillary Clinton",
+            "Ruth Bader Ginsburg",
+            "Linda Chavez",
+            "Diana Ross"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This governor probably had a bit more pull at the White House beginning in 2001",
+          "choices": [
+            "Rick Perry (Governor of Texas)",
+            "Jeb Bush (Governor of Florida)",
+            "Arnold Schwarzenegger (Governor of California)",
+            "George W. Bush (Governor of Texas)"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "We raise a toast to this guy who in 1993 dissolved his country's parliament",
+          "choices": [
+            "Mikhail Gorbachev",
+            "Boris Yeltsin",
+            "Vladimir Putin",
+            "Leonid Brezhnev"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LINES FROM LONGFELLOW",
+      "questions": [
+        {
+          "clue": "Title event described in the poem with the line \"One, if by land, and two, if by sea\"",
+          "choices": [
+            "the Boston Tea Party",
+            "the signing of the Declaration",
+            "the siege of Boston",
+            "the midnight ride of Paul Revere"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "They're what we \"leave behind us... on the sands of time\"",
+          "choices": [
+            "sandals",
+            "scars",
+            "shadows",
+            "footprints"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Longfellow's song about this person is set \"by the shining big-sea- water\"",
+          "choices": [
+            "Hiawatha's Wedding Feast",
+            "Hiawatha's Death",
+            "Hiawatha",
+            "Hiawatha's Childhood"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "About him Longfellow wrote, \"the muscles of his brawny arms are strong as iron bands\"",
+          "choices": [
+            "Paul Revere's Ride",
+            "\"The Village Smithy\"",
+            "The Wreck of the Hesperus",
+            "Evangeline"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"Like a sheeted ghost\" this schooner \"swept tow'rds the reef of Norman's Woe\"",
+          "choices": [
+            "the Mary Celeste",
+            "the Nina",
+            "the Hesperus",
+            "the Pinta"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BOOKS",
+      "questions": [
+        {
+          "clue": "This first lady's book \"To Love a Child\" featured stories about the foster grandparent program",
+          "choices": [
+            "Barbara Bush",
+            "Nancy Reagan",
+            "Rosalynn Carter",
+            "Lady Bird Johnson"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In the title of Lytton Strachey's most famous biography, this adjective precedes \"Victorians\"",
+          "choices": [
+            "Eminent",
+            "Famous",
+            "Great",
+            "Notorious"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "James Thurber & this \"Charlotte's Web\" author co-wrote the 1929 spoof \"Is Sex Necessary?\"",
+          "choices": [
+            "J.D. Salinger",
+            "John Updike",
+            "Kurt Vonnegut",
+            "E.B. White"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "\"Games Mother Never Taught You\" is about these games",
+          "choices": [
+            "board games",
+            "video games",
+            "corporate games",
+            "card games"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The first name of Stephen King's P.I. Gibney, it's the title of a 2023 bestseller where she takes center stage",
+          "choices": [
+            "Stephanie",
+            "Martha",
+            "Holly",
+            "Lorna"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Completes the first sentence of a Capote novel, \"When was it that first I heard of the grass...\"",
+    "choices": [
+      "flute",
+      "harp",
+      "cello",
+      "violin"
+    ],
+    "correctIndex": 1,
+    "category": "TRUMAN CAPOTE"
+  }
+}

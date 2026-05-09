@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-05",
+  "categories": [
+    {
+      "name": "SCIENCE GUYS",
+      "questions": [
+        {
+          "clue": "Naturalist William Maccgillivray provided most of the scientific data for this man's \"Birds of America\"",
+          "choices": [
+            "Darwin",
+            "Linnaeus",
+            "Huxley",
+            "Audubon"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The very first Nobel Prize for Physics went to Wilhelm Roentgen for his discovery of these, used in radiology",
+          "choices": [
+            "alpha particles",
+            "x-rays",
+            "infrared waves",
+            "gamma rays"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "He published his quantum theory in 1900 while a professor of physics in Berlin",
+          "choices": [
+            "(Albert) Einstein",
+            "(Niels) Bohr",
+            "(Ernest) Rutherford",
+            "(Max) Planck"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "He got through a pile of work between his birth in Rome in 1901 & his death in Chicago in 1954",
+          "choices": [
+            "Enrico Fermi",
+            "Albert Szent-Gy\u00f6rgyi",
+            "George Beadle",
+            "Edward Tatum"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "His uncertainty principle says a particle's position & momentum can't be known simultaneously",
+          "choices": [
+            "Schr\u00f6dinger",
+            "Planck",
+            "Heisenberg",
+            "Bohr"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CNN",
+      "questions": [
+        {
+          "clue": "Named for its Brooklyn-born host, this \"live\" interview show debuted on CNN in June 1985",
+          "choices": [
+            "Larry King Live",
+            "Larry King Tonight",
+            "The Larry King Show",
+            "King Live Tonight"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Anchored by Lou Dobbs, it was TV's first nightly business newscast",
+          "choices": [
+            "MarketWatch",
+            "The Wall Street Journal",
+            "Moneyline",
+            "Business 24/7"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This group includes Robert Novak & Margaret Carlson; they \"rumble\" on weekends at 7:00 P.M.",
+          "choices": [
+            "\"The Capital Gang\"",
+            "The Washington Report",
+            "Political Roundtable",
+            "Capitol Hill Report"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "After a tour as White House Chief of Staff, he became the \"nunu\" conservative voice on \"Crossfire\"",
+          "choices": [
+            "Lee Atwater",
+            "James Baker",
+            "Michael Deaver",
+            "John Sununu"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1997 CNN became the first U.S. news organization since 1969 with a permanent bureau in this country",
+          "choices": [
+            "China",
+            "Russia",
+            "Cuba",
+            "Vietnam"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A CAPITAL CITY IDEA",
+      "questions": [
+        {
+          "clue": "This city lies 5 miles from the Bay of Phaleron, an inlet of the Aegean Sea",
+          "choices": [
+            "Athens",
+            "Sparta",
+            "Corinth",
+            "Thebes"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In Turkish this capital is known as known as Lefkosa; in Greek it's known as Levkosia",
+          "choices": [
+            "Athens",
+            "Nicosia",
+            "Ankara",
+            "Sofia"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Founded in the 13th century, it's the capital & largest city of Laos",
+          "choices": [
+            "Luang Prabang",
+            "Savannakhet",
+            "Vang Vieng",
+            "Vientiane"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "No longer Alma-Ata, the capital city of this central Asian country is now Astana",
+          "choices": [
+            "Uzbekistan",
+            "Kazakhstan",
+            "Kyrgyzstan",
+            "Turkmenistan"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The official residence of King Mohammed VI of Morocco is the Dar al-Makhzen Royal Palace in this capital city",
+          "choices": [
+            "Rabat",
+            "Casablanca",
+            "Marrakech",
+            "Fez"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Mousetraps loaded with ping-pong balls show this effect in Disney's \"Our Friend the Atom\"",
+    "choices": [
+      "fission bomb",
+      "chain reaction",
+      "nuclear fusion",
+      "critical mass"
+    ],
+    "correctIndex": 1,
+    "category": "NUCLEAR PHYSICS"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-12",
+  "categories": [
+    {
+      "name": "THE LOW COUNTRIES",
+      "questions": [
+        {
+          "clue": "While Belgium & the Netherlands are kingdoms, Luxembourg is this",
+          "choices": [
+            "a republic",
+            "a grand duchy",
+            "a principality",
+            "a sovereign state"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The name of this Belgian resort is now used to mean any place with mineral springs",
+          "choices": [
+            "a spa",
+            "a retreat",
+            "a health club",
+            "a wellness center"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The world-famous Concertgebouw Orchestra is based in this city",
+          "choices": [
+            "Brussels",
+            "Amsterdam",
+            "Antwerp",
+            "Rotterdam"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The monarch of Luxembourg is not a king but one of these",
+          "choices": [
+            "a grand duke",
+            "a prince",
+            "an emperor",
+            "a duke"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This area of Belgium on the North Sea was home to painters such as Rubens, Breughel & van Eyck",
+          "choices": [
+            "Wallonia",
+            "Flanders",
+            "Brabant",
+            "Limburg"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TOUGH SCIENCE",
+      "questions": [
+        {
+          "clue": "As well as a fast airplane, it's a fast stream, like the ones of hot matter at 99.99% the speed of light from some black holes",
+          "choices": [
+            "a beam",
+            "a jet",
+            "a stream",
+            "a flow"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The 7 gases in this \"distinguished\" group got their name from their reluctance to mix with more common elements",
+          "choices": [
+            "alkali metals",
+            "noble gases",
+            "halogens",
+            "transition metals"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This virus, named for an African geographical feature, came to the U.S. in 1999",
+          "choices": [
+            "the Zika Virus",
+            "the Dengue Fever",
+            "the West Nile Virus",
+            "the Ebola Virus"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This element, symbol Mg, occurs naturally in such minerals as dolomite & brucite",
+          "choices": [
+            "magnesium",
+            "manganese",
+            "magnesium oxide",
+            "magnesium chloride"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Elizabeth Blackburn figured out the structure of these segments at the ends of chromosomes that help control cells' aging & maybe ours",
+          "choices": [
+            "centromeres",
+            "telomeres",
+            "chromatin",
+            "histones"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HEAT",
+      "questions": [
+        {
+          "clue": "Heatstroke can occur when this process of eliminating the body's salts ceases",
+          "choices": [
+            "Sweating",
+            "Panting",
+            "Shivering",
+            "Vasodilation"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Guys who can't wait to start firing idiomatically go in \"with guns\" this hot way",
+          "choices": [
+            "guns firing",
+            "guns loaded",
+            "guns aimed",
+            "guns blazing"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "One hot summer day in 2016, the Boston Globe punningly wrote, \"Gimme\" this, a likely homage to the Stones",
+          "choices": [
+            "gimme sweat",
+            "gimme boiling",
+            "gimme scorching",
+            "gimme swelter"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "One of Dan Patrick's catchphrases at ESPN was this, Spanish for \"on fire\"",
+          "choices": [
+            "en llamas",
+            "en fuego",
+            "en calor",
+            "en llanto"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This form of energy, defined as the Earth's natural heat, warms buildings in Klamath Falls, Boise & Reykjavik",
+          "choices": [
+            "Solar power",
+            "Geothermal energy",
+            "Geothermal heat",
+            "Hydrothermal energy"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This major river of north central Wyoming was named for the sheep fur trader Francois Larocque saw on its banks",
+    "choices": [
+      "Green",
+      "Laramie",
+      "Snake",
+      "Bighorn"
+    ],
+    "correctIndex": 3,
+    "category": "WYOMING"
+  }
+}

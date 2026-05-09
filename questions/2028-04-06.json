@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-06",
+  "categories": [
+    {
+      "name": "NOT SO RECENT SCIENCE",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Lavoisier was one of the men on the committee that came up with this measurement system in 1790s France",
+          "choices": [
+            "imperial system",
+            "avoirdupois system",
+            "metric system",
+            "decimal system"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "Around 335 B.C., this Greek founded the Lyceum, where he taught logic & observation",
+          "choices": [
+            "Plato",
+            "Aristotle",
+            "Socrates",
+            "Pythagoras"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 600,
+          "clue": "In 1879 after 1000s of failures Edison found a simple scorched cotton thread worked best as one of these",
+          "choices": [
+            "platinum wire",
+            "lightbulb filament",
+            "carbonized paper strip",
+            "bamboo fiber"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "value": 800,
+          "clue": "In 1879, after thousands of failures, Edison found a simple scorched cotton thread worked best as one of these",
+          "choices": [
+            "a platinum wire",
+            "a carbon arc",
+            "a copper coil",
+            "a filament"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "In 1891 Brucia, the 323rd asteroid discovered, was unique as it was the first one found by using these",
+          "choices": [
+            "telescopic observation",
+            "spectroscopic analysis",
+            "mathematical calculation",
+            "photographs"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "ALTER EGOS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "Selina Kyle is just purrfect when she becomes this enticing villain",
+          "choices": [
+            "Catwoman",
+            "Poison Ivy",
+            "Harley Quinn",
+            "Black Widow"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "This chemistry teacher: Heisenberg, a meth kingpin",
+          "choices": [
+            "Walter White",
+            "Jesse Pinkman",
+            "Saul Goodman",
+            "Tony Soprano"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 600,
+          "clue": "As a part of the Fantastic Four, Ben Grimm is it\u2014er, him",
+          "choices": [
+            "the Thing",
+            "Mr. Fantastic",
+            "the Human Torch",
+            "the Invisible Woman"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 800,
+          "clue": "Emperor Palpatine: This Sith lord",
+          "choices": [
+            "Darth Vader",
+            "Darth Maul",
+            "Darth Tyranus",
+            "Darth Sidious"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "The Half-Blood Prince: This potions professor",
+          "choices": [
+            "Dumbledore",
+            "Snape",
+            "McGonagall",
+            "Slughorn"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "ASIAN CITIES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "This Saudi Arabian holy city was called Macoraba by the ancients",
+          "choices": [
+            "Medina",
+            "Jeddah",
+            "Riyadh",
+            "Mecca"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "A 16-mile rail line crossing Johor Strait connects this city-state with Malaysia",
+          "choices": [
+            "Hong Kong",
+            "Brunei",
+            "Penang",
+            "Singapore"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "Jogjakarta in this country was the site of an early 19th century revolt against Dutch rule",
+          "choices": [
+            "Malaysia",
+            "the Philippines",
+            "Vietnam",
+            "Indonesia"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "The only big city in a nation of small towns & villages, this Asian capital is located on the delta of the Chao Phraya River",
+          "choices": [
+            "Ho Chi Minh City",
+            "Dhaka",
+            "Bangkok",
+            "Yangon"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "The old part of this Yemeni capital is surrounded by a 30-foot high wall",
+          "choices": [
+            "Aden",
+            "Sana'a",
+            "Muscat",
+            "Amman"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "TALK LIKE A PIRATE",
+    "clue": "The Nebraska legislature be tree lovers & made this day, April 22, a legal holiday",
+    "choices": [
+      "Earth Day",
+      "National Tree Day",
+      "Conservation Day",
+      "Arbor Day"
+    ],
+    "correctIndex": 3
+  }
+}

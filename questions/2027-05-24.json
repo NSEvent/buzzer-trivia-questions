@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-24",
+  "categories": [
+    {
+      "name": "SEEING \"RED\"",
+      "questions": [
+        {
+          "clue": "From the color of a penny, this term for something trivial often follows the words \"Not worth a...\"",
+          "choices": [
+            "blue cent",
+            "black cent",
+            "red cent",
+            "white cent"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This character from \"Through the Looking Glass\" lends her name to a new theory of evolutionary biology",
+          "choices": [
+            "the Red Queen",
+            "the White Queen",
+            "the Blue Queen",
+            "the Red King"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The website of this brand of candy similar to Twizzlers said it's a favorite of Tom Hanks & Brad Pitt",
+          "choices": [
+            "Red Vines",
+            "Red Hots",
+            "Red Sour Strips",
+            "Red Licorice Whips"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "When he played Macbeth onstage in 1947, his now-famous daughters were little girls",
+          "choices": [
+            "Laurence Olivier",
+            "John Gielgud",
+            "Paul Scofield",
+            "Michael Redgrave"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The Molly Pitcher Inn is a delightful waterfront hotel in this New Jersey town",
+          "choices": [
+            "Asbury Park",
+            "Atlantic City",
+            "Long Branch",
+            "Red Bank"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CAR TROUBLE",
+      "questions": [
+        {
+          "clue": "A high-pitched noise could be the pad wear indicator, indicating problems with these pads",
+          "choices": [
+            "brake pads",
+            "clutch plates",
+            "tires",
+            "shock absorbers"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "With high hopes, in 1985 Malcolm Bricklin began importing these boxy, cheap cars from central Europe to the U.S.",
+          "choices": [
+            "Miras",
+            "Cimias",
+            "Yugos",
+            "Yugo Gals"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Production of this Chevrolet ran for 10 years before Ralph Nader helped instigate its demise",
+          "choices": [
+            "Vega",
+            "Corvair",
+            "Nova",
+            "Monza"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "(Sofia of the Clue Crew waving a flag.) It's a synonym for care or another name for the yellow flag in auto racing",
+          "choices": [
+            "stop",
+            "caution",
+            "hazard",
+            "warning"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This luxury car maker's 1982 Cimarron, a 4-cylinder small car, just didn't sell",
+          "choices": [
+            "Buick",
+            "Pontiac",
+            "Chevrolet",
+            "Cadillac"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ORGAN RECITAL",
+      "questions": [
+        {
+          "clue": "This organ breaks down ingested nutrients into small particles & mixes them with gastric juices to make chyme",
+          "choices": [
+            "the liver",
+            "the stomach",
+            "the intestine",
+            "the pancreas"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The diencephalon, part of this organ, includes the thalamus",
+          "choices": [
+            "the spinal cord",
+            "the heart",
+            "the brain",
+            "the lungs"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Each of these organs has a visceral pleura & a parietal pleura",
+          "choices": [
+            "the liver",
+            "the brain",
+            "the kidneys",
+            "the lungs"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The epicardium is its outer layer",
+          "choices": [
+            "the brain",
+            "the kidneys",
+            "the heart",
+            "the stomach"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Virgil Fox was the longtime virtuoso on the organ at this NYC church on the West Side drive of the same name",
+          "choices": [
+            "St. Patrick's Cathedral",
+            "Rockefeller Chapel",
+            "Cathedral of St. John the Divine",
+            "Riverside Church"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Inducting him with just 3 others in a new Comedy Hall of Fame, John Mulaney said this \"Fisher King\" star never once phoned it in",
+    "choices": [
+      "Bill Murray",
+      "Steve Martin",
+      "Robin Williams",
+      "Richard Pryor"
+    ],
+    "correctIndex": 2,
+    "category": "COMEDIANS"
+  }
+}

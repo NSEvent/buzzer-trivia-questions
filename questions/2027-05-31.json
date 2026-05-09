@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-31",
+  "categories": [
+    {
+      "name": "ANIMALS OF THE AMAZON",
+      "questions": [
+        {
+          "clue": "This 3-toed arboreal mammal has extra neck vertebrae that allow it to turn its head 270 degrees",
+          "choices": [
+            "a sloth",
+            "a monkey",
+            "a opossum",
+            "a lizard"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "One of 20 species of this fish found in the Amazon, the red-bellied has razor-sharp teeth & hunts in groups that sometimes exceed 100",
+          "choices": [
+            "catfish",
+            "piranhas",
+            "arapaima",
+            "electric eels"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The hoatzin is also called the this music genre bird due to its crest resembling a mohawk hairstyle",
+          "choices": [
+            "heavy metal",
+            "punk rock",
+            "grunge",
+            "reggae"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The females of this giant water boa are longer than the males by an average of around 10 feet",
+          "choices": [
+            "a python",
+            "a boa constrictor",
+            "an anaconda",
+            "a green mamba"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The Amazon's largest predator, the black this alligator relative was hunted almost to extinction for its valuable hide",
+          "choices": [
+            "a crocodile",
+            "a caiman",
+            "a python",
+            "a jaguar"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE GHOST OF TOM JOAD",
+      "questions": [
+        {
+          "clue": "...remembers that when we meet Tom, he's just finished 4 years here, & it ain't college",
+          "choices": [
+            "college",
+            "prison",
+            "military",
+            "the army"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Maybe the ghost hangs around the cells of this state's penitentiary in McAlester, where Tom did time",
+          "choices": [
+            "Texas",
+            "Arkansas",
+            "Louisiana",
+            "Oklahoma"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Looking at a Hudson Super Six, named for its six of these, feel the presence of the Joads who converted one into a truck & piled in",
+          "choices": [
+            "six cylinder engine",
+            "cylinder block",
+            "wheel cylinders",
+            "fuel cylinders"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Enjoying a meal of lapin, this animal, think of Tom, who eats it strung on baling wire & cooked over a burning plank from his family home",
+          "choices": [
+            "fox",
+            "mouse",
+            "rabbit",
+            "deer"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Remember Tom if you visit Bakersfield; he did too\u2014specifically the outskirts & this kind of place named for a president",
+          "choices": [
+            "Trumanville",
+            "(a) Hooverville",
+            "Lincolnville",
+            "Rooseveltville"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RECENT MUSIC",
+      "questions": [
+        {
+          "clue": "(Hi, I'm Eric Stonestreet of Modern Family.) I got to appear in this man's video for \"Tacky\", a parody of Pharrell's song \"Happy\"",
+          "choices": [
+            "Ylvis",
+            "\"Weird Al\"",
+            "Tenacious D",
+            "Ween"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Group that headlined the No Strings Attached tour",
+          "choices": [
+            "Backstreet Boys",
+            "O-Town",
+            "\\'N Sync",
+            "LFO"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "She released 2 albums in 2000, \"Mi Reflejo\" & \"My Kind of Christmas\"",
+          "choices": [
+            "Britney Spears",
+            "Jessica Simpson",
+            "Hilary Duff",
+            "Christina Aguilera"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A top video of the year was this group's \"Say My Name\"",
+          "choices": [
+            "TLC",
+            "Destiny's Child",
+            "En Vogue",
+            "Spice Girls"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Billy Joel's \"She's Always A Woman\" inspired John Legend to write this song for Chrissy Teigen",
+          "choices": [
+            "\"All Of Me\"",
+            "\"A Thousand Years\"",
+            "\"Thinking Out Loud\"",
+            "\"Perfect\""
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Assiniboine Park in this capital of Manitoba boasts a miniature railway",
+    "choices": [
+      "Winnipeg",
+      "Toronto",
+      "Ottawa",
+      "Halifax"
+    ],
+    "correctIndex": 0,
+    "category": "WORLD HODGEPODGE"
+  }
+}

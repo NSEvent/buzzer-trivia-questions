@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-21",
+  "categories": [
+    {
+      "name": "THEMES & TRADEMARKS",
+      "questions": [
+        {
+          "clue": "This bread's wrapper features red, yellow & blue balloons all over it",
+          "choices": [
+            "Nature's Own",
+            "Wonder Bread",
+            "Arnold Bread",
+            "Dave's Killer Bread"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Appropriately, this type of animal is featured in the Lufthansa & Japan Air Lines logos",
+          "choices": [
+            "eagles",
+            "birds",
+            "planes",
+            "routes"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Though he's been on the oats box since 1877, the Quaker didn't do this until redesigned after WWII",
+          "choices": [
+            "to blink",
+            "to wave",
+            "to laugh",
+            "to smile"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Moving van line whose logo includes a Highway 1 road sign",
+          "choices": [
+            "United Van Lines",
+            "Mayflower Transit",
+            "Allied Van Lines",
+            "North American Van Lines"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Did you ever notice how he begins his \"60 Minutes\" segments with \"Did ya notice...?\"",
+          "choices": [
+            "Walter Cronkite",
+            "Andy Rooney",
+            "Dan Rather",
+            "Mike Wallace"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HAVE A \"HART\"",
+      "questions": [
+        {
+          "clue": "For years, this genial host said, \"Good morning, America\"",
+          "choices": [
+            "Bill Moyers",
+            "Tom Brokaw",
+            "John Stossel",
+            "David Hartman"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "She debuted as the blind girl in \"A Patch of Blue\"",
+          "choices": [
+            "Carroll Baker",
+            "Paul Newman",
+            "Elizabeth Hartman",
+            "Sidney Poitier"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The middle S in his name could have stood for \"stone-faced silent star\"",
+          "choices": [
+            "William Holden",
+            "William Shatner",
+            "William S. Hart",
+            "William Conrad"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Due to its high shoulders, this African antelope's back slopes to the rear",
+          "choices": [
+            "a hartebeest",
+            "a gazelle",
+            "an oryx",
+            "a springbok"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Polaroid's \"1st Lady\", mistaken for, but definitely not, Mrs. James Garner",
+          "choices": [
+            "Jane Hartley",
+            "Mariette Scott",
+            "Jane Fonda",
+            "Mariette Hartley"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"IN\" THE DICTIONARY",
+      "questions": [
+        {
+          "clue": "It's any of various small mammals that feed mainly on bugs",
+          "choices": [
+            "rodents",
+            "carnivores",
+            "insectivores",
+            "omnivores"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew demonstrates.) When salt & pepper are added to water & shaken, the salt seemingly disappears, while the pepper remains, because pepper is this 9-letter word in water",
+          "choices": [
+            "solvable",
+            "insoluble",
+            "insolvent",
+            "insolence"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "It's another term for vaccination",
+          "choices": [
+            "inoculation",
+            "inaction",
+            "inactivity",
+            "inanity"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It's French for an innocent, unworldly young woman, or an actress who plays one",
+          "choices": [
+            "a ingenio",
+            "an ingenue",
+            "an ingenua",
+            "an inguenue"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "FDR called December 7, 1941 \"a date which will live in\" this",
+          "choices": [
+            "infidelity",
+            "infamy",
+            "insanity",
+            "inertia"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The name of this Mexican breakfast dish means it's cooked in a ranch style",
+    "choices": [
+      "huevos ranchos",
+      "huevos ranchers",
+      "huevos rancho",
+      "huevos rancheros"
+    ],
+    "correctIndex": 3,
+    "category": "BREAKFAST"
+  }
+}

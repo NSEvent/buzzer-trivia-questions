@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-07",
+  "categories": [
+    {
+      "name": "BUSINESS HISTORY",
+      "questions": [
+        {
+          "clue": "This co. known for its yellow rental trucks began in 1933 with a 1931 black model a Ford truck",
+          "choices": [
+            "U-Haul",
+            "Ryder",
+            "Penske",
+            "Budget"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Founded in 1869 as a flour milling company it now owns Green Giant, Haagen-Dazs & Burger King",
+          "choices": [
+            "General Mills",
+            "Kellogg's",
+            "Nabisco",
+            "Pillsbury"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Colorful canine description for an agreement a worker signs promising not to join a union",
+          "choices": [
+            "yellow-dog",
+            "non-compete",
+            "arbitration",
+            "NDA"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This cookie company was founded in 1937 by a Connecticut woman & named for her family's country home",
+          "choices": [
+            "Lilly Pulitzer",
+            "Vlasic",
+            "Wonder Bread",
+            "Pepperidge Farm"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 2020 the Justice Dept. wound up its case against this Sackler Family opioid maker, which agreed to pay $8 billion in penalties",
+          "choices": [
+            "Johnson & Johnson",
+            "Purdue (Pharma)",
+            "Pfizer Inc.",
+            "GlaxoSmithKline"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HISTORIC GEOGRAPHY",
+      "questions": [
+        {
+          "clue": "Until 1939 this nation was known as Siam",
+          "choices": [
+            "Cambodia",
+            "Thailand",
+            "Laos",
+            "Burma"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Under the leadership of Nasser, this union of Egypt & Syria was proclaimed Feb. 1, 1958",
+          "choices": [
+            "United Arab Emirates",
+            "Syrian Arab Republic",
+            "Egyptian Federation",
+            "United Arab Republic (UAR)"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The Empress Josephine was born on this French island in the West Indies",
+          "choices": [
+            "Guadeloupe",
+            "Puerto Rico",
+            "Martinique",
+            "Cuba"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1958 the Communist Chinese bombarded Quemoy & this island to force the Nationalist Chinese out",
+          "choices": [
+            "Penghu",
+            "Hainan",
+            "Wanshan",
+            "Matsu"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Before it was a gulf that made 1960s news, it was a region of northern Vietnam",
+          "choices": [
+            "Cochinchina",
+            "Annam",
+            "Laos",
+            "Tonkin"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GOING \"GREEN\"",
+      "questions": [
+        {
+          "clue": "Frogskin is a synonym for this other monetary slang",
+          "choices": [
+            "a buck",
+            "a greenie",
+            "a greenback",
+            "a tender"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This structure for the cultivation of your prized orchids can have quite an \"effect\" on visitors",
+          "choices": [
+            "a solarium",
+            "a conservatory",
+            "a veranda",
+            "a greenhouse"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "An old term for a newcomer, especially one unfamiliar with the manners & customs of a new place",
+          "choices": [
+            "greenback",
+            "green thumb",
+            "green room",
+            "greenhorn"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A first timer on a cattle drive",
+          "choices": [
+            "a greenhorn cowboy",
+            "a greenhorn rider",
+            "a greenhorn",
+            "a greenhorn drifter"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Superficial or insincere activities by a business or other organization intended to show concern for the environment",
+          "choices": [
+            "green energy",
+            "greenwashing",
+            "green tech",
+            "green living"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Once known as Montezuma, this Minnesota city was renamed to honor an Indian princess (not actress Ryder)",
+    "choices": [
+      "Winfield",
+      "Winona Lake",
+      "Winnebago",
+      "Winona"
+    ],
+    "correctIndex": 3,
+    "category": "\"W\"HERE'S THAT?"
+  }
+}

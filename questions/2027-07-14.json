@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-14",
+  "categories": [
+    {
+      "name": "BROADWAY LYRICS",
+      "questions": [
+        {
+          "clue": "\"Chicks & ducks & geese better\" do this \"when I take you out in the surrey\"",
+          "choices": [
+            "titter",
+            "scurry",
+            "shiver",
+            "hurries"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"But should auld acquaintance be forgotten, keep your eye on\" this",
+          "choices": [
+            "the stars above",
+            "the old home town",
+            "the rising sun",
+            "the grand old flag"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Song from \"Phantom\" that includes the lyrics, \"Slowly, gently night unfurls its splendour...\"",
+          "choices": [
+            "\"Think Of Me\"",
+            "\"The Music Of The Night\"",
+            "\"All I Ask Of You\"",
+            "\"Masquerade\""
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This \"Oklahoma!\" vehicle's \"wheels are yeller, the upholstery's brown, the dashboard's genuine leather\"",
+          "choices": [
+            "the wagon with the red paint",
+            "the surrey with the fringe on top",
+            "the carriage with the white roof",
+            "the buggy with the black seats"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "George M. Cohan: \"But should auld acquaintance be forgot, keep your eye on\" this",
+          "choices": [
+            "Over There",
+            "Yankee Doodle",
+            "\"Grand Old Flag\"",
+            "The Washington Post"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SCIENCE: MISSED IT BY THAT MUCH",
+      "questions": [
+        {
+          "clue": "\"How Deep Is\" this, asks a song standard\u2014a 2010 estimate says 12,080' mean depth so John Murray in 1888 was pretty close at 12,480\\'",
+          "choices": [
+            "The Sea",
+            "Pacific Depths",
+            "\"The Ocean\"",
+            "Ocean Blue"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In the 1860s John Newlands arranged the 56 known these according to a soon-discredited \"Law of Octaves\"",
+          "choices": [
+            "compounds",
+            "molecules",
+            "atoms",
+            "elements"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Hipparchus of Bithynia calculated this distance at a bit under 2 million miles; 93 million is more like it",
+          "choices": [
+            "the distance from the Earth to the Sun",
+            "the distance from the Earth to the Moon",
+            "the distance from the Sun to Jupiter",
+            "the distance from the Earth to Mars"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The \"Top 10 Erroneous Results\" from Science News include a 2011 finding that these chargeless particles can outrace light",
+          "choices": [
+            "neutrinos",
+            "photons",
+            "quarks",
+            "gravitons"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The expansion rate of the universe is the constant named for this man, who in the 1920s pegged it at 7 times the current estimate",
+          "choices": [
+            "Hawking",
+            "Sagan",
+            "Hubble",
+            "Newton"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "1954",
+      "questions": [
+        {
+          "clue": "At an Oxford, England track meet on May 6, this distance was covered in a record 3:59.4 seconds",
+          "choices": [
+            "Yard",
+            "Mile",
+            "Kilometer",
+            "Meter"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "5 congressman were shot & wounded in the House by nationalists from this U.S. commonwealth",
+          "choices": [
+            "Guam",
+            "U.S. Virgin Islands",
+            "American Samoa",
+            "Puerto Rico"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "On September 8 the U.S. formed this alliance with 7 other nations, including Thailand, Australia & the Philippines",
+          "choices": [
+            "NATO (North Atlantic Treaty Organization)",
+            "ANZUS (Australia, New Zealand, United States Security Treaty)",
+            "SEATO (Southeast Asia Treaty Organization)",
+            "CENTO (Central Treaty Organization)"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "On May 7, 1954 the French were defeated in this Vietnamese battle & soon withdrew their troops from the country",
+          "choices": [
+            "Dien Bien Phu",
+            "Hue Citadel",
+            "Khe Sanh Combat Base",
+            "Saigon Capture"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "On April 1, the Senate voted to grant simultaneous statehood to these two territories",
+          "choices": [
+            "Arizona & New Mexico",
+            "California & Oregon",
+            "Alaska & Hawaii",
+            "Texas & Florida"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This general became our nation's first Secretary of War & had a Kentucky fort named in his honor",
+    "choices": [
+      "Anthony Wayne",
+      "(Henry) Knox",
+      "Daniel Morgan",
+      "Francis Marion"
+    ],
+    "correctIndex": 1,
+    "category": "REVOLUTIONARY WAR GENERALS"
+  }
+}

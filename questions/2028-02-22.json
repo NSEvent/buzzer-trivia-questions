@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-22",
+  "categories": [
+    {
+      "name": "A CHRISTMAS CAROL",
+      "questions": [
+        {
+          "clue": "When Bob Cratchit was late the morning after Christmas, Scrooge did this to Bob's salary",
+          "choices": [
+            "cut his salary",
+            "raised his salary",
+            "froze his salary",
+            "doubled his salary"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"Fa la la la la la la la la\"",
+          "choices": [
+            "\"Deck the Halls\"",
+            "Jingle Bells",
+            "Silent Night",
+            "O Holy Night"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"A partridge in a pear tree\"",
+          "choices": [
+            "The Christmas Song",
+            "O Christmas Tree",
+            "\"The Twelve Days of Christmas\"",
+            "Here Comes Santa Claus"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"A Christmas Carol\" was 1st published on the 19th of this month in 1843",
+          "choices": [
+            "December",
+            "November",
+            "January",
+            "October"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "City in which the story is set",
+          "choices": [
+            "Manchester",
+            "Liverpool",
+            "Birmingham",
+            "London"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A STAR IS BORN",
+      "questions": [
+        {
+          "clue": "This hot shot was born Carlos Estevez on Sept. 3, 1965",
+          "choices": [
+            "Emilio Estevez",
+            "Charlie Sheen",
+            "Ramon Estevez",
+            "Renzo Estevez"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This \"Vicky Cristina Barcelona\" se\u00f1or was born March 1, 1969 in the Canary Islands",
+          "choices": [
+            "Jorge Perez",
+            "Mateo Garcia",
+            "Rafael Rodriguez",
+            "Javier Bardem"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This star with a squeaky clean image was born Doris von Kappelhoff on April 3, 1924",
+          "choices": [
+            "Grace Kelly",
+            "Audrey Hepburn",
+            "Doris Day",
+            "Elizabeth Taylor"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This iconic movie star said goodbye, Norma Jeane (Baker when baptized, but Mortenson on her birth certificate)",
+          "choices": [
+            "Marilyn Monroe",
+            "Mickey Rooney",
+            "James Dean",
+            "Elvis Presley"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It's no trap, queen, that this rapper was born Willie Maxwell",
+          "choices": [
+            "Fetty Wap",
+            "Future",
+            "Migos",
+            "Lil Uzi Vert"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SILENT B",
+      "questions": [
+        {
+          "clue": "This coffee or breakfast cake is named for its \"fragmented\" topping",
+          "choices": [
+            "coffee cake",
+            "bundt cake",
+            "crumb cake",
+            "pound cake"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Birds ate Hansel & Gretel's trail of these, so they weren't able to find their way home",
+          "choices": [
+            "crumbs",
+            "breadcrumbs",
+            "pebbles",
+            "leaves"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This fleshy growth atop a chicken's head comes in shapes such as buttercup & pea",
+          "choices": [
+            "wattle",
+            "caruncle",
+            "beard",
+            "comb"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Distrust or uncertainty",
+          "choices": [
+            "faith",
+            "trust",
+            "doubt",
+            "belief"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A prosthesis is an artificial one",
+          "choices": [
+            "limb",
+            "head",
+            "brain",
+            "heart"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Parmenides, Mr. One Unchanging Reality, was a major thinker pre-this man born around 470 B.C.",
+    "choices": [
+      "Plato",
+      "Aristotle",
+      "Pythagoras",
+      "Socrates"
+    ],
+    "correctIndex": 3,
+    "category": "PHILOSOPHERS"
+  }
+}

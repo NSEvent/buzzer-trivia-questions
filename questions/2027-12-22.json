@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-22",
+  "categories": [
+    {
+      "name": "TEDDY ROOSEVELT",
+      "questions": [
+        {
+          "clue": "Roosevelt was only 42 whern he succeeded this man as president in 1901",
+          "choices": [
+            "William McKinley",
+            "Grover Cleveland",
+            "William Howard Taft",
+            "Benjamin Harrison"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "McKinley didn't want Teddy to have the nomination for this office in 1900, but he got it anyway",
+          "choices": [
+            "Vice President",
+            "Governor",
+            "Secretary of State",
+            "Attorney General"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Teddy annoyed some white Southerners by inviting this Black educator to dine at the White House in 1901",
+          "choices": [
+            "W.E.B. Du Bois",
+            "Booker T. Washington",
+            "Maggie Lena Walker",
+            "Ida B. Wells"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The 1st time he ran for president, Roosevelt was a candidate for this party; the 2nd time he was a Bull Moose",
+          "choices": [
+            "Democratic",
+            "Whig",
+            "Republican",
+            "Liberty"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1912, as a candidate of this new party, Roosevelt lost his third bid for president",
+          "choices": [
+            "the Progressive Party",
+            "the Bull Moose Party",
+            "the Republican Party",
+            "the Socialist Party"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LAUNDRY DAY",
+      "questions": [
+        {
+          "clue": "It can store dirty laundry or picnic food (the same word, perhaps not the same article)",
+          "choices": [
+            "Basket",
+            "Hamper",
+            "Wicker",
+            "Bin"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Thousands of home fires a year could be prevented by cleaning out this mesh item after each dryer load",
+          "choices": [
+            "a dust filter",
+            "a heat shield",
+            "a vent cover",
+            "a lint catcher (the lint trap)"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Concerns of the 1950s included segregation, fear of nuclear war & itchy, stiff clothes; in 1961 this brand came out to address one",
+          "choices": [
+            "Gain (detergent)",
+            "OxiClean (stain remover)",
+            "Snuggle (dryer sheet)",
+            "Downy (fabric softener)"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "On a label, the bucket with one line under it means this alliterative setting for clothes that don't need ironing",
+          "choices": [
+            "delicate cycle",
+            "warm wash",
+            "permanent press",
+            "cool dry"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Backpacking tip: sinks are everywhere but dryers can be tough to find, so bring a rope & you'll have one of these",
+          "choices": [
+            "a clothesline",
+            "a drying rack",
+            "a laundry basket",
+            "a folding table"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ALL ABOUT ARTISTS",
+      "questions": [
+        {
+          "clue": "To honor peace, Jean Verame painted some 4 mi. of Sinai Desert boulders blue; this intl. org. donated the paint",
+          "choices": [
+            "the Red Cross",
+            "the United Nations",
+            "the World Health Organization",
+            "the International Committee"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This artist known for self portraits had a child by a young housekeeper & once declared bankruptcy",
+          "choices": [
+            "Goya",
+            "Caravaggio",
+            "Rubens",
+            "Rembrandt"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "During his life he may have sold only one painting , \"The Red Vineyard\", but in the 20th century his work sold for record amounts",
+          "choices": [
+            "van Gogh's brother",
+            "van Gogh's doctor",
+            "van Gogh",
+            "van Gogh's priest"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Jean-Paul Sartre was so moved by this artist's mobiles that he called them \"the perceptible symbol of nature\"",
+          "choices": [
+            "Alexander Graham Bell",
+            "Alexander Fleming",
+            "(Alexander) Calder",
+            "Alexander Hamilton"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Pietro Torrigiano is remembered not so much for his art as for breaking this fellow Florentine sculptor's nose",
+          "choices": [
+            "Michelangelo",
+            "Leonardo da Vinci",
+            "Raphael",
+            "Donatello"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Building depicted on the back of a $100 bill",
+    "choices": [
+      "Independence Hall",
+      "The White House",
+      "The Capitol Building",
+      "The Supreme Court"
+    ],
+    "correctIndex": 0,
+    "category": "U.S. CURRENCY"
+  }
+}

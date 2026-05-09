@@ -1,0 +1,196 @@
+{
+  "date": "2028-05-02",
+  "categories": [
+    {
+      "name": "ARCTIC ANIMALS",
+      "questions": [
+        {
+          "clue": "In mating season the males of this tusked seal make bell-like sounds in the water to attract females",
+          "choices": [
+            "Narwhal",
+            "Walrus",
+            "Seal",
+            "Otter"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This large bee of the genus Bombus can range from Tierra del Fuego in South America to far beyond the Arctic Circle",
+          "choices": [
+            "the bumblebee",
+            "the honeybee",
+            "the hornet",
+            "the wasp"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This \"white whale\" is known as the \"canary of the sea\" for the chirps & other sounds it makes",
+          "choices": [
+            "the narwhal",
+            "the beluga whale",
+            "the pilot whale",
+            "beluga"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The snowy species of this nocturnal bird of prey makes its nest on the ground, lining it with moss & feathers",
+          "choices": [
+            "a great horned owl",
+            "a barn owl",
+            "a snowy owl",
+            "a snow owl"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The Eskimos of Alaska's North Slope call this beast an oomingmak, or \"animal with skin like a beard\"",
+          "choices": [
+            "the musk ox",
+            "the polar bear",
+            "the walrus",
+            "the arctic fox"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE 9th CENTURY",
+      "questions": [
+        {
+          "clue": "This country's Fujiwara family gained control of the imperial court",
+          "choices": [
+            "Japan",
+            "China",
+            "Korea",
+            "Mongolia"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In the 890s Arpad led this group across the Carpathians into Hungary",
+          "choices": [
+            "the Huns",
+            "the Magyars",
+            "the Avars",
+            "the Vikings"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 859 Al-Qarawiyin University was founded at Fez in this north African country",
+          "choices": [
+            "Egypt",
+            "Algeria",
+            "Morocco",
+            "Tunisia"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 813 this aged Holy Roman Emperor crowned his son Louis the Pious co-emperor",
+          "choices": [
+            "Constantine",
+            "Hadrian",
+            "Julius",
+            "Charlemagne"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 886 this English king retook London from the Danes",
+          "choices": [
+            "Edward the Elder",
+            "Ethelred",
+            "Alfred the Great",
+            "Cnut"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SHAKING UP SHAKESPEARE",
+      "questions": [
+        {
+          "clue": "Jerry Lee Lewis did Shakespeare! in 1968's \"Catch My Soul\", a rock musical based on \"Othello\", he played this villain",
+          "choices": [
+            "Roderigo",
+            "Cassio",
+            "Brabantio",
+            "Iago"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "With a happy ending: \"YOU SAIL KITE\"",
+          "choices": [
+            "As You Like It",
+            "Twelfth Night",
+            "Much Ado",
+            "Midsummer"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A scheming couple plot to take over a burger joint in the 2001 film \"Scotland, Pa.\", inspired by this tragedy",
+          "choices": [
+            "Macbeth",
+            "Hamlet",
+            "King Lear",
+            "Othello"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Set in Harlem & featuring characters named Vy & Lady Liv, the musical \"Play On!\" is a revamp of this comedy",
+          "choices": [
+            "Much Ado About Nothing",
+            "Twelfth Night",
+            "As You Like It",
+            "The Taming of the Shrew"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's a funny one: \"FORESTRY CHEER DOOM\"",
+          "choices": [
+            "The Merchant of Venice",
+            "The Tempest",
+            "A Midsummer Night's Dream",
+            "The Comedy of Errors"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Watkins Glen International",
+    "choices": [
+      "New Jersey",
+      "Pennsylvania",
+      "New York",
+      "Connecticut"
+    ],
+    "correctIndex": 2,
+    "category": "NASCAR GEOGRAPHY"
+  }
+}

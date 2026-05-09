@@ -1,0 +1,207 @@
+{
+  "date": "2027-06-19",
+  "categories": [
+    {
+      "name": "THE GREAT SEAL OF THE U.S.",
+      "questions": [
+        {
+          "clue": "A cluster of these is above the eagle's head",
+          "choices": [
+            "flames",
+            "clouds",
+            "stars",
+            "feathers"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The Great Seal is kept in a glass enclosure by this cabinet department",
+          "choices": [
+            "the Defense (Department)",
+            "the Treasury (Department)",
+            "the Interior (Department)",
+            "the State (Department)"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The Great Seal in use today was engraved from an 1885 master made by this NYC jewelry firm",
+          "choices": [
+            "Cartier",
+            "Bvlgari",
+            "Mikimoto",
+            "Tiffany & Co."
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The first sketch of the Great Seal in 1776 didn't include an eagle but did include this motto later seen in its beak",
+          "choices": [
+            "E pluribus unum",
+            "In God We Trust",
+            "Annuit Coeptis",
+            "Novus Ordo Seclorum"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "On the reverse of the Great Seal, there are this many levels of stones in the unfinished pyramid",
+          "choices": [
+            "12",
+            "14",
+            "13",
+            "21"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SPELLING \"B\"",
+      "questions": [
+        {
+          "clue": "This Russian ballet company first danced in the U.S. in 1959",
+          "choices": [
+            "B-O-L-S-H-O-I",
+            "M-A-R-I-I-N-S-K-I",
+            "D-I-A-G-H-I-L-E-V",
+            "M-O-D-E-R-N"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "French for \"little spit\", it's a small spit or skewer on which meat & vegetables are cooked",
+          "choices": [
+            "B-R-O-C-C-H-I",
+            "B-R-O-I-L-E",
+            "B-R-O-C-H-E-T-T-E",
+            "B-R-A-Z-A-T"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Istanbul was once Constantinople & before that, this city founded by the Greeks",
+          "choices": [
+            "B-I-Z-A-N-T-I-U-M",
+            "B-Y-Z-A-N-C-I-U-S",
+            "B-Y-Z-A-N-T-I-U-M",
+            "B-I-A-N-T-I-U-M"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A Marxist adjective for the middle class",
+          "choices": [
+            "B-O-U-R-G-E-O-N",
+            "B-O-U-R-G-E-O-I-S",
+            "B-O-U-R-G-E-O-N-N",
+            "B-O-U-R-G-E-O-N-S"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This country borders the Congo, Tanzania & of course, Rwanda",
+          "choices": [
+            "B-E-L-G-I-U-M",
+            "B-O-L-I-V-I-A",
+            "B-U-R-U-N-D-I",
+            "B-O-T-S-W-A-N-A"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FRUITS & NUTS",
+      "questions": [
+        {
+          "clue": "Texas grows several types of this fruit, including the Marrs & Valencia",
+          "choices": [
+            "Apples",
+            "Lemons",
+            "Oranges",
+            "Limes"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The Bosc, the firm type of this fruit, is native to Belgium",
+          "choices": [
+            "apple",
+            "quince",
+            "pear",
+            "plum"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A cross between Ralls Janet & the Red Delicious, this Japanese apple was developed in the 1930s",
+          "choices": [
+            "Gala",
+            "Honeycrisp",
+            "Fuji",
+            "Granny Smith"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The Brazilian type of this c-shaped nut is the largest, softest & whitest variety",
+          "choices": [
+            "cashew",
+            "pistachio",
+            "almond",
+            "pecan"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Some people are nuts about this green nut ice cream",
+          "choices": [
+            "walnut",
+            "hazelnut",
+            "macadamia",
+            "Pistachio"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "1849's \"The Emigrants' Guide to California\" says the biggest travel expense was 8 of these\u2014yoke not included",
+    "choices": [
+      "mules",
+      "cattle",
+      "horses",
+      "oxen"
+    ],
+    "correctIndex": 3,
+    "category": "O PIONEERS!"
+  },
+  "bonusRound": {
+    "clue": "In 2022 she had her first solo No. 1 hit with \"Super Freaky Girl\", which samples \"Super Freak\" by Rick James",
+    "choices": [
+      "Nicki Minaj",
+      "Ariana Grande",
+      "Megan Thee Stallion",
+      "Doja Cat"
+    ],
+    "correctIndex": 0,
+    "category": "RAPPERS"
+  }
+}

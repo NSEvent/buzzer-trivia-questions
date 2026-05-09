@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-15",
+  "categories": [
+    {
+      "name": "THE 1930s",
+      "questions": [
+        {
+          "clue": "A plane crash in Alaska killed this cowboy humorist on August 15, 1935",
+          "choices": [
+            "Babe Ruth",
+            "Will Rogers",
+            "Clark Gable",
+            "Jack Benny"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 1933, after less than 3 years in the funnies, he married Blondie Boopadoop",
+          "choices": [
+            "Jon Arbuckle",
+            "Homer Simpson",
+            "Milton Berle",
+            "Dagwood Bumstead"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Orson Welles & John Houseman formed this theatre in 1937",
+          "choices": [
+            "Federal Theatre Project",
+            "Living Theatre",
+            "Actors Studio",
+            "Mercury Theatre"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Japan's 8-year war against this country began at the Marco Polo Bridge in July 1937",
+          "choices": [
+            "Russia",
+            "China",
+            "Korea",
+            "Vietnam"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "After a week-long fast, he was released from government detention in Aug. 1933, weighing about 90 pounds",
+          "choices": [
+            "Nehru",
+            "Tagore",
+            "Gandhi",
+            "Jinnah"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MOVIES' LAST LINES",
+      "questions": [
+        {
+          "clue": "1964: \"Mein Fuhrer, I can walk!\"",
+          "choices": [
+            "Dr. No",
+            "Goldfinger",
+            "Lawrence of Arabia",
+            "Dr. Strangelove"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "1942\u2014 \"Louis, I think this is the beginning of a beautiful friendship\"",
+          "choices": [
+            "The Maltese Falcon",
+            "Sunset Boulevard",
+            "Casablanca",
+            "Double Indemnity"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "1969: \"We'll be in Miami in just a few minutes\"",
+          "choices": [
+            "Easy Rider",
+            "Midnight Run",
+            "Bonnie and Clyde",
+            "Midnight Cowboy"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "1940\u2014 \"We'll go on forever, Pa, 'cause we're the people\"",
+          "choices": [
+            "The Grapes of Wrath",
+            "Of Mice and Men",
+            "The Long Goodbye",
+            "Sons and Lovers"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Guy Pearce: \"Now, where was I?\"",
+          "choices": [
+            "Fight Club",
+            "The Prestige",
+            "Memento",
+            "Inception"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ORGANIC CHEMISTRY",
+      "questions": [
+        {
+          "clue": "Joseph Lister pioneered antiseptic medicine with the carbolic type of this, today called phenol",
+          "choices": [
+            "base",
+            "salt",
+            "alkali",
+            "acid"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Glucose that rotates the plane of polarized light to the right is also called this",
+          "choices": [
+            "levulose",
+            "fructose",
+            "sucrose",
+            "dextrose"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In the alkane family, methane is followed by ethane, propane & this, C4 H10",
+          "choices": [
+            "Propane",
+            "Pentane",
+            "Ethene",
+            "Butane"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "From Greek for \"many\", it's a large molecule made up of many smaller molecules",
+          "choices": [
+            "a polymer",
+            "a monomer",
+            "a compound",
+            "a mixture"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Created in 2002, the NLA is the National Association devoted to these, like fats & oils",
+          "choices": [
+            "proteins",
+            "lipids",
+            "carbohydrates",
+            "nucleic acids"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The basilisk",
+    "choices": [
+      "bird",
+      "feline",
+      "reptile",
+      "mammal"
+    ],
+    "correctIndex": 2,
+    "category": "BIRD, REPTILE OR FELINE"
+  }
+}

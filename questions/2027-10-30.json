@@ -1,0 +1,207 @@
+{
+  "date": "2027-10-30",
+  "categories": [
+    {
+      "name": "COLLEGE COURSES",
+      "questions": [
+        {
+          "clue": "Major in this -ology at Colgate & you'll take \"Human Condition\" or \"Learning and Cognition\" before you're a senior",
+          "choices": [
+            "sociology",
+            "psychology",
+            "anthropology",
+            "biology"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Oral Roberts University's \"The Pauline\" these isn't about some lady's letters but about important Bible books",
+          "choices": [
+            "gospels",
+            "epistles",
+            "patriarchs",
+            "prophecies"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Biology majors at Humboldt might take mammalogy, herpetology or this, the study of fish",
+          "choices": [
+            "ornithology",
+            "entomology",
+            "ichthyology",
+            "ethnology"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Here at N.C. State you can find a course on \"The Life and Letters of\" this apostle from Tarsus",
+          "choices": [
+            "Peter",
+            "John",
+            "James",
+            "Paul"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Now ear this: This famous school at Lincoln Center features courses on \"ear training\"",
+          "choices": [
+            "Berklee",
+            "Juilliard",
+            "Curtis",
+            "Peabody"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GET INTO SHAPE",
+      "questions": [
+        {
+          "clue": "To figure the ratio of its circumference to its diameter is as easy as pi",
+          "choices": [
+            "circle",
+            "triangle",
+            "square",
+            "hexagon"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Polyhedron long associated with Dick Clark & Khufu, 2 people we've never seen together; hmmmm...",
+          "choices": [
+            "cube",
+            "octahedron",
+            "dodecahedron",
+            "pyramid"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The perimeter of a normal 8 X 10 picture frame forms one of these quadrilaterals",
+          "choices": [
+            "rectangle",
+            "rhombus",
+            "parallelogram",
+            "trapezoid"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew shows a diagram on the chalkboard.) An oval that's pointed at each end is described as this nut shape",
+          "choices": [
+            "peanut",
+            "almond",
+            "hazelnut",
+            "pecan"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "A dodecagon has this many more sides than a decagon",
+          "choices": [
+            "1",
+            "4",
+            "10",
+            "2 (12 to 10)"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LEWIS OR CLARK",
+      "questions": [
+        {
+          "clue": "This \"chocolately coated peanut butter crunch candy\" has been around since 1917",
+          "choices": [
+            "a Hershey Bar",
+            "a Snickers",
+            "a Butterfinger",
+            "a Clark Bar"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "She was very hands-on with the TV series \"Charlie Horse Music Pizza\" & \"Lamb Chop's Play Along\"",
+          "choices": [
+            "Paul Willson",
+            "Shari Lewis",
+            "Jane Henson",
+            "Fran Brill"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The heroine of this author's \"Main Street\" escapes her miserable small town\u2014for a while",
+          "choices": [
+            "John Steinbeck",
+            "Sinclair Lewis",
+            "Ernest Hemingway",
+            "F. Scott Fitzgerald"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Chemist Gilbert Lewis suggested that a chemical bond involves 2 atoms sharing a pair of these, as in a covalent bond",
+          "choices": [
+            "protons",
+            "neutrons",
+            "photons",
+            "electrons"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "He retired as NATO's Supreme Allied Commander, Europe in 2000, then ran for president",
+          "choices": [
+            "Wesley Clark",
+            "Norman Schwarzkopf",
+            "Peter Pace",
+            "John Shalikashvili"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In the Gore Vidal novel set in this election year, the hero pins his hopes on Tilden",
+    "choices": [
+      "1860",
+      "1884",
+      "1876",
+      "1960"
+    ],
+    "correctIndex": 2,
+    "category": "PRESIDENTIAL ELECTIONS"
+  },
+  "bonusRound": {
+    "clue": "A young or teensy-weensy fish, such as a young salmon or trout",
+    "choices": [
+      "minnow",
+      "fry",
+      "smolt",
+      "fingerling"
+    ],
+    "correctIndex": 3,
+    "category": "\"LING\"O"
+  }
+}

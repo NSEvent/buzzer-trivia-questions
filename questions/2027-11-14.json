@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-14",
+  "categories": [
+    {
+      "name": "TOOLS OF THE KITCHEN",
+      "questions": [
+        {
+          "clue": "A pair of hinged metal griddles with a honeycombed interior make up one of these",
+          "choices": [
+            "a fondue set",
+            "a waffle iron",
+            "a pancake press",
+            "a sandwich maker"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "You'll be draining without straining using a Williams-Sonoma one of these holey items",
+          "choices": [
+            "a colander",
+            "a sieve",
+            "a mesh strainer",
+            "a tea infuser"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Do not even think about borrowing chef's W\u00fcsthof set of these, made in Germany since the mid-19th century",
+          "choices": [
+            "spatulas",
+            "ladles",
+            "tongs",
+            "knives"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Not to be confused with Procter & Gamble, this company formed by a 1960 merger is famous for coffeemakers",
+          "choices": [
+            "Cuisinart",
+            "Proctor Silex",
+            "Mr. Coffee",
+            "Black+Decker"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "An A to Z of kitchen tools might end with this one used to remove part of the peel of certain fruits",
+          "choices": [
+            "a zapper",
+            "a zester",
+            "a zillion",
+            "a zigzag"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PEN NAMES",
+      "questions": [
+        {
+          "clue": "This Oz creator wrote a series of \"Twinkle Tales\" under the pseudonym Laura Bancroft",
+          "choices": [
+            "(Lewis) Carroll",
+            "(L. Frank) Baum's brother",
+            "(Laura) Ingalls Wilder",
+            "(Frank) Baum"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Masculine pen name of London poetess Florence Margaret Smith, played by Glenda Jackson in a 1978 biopic",
+          "choices": [
+            "Stevia",
+            "Stevie",
+            "Steve",
+            "Steven"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Among this mystery writer's noms de plume are Carr Dickson & Carter Dickson",
+          "choices": [
+            "John Dickson Carr",
+            "John Dickson Carson",
+            "John Carrington",
+            "Jack Carrington"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "His first book, \"Maggie: A Girl of the Streets\", was so shocking that he published it under the name Johnston Smith",
+          "choices": [
+            "Frank Norris",
+            "Theodore Dreiser",
+            "Stephen Crane",
+            "Upton Sinclair"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This \"I, Claudius\" novelist published some poems under the name John Doyle",
+          "choices": [
+            "H.G. Wells",
+            "Aldous Huxley",
+            "Robert Graves",
+            "George Orwell"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FILMS OF THE '60s",
+      "questions": [
+        {
+          "clue": "Wilfrid Brambell played Paul's grandfather, \"A Clean Old Man\", in this first Beatles film",
+          "choices": [
+            "Help!",
+            "Yesterday",
+            "Yellow Submarine",
+            "A Hard Day's Night"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Though her boots were made for walkin', she was a biker named Mike in \"The Wild Angels\"",
+          "choices": [
+            "Jane Fonda",
+            "Nancy Sinatra",
+            "Raquel Welch",
+            "Shirley MacLaine"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Joan Crawford & Bette Davis played scary sisters Blanche & Jane Hudson in this 1962 film",
+          "choices": [
+            "What Ever Happened to Baby Jane",
+            "Hush... Hush, Sweet Charlotte",
+            "Peck Bad Girls",
+            "The Other Side of the Wind"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Ursula Andress made a memorable entrance in this 1962 film when she emerged from the water in a bikini",
+          "choices": [
+            "Dr. No",
+            "Goldfinger",
+            "From Russia with Love",
+            "The Man with the Golden Gun"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Buddy Ebsen played Audrey Hepburn's long-lost husband in this 1961 film",
+          "choices": [
+            "My Fair Lady",
+            "Breakfast at Tiffany's",
+            "Roman Holiday",
+            "Charade"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 2005 Nicole Malachowski made some serious noise as the first female pilot in this Air Force demonstration squadron",
+    "choices": [
+      "the Blue Angels",
+      "the Thunderbolt Squadron",
+      "the Thunderbirds",
+      "the Air Demonstration Team"
+    ],
+    "correctIndex": 2,
+    "category": "U.S. MILITARY BRANCHES"
+  }
+}

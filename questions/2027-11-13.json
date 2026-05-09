@@ -1,0 +1,207 @@
+{
+  "date": "2027-11-13",
+  "categories": [
+    {
+      "name": "BRIT LIT",
+      "questions": [
+        {
+          "clue": "\"Sea and Sardinia\" is a travel book by this \"Sons and Lovers\" author",
+          "choices": [
+            "E.M. Forster",
+            "D.H. Lawrence",
+            "Aldous Huxley",
+            "George Orwell"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "An adventure novel by H.Rider Haggard takes its hero to this Biblical king's mines",
+          "choices": [
+            "Solomon",
+            "Jeroboam",
+            "Ahaz",
+            "Manasseh"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Dona Inez is the mother of this Byron title character",
+          "choices": [
+            "Don Quixote",
+            "The Cenci",
+            "Don Juan",
+            "Manfred"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Published in 1928, \"All the Conspirators\" was the first novel by this British author of \"The Berlin Stories\"",
+          "choices": [
+            "Graham Greene",
+            "Christopher Isherwood",
+            "Anthony Powell",
+            "A.J. Cronin"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The creepy early novels of this author of \"Atonement\" got him dubbed \"Ian Macabre\"",
+          "choices": [
+            "Julian Barnes",
+            "Martin Amis",
+            "Ian McEwan",
+            "Zadie Smith"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOMELAND",
+      "questions": [
+        {
+          "clue": "Popes John XXIII & John Paul I",
+          "choices": [
+            "Vatican City",
+            "France",
+            "Spain",
+            "Italy"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It's the homeland of the Flemings & the Walloons",
+          "choices": [
+            "Netherlands",
+            "Luxembourg",
+            "Belgium",
+            "Switzerland"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "You'll spot a lot of non-canine Dalmatians in Dalmatia, mostly along the coast of this country",
+          "choices": [
+            "Slovenia",
+            "Montenegro",
+            "Croatia",
+            "Serbia"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"Daily Show\" host Trevor Noah",
+          "choices": [
+            "Kenya",
+            "Nigeria",
+            "Ghana",
+            "South Africa"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Playwright & president Vaclav Havel",
+          "choices": [
+            "the Slovak Republic",
+            "Hungary",
+            "the Czech Republic",
+            "Poland"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FOREIGN PHRASES",
+      "questions": [
+        {
+          "clue": "\"In vino veritas\" suggests you'll find truth in this",
+          "choices": [
+            "beer",
+            "water",
+            "wine",
+            "brandy"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "What \"Vaya con Dios\" means",
+          "choices": [
+            "Go with God",
+            "Go with peace",
+            "Blessed be",
+            "See you later"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The vidi, in \"Veni, vidi, vici\"",
+          "choices": [
+            "I came",
+            "I saw",
+            "I conquered",
+            "I arrived"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Voltaire said the English sometimes execute an admiral \"pour encourager les autres\", literally this",
+          "choices": [
+            "to punish the rest",
+            "to inspire the masses",
+            "to warn the neighbors",
+            "to encourage the others"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "German for \"ladies & gentlemen\" is \"Meine Damen und\" these, as in the \"Cabaret\" number \"Willkommen\"",
+          "choices": [
+            "Kameraden",
+            "Herren",
+            "Leute",
+            "Freunde"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Bram Stoker is said to have based the castle of Dracula on Bran Castle in this region of Romania",
+    "choices": [
+      "Transylvania",
+      "Wallachia",
+      "Moldavia",
+      "Silesia"
+    ],
+    "correctIndex": 0,
+    "category": "CASTLES"
+  },
+  "bonusRound": {
+    "clue": "Interestingly, it's Canada's newest province",
+    "choices": [
+      "Prince Edward Island",
+      "Nova Scotia",
+      "New Brunswick",
+      "Newfoundland"
+    ],
+    "correctIndex": 3,
+    "category": "\"NEW\" PLACES"
+  }
+}

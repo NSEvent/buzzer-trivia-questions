@@ -1,0 +1,207 @@
+{
+  "date": "2027-09-04",
+  "categories": [
+    {
+      "name": "ARIAS",
+      "questions": [
+        {
+          "clue": "\"Asile Hereditaire\" in this Rossini opera is sung by a Swiss patriot remembering his father's slaying by Austrians",
+          "choices": [
+            "La Dame Blanche",
+            "Wilhelm Tell",
+            "Le Comte Ory",
+            "Guillaume Tell"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In a work by this composer, Siegfried sings about Nothung (that's a sword)",
+          "choices": [
+            "Hector Berlioz",
+            "Richard Wagner",
+            "Giuseppe Verdi",
+            "Pyotr Ilyich Tchaikovsky"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "An aria in \"H.M.S. Pinafore\" declares, \"I'm called Little\" this, \"though I could never tell why\"",
+          "choices": [
+            "Buttercup",
+            "Josephine",
+            "Ralph",
+            "Ruth"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In \"The Tales of\" this author, he sings a little story about a dwarf named Kleinzach",
+          "choices": [
+            "Verlaine",
+            "Baudelaire",
+            "Proust",
+            "Hoffmann"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "After Aeneas leaves, she sings, \"When I Am Laid In Earth\"",
+          "choices": [
+            "Cleo",
+            "Phaedra",
+            "Elvira",
+            "Dido"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HURRICANES",
+      "questions": [
+        {
+          "clue": "When the winds of a tropical storm reach 74 mph, it's classified as this level of hurricane",
+          "choices": [
+            "Category 2",
+            "Tropical Storm",
+            "Category 1",
+            "Category 0"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In July 1943 Army Air Force Lt. Col. Joe Duckworth was the first to fly his plane into this central part of a hurricane",
+          "choices": [
+            "the eye",
+            "the center",
+            "the storm",
+            "the eye wall"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Especially awful hurricanes have their names replaced; in 2018 Margot became the replacement for this one",
+          "choices": [
+            "Irma",
+            "Matthew",
+            "Joaquin",
+            "Maria"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "26 days & 7 letters after Katrina, this hurricane devastated Southeast Texas",
+          "choices": [
+            "Hurricane Katrina",
+            "Hurricane Rita",
+            "Hurricane Ike",
+            "Hurricane Harvey"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The Spitfire & the Hawker Hurricane are types of these",
+          "choices": [
+            "Helicopters",
+            "Glider",
+            "Fighter Jet",
+            "Airplanes"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "3-LETTER RESPONSES",
+      "questions": [
+        {
+          "clue": "Since 1970, this government agency has worked to reduce pollutants & to ensure that we have clean air, land & water",
+          "choices": [
+            "the EPA",
+            "the CDC",
+            "the FDA",
+            "the CIA"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 2017 the parent company for QVC filled up its cart & acquired this longtime rival",
+          "choices": [
+            "QVC",
+            "TVG",
+            "SBD",
+            "HSN"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Resembling a flying saucer, the Theme Building located here is a cultural & historical landmark",
+          "choices": [
+            "JFK",
+            "LAX",
+            "ORD",
+            "SFO"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This network's original series have included \"Monk\", \"Psych\" & \"Suits\"",
+          "choices": [
+            "USA",
+            "TBS",
+            "CNN",
+            "NBC"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Lou Gehrig's disease is also known by this initialism",
+          "choices": [
+            "MS",
+            "ALS",
+            "PD",
+            "CP"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A flash of yellow in the bog may be the flower with the alliterative name marsh this",
+    "choices": [
+      "marsh-grass",
+      "marsh-mallow",
+      "marsh-fern",
+      "marsh-marigold"
+    ],
+    "correctIndex": 3,
+    "category": "YELLOW"
+  },
+  "bonusRound": {
+    "clue": "In 1664 the British sailed into New Amsterdam & this governor surrendered the city",
+    "choices": [
+      "(Peter) Stuyvesant",
+      "William Bradford",
+      "John Smith",
+      "Benjamin Franklin"
+    ],
+    "correctIndex": 0,
+    "category": "COLONIAL AMERICA"
+  }
+}

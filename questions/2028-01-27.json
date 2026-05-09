@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-27",
+  "categories": [
+    {
+      "name": "IT HAPPENED IN DECEMBER",
+      "questions": [
+        {
+          "clue": "On December 5, 1933 FDR announced the repeal of this; cheers!",
+          "choices": [
+            "The Great Depression",
+            "The Stock Market Crash",
+            "Prohibition",
+            "The Dust Bowl"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The Mayflower spent several weeks at Provincetown before arriving in Plymouth Harbor in December of this year",
+          "choices": [
+            "1607",
+            "1620",
+            "1621",
+            "1630"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Deciding he was better suited for the Senate, in December 1832 this South Carolinian resigned as vice president",
+          "choices": [
+            "Jackson",
+            "Clay",
+            "Calhoun",
+            "Calhoun's successor"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Full of humor, weather predictions & practical advice, it was first published in December 1732 under a pseudonym",
+          "choices": [
+            "Poor Richard's Almanack",
+            "The Farmer's Almanac",
+            "Benjamin Franklin's Diary",
+            "Poor Tom's Almanac"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Far from home, Pedro I became the first emperor of this country on December 1, 1822",
+          "choices": [
+            "Brazil",
+            "Argentina",
+            "Mexico",
+            "Peru"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COCKNEY RHYMING SLANG",
+      "questions": [
+        {
+          "clue": "At night, you should get plenty of bo peep \u2014 this",
+          "choices": [
+            "deep rest",
+            "sleep",
+            "hard bed",
+            "sound doze"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This liquor is a fine and dandy, & that's fine and dandy with me",
+          "choices": [
+            "Whisky",
+            "Rum",
+            "Brandy",
+            "Gin"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "If a holdup man demands your \"sausage & mash\" be prepared to give him this",
+          "choices": [
+            "your purse",
+            "your cash",
+            "your gold",
+            "your money"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A \"can't keep still\" is one of these, like the Peloton one with a textured 59\" running belt",
+          "choices": [
+            "a treadmill belt",
+            "an exercise mat",
+            "a treadmill",
+            "a stair stepper"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This part of your body is your \"Chevy Chase\" (Chevy Chase wouldn't want to fall on his)",
+          "choices": [
+            "your nose",
+            "your chin",
+            "your cheeks",
+            "your face"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"IN\" THE BEGINNING",
+      "questions": [
+        {
+          "clue": "To breathe in, unlike Mr. Clinton",
+          "choices": [
+            "Exhale",
+            "Oxygen",
+            "Air",
+            "Inhale"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A cozy alcove beside a fireplace, or the California wine you might drink there",
+          "choices": [
+            "Ingots",
+            "Ingenue",
+            "Ingratiating",
+            "Inglenook"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A spoken spell, such as \"Double double toil & trouble; fire burn & cauldron bubble\"",
+          "choices": [
+            "spell",
+            "charm",
+            "curse",
+            "incantation"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "You'll find these between the canines in your mouth",
+          "choices": [
+            "molars",
+            "incisors",
+            "premolars",
+            "wisdom teeth"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "From the Latin for \"unknown\", it means \"in disguise\"",
+          "choices": [
+            "anonymously",
+            "incog",
+            "inc",
+            "incognito"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Vitamin-happy Glaceau also makes this \"wise\" drink with \"purity you can taste, hydration you can feel\"",
+    "choices": [
+      "Aquafina",
+      "Smartwater",
+      "Dasani",
+      "Evian"
+    ],
+    "correctIndex": 1,
+    "category": "DRINKS ARE ON ME!"
+  }
+}

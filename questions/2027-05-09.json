@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-09",
+  "categories": [
+    {
+      "name": "PAPER",
+      "questions": [
+        {
+          "clue": "The \"Big 3\" dailies in France are Liberation, Le Figaro & this, meaning \"The World\"",
+          "choices": [
+            "Le Figaro",
+            "Le Monde",
+            "Liberation",
+            "Le Parisien"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew presents the clue.) Rarely used in the Computer Age, it's the \"elemental\" method I used to make this copy",
+          "choices": [
+            "xeroxing",
+            "scanning",
+            "carbon copying",
+            "photocopying"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This French-named arts & crafts material is repulped paper mixed with glue that's used to mold masks & toys",
+          "choices": [
+            "balsa wood",
+            "plaster of Paris",
+            "papier-m\u00e2ch\u00e9",
+            "clay"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "We can state that Tom Hallman, Jr. of this Portland paper won a 2001 Pulitzer for Feature Writing",
+          "choices": [
+            "The Oregon Journal",
+            "The Oregon Coast Weekly",
+            "The Oregonian",
+            "The Portland Tribune"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Colorful name for an authoritative government report on a major issue",
+          "choices": [
+            "a white paper",
+            "a black book",
+            "a red file",
+            "a blue print"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TV TO FILM",
+      "questions": [
+        {
+          "clue": "This '60s TV comedy about the crew of the PT-73 sailed twice onto the big screen",
+          "choices": [
+            "Gilligan's Island",
+            "McHale's Navy",
+            "Get Smart",
+            "The Beverly Hillbillies"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"Nightmare at 20,000 Feet\" was one of its segments on TV & in a feature film",
+          "choices": [
+            "The Outer Limits",
+            "Alfred Hitchcock Presents",
+            "The Twilight Zone",
+            "The X-Files"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Kenny gets killed early on in the 1999 film based on this series",
+          "choices": [
+            "Family Guy",
+            "South Park",
+            "The Simpsons",
+            "King of the Hill"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "TV wasn't the final frontier for this series; in 1979 it became \"The Motion Picture\"",
+          "choices": [
+            "Star Wars",
+            "Blade Runner",
+            "Close Encounters",
+            "Star Trek"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Cloris Leachman played Granny in the 1993 big screen version of this TV classic",
+          "choices": [
+            "Green Acres",
+            "The Beverly Hillbillies",
+            "Petticoat Junction",
+            "The Partridge Family"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NO. 1 HITS",
+      "questions": [
+        {
+          "clue": "The movie \"Buster\" starred this singer & drummer, who hit No. 1 with \"Two Hearts\", the movie's theme",
+          "choices": [
+            "Phil Collins",
+            "Sting",
+            "Phil Lynott",
+            "Mick Jagger"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "No. 1 songs from her \"Forever Your Girl\" album include the title track & \"Cold Hearted\"",
+          "choices": [
+            "Madonna",
+            "Whitney Houston",
+            "Paula Abdul",
+            "Janet Jackson"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "1 of 5 solo No. 1 hits for Diana Ross after she left the Supremes",
+          "choices": [
+            "Upside Down",
+            "Endless Love",
+            "Theme from Mahogany",
+            "Reach Out I'll Be There"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "1984s \"The Reflex\" was this band's first No. 1 song in the U.S.; \"Hungry Like The Wolf\" peaked at No. 3",
+          "choices": [
+            "Duran Duran",
+            "a-ha",
+            "Depeche Mode",
+            "Tears for Fears"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It \"Could've Been\" that she had a No. 1 hit in 1988, & it was",
+          "choices": [
+            "Taylor Dayne",
+            "Tiffany",
+            "Cassandra Peterson",
+            "Bananarama"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Chapter 11 advises doing this with your loaf \"for thou shalt find it after many days\"",
+    "choices": [
+      "sow your seed on seven ways",
+      "give portions to seven and eight",
+      "cast (your bread) upon the waters",
+      "cast your lot among many waters"
+    ],
+    "correctIndex": 2,
+    "category": "ECCLESIASTES"
+  }
+}

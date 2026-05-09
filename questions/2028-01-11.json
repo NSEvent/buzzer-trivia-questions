@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-11",
+  "categories": [
+    {
+      "name": "BEST FOREIGN LANGUAGE FILM",
+      "questions": [
+        {
+          "clue": "1983: \"Fanny and Alexander\"",
+          "choices": [
+            "Sweden",
+            "Norway",
+            "Denmark",
+            "Finland"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"Cinema Paradiso\" (1989)",
+          "choices": [
+            "Spain",
+            "France",
+            "Portugal",
+            "Italy"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "2000: \"Crouching Tiger, Hidden Dragon\"",
+          "choices": [
+            "Taiwan",
+            "South Korea",
+            "Japan",
+            "China"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "1981: \"Mephisto\"",
+          "choices": [
+            "Austria",
+            "Czech Republic",
+            "Hungary",
+            "Poland"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Closely Watched Trains\" (1967)",
+          "choices": [
+            "Czechoslovakia",
+            "Poland",
+            "Hungary",
+            "Yugoslavia"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"S\" WORDS",
+      "questions": [
+        {
+          "clue": "The preponderance of people who can sway things politically are this quiet \"majority\"",
+          "choices": [
+            "silent",
+            "secret",
+            "shy",
+            "soundless"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It's someone whose job is carrying your bags at an airport",
+          "choices": [
+            "porter",
+            "skycap",
+            "helper",
+            "luggage"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "To extract metal from ore with heat",
+          "choices": [
+            "smelt",
+            "smoke",
+            "steam",
+            "scorch"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In a right triangle, it's the ratio of a side opposite a given acute angle to the hypotenuse",
+          "choices": [
+            "a sine",
+            "a cosine",
+            "a tangent",
+            "a secant"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The name of this wrinkly dog is Chinese for \"sand fur\"",
+          "choices": [
+            "Shar Pei",
+            "Pekingese",
+            "Shih Tzu",
+            "Chow Chow"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "20TH CENTURY",
+      "questions": [
+        {
+          "clue": "Common name of Germany's Geheime Staatspolizei",
+          "choices": [
+            "the KGB",
+            "the Gestapo",
+            "the Stasi",
+            "the NKVD"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "He was famous for leaving Roosevelt Field, N.Y., May 20, 1927, alone",
+          "choices": [
+            "Lindbergh",
+            "Amelia",
+            "Byrd",
+            "Herrington"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "On Aug. 30, 1914, the Germans made this capital the 1st major city bombed by airplane",
+          "choices": [
+            "London",
+            "Paris",
+            "Brussels",
+            "Amsterdam"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Built in 1350, the Ponte Vecchio was this city's only bridge spared in WWII",
+          "choices": [
+            "Florence",
+            "Rome",
+            "Venice",
+            "Milan"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1939, the Supreme Court declared this kind of strike illegal",
+          "choices": [
+            "wildcat strikes",
+            "general strikes",
+            "hunger strikes",
+            "sit-down strikes"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "2000: His \"Brain Droppings\"",
+    "choices": [
+      "Bill Cosby",
+      "Richard Pryor",
+      "George Carlin",
+      "Robin Williams"
+    ],
+    "correctIndex": 2,
+    "category": "GRAMMY-WINNING COMEDY ALBUMS"
+  }
+}

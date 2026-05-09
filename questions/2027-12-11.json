@@ -1,0 +1,207 @@
+{
+  "date": "2027-12-11",
+  "categories": [
+    {
+      "name": "CLIMATE",
+      "questions": [
+        {
+          "clue": "A byproduct of using fossil fuels, it's the main greenhouse gas affecting Earth's climate due to human activity",
+          "choices": [
+            "carbon dioxide",
+            "methane",
+            "nitrous oxide",
+            "ozone"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "With its own TV channel, this is the short term (minutes to weeks) manifestation of climate",
+          "choices": [
+            "forecast",
+            "climate change",
+            "meteorology",
+            "weather"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This climate region is defined as being between about 23.5 degrees north & south of the equator",
+          "choices": [
+            "the temperate zone",
+            "the arctic circle",
+            "the subtropics",
+            "the tropics"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Within these long periods in Earth's history are warmer interglacial cycles & colder glacial cycles",
+          "choices": [
+            "warm periods",
+            "ice ages",
+            "volcanic winters",
+            "solar cycles"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Drought worsens the reduction of the land's productivity in arid & dry areas, a process known by this 15-letter word",
+          "choices": [
+            "deforestation",
+            "desertification",
+            "degradation",
+            "aridification"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE SHORT VERSION",
+      "questions": [
+        {
+          "clue": "To a candidate: PAC",
+          "choices": [
+            "public address club",
+            "policy advocacy center",
+            "political action committee",
+            "proportional allocation count"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In a letter: P.S.",
+          "choices": [
+            "Pace script",
+            "Post shift",
+            "Peculiar script",
+            "Post script"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In the physics lab: LASER",
+          "choices": [
+            "Light Absorption by Stimulated Electron Radiation",
+            "Light Amplification by Stimulated Emission of Radiation",
+            "Luminous Amplification by Stimulated Emission Rays",
+            "Laser Atomic Stimulated Emission Resonance"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "To a mailman: RFD",
+          "choices": [
+            "registered first class",
+            "rural free delivery",
+            "rural delivery fees",
+            "rural flight delivery"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In medicine: HIV",
+          "choices": [
+            "human immune vulnerability",
+            "human immunodeficiency virus",
+            "highly infectious virus",
+            "herpes immunodeficiency virus"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHAT HAPPENED WHEN?",
+      "questions": [
+        {
+          "clue": "Frederick Banting & Charles Best first isolated this glucose-regulating hormone on July 30, 1921",
+          "choices": [
+            "glucagon",
+            "oxytocin",
+            "adrenaline",
+            "insulin"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "On Halloween 2012 the New York Stock Exchange reopened after being closed for 2 days due to this weather event",
+          "choices": [
+            "Hurricane Sandy",
+            "Hurricane Katrina",
+            "Hurricane Irene",
+            "Hurricane Sandy Hook"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In 1810 Napoleon, divorced from Josephine, married this archduchess with whom he would have a son",
+          "choices": [
+            "Marie-Louise",
+            "Maria Theresa",
+            "Maria Antonia",
+            "Elizabeth of France"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "On February 8, 1587 it was off with her head at Fotheringhay Castle after 19 years of imprisonment",
+          "choices": [
+            "Elizabeth I",
+            "Anne Boleyn",
+            "Mary Tudor",
+            "Mary, Queen of Scots"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This 28-year-old naval officer led U.S. forces to victory on September 10, 1813 at the Battle of Lake Erie",
+          "choices": [
+            "Stephen Decatur",
+            "Oliver Hazard Perry",
+            "Thomas Macdonough",
+            "William Bainbridge"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"Eats, Shoots & Leaves\" is subtitled \"The Zero Tolerance Approach to\" this part of writing",
+    "choices": [
+      "Grammar",
+      "Syntax",
+      "Punctuation",
+      "Vocabulary"
+    ],
+    "correctIndex": 2,
+    "category": "SUBTITLED NONFICTION"
+  },
+  "bonusRound": {
+    "clue": "\"Babar the King\" by Jean de Brunhoff",
+    "choices": [
+      "a mouse",
+      "a lion",
+      "a bear",
+      "an elephant"
+    ],
+    "correctIndex": 3,
+    "category": "BEASTLY BOOKS"
+  }
+}

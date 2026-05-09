@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-04",
+  "categories": [
+    {
+      "name": "CRUSTACEANS",
+      "questions": [
+        {
+          "clue": "Crustaceans range in size from copepods of .008 inches to the 12 foot Japanese variety of this",
+          "choices": [
+            "lobster",
+            "crab",
+            "shrimp",
+            "spider"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "These crustaceans, the main food of many baleen whales, can reach 2 inches in length",
+          "choices": [
+            "plankton",
+            "algae",
+            "kraken",
+            "krill"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Some crustaceans reproduce through parthenogenesis, which is development from these",
+          "choices": [
+            "a sperm cell",
+            "an unfertilized egg",
+            "a male gamete",
+            "fertilized DNA"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The ghost type of this crustacean burrows in the sand by day & scavenges on the beach at night",
+          "choices": [
+            "the shrimp",
+            "the lobster",
+            "the crab",
+            "the mantis"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Popular in the South, over 100 mil. lbs. of these freshwater cousins of lobsters are raised in the U.S.",
+          "choices": [
+            "crayfish",
+            "crabs",
+            "shrimp",
+            "lobsters"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"HEART\"Y PHRASES",
+      "questions": [
+        {
+          "clue": "A frank discussion between two persons",
+          "choices": [
+            "a shoulder to cry on",
+            "an ear to listen",
+            "a heart attack",
+            "a heart to heart"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Characters in this Carson McCullers novel include Biff Brannon, Mick Kelly & Dr. Copeland",
+          "choices": [
+            "The Member of the Wedding",
+            "The Ballad of the Sad Caf\u00e9",
+            "The Heart is a Lonely Hunter",
+            "Reflections in a Golden Eye"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A brave & vigorous man, England's Richard I was known by this nickname",
+          "choices": [
+            "Richard the Fearless",
+            "Richard the Lionheart",
+            "Richard the Good",
+            "Richard the Bold"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A frank discussion between 2 people",
+          "choices": [
+            "a head-to-head chat",
+            "a heartburn remedy",
+            "a heart-to-heart talk",
+            "a heart attack warning"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The central issue; the core",
+          "choices": [
+            "the crux of the issue",
+            "the root of the problem",
+            "the heart of the matter",
+            "the core of the argument"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SNAILS",
+      "questions": [
+        {
+          "clue": "In French restaurants the helix garden snail is better known as this",
+          "choices": [
+            "escargot",
+            "lobster",
+            "oyster",
+            "clam"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Cameos are carved from the pink shells of this snail whose name is from Greek for \"shell\"",
+          "choices": [
+            "nautilus",
+            "conch",
+            "whelk",
+            "periwinkle"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Its ear-shaped shell ringed with holes is sometimes used in making costume jewelry",
+          "choices": [
+            "the abalone",
+            "the conch",
+            "the limpet",
+            "the periwinkle"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Shakespeare compares a whining schoolboy to a snail in this play's \"All the world's a stage\" speech",
+          "choices": [
+            "As You Like It",
+            "Macbeth",
+            "A Midsummer Night's Dream",
+            "Hamlet"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Tasmania produces around 25% of the world's wild caught supply of this large edible sea snail, mainly the black lip variety",
+          "choices": [
+            "whelk",
+            "abalone",
+            "geoduck",
+            "octopus"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "England's King _____ _____ R. Luce",
+    "choices": [
+      "Edward III",
+      "John Henry",
+      "George III",
+      "Charles I"
+    ],
+    "correctIndex": 1,
+    "category": "HERO SANDWICH"
+  }
+}

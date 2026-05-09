@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-25",
+  "categories": [
+    {
+      "name": "DWELLING ON THE PAST",
+      "questions": [
+        {
+          "clue": "The 1690s were a miss/ Eng. kings were far from bliss/ Jacobites warring/ Never was boring/ Ended by Treaty of this",
+          "choices": [
+            "Limerick",
+            "Sonnet",
+            "Haiku",
+            "Ballad"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "We wonder if there were fences to paint on the 1874 completion of this author's Hartford home, now open to the public",
+          "choices": [
+            "(Mark) Twain",
+            "(William) Faulkner",
+            "(Henry) James",
+            "(Edith) Wharton"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "You have the impudence to know Caesar waged war against this 4-letter region from 58 to 50 B.C.?",
+          "choices": [
+            "Illyria",
+            "Dacia",
+            "Gaul",
+            "Britannia"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This Frank Lloyd Wright-designed National Historic Landmark was named for obvious reasons",
+          "choices": [
+            "Taliesin",
+            "Robie House",
+            "Palladio",
+            "Fallingwater"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Buckingham's nice, but this castle above the Thames is nifty, too; William the Conqueror picked its site",
+          "choices": [
+            "Tower of London",
+            "Windsor Castle",
+            "Buckingham Palace",
+            "Hampton Court Palace"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COUNTIES OF ENGLAND",
+      "questions": [
+        {
+          "clue": "Technically, the southeastern county of Kent borders France through this engineering marvel",
+          "choices": [
+            "the Chunnel",
+            "the Golden Gate Bridge",
+            "the Brooklyn Bridge",
+            "the London Bridge"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Becket was killed in this county, home to Canterbury",
+          "choices": [
+            "Surrey",
+            "Kent",
+            "Sussex",
+            "Essex"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Essex County takes its name from an ancient kingdom of these people",
+          "choices": [
+            "the Saxons",
+            "the Vikings",
+            "the Danes",
+            "the Jutes"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Found up north, this largest of England's historic counties lends its name to a terrier & a pudding",
+          "choices": [
+            "Yorkshire",
+            "Lancashire",
+            "Northumberland",
+            "Cumberland"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The westernmost county of England, or what the eldest son of the monarch is duke of",
+          "choices": [
+            "Devon",
+            "Dorset",
+            "Cornwall",
+            "Somerset"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PERCUSSION INSTRUMENTS",
+      "questions": [
+        {
+          "clue": "These small Afro-Cuban drums are yoked in pairs & usually tuned greater than thirds apart",
+          "choices": [
+            "bongos",
+            "congas",
+            "timbales",
+            "cajons"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "So as not to be confused with a tom-tom, a Chinese tam-tam is generally called this",
+          "choices": [
+            "cymbals",
+            "(Chinese) gong",
+            "glockenspiel",
+            "xylophone"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This \"geometric\" instrument is simply a bent rod of steel, open at one corner",
+          "choices": [
+            "a triangle",
+            "a xylophone",
+            "a cowbell",
+            "a gong"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The Zildjian family in Turkey have made these instruments for more than 300 years; they're sold in pairs",
+          "choices": [
+            "tambourines",
+            "bongo drums",
+            "cymbals",
+            "castanets"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The lowest pitched of these orchestral drums measures about 30\" in diameter, the highest about 23\"",
+          "choices": [
+            "snare drums",
+            "timpani (kettle drums)",
+            "bass drums",
+            "tom toms"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In \"Klondike Annie\", this sex symbol fled her sordid life in S.F. & became an evangelist in the Yukon",
+    "choices": [
+      "Ginger Rogers",
+      "Mae West",
+      "Carole Lombard",
+      "Marlene Dietrich"
+    ],
+    "correctIndex": 1,
+    "category": "SAN FRANCISCO MOVIES"
+  }
+}

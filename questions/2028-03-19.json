@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-19",
+  "categories": [
+    {
+      "name": "\"PIN\" ME",
+      "questions": [
+        {
+          "clue": "The name of this rum cocktail is Spanish for \"strained pineapple\"",
+          "choices": [
+            "Mojito",
+            "Pina Colada",
+            "Mai Tai",
+            "Daiquiri"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Someone who steps up to the plate for a teammate",
+          "choices": [
+            "Relief pitcher",
+            "Designated hitter",
+            "Bench warmer",
+            "Pinch hitter"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This type of frijole may end up refried",
+          "choices": [
+            "Black bean",
+            "Kidney bean",
+            "Navy bean",
+            "Pinto bean"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Gilbert & Sullivan's naval vessel",
+          "choices": [
+            "The Mikado",
+            "H.M.S. Pinafore",
+            "Pirates of Penzance",
+            "The Yeomen of the Guard"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Cio-Cio-San's marriage to this character ends badly in \"Madam Butterfly\"",
+          "choices": [
+            "Lt. Pinkerton",
+            "Lt. Sharp",
+            "Lt. Goldstein",
+            "Lt. Sterling"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CABINET DEPARTMENTS",
+      "questions": [
+        {
+          "clue": "It traces its roots to Plymouth Colony, which passed a law that said the colony would support disabled soldiers",
+          "choices": [
+            "Labor",
+            "Veteran Affairs",
+            "Commerce",
+            "Interior"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Timothy Geithner once headed it",
+          "choices": [
+            "the State",
+            "the Defense",
+            "the Treasury",
+            "the Justice"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Arne Duncan is its secretary",
+          "choices": [
+            "Commerce",
+            "Education",
+            "Justice",
+            "Homeland Security"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "One of its agencies is COPS, short for Community Oriented Policing Services",
+          "choices": [
+            "the Labor Department",
+            "the Justice Department",
+            "the Commerce Department",
+            "the Interior Department"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Not Fannie Mae but this other Mae is a HUD mortgage program",
+          "choices": [
+            "Minnie Mouse",
+            "Mae West",
+            "Ginnie Mae",
+            "Gigi Hadid"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHAT'S UP, DUCK?",
+      "questions": [
+        {
+          "clue": "Like a duck, this monotreme has webbed feet & its snout looks like a duck's too",
+          "choices": [
+            "the platypus bird",
+            "the duck-billed platypus",
+            "the duck-footed mammal",
+            "the webbed-beaked creature"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A stuffed duck wearing glasses & a mustache would drop down when someone on this show uttered the \"secret word\"",
+          "choices": [
+            "What's My Line",
+            "The Hollywood Squares",
+            "I've Got a Secret",
+            "You Bet Your Life"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The athletic teams of this West Coast college are called the Ducks",
+          "choices": [
+            "the University of Washington",
+            "the University of Southern California",
+            "the University of California",
+            "the University of Oregon"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This team's official colors & logo were unveiled June 7, 1993",
+          "choices": [
+            "the Mighty Ducks of Los Angeles",
+            "the Mighty Ducks of San Diego",
+            "the Mighty Ducks of Anaheim",
+            "the Mighty Ducks of Seattle"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "To prepare this Chinese dish, first force air between the skin & the flesh",
+          "choices": [
+            "Cantonese duck",
+            "Shanghai duck",
+            "Peking duck",
+            "Hunan duck"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "On a cattle drive the trail boss & this wagon led the way",
+    "choices": [
+      "stockwagon",
+      "chase wagon",
+      "herd wagon",
+      "chuckwagon"
+    ],
+    "correctIndex": 3,
+    "category": "COWBOYS"
+  }
+}

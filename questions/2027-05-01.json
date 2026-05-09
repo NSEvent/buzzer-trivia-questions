@@ -1,0 +1,207 @@
+{
+  "date": "2027-05-01",
+  "categories": [
+    {
+      "name": "BIBLICAL BIRDS",
+      "questions": [
+        {
+          "clue": "1 Samuel 26:20 mentions this bird in the mountains, not in a pear tree",
+          "choices": [
+            "a partridge",
+            "a quail",
+            "a dove",
+            "a sparrow"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Peter denied 3 times that he knew Jesus after which this immediately happened",
+          "choices": [
+            "the temple veil tearing",
+            "the earthquake striking",
+            "a cock crowing",
+            "the sun turning dark"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Bird God called foolish because it lays its eggs on the ground where they can be stepped on",
+          "choices": [
+            "the eagle",
+            "the vulture",
+            "the ostrich",
+            "the raven"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "When Israelites complained to Moses they wanted meat, God provided 1,000's of these stout birds",
+          "choices": [
+            "quail",
+            "locusts",
+            "doves",
+            "pigeons"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "When Noah sent it out to see if the waters subsided, it came back with an olive branch",
+          "choices": [
+            "the raven",
+            "the eagle",
+            "the dove",
+            "the swallow"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "KIDDY LIT",
+      "questions": [
+        {
+          "clue": "A mother & daughter find their personalities have switched one strange day in this classic book by Mary Rodgers",
+          "choices": [
+            "\"The Parent Trap\"",
+            "\"The Parent Swap\"",
+            "\"Identity Crisis\"",
+            "\"Freaky Friday\""
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "She's the title Swiss Miss in an 1881 Johanna Spyri story",
+          "choices": [
+            "Heidi",
+            "Lottie",
+            "Sissi",
+            "Anne"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Beverly Cleary wrote several books about Beatrice, called Beezus, & this younger sister of hers",
+          "choices": [
+            "Molly",
+            "Margaret",
+            "Dorothy",
+            "Ramona"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "\"Thunderhead\" was a sequel to this 1941 Mary O'Hara novel about Ken McLaughlin and his colt",
+          "choices": [
+            "The Black Stallion",
+            "My Pal Johnny",
+            "National Velvet",
+            "My Friend Flicka"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The Once-ler tells about the endangered truffula trees in this ecological Seuss story",
+          "choices": [
+            "The Sneetches",
+            "The Lorax",
+            "Horton Hears a Who",
+            "Yertle the Turtle"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "INDIANA",
+      "questions": [
+        {
+          "clue": "4 towns, including Speedway, lie within this capital city but are governed separately",
+          "choices": [
+            "Fort Wayne",
+            "South Bend",
+            "Evansville",
+            "Indianapolis"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "He lived in Indiana 1816-1830 & you can visit the burial site of his mother, Nancy Hanks",
+          "choices": [
+            "Abraham Lincoln",
+            "Jefferson Davis",
+            "Zachary Taylor",
+            "Stephen Douglas"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "You can visit the home of this famous WWII journalist in Dana, Indiana",
+          "choices": [
+            "Ernie Hemingway",
+            "Ernie Pyle",
+            "Ernie Kovacs",
+            "Ernie Banks"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Indiana University opened in this city in 1820",
+          "choices": [
+            "Indianapolis",
+            "Fort Wayne",
+            "Bloomington",
+            "Evansville"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The highest point in Indianapolis is at the Crown Hill Cemetery grave of this Indiana poet",
+          "choices": [
+            "John Green",
+            "James Whitcomb Riley",
+            "Mark Twain",
+            "Robert Frost"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "If you wanted someone's phone number or address back in the day, you could dial these 3 numbers for free & get help",
+    "choices": [
+      "911",
+      "611",
+      "555",
+      "411"
+    ],
+    "correctIndex": 3,
+    "category": "THAT USED TO HAPPEN?"
+  },
+  "bonusRound": {
+    "clue": "Zoinks! Thou findest thyself at this South American country's border with Panama",
+    "choices": [
+      "Venezuela",
+      "Ecuador",
+      "Peru",
+      "Colombia"
+    ],
+    "correctIndex": 3,
+    "category": "O BROTHER, WHERE ART THOU?"
+  }
+}

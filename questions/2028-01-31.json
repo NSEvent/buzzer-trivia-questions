@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-31",
+  "categories": [
+    {
+      "name": "REALLY OLD SONGS",
+      "questions": [
+        {
+          "clue": "According to the title by James Blake, it's where \"me and Mamie O'Rorke tripped the light fantastic\"",
+          "choices": [
+            "The Streets of San Francisco",
+            "\"The Sidewalks of New York\"",
+            "The Bowery",
+            "Fifth Avenue"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"Young Folks At Home\" was a 19th century parody of this Stephen Foster song",
+          "choices": [
+            "Old Black Joe",
+            "Camptown Races",
+            "My Old Kentucky Home",
+            "\"Old Folks At Home\""
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Cowboys who sing \"Red River Valley\" sound a bit French when they say, \"Do not hasten to bid me\" this",
+          "choices": [
+            "goodbye",
+            "farewell",
+            "adieu",
+            "adios"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The duo who wrote, \"I'm called little buttercup, dear little buttercup though I could never tell why\"",
+          "choices": [
+            "Gilbert & Sullivan",
+            "Lerner & Loewe",
+            "Rodgers & Hammerstein",
+            "Kander & Ebb"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Legend says this national anthem was first sung in 1814 in front of a tavern in Baltimore",
+          "choices": [
+            "Yankee Doodle",
+            "Hail, Columbia",
+            "\"The Star-Spangled Banner\"",
+            "My Country, 'Tis of Thee"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RUSSIAN FOOD & DRINK",
+      "questions": [
+        {
+          "clue": "Shashlik, which is meat & vegetables cooked on skewers, is the Russian version of this Turkish & Middle East dish",
+          "choices": [
+            "(shish) kebab",
+            "samosa",
+            "falafel",
+            "dolma"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Like latkes, draniki are these",
+          "choices": [
+            "onion rings",
+            "potato pancakes",
+            "corn fritters",
+            "zucchini cakes"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Sharlotka is a Russian dessert made with this fruit",
+          "choices": [
+            "pear",
+            "peach",
+            "cherry",
+            "apple"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A traditional appetizer is caviar, the red type being the roe of this fish",
+          "choices": [
+            "the tuna",
+            "the salmon",
+            "the cod",
+            "the trout"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Named for a former Soviet city, this butter-filled fried chicken dish is often served in Russian cuisine",
+          "choices": [
+            "duck alfredo",
+            "turkey volkoff",
+            "chicken Kiev",
+            "chicken moscow"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "STATE YOUR CASE",
+      "questions": [
+        {
+          "clue": "In area it's the largest U.S. state that begins & ends with the same letter",
+          "choices": [
+            "Arizona",
+            "Colorado",
+            "Alaska",
+            "Connecticut"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1819 \"implied powers\" were central in McCulloch v. this state",
+          "choices": [
+            "Virginia",
+            "Pennsylvania",
+            "Maryland",
+            "New York"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "One of this state's nicknames is \"Lobsterland\"",
+          "choices": [
+            "Vermont",
+            "New Hampshire",
+            "Maine",
+            "Rhode Island"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Former governors of this state include Pierre S. du Pont IV",
+          "choices": [
+            "Maryland",
+            "Delaware",
+            "New Jersey",
+            "Virginia"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "During the 1980s this large southern state had the highest-percentage growth in the Union",
+          "choices": [
+            "Florida",
+            "Georgia",
+            "Texas",
+            "North Carolina"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The gears in a clock are examples of the simple machine called a wheel & this",
+    "choices": [
+      "a lever",
+      "an axle",
+      "a pulley",
+      "a wedge"
+    ],
+    "correctIndex": 1,
+    "category": "PHYSICS"
+  }
+}

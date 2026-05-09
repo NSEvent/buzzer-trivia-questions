@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-11",
+  "categories": [
+    {
+      "name": "FILE UNDER \"L\"",
+      "questions": [
+        {
+          "clue": "This crustacean turns bright red when boiled, not when embarrassed",
+          "choices": [
+            "Limpet",
+            "Louse",
+            "Lobster",
+            "Lemur"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In California, car buyers know the Tanner Consumer Protection Act as this \"fruity\" law",
+          "choices": [
+            "\"Lime\" law",
+            "\"Lemonade\" stand",
+            "\"Lemon\" law",
+            "\"Lemon\" meringue"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The prime meridian meets the equator at 0 degrees latitude, 0 degrees this",
+          "choices": [
+            "Altitude",
+            "Bearing",
+            "Longitude",
+            "Latitude"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This British medical journal's October 30, 1999 issue was number 9189",
+          "choices": [
+            "The Lancashire Journal",
+            "The Lancet",
+            "The Lancetarian",
+            "The Lancashire Post"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Meaning \"allow\", this word is also a synonym for \"rent\"",
+          "choices": [
+            "let",
+            "lease",
+            "hire",
+            "borrow"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "JAZZ PIANISTS",
+      "questions": [
+        {
+          "clue": "The musical \"Ain't Misbehavin\" was based on the music of this heavyweight pianist-songwriter",
+          "choices": [
+            "James P. Johnson",
+            "Ferde Grofe",
+            "Jelly Roll Morton",
+            "Thomas \"Fats\" Waller"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This \"Take Five\" pianist was named a \"living legend\" in 2003 by the Library of Congress",
+          "choices": [
+            "Bill Evans",
+            "Dave Brubeck",
+            "Oscar Peterson",
+            "Thelonious Monk"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "His inability to read music didn't prevent this pianist from composing the music to \"Misty\"",
+          "choices": [
+            "Nat King Cole",
+            "Erroll Garner",
+            "Ahmed Jamal",
+            "Art Tatum"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "His score for the 1929 stage production \"Hot Chocolates\" included the hit tune \"Ain't Misbehavin'\"",
+          "choices": [
+            "Ferdinand 'Jelly Roll' Morton",
+            "Fats Waller",
+            "James P. Johnson",
+            "Thomas 'Fats' Waller"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "He earned his \"Fatha\" nickname in the 1930s after giving fatherly advice about drinking to an announcer",
+          "choices": [
+            "Duke Ellington",
+            "Count Basie",
+            "Art Tatum",
+            "Earl \"Fatha\" Hines"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "1995 BESTSELLERS",
+      "questions": [
+        {
+          "clue": "\"My American Journey\" by this soldier-statesman was a No. 1 nonfiction bestseller that year",
+          "choices": [
+            "Colin Powell",
+            "George Mitchell",
+            "John McCain",
+            "Norman Schwarzkopf"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "He gave us \"The Seven Spiritual Laws of Success\"",
+          "choices": [
+            "Deepak Chopra",
+            "Maharishi Mahesh Yogi",
+            "Sri Sri Ravi Shankar",
+            "Swami Satchidananda"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"Silent Night\" by this 3-named woman is a Christmas suspense novel",
+          "choices": [
+            "Agatha Christie",
+            "Nora Roberts",
+            "Mary Higgins Clark",
+            "Jane Austen"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This author's \"Puerto Vallarta Squeeze\" & \"Border Music\" joined his book about bridges on the list",
+          "choices": [
+            "John Grisham",
+            "Robert James Waller",
+            "Harper Lee",
+            "Stephen King"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 1995 John Gray moved these 2 planets into \"the bedroom\"",
+          "choices": [
+            "Pluto & Neptune",
+            "Mars & Venus",
+            "Mercury & Saturn",
+            "Earth & Uranus"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Monica Evans & Carole Shelley played the Pigeon sisters on this sitcom, as well as in the stage & film versions",
+    "choices": [
+      "The Odd Couple",
+      "The Mary Tyler Moore Show",
+      "All in the Family",
+      "Seinfeld"
+    ],
+    "correctIndex": 0,
+    "category": "TOUGH TV"
+  }
+}

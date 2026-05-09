@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-01",
+  "categories": [
+    {
+      "name": "GASES",
+      "questions": [
+        {
+          "clue": "Because of its very hot flame, this gas, C2H2, is used in metal cutting & welding",
+          "choices": [
+            "ethylene",
+            "acetylene",
+            "propane",
+            "methylacetylene"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This noble gas has 92% of hydrogen's lifting power even though it's twice as dense",
+          "choices": [
+            "neon",
+            "helium",
+            "argon",
+            "xenon"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Trademarked in 1930, it's the name for gases used as refrigerants thanks to their low boiling points",
+          "choices": [
+            "Freon",
+            "Krytox",
+            "Genetron",
+            "Alfathane"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It's the common nickname of nitrous oxide",
+          "choices": [
+            "laughing gas",
+            "laughing powder",
+            "giggling smoke",
+            "happy fumes"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Harriet Brooks is sometimes credited with discovering this 5-letter element, a gas emanating from thorium",
+          "choices": [
+            "argon",
+            "radon",
+            "xenon",
+            "neon"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FABRICS & TEXTILES",
+      "questions": [
+        {
+          "clue": "Gauze is named for this Palestinian city where it's thought to have originated",
+          "choices": [
+            "Gaza",
+            "Jericho",
+            "Nazareth",
+            "Bethlehem"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Count Hilaire de Chardonnet is considered the father of this regenerated cellulose fiber",
+          "choices": [
+            "Rayon",
+            "Nylon",
+            "Acetate",
+            "Lyocell"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "200 pounds of mulberry leaves fed to worms can be used to produce one pound of this fabric",
+          "choices": [
+            "wool",
+            "linen",
+            "cotton",
+            "silk"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This sheer, lightweight fabric with a light sheen shares its name with a type of fluffy lemon pie",
+          "choices": [
+            "chiffon",
+            "chintz",
+            "calico",
+            "challis"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Originally a stiff fabric made of horsehair & cotton or linen, during the Victorian era it became the name for hooped petticoats",
+          "choices": [
+            "crin",
+            "crinoline",
+            "crepe",
+            "cotton"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LITERARY JOHNS",
+      "questions": [
+        {
+          "clue": "John Steinbeck often used this, his native state, as the setting for his novels & stories",
+          "choices": [
+            "Oregon",
+            "Nevada",
+            "Texas",
+            "California"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A 1921 poem by Vachel Lindsay was \"In Praise of\" this wandering planter",
+          "choices": [
+            "Johnny Cash",
+            "Johnny Apple",
+            "Johnny Appleseed",
+            "Johnny Appleby"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"Polly\" was this poet-playwright's sequel to \"The Beggar's Opera\"",
+          "choices": [
+            "John Dryden",
+            "John Gay",
+            "John Bunyan",
+            "John Milton"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "He regained paradise with 2nd wife Katharine & mourned her in \"Methought I Saw My Late Espoused Saint\"",
+          "choices": [
+            "John Milton",
+            "John Keats",
+            "John Donne",
+            "John Dryden"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "He dedicated his \"Endymion\" to Thomas Chatterton, a poet who killed himself at the age of 17",
+          "choices": [
+            "John Milton",
+            "John Donne",
+            "John Dryden",
+            "John Keats"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Last name of Bowie persona Ziggy",
+    "choices": [
+      "Starlight",
+      "Stardust",
+      "Stargazer",
+      "Starburst"
+    ],
+    "correctIndex": 1,
+    "category": "ALL \"STAR\"s"
+  }
+}

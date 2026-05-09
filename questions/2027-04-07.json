@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-07",
+  "categories": [
+    {
+      "name": "PARTS OF A WHOLE",
+      "questions": [
+        {
+          "clue": "Front derailleur, chain guide, sprocket cluster cassette",
+          "choices": [
+            "a motorcycle",
+            "a unicycle",
+            "a rollerblade",
+            "a bicycle"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Ribbon, paper bail, carriage return, space bar",
+          "choices": [
+            "a computer",
+            "a cash register",
+            "a typewriter",
+            "a sewing machine"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Rotor blade, skid, horizontal stabilizer",
+          "choices": [
+            "a fixed wing plane",
+            "a glider",
+            "a helicopter",
+            "a drone"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Buoyancy compensator, emergency regulator, purge valve, air tank",
+          "choices": [
+            "snorkeling gear",
+            "scuba gear",
+            "a submarine",
+            "wetsuit gear"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Gate arm lamp, highway crossing bell, crossbuck sign",
+          "choices": [
+            "a railroad crossing",
+            "a level crossing",
+            "a grade separator",
+            "a transit tunnel"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BEAUTY SECRETS",
+      "questions": [
+        {
+          "clue": "This Arizona Republican reportedly said, \"Peanut butter is a darn good shaving cream\"",
+          "choices": [
+            "William F. Buckley",
+            "Ronald Reagan",
+            "Goldwater's nephew",
+            "Barry Goldwater"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"Book of Royal Lists\" says King George IV had himself bled for this beautifying reason",
+          "choices": [
+            "to cure his acne",
+            "to reduce his pores",
+            "to whiten his skin (make himself clearer)",
+            "to tighten his face"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Sarah Bernhardt slathered on a night cream made from this popular pickle vegetable",
+          "choices": [
+            "zucchini",
+            "pickled pepper",
+            "cabbage",
+            "cucumber"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Some 19th century women used \"eau de veau\", made from a boiled foot of this animal on their skin",
+          "choices": [
+            "pork (pig)",
+            "veal (calf)",
+            "lamb (sheep)",
+            "goose"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Indian women reportedly used this bird's fat on their faces before the bird became our national symbol",
+          "choices": [
+            "hawk",
+            "owl",
+            "eagle",
+            "falcon"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOT STUFF",
+      "questions": [
+        {
+          "clue": "Magma surfacing as liquid, this can get up to 2,200 degrees",
+          "choices": [
+            "magma",
+            "ash",
+            "obsidian",
+            "lava"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "15 seconds at 160\u00b0 F. kills this bacterium that in 1997 caused the USA's biggest beef recall",
+          "choices": [
+            "Salmonella",
+            "Listeria",
+            "Campylobacter",
+            "E. coli"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "About every 90 minutes, you can count on this geyser erupting with 200-degree water",
+          "choices": [
+            "Old Faithful",
+            "Steamboat Geyser",
+            "Spiral Springs",
+            "Great Fountain Geyser"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Stefano Ferrara is a famous maker of these, which can reach a temperature of 800 degrees inside",
+          "choices": [
+            "furnaces",
+            "kilns",
+            "stoves",
+            "ovens"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Forecasts on this planet called for highs of 800\u00b0 F. & black skies due to lack of significant atmosphere",
+          "choices": [
+            "Venus",
+            "Mercury",
+            "Mars",
+            "Titan"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "To Freud it's the part of the personality that represents the conscience",
+    "choices": [
+      "the id",
+      "the superego",
+      "the ego",
+      "the subconscious"
+    ],
+    "correctIndex": 1,
+    "category": "THAT'S \"SUPER\"!"
+  }
+}

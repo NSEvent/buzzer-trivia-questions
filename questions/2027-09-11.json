@@ -1,0 +1,207 @@
+{
+  "date": "2027-09-11",
+  "categories": [
+    {
+      "name": "\"O\" YES!",
+      "questions": [
+        {
+          "clue": "A temporary suspension of operation; of electrical power, for example",
+          "choices": [
+            "blackout",
+            "shutdown",
+            "outage",
+            "glitch"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "From the Old Norse for \"manager\", it's a non-governmental investigator who resolves complaints",
+          "choices": [
+            "mediator",
+            "arbitrator",
+            "adjudicator",
+            "ombudsman"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Comedian Henny Youngman was \"The King of\" these short, witty remarks",
+          "choices": [
+            "jokes",
+            "one-liners",
+            "quip",
+            "witticisms"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "From the Greek for \"correct teeth\", it's the dental specialty that's used to give you them",
+          "choices": [
+            "prosthodontics",
+            "endodontics",
+            "periodontics",
+            "orthodontics"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In James Merrill's poem \"The Changing Light at Sandover\", this device assists in dialogues with spirits",
+          "choices": [
+            "tarot card",
+            "ouija board",
+            "crystal ball",
+            "Ouija plaque"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COMMON BLONDES",
+      "questions": [
+        {
+          "clue": "\"Gentlemen Prefer Blondes\", \"Some Like It Hot\"",
+          "choices": [
+            "Jayne Mansfield",
+            "Doris Day",
+            "Grace Kelly",
+            "Marilyn Monroe"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Maureen McCormick, Susan Olsen, Florence Henderson: this TV show that premiered in 1969",
+          "choices": [
+            "The Partridge Family",
+            "The Brady Bunch",
+            "Family Ties",
+            "The Cosby Show"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Marilyn Monroe, Betty Grable: this 1953 film with an instructional title",
+          "choices": [
+            "How to Marry a Millionaire",
+            "How to Lose a Guy in 10 Days",
+            "How to Be a Latin Lover",
+            "How to Deal"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"Foul Play\", \"Private Benjamin\"",
+          "choices": [
+            "Bette Midler",
+            "Dolly Parton",
+            "Raquel Welch",
+            "Goldie Hawn"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"Charlie's Angels\", \"Vanilla Sky\"",
+          "choices": [
+            "Catherine Zeta-Jones",
+            "(Cameron) Diaz",
+            "Sandra Bullock",
+            "Uma Thurman"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"B\" & \"B\"",
+      "questions": [
+        {
+          "clue": "The Glenn Miller Orchestra was a leading act in this style",
+          "choices": [
+            "swing jazz",
+            "Dixieland",
+            "big band",
+            "bossa nova"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Pete Rose & many others have tried to rub away the back line of this to have more time to react to pitches",
+          "choices": [
+            "the on-deck circle",
+            "the dugout bench",
+            "the warning track",
+            "the batter's box"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Inspired by \"Mean Girls\", it's a journal filled with nasty observations about others",
+          "choices": [
+            "a burn book",
+            "a hate letter",
+            "a diary",
+            "a rant sheet"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It's a statistical measure of how likely it is that some event will occur",
+          "choices": [
+            "probability",
+            "a percentage",
+            "a frequency",
+            "a likelihood"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This Arabic slang word means \"my love\" or \"my darling\"",
+          "choices": [
+            "habibti",
+            "yallah",
+            "habibi",
+            "shukran"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "One of these occurred just before the start of game 3 of the World Series; the game was postponed",
+    "choices": [
+      "a tornado",
+      "a firestorm",
+      "an earthquake",
+      "a flood"
+    ],
+    "correctIndex": 2,
+    "category": "1989"
+  },
+  "bonusRound": {
+    "clue": "Owned by Bilbo & later Frodo, Sting was a magical one of these that glowed blue when servants of Sauron were near",
+    "choices": [
+      "a sword",
+      "a dagger",
+      "a shield",
+      "a bow"
+    ],
+    "correctIndex": 0,
+    "category": "YOU COULD PUT AN EYE OUT"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-22",
+  "categories": [
+    {
+      "name": "COOKING TERMS",
+      "questions": [
+        {
+          "clue": "This term refers to making sugar brown by heating in a skillet over low heat until melted & golden",
+          "choices": [
+            "candying",
+            "toffee",
+            "burning",
+            "caramelizing"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Potatoes cooked with sliced or chopped onions, named for a French city",
+          "choices": [
+            "provencale",
+            "lyonnaise",
+            "burgundy",
+            "nicolaise"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "It's the process of melting down fat to remove the tissue; it sometimes produces lard",
+          "choices": [
+            "clarifying",
+            "melting",
+            "draining",
+            "rendering"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Beaten egg whites lighten this sweet dessert, often chocolate, whose name is French for \"foam\"",
+          "choices": [
+            "souffle",
+            "meringue",
+            "mousse",
+            "panna cotta"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It sounds like to pamper eggs, but it means to cook them in water just below the boiling point",
+          "choices": [
+            "to coddle",
+            "to scotch",
+            "to poach",
+            "to blanch"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE DOGS",
+      "questions": [
+        {
+          "clue": "Three quarters of U.S. combat dogs in World War II were this breed; many gave their lives in the Pacific",
+          "choices": [
+            "a German Shepherd",
+            "a Doberman (Pinscher)",
+            "a Rottweiler",
+            "a Boxer"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "When an ancient Greek said, \"Love me, love my dog\", more often than not the dog was one of these",
+          "choices": [
+            "Pomeranian",
+            "Papillon",
+            "Maltese",
+            "Shih Tzu"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Lobo sang about \"Me and You and a Dog Named\" this",
+          "choices": [
+            "Boo",
+            "Max",
+            "Buddy",
+            "Rex"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "He's Augie Doggie's father",
+          "choices": [
+            "Woofie Wooferson",
+            "Barkley Barkington",
+            "Howie Houndstooth",
+            "Doggie Daddy"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Bull's-Eye was Bill Sikes' mean dog in this Dickens novel",
+          "choices": [
+            "The Pickwick Papers",
+            "David Copperfield",
+            "Great Expectations",
+            "\"Oliver Twist\""
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"F\"",
+      "questions": [
+        {
+          "clue": "It's the name of an ancient Roman safety pin, as well as a bone in your leg",
+          "choices": [
+            "the fibula",
+            "the tibia",
+            "the patella",
+            "the fibrous"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Just change a vowel in his last name & this famous shrink becomes a charlatan",
+          "choices": [
+            "Carl Jung",
+            "Alfred Adler",
+            "Sigmund Freud (becomes fraud)",
+            "Wilhelm Reich"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It's commonly used for outdoor paving and was also the original last name of the animated Fred and Wilma",
+          "choices": [
+            "cobblestone",
+            "granite slab",
+            "concrete paver",
+            "flagstone"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "When something's done & cannot be altered, it's this 2-word French term",
+          "choices": [
+            "c'est la vie",
+            "bon voyage",
+            "a fait accompli",
+            "pourquoi pas"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This type of imprecise \"logic\" used by certain computers would net you a fine Scrabble score",
+          "choices": [
+            "vague",
+            "fuzzy",
+            "blurry",
+            "misty"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"Coastal\" name for the Mediterranean pirates of Algeria, Libya, Tunisia & Morocco",
+    "choices": [
+      "Barbary pirates",
+      "Silk Road merchants",
+      "Moorish knights",
+      "North African traders"
+    ],
+    "correctIndex": 0,
+    "category": "A PIRATE'S LIFE FOR ME"
+  }
+}

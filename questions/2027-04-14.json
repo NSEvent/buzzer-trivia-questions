@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-14",
+  "categories": [
+    {
+      "name": "SOUNDS LIKE THE MOVIE'S SEQUEL",
+      "questions": [
+        {
+          "clue": "This 2019 all-star whodunnit was not a follow-up to the documentary \"Forks Over Knives\"",
+          "choices": [
+            "Knives Out",
+            "Knives Off",
+            "Knives On",
+            "Sides Out"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The film of \"A Raisin in the Sun\" sounds like it could be the sequel to this 1940 film starring Henry Fonda",
+          "choices": [
+            "The Leaves of Wrath",
+            "The Flowers of Wrath",
+            "The Grapes of Wrath",
+            "The Berries of Wrath"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "2005's \"Crash\" did not result in this with drummer Miles Teller learning from the formidable J.K. Simmons",
+          "choices": [
+            "Whiplash",
+            "La La Land",
+            "Sing Street",
+            "The Greatest Showman"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In \"Up\", 78-year-old Carl flies away in his house; in this non-sequel George Clooney flies all over firing people",
+          "choices": [
+            "Down in the Air",
+            "Up and Away",
+            "Up in the Air",
+            "Over in the Air"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Green Card\" was not a sequel to this film in which Eddie Murphy's Prince Akeem looks for a wife in Queens, New York",
+          "choices": [
+            "The Princess Diaries",
+            "Bridget Jones's Diary",
+            "Four Weddings and a Funeral",
+            "Coming to America"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SHOE BUSINESS",
+      "questions": [
+        {
+          "clue": "Footwear from this company includes the Air Edge Max V & the Air Jordan XVI",
+          "choices": [
+            "Adidas",
+            "Nike",
+            "Puma",
+            "Reebok"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A backless bikini by Rudi Gernreich & a toe-splitting sandal share this name",
+          "choices": [
+            "a g-string",
+            "a thong",
+            "a bikini",
+            "a microkini"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The inflationary inflatable shoe that Reebok first put on the market for $170",
+          "choices": [
+            "the Foamposite",
+            "the Zoom",
+            "the air Pump",
+            "the Air Sole"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Jenny McCarthy & Kelly Osbourne have advertised this \"sweet\" brand with a sexy image",
+          "choices": [
+            "Licorice",
+            "Chocolate",
+            "Candies",
+            "Gummi Bears"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "And finally, it's a form in the shape of a foot, used by cobblers in making shoes",
+          "choices": [
+            "a last",
+            "a mold",
+            "a shank",
+            "a sole"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE KING'S ENGLISH",
+      "questions": [
+        {
+          "clue": "Get on the blower & ask the queen if she knows a blower is this in the States",
+          "choices": [
+            "a speaker",
+            "a megaphone",
+            "a telephone",
+            "a radio"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The first English king of this name was born in Yorkshire in 1069; there would be VII more",
+          "choices": [
+            "Henry",
+            "Edward",
+            "George",
+            "Richard"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "An American family goes on vacation, while a British family goes on this",
+          "choices": [
+            "vacation",
+            "break",
+            "trip",
+            "holiday"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Someone on the dole in England isn't eating up your pineapple, he's on this American equivalent",
+          "choices": [
+            "welfare",
+            "aid",
+            "support",
+            "relief"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Born in The Hague, this future king married his English cousin Mary in 1677",
+          "choices": [
+            "James II",
+            "Charles II",
+            "George I",
+            "William (of Orange)"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Add 1 letter to a device used to pair draft animals to get this term for a country bumpkin",
+    "choices": [
+      "a yokel",
+      "hick",
+      "bumpkin",
+      "redneck"
+    ],
+    "correctIndex": 0,
+    "category": "\"Y\"s UP"
+  }
+}

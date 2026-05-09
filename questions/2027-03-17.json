@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-17",
+  "categories": [
+    {
+      "name": "IN THE OCEANS",
+      "questions": [
+        {
+          "clue": "This ocean provides about 49% of the world's yearly catch of fish & shellfish",
+          "choices": [
+            "the Pacific",
+            "the Atlantic",
+            "the Indian",
+            "the Arctic"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Spine-bearing relatives to the starfish, or Fagin's street waifs",
+          "choices": [
+            "crabs",
+            "lobsters",
+            "urchins",
+            "spiders"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In the comic strip \"B.C.\", they \"got feet\", \"can talk\" & are used for money",
+          "choices": [
+            "oysters",
+            "mussels",
+            "shells",
+            "clams"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "From the Greek \"plazesthi\", to wander, they are microorganisms that drift with the currents",
+          "choices": [
+            "placenta",
+            "plastron",
+            "plankton",
+            "pleuston"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "NBC series which put ex-Miss Universe Shawn Weatherly face to face with the terrors of the deep",
+          "choices": [
+            "SeaQuest",
+            "Beavis and Butt-Head",
+            "Blue Planet",
+            "Oceanquest"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TV PERSONALITIES",
+      "questions": [
+        {
+          "clue": "Yasmine Bleeth played Ryan Fenelli on \"Ryan's Hope\" before becoming a rookie lifeguard on this series",
+          "choices": [
+            "Baywatch",
+            "Charmed",
+            "Beverly Hills 90210",
+            "Baywatch Nights"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Erin Moran, who played Richie's sister on this series, didn't return for the 1992 reunion special",
+          "choices": [
+            "Laverne & Shirley",
+            "The Wonder Years",
+            "Happy Days",
+            "Perfect Strangers"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Knives up for Padma Lakshmi, who's hosted this Bravo cooking competition since 2006",
+          "choices": [
+            "Top Chef",
+            "MasterChef",
+            "Chopped",
+            "Hell's Kitchen"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This entrepreneur & shark from \"Shark Tank\" is the majority owner of the Dallas Mavericks",
+          "choices": [
+            "Mark Cuban",
+            "Steve Wynn",
+            "Robert Herjavec",
+            "Kevin O'Leary"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "After \"Bar Rescue\", he tried his hand at \"Marriage Rescue\"",
+          "choices": [
+            "Barry Williams",
+            "James Van Der Beek",
+            "Jon Taffer",
+            "Marc Summers"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "20th CENTURY WORLD LEADERS",
+      "questions": [
+        {
+          "clue": "Like mom like son: sadly, her son Rajiv was also assassinated",
+          "choices": [
+            "Mahatma Gandhi",
+            "Nelson Mandela",
+            "Indira Gandhi",
+            "Golda Meir"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A 1952 coup led by Gamal Abdel Nasser forced this king's abdication",
+          "choices": [
+            "King Hussein",
+            "King Idris",
+            "King Faisal",
+            "King Faruk"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "At age 84 in 1940 he was put in charge of the Vichy State in France",
+          "choices": [
+            "Charles de Gaulle",
+            "Philippe P\u00e9tain Jr.",
+            "Henri Giraud",
+            "Marshall P\u00e9tain"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "(Sarah of the Clue Crew presents from Lima, Peru.) From 1990 to 2000, the palace behind me, here in Lima, was the home of this man, the first of Japanese descent to head another country",
+          "choices": [
+            "Ollanta Humala",
+            "Alejandro Toledo",
+            "(Alberto) Fujimori",
+            "Pedro Castillo"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "His original name was Tafari Makonnen, but he ruled his country under this name",
+          "choices": [
+            "Menelik II",
+            "Lij Iyasu",
+            "Zewditu",
+            "Haile Selassie"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The mom of TV's Huxtable family, in 2004 she became the first black actress to win the Tony for a leading role in a play",
+    "choices": [
+      "Viola Davis",
+      "Phylicia Rashad",
+      "Audra McDonald",
+      "Jennifer Hudson"
+    ],
+    "correctIndex": 1,
+    "category": "AFRICAN-AMERICAN ACTRESSES"
+  }
+}

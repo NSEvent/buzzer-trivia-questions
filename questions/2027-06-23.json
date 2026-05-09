@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-23",
+  "categories": [
+    {
+      "name": "\"UNK\" IN THE TRUNK",
+      "questions": [
+        {
+          "clue": "The Siberian species of this small striped squirrel has been carrying ticks & disease across Europe",
+          "choices": [
+            "the marmot",
+            "the groundhog",
+            "the jerboa",
+            "the chipmunk"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The stink badger of Indonesia is a variety of this critter",
+          "choices": [
+            "a possum",
+            "a raccoon",
+            "a skunk",
+            "an otter"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This term for a dilapidated old auto like my '52 Chrysler refers to the sound it makes",
+          "choices": [
+            "a beater",
+            "a clunker",
+            "a rust bucket",
+            "a heap"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "To expose false claims, theories or legends",
+          "choices": [
+            "validate",
+            "confirm",
+            "debunk",
+            "endorse"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It's the activity the explorers here are practicing",
+          "choices": [
+            "caving in the dark",
+            "tunnel vision",
+            "spelunking",
+            "rock climbing"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ENGINEERING",
+      "questions": [
+        {
+          "clue": "Built at a cost of more than $200 million, it stretches from Victoria, B.C. to St. John's, Newfoundland",
+          "choices": [
+            "the Atlantic Coast Expressway",
+            "the Pacific Rim Route",
+            "the Trans-Canada Highway",
+            "the Great Northern Railway"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The widest cable-stayed bridge is the Leonard P. Zakim Bunker Hill Bridge in this city",
+          "choices": [
+            "New York City",
+            "Chicago",
+            "Los Angeles",
+            "Boston"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Major branch of engineering concerned with design of public bridges, roads, & canals",
+          "choices": [
+            "mechanical engineering",
+            "electrical engineering",
+            "aerospace engineering",
+            "civil engineering"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The first section of this waterway was dug around 400 B.C.; Kublai Khan added a link to Beijing in the 1200s",
+          "choices": [
+            "the Suez Canal",
+            "the Panama Canal",
+            "the Erie Canal",
+            "the Grand Canal"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1858 this French engineer built a railway bridge over the Garonne River; his more famous structure came 31 yrs. later",
+          "choices": [
+            "Thomas Edison",
+            "Henry Ford",
+            "Nikola Tesla",
+            "(Gustave) Eiffel"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHEN THEY WERE TEENS",
+      "questions": [
+        {
+          "clue": "Carmen Electra played Tiger Lily & Nick Lachey a lost boy in their school's production of this show",
+          "choices": [
+            "The Sound of Music",
+            "Annie",
+            "Oliver!",
+            "Peter Pan"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Russell Crowe spent most of his childhood in Australia but moved back to this country of his birth at age 14",
+          "choices": [
+            "Australia",
+            "United Kingdom",
+            "New Zealand",
+            "Canada"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In his teens, Bono wanted to be an actor, so he started his own theatre company at his school in this Irish capital",
+          "choices": [
+            "Cork",
+            "Galway",
+            "Dublin",
+            "Belfast"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This Olympic gold medalist ice princess was just 15 when she gave up her amateur status & turned pro in 1998",
+          "choices": [
+            "Michelle Kwan",
+            "Sasha Cohen",
+            "Tara Lipinski",
+            "Kimmie Meissner"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "As teens, Martie & Emily, sisters in this country trio, toured with a bluegrass group called Blue Night Express",
+          "choices": [
+            "The Chicks",
+            "Little Big Town",
+            "Sugarland",
+            "The Dixie Chicks"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "(Cheryl is playing with her toys.) For tots with tiny fingers, Lego introduced these bigger bricks in 1969",
+    "choices": [
+      "Kre-o",
+      "Playmobil",
+      "Duplo",
+      "Mega Bloks"
+    ],
+    "correctIndex": 2,
+    "category": "WHAT'S \"D\" MATTER?"
+  }
+}

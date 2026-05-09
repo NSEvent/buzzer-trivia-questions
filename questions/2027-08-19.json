@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-19",
+  "categories": [
+    {
+      "name": "THE HISTORY OF HAIR",
+      "questions": [
+        {
+          "clue": "In th 1960s young women did this to their hair as well as their clothes by pressing it on a board",
+          "choices": [
+            "curl it",
+            "iron it",
+            "braid it",
+            "wash it"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Ancient Persians colored their hair a lovely orange-red shade with this dye that comes from leaves",
+          "choices": [
+            "indigo",
+            "walnut",
+            "honey",
+            "henna"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Ancient Assyrian men sported rectangular ones that were elaborately crimped & curled",
+          "choices": [
+            "beards",
+            "mustaches",
+            "beauty marks",
+            "forehead tattoos"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This mistress of Louis XV cared for her famous hairdo by dressing it with veal fat & vanilla",
+          "choices": [
+            "Marie Antoinette",
+            "Catherine de Medici",
+            "Madame de Pompadour",
+            "Queen Margot"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Short hair became popular in the 1500s after Francis I accidentally did this to his hair with a torch",
+          "choices": [
+            "he cut it short",
+            "he dyed it red",
+            "he shaved it bald",
+            "he burned it off"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ETCHED IN STONE",
+      "questions": [
+        {
+          "clue": "The inscription above this man's D.C. memorial starts, \"We hold these truths to be self-evident...\"",
+          "choices": [
+            "Washington",
+            "Lincoln",
+            "Franklin",
+            "Jefferson"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Outside the building where this group meets is a statue with a tablet that reads \"Lex\", Latin for \"law\"",
+          "choices": [
+            "Congress",
+            "the Supreme Court",
+            "the Senate",
+            "the White House"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"The Union must and shall be preserved\" is under this man's statue in New Orleans",
+          "choices": [
+            "Ulysses S. Grant",
+            "Jefferson Davis",
+            "Andrew Jackson",
+            "Robert E. Lee"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "When the Nabateans ruled Jordan from about 400 B.C. to 106 A.D., their capital was this city, carved from stone",
+          "choices": [
+            "Palmyra",
+            "Petra",
+            "Jerash",
+            "Bosra"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "A 4th century statue of this emperor once held a cross that said, \"Through this sign of salvation, I rescued your city\"",
+          "choices": [
+            "Julian the Apostate",
+            "Diocletian",
+            "Theodosius I",
+            "Constantine the Great"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHERE ARE THEY NOW?",
+      "questions": [
+        {
+          "clue": "This actress is buried in Monaco at the Cathedral of St. Nicholas, where she was married in 1956",
+          "choices": [
+            "Grace Kelly",
+            "Marilyn Monroe",
+            "Elizabeth Taylor",
+            "Audrey Hepburn"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This editor is buried near her first husband & her former brother-in-law at Arlington National Cemetery",
+          "choices": [
+            "Lady Bird Johnson",
+            "Jacqueline Kennedy Onassis",
+            "Bess Truman",
+            "Edith Wilson"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Residents of Sleepy Hollow Cemetery in Concord, Mass. include Emerson & this Walden Pond resident",
+          "choices": [
+            "Ralph Waldo Emerson",
+            "Henry David Thoreau",
+            "Nathaniel Hawthorne",
+            "Louisa May Alcott"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A 1960s surf movie hunk & star of \"Parrish\", he's now teaching acting on a cruise line",
+          "choices": [
+            "Troy Donahue",
+            "James Darren",
+            "Annette Funicello",
+            "Eli Wallach"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Buried in Rome, this poet wrote as his own epitaph, \"Here lies one whose name was writ in water\"",
+          "choices": [
+            "Percy Bysshe Shelley",
+            "John Keats",
+            "Lord Byron",
+            "John Keble"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"The Last Lion\" is William Manchester's bestselling bio of this WWII British prime minister",
+    "choices": [
+      "Winston Churchill",
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Anthony Eden"
+    ],
+    "correctIndex": 0,
+    "category": "HIS STORY"
+  }
+}

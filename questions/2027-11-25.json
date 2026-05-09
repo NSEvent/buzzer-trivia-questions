@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-25",
+  "categories": [
+    {
+      "name": "TALK OF THE TOWN",
+      "questions": [
+        {
+          "clue": "Pindar wrote, \"O bright and violet-crowned and famed in song, bulwark of Greece,\" this \"divine city!\"",
+          "choices": [
+            "Athens",
+            "Sparta",
+            "Delphi",
+            "Thebes"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "According to Samuel Johnson, \"when a man is tired of\" this city, \"he is tired of life\"",
+          "choices": [
+            "Paris",
+            "London",
+            "Rome",
+            "Vienna"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The book \"Chaos\": one of these \"stirring in the air today in Peking can transform storm systems next month in New York\"",
+          "choices": [
+            "a butterfly",
+            "a hurricane",
+            "a tornado",
+            "a tsunami"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"I guess God made Boston on a wet Sunday\", wrote this mystery novelist; maybe the town put him into a \"big sleep\"",
+          "choices": [
+            "Dashiell Hammett",
+            "Ross Macdonald",
+            "James M. Cain",
+            "Raymond Chandler"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "She wrote of Oakland, California, \"There is no there there\"",
+          "choices": [
+            "Katherine Anne Porter",
+            "Edith Wharton",
+            "Sylvia Plath",
+            "Gertrude Stein"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IT'S A SMALL WORLD",
+      "questions": [
+        {
+          "clue": "It's the smallest unit into which matter can be divided & still keep the properties of an element",
+          "choices": [
+            "a molecule",
+            "an atom",
+            "an electron",
+            "a proton"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The Sammarinese are the people of this serene republic that covers a whopping 23 square miles",
+          "choices": [
+            "Monaco",
+            "Liechtenstein",
+            "San Marino",
+            "Vatican City"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Falls Church, an independent city in this state, is a whopping 2 square miles",
+          "choices": [
+            "Maryland",
+            "Massachusetts",
+            "Connecticut",
+            "Virginia"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Chicken Rock, a rock just big enough for a lighthouse, belongs to this much bigger isle in the Irish Sea",
+          "choices": [
+            "the Isle of Wight",
+            "the Isle of Man",
+            "the Isle of Skye",
+            "the Isle of Arran"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This smallest recognized dog breed may derive from another tiny animal, the fennec fox",
+          "choices": [
+            "a Yorkshire terrier",
+            "a papillon",
+            "a chihuahua",
+            "a toy poodle"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DID YOU GET MY LETTER?",
+      "questions": [
+        {
+          "clue": "To a botanist in 1844, he wrote, \"I am almost convinced... that species are not... immutable\"",
+          "choices": [
+            "Darwin",
+            "Huxley",
+            "Lyell",
+            "Hooker"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"I respectfully remind you, sir, that we have been the most patient of all people\", this ballplayer wrote to Ike in 1958",
+          "choices": [
+            "Jackie Robinson",
+            "Willie Mays",
+            "Sandy Koufax",
+            "Mickey Mantle"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In 1937, in a last letter to her husband before she disappeared, she wrote, \"Women must try to do things as men have tried\"",
+          "choices": [
+            "Amelia",
+            "Schiaparelli",
+            "Elinor Smith",
+            "Earhart"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "No hard feelings? In 1968, months after she shot this man, Valerie Solanas wrote to him, \"I'm very happy you're alive + well\"",
+          "choices": [
+            "Warhol",
+            "Lichtenstein",
+            "Duchamp",
+            "Rauschenberg"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "\"Sweetest Fanny...I love you ever and ever and without reserve\", this poet wrote in 1820",
+          "choices": [
+            "Percy Shelley",
+            "John Keats",
+            "Lord Byron",
+            "William Wordsworth"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This lake lies between southwestern Switzerland & the Haute-Savoie department of France",
+    "choices": [
+      "Lake Constance",
+      "Lake Geneva",
+      "Lake Lucerne",
+      "Lake Zurich"
+    ],
+    "correctIndex": 1,
+    "category": "FRENCH CONNECTIONS"
+  }
+}

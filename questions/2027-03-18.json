@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-18",
+  "categories": [
+    {
+      "name": "YOU'RE MAKING ME \"MAD\"",
+      "questions": [
+        {
+          "clue": "It became the capital during the reign of Philip II",
+          "choices": [
+            "Madrid",
+            "Lisbon",
+            "Barcelona",
+            "Valencia"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A fortified dessert wine from Portugal",
+          "choices": [
+            "Madeira",
+            "Port",
+            "Sherry",
+            "Marsala"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "She was from Armentieres in a popular WWI song; Hinky Dinky Parlay Voo!",
+          "choices": [
+            "Mouflette",
+            "Mam'zelle",
+            "Mademoiselle",
+            "Madame"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The French made this island a colony in 1896",
+          "choices": [
+            "Mauritius",
+            "Martinique",
+            "Madagascar",
+            "Mayotte"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Technically, it's bovine spongiform encephalopathy",
+          "choices": [
+            "mad cow disease",
+            "zombie virus",
+            "human immunodeficiency",
+            "bovine leukemia"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SEASHELLS",
+      "questions": [
+        {
+          "clue": "The ancient Phoenicians & Romans used Murex shells to make the dye that produced this royal color",
+          "choices": [
+            "royal blue",
+            "Tyrian red",
+            "purple",
+            "imperial green"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The blue species of this common bivalve accounts for much of the shell litter on East & West Coast beaches",
+          "choices": [
+            "oysters",
+            "mussels",
+            "clams",
+            "scallops"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "An abalone shell is lined with a lustrous material called nacre, or this, because shellfish can give birth to gems",
+          "choices": [
+            "mother-of-gems",
+            "pearl-shine",
+            "mother-of-pearl",
+            "mother-of-shells"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Shells of the family terebridae, called this, like the carpenter's drilling tool they resemble",
+          "choices": [
+            "a chisel shell",
+            "an auger shell",
+            "a drill shell",
+            "an awl shell"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Irregularly-shaped shells of creatures in the family vermetidae are also known as this type of shell, named for an earth tiller",
+          "choices": [
+            "a plow shell",
+            "a hoe shell",
+            "a spade shell",
+            "a worm shell"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE 1970s",
+      "questions": [
+        {
+          "clue": "In May 1976 Clarence Kelley apologized for its \"clearly wrong and quite indefensible\" activities",
+          "choices": [
+            "FBI",
+            "CIA",
+            "NSA",
+            "DEA"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Shah Mohammed Reza Pahlevi left Iran on vacation January 16, 1979, and 2 weeks later, this man returned from exile",
+          "choices": [
+            "Ayatollah Khomeini",
+            "Saddam Hussein",
+            "Ahmed Shafik",
+            "Mehdi Bazargan"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "American Jack Howard, who went to China in 1971, was the captain of this team",
+          "choices": [
+            "the basketball squad",
+            "the soccer club",
+            "the Ping Pong team",
+            "the volleyball group"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In January 1972, Sheikh Mujibur Rahman became the prime minister of this newly independent nation",
+          "choices": [
+            "Pakistan",
+            "Bangladesh",
+            "Afghanistan",
+            "Myanmar"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "On July 2, 1976, these 2 Asian countries officially reunited",
+          "choices": [
+            "North & South Korea",
+            "East & West Germany",
+            "Czechoslovakia",
+            "North & South Vietnam"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Post currently held by William J. Henderson",
+    "choices": [
+      "Post Office Inspector",
+      "Postmaster General",
+      "Postal Censor",
+      "Mail Carrier"
+    ],
+    "correctIndex": 1,
+    "category": "\"PO\"POURRI"
+  }
+}

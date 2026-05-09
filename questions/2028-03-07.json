@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-07",
+  "categories": [
+    {
+      "name": "ANCIENT WORLDS",
+      "questions": [
+        {
+          "clue": "Julius Caesar went to school in this island known for its \"Colossus\"",
+          "choices": [
+            "Crete",
+            "Sicily",
+            "Rhodes",
+            "Cyprus"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Class below the patricians, they were the general citizen body of Ancient Rome",
+          "choices": [
+            "the patricians",
+            "the slaves",
+            "the equestrians",
+            "the plebeians"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"Running\" battle where ancient Greeks defeated Darius I of Persia",
+          "choices": [
+            "Battle of Marathon",
+            "Battle of Salamis",
+            "Battle of Thermopylae",
+            "Battle of Plataea"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Fatalistic Greek philosophy that taught indifference to pleasure or pain",
+          "choices": [
+            "epicureanism",
+            "stoicism",
+            "nihilism",
+            "hedonism"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The Sumerians established Sumer in what is now this Mideast country",
+          "choices": [
+            "Iraq",
+            "Iran",
+            "Saudi Arabia",
+            "Egypt"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IN THE OLYMPIC CITY",
+      "questions": [
+        {
+          "clue": "The Harbour Bridge is quite the sight on New Year's Eve in this 2000 host city",
+          "choices": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane",
+            "Auckland"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Athlete or not, this city's Kotiharjun Sauna will open your pores",
+          "choices": [
+            "Helsinki",
+            "Stockholm",
+            "Oslo",
+            "Copenhagen"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Scott Joplin House State Historic Site, furnished as it was when the man lived & worked there",
+          "choices": [
+            "Chicago",
+            "New York",
+            "Boston",
+            "St. Louis"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The Temple of Hephaestus, for the rest of us",
+          "choices": [
+            "Sparta",
+            "Athens",
+            "Thebes",
+            "Delphi"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Enjoy Marienplatz or drive over to BMW headquarters in this city",
+          "choices": [
+            "Berlin",
+            "Munich",
+            "Hamburg",
+            "Frankfurt"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NO. 1 SONGS",
+      "questions": [
+        {
+          "clue": "Lyricist Will Jennings was inspired by artist Beatrice Wood when writing this song for the movie \"Titanic\"",
+          "choices": [
+            "My Heart Will Rock On",
+            "\"My Heart Will Go On\"",
+            "My Heart Will Be Gone",
+            "My Heart Will Stay Here"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"It's Only Make Believe\" was his only No. 1 pop hit, but he had dozens of No. 1 country records",
+          "choices": [
+            "George Strait",
+            "Conway Twitty",
+            "Merle Haggard",
+            "Alan Jackson"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Swedish producer Max Martin wrote this 1999 hit, the first title containing an ellipsis to top the Billboard Hot 100",
+          "choices": [
+            "\"...Baby One More Time\"",
+            "\"...I'm Still Standing\"",
+            "\"...Don't Stop Believin'\"",
+            "\"...Sweet Caroline\""
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "She cowrote & sang \"Call Me Maybe\"",
+          "choices": [
+            "Justin Bieber",
+            "Kesha",
+            "Carly Jepsen",
+            "Miley Cyrus"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"No One\" was a No. 1 hit for her",
+          "choices": [
+            "Alicia Keys",
+            "Beyonc\u00e9",
+            "Jennifer Hudson",
+            "Keyshia Cole"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "These 9 sister goddesses, the daughters of Zeus & Mnemosyne, presided over various arts",
+    "choices": [
+      "the Graces",
+      "the Horae",
+      "the Muses",
+      "the Fates"
+    ],
+    "correctIndex": 2,
+    "category": "IT'S A GROUP THING"
+  }
+}

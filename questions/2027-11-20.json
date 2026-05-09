@@ -1,0 +1,207 @@
+{
+  "date": "2027-11-20",
+  "categories": [
+    {
+      "name": "YOU HAD ONE JOB!",
+      "questions": [
+        {
+          "clue": "A fletcher aims to live up to his name origin by making these pointy objects",
+          "choices": [
+            "bullets",
+            "spears",
+            "arrows",
+            "darts"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "It's the job of one who reads the lessons during a church service & very much not \"I ate his liver with some fava beans\"",
+          "choices": [
+            "a lector",
+            "a priest",
+            "a cantor",
+            "a deacon"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A funambulist balances work & play in this gig",
+          "choices": [
+            "tightrope walking",
+            "high wire act",
+            "slacklining",
+            "acrobat"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"A\" is for this female owner of a tavern who, you might say, is married to her job",
+          "choices": [
+            "a barmaid",
+            "an alewife",
+            "a tavernkeeper",
+            "a hostess"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Latin for \"hand\" gave us this long word for a secretary",
+          "choices": [
+            "a scribe",
+            "a notary",
+            "an amanuensis",
+            "a clerk"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WORDS WITH SILENT CONSONANTS",
+      "questions": [
+        {
+          "clue": "What's given to you in a \"Jeopardy!\" clue, it could be final on \"Who Wants to Be a Millionaire\"",
+          "choices": [
+            "a solution",
+            "an answer",
+            "a response",
+            "a reply"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Miss Cleo, by TV profession; call me now!",
+          "choices": [
+            "a fortune teller",
+            "a medium",
+            "a astrologer",
+            "a psychic"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Junior lien is another term for a second one of these",
+          "choices": [
+            "a loan",
+            "a deed",
+            "a mortgage",
+            "a note"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Scattered remnants, the space type, millions of pieces strong, is a danger to satellites",
+          "choices": [
+            "wreckage",
+            "rubble",
+            "debris",
+            "detritus"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Crypts for Christians in ancient Rome",
+          "choices": [
+            "crypts",
+            "tombs",
+            "ossuaries",
+            "catacombs"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MUSEUMS OF THE WORLD",
+      "questions": [
+        {
+          "clue": "The typewriter used to write \"Out of Africa\" is exhibited at her home in Rungstedlund, Denmark",
+          "choices": [
+            "Henrik Ibsen",
+            "Isak Dinesen (Karen Blixen)",
+            "August Strindberg",
+            "Sven Hedin"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Its museums include the Gregorian Museum of Etruscan Art & the Room of the Immaculate Conception",
+          "choices": [
+            "the Louvre",
+            "the Vatican",
+            "the British Museum",
+            "the Met"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "During a recent renovation, it moved \"The Night Watch\" & other works to the Philips wing",
+          "choices": [
+            "the Louvre",
+            "the Prado",
+            "the Rijksmuseum",
+            "the British Museum"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This Florence gallery was designed by Vasari to be an office, hence its name",
+          "choices": [
+            "the Uffizi",
+            "the Vatican",
+            "the Met",
+            "the Hermitage"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This 18th century lexicographer's first dictionary is on display in the London townhouse where he lived & worked",
+          "choices": [
+            "Samuel Johnson",
+            "Daniel Defoe",
+            "Jonathan Swift",
+            "Samuel Pepys"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "They hold up Jimmy's socks",
+    "choices": [
+      "Bush's ties",
+      "Carter's garters",
+      "Nixon's collars",
+      "Clinton's jeans"
+    ],
+    "correctIndex": 1,
+    "category": "PRESIDENTIAL RHYME TIME"
+  },
+  "bonusRound": {
+    "clue": "It's the color you'd avoid if you were xanthophobic",
+    "choices": [
+      "red",
+      "yellow",
+      "blue",
+      "green"
+    ],
+    "correctIndex": 1,
+    "category": "COLORIFIC"
+  }
+}

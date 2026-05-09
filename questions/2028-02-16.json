@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-16",
+  "categories": [
+    {
+      "name": "\"LOCK\"s",
+      "questions": [
+        {
+          "clue": "This brazen young blonde was caught napping in Baby Bear's bed",
+          "choices": [
+            "Cinderella",
+            "Sleeping Beauty",
+            "Snow White",
+            "Goldilocks"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Long, braided hairstyle favored by Rastafarians",
+          "choices": [
+            "dreadlocks",
+            "box braids",
+            "cornrows",
+            "pigtails"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Psychologist whose \"Studies in the Psychology of Sex\" was banned in turn-of-the-century England",
+          "choices": [
+            "Sigmund Freud",
+            "Carl Jung",
+            "Alfred Kinsey",
+            "Havelock Ellis"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The state of being married",
+          "choices": [
+            "bachelorhood",
+            "spinsterhood",
+            "singleness",
+            "wedlock"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Socrates' last beverage",
+          "choices": [
+            "poison oak",
+            "hemlock",
+            "arsenic",
+            "belladonna"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PORTMANTEAUS",
+      "questions": [
+        {
+          "clue": "Bar patrons forced outside by cigarette bans have engaged in smirting, a blend of smoking & this",
+          "choices": [
+            "snooping",
+            "flirting",
+            "shouting",
+            "shivering"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Shah Rukh Khan & Aamir Khan are on Time Out's list of the 12 Best these Actors Working in Hindi Cinema",
+          "choices": [
+            "Bollywood",
+            "Kollywood",
+            "Tollywood",
+            "Nollywood"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This economic term refers to a lack of consumer demand accompanied by rising prices & unemployment",
+          "choices": [
+            "inflation",
+            "deflation",
+            "recession",
+            "stagflation"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "It's the portmanteau word for a program that is aired at the same time on TV & radio",
+          "choices": [
+            "a cross-promotion",
+            "a syndicated run",
+            "a simulcast",
+            "a double feature"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Bobo is a portmanteau for these seemingly conflicting social classes, like being a starving artist & a 9-5er",
+          "choices": [
+            "bourgeois-bohemian",
+            "proletarian-prosperous",
+            "humble-hedonistic",
+            "rural-urbanite"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE 1300s",
+      "questions": [
+        {
+          "clue": "Culture in China flourished under this dynasty that began ruling in 1368",
+          "choices": [
+            "the Tang",
+            "the Ming",
+            "the Yuan",
+            "the Han"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Wat Tyler's rebellion of 1381 occurred over this tax levied as a prerequisite to voting",
+          "choices": [
+            "a property levy",
+            "a tithe",
+            "a poll tax",
+            "a hearth tax"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Historians mark 1325 as the years that these people founded the city of Tenochtitlan",
+          "choices": [
+            "the Maya",
+            "the Incas",
+            "the Olmecs",
+            "the Aztecs"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This long conflict began in 1337",
+          "choices": [
+            "The Hundred Years' War",
+            "The Wars of the Roses",
+            "The Thirty Years' War",
+            "The Crusades"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1381 he led a peasants' revolt in England over heavy taxation of the poorer classes",
+          "choices": [
+            "Jack Cade",
+            "Lollard John",
+            "Wat Tyler",
+            "Robert Kett"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"Dutch\" & \"The Role of a Lifetime\" are books about him",
+    "choices": [
+      "Bush",
+      "Reagan",
+      "Carter",
+      "Nixon"
+    ],
+    "correctIndex": 1,
+    "category": "WHO \"R\" YOU?"
+  }
+}

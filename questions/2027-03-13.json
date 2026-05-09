@@ -1,0 +1,207 @@
+{
+  "date": "2027-03-13",
+  "categories": [
+    {
+      "name": "HISTORIC COUPLES",
+      "questions": [
+        {
+          "clue": "In his will, this playwright left his second-best bed to his wife; maybe the best one went to Gwyneth Paltrow",
+          "choices": [
+            "Christopher Marlowe",
+            "William Shakespeare",
+            "Ben Jonson",
+            "John Fletcher"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This philandering U.S. pres. called his wife Florence \"The Duchess\"; we wonder if she had any choice nicknames for him",
+          "choices": [
+            "Calvin Coolidge",
+            "Warren G. Harding",
+            "Woodrow Wilson",
+            "Herbert Hoover"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Before their executions in 1793, this royal couple, with different interests, pretty much led separate lives",
+          "choices": [
+            "Louis XVI & Marie Antoinette",
+            "Peter the Great & Catherine I",
+            "Charles I & Henrietta Maria",
+            "James II & Mary of Modena"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "When Edward VIII said he couldn't discharge his duties \"without the help & support of the woman\" he loved, he meant her",
+          "choices": [
+            "Merrill Ring",
+            "Thelma Furness",
+            "Kathleen Kennedy",
+            "(Wallis) Simpson"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The 1614 marriage of Pocahontas & John Rolfe assured peace for years between this colony & the Powhatan Indians",
+          "choices": [
+            "Plymouth",
+            "Boston",
+            "Jamestown",
+            "Williamsburg"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CHINESE CALENDAR ANIMALS",
+      "questions": [
+        {
+          "clue": "While all the animals breathe, this is the only one that you'd expect to breathe fire",
+          "choices": [
+            "Phoenix",
+            "Hydra",
+            "Dragon",
+            "Chimera"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This wascally sign whose years include 1951 & 1999 shows bravery against high odds & is rarely be-Fudd-led",
+          "choices": [
+            "a rat",
+            "a rabbit",
+            "a tiger",
+            "a snake"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This sign for 2006 shows devotion to family; aren't you a good sign? Yes you are! Good sign!",
+          "choices": [
+            "a pig",
+            "the dog",
+            "a horse",
+            "an ox"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A Norway (also known as a brown)",
+          "choices": [
+            "rat",
+            "mouse",
+            "pig",
+            "ox"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "1967 folks \"flock\" to this sign that represents the essence of the Yin, the feminine passive principle",
+          "choices": [
+            "the rabbit",
+            "the sheep",
+            "the horse",
+            "the dog"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A PROVERBIAL MESS",
+      "questions": [
+        {
+          "clue": "Words louder than actions speak",
+          "choices": [
+            "words mean more than deeds",
+            "actions speak louder than words",
+            "loud voices win arguments",
+            "actions are silent but deadly"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Bright on the always side look",
+          "choices": [
+            "always look for the dark side",
+            "always look on the bright side",
+            "always look at the bright moon",
+            "always look down on the weak"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Faint lady heart never won fair",
+          "choices": [
+            "hard work pays off",
+            "the early bird catches the worm",
+            "faint heart never won fair lady",
+            "fortune favors the bold"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The tune piper pays the he who calls",
+          "choices": [
+            "he who pays the piper calls the tune",
+            "money makes the world go round",
+            "you get what you pay for",
+            "the customer is always right"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Beggars wishes were if horses ride would",
+          "choices": [
+            "if wishes were fish, beggars would swim",
+            "if dreams were reality, kings would beg",
+            "if wishes were horses, beggars would ride",
+            "if hopes were horses, lovers would ride"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Born in 1862, he founded the Vienna Secession school of painting & also created vibrant portraits of women",
+    "choices": [
+      "Egon Schiele",
+      "Gustav Klimt",
+      "Oskar Kokoschka",
+      "Friedrich Hundertwasser"
+    ],
+    "correctIndex": 1,
+    "category": "\"K\" MART"
+  },
+  "bonusRound": {
+    "clue": "The popularity of St. Germain liqueur may have gotten Merriam-Webster to add this \"flower\" of a better-known \"berry\"",
+    "choices": [
+      "blueberry",
+      "raspberry",
+      "strawberry",
+      "elderflower"
+    ],
+    "correctIndex": 3,
+    "category": "NEWER WORDS"
+  }
+}

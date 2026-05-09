@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-05",
+  "categories": [
+    {
+      "name": "INTERNATIONAL TRIVIA",
+      "questions": [
+        {
+          "clue": "Some of these African \"little people\" get their protein from eating winged termites",
+          "choices": [
+            "the san",
+            "the masai",
+            "the khoi",
+            "the pygmies"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1975 this ex-beauty queen became the 1st governor of metropolitan Manila",
+          "choices": [
+            "Corazon Aquino",
+            "Imee Marcos",
+            "Gloria Macapagal",
+            "Imelda Marcos"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Gastown is a restored 19th century area of this port city in British Columbia",
+          "choices": [
+            "Vancouver",
+            "Victoria",
+            "Portland",
+            "Edmonton"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Bang Pa-In Palace in this Asian country was the summer residence of early Chakri kings",
+          "choices": [
+            "Thailand",
+            "Myanmar",
+            "Cambodia",
+            "Laos"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Willemstad, the capital of the Netherlands Antilles, is on this island",
+          "choices": [
+            "aruba",
+            "cura\u00e7ao",
+            "bonaire",
+            "sint maarten"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SINGLE-NAMED SINGERS' LAST NAMES",
+      "questions": [
+        {
+          "clue": "Rock royalty from Minneapolis: Nelson",
+          "choices": [
+            "Prince",
+            "Michael",
+            "Jermaine",
+            "Tito"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "L.A.-born $inger-$ongwriter Sebert",
+          "choices": [
+            "Kesha",
+            "Brittany",
+            "Paris",
+            "Jessica"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Get \"Caught Up\" with this R&B singer: Raymond",
+          "choices": [
+            "Usher",
+            "U2",
+            "Ugly",
+            "Underworld"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "She uses her last name Fenty on her fashion line for Puma",
+          "choices": [
+            "Rihanna",
+            "Beyonc\u00e9",
+            "Madonna",
+            "Lady Gaga"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Would you \"believe\" she was born with the last name Sarkisian?",
+          "choices": [
+            "Bj\u00f6rk",
+            "Cher",
+            "Nirvana",
+            "Santana"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BOOKS BY CHAPTERS",
+      "questions": [
+        {
+          "clue": "\"I Strike the Jolly Roger\", \"Silver's Embassy\"",
+          "choices": [
+            "Robinson Crusoe",
+            "The Count of Monte Cristo",
+            "The Swiss Family Robinson",
+            "Treasure Island"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"The World According to Marcus Aurelius\", \"The World According to Bensenhaver\"",
+          "choices": [
+            "The World According to Smith",
+            "The World According to Garp",
+            "The World According to Jones",
+            "The World According to Doe"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Serious Preparations for Vertical Descent\", \"Shot Out of a Volcano at Last!\"",
+          "choices": [
+            "A Voyage to the Moon",
+            "Journey to the Center of the Earth",
+            "Twenty Thousand Leagues Under the Sea",
+            "The Time Machine"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "By Gaston Leroux: \"At the Masked Ball\", \"The End of the Ghost's Love Story\"",
+          "choices": [
+            "The Hunchback of Notre Dame",
+            "The Fall of the House of Usher",
+            "The Picture of Dorian Gray",
+            "The Phantom of the Opera"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"Ice-Nine\", \"Tutored by Bokonon\"",
+          "choices": [
+            "Cat's Cradle",
+            "Slaughterhouse-Five",
+            "Breakfast of Champions",
+            "God Bless You, Mr. Rosewater"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Many songs by Everclear concern this person in our lives, as in him \"of mine / Tell me where have you been?\"",
+    "choices": [
+      "Father",
+      "Mother",
+      "Brother",
+      "Sister"
+    ],
+    "correctIndex": 0,
+    "category": "ROCK BANDS"
+  }
+}

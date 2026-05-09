@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-15",
+  "categories": [
+    {
+      "name": "BLACK AMERICANS",
+      "questions": [
+        {
+          "clue": "In 1940 he won the NCAA title in the broad jump; 7 years later, he joined the Brooklyn Dodgers",
+          "choices": [
+            "Willie Mays",
+            "Jackie Robinson",
+            "Satchel Paige",
+            "Roberto Clemente"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "With $800 borrowed from his family, this songwriter founded Motown Records",
+          "choices": [
+            "Sam Cooke",
+            "James Brown",
+            "Berry Gordy Jr.",
+            "Stevie Wonder"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This author of \"Jazz\" & \"Tar Baby\" was the first black American to win the Nobel Prize in Literature",
+          "choices": [
+            "Maya Angelou",
+            "Toni Morrison",
+            "Zora Neale Hurston",
+            "Alice Walker"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 1968 this Baptist minister succeeded Martin Luther King Jr. as president of the Southern Christian Leadership Conference",
+          "choices": [
+            "Ralph Abernathy",
+            "Shelby Steele",
+            "Jesse Jackson",
+            "Andrew Young"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This Illinois Democrat joined the Senate Judiciary Committee after the Clarence Thomas hearings",
+          "choices": [
+            "Dianne Feinstein",
+            "Hillary Clinton",
+            "Carol Moseley-Braun",
+            "Carolyn Maloney"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BOTTOMS UP!",
+      "questions": [
+        {
+          "clue": "Captain Morgan spiced rum & Bacardi are made there",
+          "choices": [
+            "Cuba",
+            "Jamaica",
+            "Trinidad",
+            "Puerto Rico"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The brown type of this fortified Spanish wine is dark & sweet",
+          "choices": [
+            "porto",
+            "sherry",
+            "vermouth",
+            "marsala"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A 1979 song wondered if you like this tropical drink & getting caught in the rain",
+          "choices": [
+            "mai tai",
+            "blue lagoon",
+            "margarita",
+            "pi\u00f1a colada"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Mix equal parts of Scotch & Drambuie, pour over ice & you'll have this classic cocktail",
+          "choices": [
+            "a screwdriver",
+            "a blood mary",
+            "a old fashioned",
+            "a rusty nail"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In the movie \"Sideways\", wine snob Miles threatens to walk out on his date if he has to drink this red wine",
+          "choices": [
+            "Merlot",
+            "Pinot Noir",
+            "Cabernet Sauvignon",
+            "Syrah"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "1855",
+      "questions": [
+        {
+          "clue": "In 1855 Marthinus Pretorius founded a city that's now the administrative capital of this country",
+          "choices": [
+            "Nigeria",
+            "Kenya",
+            "South Africa",
+            "Ghana"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Nursing on the Black Sea in 1855, she wrote home, \"What the horrors of war are, no one can imagine\"",
+          "choices": [
+            "Clara Barton",
+            "Florence Nightingale",
+            "Dorothea Dix",
+            "Ethel Bedford"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This \"Tales of Hoffmann\" composer became manager of the Bouffes-Parisiens Theatre",
+          "choices": [
+            "Bizet",
+            "Offenbach",
+            "Massenet",
+            "Gounod"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "After an 11-month siege, this Black Sea port fell September 11, 1855",
+          "choices": [
+            "Balaclava",
+            "Kronstadt",
+            "Odessa",
+            "Sevastopol"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A railroad was built across this isthmus",
+          "choices": [
+            "the Isthmus of Suez",
+            "the Isthmus of Corinth",
+            "the Isthmus of Panama",
+            "the Isthmus of Kra"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Once romantically linked with Marilyn Manson, she talked movies on TCM with Robert Osborne",
+    "choices": [
+      "Roseanne Barr",
+      "Rose Byrne",
+      "Rose McGowan",
+      "Rosemarie DeWitt"
+    ],
+    "correctIndex": 2,
+    "category": "EVERYTHING'S COMING UP \"ROSE\"S"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-12",
+  "categories": [
+    {
+      "name": "THE MID-ATLANTIC STATES",
+      "questions": [
+        {
+          "clue": "Zane Grey's ancestor Betty Zane helped save Fort Henry, now the site of this state's city of Wheeling",
+          "choices": [
+            "Pennsylvania",
+            "West Virginia",
+            "Maryland",
+            "Ohio"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Its state fair is held in Columbia",
+          "choices": [
+            "North Carolina",
+            "South Carolina",
+            "Virginia",
+            "Georgia"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "On this Maryland site, during the bloodiest Civil War battle, Commissary Sgt. William McKinley served coffee",
+          "choices": [
+            "Gettysburg",
+            "Manassas",
+            "Antietam Creek",
+            "Antietam"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "With Raleigh & Durham, it forms North Carolina's \"Research Triangle\"",
+          "choices": [
+            "Charlotte",
+            "Chapel Hill",
+            "Raleigh",
+            "Durham"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Bordering similar communities in Ontario & Quebec, New York's St. Regis Reservation is home to this tribe",
+          "choices": [
+            "the Mohawk",
+            "the Iroquois",
+            "the Huron",
+            "the Seneca"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BOOKS' FIRST LINES",
+      "questions": [
+        {
+          "clue": "A dystopian novel: \"It was a bright cold day in April, and the clocks were striking thirteen\"",
+          "choices": [
+            "1948",
+            "1950",
+            "1965",
+            "1984"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"Alice was beginning to get very tired of sitting by her sister on the bank, & of having nothing to do\"",
+          "choices": [
+            "Lewis Carroll",
+            "Alice in Wonderland",
+            "Charles Lutwidge Dodgson",
+            "John Tenniel"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Hard boiled: \"Sam Spade's jaw was long and bony, his chin a jutting V under the more flexible V of his mouth\"",
+          "choices": [
+            "The Big Sleep",
+            "The Long Goodbye",
+            "The Maltese Falcon",
+            "The Shadow in the Attic"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "By Joyce: \"Once upon a time and a very good time it was there was a moocow coming down along the road...\"",
+          "choices": [
+            "A Portrait of the Artist",
+            "Ulysses",
+            "Portrait of the Artist as a Young Man",
+            "Finnegan's Wake"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A 2002 novel: \"My name is Salmon, like the fish; first name, Susie, I was 14 when I was murdered on December 6, 1973\"",
+          "choices": [
+            "The Fault in Our Stars",
+            "The Lovely Bones",
+            "Where the Crawdads Sing",
+            "The Kite Runner"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "EMILY DICKINSON",
+      "questions": [
+        {
+          "clue": "The longest trip of Emily's life was to Washington, D.C., where her father was serving as a Whig in this",
+          "choices": [
+            "Congress",
+            "Senate",
+            "State House",
+            "White House"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1851 Emily attended a concert by this \"Swedish Nightingale\" on her only American tour",
+          "choices": [
+            "Carola Erika Regine",
+            "Jenny Lind",
+            "Marie Taglioni",
+            "Fanny Elssler"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Thomas Higginson, a contributor to this oceanic-sounding magazine, was Emily's mentor & editor",
+          "choices": [
+            "The Atlantic",
+            "The Ocean",
+            "The Pacific",
+            "The Atlantic City"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Emily's father served in Congress from 1853 to 1855 as one of the last elected members of this party",
+          "choices": [
+            "the Democrat",
+            "the Republican",
+            "the Whig",
+            "the Federalist"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Emily wrote, \"Success is counted sweetest by those who ne'er\" do this",
+          "choices": [
+            "fail",
+            "win",
+            "succeed",
+            "try"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Ingenious means clever; this similar-sounding word means innocent or naive",
+    "choices": [
+      "ingenious",
+      "ingratiating",
+      "ingenuous",
+      "ingenuousness"
+    ],
+    "correctIndex": 2,
+    "category": "SIMILAR-SOUNDING WORDS"
+  }
+}

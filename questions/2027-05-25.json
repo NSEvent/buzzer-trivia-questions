@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-25",
+  "categories": [
+    {
+      "name": "EARLY AMERICA",
+      "questions": [
+        {
+          "clue": "This colony of James Oglethorpe banned the importation of rum & brandy, & forbade slavery",
+          "choices": [
+            "Florida",
+            "Carolina",
+            "Virginia",
+            "Georgia"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The Compromise of 1820 said Maine would be admitted as a free state & this as a slave state",
+          "choices": [
+            "Kentucky",
+            "Tennessee",
+            "Arkansas",
+            "Missouri"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "On his second voyage over, Jacques Cartier thought this river was the best choice for a route to Asia",
+          "choices": [
+            "St. Lawrence",
+            "Mississippi",
+            "Hudson",
+            "Connecticut"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In June 1579 this British captain sailed into a harbor on the West Coast; San Franciscans say it was their bay",
+          "choices": [
+            "Sir Walter Raleigh",
+            "Sir Humphrey Gilbert",
+            "John Cabot",
+            "(Sir Francis) Drake"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Before his \"Essay Concerning Human Understanding\", he helped draw up the Fundamental Constitution of Carolina",
+          "choices": [
+            "David Hume",
+            "Thomas Hobbes",
+            "John Locke",
+            "Francis Bacon"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SHOW TUNES",
+      "questions": [
+        {
+          "clue": "Song that begins, \"Things look swell, things look great, gonna have the whole world on a plate\"",
+          "choices": [
+            "Tomorrow Belongs to Me",
+            "I'm Just a Bill",
+            "You'll Never Walk Alone",
+            "\"Everything's Coming Up Roses\""
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"Happy Talk\", \"Some Enchanted Evening\"",
+          "choices": [
+            "\"South Pacific\"",
+            "The Sound of Music",
+            "Carousel",
+            "West Side Story"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A song from this musical says, \"You've got to pick a pocket or two\"",
+          "choices": [
+            "Les Miserables",
+            "Oliver!",
+            "The Phantom of the Opera",
+            "Evita"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"Do You Hear The People Sing?\" & \"Bring Him Home\" are songs from this musical",
+          "choices": [
+            "Cats",
+            "The Phantom of the Opera",
+            "Les Mis\u00e9rables",
+            "Hamilton"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Kids\", \"Put on a Happy Face\"",
+          "choices": [
+            "Bye Bye Birdie",
+            "Annie",
+            "Fiddler on the Roof",
+            "Grease"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COMIC BOOKS",
+      "questions": [
+        {
+          "clue": "To avoid confusion with the Marvel title, Acme Eclipse used \"Steed & Mrs. Peel\" instead of this",
+          "choices": [
+            "The Defenders",
+            "Fantastic Four",
+            "X-Men",
+            "The Avengers"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 201 I \"Superman's Pal\", this bow-tie-wearing wannabe reporter, had to survive attacks by Codename: Assassin",
+          "choices": [
+            "Lois Lane",
+            "(Jimmy) Olsen",
+            "Perry White",
+            "Clark Kent"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The 1962 cover of the first issue of this irradiated guy asked, \"Is he man or monster or... is he both?\"",
+          "choices": [
+            "the Spiderman",
+            "the Batman",
+            "the Superman",
+            "the Hulk"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "\"Leading with my Chin\"",
+          "choices": [
+            "David Letterman",
+            "Jay Leno",
+            "Johnny Carson",
+            "Conan O'Brien"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"American on Purpose: The Improbable Adventures of an Unlikely Patriot\"",
+          "choices": [
+            "Bill Maher",
+            "Craig Ferguson",
+            "Jon Stewart",
+            "Stephen Colbert"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "It sounds like a heroic poem; Paleocene is one",
+    "choices": [
+      "period",
+      "epoch",
+      "era",
+      "century"
+    ],
+    "correctIndex": 1,
+    "category": "TIME SPANS"
+  }
+}

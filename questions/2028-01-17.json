@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-17",
+  "categories": [
+    {
+      "name": "\"T\"HEATER",
+      "questions": [
+        {
+          "clue": "This synonym for \"actor\" is taken from the name of a real actor of ancient Greece",
+          "choices": [
+            "thespian (from Thespis)",
+            "bard (from Bard of Avon)",
+            "thespis (from Thespis)",
+            "mime (from Mimes of Sicily)"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The dramatization of this Erskine Caldwell novel ran for more than 3,000 performances on Broadway",
+          "choices": [
+            "The Grapes of Wrath",
+            "Our Town",
+            "Death of a Salesman",
+            "Tobacco Road"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"A Month in the Country\" is the dramatic masterpiece of this Russian author of \"Fathers and Sons\"",
+          "choices": [
+            "Ivan Turgenev",
+            "Anton Chekhov",
+            "Leo Tolstoy",
+            "Fyodor Dostoevsky"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In a comedy by Moliere, this title character is a scoundrel who poses as a pious Puritan",
+          "choices": [
+            "Tartuffe",
+            "The Misanthrope",
+            "The Bourgeois Gentleman",
+            "The Imaginary Invalid"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Tracey Ullman & Helen Hunt were Kate & Bianca in a Wild West-set 1990 production of this play",
+          "choices": [
+            "The Taming of the Shrew",
+            "A Midsummer Night's Dream",
+            "Much Ado About Nothing",
+            "The Winter's Tale"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE OSCAR-WINNING ROLE",
+      "questions": [
+        {
+          "clue": "2008: For his brilliant & deranged Joker",
+          "choices": [
+            "Heath Ledger",
+            "Joaquin Phoenix",
+            "Jack Nicholson",
+            "Mark Hamill"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "1996: As Rod Tidwell, he could've said, \"Show me the Oscar!\"",
+          "choices": [
+            "Cuba Gooding, Jr.",
+            "Harrison Ford",
+            "Tom Cruise",
+            "Russell Crowe"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "1962: Atticus! Atticus! (Finch)",
+          "choices": [
+            "Gregory Peck",
+            "Burt Lancaster",
+            "Paul Newman",
+            "Marlon Brando"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This man was recruited to portray Harvey Milk",
+          "choices": [
+            "Sean Penn",
+            "Tom Hanks",
+            "Brad Pitt",
+            "George Clooney"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In his umpteenth Western, he was Rooster Cogburn",
+          "choices": [
+            "Clint Eastwood",
+            "Gary Cooper",
+            "John Wayne",
+            "Randall Griffiths"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A CHRISTMAS SONGBOOK",
+      "questions": [
+        {
+          "clue": "\"Then one foggy Christmas Eve, Santa came to say, 'Rudolph with your nose so bright, won't you'\" do this",
+          "choices": [
+            "Come with me today",
+            "Help me light the way",
+            "Lead my reindeer home",
+            "Guide my sleigh tonight"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"And heaven and nature sing, and heaven and nature sing, and heaven and heaven and nature sing\"",
+          "choices": [
+            "\"Joy To The World\"",
+            "Silent Night",
+            "Jingle Bells",
+            "Deck The Halls"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"No crib for a bed, the little Lord Jesus laid down His sweet head\"",
+          "choices": [
+            "\"Away In A Manger\"",
+            "Silent Night",
+            "Hark The Herald Angels Sing",
+            "Jingle Bells"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"He sees you when you're sleeping, he knows when you're awake\"",
+          "choices": [
+            "\"Santa Claus Is Coming To Town\"",
+            "Jingle Bell Rock",
+            "Rudolph The Red-Nosed Reindeer",
+            "Up On The Housetop"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "\"Sing, choirs of angels, sing in exultation\"",
+          "choices": [
+            "O Little Town Of Bethlehem",
+            "Joy To The World",
+            "We Wish You A Merry Christmas",
+            "\"O Come, All Ye Faithful\""
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "It's a chocolatey brown color, or a flavoring of coffee & chocolate",
+    "choices": [
+      "latte",
+      "espresso",
+      "macchiato",
+      "mocha"
+    ],
+    "correctIndex": 3,
+    "category": "THE \"OC\""
+  }
+}

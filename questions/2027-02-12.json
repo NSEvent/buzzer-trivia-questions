@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-12",
+  "categories": [
+    {
+      "name": "PARADES",
+      "questions": [
+        {
+          "clue": "For most of its route, the Tournament of Roses Parade follows this Pasadena blvd.",
+          "choices": [
+            "Huntington",
+            "Orange",
+            "Colorado",
+            "Linden"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A verdant villain crashes the World Unity Parade in this 2002 Tobey Maguire film",
+          "choices": [
+            "X-Men",
+            "Spider-Man",
+            "Superman",
+            "Batman"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A temperance union parade is used for cover by escaping bank robbers in this Peckinpah classic",
+          "choices": [
+            "The Wild One",
+            "The Wild Bunch",
+            "Easy Rider",
+            "Bonnie and Clyde"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Kent Dorfman's brother's car is reborn as the Deathmobile & is sprung from an \"Eat Me\" cake float in this film",
+          "choices": [
+            "Animal House",
+            "National Lampoon's Vacation",
+            "Fast Times at Ridgemont High",
+            "The Breakfast Club"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Krewes cruise by in the annual parades celebrating this",
+          "choices": [
+            "Mardi Gras",
+            "Christmas",
+            "Eid al-Fitr",
+            "Diwali"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CLASSIC TV CATCHPHRASES",
+      "questions": [
+        {
+          "clue": "\"The tribe has spoken\" are words familiarly spoken by him",
+          "choices": [
+            "Leslie Neale",
+            "Jim Rice",
+            "Steve Irwin",
+            "Jeff Probst"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"Surprise! Surprise! Surprise!\"",
+          "choices": [
+            "Gomer Pyle, P.M.S.",
+            "Gomer Pyle, R.N.",
+            "Gomer Pyle, U.S.M.C.",
+            "Gomer Pyle, C.S."
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "No one could say, \"Jane, you ignorant slut\" like this man who made it famous",
+          "choices": [
+            "Dan Marino",
+            "Dan Aykroyd's Brother",
+            "Dan Aykroyd",
+            "Dan Castellaneta"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In the early 60s, Maynard G. Krebs would say, \"You rang?\"; later this \"Addams Family\" character used it too",
+          "choices": [
+            "Fester",
+            "Gomez",
+            "Pugsley",
+            "Lurch"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"I see nothing! I hear nothing!\"",
+          "choices": [
+            "The Avengers",
+            "Hogan's Heroes",
+            "Get Smart",
+            "Batman"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE BIG TOP",
+      "questions": [
+        {
+          "clue": "\"Circus\" is Latin for these, of which most large American circuses have 3",
+          "choices": [
+            "a triangle",
+            "a square",
+            "a pentagon",
+            "a circle (rings)"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "As a funambulist, this performer needs a well-balanced disposition",
+          "choices": [
+            "a juggler",
+            "a clown",
+            "a tightrope walker",
+            "a magician"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Originally devised to mark a running course for horses ridden bareback, it's about 40 feet in diameter",
+          "choices": [
+            "a circus arena",
+            "a riding ring",
+            "a circus ring",
+            "a show tent"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1826, Howe & Turner were 1st to present their shows in one of these",
+          "choices": [
+            "a hall",
+            "a tent",
+            "a ring",
+            "a stage"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This subtitle was 1st used to describe P.T. Barnum's circus in 1872",
+          "choices": [
+            "\"The World's Greatest Show\"",
+            "\"The Greatest Show on Earth\"",
+            "\"The Circus of the World\"",
+            "\"The Biggest Entertainment on Earth\""
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "From the Greek for \"regimen\", it's the person in a school who sets up the cafeteria's regimen",
+    "choices": [
+      "the chef",
+      "the dietician",
+      "the cook",
+      "the caterer"
+    ],
+    "correctIndex": 1,
+    "category": "HOME EC"
+  }
+}

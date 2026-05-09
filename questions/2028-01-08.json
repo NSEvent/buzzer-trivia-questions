@@ -1,0 +1,207 @@
+{
+  "date": "2028-01-08",
+  "categories": [
+    {
+      "name": "CHRISTMAS",
+      "questions": [
+        {
+          "clue": "On Dec. 26, 1986, USA Today announced there were only this many shopping days until Christmas",
+          "choices": [
+            "365",
+            "360",
+            "364",
+            "30"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "From the Dutch for to cover, what you do to the halls",
+          "choices": [
+            "deck",
+            "hang",
+            "paint",
+            "decorate"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "He first described Santa as \"chubby and plump\" & \"a right jolly old elf\"",
+          "choices": [
+            "Dr. Seuss",
+            "Lewis Carroll",
+            "Clement Clarke Moore",
+            "Charles Dickens"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This alternate name for old St. Nick came from the German for \"Christ Child\"",
+          "choices": [
+            "Saint Nicholas",
+            "Santa Claus",
+            "Father Christmas",
+            "Kris Kringle"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Neil Papworth approved & sent the first one of these in December 1992, typing, \"Merry Christmas\"",
+          "choices": [
+            "email",
+            "fax",
+            "text message",
+            "instant message"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NEVER WON AN EMMY",
+      "questions": [
+        {
+          "clue": "Between \"Episodes\" & \"Friends\", he's gotten the call 8 times, but never the statue",
+          "choices": [
+            "Matthew Perry",
+            "Matt LeBlanc",
+            "David Schwimmer",
+            "Matthew Rhys"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "As Daenerys Targaryen, she could tame dragons, but in 4 nominations, could not tame Emmy voters",
+          "choices": [
+            "Sophie Turner",
+            "Lena Headey",
+            "Emilia Clarke's stunt double",
+            "Emilia Clarke"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"Kojak\" was up for Best TV Drama twice but lost both times to this British PBS show about the upper & lower classes",
+          "choices": [
+            "Downton Abbey",
+            "Upstairs, Downstairs",
+            "Brideshead Revisited",
+            "The Crown"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "3 noms for \"Modern Family\" but no wins for Ed O'Neill & no noms at all as this other sitcom dad, despite 11 seasons in the role",
+          "choices": [
+            "Cliff Huxtable",
+            "Bart Simpson",
+            "Mike Flaherty",
+            "Al Bundy"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Hugh Laurie's 0 for 10 Emmy score includes noms for \"House\" & this AMC series about arms dealers",
+          "choices": [
+            "Breaking Bad",
+            "The Night Manager",
+            "Mad Men",
+            "The Americans"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ANIMALS IN MYTHOLOGY",
+      "questions": [
+        {
+          "clue": "Zeus became Leda's lover while disguised as one of these birds",
+          "choices": [
+            "an eagle",
+            "a dove",
+            "a crane",
+            "a swan"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The Minotaur's mother was Pasiphae, the Queen of Crete, & his father was this animal with whom she fell in love",
+          "choices": [
+            "a horse",
+            "a bull",
+            "a ram",
+            "a lion"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Echidna, who was half woman & half serpent, had many beastly children, including this Nemean beast",
+          "choices": [
+            "the Dragon",
+            "the Sphinx",
+            "the Lion",
+            "the Chimera"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "About once every 500 years, it builds a funeral pyre & allows itself to be consumed by the flames",
+          "choices": [
+            "the phoenix",
+            "the griffin",
+            "the basilisk",
+            "the wyvern"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Odin gallops across the sky on one of these called Sleipnir, whose teeth are inscribed with runes",
+          "choices": [
+            "a pegasus",
+            "a unicorn",
+            "a centaur",
+            "a horse"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Hot again in 2006, this fabric named for a city in India may \"bleed\", which softens the look of the stripes & plaids",
+    "choices": [
+      "Madras",
+      "Calico",
+      "Challis",
+      "Damask"
+    ],
+    "correctIndex": 0,
+    "category": "FASHION SENSE"
+  },
+  "bonusRound": {
+    "clue": "Answers, questions in our half-hour / Give me this 11-letter chant of magical power",
+    "choices": [
+      "a magic spell",
+      "a verbal command",
+      "an incantation",
+      "a wizard's chant"
+    ],
+    "correctIndex": 2,
+    "category": "MIDDLE T"
+  }
+}

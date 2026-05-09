@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-21",
+  "categories": [
+    {
+      "name": "\"SILVER\"",
+      "questions": [
+        {
+          "clue": "This 2-word phrase, no longer on our currency, made bills redeemable in metal",
+          "choices": [
+            "gold standard",
+            "silver certificate",
+            "copper penny",
+            "bronze note"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This band has backed up Bob Seger on hits like \"Night Moves\" & \"Still The Same\"",
+          "choices": [
+            "The Silver Bullet Band",
+            "The Steel Drum Band",
+            "The Bronze Horns",
+            "The Copper Pipes"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Paul Newman might appreciate it if you didn't remember this was his 1st film",
+          "choices": [
+            "The Golden Idol",
+            "The Silver Chalice",
+            "The Bronze Statue",
+            "The Iron Statue"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "AgNO3, without it photography couldn't have developed",
+          "choices": [
+            "gold chloride",
+            "silver nitrate",
+            "copper sulfate",
+            "bronze powder"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Term describing an eloquent person, such as an orator",
+          "choices": [
+            "gold-plated",
+            "silver-tongued",
+            "bronze-skinned",
+            "platinum-voiced"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A GAME OF CHESS",
+      "questions": [
+        {
+          "clue": "If you pawn your chess set, the shop will check to make sure there are this many pawns in it",
+          "choices": [
+            "16",
+            "8",
+            "32",
+            "64"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It's customary but not obligatory to declare when you have your foe in this, which can occur several times in a game",
+          "choices": [
+            "checkmate",
+            "stalemate",
+            "castling",
+            "check"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "(Cheryl of the Clue Crew stands on a gigantic chessboard at a beach.) A recommended opening move is \"'P'-ing to K-4\", which is short for this",
+          "choices": [
+            "pawn to king 3",
+            "knight to king 3",
+            "bishop to king 4",
+            "pawn to king 4"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "(Cheryl is on the beach chessboard again.) When setting up to start a chess game, remember the rule: Queen on this",
+          "choices": [
+            "the center square",
+            "her own color",
+            "the black side",
+            "the top row"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The final stage, with most of the pieces off the board, it's also a Samuel Beckett play title",
+          "choices": [
+            "the opening",
+            "the middlegame",
+            "the endgame",
+            "the stalemate"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DUST TO DUST",
+      "questions": [
+        {
+          "clue": "During the 1930s this drought-ridden area of the Great Plains included parts of Kansas, Oklahoma & Texas",
+          "choices": [
+            "the Great Depression",
+            "the Dust Bowl",
+            "the Oklahoma Panhandle",
+            "the Tornado Alley"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A dust bunny is found under furniture; this more \"demonic\" term is a dusty whirlwind found in a dry region",
+          "choices": [
+            "sandstorm",
+            "dust devil",
+            "dust cloud",
+            "wind tunnel"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In \"King Lear\", Albany tells her, \"You are not worth the dust which the rude wind blows in your face\"",
+          "choices": [
+            "Regan",
+            "Goneril",
+            "Cordelia",
+            "Edmund"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In Genesis \"God said unto\" this creature \"dust shalt thou eat all the days of thy life\"",
+          "choices": [
+            "the serpent",
+            "the beast",
+            "the dragon",
+            "the devil"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 2001 the Odyssey spacecraft observed one of the largest dust storms ever on this planet",
+          "choices": [
+            "Venus",
+            "Jupiter",
+            "Mars",
+            "Saturn"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1882 Darwin was buried in this London church next to Sir John Herschel",
+    "choices": [
+      "St Paul's Cathedral",
+      "Southwark Cathedral",
+      "Westminster Cathedral",
+      "Westminster Abbey"
+    ],
+    "correctIndex": 3,
+    "category": "CHARLES DARWIN"
+  }
+}

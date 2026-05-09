@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-19",
+  "categories": [
+    {
+      "name": "HERE'S YOUR REPORT CARD",
+      "questions": [
+        {
+          "clue": "\"Houston, we've had a problem\" was reported during this 1970 Moon mission",
+          "choices": [
+            "Apollo 11",
+            "Apollo 12",
+            "Apollo 13",
+            "Apollo 14"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "CBO for short, it churns out reports like \"Scorekeeping for Enacted Legislation\"",
+          "choices": [
+            "the General Accounting Office",
+            "the Congressional Budget Office",
+            "the Government Accountability Office",
+            "the Congressional Research Service"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Almost 6,000 personal interviews informed his 1953 report on \"Sexual Behavior in the Human Female\"",
+          "choices": [
+            "Kinsey",
+            "Masters",
+            "Goldstein",
+            "Friedrich"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Some reports say surveyor Henry Livingston wrote \"A Visit from St. Nicholas\", not this reputed author",
+          "choices": [
+            "Washington Irving",
+            "James Russell Lowell",
+            "Henry Wadsworth Longfellow",
+            "(Clement Clarke) Moore"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Britain's 1942 Beveridge Report proposed lifelong social support\u2014in a common metaphor, between these 2 resting places",
+          "choices": [
+            "the cradle & the grave",
+            "the womb & the tomb",
+            "birth & death",
+            "the beginning & the end"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THAT'S SO CLICHE",
+      "questions": [
+        {
+          "clue": "\"Two's company, three's\" this",
+          "choices": [
+            "a mob",
+            "too many",
+            "a crowd",
+            "trouble"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "To be skeptical is \"to take it with a grain of\" this seasoning",
+          "choices": [
+            "sugar",
+            "pepper",
+            "vinegar",
+            "salt"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "We're doing it, no matter what, \"come hell or\" this other condition",
+          "choices": [
+            "cold fire",
+            "foul weather",
+            "high water",
+            "dark skies"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Meaning to exhaust one's energy & resources, it sounds like quickly using up a pre-industrial light source",
+          "choices": [
+            "burning the candle at both ends",
+            "pulling the plug on a gas lamp",
+            "snuffing out two wicks",
+            "dimming the oil in half"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A satisfying meal is said to do this, attach itself to certain bones",
+          "choices": [
+            "stick to your ribs",
+            "adhere to your knuckles",
+            "claw at your marrow",
+            "fasten to your shins"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WORD UP",
+      "questions": [
+        {
+          "clue": "A familiar man's name, this word can also mean \"message received\", over",
+          "choices": [
+            "Roger",
+            "Charlie",
+            "Tango",
+            "Oscar"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "If all numbers from 1 to 10 were arranged alphabetically, this number would be listed first",
+          "choices": [
+            "eleven",
+            "four",
+            "one",
+            "eight"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Title awarded to a student ranking second-highest in the graduating class",
+          "choices": [
+            "valedictorian",
+            "summa cum laude",
+            "class president",
+            "salutatorian"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Oh, give me a this 11-letter term, the tendency of a physiological system to maintain internal stability",
+          "choices": [
+            "allostasis",
+            "homeostasis",
+            "homeopathy",
+            "metabolism"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "You're my favorite, so you're this fruit \"of my eye\"",
+          "choices": [
+            "the cherry",
+            "the peach",
+            "\"the apple\"",
+            "the orange"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1964 this 563-carat sapphire was stolen from the American Museum of Natural History",
+    "choices": [
+      "the Star of Africa",
+      "the Star of India",
+      "the Hope Diamond",
+      "the Regent Blue"
+    ],
+    "correctIndex": 1,
+    "category": "THE 1960s"
+  }
+}

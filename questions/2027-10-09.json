@@ -1,0 +1,207 @@
+{
+  "date": "2027-10-09",
+  "categories": [
+    {
+      "name": "DOUBLE-LETTER WORDS",
+      "questions": [
+        {
+          "clue": "It's from the French for something fried; examples include crab, corn & apple",
+          "choices": [
+            "batter",
+            "fritter",
+            "pastry",
+            "dough"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In physics, it means empty space; when you feel like you're working in one, you feel isolated",
+          "choices": [
+            "a vacuum",
+            "a void",
+            "a gap",
+            "a vacuum chamber"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Effervescence, in liquid",
+          "choices": [
+            "bubbles",
+            "foam",
+            "fizz",
+            "suds"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This short trip taken to perform a specified task is often made for another person",
+          "choices": [
+            "an errand",
+            "a journey",
+            "a quest",
+            "a trek"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It's a combination of 2 metals; brass is one, combining copper & zinc",
+          "choices": [
+            "aluminium",
+            "bronze",
+            "steel",
+            "alloy"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CARDS & DICE",
+      "questions": [
+        {
+          "clue": "Of the numbers you can throw on your 1st roll in craps to win, it's the harder to hit",
+          "choices": [
+            "7",
+            "11",
+            "10",
+            "12"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Number of pieces an backgammon player starts with",
+          "choices": [
+            "16",
+            "14",
+            "12",
+            "15"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In craps, double sixes on dice are called this",
+          "choices": [
+            "doubles",
+            "box cars",
+            "fives",
+            "eagles"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Number 4 on the dice or the number 3 Cartwright son",
+          "choices": [
+            "Little Joe",
+            "Adam Cartwright",
+            "Hoss Cartwright",
+            "Ben Cartwright"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The symbols on cards are also called these, like the dots on a die",
+          "choices": [
+            "dots",
+            "pips",
+            "spots",
+            "faces"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "1966",
+      "questions": [
+        {
+          "clue": "On March 9 General Motors admitted it had investigated this author of \"Unsafe at Any Speed\"",
+          "choices": [
+            "Ralph Nader",
+            "Rachel Carson",
+            "Barbara Jordan",
+            "Jane Fonda"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Otto Preminger & \"Swifty\" Lazar came to blows over film rights to this new book by Truman Capote",
+          "choices": [
+            "In Cold Blood",
+            "To Kill a Mockingbird",
+            "The Catcher in the Rye",
+            "On the Road"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "April 18, 1966, he said \"Half of this (Oscar) belongs to some horse somewhere in the valley...\"",
+          "choices": [
+            "Marlon Brando",
+            "Lee Marvin",
+            "Jackie Gleason",
+            "Gene Hackman"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "August 5: This man gets hit in the head by a rock while leading a civil rights march in Chicago",
+          "choices": [
+            "Malcolm X",
+            "Martin Luther King",
+            "Ralph Abernathy",
+            "John Lewis"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "April 27: This pope meets Soviet Foreign Minister Andrei Gromyko in the Vatican",
+          "choices": [
+            "Pope John XXIII",
+            "Pope Pius XII",
+            "Paul VI",
+            "Pope Benedict XVI"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Leo Bloom & Max Bialystock",
+    "choices": [
+      "Chicago",
+      "Rent",
+      "The Producers",
+      "Hamilton"
+    ],
+    "correctIndex": 2,
+    "category": "CHARACTERS IN BROADWAY MUSICALS"
+  },
+  "bonusRound": {
+    "clue": "Memorable calendar song 1st sung in 1938's forgettable \"Knickerbocker Holiday\"",
+    "choices": [
+      "\"August Song\"",
+      "\"October Tune\"",
+      "\"September Song\"",
+      "\"November Waltz\""
+    ],
+    "correctIndex": 2,
+    "category": "MUSICALS"
+  }
+}

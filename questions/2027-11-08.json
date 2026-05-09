@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-08",
+  "categories": [
+    {
+      "name": "1911",
+      "questions": [
+        {
+          "clue": "This house of the British Parliament lost its veto power",
+          "choices": [
+            "the House of Commons",
+            "the House of Lords",
+            "the Privy Council",
+            "the Royal Assent"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Physicist Ernest Rutherford announced his model for the structure of this",
+          "choices": [
+            "the atom",
+            "the molecule",
+            "the nucleus",
+            "the electron"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "On June 13 this Russian composer's ballet \"Petrushka\" premiered in Paris",
+          "choices": [
+            "Tchaikovsky",
+            "Stravinsky",
+            "Rimsky-Korsakov",
+            "Borodin"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This composer's comic opera \"Der Rosenkavalier\" had its premiere in Dresden",
+          "choices": [
+            "Johann Strauss",
+            "Wolfgang Amadeus Mozart",
+            "Giuseppe Verdi",
+            "Richard Strauss"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Claiming 146 lives, the Triangle Shirtwaist Factory fire in this city led to worker safety reforms",
+          "choices": [
+            "Los Angeles",
+            "Chicago",
+            "New York City",
+            "Boston"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"Y\"s GUYS",
+      "questions": [
+        {
+          "clue": "Think fast \u2014 in 1997 Edwards Air Force Base in California named a street in honor of this retired general",
+          "choices": [
+            "Douglas MacArthur",
+            "George Patton",
+            "Dwight Eisenhower",
+            "Chuck Yeager"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1947 he flew faster than the speed at which my words are reaching the people in this studio",
+          "choices": [
+            "(Chuck) Yeager",
+            "John Glenn",
+            "Neil Armstrong",
+            "Walter Cronkite"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "For capturing a German machine gun nest in WWI, he was awarded the medal of honor",
+          "choices": [
+            "Alvin C York",
+            "Sergeant York",
+            "John J Pershing",
+            "Carl Spays"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 1968 this future Detroit mayor became the first black member of the Democratic National Committee",
+          "choices": [
+            "Harold Washington",
+            "Tommy Thompson",
+            "Ed Koch",
+            "Coleman Young"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "During his 20-year career with the Brewers, he had 3,142 hits & a major league record 123 sacrifice flies",
+          "choices": [
+            "Carl Yastrzemski",
+            "Robin Yount",
+            "Kirby Puckett",
+            "Paul Molitor"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"S\"CIENCE",
+      "questions": [
+        {
+          "clue": "This late-Jurassic creature was probably not popular for horsie rides",
+          "choices": [
+            "a stegosaurus",
+            "a triceratops",
+            "a brontosaurus",
+            "a tyrannosaurus"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Polaris is an example of this largest type of star",
+          "choices": [
+            "dwarf",
+            "red giant",
+            "supergiant",
+            "nebula"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It's the transformation of a substance directly from a solid to a vapor state",
+          "choices": [
+            "vaporize",
+            "sublimate (sublimation)",
+            "evaporate",
+            "condense"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Used as a sweetener, this white crystalline powder, C7H5NO3S, is 300 times as sweet as sugar",
+          "choices": [
+            "saccharin",
+            "aspartame",
+            "sucralose",
+            "cyclamate"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It's what the \"S\" stands for in SEM, a type of electron microscope",
+          "choices": [
+            "scanning",
+            "scattering",
+            "spreading",
+            "scouring"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 2012 Alejandro Padilla was elected this, the island's top executive position, for a 4-year term",
+    "choices": [
+      "president",
+      "senator",
+      "governor",
+      "mayor"
+    ],
+    "correctIndex": 2,
+    "category": "PUERTO RICO"
+  }
+}

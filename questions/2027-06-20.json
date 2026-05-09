@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-20",
+  "categories": [
+    {
+      "name": "SHOW ME THE MONKEY",
+      "questions": [
+        {
+          "clue": "Old-world monkeys, like our friend the patas, don't have prehensile these, many new-world monkeys do",
+          "choices": [
+            "limbs",
+            "hands",
+            "tails",
+            "arms"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The Hanuman langur is named for a monkey god of this religion",
+          "choices": [
+            "Buddhism",
+            "Christianity",
+            "Islam",
+            "Hinduism"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Saki monkeys are diurnal, which means this is when they like to get things done",
+          "choices": [
+            "during the daytime",
+            "at night",
+            "during the evening",
+            "under the moonlight"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Eagles & leopards are known to hunt De Brazza's monkeys, but intrusion by these primates is their biggest threat",
+          "choices": [
+            "humans",
+            "bears",
+            "snakes",
+            "lions"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Saki monkeys are diurnal which means this is when they like to get things done",
+          "choices": [
+            "nighttime",
+            "sunrise",
+            "daytime",
+            "afternoon"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"F\"IVE LETTER WORDS",
+      "questions": [
+        {
+          "clue": "It's what someone who buys & resells stolen goods is called",
+          "choices": [
+            "a thief",
+            "a pawn",
+            "a fence",
+            "a crook"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "An aspect or phase of something, it's also any of the small, polished sides on a cut diamond",
+          "choices": [
+            "a shard",
+            "a slice",
+            "a piece",
+            "a facet"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Proverbially, this type of \"heart\" \"never won fair lady\"",
+          "choices": [
+            "faint",
+            "cold",
+            "weak",
+            "soft"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"You give me\" this in a song originally recorded by \"Little Willie\" John",
+          "choices": [
+            "shiver",
+            "chills",
+            "fever",
+            "burn"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Pachelbel composed this type of composition \"in D minor\" & also \"in F major\"",
+          "choices": [
+            "a sonata",
+            "a fugue",
+            "a concerto",
+            "a rondo"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LOUIS XIV",
+      "questions": [
+        {
+          "clue": "Though this quote is attributed to him in a speech, there's no proof he said it",
+          "choices": [
+            "Je suis l'Etat",
+            "L'\u00c9tat, c'est moi",
+            "L'Etat, c'est nous",
+            "C'est moi, l'Etat"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "When Louis' grandson inherited the Spanish Empire, it was declared these mountains \"no longer exist\"",
+          "choices": [
+            "the Pyrenees",
+            "the Alps",
+            "the Andes",
+            "the Rockies"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Its was Louis' money pit; once he started building this Royal Residence in the 1660s it was hard to stop",
+          "choices": [
+            "Chantilly",
+            "Fontainebleau",
+            "Versailles",
+            "Trianon"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "At this age Louis said, \"Today I am a man\", & dumped his mother as regent",
+          "choices": [
+            "21",
+            "13",
+            "15",
+            "25"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Wanting the Huguenots to convert, Louis revoked the Edict of this in 1685",
+          "choices": [
+            "Worms",
+            "Nantes",
+            "Augsburg",
+            "Nuremberg"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "It's the Italian term for a free-standing bell tower like the leaning one in Pisa",
+    "choices": [
+      "a campanile",
+      "a belfry",
+      "a tower",
+      "a steeple"
+    ],
+    "correctIndex": 0,
+    "category": "FOREIGN ARCHITECTURE"
+  }
+}

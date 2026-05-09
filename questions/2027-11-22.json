@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-22",
+  "categories": [
+    {
+      "name": "GIANTS",
+      "questions": [
+        {
+          "clue": "Cormoran, a Cornish giant, was felled by this famous giant killer",
+          "choices": [
+            "Samson",
+            "Goliath",
+            "Jack",
+            "Hercules"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The stories of the giant lumberjack Paul Bunyan & this blue ox companion date back to early frontier folk tales",
+          "choices": [
+            "Babe (the Blue Ox)",
+            "Betsy (the Blue Ox)",
+            "Barnaby (the Blue Ox)",
+            "Barry (the Blue Ox)"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This Ted Hughes kids' book creation loves eating barbed wire & rusty chains",
+          "choices": [
+            "the Iron Giant",
+            "the Steel Giant",
+            "the Metal Giant",
+            "the Tin Giant"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Pro wrestler Andre the Giant bodyslammed the role of Fezzik in this 1987 film",
+          "choices": [
+            "The Goonies",
+            "Conan the Barbarian",
+            "Willow",
+            "The Princess Bride"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This son of Gargantua was King of the Dipsodes",
+          "choices": [
+            "Pantagruel",
+            "Ronsard",
+            "Quaresma",
+            "Utopia"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"4\"!",
+      "questions": [
+        {
+          "clue": "Pure gold has this measurement",
+          "choices": [
+            "14 karats",
+            "24 karats",
+            "18 karats",
+            "22 karats"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Employees contribute to this retirement savings fund by deductions from their paychecks",
+          "choices": [
+            "403(b)",
+            "457(b)",
+            "401(k)",
+            "529 plan"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This grease-cutting product wants you to know that its name does not include an area code",
+          "choices": [
+            "(Formula) 409",
+            "Formula 407",
+            "Formula 410",
+            "Formula 404"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "When a website is \"not found\", it may be a broken link & result in this palindromic 3-digit number code",
+          "choices": [
+            "505",
+            "404",
+            "303",
+            "606"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Roger Bannister called this sports record \"an Everest\u2014a challenge to the human spirit\"",
+          "choices": [
+            "the 4-minute mile",
+            "the 2-minute mile",
+            "the 5-minute mile",
+            "the 10-minute mile"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CELEBRITY TRIVIA",
+      "questions": [
+        {
+          "clue": "Actor originally turned down by American-Negro Theater because of thick West Indian accent",
+          "choices": [
+            "Sidney Lumet",
+            "Sidney Poitier",
+            "Sidney Poiteer",
+            "Sidney Greenstreet"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "When they learned of Valentino's death in 1926, 2 Japanese girls leaped into one of these",
+          "choices": [
+            "a live volcano",
+            "a hot spring",
+            "a deep lake",
+            "an ocean trench"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This hefty president awarded the infant Lloyd Bridges a trophy for being America's fattest baby",
+          "choices": [
+            "William Howard Taft",
+            "Grover Cleveland",
+            "Theodore Roosevelt",
+            "Woodrow Wilson"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Born in Smyrna, Ga., she dated Jason Patric, Benjamin Bratt, Matthew Perry, Liam Neeson & Daniel Day-Lewis",
+          "choices": [
+            "Sandra Bullock",
+            "Julia Roberts",
+            "Drew Barrymore",
+            "Meg Ryan"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "A 2-time Oscar winner, he was a roommate of funnyman Wally Cox during his theatrical training in NYC",
+          "choices": [
+            "Marlon Brando",
+            "James Dean",
+            "Robert De Niro",
+            "Al Pacino"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Don McLean's musical tribute to this man begins, \"Starry starry night\"",
+    "choices": [
+      "Claude Monet",
+      "Pablo Picasso",
+      "Vincent Van Gogh",
+      "Salvador Dali"
+    ],
+    "correctIndex": 2,
+    "category": "PEOPLE IN SONG"
+  }
+}

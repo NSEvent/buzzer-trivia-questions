@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-06",
+  "categories": [
+    {
+      "name": "BABY TALK",
+      "questions": [
+        {
+          "clue": "Besides being a bed for a baby, it can mean a slang term for a home",
+          "choices": [
+            "a bassinet",
+            "a crib",
+            "a cradle",
+            "a playpen"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A swimming stroke consisting of alternating overarm strokes & a flutter kick",
+          "choices": [
+            "Breaststroke",
+            "Butterfly",
+            "Backstroke",
+            "Crawl"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "To cover, like a layer of snow; or applying to all conditions, like some statements or insurance policies",
+          "choices": [
+            "Blanket",
+            "Umbrella",
+            "Shelter",
+            "Canopy"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "For a rectangle, one is A=bh; or Similac, for example",
+          "choices": [
+            "formula",
+            "equation",
+            "instruction",
+            "recipe"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Your most fashionable clothes are your \"best\" this & \"tucker\"",
+          "choices": [
+            "napkin",
+            "apron",
+            "towel",
+            "bib"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MOTOWN",
+      "questions": [
+        {
+          "clue": "This lead singer of the Miracles wrote \"My Guy\" for Mary Wells & \"My Girl\" for the Temptations",
+          "choices": [
+            "Smokey Robinson",
+            "Stevie Wonder",
+            "Marvin Gaye",
+            "Diana Ross"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Known for \"punk-funk\", in 1981 he invaded our radios with \"Super Freak\"",
+          "choices": [
+            "Prince",
+            "George Clinton",
+            "Rick James",
+            "James Brown"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This Jackson 5 hit begins, \"You and I must make a pact, we must bring salvation back\"",
+          "choices": [
+            "ABC",
+            "I Want You Back",
+            "\"I'll Be There\"",
+            "The Love You Save"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"Twistin' Postman\" was the Marvelettes' Top 40 follow-up to this No. 1 recording",
+          "choices": [
+            "\"Please Mr. Postman\"",
+            "Please Send Me",
+            "Postman Man",
+            "Mr. Mailman"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "4-word title of the first chart topper for the Four Tops; it's also known as \"Sugar Pie, Honey Bunch\"",
+          "choices": [
+            "\"I Can't Help Myself\"",
+            "Can't Help Falling",
+            "Helplessly Hoping",
+            "I Can't Quit"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DOWN ON THE FARM",
+      "questions": [
+        {
+          "clue": "(Jimmy of the Clue Crew speaks from a farm.) At least once a year, my little friend here needs to have her fleece cut in a process called this",
+          "choices": [
+            "trimming",
+            "shearing",
+            "clipping",
+            "dusting"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Ash Lawn - Highland, the home of Pres. Monroe, is a 535-acre farm operated by this college, Monroe's alma mater",
+          "choices": [
+            "the College of William & Mary",
+            "the University of Virginia",
+            "Hampden-Sydney College",
+            "Washington and Lee University"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In a 2009 flu outbreak, fingers pointed at a farm for these called Granjas Carroll de Mexico",
+          "choices": [
+            "chicken coop",
+            "cattle ranch",
+            "sheep pasture",
+            "pig farm"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew rides a green tractor.) This here is a 3020\u2014a classic tractor from this company named for the man who founded it in 1837",
+          "choices": [
+            "Henry Ford",
+            "John Deere",
+            "Cyrus McCormick",
+            "Robert McCormick"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "(Cheryl of the Clue Crew speaks from a field.) In a boat, it means \"getting rid of water\"; on a farm, it's \"tying up hay in a neat package\"",
+          "choices": [
+            "wrapping",
+            "binding",
+            "bailing",
+            "packing"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Lois & Clark had a wedding; Clark finally got the Superman suit, which he donned to save Lois aboard Air Force One",
+    "choices": [
+      "Superman",
+      "Smallville",
+      "Lex & Lois",
+      "Metropolis"
+    ],
+    "correctIndex": 1,
+    "category": "TV SERIES FINALES"
+  }
+}

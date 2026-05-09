@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-20",
+  "categories": [
+    {
+      "name": "ALL THE PRESIDENTS' CHILDREN",
+      "questions": [
+        {
+          "clue": "His daughter Patti has written several books including \"Bondage\" & \"The Way I See It\"",
+          "choices": [
+            "Ronald Reagan",
+            "Richard Nixon",
+            "George H.W. Bush",
+            "Donald Trump"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "His daughter Anna accompanied him when he went to Yalta in 1945",
+          "choices": [
+            "Harry S. Truman",
+            "Dwight D. Eisenhower",
+            "Franklin D. Roosevelt",
+            "John F. Kennedy"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "His eldest son, Frederick, also graduated from West Point, & was later an aide to General Sheridan",
+          "choices": [
+            "William McKinley",
+            "Benjamin Harrison",
+            "William Howard Taft",
+            "(Ulysses) Grant"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "While only 2 of the 6 children from his marriage lived to maturity, he may have fathered others with Sally Hemings",
+          "choices": [
+            "James Madison",
+            "John Adams",
+            "Andrew Jackson",
+            "Thomas Jefferson"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "When this daughter of Ronald Reagan died in 2001, she was recalled as a \"glorious powerhouse of a woman\"",
+          "choices": [
+            "Maureen Reagan",
+            "Patti Davis",
+            "Michael Reagan",
+            "Ronald Reagan Jr."
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MOVIE STUDIOS",
+      "questions": [
+        {
+          "clue": "Lorimar-Telepictures bought this studio's Culver City lot & will rename the Thalberg Bldg.",
+          "choices": [
+            "RKO",
+            "Columbia",
+            "Universal",
+            "MGM"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "They built their first soundstage in 1931 but didn't release a live-action feature until 1950",
+          "choices": [
+            "Disney",
+            "Warner Bros.",
+            "20th Century Fox",
+            "Columbia"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Studio which has brought us 6 \"Friday the 13th\" movies so far - thanks, guys",
+          "choices": [
+            "New Line",
+            "Paramount",
+            "Dimension",
+            "Lionsgate"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The largest studio stage in the world is the \"007 Stage\" at this English studio",
+          "choices": [
+            "Pinewood",
+            "Shepperton",
+            "Elstree",
+            "Ealing"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This man once controlled 1/3 of the world's cinemas; his co. later merged with 20th Century Pictures",
+          "choices": [
+            "Louis B. Mayer",
+            "(William) Fox",
+            "Adolph Zukor",
+            "Carl Laemmle"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DEAD SCIENTISTS SOCIETY",
+      "questions": [
+        {
+          "clue": "Henri Becquerel shared the 1903 Nobel Prize for physics with these 2 other scientists",
+          "choices": [
+            "the Marconi brothers",
+            "the Rutherford duo",
+            "the Thomson brothers",
+            "the Curies (Pierre & Marie)"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Frederick Russell is best known for his study on the life history of this whale food found on the ocean surface",
+          "choices": [
+            "plankton",
+            "krill",
+            "algae",
+            "seaweed"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This American was a real rocket scientist, launching his first liquid-propelled one March 16, 1926",
+          "choices": [
+            "Goddard",
+            "Oberth",
+            "Tsiolkovsky",
+            "Hohmann"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "E.I. du Pont de Nemours, founder of the DuPont company, was a student of this French founder of modern chemistry",
+          "choices": [
+            "Lavoisier",
+            "Pasteur",
+            "Dalton",
+            "Avogadro"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Like Mobius & his strip, this German mathematician is famous for a one-sided object \u2014 a bottle",
+          "choices": [
+            "Felix Christian Klein",
+            "Henri Poincar\u00e9",
+            "David Hilbert",
+            "Felix Hausdorff"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "(Cheryl of the Clue Crew reports.) Here at Ellis Island, I found a record of this composer's arrival in 1893, aged 5, under the name Israel Baline",
+    "choices": [
+      "Irving Berlin",
+      "George Gershwin",
+      "Cole Porter",
+      "Jerome Kern"
+    ],
+    "correctIndex": 0,
+    "category": "IMMIGRANTS"
+  }
+}

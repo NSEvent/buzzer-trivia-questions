@@ -1,0 +1,207 @@
+{
+  "date": "2027-12-18",
+  "categories": [
+    {
+      "name": "HISTORIC WOMEN",
+      "questions": [
+        {
+          "clue": "Feroze, the man whom this future prime minister married in 1942, was not related to the Mahatma",
+          "choices": [
+            "Vijaya Lakshmi Pandit",
+            "Sarojini Naidu",
+            "Indira Gandhi",
+            "Aruna Asaf Ali"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This legendary woman was based on Mary Ludwig Hays & others who brought water to soldiers in the Amer. Revolution",
+          "choices": [
+            "Abigail Adams",
+            "Deborah Samson",
+            "Prudence Wright",
+            "Molly Pitcher"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Beatrice Portinari of 13th century Florence is believed to be the Beatrice in this man's works",
+          "choices": [
+            "Petrarch",
+            "Dante",
+            "Boccaccio",
+            "Cicero"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This Roman emperor's third wife, Messalina, was messing around, so he had her killed",
+          "choices": [
+            "Caligula",
+            "Nero",
+            "Claudius",
+            "Domitian"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1969 Shirley Chisholm attacked the Vietnam War in the first floor speech of her 14-year run as a rep. of this state",
+          "choices": [
+            "New York",
+            "New Jersey",
+            "Massachusetts",
+            "Pennsylvania"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COLLECTORS",
+      "questions": [
+        {
+          "clue": "Collectors of these are vecturists & may not give them up, even to get on the IRT or BMT",
+          "choices": [
+            "(subway) tokens",
+            "bus fare cards",
+            "train tickets",
+            "metro passes"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "An avid collector of these, Jay Leno has written about them for Popular Mechanics magazine",
+          "choices": [
+            "motorcycles",
+            "boats",
+            "trucks",
+            "cars"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "(Hi, I'm Mo Rocca.) My collection of presidential memorabilia includes a framed ticket to his 1868 impeachment trial",
+          "choices": [
+            "Abraham Lincoln",
+            "Andrew Johnson",
+            "Ulysses S. Grant",
+            "Thomas Jefferson"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Steve Martin has an impressive art collection that includes works by Seurat, Picasso & this \"Nighthawks\" artist",
+          "choices": [
+            "Grant Wood",
+            "Thomas Hart Benton",
+            "(Edward) Hopper",
+            "Andrew Wyeth"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Steve Soboroff's typewriter collection includes a Braille one that belonged to this blind Italian tenor",
+          "choices": [
+            "Luciano Pavarotti",
+            "Placido Domingo",
+            "Andrea Bocelli",
+            "Enrico Caruso"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ALLITERATION ON THE MAP",
+      "questions": [
+        {
+          "clue": "This \"colorful\" waterway stretches from New Mexico to Louisiana",
+          "choices": [
+            "the Arkansas River",
+            "the Rio Grande",
+            "the Red River",
+            "the Mississippi River"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This peak has been officially renamed Denali, from an Athabaskan word meaning \"the high one\"",
+          "choices": [
+            "Mount Rainier",
+            "Mount McKinley",
+            "Mount Whitney",
+            "Mount Everest"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This capital is a major port on the Mekong River",
+          "choices": [
+            "Phnom Penh",
+            "Ho Chi Minh City",
+            "Vientiane",
+            "Bangkok"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This nickname for Dong Ap Bia mountain in Vietnam was inspired by a brutal battle that took place there in 1969",
+          "choices": [
+            "Hamburger Hill",
+            "Khe Sanh",
+            "Foley Heights",
+            "Ap Bac"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In between the Philippines & Borneo is this vast body of water with a name fit for a Starfleet officer",
+          "choices": [
+            "the Sulu Sea",
+            "the Andaman Sea",
+            "the Java Sea",
+            "the Celebes Sea"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "His interest in the variation of animals between islands was first aroused not by finches but by the Galapagos mockingbird",
+    "choices": [
+      "Huxley",
+      "Darwin",
+      "Malthus",
+      "Lyell"
+    ],
+    "correctIndex": 1,
+    "category": "NATURALISTS"
+  },
+  "bonusRound": {
+    "clue": "The initials of this author born in New York City in 1931 stand for Edgar Lawrence",
+    "choices": [
+      "John Updike",
+      "James Baldwin",
+      "E.L. Doctorow",
+      "Saul Bellow"
+    ],
+    "correctIndex": 2,
+    "category": "BORN"
+  }
+}

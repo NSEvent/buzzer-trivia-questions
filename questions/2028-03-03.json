@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-03",
+  "categories": [
+    {
+      "name": "TEDDY BEARS",
+      "questions": [
+        {
+          "clue": "Dean Jones & John Banner starred in this short-lived TV gangster comedy set in an Illinois city",
+          "choices": [
+            "The Chicago Teddy Bears",
+            "The New York Teddy Bears",
+            "The Boston Teddy Bears",
+            "The Detroit Teddy Bears"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This Rowan Atkinson character imaginatively calls his teddy bear & best friend \"Teddy\"",
+          "choices": [
+            "Captain Pugwash",
+            "Mr. Bean",
+            "Inspector Gadget",
+            "Teddy Ruxpin"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This mall \"Workshop\" has been turning the teddy bear manufacturing over to you for more than 20 years",
+          "choices": [
+            "Toys-R-Us",
+            "Build-A-Bear",
+            "FAO Schwarz",
+            "Build-A-Plant"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Snuggle is a bear who represents this type of laundry product that makes snuggling more pleasant",
+          "choices": [
+            "laundry detergent",
+            "clothes dryer",
+            "fabric softener",
+            "bleach powder"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Ex-Bruin who sued to stop a \"Jabear\" teddy bear being marketed without his endorsement",
+          "choices": [
+            "Michael Jordan",
+            "(Kareem Abdul-)Jabbar",
+            "Magic Johnson",
+            "LeBron James"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RETRONYMS",
+      "questions": [
+        {
+          "clue": "This rhyming term refers to the letters the postal carrier brings to your house",
+          "choices": [
+            "bird mail",
+            "snail trail",
+            "snail mail",
+            "carrier pigeon"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A company called Bumkins makes this baby product, a retronym created by the disposable kind",
+          "choices": [
+            "paper diapers",
+            "cloth wipes",
+            "cloth diapers",
+            "silk sheets"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "These 2 building materials are used to describe actual stores, as opposed to online retailers",
+          "choices": [
+            "wood & steel",
+            "stone & brick",
+            "bricks & mortar",
+            "glass & concrete"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Before the IBM Selectric was a hit commercially, you probably had to hunt & peck on this kind of machine",
+          "choices": [
+            "an electric typewriter",
+            "a dot matrix printer",
+            "a manual typewriter",
+            "a teletype machine"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Giving off both heat & light, your old-school everyday light bulb is this type, from the Latin for \"to glow\"",
+          "choices": [
+            "fluorescent",
+            "halogen",
+            "luminous",
+            "incandescent"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PANCHO VILLAGE",
+      "questions": [
+        {
+          "clue": "Before heading U.S. forces in France in WWI, this general led a punitive raid into Mexico in pursuit of Pancho Villa",
+          "choices": [
+            "Pershing",
+            "MacArthur",
+            "Sherman",
+            "Lee"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A park named for Pancho Villa in Columbus in this state lies on the site of his 1916 raid into the U.S",
+          "choices": [
+            "Arizona",
+            "Texas",
+            "New Mexico",
+            "Colorado"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "After 1911, Pancho Villa used this Texas city of 600,000 on the Rio Grande as a supply center",
+          "choices": [
+            "El Paso",
+            "Tucson",
+            "San Antonio",
+            "Amarillo"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This agrarian reformer who sided with Pancho Villa is considered a Mexican national hero",
+          "choices": [
+            "Francisco I. Madero",
+            "Venustiano Carranza",
+            "Emiliano Zapata",
+            "Alvaro Obregon"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "When the Mexican Revolution began, Villa joined the rebels against this dictator with the first name Porfirio",
+          "choices": [
+            "Madero",
+            "Diaz",
+            "Juarez",
+            "Hidalgo"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1890 this brother of novelist Henry published his classic textbook \"The Principles of Psychology\"",
+    "choices": [
+      "John Dewey",
+      "George Santayana",
+      "William James",
+      "Josiah Royce"
+    ],
+    "correctIndex": 2,
+    "category": "TEXTBOOKS"
+  }
+}

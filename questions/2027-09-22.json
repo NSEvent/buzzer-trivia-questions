@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-22",
+  "categories": [
+    {
+      "name": "ARCTIC ANIMALS",
+      "questions": [
+        {
+          "clue": "This long-haired ruminant is named for the strong odor it emits",
+          "choices": [
+            "musk deer",
+            "musk rat",
+            "musk cat",
+            "Musk ox"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The Arctic type of this canine is the only native land mammal in Iceland",
+          "choices": [
+            "a wolf",
+            "a fox",
+            "a dog",
+            "a coyote"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "These large animals feed mainly on small seals but also eat fish, seaweed, grass & caribou",
+          "choices": [
+            "polar bears",
+            "brown bears",
+            "black bears",
+            "grizzly bears"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This carnivore's scientific name is Ursus maritimus",
+          "choices": [
+            "the black bear",
+            "the polar bear",
+            "the brown bear",
+            "the grizzly bear"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Greenland right whales have the longest of these thin plates of any whale; they may reach 13 feet",
+          "choices": [
+            "baleen",
+            "teeth",
+            "whiskers",
+            "fins"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "POLO",
+      "questions": [
+        {
+          "clue": "They're angled at about 80\u00b0 to lie flat on the ground when the ball is hit",
+          "choices": [
+            "cues",
+            "clubs",
+            "mallets",
+            "sticks"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "When playing polo, this item that ranges from 49 to 54 inches long must be held in your right hand",
+          "choices": [
+            "reins",
+            "ropes",
+            "sticks",
+            "mallet"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "At halftime, spectators head onto the field to stomp these, also a term for clods gouged out by golfers",
+          "choices": [
+            "turf",
+            "grass",
+            "patches",
+            "divots"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Length of a regulation polo field, 3 football fields long",
+          "choices": [
+            "200 yards",
+            "300 yards",
+            "400 yards",
+            "350 yards"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Like golf, polo uses this rating system, which ranges from minus-2 to 10, 10 being given to the best players",
+          "choices": [
+            "a rating",
+            "a handicap",
+            "a score",
+            "a grade"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE CALENDAR",
+      "questions": [
+        {
+          "clue": "46 B.C. was 445 days long; 45 B.C. was this long, now the standard",
+          "choices": [
+            "366 days",
+            "365 days",
+            "360 days",
+            "350 days"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Muslims began their calendar on the day Muhammad fled from Mecca to this city",
+          "choices": [
+            "Mecca",
+            "Medina",
+            "Jerusalem",
+            "Cairo"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This calendar that was used from 1793-1805 had 5 feast days: Virtue, Genius, Labor, Reason & Rewards",
+          "choices": [
+            "the Julian calendar reform",
+            "the Gregorian calendar shift",
+            "the calendar of the French Revolution",
+            "the Mayan calendar cycle"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The name of this month comes from either the Latin word for \"youth\" or a Roman goddess",
+          "choices": [
+            "May",
+            "April",
+            "June",
+            "July"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Day of the week named for a goddess",
+          "choices": [
+            "Thursday",
+            "Friday",
+            "Wednesday",
+            "Sunday"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The name of these spicy cookies is German for \"pepper nuts\"",
+    "choices": [
+      "lebkuchen",
+      "pfeffern\u00fcsse",
+      "stollen",
+      "spekulatus"
+    ],
+    "correctIndex": 1,
+    "category": "SWEETS"
+  }
+}

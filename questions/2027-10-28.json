@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-28",
+  "categories": [
+    {
+      "name": "IN OTHER WORDS",
+      "questions": [
+        {
+          "clue": "I was forced by Mephistopheles to accomplish this task",
+          "choices": [
+            "the devil made me do it",
+            "the devil took a seat",
+            "the demon pulled my strings",
+            "the fiend set me up"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Simeon view; simeon execute",
+          "choices": [
+            "copycat cat",
+            "watch and act",
+            "see and copy",
+            "monkey see, monkey do"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A void of originality exists beneath our class G star",
+          "choices": [
+            "no light above the earth",
+            "nothing fresh in the sky",
+            "no new stars above us",
+            "nothing new under the sun"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Leap over a pistol",
+          "choices": [
+            "miss the shot",
+            "pull the trigger early",
+            "jump the gun",
+            "fire before aiming"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It's impossible to be victorious at every attempt",
+          "choices": [
+            "you can't win 'em all",
+            "you can't have your cake and eat it",
+            "all's fair in love and war",
+            "there's no such thing as a free lunch"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GIVE THE \"DEVIL\"",
+      "questions": [
+        {
+          "clue": "3-word hyphenated term for an \"attitude\" with a tendency to take risks",
+          "choices": [
+            "devil's in the details",
+            "devils at the door",
+            "devil's own luck",
+            "devil-may-care"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "To make these, mash up the yolks with seasonings & return them to the white part",
+          "choices": [
+            "deviled crab",
+            "deviled ham",
+            "deviled eggs",
+            "deviled kidneys"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Ecclesiastical changes in 1983 eliminated the job of this adversarial examiner first appointed in 1587",
+          "choices": [
+            "the devil's advocate",
+            "the devil's defender",
+            "the devil's prosecutor",
+            "the devil's witness"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A miniature whirlwind that swirls debris into the air",
+          "choices": [
+            "a dust devil",
+            "a water spout",
+            "a sand tornado",
+            "a wind vortex"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Head to a Wyoming national monument for a \"close encounter\" with this monolith",
+          "choices": [
+            "Devils Postpile",
+            "Devils Lane",
+            "Devils Tower",
+            "Devils Kitchen"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DIAMONDS",
+      "questions": [
+        {
+          "clue": "Now at the Smithsonian, it was called the \"Blue Diamond of the Crown\" when owned by Louis XIV",
+          "choices": [
+            "the Regent Diamond",
+            "the Hope Diamond",
+            "the Orlov Diamond",
+            "the Cullinan Diamond"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Bambi & Thumper are 2 women who attack James Bond in this film",
+          "choices": [
+            "Diamonds Are Forever",
+            "Diamonds on the Moon",
+            "Diamonds in the Sky",
+            "Diamonds Forever More"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Not decolletage but this property of diamonds allows them to split in certain directions",
+          "choices": [
+            "cleavage",
+            "cleanness",
+            "colorless",
+            "brilliance"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The \"Koh-i-noor\" & \"Star of Africa\" are part of this collection",
+          "choices": [
+            "the French Royal Treasury",
+            "the Russian Imperial Regalia",
+            "the Ottoman Sultan's Vault",
+            "the British Crown Jewels"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Most diamond crystals are in the form of this solid figure having 8 faces",
+          "choices": [
+            "a tetrahedron",
+            "a dodecahedron",
+            "an octahedron",
+            "a cube"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Near Lake Nasser is the \"Great Temple\" constructed by this pharaoh who reigned for 66 years",
+    "choices": [
+      "Tutankhamun",
+      "Ramses II (the Great)",
+      "Akhenaten",
+      "Ptolemy I"
+    ],
+    "correctIndex": 1,
+    "category": "PHARAOHS"
+  }
+}

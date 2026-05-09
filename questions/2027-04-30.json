@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-30",
+  "categories": [
+    {
+      "name": "TOYS",
+      "questions": [
+        {
+          "clue": "A six-pointed piece of metal that's picked up between bounces of a rubber ball",
+          "choices": [
+            "marbles",
+            "jacks",
+            "checkers",
+            "dominoes"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In a Family Circus cartoon, Dolly asked if Mrs. Wiggs of the classic kiddy book was mother of these dolls",
+          "choices": [
+            "Barbie dolls",
+            "Cabbage Patch dolls",
+            "Baby Alive dolls",
+            "My Little Pony plushies"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "James & Percy are friends of this train, the No. 1 blue engine",
+          "choices": [
+            "Thomas the Tank Engine",
+            "Percy the Small Engine",
+            "Gordon the Big Engine",
+            "James the Red Engine"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A spring that \"walked\" instead of falling when knocked over inspired this marvelous toy",
+          "choices": [
+            "a Slinky",
+            "a Yo-Yo",
+            "a Hopscotch rope",
+            "a Hula Hoop"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "2014 marks the 50th anniversary of this oil company's toy truck, which has its own Macy's Parade float",
+          "choices": [
+            "Hess",
+            "Mobil",
+            "Exxon",
+            "Chevron"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FRENCH CROSSWORD CLUES",
+      "questions": [
+        {
+          "clue": "Pen name (3, 2, 5)",
+          "choices": [
+            "nom de plume",
+            "nom de guerre",
+            "nom de famille",
+            "nom de code"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Soft & flat visorless cap (5 letters)",
+          "choices": [
+            "feutre",
+            "beret",
+            "b\u00e9ret",
+            "turban"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "It comes after \"merci\", a lot (8)",
+          "choices": [
+            "beaucoup",
+            "toujours",
+            "merci beaucoup",
+            "vraiment"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Low dress neckline (11 letters)",
+          "choices": [
+            "d\u00e9colletage",
+            "d\u00e9collement",
+            "d\u00e9collet\u00e9es",
+            "d\u00e9colletai"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Up to date (2, 7)",
+          "choices": [
+            "au fait",
+            "au clair",
+            "au complet",
+            "au courant"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BEASTLY MOVIES",
+      "questions": [
+        {
+          "clue": "1986: Paul Hogan faces the jungle of New York City",
+          "choices": [
+            "Crocodile Hunter",
+            "Lionheart",
+            "Tiger King",
+            "Crocodile Dundee"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "2007: \"The Water ____: Legend of the Deep\"",
+          "choices": [
+            "Buffalo",
+            "Fish",
+            "Dragon",
+            "Horse"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "1992: Criminals \"hound\" each other following a bungled jewel heist",
+          "choices": [
+            "Pulp Fiction",
+            "Reservoir Dogs",
+            "Goodfellas",
+            "The Godfather"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "1968: As Henry II, Peter O'Toole deliberates over who should succeed him",
+          "choices": [
+            "The Lion King",
+            "The Lion in Winter",
+            "Beast",
+            "The Jungle Book"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "2002: \"____ Rider\"",
+          "choices": [
+            "Whale",
+            "Horse",
+            "Dog",
+            "Cat"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This New York governor is the son of a former governor of the state",
+    "choices": [
+      "George Pataki",
+      "Mario Cuomo",
+      "Eliot Spitzer",
+      "Andrew Cuomo"
+    ],
+    "correctIndex": 3,
+    "category": "STATE GOVERNORS"
+  }
+}

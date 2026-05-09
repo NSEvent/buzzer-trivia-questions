@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-17",
+  "categories": [
+    {
+      "name": "PUNCHLINES",
+      "questions": [
+        {
+          "clue": "Character who utters the classic punchline, \"What you mean we, Kemo Sabe?\"",
+          "choices": [
+            "Shawnee",
+            "Tonto",
+            "Cherokee",
+            "Apache"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "When Rodney Dangerfield told his doctor he wanted a second opinion, the doc said this",
+          "choices": [
+            "I agree with the other one.",
+            "You have no choice.",
+            "\"You're ugly, too!\"",
+            "It's a terminal condition."
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "To hold up his pants",
+          "choices": [
+            "Because he likes the color",
+            "To carry his lunch",
+            "So they don't slip",
+            "Why does a fireman wear red suspenders"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Word that inevitably follows Henny Youngman's quip, \"Take my wife\"",
+          "choices": [
+            "Sorry",
+            "Thanks",
+            "Please",
+            "Love"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A newspaper or a sunburned zebra",
+          "choices": [
+            "gray & white & black all over",
+            "black & white & red all over",
+            "red & white & blue all over",
+            "black & blue & white all over"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NOBEL PRIZE WINNERS",
+      "questions": [
+        {
+          "clue": "Geneva-born Henri Dunant, a founder of this international organization, shared the first Peace Prize in 1901",
+          "choices": [
+            "the League of Nations",
+            "the Red Cross",
+            "Doctors Without Borders",
+            "the Red Crescent"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Jules Bordet identified the bacillus responsible for this disease also called pertussis",
+          "choices": [
+            "diphtheria",
+            "scarlet fever",
+            "whooping cough",
+            "mumps"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "2 men received the 1909 Physics Prize for their work on wireless telegraphy: Karl Ferdinand Braun & this Italian",
+          "choices": [
+            "Marconi",
+            "Bell",
+            "Tesla",
+            "Volta"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Antony Hewish won the 1974 prize for discovering these stars that emit bursts of radiation",
+          "choices": [
+            "pulsars",
+            "quasars",
+            "neutrons",
+            "comets"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1943 the Nobel assembly gave a dam, Henrik Dam, a prize for discovering this vitamin which aids in blood clotting",
+          "choices": [
+            "vitamin C",
+            "vitamin K",
+            "vitamin D",
+            "vitamin A"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SOUNDS LIKE A LETTER",
+      "questions": [
+        {
+          "clue": "An affirmative preference when an issue is put up for a referendum",
+          "choices": [
+            "yes",
+            "vote",
+            "ballot",
+            "aye"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "One of the bodies of salt water that cover the earth",
+          "choices": [
+            "a lake",
+            "a pool",
+            "a bay",
+            "a sea"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Starting aid for football & golf",
+          "choices": [
+            "a tee",
+            "a seat",
+            "a net",
+            "a ball"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Adverb that demands a reason",
+          "choices": [
+            "why",
+            "whay",
+            "whey",
+            "wye"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Actor's signal",
+          "choices": [
+            "a sign",
+            "a look",
+            "a cue",
+            "a wave"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "As acting Attorney General, future Supreme Court nominee Robert Bork fired Archibald Cox from this post",
+    "choices": [
+      "Special agent",
+      "Special prosecutor",
+      "Special envoy",
+      "Special counsel"
+    ],
+    "correctIndex": 1,
+    "category": "WATERGATE"
+  }
+}

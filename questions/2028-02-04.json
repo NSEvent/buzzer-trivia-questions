@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-04",
+  "categories": [
+    {
+      "name": "NOTABLE ANIMALS",
+      "questions": [
+        {
+          "clue": "Buddy, the 1st dog trained as this, came to the U.S. in 1928",
+          "choices": [
+            "a guide dog for the blind",
+            "a service dog",
+            "a seeing-eye dog",
+            "a seeing eye pet"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1947, \"Islero\", a fierce bull, killed & was killed by him, perhaps the world's greatest bullfighter",
+          "choices": [
+            "Cayetano Rivera",
+            "Manolete",
+            "Manuel Diaz",
+            "Antonio Ord\u00f3\u00f1ez"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 1961, Enos, a chimp became the 1st to do this for the U.S.",
+          "choices": [
+            "leave the atmosphere",
+            "reach the Moon",
+            "fly in space",
+            "orbit the Earth"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Snowflake, the world's first known albino one of these animals, was discovered in 1966",
+          "choices": [
+            "a gorilla",
+            "a chimpanzee",
+            "a silverback",
+            "a gorilla bear"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This woman tells about Flo, the dominant female chimp of Gombe, in her book \"In the Shadow of Man\"",
+          "choices": [
+            "Dian Fossey",
+            "Jane Goodall",
+            "Birut\u00e9 Galdikas",
+            "Louis Leakey"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DAY",
+      "questions": [
+        {
+          "clue": "The Cypress Inn co-owned by Doris Day welcomes guests with these & even has special \"sitters\" for them",
+          "choices": [
+            "children",
+            "plants",
+            "pets",
+            "guests"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "One of Doris' favorite roles was as this wild west tomboy who sang \"Secret Love\"",
+          "choices": [
+            "Annie Oakley",
+            "Calamity Ann",
+            "Calamity Jane",
+            "Wild Bill Hickok"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Doris said she has no love for this Oscar-winning tune from \"The Man Who Knew Too Much\"; it was \"a children's song\"",
+          "choices": [
+            "\"Que Sera, Sera\"",
+            "\"The Way We Were\"",
+            "\"Moon River\"",
+            "\"Over the Rainbow\""
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In this 1959 classic Brad (Rock) & Jan (Doris) share a phone line",
+          "choices": [
+            "Ginger",
+            "Shane",
+            "Annie Get Your Gun",
+            "Pillow Talk"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Doris didn't star in \"West Side Story\", but did star in this 1950 similarly titled musical set in a military academy",
+          "choices": [
+            "Anchors Aweigh",
+            "It's a Mad Mad Mad Mad World",
+            "Hello, Dolly!",
+            "West Point Story"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ACTORS PLAYING ACTORS",
+      "questions": [
+        {
+          "clue": "Enter the \"Dragon\", Jason Scott Lee (no relation) as this martial arts legend",
+          "choices": [
+            "Chuck Norris",
+            "Jackie Chan",
+            "Jet Li",
+            "Bruce Lee"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Angus MacFadyen in \"Cradle Will Rock\" & Liev Schreiber in \"RKO 281\" played this man who raised \"Kane\"",
+          "choices": [
+            "Charlie Chaplin",
+            "Alfred Hitchcock",
+            "Orson Welles",
+            "David O. Selznick"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In a 1983 TV movie, Cheryl Ladd played this regal beauty who knew her way around \"High Society\"",
+          "choices": [
+            "Audrey Hepburn",
+            "Grace Kelly",
+            "Elizabeth Taylor",
+            "Joan Crawford"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Look, up on the screen! it's a bird! it's a plane! it's \"Argo\" man, this actor, as George Reeves in \"hollywoodland\"",
+          "choices": [
+            "Ben Affleck",
+            "Christian Bale",
+            "Harrison Ford",
+            "Brad Pitt"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Martin Landau won an Oscar for his \"Ed Wood\" portrayal of this movie actor",
+          "choices": [
+            "Boris Karloff",
+            "Lon Chaney",
+            "Bela Lugosi",
+            "Vincent Price"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "U.S. religious sect known for its traveling bearded baseball team, or a royal family of Ancient Israel",
+    "choices": [
+      "House of Windsor",
+      "House of Tudor",
+      "House of David",
+      "House of York"
+    ],
+    "correctIndex": 2,
+    "category": "\"HOUSE\"s"
+  }
+}

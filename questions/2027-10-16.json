@@ -1,0 +1,207 @@
+{
+  "date": "2027-10-16",
+  "categories": [
+    {
+      "name": "NOVEL \"T\"s",
+      "questions": [
+        {
+          "clue": "Jim Hawkins spies on Long John Silver from an apple barrel in this Robert Louis Stevenson novel",
+          "choices": [
+            "Tales of the Islands",
+            "The Terror of the Seas",
+            "Treasure Island",
+            "Treasure Chests"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Stephenie Meyer said the idea for this first novel came to her in a dream",
+          "choices": [
+            "Twilight",
+            "Transylvania",
+            "Twilight Zone",
+            "True Love"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Don't let the title mislead you: this 1844 novel relates the adventures of 4 swashbuckling heroes",
+          "choices": [
+            "The Two Gentlemen",
+            "The Three Tenors",
+            "The Triple Alliance",
+            "The Three Musketeers"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The full title of this sequel continues \"and What Alice Found There\"",
+          "choices": [
+            "Through the Glass",
+            "Through the Trees",
+            "Through the Looking-Glass",
+            "Through the Looking"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This novel by F. Scott Fitzgerald tells of the troubled marriage of Dick & Nicole Diver",
+          "choices": [
+            "Tortured is the Heart",
+            "Tender is the Night",
+            "Terrible was the Night",
+            "Twilight is the Dusk"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "QUESTIONABLE BOOK TITLES",
+      "questions": [
+        {
+          "clue": "Rosalind Miles' book subtitled \"The Women's History of the World\" asks, \"Who Cooked\" this meal in Luke 22?",
+          "choices": [
+            "the Final Feast",
+            "the Last Banquet",
+            "the Last Supper",
+            "the Last Meal"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "P.D. Eastman penned a children's book about a baby bird repeatedly asking the book's title: \"Are You\" this?",
+          "choices": [
+            "My Mother",
+            "My Father",
+            "My Sister",
+            "My Brother"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This funny lady from \"The Office\" has wondered in book titles \"Is Everyone Hanging Out Without Me?\" & \"Why Not Me?\"",
+          "choices": [
+            "Tina Fey",
+            "Amy Poehler",
+            "Mindy Kaling",
+            "Kristen Wiig"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Originally self-published in 1970, this guide for job-hunters & career-changers has sold more than 10 million copies",
+          "choices": [
+            "The Dressmaker's Handbook",
+            "What Color is Your Parachute",
+            "The Interviewer's Guide",
+            "Career Pathways 101"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"What Do You Care What Other People Think?\" was one of the autobiographical works that made this physicist famous way beyond Caltech",
+          "choices": [
+            "Schr\u00f6dinger",
+            "Heisenberg",
+            "Bohr",
+            "Feynman"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COUNTIES BY STATE",
+      "questions": [
+        {
+          "clue": "Talladega, Tallapoosa, Tuscaloosa",
+          "choices": [
+            "Georgia",
+            "Alabama",
+            "South Carolina",
+            "Mississippi"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Custer, Big Horn, Lewis & Clark",
+          "choices": [
+            "Wyoming",
+            "Montana",
+            "North Dakota",
+            "South Dakota"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Saluda, Spartanburg, Sumter",
+          "choices": [
+            "North Carolina",
+            "South Carolina",
+            "Georgia",
+            "Virginia"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Glasscock, Guadalupe, Galveston",
+          "choices": [
+            "Texas",
+            "Florida",
+            "California",
+            "Arizona"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Chautauqua, Cayuga, Columbia",
+          "choices": [
+            "New York",
+            "Pennsylvania",
+            "Ohio",
+            "Massachusetts"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "East German soldiers start this movement from an extremely erect position",
+    "choices": [
+      "a march in place",
+      "a high kick",
+      "a power walk",
+      "a goose step"
+    ],
+    "correctIndex": 3,
+    "category": "GEESE"
+  },
+  "bonusRound": {
+    "clue": "2015's him v. him upheld the right to same-sex marriage",
+    "choices": [
+      "Loving & Virginia",
+      "Roe & Wade",
+      "Obergefell & Hodges",
+      "Bush & Gore"
+    ],
+    "correctIndex": 2,
+    "category": "SUPREME COURT CASES"
+  }
+}

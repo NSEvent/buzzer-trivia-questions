@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-17",
+  "categories": [
+    {
+      "name": "ISLANDS IN THE SEA",
+      "questions": [
+        {
+          "clue": "St. Barth\u00e9lemy & St. George's Cay",
+          "choices": [
+            "the Pacific",
+            "the Atlantic",
+            "the Caribbean",
+            "the Indian"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Barbuda & Basse-Terre",
+          "choices": [
+            "the Caribbean Sea",
+            "the Mediterranean",
+            "the Red Sea",
+            "the South China Sea"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The Pribilof Islands",
+          "choices": [
+            "the Bering Sea",
+            "the Arctic Ocean",
+            "the North Pacific",
+            "the Barents Sea"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The Cyclades",
+          "choices": [
+            "the Ionian",
+            "the Aegean",
+            "the Tyrrhenian",
+            "the Adriatic"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Masirah, off the Omani coast",
+          "choices": [
+            "the Indian Ocean",
+            "the Red Sea",
+            "the Persian Gulf",
+            "the Arabian Sea"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Q WITHOUT U",
+      "questions": [
+        {
+          "clue": "This adjective refers to a keyboard that's like a traditional typewriter with 6 particular letters at the upper left",
+          "choices": [
+            "AZERTY",
+            "QWERTZ",
+            "COLEMAK",
+            "QWERTY"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This \"flaky\" leader's name can be spelled with K, G, or Q without U",
+          "choices": [
+            "Qigong",
+            "Qatar",
+            "Qaddafi",
+            "Quetzalcoatl"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"QWERTY\" refers to the usual arrangement of the letters on this",
+          "choices": [
+            "computer",
+            "typewriter",
+            "calculator",
+            "smartphone"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This country's ancient ruins of Ur & its ziggurat date back about 4,500 years",
+          "choices": [
+            "Iran",
+            "Turkey",
+            "Syria",
+            "Iraq"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "If you were playing a riqq in an Egyptian band, you'd be making music by shaking & banging this",
+          "choices": [
+            "shaker",
+            "maracas",
+            "tambourine",
+            "castanets"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NEXT STOP, VENUS",
+      "questions": [
+        {
+          "clue": "Venus' atmosphere is predominantly made up of this gas contributing to its high temperature",
+          "choices": [
+            "nitrogen",
+            "methane",
+            "oxygen",
+            "carbon dioxide"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "With few exceptions all specified surface features of Venus are appropriately named after these",
+          "choices": [
+            "gods",
+            "heroes",
+            "emperors",
+            "women"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Similar to an eclipse, it's the term for the rare passing in front of the Sun, which Venus did in June 2012",
+          "choices": [
+            "the eclipse of Venus",
+            "the transit of Venus",
+            "the shadow of Venus",
+            "the alignment of Venus"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Just like Mercury, Venus has this many moons",
+          "choices": [
+            "one",
+            "two",
+            "a handful",
+            "zero"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Similar to an eclipse, it's the term for the rare passing in front of the Sun that Venus did on June 8, 2004",
+          "choices": [
+            "a pass",
+            "a flyby",
+            "a crossing",
+            "a transit"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Aces can be used as one or an 11, but when you're using an ace as an 11, your total is deemed this \"comfy\" adjective",
+    "choices": [
+      "hard",
+      "loose",
+      "soft",
+      "tight"
+    ],
+    "correctIndex": 2,
+    "category": "BLACKJACK"
+  }
+}

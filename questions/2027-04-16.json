@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-16",
+  "categories": [
+    {
+      "name": "20th CENTURY POP CULTURE",
+      "questions": [
+        {
+          "clue": "Founded in 1934, this corporation provides recorded music to subscribers like restaurants & supermarkets",
+          "choices": [
+            "SRI International",
+            "Westwood One",
+            "Music Choice",
+            "Muzak"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The Shmoos in this Al Capp comic strip could be made into food, clothing or anything else you liked",
+          "choices": [
+            "Doonesbury",
+            "Li'l Abner",
+            "Calvin and Hobbes",
+            "Garfield"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "It was party time with the introduction of these plastic storage containers, the lids inspired by those of a paint can",
+          "choices": [
+            "Rubbermaid",
+            "Tupperware",
+            "Pyrex",
+            "Ziploc"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The first time blimp shots were part of a televised sporting event was in 1960 at this Miami venue",
+          "choices": [
+            "the Orange Bowl",
+            "Sun Bowl",
+            "Rose Bowl",
+            "Fiesta Bowl"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "For 13 years Mike Douglas' national talk show came from this city; guests took 2-hour limo rides from NYC",
+          "choices": [
+            "Pittsburgh",
+            "Philadelphia",
+            "Washington",
+            "Baltimore"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"P\"LACES",
+      "questions": [
+        {
+          "clue": "This Haitian capital was founded by French planters in 1749",
+          "choices": [
+            "Port-au-Prince",
+            "Cap-Ha\u00eftien",
+            "Gona\u00efves",
+            "Les Cayes"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "More than half the population of this country perished in an 1864-1870 war with Argentina, Brazil & Uruguay",
+          "choices": [
+            "Paraguay",
+            "Uruguay",
+            "Chile",
+            "Bolivia"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Peter Mayle wrote \"A Year In\" this French region",
+          "choices": [
+            "Brittany",
+            "Provence",
+            "Normandy",
+            "Languedoc"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The Swann valley outside this Western Australian city is home to dozens of vineyards",
+          "choices": [
+            "Perth",
+            "Brisbane",
+            "Adelaide",
+            "Hobart"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This teensy nation is part of the Caroline Islands group",
+          "choices": [
+            "Fiji",
+            "Samoa",
+            "Tahiti",
+            "Palau"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LEWIS CARROLL",
+      "questions": [
+        {
+          "clue": "In book titles, Lewis Carroll took Alice on \"Adventures in Wonderland\" & \"Through\" this",
+          "choices": [
+            "the rabbit hole",
+            "a mirror maze",
+            "the looking glass",
+            "the glass ceiling"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "He was a fellow of Christ Church College at this university & spent most of his life there",
+          "choices": [
+            "Cambridge",
+            "Edinburgh",
+            "Oxford",
+            "London"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"'Contrariwise,' continued\" he, \"'if it was so, it might be'\"",
+          "choices": [
+            "Tweedledum",
+            "Tweedledee",
+            "Humpty Dumpty",
+            "The Mad Hatter"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Under his real name, he wrote an 1879 book about this Greek mathematician \"and His Modern Rivals\"",
+          "choices": [
+            "Pythagoras",
+            "Archimedes",
+            "Ptolemy",
+            "Euclid"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This enigmatic feline \"only grinned when it saw Alice... still it had very long claws and a great many teeth\"",
+          "choices": [
+            "the White Rabbit",
+            "the Caterpillar",
+            "the Cheshire Cat",
+            "the Queen of Hearts"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Native American leaders want the name of this first U.S. natl. monument changed, saying it's offensive & based on a mistranslation",
+    "choices": [
+      "Devils Tower",
+      "Wind Cave",
+      "Spearfish Canyon",
+      "Sycamore Canyon"
+    ],
+    "correctIndex": 0,
+    "category": "MEMORIALS & MONUMENTS"
+  }
+}

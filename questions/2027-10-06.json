@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-06",
+  "categories": [
+    {
+      "name": "AMERICAN GOVERNMENT",
+      "questions": [
+        {
+          "clue": "Until 1935 this body didn't have its own building; it met in the Old Senate Chamber, & members ate lunch in the Robing Room",
+          "choices": [
+            "the House of Representatives",
+            "the Supreme Court",
+            "the Senate",
+            "the White House"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This Cabinet department is in charge of grading meat, poultry & dairy products to ensure their quality",
+          "choices": [
+            "the Department of Commerce",
+            "the Department of Health",
+            "the Department of Agriculture",
+            "the Food and Drug Administration"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "(Hi. I'm Rudy Giuliani.) In 1981 I was named Associate Attorney General, the third highest position in the U.S. Government department",
+          "choices": [
+            "the Justice Department",
+            "the State Department",
+            "the Treasury Department",
+            "the Defense Department"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The mission statement of this Cabinet department begins, \"With honor and integrity, we will safeguard the American people\"",
+          "choices": [
+            "Homeland Security",
+            "Homeland Defense",
+            "National Security",
+            "Public Safety"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Of these 874 federal government jobs, 85 are vacant, some for over 5 years",
+          "choices": [
+            "senatorships",
+            "presidencies",
+            "congressions",
+            "judgeships"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TALK CLEANLY TO ME",
+      "questions": [
+        {
+          "clue": "In a familiar phrase, it precedes \"as the driven snow\"",
+          "choices": [
+            "clean",
+            "white",
+            "fresh",
+            "pure"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Free from defects, or a playoff game-winning \"reception\" in 1972",
+          "choices": [
+            "perfect",
+            "flawless",
+            "immaculate",
+            "pristine"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Spelled one way, it describes a large sum; spelled another, it's a toilet \"bol\" cleaner",
+          "choices": [
+            "neat",
+            "orderly",
+            "tidy",
+            "spic"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It's the film editing technique in which a new scene slides sideways to replace the old one",
+          "choices": [
+            "a cut",
+            "a fade",
+            "a dissolve",
+            "a wipe"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Liquor served without ice is straight or this clean word",
+          "choices": [
+            "neat",
+            "on the rocks",
+            "with ice",
+            "chilled"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BEST PICTURES IN OTHER WORDS",
+      "questions": [
+        {
+          "clue": "1970: \"World War II's Commander of the Third Army\"",
+          "choices": [
+            "Saving Private Ryan",
+            "Patton",
+            "Schindler's List",
+            "Platoon"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "1987: \"That Final Manchu Ruler\"",
+          "choices": [
+            "The Last Emperor",
+            "Crouching Tiger",
+            "Memoirs of a Geisha",
+            "Mulan"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "1950: \"Everything Concerning Adam's Wife\"",
+          "choices": [
+            "All About Alice",
+            "All About Eve",
+            "All About Amy",
+            "All About Anna"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "1972: \"Baptism Sponsor\"",
+          "choices": [
+            "Little Fockers",
+            "The Godfather Part II",
+            "The Godfather",
+            "The Godfather Coda"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "1992: \"Non-Pardoned\"",
+          "choices": [
+            "Unforgiven",
+            "Unpardonable",
+            "Unforgivable",
+            "Unremembered"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Danny Aiello awkwardly proposes to this actress in an Italian restaurant in \"Moonstruck\"",
+    "choices": [
+      "Goldie Hawn",
+      "Susan Sarandon",
+      "Cher",
+      "Bette Midler"
+    ],
+    "correctIndex": 2,
+    "category": "SCENES FROM AN ITALIAN RESTAURANT"
+  }
+}

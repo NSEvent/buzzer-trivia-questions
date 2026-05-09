@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-21",
+  "categories": [
+    {
+      "name": "POETS' RHYME TIME",
+      "questions": [
+        {
+          "clue": "New Englander Robert's expenses & payments",
+          "choices": [
+            "Yeats' bills",
+            "Frost's costs",
+            "Auden's fees",
+            "Eliot's charges"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Elizabeth Barrett's coronations",
+          "choices": [
+            "Shelley's crowns",
+            "Browning's crownings",
+            "Byron's crowns",
+            "Keats' crowns"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"The Tyger\" man's serpents",
+          "choices": [
+            "Wordsworth's worms",
+            "Coleridge's snakes",
+            "Hawthorne's snakes",
+            "Blake's snakes"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Edmund's incense burners",
+          "choices": [
+            "Spencer's censers",
+            "Keats' censers",
+            "Shelley's censers",
+            "Byron's censers"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A.A.'s ovens",
+          "choices": [
+            "Tolkien's forges",
+            "Milne's kilns",
+            "Shelley's flames",
+            "Byron's fires"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "STARTS WITH \"P\"",
+      "questions": [
+        {
+          "clue": "A conspiracy, a small piece of ground or the main story line in a novel",
+          "choices": [
+            "politics",
+            "plot",
+            "pattern",
+            "platform"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A part of Oklahoma, or to beg in the streets",
+          "choices": [
+            "Panorama",
+            "Panhandle",
+            "Pavilion",
+            "Paradise"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Also known as the caveman diet, it's a shortened word for a diet that emphasizes lean meats & veggies",
+          "choices": [
+            "protein",
+            "preachy",
+            "picky",
+            "paleo"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "It's a line of steep bluffs like the cliffs along part of the western shore of the Hudson River",
+          "choices": [
+            "a precipice",
+            "a parapet",
+            "a promontory",
+            "a palisade"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A fun color \"hiding\" in the bottom layer of hair is known as this, named like a game played with an infant",
+          "choices": [
+            "peekaboo",
+            "hide-and-seek",
+            "pat-a-cake",
+            "patty-cake"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IN THE CABINET",
+      "questions": [
+        {
+          "clue": "A Northern Virginia airport was named in honor of this Secretary of State",
+          "choices": [
+            "Marshall",
+            "Dulles",
+            "Thurmond",
+            "Byrnes"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 2005 Alberto Gonzalez succeeded him as Attorney General",
+          "choices": [
+            "Ashcroft",
+            "Meese",
+            "Reno",
+            "Ashford"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Woodrow Wilson put William B. Wilson to work as the Secretary of this",
+          "choices": [
+            "Commerce",
+            "Agriculture",
+            "Interior",
+            "Labor"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Robert Todd Lincoln held this post under presidents Garfield & Arthur, as Edwin Stanton had under his father",
+          "choices": [
+            "Secretary of War",
+            "Secretary of State",
+            "Postmaster General",
+            "Attorney General"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "President Reagan's education secretary, he went on to edit the bestselling \"Book of Virtues\"",
+          "choices": [
+            "Terrel Bell",
+            "George Shultz",
+            "William Bennett",
+            "Margo Taft"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Ireland's tempestuous history has inspired many historical novels, like this author's 1976 book \"Trinity\"",
+    "choices": [
+      "(Leon) Uris",
+      "Brendan Behan",
+      "Seamus Heaney",
+      "John Banville"
+    ],
+    "correctIndex": 0,
+    "category": "HISTORICAL NOVELS"
+  }
+}

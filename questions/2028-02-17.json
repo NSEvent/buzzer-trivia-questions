@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-17",
+  "categories": [
+    {
+      "name": "IN THE BOOKSTORE",
+      "questions": [
+        {
+          "clue": "His novel \"WLT: A Radio Romance\" is set in Minneapolis, not in Lake Wobegon",
+          "choices": [
+            "Robert Pirsig",
+            "Garrison Keillor",
+            "William Least Heat-Moon",
+            "Annie Dillard"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "With all the controversy, this James Frey \"memoir\" now comes with notes from the publisher & author",
+          "choices": [
+            "Shattered",
+            "The Glass Castle",
+            "Educated",
+            "A Million Little Pieces"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In his recent No. 1 bestseller, Florida doctor Arthur Agatston explains this diet that he developed",
+          "choices": [
+            "the Zone Diet",
+            "the South Beach Diet",
+            "the Atkin's Diet",
+            "the Ornish Diet"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"The Lowland\" is the second novel by this acclaimed author of \"Interpreter of Maladies\"",
+          "choices": [
+            "Chimamanda Ngozi Adichie",
+            "(Jhumpa) Lahiri",
+            "Khaled Hosseini",
+            "Salman Rushdie"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The pivotal reunion in Anne Rivers Siddons' \"Outer Banks\" is set in the Outer Banks of this state",
+          "choices": [
+            "South Carolina",
+            "Virginia",
+            "North Carolina",
+            "Georgia"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE SHORT FORM",
+      "questions": [
+        {
+          "clue": "In the journalism term \"nut graf\", \"graf\" is a shortened form of this",
+          "choices": [
+            "paragraph",
+            "graphic",
+            "graphic arts",
+            "graphics"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"Rad\", meaning \"excellent\", was truncated from this",
+          "choices": [
+            "radon",
+            "radish",
+            "radium",
+            "radical"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This British organization hands out its equivalent to the Oscars",
+          "choices": [
+            "OBEY",
+            "NATO",
+            "BAFTA",
+            "REACH"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In show biz, \"cyc\" is short for this type of backdrop that suggests infinite space behind the performer",
+          "choices": [
+            "backdrop",
+            "skyline",
+            "scenery",
+            "cyclorama"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "When a crime is committed, the police try to catch the \"perp\"",
+          "choices": [
+            "the culprit",
+            "the perpetrator",
+            "the suspect",
+            "the offender"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TV PILOTS",
+      "questions": [
+        {
+          "clue": "Fighter pilots on this sci-fi series that debuted in 1978 included Starbuck & Apollo",
+          "choices": [
+            "Battlestar Galactica",
+            "Star Wars",
+            "Babylon 5",
+            "Stargate SG-1"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "On this series test pilot Steve Austin is critically injured in a plane crash",
+          "choices": [
+            "The Incredible Hulk",
+            "Miami Vice",
+            "MacGyver",
+            "The Six Million Dollar Man"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Timothy Daly & Steven Weber played brothers & airline pilots on this sitcom",
+          "choices": [
+            "Airplane!",
+            "Wings",
+            "NYPD Blue",
+            "Dead Reckoning"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Janine Turner played feisty air taxi pilot Maggie on this quirky series",
+          "choices": [
+            "Northern Exposure",
+            "Mary Steenburgen",
+            "Megan Gallagher",
+            "Jane Seymour"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The pilot of this show about a romantic young couple aired as a 1982 \"Happy Days\" episode",
+          "choices": [
+            "Mork & Mindy",
+            "Happy Days",
+            "Joanie Loves Chachi",
+            "Laverne & Shirley"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Rice University's Institute for Public Policy bears the name of this man who was George H.W. Bush's Secretary of State",
+    "choices": [
+      "Henry Kissinger",
+      "George Shultz",
+      "Alexander Haig",
+      "James A. Baker"
+    ],
+    "correctIndex": 3,
+    "category": "INSTITUTIONS"
+  }
+}

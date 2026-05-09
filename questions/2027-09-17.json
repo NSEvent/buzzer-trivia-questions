@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-17",
+  "categories": [
+    {
+      "name": "3-NAMED AUTHORS",
+      "questions": [
+        {
+          "clue": "This 19th century New England thinker penned the \"Concord Hymn\" & the essay \"Self-Reliance\"",
+          "choices": [
+            "Ralph Waldo Emerson",
+            "Henry David Thoreau",
+            "Nathaniel Hawthorne",
+            "Louisa May Alcott"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Sadly, in 2008, this author of \"Infinite Jest\" took his own life",
+          "choices": [
+            "Ken Kesey",
+            "David Foster Wallace",
+            "Hunter S. Thompson",
+            "William S. Burroughs"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 1966 Erle Stanley Gardner, creator of this defense lawyer, appeared as a judge in the final episode of the TV series",
+          "choices": [
+            "Matt Blumberg",
+            "Phoenix Wright",
+            "Perry Mason",
+            "Atticus Finch"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "(Jeff Probst in the Marquesas.) In 1888 this adventure author & his wife Fanny spent about three weeks on Nuku Hiva",
+          "choices": [
+            "Jack London",
+            "Robert Louis Stevenson",
+            "Herman Melville",
+            "Mark Twain"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This \"Ship of Fools\" author won a Pulitzer & the National Book Award for her 1965 \"Collected Stories\"",
+          "choices": [
+            "Eudora Welty",
+            "Toni Morrison",
+            "Katherine Anne Porter",
+            "Flannery O'Connor"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HIP-HOP & RAP",
+      "questions": [
+        {
+          "clue": "This huge hit by Jay-Z samples a song from the musical \"Annie\"",
+          "choices": [
+            "99 Problems",
+            "Empire State of Mind",
+            "\"Hard Knock Life\"",
+            "Big Pimpin'"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This \"King of Crunk\" is not to be confused with Lil' Wayne",
+          "choices": [
+            "Ludacris",
+            "Master P",
+            "Three 6 Mafia",
+            "Lil Jon"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Group that includes members Krayzie Bone, Layzie Bone & Wish Bone",
+          "choices": [
+            "OutKast",
+            "Mobb Deep",
+            "Bone Thugs-n-Harmony",
+            "Wu-Tang Clan"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This word is spelled with a \"ph\" in the name of a hip-hop fashion \"farm\"",
+          "choices": [
+            "phat",
+            "fhat",
+            "phut",
+            "futh"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Pig wrestling is featured in the video for \"Ugly\" by this rapper from the rural South",
+          "choices": [
+            "Yung Joc",
+            "Bubba Sparxxx",
+            "Lil Jon",
+            "T.I."
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CLASSIC TOYS & GAMES",
+      "questions": [
+        {
+          "clue": "The name of this block-stacking game comes from a Swahili word for \"build\"",
+          "choices": [
+            "Lego",
+            "K'Nex",
+            "Jenga",
+            "Marbels"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "It originally required a 25-watt bulb & came with colored plastic pegs & black construction paper to make an illuminated picture",
+          "choices": [
+            "Etch A Sketch",
+            "View-Master",
+            "Lite-Blink",
+            "Lite-Brite"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Ailments in Operation include Broken Heart, Brain Freeze & these internal feelings of apprehensions",
+          "choices": [
+            "Butterflies in the Stomach",
+            "Butterflies in the Head",
+            "Butterflies in the Chest",
+            "Butterflies in the Heart"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Time to play this Hasbro game: write down a river, a bird, a flower & a body part all starting with the letter R",
+          "choices": [
+            "Categories",
+            "Scattergories",
+            "Scatterbrain",
+            "Scatterplot"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Alfred Butts invented this board game in 1931; he called it Criss-Cross Words",
+          "choices": [
+            "Boggle",
+            "Scrabble",
+            "Banano",
+            "Scramble"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"Not Small or Large\"",
+    "choices": [
+      "Average",
+      "Middle",
+      "Medium",
+      "Moderate"
+    ],
+    "correctIndex": 2,
+    "category": "TV SHOWS IN OTHER WORDS"
+  }
+}

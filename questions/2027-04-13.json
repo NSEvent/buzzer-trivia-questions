@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-13",
+  "categories": [
+    {
+      "name": "COLORFUL RHYME TIME",
+      "questions": [
+        {
+          "clue": "A lemony guy",
+          "choices": [
+            "a green stranger",
+            "a blue friend",
+            "a yellow fellow",
+            "a purple man"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A crimson government agent",
+          "choices": [
+            "a blue spy",
+            "a red fed",
+            "a green cop",
+            "a red agent"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A coffee-colored tiara",
+          "choices": [
+            "a black hat",
+            "a blue headpiece",
+            "a brown crown",
+            "a green tiara"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "An ivory paper toy that flies in the wind",
+          "choices": [
+            "a black balloon",
+            "a blue bird",
+            "a white kite",
+            "a white bird"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Commie grooved part of a tire",
+          "choices": [
+            "red tread",
+            "blue sidewall",
+            "green rubber",
+            "yellow stripe"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LET'S DANCE",
+      "questions": [
+        {
+          "clue": "You're dancing if you're cutting this item of decor",
+          "choices": [
+            "Rug",
+            "Carpet",
+            "Mat",
+            "Curtain"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "An old debate asks how many of these beings could dance on the head of a pin",
+          "choices": [
+            "Demons",
+            "Angels",
+            "Fairies",
+            "Spirits"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A gandy dancer works on this all the livelong day",
+          "choices": [
+            "Highway",
+            "Bridge",
+            "Railroad",
+            "Canal"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The Jarube Tehuano is a folk dance from this North American country",
+          "choices": [
+            "Guatemala",
+            "Peru",
+            "Mexico",
+            "Chile"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Proverbially, \"It Takes Two\" to perform this Latin dance",
+          "choices": [
+            "Samba",
+            "Tango",
+            "Rumba",
+            "Mambo"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MEXICAN HISTORY",
+      "questions": [
+        {
+          "clue": "These people believed their god had told them to establish a new home & they did around 1325 in the valley of Mexico",
+          "choices": [
+            "the Maya",
+            "the Incas",
+            "the Olmecs",
+            "the Aztecs"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1917, this country asked Mexico to enter WWI on its side to win back land Mexico had lost to the U.S.",
+          "choices": [
+            "Austria-Hungary",
+            "Italy",
+            "Germany",
+            "Russia"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1863 French troops occupied Mexico City & in 1864 this Austrian archduke was made emperor",
+          "choices": [
+            "Francisco",
+            "Benito",
+            "Antonio",
+            "Maximilian"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "At Opening Ceremonies in 1968, hurdler Enriqueta Basilio became the first woman to light the Olympic this vessel",
+          "choices": [
+            "the torch",
+            "the flame",
+            "the cauldron",
+            "the fire"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The era of this man's late 19th & early 20th century rule is known as the Porfiriato",
+          "choices": [
+            "Porfirio Luna",
+            "Porfirio Herrera",
+            "Porfirio Morales",
+            "Porfirio D\u00edaz"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This piece of purple produce is melanzana in Italian",
+    "choices": [
+      "potato",
+      "tomato",
+      "eggplant",
+      "zucchini"
+    ],
+    "correctIndex": 2,
+    "category": "FOREIGN FOOD"
+  }
+}

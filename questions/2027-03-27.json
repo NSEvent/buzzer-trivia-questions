@@ -1,0 +1,207 @@
+{
+  "date": "2027-03-27",
+  "categories": [
+    {
+      "name": "WHAT'S FOR DINNER?",
+      "questions": [
+        {
+          "clue": "Beef pounded thin, dipped in batter & cooked in a skillet; it includes the name of another meat",
+          "choices": [
+            "Chicken-fried pork",
+            "Turkey-fried steak",
+            "Chicken-fried cutlet",
+            "Chicken-fried steak"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "I hope you're starving because I bought enough cornmeal to make a vat of this Italian porridge",
+          "choices": [
+            "Risotto",
+            "Polenta",
+            "Grits",
+            "Polpette"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "We're having doro wat, a spicy chicken stew & the national dish of this African country",
+          "choices": [
+            "Nigeria",
+            "Kenya",
+            "South Africa",
+            "Ethiopia"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "I thought we'd go with something light\u2014this type of Italian omelet, baked in a pan",
+          "choices": [
+            "frittata",
+            "Quiche Lorraine",
+            "Crustless quiche",
+            "Shakshuka"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Yes, we have no bananas, so we'll saute these starchier \"cooking bananas\"",
+          "choices": [
+            "Yucca",
+            "Taros",
+            "Plantains",
+            "Cassava"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ABOUT \"FACE\"",
+      "questions": [
+        {
+          "clue": "This begins an ice hockey game",
+          "choices": [
+            "face-off",
+            "face value",
+            "face time",
+            "face the music"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Andy Griffith starred as a bumpkin turned TV star in this 1957 movie drama penned by Budd Schulberg",
+          "choices": [
+            "The Man with the Golden Arm",
+            "Elmer Gantry",
+            "On the Waterfront",
+            "A Face in the Crowd"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"Elevating\" cosmetic surgery people keep secret\u2014except Phyllis Diller, Betty Ford, Mr. Blackwell...",
+          "choices": [
+            "a nose job",
+            "a hair transplant",
+            "a brow lift",
+            "a face lift"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "To deal with a pressing problem directly, or the name of a 1980 TV game show similar to \"Name That Tune\"",
+          "choices": [
+            "Face the Audience",
+            "Face the Music",
+            "Look at the Music",
+            "Face the Record"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Song sung and drawn by Dick Van Dyke in the film \"Bye Bye Birdie\"",
+          "choices": [
+            "Put On a Smile",
+            "Wear a Happy Face",
+            "Show a Happy Face",
+            "\"Put On A Happy Face\""
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DID YOU NOTICE?",
+      "questions": [
+        {
+          "clue": "Trademarked name of those little sticky yellow note papers from 3M",
+          "choices": [
+            "StickyNotes",
+            "YellowPads",
+            "3MNotes",
+            "Post-Its"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In Monopoly, Luxury Tax is this much",
+          "choices": [
+            "$50",
+            "$100",
+            "$75",
+            "$25"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In the classic M-G-M logo, the frame around the lion is made of this",
+          "choices": [
+            "golden film",
+            "silver border",
+            "gold chain",
+            "brass frame"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Punctuation mark that comes between \"Coca\" & \"Cola\" or \"Catch\" & \"22\"",
+          "choices": [
+            "a comma",
+            "a period",
+            "a hyphen",
+            "a dash"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Musical instrument appropriately found in the A&M Records company symbol",
+          "choices": [
+            "piano",
+            "drum",
+            "trumpet",
+            "guitar"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This 1980 film about Jake LaMotta should ring a bell with you",
+    "choices": [
+      "Goodfellas",
+      "Raging Bull",
+      "The Godfather",
+      "Taxi Driver"
+    ],
+    "correctIndex": 1,
+    "category": "MOVIES IN BLACK & WHITE"
+  },
+  "bonusRound": {
+    "clue": "(Jimmy of the Clue Crew shows an anatomical illustration on the monitor.) Deriving its name from the Greek word for snail, this structure contains the actual organ of hearing",
+    "choices": [
+      "the earlobe",
+      "the eardrum",
+      "the auditory nerve",
+      "the cochlea"
+    ],
+    "correctIndex": 3,
+    "category": "ALL EARS"
+  }
+}

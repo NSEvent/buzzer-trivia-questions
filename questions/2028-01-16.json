@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-16",
+  "categories": [
+    {
+      "name": "LET'S HAVE LEFTOVERS",
+      "questions": [
+        {
+          "clue": "On the slopes, types of these include J-bar, T-bar & poma",
+          "choices": [
+            "lifts",
+            "skis",
+            "boots",
+            "poles"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Thanksgiving leftovers? Make a rich cream sauce containing mushrooms for turkey a la this\u2014it's fit for one",
+          "choices": [
+            "king",
+            "queen",
+            "emperor",
+            "prince"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This Baptist university in Waco is named for a man who served as a judge in Texas",
+          "choices": [
+            "Baylor",
+            "Texas",
+            "SMU",
+            "TAMU"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The tail of this primate is about the length of its body\u201410 to 16 inches; reminds me of the rodent in its name",
+          "choices": [
+            "the capuchin monkey",
+            "the squirrel monkey",
+            "the spider monkey",
+            "the howler monkey"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "What to do with leftover mashed potatoes & cooked cabbage? Make the British dish called bubble & this",
+          "choices": [
+            "pop",
+            "squeak",
+            "smack",
+            "crack"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Q WITHOUT U",
+      "questions": [
+        {
+          "clue": "One way of spelling this Libyan leader's last name has a \"Q\" with no \"U\"",
+          "choices": [
+            "Gaddafi Qadafy",
+            "Muammar Qadaffi",
+            "Qadafi Qadaffi",
+            "Qaddafi"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This 3-letter term (an abbreviation, really) means \"which was to be demonstrated\"",
+          "choices": [
+            "QIT",
+            "QUA",
+            "QVA",
+            "QED"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Dvorak is an alternative to this standard keyboard layout",
+          "choices": [
+            "AZERTY",
+            "QWERTY",
+            "DVORAK",
+            "COLEMAK"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "We hear this product's website says it's \"the ultimate beauty tool\"",
+          "choices": [
+            "a Q-bond",
+            "a Q-tip",
+            "a Q-snap",
+            "a Q-link"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This emirate has been run by the Al-Thani family since the mid-1800s",
+          "choices": [
+            "Qeshm",
+            "Qal'at",
+            "Qurna",
+            "Qatar"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AUTHORS BEFORE & AFTER",
+      "questions": [
+        {
+          "clue": "After tackling the meat-packing industry in \"The Jungle\", he battled religious hypocrisy in \"Elmer Gantry\"",
+          "choices": [
+            "John Steinbeck",
+            "Upton Sinclair",
+            "Sinclair Lewis",
+            "Upton Sinclair Lewis"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Author whose \"Portrait of a Lady\" was followed by his \"Portrait of the Artist as a Young Man\"",
+          "choices": [
+            "James Joyce",
+            "Henry James Joyce",
+            "Henry James",
+            "T.S. Eliot"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Marathon Man\" novelist/screenwriter & investment bank whose stock symbol is GS",
+          "choices": [
+            "Raymond Chandler Goldman",
+            "William Goldman Sachs",
+            "James Patterson Goldman",
+            "Stephen King Goldman"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"Paradise Lost\" poet who won who the Nobel Prize for Economics in 1976",
+          "choices": [
+            "Adam Smith Friedman",
+            "Paul Krugman Friedman",
+            "Milton Friedman Keynes",
+            "John Milton Friedman"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Late TV host & \"How to Be Funny\" author who helped pioneer the Beat Generation with his \"Howl\"",
+          "choices": [
+            "Jack Kerouac Allen",
+            "Steve Allen Ginsberg",
+            "Allen Ginsberg Burroughs",
+            "William Burroughs Allen"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "To King Hezekiah, \"Thus saith the Lord, set thine\" this \"in order, for thou shalt die, and not live\"",
+    "choices": [
+      "household",
+      "hearth",
+      "history",
+      "house"
+    ],
+    "correctIndex": 3,
+    "category": "KING JAMES BIBLE QUOTES"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-04",
+  "categories": [
+    {
+      "name": "CRIME & PUNISHMENT",
+      "questions": [
+        {
+          "clue": "In 1456, a posthumous trial granted by Pope Callistus overthrew her heresy conviction",
+          "choices": [
+            "Joan of Arc",
+            "Joan of Kent",
+            "Margaret of Anjou",
+            "Catherine of Aragon"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "By age 33, John MacLean, this type of thief, had stolen $150 mil. worth of goods by himself",
+          "choices": [
+            "a safecracker",
+            "a pickpocket",
+            "a burglar",
+            "a forger"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "He was released in 1971 after Nixon commuted his prison term but disappeared in 1975",
+          "choices": [
+            "Al Capone",
+            "John Dillinger",
+            "Bonnie Parker",
+            "Jimmy Hoffa"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1983, 32 members of this terrorist group got life for murdering former Italian prime minister Aldo Moro",
+          "choices": [
+            "the Red Brigade",
+            "the Baader-Meinhof Group",
+            "the Red Army Faction",
+            "the PFLP"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Nathuram Godse, who murdered this man in 1948 as he headed to a prayer meeting: death by hanging",
+          "choices": [
+            "Nehru",
+            "Gandhi",
+            "Jinnah",
+            "Mountbatten"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FINNISH LINES",
+      "questions": [
+        {
+          "clue": "If you pull into the full service lane, you'll need to know \"tankki tayteen\", this phrase",
+          "choices": [
+            "Full tank",
+            "Fill it up!",
+            "Gas it up",
+            "Pour it in"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 1943 Finnish-born architect Eero Saarinen designed the smooth lines of this St. Louis landmark",
+          "choices": [
+            "Space Needle",
+            "Statue of Liberty",
+            "Empire State Building",
+            "Gateway Arch"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Finnish computer scientist Linus Torvalds wrote his master's thesis on this operating system of his",
+          "choices": [
+            "Windows",
+            "Unix",
+            "Linux",
+            "Android"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1865 Finn Fredrik Idestam started a paper mill that evolved into this mobile phone company",
+          "choices": [
+            "Nokia",
+            "Samsung",
+            "Ericsson",
+            "Siemens"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The press dubbed this Olympic champ \"The Flying Finn\", \"The Phantom Finn\" & \"The Finnish Running Marvel\"",
+          "choices": [
+            "(Lasse) Vir\u00e9n",
+            "(Paavo) Nurmi",
+            "(Paavo) Lonnrot",
+            "(Zachris) Topelius"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SPIES & SPYING",
+      "questions": [
+        {
+          "clue": "As of December 4, 1981, the CIA was given permission to \"spy\" within this country",
+          "choices": [
+            "United States",
+            "United Kingdom",
+            "Canada",
+            "West Germany"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "During WWII teenage American physicist Theodore Hall passed secrets about this weapon to the USSR",
+          "choices": [
+            "hydrogen bomb",
+            "tactical missile",
+            "plutonium core",
+            "atom bomb"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Robert Townsend spied for George Washington by posing as one of these pro-British colonists",
+          "choices": [
+            "Loyalist",
+            "Patriot",
+            "Redcoat",
+            "Tory"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This common verb means to make an enemy agent into a double agent working for you as well",
+          "choices": [
+            "flip",
+            "turn",
+            "switch",
+            "convert"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Some credit Francis Bacon with coining this term for an agent who burrows into a rival spy agency",
+          "choices": [
+            "spy",
+            "mole",
+            "agent",
+            "informant"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Any of a hydrophobic group of organic compounds, including fats & oils",
+    "choices": [
+      "lipids",
+      "proteins",
+      "carbohydrates",
+      "vitamins"
+    ],
+    "correctIndex": 0,
+    "category": "TO \"L\" WITH SCIENCE"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-10",
+  "categories": [
+    {
+      "name": "GEOGRAPH\"E\"",
+      "questions": [
+        {
+          "clue": "Portoferraio is the chief town on this island where Napoleon was exiled",
+          "choices": [
+            "Elba",
+            "Corsica",
+            "Sardinia",
+            "Majorca"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "For La Paz, Bolivia, it's over 11,900 feet, tops for any capital city in the world",
+          "choices": [
+            "the temperature",
+            "the elevation",
+            "the humidity",
+            "the air pressure"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "It's the longest river of Spain",
+          "choices": [
+            "Tagus",
+            "Douro",
+            "Ebro",
+            "Guadiana"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Large oceangoing vessels can travel from the North Sea inland as far as Hamburg on this river",
+          "choices": [
+            "the Elbe",
+            "the Rhine",
+            "the Weser",
+            "the Ems"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This river rises in the Cantabria Province of northern Spain & flows more than 500 miles southeast",
+          "choices": [
+            "the Tagus River",
+            "the Duero River",
+            "the Ebro River",
+            "the Guadalquivir River"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SOCRATES",
+      "questions": [
+        {
+          "clue": "This student of Socrates & author of \"Apology\" wasn't present at his teacher's death",
+          "choices": [
+            "Aristotle",
+            "Plato",
+            "Xenophon",
+            "Critias"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Socrates was charged with religious heresy & doing this",
+          "choices": [
+            "introducing new gods",
+            "corrupting the youth",
+            "imprisoning elders",
+            "stealing sacred artifacts"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "He served as a hoplite, or infantryman, during this war",
+          "choices": [
+            "The Trojan War",
+            "The Persian Wars",
+            "The Sicilian Expedition",
+            "Peloponnesian War"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "\"The Death of Socrates\" by this 18th century French artist is in the Metropolitan Museum of Art",
+          "choices": [
+            "Jean-Auguste-Dominique Ingres",
+            "Th\u00e9odore G\u00e9ricault",
+            "Paul Delaroche",
+            "Jacques-Louis David"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Socrates was born & spent his life in this city",
+          "choices": [
+            "Sparta",
+            "Thebes",
+            "Corinth",
+            "Athens"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "VIETNAM",
+      "questions": [
+        {
+          "clue": "Hanoi is the capital, but this city is the most populous",
+          "choices": [
+            "Da Nang",
+            "Ho Chi Minh City",
+            "Hai Phong",
+            "Nha Trang"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "According to its official name, Vietnam is one of these republics",
+          "choices": [
+            "an agrarian",
+            "a democratic",
+            "a capitalist",
+            "a socialist"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "There are 2 great river systems in Vietnam: the Red River in the north & this in the south",
+          "choices": [
+            "the Mekong Delta",
+            "the Hong",
+            "the Pearl",
+            "the Mekong"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "At 1 Le Thanh Tong street, you'll find this \u2014an actual hotel, not a hellish prison",
+          "choices": [
+            "the Hanoi Hilton",
+            "the Hoan Kiem",
+            "the Opera House",
+            "the Old Quarter"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Located 64 miles east of Hanoi, this is Northern Vietnam's most important port",
+          "choices": [
+            "Haiphong",
+            "Danang",
+            "Hue",
+            "Nha Trang"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Crowds flock to Dodona, Philippi & Thassos to see festivals of this art performed in ancient venues",
+    "choices": [
+      "Theater",
+      "Dance",
+      "Music",
+      "Opera"
+    ],
+    "correctIndex": 0,
+    "category": "GREEK LIFE"
+  }
+}

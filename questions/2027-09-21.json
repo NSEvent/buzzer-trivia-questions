@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-21",
+  "categories": [
+    {
+      "name": "RELIGIOUS HOLIDAYS",
+      "questions": [
+        {
+          "clue": "In this religion, Shivaratri is celebrated by fasting & telling stories of Shiva",
+          "choices": [
+            "Buddhism",
+            "Sikhism",
+            "Hinduism",
+            "Jainism"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This church festival on August 15th celebrates the Virgin Mary's ascent into heaven",
+          "choices": [
+            "the Assumption",
+            "the Annunciation",
+            "the Nativity",
+            "the Visitation"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In Latin America, Dia de la Cruz celebrates the day on which St. Helena is said to have found this",
+          "choices": [
+            "the Holy Grail",
+            "the fragments of the true cross",
+            "a nail from the crucifixion",
+            "the crown of thorns"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The festival of Vesak commemorates the birth, enlightenment & death of this religious leader",
+          "choices": [
+            "the Buddha",
+            "the Virgin Mary",
+            "Jesus Christ",
+            "Gautama"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "St. Joseph's Day, March 19, marks the return of the swallows to this California mission",
+          "choices": [
+            "Mission San Francisco",
+            "San Diego de Alcala",
+            "San Juan Capistrano",
+            "Mission Santa Barbara"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FAMOUS GINGERS",
+      "questions": [
+        {
+          "clue": "This King of Rock was engaged to Ginger Alden at the time of his sudden 1977 death",
+          "choices": [
+            "Jimi Hendrix",
+            "Jim Morrison",
+            "Elvis Presley",
+            "Janis Joplin"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "It was said of this Oscar-winning actress, that she did everything Fred Astaire did, only backwards & in high heels",
+          "choices": [
+            "Cyd Charisse",
+            "Fred Astaire",
+            "Rita Hayworth",
+            "Ginger Rogers"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Ginger Baker played drums in this 1960s rock trio that also had Jack Bruce & Eric Clapton",
+          "choices": [
+            "Cream",
+            "The Yardbirds",
+            "Led Zeppelin",
+            "The Rolling Stones"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Ginger Grant was the glamorous movie star on this sitcom",
+          "choices": [
+            "The Jetsons",
+            "Gilligan's Island",
+            "Bewitched",
+            "The Addams Family"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "As part of a group from 1994 to 1998, Geri Halliwell went by this name",
+          "choices": [
+            "Baby Spice",
+            "Posh Spice",
+            "Ginger Spice",
+            "Sporty Spice"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ALSO A BATMAN VILLAIN",
+      "questions": [
+        {
+          "clue": "In poker it's commonly used as a wild card",
+          "choices": [
+            "ace",
+            "king",
+            "wild",
+            "joker"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In the movies he sings \"If I Only Had A Brain\"",
+          "choices": [
+            "Tin Man",
+            "Scarecrow",
+            "Cowardly Lion",
+            "Wicked Witch"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Neurotoxic crawler who's hard on her mates",
+          "choices": [
+            "Catwoman",
+            "Penguin",
+            "Black Widow",
+            "Riddler"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "What Humpty Dumpty is\u2014literally, that is, not because of his smarts",
+          "choices": [
+            "a tall order",
+            "an egghead",
+            "a lost cause",
+            "a hard nut"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Its scientific name is Toxicodendron radicans",
+          "choices": [
+            "deadly nightshade",
+            "poison ivy",
+            "hemlock",
+            "foxglove"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The Columbia Encyclopedia calls it \"the best known Chinese fruit\" (or is it a nut?)",
+    "choices": [
+      "longan",
+      "rambutan",
+      "durian",
+      "litchi"
+    ],
+    "correctIndex": 3,
+    "category": "A FRUITY CATEGORY"
+  }
+}

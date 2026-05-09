@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-28",
+  "categories": [
+    {
+      "name": "NOBEL PRIZES",
+      "questions": [
+        {
+          "clue": "If you win a Nobel Prize & turn it down, you can claim the gold medal later, but you lose this",
+          "choices": [
+            "the title",
+            "the fame",
+            "the ceremony",
+            "the cash"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The 2023 Peace Prize went to women's rights crusader Narges Mohammadi, sentenced to 31 years in prison in this country",
+          "choices": [
+            "Iran",
+            "Iraq",
+            "Afghanistan",
+            "North Korea"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "2 scientists shared the 2023 Medicine Prize for enabling development of this type of COVID vaccine made by Pfizer & Moderna",
+          "choices": [
+            "DNA",
+            "mRNA",
+            "protein",
+            "virus"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This American took home the 2023 Economics Prize for her studies on women in the workforce & the wage gap",
+          "choices": [
+            "Angela Merkel",
+            "Malala Yousafzai",
+            "Ruth Bader Ginsburg",
+            "(Claudia) Goldin"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The 2013 Lit Prize went to this Canadian for her mastery of the short story",
+          "choices": [
+            "Margaret Atwood",
+            "(Alice) Munro",
+            "Michael Ondaatje",
+            "Carol Shields"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HEADS OF GOVERNMENT",
+      "questions": [
+        {
+          "clue": "Daniel Ortega Saavedra",
+          "choices": [
+            "Panama",
+            "Costa Rica",
+            "Honduras",
+            "Nicaragua"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Prime Minister Robert Hawke",
+          "choices": [
+            "New Zealand",
+            "Australia",
+            "Canada",
+            "South Africa"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Marshal Kim Il-sung",
+          "choices": [
+            "South Korea",
+            "China",
+            "Japan",
+            "North Korea"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "President Hosni Mubarak",
+          "choices": [
+            "Egypt",
+            "Libya",
+            "Algeria",
+            "Tunisia"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Chancellor Helmut Kohl",
+          "choices": [
+            "East Germany",
+            "France",
+            "Belgium",
+            "West Germany"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DOG TALES",
+      "questions": [
+        {
+          "clue": "\"Jerry Of The Islands\" is the tale of an Irish Terrier pup by this \"White Fang\" author",
+          "choices": [
+            "Robert Louis Stevenson",
+            "Jack London",
+            "J.M. Barrie",
+            "Mark Twain"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"Hound Dunnit\" is a collection of dog mysteries for kids by this \"I, Robot\" author",
+          "choices": [
+            "Arthur C. Clarke",
+            "Ray Bradbury",
+            "Philip K. Dick",
+            "Isaac Asimov"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This \"colorful\" title wolfdog bounded to life in a 1906 Jack London novel",
+          "choices": [
+            "The Call of the Wild",
+            "White Fang",
+            "Bran Mak-Morn",
+            "Red Ryder"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "John Steinbeck went \"In Search of America\" during his \"Travels with\" this French poodle",
+          "choices": [
+            "Charley",
+            "Fido",
+            "Bella",
+            "Max"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In a story set in the 19th century, a mad wolf with rabies is the last fight this faithful title canine has, & now I'm crying",
+          "choices": [
+            "Benji",
+            "Lassie",
+            "Hachiko",
+            "Old Yeller"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A bone marrow transplant may lead to GVHD, this disease of incompatibility",
+    "choices": [
+      "graft-versus-organ rejection",
+      "graft-versus-host disease",
+      "host-versus-graft syndrome",
+      "donor-versus-recipient conflict"
+    ],
+    "correctIndex": 1,
+    "category": "MED. ABBREV."
+  }
+}

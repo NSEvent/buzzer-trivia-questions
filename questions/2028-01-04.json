@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-04",
+  "categories": [
+    {
+      "name": "IT'S A DATE",
+      "questions": [
+        {
+          "clue": "June 12, 2018: The first meeting between a U.S. president & a leader of this country",
+          "choices": [
+            "South Korea",
+            "China",
+            "Vietnam",
+            "North Korea"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "On March 17, 1905 this future first lady got married in New York City & didn't even have to change her last name",
+          "choices": [
+            "Barbara Bush",
+            "Eleanor Roosevelt",
+            "Jacqueline Kennedy",
+            "Bess Truman"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "You could look it up\u2014on April 14, 1828 this man copyrighted the first edition of his dictionary",
+          "choices": [
+            "(Noah) Webster",
+            "(Noam) Chomsky",
+            "(Samuel) Johnson",
+            "(Benjamin) Franklin"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "John Adams believed this date on which Congress actually declared independence would become a national holiday",
+          "choices": [
+            "July 4th",
+            "July 2nd",
+            "June 14th",
+            "August 2nd"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "May 26, 1868: A Senate vote goes in this man's favor, barely",
+          "choices": [
+            "Ulysses S. Grant",
+            "Andrew Johnson",
+            "Abraham Lincoln",
+            "Benjamin Franklin"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MOVIE SPOILERS",
+      "questions": [
+        {
+          "clue": "Bruce Willis is dead & doesn't know it in this 1999 thriller",
+          "choices": [
+            "Fight Club",
+            "Se7en",
+            "The Sixth Sense",
+            "Shutter Island"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The disabled Kevin Spacey seems to be the killer Keyser Soze in this 1995 film",
+          "choices": [
+            "L.A. Confidential",
+            "Memento",
+            "Se7en",
+            "The Usual Suspects"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Faye Dunaway's daughter is also her sister in this Jack Nicholson classic from 1974",
+          "choices": [
+            "The Godfather",
+            "Chinatown",
+            "Taxi Driver",
+            "One Flew Over the Cuckoo's Nest"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This colorful food in the title of a 1973 Charlton Heston film is really people, not fish",
+          "choices": [
+            "Soylent Red",
+            "Soylent Yellow",
+            "Soylent Blue",
+            "Soylent Green"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Attorney Ransom Stoddard wasn't \"The Man Who Shot\" this Lee Marvin villain\u2014it was John Wayne's Tom Doniphon",
+          "choices": [
+            "Liberty Jones",
+            "Liberty Smith",
+            "Liberty Brown",
+            "Liberty Valance"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SCIENCE VOCABULARY",
+      "questions": [
+        {
+          "clue": "It's the resistance that opposes the motion of one surface across another",
+          "choices": [
+            "friction",
+            "frictionless",
+            "fracture",
+            "frenzy"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A cone- shaped deposit of calcium salts that builds up from a cave floor",
+          "choices": [
+            "stalactite",
+            "speleothem",
+            "flowstone",
+            "stalagmite"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In an experiment, the group used for comparison is called this",
+          "choices": [
+            "variable",
+            "control",
+            "sample",
+            "baseline"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Atoms share a pair of electrons in this type of chemical bond",
+          "choices": [
+            "covalent",
+            "ionic",
+            "metallic",
+            "hydrogen"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This slow wobbling of the Earth's axis of rotation completes a cycle every 26,000 years or so",
+          "choices": [
+            "nutation",
+            "precession",
+            "rotation",
+            "revolution"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Named for founder Carlo, it's the crime family of which John Gotti was boss",
+    "choices": [
+      "Genovese",
+      "Gambino",
+      "Lucchese",
+      "Colombo"
+    ],
+    "correctIndex": 1,
+    "category": "WHO'S THE BOSS"
+  }
+}

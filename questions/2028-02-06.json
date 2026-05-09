@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-06",
+  "categories": [
+    {
+      "name": "VERY GRIMM FAIRY TALES",
+      "questions": [
+        {
+          "clue": "A severed 1 of these with a ring on it sealed \"The Robber Bridegroom\"s fate",
+          "choices": [
+            "a hand",
+            "a toe",
+            "an ear",
+            "a finger"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A king drowns while searching for 1 of these mythical beasts that's part eagle & part lion",
+          "choices": [
+            "a griffin",
+            "a phoenix",
+            "a pegasus",
+            "a harpy"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The reason Cinderella's stepsisters cut off parts of their feet",
+          "choices": [
+            "to make their feet fit in the glass slipper",
+            "to hide their blood stains",
+            "to punish their vanity",
+            "to fit into a smaller shoe"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "She was taken away from her parents because her mother ate rampion from the witch's garden",
+          "choices": [
+            "Snow White",
+            "Rapunzel",
+            "Hansel",
+            "Thumbelina"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This little man demands a child as payment for helping the miller's daughter spin straw into gold",
+          "choices": [
+            "Puss in Boots",
+            "Rumpelstiltskin",
+            "Rumpelstilzchen",
+            "Hansel"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ANIMAL VERBS",
+      "questions": [
+        {
+          "clue": "Flutter, like eyelashes",
+          "choices": [
+            "bat",
+            "blink",
+            "flicker",
+            "wink"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This simian word means to play with or tamper with something",
+          "choices": [
+            "ape",
+            "chimp",
+            "monkey",
+            "gorilla"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Defeat an opponent overwhelmingly, especially by shutting them out",
+          "choices": [
+            "crush",
+            "destroy",
+            "obliterate",
+            "skunk"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A weasel-like animal gives us this verb meaning to uncover or bring to light by searching",
+          "choices": [
+            "hunted",
+            "traced",
+            "ferret",
+            "spied"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A gastropod, or a verb meaning to strike heavily, as with a fist",
+          "choices": [
+            "kick",
+            "slug",
+            "thump",
+            "punch"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ANCIENT COINS",
+      "questions": [
+        {
+          "clue": "In 44 B.C. the senate of Rome wanted his head \u2014 on all silver coins",
+          "choices": [
+            "Augustus Caesar",
+            "Caligula",
+            "Pompey the Great",
+            "Julius Caesar"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "At this jewel-adorned site in Jerusalem, Jesus praised the widow who gave her last 2 mites, bronze coins",
+          "choices": [
+            "the synagogue",
+            "the temple",
+            "Herod's palace",
+            "the city gates"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Around 334 B.C. this Macedonian's stater became a world currency",
+          "choices": [
+            "Philip II of Macedon",
+            "Alexander the Great",
+            "Ptolemy I Soter",
+            "Demetrius Poliorcetes"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This horn of plenty is often seen on ancient coins, including the Roman denarius",
+          "choices": [
+            "a laurel wreath",
+            "a thunderbolt",
+            "an olive branch",
+            "a cornucopia"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A Roman coin of the 30s A.D. shows Drusilla, favorite sister of this cruel emperor, holding poppies & a scepter",
+          "choices": [
+            "Caligula",
+            "Nero",
+            "Claudius",
+            "Titus"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Jeff Bezos, CEO of this giant online retailer, was Time's Person of the Year for 1999",
+    "choices": [
+      "Amazon.com",
+      "eBay",
+      "Walmart",
+      "Target"
+    ],
+    "correctIndex": 0,
+    "category": "BUSINESSMEN"
+  }
+}

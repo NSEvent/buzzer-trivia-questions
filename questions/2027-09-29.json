@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-29",
+  "categories": [
+    {
+      "name": "BROADWAY MUSICALS BY SONGS",
+      "questions": [
+        {
+          "clue": "\"Rainbow Tour\" & \"Buenos Aires\"",
+          "choices": [
+            "Evita",
+            "Chicago",
+            "Les Mis\u00e9rables",
+            "The Phantom of the Opera"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "A \"business\"-like musical: \"Coffee Break\" & \"The Company Way\"",
+          "choices": [
+            "The Music Man",
+            "My Fair Lady",
+            "Guys and Dolls",
+            "How to Succeed in Business Without Really Trying"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"Knights Of The Round Table\" & \"Find Your Grail\"",
+          "choices": [
+            "Camelot",
+            "Monty Python and the Holy Grail",
+            "Spamalot",
+            "King Arthur"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"Making Things Up Again\" & \"Baptize Me\"",
+          "choices": [
+            "The Lion King",
+            "The Book of Mormon",
+            "Jersey Boys",
+            "Wicked"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"It Only Takes A Moment\" & \"Before The Parade Passes By\"",
+          "choices": [
+            "Fiddler on the Roof",
+            "Hello, Dolly!",
+            "My Fair Lady",
+            "Annie Get Your Gun"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GOING TO THE DOGS",
+      "questions": [
+        {
+          "clue": "Its nicknames include the spotted dick & the plum pudding dog",
+          "choices": [
+            "the Jack Russell",
+            "the Border Collie",
+            "the Irish Setter",
+            "the Dalmatian"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Idiom used of someone who appears fierce but is actually gentle",
+          "choices": [
+            "biting the hand that feeds",
+            "all bark, no bite (bark is worse than their bite)",
+            "barking up the wrong tree",
+            "let sleeping dogs lie"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Name following Cardigan Welsh & Pembroke Welsh",
+          "choices": [
+            "corgi",
+            "beagle",
+            "terrier",
+            "bulldog"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Laika was the first dog to travel here",
+          "choices": [
+            "low earth orbit",
+            "the moon",
+            "outer space",
+            "the stratosphere"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This retriever's ancestors include two St. John's water dogs rescued from an 1807 shipwreck off Maryland",
+          "choices": [
+            "the Chesapeake Bay retriever",
+            "the Labrador retriever",
+            "the Nova Scotia duck tolling retriever",
+            "the flat coated retriever"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "UP, UP & AWAY",
+      "questions": [
+        {
+          "clue": "There's a drawing of the first manned balloon flight as seen from Ben Franklin's place in this foreign city",
+          "choices": [
+            "London",
+            "Berlin",
+            "Vienna",
+            "Paris"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Vincenzo Lunardi used this gas, not hot air, when he made the first balloon flight over England in 1784",
+          "choices": [
+            "helium",
+            "nitrogen",
+            "natural gas",
+            "hydrogen"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Once thought to have crashed back onto the Moon's surface, the ascent stage of this lunar module from Apollo 11 may still be in orbit",
+          "choices": [
+            "the Eagle",
+            "the Columbia",
+            "the Challenger",
+            "the Atlantis"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This lethal combat helicopter with a Native American name is loaded with hellfire missiles, 70-millimeter rockets & a 30-millimeter cannon",
+          "choices": [
+            "a Cobra",
+            "an Apache",
+            "a Black Hawk",
+            "a Chinook"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Almost 4,000 of these bombers nicknamed the Superfortress were produced in the 1940s, but only 2 still fly today",
+          "choices": [
+            "B-52s",
+            "B-1s",
+            "B-29s",
+            "B-2s"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Of the Huarizo, these 2 domesticated South American camelids",
+    "choices": [
+      "a donkey & a horse",
+      "a goat & a sheep",
+      "a camel & a cow",
+      "a llama & an alpaca"
+    ],
+    "correctIndex": 3,
+    "category": "HYBRID ANIMAL PARENTS"
+  }
+}

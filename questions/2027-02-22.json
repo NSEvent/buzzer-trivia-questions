@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-22",
+  "categories": [
+    {
+      "name": "THE PITTSBURGH ADDRESS",
+      "questions": [
+        {
+          "clue": "In a 1932 Pittsburgh campaign speech, he accused Republicans of \"spreading the gospel of fear\"",
+          "choices": [
+            "TRU",
+            "FDR",
+            "LBJ",
+            "HW"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 1948 this general told the Chamber of Commerce, \"Business has a special stake in European recovery\"",
+          "choices": [
+            "Dwight D. Eisenhower",
+            "Douglas MacArthur",
+            "(George C.) Marshall",
+            "Omar Bradley"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "600 Grant Street: this tower\u2014its name is also what it's made of",
+          "choices": [
+            "the Mellon Bank Tower",
+            "the U.S. Steel Tower",
+            "the PPG Place",
+            "the Gulf Tower"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "100 Art Rooney Avenue: this sports venue",
+          "choices": [
+            "Three Rivers Stadium",
+            "PNC Park",
+            "Heinz Field",
+            "Acrisure Stadium"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"You want to look back and say, 'I did the best I could'\", this Pitt grad & Dolphins HOF QB said at the 2008 commencement",
+          "choices": [
+            "Dan Marino",
+            "Joe Namath",
+            "Terry Bradshaw",
+            "Bob Griese"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HITS OF THE '60s",
+      "questions": [
+        {
+          "clue": "In 1967 Aretha Franklin proved she could S-P-E-L-L with this song, one of the biggest solo hits of her career",
+          "choices": [
+            "Chain of Fools",
+            "I Never Loved a Man",
+            "\"Respect\" (\"R-E-S-P-E-C-T\" accepted)",
+            "Think"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1963 Bobby Vinton had 2 consecutive top 3 hits with this color in the titles",
+          "choices": [
+            "green",
+            "red",
+            "yellow",
+            "blue"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Nilsson's 1969 hit \"Everybody's Talkin'\" served as the theme song to this Oscar-winning film",
+          "choices": [
+            "Midnight Cowboy",
+            "Bonnie and Clyde",
+            "The Graduate",
+            "The Sound of Music"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Its lyrics include \"We always take my car 'cause it's never been beat, and we've never missed yet with the girls we meet\"",
+          "choices": [
+            "\"Surfin' USA\"",
+            "\"California Girls\"",
+            "\"I Get Around\"",
+            "\"Help Me, Rhonda\""
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1963 Roy Orbison sang \"In\" these \"I walk with you\"",
+          "choices": [
+            "reality",
+            "sleep",
+            "nightmares",
+            "dreams"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COUNTRY MUSIC",
+      "questions": [
+        {
+          "clue": "\"To All The Girls I've Loved Before\" was a big hit for the duo of Julio Iglesias & this star",
+          "choices": [
+            "Willie Nelson",
+            "Kenny Rogers",
+            "Dolly Parton",
+            "Chris Christie"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In a B.J. Thomas song it follows \"Hey, wont you play...\"",
+          "choices": [
+            "my baby",
+            "(another) somebody done somebody wrong song",
+            "a sad song",
+            "the guitar"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 1980 Shelly West & David Frizzell told each other, \"You're the reason God made...\" this state",
+          "choices": [
+            "Oklahoma",
+            "Tennessee",
+            "Texas",
+            "Georgia"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In the '80s he hopped up the charts with songs like \"Step by Step\" & \"I Love a Rainy Night\"",
+          "choices": [
+            "Steve Wariner",
+            "John Conlee",
+            "Eddie Rabbitt",
+            "Larry Gatlin"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 2023 she released the album \"Queen of Me\" & showed up at the Grammys in red hair & giant polka dots",
+          "choices": [
+            "Reba McEntire",
+            "Shania Twain",
+            "Dolly Parton",
+            "Miranda Lambert"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "RUB TAN LIZ",
+    "choices": [
+      "Walnut",
+      "Brazil nut",
+      "Cashew",
+      "Pecan"
+    ],
+    "correctIndex": 1,
+    "category": "MIXED NUTS"
+  }
+}

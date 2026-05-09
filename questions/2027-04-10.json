@@ -1,0 +1,207 @@
+{
+  "date": "2027-04-10",
+  "categories": [
+    {
+      "name": "KEY",
+      "questions": [
+        {
+          "clue": "His most famous work was completed in a Baltimore hotel room in 1814",
+          "choices": [
+            "John James Audubon",
+            "Francis Scott Key",
+            "Edgar Allan Poe",
+            "Washington Irving"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "What the priest uses to lock doors after mass, or a slang term for a bottle opener",
+          "choices": [
+            "a bottle cap",
+            "a church key",
+            "a church bell",
+            "a door knob"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Golden Key is the college world's largest of this type of society that the Brits spell with a \"U\"",
+          "choices": [
+            "a fraternity",
+            "an honor society",
+            "a sorority",
+            "a secret society"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This ornithologist visited Key West in the 1830s; here's the house that's now named in his honor",
+          "choices": [
+            "Darwin",
+            "Linnaeus",
+            "Watson",
+            "Audubon"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This community service & leadership organization has Key Club International, for high school students",
+          "choices": [
+            "Rotary International",
+            "Lions Club International",
+            "Junior Chamber",
+            "Kiwanis International"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "OSCAR-WINNING ACTRESSES",
+      "questions": [
+        {
+          "clue": "1999: Brandon Teena/ Teena Brandon",
+          "choices": [
+            "Felicity Huffman",
+            "Marlee Matlin",
+            "Sissy Spacek",
+            "Hilary Swank"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "1967: Christina Drayton; 1968: Eleanor of Aquitaine",
+          "choices": [
+            "Elizabeth Taylor",
+            "Katharine Hepburn",
+            "Julie Andrews",
+            "Joanne Woodward"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "She won a supporting actress Oscar for her turn as the sassy Minny Jackson in \"The Help\"",
+          "choices": [
+            "Viola Davis",
+            "Octavia Spencer",
+            "Jessica Chastain",
+            "Alicia Vikander"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "1957: Eve White/ Eve Black/ Jane",
+          "choices": [
+            "Joanne Garfield",
+            "Joanne Woodward",
+            "Joanne Davis",
+            "Joanne Bennett"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "She won an Oscar for playing Hanna, the older woman who loves \"The Reader\"",
+          "choices": [
+            "Kate Hudson",
+            "Kate Beckinsale",
+            "Kate Mara",
+            "Kate Winslet"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DOUBLE TALK NAMES",
+      "questions": [
+        {
+          "clue": "Nickname of the female fashion designer born in France's Loire Valley region in 1883",
+          "choices": [
+            "Coco (Chanel)",
+            "Coco (Lancome)",
+            "Coco (Dior)",
+            "Coco (YSL)"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Poet cummings, whose first book of poetry, \"Tulips and Chimneys\", came out in 1923",
+          "choices": [
+            "e.l.",
+            "e.m.",
+            "e.k.",
+            "e.e."
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Singer Peniston or Winans",
+          "choices": [
+            "CeCe",
+            "Ceil",
+            "Cecy",
+            "Cici"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Michelle Pfeiffer's sister who was in \"Vamp\" & \"Falling Down\"",
+          "choices": [
+            "Debra",
+            "Diane",
+            "Donna",
+            "Dedee"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Neuwirth of \"Cheers\"",
+          "choices": [
+            "Becky",
+            "Bebe",
+            "Betty",
+            "Barbara"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A traceur is a practitioner of this gymnastic urban running & jumping pastime",
+    "choices": [
+      "tricking",
+      "freerunning",
+      "ninja",
+      "parkour"
+    ],
+    "correctIndex": 3,
+    "category": "OUTSIDE"
+  },
+  "bonusRound": {
+    "clue": "Term for a dye that holds its hue in fabric, or what you tell a preschooler when art time's almost over",
+    "choices": [
+      "dye hard",
+      "color fast",
+      "shade stable",
+      "hue tight"
+    ],
+    "correctIndex": 1,
+    "category": "DYE ANOTHER DAY"
+  }
+}

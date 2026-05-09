@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-15",
+  "categories": [
+    {
+      "name": "WRECKS",
+      "questions": [
+        {
+          "clue": "Mysteriously sunk in 1545, the Mary Rose was the pride of this Tudor king's fleet & was raised in 1982 using airbags",
+          "choices": [
+            "Edward VI",
+            "Henry VIII",
+            "James I",
+            "Richard III"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The 1813 death of Theodosia, this 3rd U.S. VP's daughter, is a mystery, but she probably died in a shipwreck",
+          "choices": [
+            "(John) Adams",
+            "(Thomas) Jefferson",
+            "(George) Clinton",
+            "(Aaron) Burr"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This British colony's other name, the Somers Islands, honors a man who was shipwrecked there in 1609",
+          "choices": [
+            "The Bahamas",
+            "Bermuda",
+            "The Cayman Islands",
+            "The Virgin Islands"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 1973 the wreck of this Civil War-era armored gunboat with a reptilian name was found off Cape Hatteras",
+          "choices": [
+            "the Merrimack",
+            "the Hunley",
+            "the CSS Virginia",
+            "the Monitor"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 2000 the Russian nuclear sub Kursk sank in this icy arm of the Arctic that's named for a Dutch navigator",
+          "choices": [
+            "the Kara Sea",
+            "the Chukchi Sea",
+            "the Barents Sea",
+            "the Bering Sea"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NATIONAL FLAGS",
+      "questions": [
+        {
+          "clue": "Canada's flag shows a maple leaf while this country's features a whole tree, a cedar",
+          "choices": [
+            "Brazil",
+            "Portugal",
+            "Lebanon",
+            "Guinea-Bissau"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The national flag of Sri Lanka features 4 bo leaves & a lion wielding one of these weapons",
+          "choices": [
+            "a sword",
+            "a trident",
+            "a spear",
+            "a dagger"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In 1964 this country incorporated the green-black-blue stripes of Zanzibar's flag on its national flag",
+          "choices": [
+            "Tanzania",
+            "Kenya",
+            "Somalia",
+            "Ethiopia"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The eagle that appears on Albania's flag has this unnatural distinction",
+          "choices": [
+            "it has three heads",
+            "it has one head",
+            "it has four heads",
+            "it has two heads"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Reflecting its commitment to national defense, Mozambique's flag bears this alphanumeric Soviet weapon",
+          "choices": [
+            "M16",
+            "AK-74",
+            "AK-47",
+            "AR-15"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TV LOCALES",
+      "questions": [
+        {
+          "clue": "Caramoan is the latest exotic Pacific setting for this CBS reality show",
+          "choices": [
+            "Survivor",
+            "The Amazing Race",
+            "Big Brother",
+            "Expedition Robinson"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Pretty little Rosewood, Pennsylvania is the home of the girls on this series",
+          "choices": [
+            "The Vampire Diaries",
+            "Gossip Girl",
+            "Pretty Little Liars",
+            "Teen Wolf"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Like \"Breaking Bad\", \"Better Call Saul\" is set primarily in this U.S. state",
+          "choices": [
+            "Arizona",
+            "California",
+            "New Mexico",
+            "Texas"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It's set in Mystic Falls, Virginia, home of werewolves & other creatures",
+          "choices": [
+            "The Vampire Diaries",
+            "The Originals",
+            "Teen Wolf",
+            "Supernatural"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Amidst odd happenings on this show, agent Dale Cooper ate delicious cherry pie at the Double R Diner",
+          "choices": [
+            "Twin Cities",
+            "Twin Peaks",
+            "Twin Flames",
+            "Twin Rivers"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This scientist was knighted in 1944 for his discovery of penicillin",
+    "choices": [
+      "(Alexander) Fleming",
+      "Ernest Chain",
+      "Howard Florey",
+      "Joseph Goldberger"
+    ],
+    "correctIndex": 0,
+    "category": "MY NAME IS ALEX"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-20",
+  "categories": [
+    {
+      "name": "LITERARY ANIMALS",
+      "questions": [
+        {
+          "clue": "Kind of fish who loses his battle with the old man in \"The Old Man and the Sea\"",
+          "choices": [
+            "a marlin",
+            "a tuna",
+            "a swordfish",
+            "a shark"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In Margery Sharp's \"The Rescuers\", Miss Bianca is this kind of animal",
+          "choices": [
+            "a rabbit",
+            "a hamster",
+            "a rat",
+            "a mouse"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "He killed Nag & Nagaina, 2 cobras in a bungalow in Segowlee",
+          "choices": [
+            "Rikki-Tikki-Tavi",
+            "Toto",
+            "Rikki",
+            "Kaa"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Napoleon's rival in \"Animal Farm\", his name is the same as a wintertime projectile",
+          "choices": [
+            "Snowball",
+            "Boxer",
+            "Squealer",
+            "Napoleon"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Among the characters in this Richard Adams work are Hazel, Fiver & Blackberry",
+          "choices": [
+            "The Wind in the Willows",
+            "The Rabbit of Seville",
+            "Watership Down",
+            "The Tale of Peter Rabbit"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FILMS OF THE '50s",
+      "questions": [
+        {
+          "clue": "He played Brick to ELizabeth Taylor's Maggie in \"Cat on a Hot Tin Roof\"",
+          "choices": [
+            "Marlon Brando",
+            "Burt Lancaster",
+            "Tony Curtis",
+            "Paul Newman"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "One of Humphrey Bogart's most powerful roles was Captain Queeg in this 1954 film",
+          "choices": [
+            "The Manchurian Candidate",
+            "Mister Roberts",
+            "On the Waterfront",
+            "The Caine Mutiny"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Gina Lollobrigida played the gypsy girl Esmeralda in a 1957 color version of this film",
+          "choices": [
+            "Les Mis\u00e9rables",
+            "The Hunchback of London",
+            "The Hunchback of Notre Dame",
+            "The Phantom of the Opera"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In it, Marlene Dietrich says Orson Welles \"was some kind of a man. What does it matter what you say about people?\"",
+          "choices": [
+            "The Third Man",
+            "Seduced and Abandoned",
+            "Touch of Evil",
+            "Vertigo"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In poetry these \"lead but to the grave\"; they're also the title of a Stanley Kubrick war film",
+          "choices": [
+            "Full Metal Jacket",
+            "Apocalypse Now",
+            "Paths of Glory",
+            "The Deer Hunter"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GREEN VEGGIES",
+      "questions": [
+        {
+          "clue": "Argenteuil, France is known for producing a white variety of this spear-shaped veggie by growing it underground",
+          "choices": [
+            "asparagus",
+            "celery",
+            "rhubarb",
+            "aspen"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "To make the chunky vegetable stew ratatouille, you'll need eggplant, tomatoes, bell peppers & this squash",
+          "choices": [
+            "yellow squash",
+            "zucchini",
+            "butternut squash",
+            "pumpkin"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The name of this green veggie cultivated in ancient Rome is from the Italian for \"cabbage sprout\"",
+          "choices": [
+            "cauliflower",
+            "brussels sprouts",
+            "bok choy",
+            "broccoli"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This vegetable is also called the cabbage turnip, & its name includes the German word for cabbage",
+          "choices": [
+            "rutabaga",
+            "kohlraben",
+            "cabbage",
+            "kohlrabi"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Nearly 100% of the USA's production of this thistle is grown in Central California & much of that is the green globe variety",
+          "choices": [
+            "an artichoke",
+            "globe artichoke",
+            "cardoon",
+            "artichoke heart"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Though its name means \"new bridge\", it's the oldest existing bridge across the Seine",
+    "choices": [
+      "Pont au Change",
+      "Pont de l'Alma",
+      "Pont Neuf",
+      "Pont des Arts"
+    ],
+    "correctIndex": 2,
+    "category": "BRIDGES"
+  }
+}

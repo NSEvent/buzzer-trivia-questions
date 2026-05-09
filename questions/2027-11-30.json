@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-30",
+  "categories": [
+    {
+      "name": "THE SOUTH",
+      "questions": [
+        {
+          "clue": "This country music show has an \"official candy bar\", the Goo Goo Cluster",
+          "choices": [
+            "Country Music Hall of Fame",
+            "Grand Ole Opry",
+            "Ryman Auditorium",
+            "Grand Texas Opry"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "It's Alabama's oldest city & its only seaport",
+          "choices": [
+            "Birmingham",
+            "Montgomery",
+            "Mobile",
+            "Huntsville"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 78 years Pat Peacock is the only woman to win the Arkansas contest for calling this other bird",
+          "choices": [
+            "a goose",
+            "a swan",
+            "a duck",
+            "a heron"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It's Virginia's state flower & its state tree; we assume its bark is worse than its bite",
+          "choices": [
+            "the magnolia",
+            "the redbud",
+            "the azalea",
+            "the dogwood"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This state's largest lake, Lake Sidney Lanier, is named for a poet & native son",
+          "choices": [
+            "Florida",
+            "Georgia",
+            "Alabama",
+            "Tennessee"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MEDIEVAL PEOPLE",
+      "questions": [
+        {
+          "clue": "Roger II, king of this large island off Italy, was one of the 12th century's intellectual dynamos",
+          "choices": [
+            "Sardinia",
+            "Corsica",
+            "Malta",
+            "Sicily"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Known as Friar Roger, this English scientist & philosopher foresaw the airplane",
+          "choices": [
+            "Roger Bacon",
+            "William of Ockham",
+            "Thomas Aquinas",
+            "Albertus Magnus"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Margery Kempe's \"Book Of Margery Kempe\" is one of the first examples of this genre in English",
+          "choices": [
+            "a memoir",
+            "a biography",
+            "an autobiography",
+            "a diary"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Andrei Rublev was Russia's greatest painter of these, meaning \"images\"",
+          "choices": [
+            "murals",
+            "statues",
+            "mosaics",
+            "icons"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Author of the \"Summa Theologica\", he held one of the chairs of theology at the Univ. of Paris",
+          "choices": [
+            "St. Augustine",
+            "St. Thomas Aquinas",
+            "St. Bonaventure",
+            "St. Bernard"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"BLACK\" OR \"WHITE\"",
+      "questions": [
+        {
+          "clue": "This \"Golden Girl\" had her own show in 1958 & 1977 & in 1999 became part of the cast of \"Ladies Man\"",
+          "choices": [
+            "Betty White",
+            "Lucille Ball",
+            "Bea Arthur",
+            "Rue McClanahan"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It's another name for a pirate's Jolly Roger",
+          "choices": [
+            "a red flag",
+            "a black flag",
+            "a white flag",
+            "a striped flag"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "U.S. ski trails marked with this symbol are considered difficult; double or triple markings are for experts only",
+          "choices": [
+            "a black diamond",
+            "a blue square",
+            "a red triangle",
+            "a green circle"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Famous landmark composed of chalk in the county of Kent in England",
+          "choices": [
+            "the White Cliffs of Dover",
+            "the White Cliffs of Calais",
+            "the Green Hills of Kent",
+            "the Red Rocks of Sussex"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Giddyup on over to this capital of Canada's Yukon Territory",
+          "choices": [
+            "Whitehorse",
+            "Blackfoot",
+            "Red River",
+            "Blue Mountains"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "1940: \"For anyone who has ever wished upon a star\"",
+    "choices": [
+      "Bambi",
+      "The Lion King",
+      "Cinderella",
+      "Pinocchio"
+    ],
+    "correctIndex": 3,
+    "category": "MOVIE TAGLINES"
+  }
+}

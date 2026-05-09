@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-22",
+  "categories": [
+    {
+      "name": "FIGURES OF SPEECH",
+      "questions": [
+        {
+          "clue": "It's what Ferris Bueller \"breaks\" when he asks the camera, \"How could I possibly be expected to handle school on a day like this?\"",
+          "choices": [
+            "the fourth wall",
+            "a breaking point",
+            "the big screen",
+            "a glass ceiling"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It's a combination of 2 contradictory terms used together, like \"sweet sorrow\"",
+          "choices": [
+            "oxymoron",
+            "juxtaposition",
+            "paradox",
+            "antithesis"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "2/5 of a ton appears in this phrase for a company powerful enough to dominate an industry; meeting one in Africa is no picnic either",
+          "choices": [
+            "an 800-pound gorilla",
+            "a 900-pound elephant",
+            "a 1000-pound gorilla",
+            "an 800-pound cat"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "From Greek \"to throw beyond\", an extravagant statement like \"the Emmy telecast was 3 years long\"",
+          "choices": [
+            "exaggeration",
+            "hyperbole",
+            "amplification",
+            "understatement"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"Custody presumes ownership\" is a rough translation of this fractional idiom, though it's bad legal advice any way you say it",
+          "choices": [
+            "possession is eight-tenths of the rule",
+            "possession is nine-tenths of the law",
+            "possession is nine-tenths of the truth",
+            "possession is nine-tenths of the act"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GOVERNORS",
+      "questions": [
+        {
+          "clue": "In 1886 Robert Love Taylor defeated his brother Alfred to become governor of this \"Volunteer State\"",
+          "choices": [
+            "Kentucky",
+            "North Carolina",
+            "Virginia",
+            "Tennessee"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1861 Abraham Lincoln chose this former Ohio governor to be his Secretary of the Treasury",
+          "choices": [
+            "Thurman",
+            "Chase",
+            "Cox",
+            "McKinley"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This recent Florida governor was born in Midland, Texas",
+          "choices": [
+            "Rick Scott",
+            "Ron DeSantis",
+            "Charlie Crist",
+            "Jeb Bush"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1994 Angus King ran as an independent & won the governorship of this state, defeating Susan Collins",
+          "choices": [
+            "New Hampshire",
+            "Maine",
+            "Vermont",
+            "New York"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Michael Dukakis was in his third term as governor of this state when he ran for president in 1988",
+          "choices": [
+            "Virginia",
+            "Pennsylvania",
+            "New Jersey",
+            "Massachusetts"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SILVER & GOLD",
+      "questions": [
+        {
+          "clue": "In 2010 German Winter Olympian David Moeller injured himself doing this to his silver medal",
+          "choices": [
+            "biting it",
+            "licking it",
+            "dropping it",
+            "losing it"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Michael Phelps first gold medal of his record 23 was at the 2004 Games in this city",
+          "choices": [
+            "Sydney",
+            "Athens",
+            "Atlanta",
+            "Barcelona"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Gold is virtually indestructible, yet has this moldable quality, from the Latin for \"to hammer\"",
+          "choices": [
+            "ductility",
+            "plasticity",
+            "fusibility",
+            "malleability"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Silver is valuable due to its brilliance, scarcity & resistance to this process, meaning it won't rust",
+          "choices": [
+            "corrosion",
+            "oxidation",
+            "tarnish",
+            "discoloration"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "At the first Olympics in 1896, winners received a silver medal & this natural symbol of peace",
+          "choices": [
+            "a laurel wreath",
+            "a palm frond",
+            "a white flag",
+            "an olive branch"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Umber's been retired; the 2 \"burnt\" colors are orange & this",
+    "choices": [
+      "ochre",
+      "sienna",
+      "umber",
+      "cinnamon"
+    ],
+    "correctIndex": 1,
+    "category": "CRAYOLA COLORS"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-26",
+  "categories": [
+    {
+      "name": "HAIRSTYLES",
+      "questions": [
+        {
+          "clue": "The name of this puffed-out hairstyle is from the French for \"swell\"",
+          "choices": [
+            "bouffant",
+            "pompadour",
+            "quiff",
+            "mohawk"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "With Miss Spector in the middle, this 1960s musical group brought in a trend of giant beehives",
+          "choices": [
+            "The Shangri-Las",
+            "The Crystals",
+            "The Ronettes",
+            "The Chiffons"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1979 Bo Derek was a perfect \"10\" with this braided hairstyle",
+          "choices": [
+            "cornbreads",
+            "box braids",
+            "cornrows",
+            "twist-outs"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "For black women natural hair cropped short is known as a TWA, short for teeny-weeny this",
+          "choices": [
+            "an afro",
+            "an afropick",
+            "an afrobeat",
+            "an afrodisiac"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In China it was once popular for men to shave their front hair & comb the back hair into this long braid",
+          "choices": [
+            "Topknot",
+            "Mogul",
+            "Pigtail",
+            "Queue"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FACTS & FIGURES",
+      "questions": [
+        {
+          "clue": "90% of the world's ice, accounting for 70% of the world's fresh water, is found on this continent",
+          "choices": [
+            "Antarctica",
+            "Arctic",
+            "Greenland",
+            "Siberia"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "With 50% more passengers than Frankfurt's, it's the busiest foreign airport",
+          "choices": [
+            "JFK",
+            "Heathrow",
+            "Charles de Gaulle",
+            "Changi"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "It remains on the average, the most expensive state in which to buy a house",
+          "choices": [
+            "Hawaii",
+            "New York",
+            "California",
+            "Massachusetts"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "With 37, including 16 gold, this European country won the most medals at the Beijing Winter Olympics",
+          "choices": [
+            "Germany",
+            "Norway",
+            "Canada",
+            "Netherlands"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Cave-dwelling creatures have slow metabolisms; a troglobite type of this \"fish\", really a crustacean, can live 175 years",
+          "choices": [
+            "a crayfish",
+            "a crab",
+            "a lobster",
+            "a shrimp"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE HUSBAND MARRIED",
+      "questions": [
+        {
+          "clue": "Jacqueline Witte & Joanne Woodward",
+          "choices": [
+            "Steve McQueen",
+            "Paul Newman",
+            "Robert Redford",
+            "Warren Beatty"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Josephine Dillon, Ria Langham, Carole Lombard, Lady Sylvia Ashley & Kay Spreckels",
+          "choices": [
+            "Clark Gable",
+            "Humphrey Bogart",
+            "Gary Cooper",
+            "Cary Grant"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Marjorie Thomas, Lilli Palmer, Kay Kendall, Rachel Roberts, Richard Harris' ex-wife Elizabeth & Mercia Tinker",
+          "choices": [
+            "Laurence Olivier",
+            "Rex Harrison",
+            "John Gielgud",
+            "Richard Burton"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "His 3rd, 4th & \"5th\" wives were Fulvia, Octavia & Cleopatra",
+          "choices": [
+            "(Marc) Antony",
+            "Julius Caesar",
+            "Mark Antony",
+            "Pompey"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Mary Todhunter Clark & Margaretta \"Happy\" Murphy",
+          "choices": [
+            "Nelson Rockefeller",
+            "John D. Rockefeller",
+            "Winthrop Rockefeller",
+            "Laurance Rockefeller"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Charlton Heston played a survivor of an apocalyptic war in this 1971 thriller",
+    "choices": [
+      "Omega Man",
+      "Logan's Run",
+      "Planet of the Apes",
+      "2001: A Space Odyssey"
+    ],
+    "correctIndex": 0,
+    "category": "GREEK ALPHABET SOUP"
+  }
+}

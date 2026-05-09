@@ -1,0 +1,207 @@
+{
+  "date": "2028-02-12",
+  "categories": [
+    {
+      "name": "CHARACTERS IN MUSICALS",
+      "questions": [
+        {
+          "clue": "Patrick Dennis",
+          "choices": [
+            "Hello, Dolly!",
+            "Auntie Mame",
+            "Gypsy",
+            "Mame"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Joe Hardy, Applegate, Lola",
+          "choices": [
+            "The Music Man",
+            "Oklahoma!",
+            "South Pacific",
+            "Damn Yankees"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Fraulein Schneider, Herr Schultz, Kit Kat Club kittens",
+          "choices": [
+            "Chicago",
+            "The Threepenny Opera",
+            "Cabaret",
+            "West Side Story"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Chief Commissar, President of the Politburo, French Comrades, Ninotchka",
+          "choices": [
+            "An American in Paris",
+            "The Red Shoes",
+            "Funny Face",
+            "Silk Stockings"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "There should be an \"ABBA\"-dabba honeymoon for Sophie, the bride-to-be in this musical full of ABBA songs",
+          "choices": [
+            "Les Mis\u00e9rables",
+            "Mamma Mia!",
+            "The Phantom of the Opera",
+            "Cats"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BIG RIVER",
+      "questions": [
+        {
+          "clue": "In the \"Odyssey\", it's called the Aegyptus",
+          "choices": [
+            "the Danube",
+            "the Amazon",
+            "the Nile",
+            "the Rhine"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In one theory, the name of this Pennsylvania river comes from Suckahanee, \"water\"",
+          "choices": [
+            "the Delaware",
+            "the Schuylkill",
+            "Susquehanna",
+            "the Hudson"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A real Crimea river, the Chernaya, runs just east of this city that was besieged in 1854 & 1855",
+          "choices": [
+            "Simferopol",
+            "Sevastopol",
+            "Yalta",
+            "Kerch"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The Yenisei River, one of Russia's biggest, is home to the Siberian species of this big fish",
+          "choices": [
+            "sturgeon",
+            "salmon",
+            "catfish",
+            "pike"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The name of this great river comes from words meaning \"place to paddle\" in the language of the Warao of Venezuela",
+          "choices": [
+            "the Amazon",
+            "the Paraguay",
+            "the Orinoco",
+            "the Magdalena"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HAWAII",
+      "questions": [
+        {
+          "clue": "The Big Island's Kona Coast is known for its farms which produce the Kona type of this",
+          "choices": [
+            "coffee",
+            "pineapple",
+            "macadamia nuts",
+            "vanilla"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Waialeale Peak on this island, \"The Garden Isle\", is the world's wettest spot",
+          "choices": [
+            "Maui",
+            "Kauai",
+            "Oahu",
+            "Molokai"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "(Vanna White reports from a helicopter.) (I'm on location with Wheel in Hawaii...) ...And flying over this, the world's largest active volcanic mass & the centerpiece of Hawaii Volcanoes National Park",
+          "choices": [
+            "Mauna Loa",
+            "Halemaumau",
+            "Pele",
+            "Kilauea"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1778 Captain James Cook landed at Waimea Bay & named the islands for his sponsor, this earl",
+          "choices": [
+            "the Earl of Cornwall",
+            "the Duke of Edinburgh",
+            "the Marquis of Bath",
+            "the Earl of Sandwich"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "(Sofia of the Clue Crew on the island of Kauai) Hawaiian agriculture was transformed when this man took his 1899 Harvard degree & headed for the islands",
+          "choices": [
+            "Lorrin Andrews",
+            "Asa Thurston",
+            "James Dole",
+            "William Little Lee"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Grim reaper-y agricultural implement",
+    "choices": [
+      "a sickle",
+      "a scythe",
+      "a pitchfork",
+      "a scissor"
+    ],
+    "correctIndex": 1,
+    "category": "\"THE\" END"
+  },
+  "bonusRound": {
+    "clue": "The \"Angel of Rome\", Alessandro Moreschi, who died in 1922, was the last of these singers, many \"sold\" by poor parents",
+    "choices": [
+      "castrati",
+      "tenors",
+      "countertenors",
+      "eunuchs"
+    ],
+    "correctIndex": 0,
+    "category": "HISTORIC LASTS"
+  }
+}

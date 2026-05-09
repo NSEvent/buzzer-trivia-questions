@@ -1,0 +1,207 @@
+{
+  "date": "2027-07-24",
+  "categories": [
+    {
+      "name": "INCREDIBLE EDIBLES",
+      "questions": [
+        {
+          "clue": "Some people really do eat this rodent, but we assume they remove the quills first",
+          "choices": [
+            "porcupine",
+            "hedgehog",
+            "porpoise",
+            "armadillo"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Tho a delicacy in Japan, the fugu, which is 1 of these, contains a paralyzing poison",
+          "choices": [
+            "shrimp",
+            "fish",
+            "lobster",
+            "eel"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Eek! We found a recipe for gumbo that calls for the diamondback type of this \"noisy\" snake",
+          "choices": [
+            "cobras",
+            "vipers",
+            "boas",
+            "rattlesnake"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Warning: if you see tete de veau on a French menu, it's this part of a calf",
+          "choices": [
+            "the tail",
+            "the hooves",
+            "the brain",
+            "the head"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The World Ency. of Food says that the orb-weaving type of this arachnid is sometimes eaten in Thailand",
+          "choices": [
+            "scorpion",
+            "centipede",
+            "beetle",
+            "spider"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "U.S. PRESIDENTS",
+      "questions": [
+        {
+          "clue": "In 1989 this president dispatched troops to help clean up the Exxon Valdez oil spill",
+          "choices": [
+            "Ronald Reagan",
+            "Bill Clinton",
+            "Jimmy Carter",
+            "George Bush"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "On May 4, 1941 FDR dedicated the Staunton, Va. birthplace of this president known for his \"Fourteen Points\"",
+          "choices": [
+            "Thomas Jefferson",
+            "James Madison",
+            "John Quincy Adams",
+            "Woodrow Wilson"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Though generally \"silent\", he was chosen to give the humorous speech at his college graduation",
+          "choices": [
+            "Coolidge",
+            "Harding",
+            "Taft",
+            "Hoover"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Upon his death in 1849, his last words were, \"I love you Sarah, for all eternity, I love you\"",
+          "choices": [
+            "John Tyler",
+            "James K. Polk",
+            "Zachary Taylor",
+            "Millard Fillmore"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "After serving one term, this first Quaker president was defeated for re-election in 1932 by FDR",
+          "choices": [
+            "Warren G. Harding",
+            "(Herbert) Hoover",
+            "Calvin Coolidge",
+            "Franklin Pierce"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NATIONAL FLAGS",
+      "questions": [
+        {
+          "clue": "This mythical creature decorates Bhutan's saffron-colored flag",
+          "choices": [
+            "a tiger",
+            "a dragon",
+            "a phoenix",
+            "a griffin"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Adopted in 1847 this African country's flag may look familiar",
+          "choices": [
+            "Sierra Leone",
+            "Ethiopia",
+            "Liberia",
+            "Ghana"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Flags depicting a map of the nation itself include this Balkan country that broke away from Serbia in 2008",
+          "choices": [
+            "Serbia",
+            "Kosovo",
+            "Montenegro",
+            "Bosnia"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Reminding us that he is a co-prince of the country, the staff & hat of the Bishop of Urgel grace this tiny country's flag",
+          "choices": [
+            "Andorra",
+            "Liechtenstein",
+            "San Marino",
+            "Monaco"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A symbol of liberation and national defense, it's the modern weapon on the flag of Mozambique",
+          "choices": [
+            "a sword",
+            "an AK-47",
+            "a rifle",
+            "a machete"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"I was born in a crossfire hurricane\"",
+    "choices": [
+      "\"Jumpin' Jack Flash\"",
+      "(I Can't Get No) Satisfaction",
+      "Paint It Black",
+      "Sympathy for the Devil"
+    ],
+    "correctIndex": 0,
+    "category": "ROLLING STONES SONGS"
+  },
+  "bonusRound": {
+    "clue": "This 3-letter disease of tropical fishes sounds really yucky",
+    "choices": [
+      "flu",
+      "cold",
+      "ich",
+      "fever"
+    ],
+    "correctIndex": 2,
+    "category": "\"I\" OPENERS"
+  }
+}

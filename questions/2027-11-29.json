@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-29",
+  "categories": [
+    {
+      "name": "YOU GET A \"C\"",
+      "questions": [
+        {
+          "clue": "This adjective relates to the brain or describes someone with great intellect like you right now, hopefully",
+          "choices": [
+            "cognitive",
+            "cerebral",
+            "cerebellar",
+            "cerebrospinal"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "An official in a town who made public announcements",
+          "choices": [
+            "a town clerk",
+            "a town crier",
+            "a city mayor",
+            "a town council"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "They're 2 alternate ways you can serve multiple prison sentences; one will get you out much sooner than the other",
+          "choices": [
+            "cumulative & parallel",
+            "consecutive & continuous",
+            "concurrent & consecutive",
+            "concurrent & contiguous"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This adjective for the married state often precedes \"bliss\"",
+          "choices": [
+            "conjugal",
+            "conjugial",
+            "conjugate",
+            "cohabitational"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This Brazilian martial art incorporates elements of dance & music",
+          "choices": [
+            "capoeira",
+            "samba",
+            "forro",
+            "lundu"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BLUE BOOKS",
+      "questions": [
+        {
+          "clue": "In \"The Blue and the Gray\" by John Leekley, the Geysers & the Hales are caught up in this war",
+          "choices": [
+            "the U.S. Civil War",
+            "the War of 1812",
+            "the American Revolution",
+            "the Mexican-American War"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Appropriately, James Patterson followed up \"Roses are Red\" with this next Alex Cross mystery",
+          "choices": [
+            "Violets are Blue",
+            "Cats are Black",
+            "Dogs are Brown",
+            "Lilies are White"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The graphic novel \"Blue is the Warmest Color\" was originally published in this language",
+          "choices": [
+            "French",
+            "Spanish",
+            "German",
+            "Italian"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In a classic children's book, a girl lives for years by herself on this title island",
+          "choices": [
+            "Island of the Blue Dolphins",
+            "Swiss Family Robinson",
+            "Treasure Island",
+            "The Secret Garden"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In \"Pale Blue Dot\" this late astronomer talks about humans in space",
+          "choices": [
+            "Stephen Hawking",
+            "Carl Sagan",
+            "Neil deGrasse Tyson",
+            "Galileo Galilei"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"AA\"",
+      "questions": [
+        {
+          "clue": "A conspiracy led by this former V.P. aimed to set up an independent nation in the Mississippi Valley",
+          "choices": [
+            "Aaron Burr",
+            "Thomas Jefferson",
+            "Alexander Hamilton",
+            "John Adams"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The Biblical name for the area of Palestine",
+          "choices": [
+            "Mesopotamia",
+            "Egypt",
+            "Jerusalem",
+            "Canaan"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This Scandinavian auto company started out in 1937 as a national aircraft manufacturer",
+          "choices": [
+            "Saab",
+            "Volvo",
+            "Koenigsegg",
+            "Spyker"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Last name of acting siblings Maggie & Jake",
+          "choices": [
+            "Gyllenhaal",
+            "Butterfield",
+            "Johansson",
+            "Olsen"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Arabic for \"renaissance\", this political party carries a lot of water in the Middle East",
+          "choices": [
+            "the Baath Party",
+            "the Nasserist Movement",
+            "the Arab Socialists' Ba'ath Party",
+            "the Iraqi Communist Party"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The prehistoric \"man\" named for this English place turned out to be part modern corpse & part ape",
+    "choices": [
+      "Taung Child",
+      "Java Man",
+      "Piltdown Man",
+      "Neanderthal Man"
+    ],
+    "correctIndex": 2,
+    "category": "SHOCKING!"
+  }
+}

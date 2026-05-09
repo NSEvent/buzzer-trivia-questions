@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-30",
+  "categories": [
+    {
+      "name": "THAT'S GOTTA HURT",
+      "questions": [
+        {
+          "clue": "It can mean to put metal restraints on a person, or to strike him",
+          "choices": [
+            "shackle",
+            "bracelet",
+            "chain",
+            "cuff"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "15th century ruler Vlad earned a nickname by being partial to this method of execution",
+          "choices": [
+            "beheading",
+            "hanging",
+            "impaling",
+            "decapitation"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This action of damaging a leg bone became a favorite tactic in political violence in Northern Ireland",
+          "choices": [
+            "shattering a skull",
+            "dislocating a shoulder",
+            "breaking a kneecap (kneecapping)",
+            "punching a rib"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "2-word aeronautic term for the wrestling move of lifting an opponent, whirling & throwing him",
+          "choices": [
+            "helicopter lift",
+            "jet propeller",
+            "glider toss",
+            "airplane spin"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This practice that causes searing pain, once used on Army deserters, is now limited to livestock",
+          "choices": [
+            "tattooing",
+            "scarring",
+            "branding",
+            "marking"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SONNETS",
+      "questions": [
+        {
+          "clue": "The rules of sonnet writing were developed in this country by such poets as Guittone D'Arezzo",
+          "choices": [
+            "France",
+            "Spain",
+            "Greece",
+            "Italy"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Named for a lovesick poet-scholar, this type of sonnet is also known as an Italian sonnet",
+          "choices": [
+            "a Petrarchan sonnet",
+            "a Shakespearean sonnet",
+            "a Spenserian sonnet",
+            "a Wyatt sonnet"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "He was a Romantic poet, a Lake Poet, a Poet Laureate & the poet who penned the \"Ecclesiastical Sonnets\"",
+          "choices": [
+            "Samuel Taylor Coleridge",
+            "Percy Bysshe Shelley",
+            "Lord Byron",
+            "William Wordsworth"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Irish poet & playwright who wrote the 1928 sonnet \"Leda And The Swan\"",
+          "choices": [
+            "William Butler Yeats",
+            "Ezra Pound",
+            "T.S. Eliot",
+            "W.B. Yeats"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It's uncertain whether his \"On His Blindness\" referred to his physical affliction or doubts about his poetic talent",
+          "choices": [
+            "(John) Milton",
+            "George Herbert",
+            "Andrew Marvell",
+            "John Donne"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COUNTRY SINGERS",
+      "questions": [
+        {
+          "clue": "Randy Traywick is the real name of this man who was a singer & a short order cook at the Nashville Palace",
+          "choices": [
+            "Randy Travis",
+            "Dwight Yoakam",
+            "Tim McGraw",
+            "Keith Whitley"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Don't break his heart, his achy breaky heart: buy his new album \"Trail of Tears\"",
+          "choices": [
+            "Billy Ray Cyrus",
+            "Shania Twain",
+            "Garth Brooks",
+            "Faith Hill"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Crystal Bernard, who plays Helen on this sitcom, released her first country CD, \"The Girl Next Door\", in 1996",
+          "choices": [
+            "Beaches",
+            "Mulaney",
+            "Blossom",
+            "Wings"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Dwight Yoakam played a despicable dirtbag named Doyle in this Billy Bob Thornton film",
+          "choices": [
+            "Shakespeare in Love",
+            "Sling Blade",
+            "Lone Star",
+            "As Good as It Gets"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "INXS' Michael Hutchence",
+          "choices": [
+            "Australia",
+            "New Zealand",
+            "Canada",
+            "United Kingdom"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "(Sarah of the Clue Crew presents.) I'm at this international speedway, where the race often called the Super Bowl of NASCAR is held each February",
+    "choices": [
+      "Charlotte",
+      "Talladega",
+      "Daytona",
+      "Atlanta"
+    ],
+    "correctIndex": 2,
+    "category": "WHERE ARE WE?"
+  }
+}

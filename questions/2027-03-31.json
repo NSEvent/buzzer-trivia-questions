@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-31",
+  "categories": [
+    {
+      "name": "AMERICAN MUSIC",
+      "questions": [
+        {
+          "clue": "Reportedly, J. Bland wrote \"Carry Me Back to Old Virginny\" one sleepless night while plucking on this",
+          "choices": [
+            "banjo",
+            "mandolin",
+            "guitar",
+            "ukulele"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Composer of \"Alexander's Ragtime Band\", he said it was a song about ragtime not a ragtime song",
+          "choices": [
+            "George Gershwin",
+            "Irving Berlin",
+            "Cole Porter",
+            "Jerome Kern"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A. Copland won an Oscar for scoring this film in which Olivia De Havilland is jilted by Montgomery Clift",
+          "choices": [
+            "\"The Mirror Has Two Faces\"",
+            "\"The Notebook\"",
+            "\"The Heiress\"",
+            "\"Pride and Prejudice\""
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This George & Ira Gershwin political play was the first musical to win a Pulitzer",
+          "choices": [
+            "Porgy and Bess",
+            "Strike Up the Band",
+            "Of Thee I Sing",
+            "Let 'Em Eat Cake"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "While an English professor at Wellesley, Katherine L. Bates wrote the words for this patriotic song",
+          "choices": [
+            "\"America the Beautiful\"",
+            "\"The Star-Spangled Banner\"",
+            "\"God Bless America\"",
+            "\"My Country, 'Tis of Thee\""
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "OH \"MI\"",
+      "questions": [
+        {
+          "clue": "Math sign that looks like a hyphen",
+          "choices": [
+            "Plus sign",
+            "Minus sign",
+            "Equal sign",
+            "Less-than sign"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "It's a ship equipped to detect & destroy enemy explosives",
+          "choices": [
+            "a destroyer",
+            "a minesweeper",
+            "a submarine",
+            "a frigate"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A sticky situation, or an area of wet, soggy ground",
+          "choices": [
+            "mire",
+            "quicksand",
+            "swamp",
+            "bog"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This \"box\" with slotted sides enables a carpenter to make perfect crosscuts",
+          "choices": [
+            "a mitre box",
+            "the clamp box",
+            "the square box",
+            "the joiner box"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "2 Samuel 1:25 proclaims \"How\" have they \"fallen in the midst of the battle!\"",
+          "choices": [
+            "The mighty",
+            "The brave",
+            "The fallen",
+            "The strong"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DICTIONARY DEFINITIONS",
+      "questions": [
+        {
+          "clue": "Monarch, a word for a king or queen, is also slang for this old British coin meaning a monarch",
+          "choices": [
+            "a crown",
+            "a scepter",
+            "a sovereign",
+            "a diadem"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "7-letter word for a precociously talented child",
+          "choices": [
+            "a genius",
+            "a talent",
+            "a wonder",
+            "a prodigy"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Differentiating vowel sounds, this double-dot diacritic is big in German",
+          "choices": [
+            "umlaut",
+            "dieresis",
+            "diaeresis",
+            "tremolo"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It is \"a quarrel or squabble\" as well as a plant of the buckwheat family \"used in making pies\"",
+          "choices": [
+            "a rhododendron",
+            "a rhubarb",
+            "a radish",
+            "a rhubarb leaf"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Diacritical mark used to represent vowel sounds like the A in ago",
+          "choices": [
+            "a cedilla",
+            "a schwa",
+            "a grave",
+            "a tilde"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In the Middle East: Manama",
+    "choices": [
+      "Bahrain",
+      "Qatar",
+      "Kuwait",
+      "Oman"
+    ],
+    "correctIndex": 0,
+    "category": "COUNTRIES BY CAPITAL"
+  }
+}

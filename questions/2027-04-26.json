@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-26",
+  "categories": [
+    {
+      "name": "BRAND \"O\"",
+      "questions": [
+        {
+          "clue": "This brand of insect repellents includes Active & Deep Woods lines",
+          "choices": [
+            "Raid",
+            "Ortho",
+            "Sawyer",
+            "Off!"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A line of beauty products once was called \"Oil of\" this; now it's just this",
+          "choices": [
+            "Neutrogena",
+            "Olay",
+            "Shiseido",
+            "Clarins"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Heinz owns this line of frozen potato products",
+          "choices": [
+            "Le Sueur",
+            "McCain",
+            "Green Giant",
+            "Ore-Ida"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This blender came on the market in 1946",
+          "choices": [
+            "Magic Bullet",
+            "Oster",
+            "KitchenAid",
+            "Ninja"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This brand's catchy \"Wiener Jingle\", still used today, was written in 1963",
+          "choices": [
+            "Hot Pockets",
+            "Boar's Head",
+            "Oscar Mayer",
+            "Applegate Farms"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FOLLOW THE LEADER",
+      "questions": [
+        {
+          "clue": "As Israeli prime minister: David Ben-Gurion, Levi Eshkol, her",
+          "choices": [
+            "Menachem Begin",
+            "Golda Meir",
+            "Natan Sharansky",
+            "Ehud Barak"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew reports from Preservation Hall in New Orleans.) The person playing this instrument is generally the leader of a traditional New Orleans jazz band",
+          "choices": [
+            "saxophone",
+            "trombone",
+            "trumpet",
+            "clarinet"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In Monaco: Louis II, Rainer III, him",
+          "choices": [
+            "Albert II",
+            "Hermann",
+            "Grace Kelly",
+            "Stefan II"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In northern Europe, Goran Persson leads as the prime minister of this nation",
+          "choices": [
+            "Sweden",
+            "Norway",
+            "Denmark",
+            "Finland"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A former foreign minister, Fernando Cardoso became president of this large South American country in 1995",
+          "choices": [
+            "Argentina",
+            "Colombia",
+            "Brazil",
+            "Chile"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "STARTS WITH \"V\"",
+      "questions": [
+        {
+          "clue": "Anatomy students can tell you this is the plural of \"viscus\"",
+          "choices": [
+            "ventricles",
+            "valves",
+            "vascular",
+            "viscera"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "More than a baron, but less than an earl",
+          "choices": [
+            "Viscount",
+            "Viceroy",
+            "Visor",
+            "Vicar"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A short subtitle, literary description or story",
+          "choices": [
+            "a verse",
+            "a vigna",
+            "a vortex",
+            "a vignette"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Tradition says after she wiped the face of Jesus, he left his imprint on her veil",
+          "choices": [
+            "Venus",
+            "Veritas",
+            "Veronica",
+            "Valeria"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Expressed as a number, it's the capacity of an atom to combine with other atoms",
+          "choices": [
+            "the volume",
+            "the value",
+            "the velocity",
+            "the valence"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Distantly related to Princess Di, this star of \"Dynasty\" played her in a TV movie",
+    "choices": [
+      "Catherine Zeta-Jones",
+      "Christine Taylor",
+      "Catherine Oxenberg",
+      "Claire Danes"
+    ],
+    "correctIndex": 2,
+    "category": "PRINCESS DI"
+  }
+}

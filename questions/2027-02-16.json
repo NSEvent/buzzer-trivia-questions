@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-16",
+  "categories": [
+    {
+      "name": "WHAT TO WEAR",
+      "questions": [
+        {
+          "clue": "Eddie Bauer & The Gap offer the flared-below-the-knee jeans called this \"cut\", from what they fit over",
+          "choices": [
+            "skinny",
+            "straight-leg",
+            "flared",
+            "boot-cut"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This long loose Turkish dress that can start with a \"C\" or a \"K\"",
+          "choices": [
+            "a caftan",
+            "a kaftan",
+            "a kimono",
+            "a poncho"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The song \"Surfin' U.S.A.\" mentions these sandals with a Mexican Spanish name",
+          "choices": [
+            "sandas",
+            "chancles",
+            "ojotas",
+            "huaraches"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 2002 John Gotti was buried in a pinstripe suit of this characteristic closing type",
+          "choices": [
+            "double-breasted",
+            "single-breasted",
+            "double-knitted",
+            "triple-layered"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A sweater with this type of collar named for another garment",
+          "choices": [
+            "a polo",
+            "a turtleneck",
+            "a shawl",
+            "a peter pan"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COURT TV",
+      "questions": [
+        {
+          "clue": "A petition for certiorari asks that an appellate court, usually this high one, review a case's record",
+          "choices": [
+            "Circuit Court",
+            "District Court",
+            "Supreme Court",
+            "Appellate Court"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "(Hi, I'm Alan Dershowitz, the host of Court TV's \"Both Sides\".) You could say I wrote the book on the Von Bulow case...this book",
+          "choices": [
+            "\"Reversal of Fortune\"",
+            "The Innocence Project",
+            "Reasonable Doubt",
+            "The Verdict"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "From words meaning \"to\" & \"day\", it means to suspend a court session until another day",
+          "choices": [
+            "recess",
+            "prorogue",
+            "adjourn",
+            "adjournment"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In March 2000 F. Lee Bailey hosted a Court TV marathon of TV movies about this Erle Stanley Gardner lawyer",
+          "choices": [
+            "Felix Leiter",
+            "Perry Mason",
+            "Lew Archer",
+            "Philip Marlowe"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Norman Dacey wrote a bestseller on \"How to Avoid\" this court examination of a will",
+          "choices": [
+            "litigation",
+            "probate",
+            "mediation",
+            "arbitration"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FICTIONAL LANGUAGES",
+      "questions": [
+        {
+          "clue": "Linguist Marc Okrand created this language spoken by Worf (among others) on television",
+          "choices": [
+            "Elvish",
+            "Nepali",
+            "Klingon",
+            "Tibetan"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "You can be like Daenerys & actually learn about 4,000 words of this language of Khal Drogo",
+          "choices": [
+            "Dothraki",
+            "Valyrian",
+            "High Valyrian",
+            "Dothraki slang"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Harry Potter acquired the ability to speak this language of snakes from Voldemort",
+          "choices": [
+            "Dragonese",
+            "Serpentica",
+            "Snakish",
+            "Parseltongue"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Gobblefunk, used by a Big Friendly Giant",
+          "choices": [
+            "J.K. Rowling",
+            "Lewis Carroll",
+            "Roald Dahl",
+            "C.S. Lewis"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Nadsat, spoken by Droogs",
+          "choices": [
+            "George Orwell",
+            "Aldous Huxley",
+            "Stanislaw Lem",
+            "Anthony Burgess"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"When I kissed the cop\" on this corner, \"he broke my little bottle of Love Potion Number 9\"",
+    "choices": [
+      "53rd & Park",
+      "34th & Vine",
+      "42nd & Broadway",
+      "33rd & Vine"
+    ],
+    "correctIndex": 1,
+    "category": "STREET SONGS"
+  }
+}

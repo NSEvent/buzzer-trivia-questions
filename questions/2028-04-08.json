@@ -1,0 +1,207 @@
+{
+  "date": "2028-04-08",
+  "categories": [
+    {
+      "name": "ALL THAT JAZZ",
+      "questions": [
+        {
+          "clue": "At age 6, Wynton Marsalis received his first trumpet from this New Orleans trumpeter known for \"Cotton Candy\"",
+          "choices": [
+            "Louis Armstrong",
+            "Roy Eldridge",
+            "Al Hirt",
+            "Bunk Johnson"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Kansas City jazz in the '30s featured arrangements with these repeated syncopated phrases, a word possibly from \"refrain\"",
+          "choices": [
+            "blues",
+            "shuffle",
+            "swing",
+            "riff"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The title of the 1993 Grammy Award-winning CD \"Miles and Quincy Live at Montreux\" referred to these 2 jazz legends",
+          "choices": [
+            "John Coltrane & Bill Evans",
+            "Charlie Parker & Dizzy Gillespie",
+            "Thelonious Monk & Oscar Peterson",
+            "Miles Davis & Quincy Jones"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Paul Desmond is the alto saxophonist heard on this other jazz legend's 1961 hit \"Take Five\"",
+          "choices": [
+            "Stan Getz",
+            "Dave Brubeck",
+            "Gerry Mulligan",
+            "Zoot Sims"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This \"timely\" song, Count Basie's theme, was written & originally recorded by Basie in 1937",
+          "choices": [
+            "\"One O'Clock Jump\"",
+            "April in Paris",
+            "Shiny Stockings",
+            "Jumpin' at the Woodside"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PASTA SHAPES",
+      "questions": [
+        {
+          "clue": "Fettuccine means this; get it right & we'll award you a \"blue\" one",
+          "choices": [
+            "a strand",
+            "a strip",
+            "a loop",
+            "a ribbon"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Stelline are literally \"little\" these heavenly bodies",
+          "choices": [
+            "planets",
+            "stars",
+            "comets",
+            "constellations"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Orecchiette means \"little\" these body parts",
+          "choices": [
+            "ears",
+            "eyes",
+            "hands",
+            "fingers"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Little round tortellini get their name from tortello, an Italian word for this food",
+          "choices": [
+            "pie",
+            "cookie",
+            "cake",
+            "tart"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "These little round guys get their name from an Italian word for \"cake\"",
+          "choices": [
+            "tortellini",
+            "ravioli",
+            "gnocchi",
+            "cavatelli"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PROPER NAMES",
+      "questions": [
+        {
+          "clue": "Win an Academy Award & you'll go home with this golden guy",
+          "choices": [
+            "a trophy",
+            "a medal",
+            "an Oscar",
+            "a prize"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Derived from Scottish Gaelic, it's a narrow, secluded valley, as Ms. Close might tell you",
+          "choices": [
+            "a glade",
+            "a glen",
+            "a dell",
+            "a vale"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "To dwindle or fizzle out, as Mr. O'Toole could tell you",
+          "choices": [
+            "peter",
+            "fade",
+            "vanish",
+            "disappear"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A short crowbar that's big with burglars, or to force open a window using one",
+          "choices": [
+            "crowbar",
+            "jimmy",
+            "pry bar",
+            "lever"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Here's the drill, or should I say, here's this",
+          "choices": [
+            "crane",
+            "dredge",
+            "a derrick",
+            "tower"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "What baby needs, according to craps players",
+    "choices": [
+      "a fresh deck of cards",
+      "a clean pair of dice",
+      "a lucky rabbit's foot",
+      "a new pair of shoes (new shoes accepted)"
+    ],
+    "correctIndex": 3,
+    "category": "GREEK ALPHABET PUZZLERS"
+  },
+  "bonusRound": {
+    "clue": "British novelist & satirist Makepeace",
+    "choices": [
+      "Charles Dickens",
+      "George Eliot",
+      "Jane Austen",
+      "William Makepeace Thackeray"
+    ],
+    "correctIndex": 3,
+    "category": "WRITERS BY MIDDLE NAME"
+  }
+}

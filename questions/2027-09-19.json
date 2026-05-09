@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-19",
+  "categories": [
+    {
+      "name": "STICKY STUFF",
+      "questions": [
+        {
+          "clue": "Production of this candy is a major pull for tourists in Atlantic City",
+          "choices": [
+            "(salt water) taffy",
+            "caramel popcorn",
+            "cotton candy",
+            "noodle candy"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This 1971 Rolling Stones album had a zipper on the front cover",
+          "choices": [
+            "Sticky Hands",
+            "Sticky Fingers",
+            "Sticky Taffy",
+            "Sticky Frets"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "More than 1 million fossil bones have been recovered at this sticky-but-popular LA tourist attraction",
+          "choices": [
+            "the Hollywood Wax Museum",
+            "the Griffith Observatory",
+            "the La Brea Tar Pits",
+            "the Santa Monica Pier"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This brand was conceived in the 1940s by a Swiss engineer after he examined sticky burrs on his dog",
+          "choices": [
+            "Gorilla Glue",
+            "Super Glue",
+            "Velcro",
+            "Duct Tape"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Cyanoacrylates are a family of fast-acting adhesives commonly known by this \"demented\" name",
+          "choices": [
+            "Super Glue",
+            "Gorilla Glue",
+            "DAP Weldwood",
+            "Krazy Glue"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A PIECE OF HISTORY",
+      "questions": [
+        {
+          "clue": "On display at the National Museum of American History, his hat includes a mourning band for his son Willie",
+          "choices": [
+            "Abraham Lincoln",
+            "Abraham Maslow",
+            "Abraham Verghese",
+            "Abraham Pais"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Hebrew university has his archives\u2014digitized, too, so you can see his notes on relativity in his hand",
+          "choices": [
+            "Newton",
+            "Hawking",
+            "Einstein",
+            "Feynman"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The Babylonian map of the world, the oldest known map, includes this river, but not the Tigris",
+          "choices": [
+            "the Nile",
+            "the Danube",
+            "the Amazon",
+            "the Euphrates"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Iron Age Nigerian Nok culture is known for this type of clay-based art, a term derived from Italian",
+          "choices": [
+            "porcelain",
+            "ceramic",
+            "stucco",
+            "terracotta"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The oldest artifact in D.C.'s Newseum is a 3,200-year-old Sumerian brick that spread the news using this writing system",
+          "choices": [
+            "cuneiform",
+            "hieroglyphs",
+            "cylinder seals",
+            "papyrus"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHEEL OF JEOPARDY!",
+      "questions": [
+        {
+          "clue": "It's in Canada, eh? N _ _ A S _ _ _ _ A",
+          "choices": [
+            "Newfoundland",
+            "Prince Edward Island",
+            "Nova Scotia",
+            "New Brunswick"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Forever vanished, perhaps by tornado G _ _ E W I _ _ _ _ E W I _ _",
+          "choices": [
+            "lost in time",
+            "gone to seed",
+            "gone with the wind",
+            "vanished into thin air"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It's when a group wants you to conform so you'll be accepted P _ _ R P R _ _ _ U R _",
+          "choices": [
+            "peer pressure",
+            "peer review",
+            "peer group",
+            "peer support"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Hidden enemy S N _ _ _ _ N _ H _ _ R _ S S",
+          "choices": [
+            "wolf in the fold",
+            "bear in the woods",
+            "cat in the hat",
+            "snake in the grass"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Gaborone is its capital _ O T S W _ _ _",
+          "choices": [
+            "Botswana",
+            "Zimbabwe",
+            "Namibia",
+            "South Africa"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1994 Bernard Huet redesigned part of this avenue, converting side lanes into pedestrian zones",
+    "choices": [
+      "the Rue de Rivoli",
+      "the Boulevard Haussmann",
+      "the Avenue des Champs-\u00c9lys\u00e9es",
+      "the Champs-\u00c9lys\u00e9es"
+    ],
+    "correctIndex": 3,
+    "category": "PARIS SITES"
+  }
+}

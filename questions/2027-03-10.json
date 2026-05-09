@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-10",
+  "categories": [
+    {
+      "name": "FIRST NAME'S THE SAME",
+      "questions": [
+        {
+          "clue": "Bronte, Dickinson, Post",
+          "choices": [
+            "Charlotte",
+            "Emily",
+            "Anne",
+            "Virginia"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Vaughan, Polley, Bernhardt",
+          "choices": [
+            "Julia",
+            "Audrey",
+            "Gwyneth",
+            "Sarah"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Benson, Blanda, Bush",
+          "choices": [
+            "William",
+            "Frank",
+            "Richard",
+            "George"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Brunell, Messier, Rothko",
+          "choices": [
+            "Jackson",
+            "Pablo",
+            "Vincent",
+            "Mark"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Very different leaders Mumford & Garvey",
+          "choices": [
+            "Ida",
+            "Jane",
+            "Marcus",
+            "William"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ALLITERATION STATION",
+      "questions": [
+        {
+          "clue": "\"Rubber baby buggy bumpers\" is a classic example of one of these",
+          "choices": [
+            "a tongue twister",
+            "a limerick",
+            "a sonnet",
+            "a haiku"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Not flashy but often effective, it's the part of a football coach's strategy that features the running back",
+          "choices": [
+            "the ground game",
+            "a trick play",
+            "a pass rush",
+            "a red zone strategy"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The almost indestructible flight recording device is known by this \"colorful\" name",
+          "choices": [
+            "the red box",
+            "the black box",
+            "the blue box",
+            "the green box"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Daisy Buchanan is the object of a racketeer's desire in this 1925 Fitzgerald novel",
+          "choices": [
+            "The Sun Also Rises",
+            "A Farewell to Arms",
+            "The Great Gatsby",
+            "Tender Is the Night"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This phrase was popularized by RAND methodology for identifying the bad guys who make a life of it",
+          "choices": [
+            "professional thief",
+            "serial offender",
+            "habitual violator",
+            "career criminal"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE DOGS",
+      "questions": [
+        {
+          "clue": "The first live animal mascot in college sports is said to be Handsome Dan, a dog of this breed, at Yale in 1889",
+          "choices": [
+            "a bulldog",
+            "a greyhound",
+            "a mastiff",
+            "a collie"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This breed named for a city in Belgium is trained by Navy SEALs to skydive, wear body armor & night-vision goggles",
+          "choices": [
+            "a Belgian Malinois",
+            "a German Shepherd",
+            "a Belgian Tervuren",
+            "a Dutch Shepherd"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Anne Frank wrote in her diary how much she'd like to have a dog like this German Shepherd who helped save Warner Bros. from bankruptcy",
+          "choices": [
+            "Lassie",
+            "Higgins",
+            "Strongheart",
+            "Rin Tin Tin"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This ancient breed from Central Africa is known as the \"barkless dog\"; although it doesn't bark, it does make a yodeling sound",
+          "choices": [
+            "a Basenji",
+            "a Dingo",
+            "a Shiba Inu",
+            "a Basuto Dog"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This dog wants you to take a bite out of crime",
+          "choices": [
+            "Snoopy",
+            "McGruff the Crime Dog",
+            "Marvin the Dog",
+            "The Blue Dog"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Far from keeping them secret, in the 1930s many Americans got tattoos of these recently issued identifiers",
+    "choices": [
+      "driver's license numbers",
+      "credit card numbers",
+      "library card numbers",
+      "Social Security numbers"
+    ],
+    "correctIndex": 3,
+    "category": "TATTOOS"
+  }
+}

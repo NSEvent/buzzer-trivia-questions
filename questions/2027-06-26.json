@@ -1,0 +1,207 @@
+{
+  "date": "2027-06-26",
+  "categories": [
+    {
+      "name": "ALL-AMERICAN FOOD",
+      "questions": [
+        {
+          "clue": "On Fridays many people like to chow down on this thick, creamy style of clam chowder",
+          "choices": [
+            "New England clam chowder",
+            "Manhattan clam chowder",
+            "Rhode Island clam chowder",
+            "Providence clam chowder"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Named for the city of its birth, deep-dish or pan pizza is also called this",
+          "choices": [
+            "New York-style pizza",
+            "Chicago-style pizza",
+            "Detroit-style pizza",
+            "San Francisco-style pizza"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Kraft's no-bake cheesecake is made with 2 8-oz. packages of this Kraft brand, softened",
+          "choices": [
+            "Philadelphia cream cheese",
+            "Kraft sharp cheddar cheese",
+            "Kraft mozzarella cheese",
+            "Kraft parmesan cheese"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This city's signature dish has ham, green peppers, onion &, of course, scrambled eggs",
+          "choices": [
+            "a California omelet",
+            "a Western omelet",
+            "a Southwest omelet",
+            "a Denver omelet"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This spicy poultry appetizer is popularly served with blue-cheese dressing & celery sticks",
+          "choices": [
+            "Nashville hot chicken",
+            "General Tso's chicken",
+            "Buffalo wings",
+            "Korean fried wings"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SKELETON CREW",
+      "questions": [
+        {
+          "clue": "The malleus is a tiny bone in the middle part of this sense organ",
+          "choices": [
+            "the eye",
+            "the nose",
+            "the brain",
+            "the ear"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "These bones can be cervical, thoracic or lumbar",
+          "choices": [
+            "vertebrae",
+            "skull",
+            "femur",
+            "scapula"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "These 2 bones articulate with the humerus to form the elbow",
+          "choices": [
+            "the ulna & the radius",
+            "the radius & the ulna",
+            "the radius & the scaphoid",
+            "the humerus & the ulna"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "These 5 bones form the skeleton of the sole of the foot",
+          "choices": [
+            "the phalanges",
+            "the tarsals",
+            "the carpals",
+            "the metatarsals"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "It's also called a zygomatic or malar bone",
+          "choices": [
+            "the jawbone",
+            "the brow ridge",
+            "the forehead",
+            "the cheekbone"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ACES",
+      "questions": [
+        {
+          "clue": "This Marine Corps major led the Black Sheep squadron & was awarded the Congressional Medal of Honor",
+          "choices": [
+            "Eddie Rickenbacker",
+            "Billy Mitchell",
+            "Douglas MacArthur",
+            "Gregory \"Pappy\" Boyington"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "To win an Ace Award, your show must be shown on this medium",
+          "choices": [
+            "broadcast television",
+            "satellite radio",
+            "over the airwaves",
+            "cable television"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "He was the USA's leading air ace in World War I with 22 enemy planes & 4 balloons shot down",
+          "choices": [
+            "Billy Bishop",
+            "Manfred von Richthofen",
+            "Raoul Lufbery",
+            "Eddie Rickenbacker"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Becton Dickinson & Co. makes health care & safety products, including the Ace line of these",
+          "choices": [
+            "sutures",
+            "gloves",
+            "bandages",
+            "syringes"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It's a hidden advantage, played when needed",
+          "choices": [
+            "card up one's sleeve",
+            "horse in the back door",
+            "ace up one's sleeve (ace in the hole)",
+            "chip on the shoulder"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "We doff our caps to this metropolis, the oldest of Morocco's 4 imperial cities",
+    "choices": [
+      "Marrakech",
+      "Rabat",
+      "Fez",
+      "Tangier"
+    ],
+    "correctIndex": 2,
+    "category": "ONE-SYLLABLE CITIES"
+  },
+  "bonusRound": {
+    "clue": "The War on Poverty & Medicare were elements of the domestic program known by this name",
+    "choices": [
+      "The New Deal",
+      "The Fair Deal",
+      "The Great Society",
+      "The American System"
+    ],
+    "correctIndex": 2,
+    "category": "LBJ"
+  }
+}

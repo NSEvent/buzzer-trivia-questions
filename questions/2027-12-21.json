@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-21",
+  "categories": [
+    {
+      "name": "MADONNA VIDEOS",
+      "questions": [
+        {
+          "clue": "Michelangelo delivered on the promise to carve the most beautiful work of marble in Rome with this sculpture",
+          "choices": [
+            "the Piet\u00e0",
+            "the David",
+            "the Last Supper",
+            "the Sistine Chapel"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Madonna dances in a wedding dress & on a gondola in Venice",
+          "choices": [
+            "Material Girl",
+            "\"Like A Virgin\"",
+            "Vogue",
+            "Like A Prayer"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A matador dresses for a bullfight; Madonna dresses & undresses for the matador",
+          "choices": [
+            "Express Yourself",
+            "Justify My Love",
+            "Music",
+            "\"Take A Bow\""
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Parmigianino's most famous work is called \"Madonna with\" this swan-like feature",
+          "choices": [
+            "a long hair",
+            "a long gown",
+            "a long face",
+            "a long neck"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "That's the angel Gabriel visiting Mary, so Fra Angelico's work has this title",
+          "choices": [
+            "The Nativity",
+            "The Immaculate Conception",
+            "The Visitation",
+            "The Annunciation"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AROUND THE PACIFIC",
+      "questions": [
+        {
+          "clue": "Also called the sea parrot, this diving bird lives in large colonies in the north Pacific",
+          "choices": [
+            "a penguin",
+            "a puffin",
+            "a loon",
+            "an auk"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "To call the Rotorua Man, you'll have to ring up this antipodean island nation",
+          "choices": [
+            "Australia",
+            "Fiji",
+            "Papua New Guinea",
+            "New Zealand"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A name that literally translates to \"northern sea route\" is fitting for this most northerly of Japan's main islands",
+          "choices": [
+            "Hokkaido",
+            "Honshu",
+            "Kyushu",
+            "Shikoku"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Chuuk, Kosrae, Pohnpei & Yap are the 4 Federated States of this",
+          "choices": [
+            "Palau",
+            "Micronesia",
+            "Marshall Islands",
+            "Nauru"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The largest island of Mexico, Tibur\u00f3n island is an uninhabited desert & nature reserve on this arm of the Pacific",
+          "choices": [
+            "the Gulf of California (Sea of Cort\u00e9s)",
+            "the Gulf of Panama",
+            "the Sea of Azov",
+            "the Gulf of Alaska"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE \"A\" LIST",
+      "questions": [
+        {
+          "clue": "On July 20, 1969 he said, \"Houston, Tranquility Base here. The Eagle has landed\"",
+          "choices": [
+            "Buzz Aldrin",
+            "(Neil) Armstrong",
+            "Yuri Gagarin",
+            "John Glenn"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The name of this refractive defect of the eye comes from the Greek",
+          "choices": [
+            "myopia",
+            "hyperopia",
+            "astigmatism",
+            "presbyopia"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Bolivia's coat of arms features this quadruped",
+          "choices": [
+            "a llama",
+            "an alpaca",
+            "a vicu\u00f1a",
+            "a guanaco"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This medieval monk had an out-of-wedlock child with Heloise",
+          "choices": [
+            "Bernard of Clairvaux",
+            "(Peter) Abelard",
+            "Peter Lombard",
+            "Thomas \u00e0 Kempis"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "(Sarah of the Clue Crew reports with a paper airplane in her hand.) If a plane goes virtually straight up, what's called the angle of this, between the wing & airflow, is close to 0",
+          "choices": [
+            "drag",
+            "attack",
+            "lift",
+            "thrust"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Since Burma became Myanmar, this is the only \"B\" country left on the Bay of Bengal",
+    "choices": [
+      "Belize",
+      "Bangladesh",
+      "Benin",
+      "Bhutan"
+    ],
+    "correctIndex": 1,
+    "category": "GEOGRAPHY \"B\""
+  }
+}

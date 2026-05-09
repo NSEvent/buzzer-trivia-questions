@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-24",
+  "categories": [
+    {
+      "name": "ARTS",
+      "questions": [
+        {
+          "clue": "This architect fell in love with the Arizona desert & built Taliesin West, his winter home, in Scottsdale",
+          "choices": [
+            "Frank Lloyd Wright",
+            "Louis Sullivan",
+            "Richard Neutra",
+            "Philip Johnson"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1965 this dance instructor & entrepreneur had more than 350 franchised dance studios",
+          "choices": [
+            "Arthur Murray",
+            "Vladimir Sklirov",
+            "Shirley Temple",
+            "Fred Astaire"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Mozart's Serenade No. 13 in G Major has this nickname that includes the time of day it was intended for",
+          "choices": [
+            "\"A Winter's Tale\"",
+            "\"Morning Hymn\"",
+            "\"A Little Night Music\" (Eine kleine Nachtmusik)",
+            "\"The Evening Star\""
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The one-syllable name of this Japanese theatrical form comes from a word meaning \"talent\" or \"skill\"",
+          "choices": [
+            "kagura",
+            "bunraku",
+            "noh",
+            "kabuki"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Have a seat in this chair, named for American designer Charles",
+          "choices": [
+            "Bauhaus",
+            "Knoll",
+            "Eames",
+            "Herman Miller"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "OLYMPIC HISTORY",
+      "questions": [
+        {
+          "clue": "By 1976 these anabolic aids were banned from use by Olympic competitors",
+          "choices": [
+            "EPO",
+            "amphetamines",
+            "steroids",
+            "blood doping"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "She took a silver medal in women's figure skating in 1994; Tonya Harding finished a medalless eighth",
+          "choices": [
+            "Nancy Kerrigan",
+            "Midori Ito",
+            "Katarina Witt",
+            "Surya Bonaly"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In 1912 Martin Klein pinned Alfred Asikainen after an epic 11-hour, 40-minute bout in this hyphenated wrestling style",
+          "choices": [
+            "Freestyle wrestling",
+            "Catch wrestling",
+            "Submission grappling",
+            "Greco-Roman wrestling"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This sport got ugly in 1956 as recently invaded Hungary beat the USSR in the \"Blood in the Water\" match",
+          "choices": [
+            "swimming",
+            "water polo",
+            "water skiing",
+            "canoeing"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 1980, the U.S. beat the Finns, not this favored team, in the gold-medal ice hockey game",
+          "choices": [
+            "Canada",
+            "the Soviet Union",
+            "Finland",
+            "Sweden"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TERMS OF ART",
+      "questions": [
+        {
+          "clue": "It's the term for the board on which an artist puts the colors as well as the range of colors used",
+          "choices": [
+            "the easel",
+            "the canvas",
+            "the palette",
+            "the palette knife"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "From Latin for \"drawn away\", it refers to art that doesn't represent recognizable physical forms",
+          "choices": [
+            "surreal",
+            "impressionist",
+            "cubist",
+            "abstract"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This French term refers to paintings done outdoors",
+          "choices": [
+            "en plein air",
+            "in situ",
+            "en direct",
+            "sur toile"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It's the \"disappearing\" 2-word term for the place in a painting where receding parallel lines seem to meet",
+          "choices": [
+            "the vanishing point",
+            "the focal plane",
+            "the horizon line",
+            "the perspective center"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew explains a painting shown on a monitor.) In art composition, to make the painting more interesting, divide it & put the focus along the lines to follow this fractional rule",
+          "choices": [
+            "the golden ratio",
+            "the center rule",
+            "the rule of halves",
+            "the rule of thirds"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "When this prefix precedes \"active\", it means \"backwards\"; by itself it refers to the style of an earlier time",
+    "choices": [
+      "retro-",
+      "neo-",
+      "pseudo-",
+      "post-"
+    ],
+    "correctIndex": 0,
+    "category": "PREFIXES"
+  }
+}

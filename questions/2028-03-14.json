@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-14",
+  "categories": [
+    {
+      "name": "MEDIEVAL FASHION",
+      "questions": [
+        {
+          "clue": "Almoners & gipsers were these money holders",
+          "choices": [
+            "coin bags",
+            "purses",
+            "money belts",
+            "pouches"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In the 15th century it was a small coat worn under a larger one; later it referred to a woman's underskirt",
+          "choices": [
+            "petticoat",
+            "chemise",
+            "kirtle",
+            "shift"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Roskyn was the fur from this animal \u2014 Rocky, hide!",
+          "choices": [
+            "squirrel",
+            "beaver",
+            "ermine",
+            "marten"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A cappa clausa was a closed cape with a slit through which a praying person stuck these",
+          "choices": [
+            "his hands",
+            "his head",
+            "his arms",
+            "his face"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "I dub thee this; Sir Knight could tell you it was a tunic worn over armor",
+          "choices": [
+            "tabard",
+            "surcoat",
+            "hauberk",
+            "cotte"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "9-LETTER WORDS",
+      "questions": [
+        {
+          "clue": "It's a place such as a tank or artificial lake where water is stored",
+          "choices": [
+            "a basin",
+            "a reservoir",
+            "a container",
+            "a canal"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Without it, a Shirley Temple just wouldn't be a Shirley Temple",
+          "choices": [
+            "maraschino",
+            "cherry",
+            "syrup",
+            "grenadine"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This chemical that makes chili peppers hot is used in pepper sprays & topical painkillers",
+          "choices": [
+            "piperine",
+            "capsaicin",
+            "capsaicid",
+            "capsicum"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This Christian observance held on the 7th Sunday after Easter is also called Whitsunday",
+          "choices": [
+            "Easter Sunday",
+            "Ascension Day",
+            "Good Friday",
+            "Pentecost"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This removable footway connects a ship with a pier",
+          "choices": [
+            "the gangway",
+            "a gangboard",
+            "the gangpost",
+            "a gangplank"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THAT'S MISLEADING",
+      "questions": [
+        {
+          "clue": "A young goat's daytime snooze",
+          "choices": [
+            "lamb sleep",
+            "kid rest",
+            "goat doze",
+            "kid nap"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A Bundt taking a stroll",
+          "choices": [
+            "a ringcake stroll",
+            "a bundle walk",
+            "a cakewalk",
+            "a cake march"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Hey, yellow fruit, leave, just get on out of here, dig?",
+          "choices": [
+            "a peach cobbler",
+            "an apple pie",
+            "a banana split",
+            "a cherry bomb"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Eyed an equine",
+          "choices": [
+            "saw canine",
+            "saw feline",
+            "saw horse",
+            "saw reptile"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Paintings seen along the sloping path for wheelchairs",
+          "choices": [
+            "sidewalk",
+            "bridge",
+            "highway",
+            "rampart"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "It can be money owed, or an offense requiring forgiveness",
+    "choices": [
+      "a debt",
+      "a favor",
+      "a secret",
+      "a mistake"
+    ],
+    "correctIndex": 0,
+    "category": "SILENT B"
+  }
+}

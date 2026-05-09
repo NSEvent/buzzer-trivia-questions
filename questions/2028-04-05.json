@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-05",
+  "categories": [
+    {
+      "name": "THERE'S A \"WAY\"",
+      "questions": [
+        {
+          "clue": "Named for the Roman who began its construction, it stretched 350 miles from Rome to Brindisi on Italy's \"heel\"",
+          "choices": [
+            "The Via Flaminia",
+            "The Appian Trail",
+            "The Roman Road",
+            "The Appian Way"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"Paul Revere's Ride\" is one of these collected \"tales\" by Longfellow",
+          "choices": [
+            "Tales of a City Hall Inn",
+            "Tales of a Wayside Cafe",
+            "Tales of a Wayside Inn",
+            "Tales of a Historic Inn"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Friends & Romans! Stephen Sondheim launched his career as a Broadway composer with this musical",
+          "choices": [
+            "A Funny Thing Happened on the Way to the Theater",
+            "A Funny Thing Happened on the Way to the Stage",
+            "A Funny Thing Happened on the Way to the Arena",
+            "A Funny Thing Happened on the Way to the Forum"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "People who travel by foot, or a type of eyewear",
+          "choices": [
+            "waywalkers",
+            "pathstriders",
+            "streetgoers",
+            "wayfarers"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This 2-word term for a high-speed computing network zoomed into print in Newsweek in 1983",
+          "choices": [
+            "cyber superstreet",
+            "information superhighway",
+            "data motorway",
+            "network expressway"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "3 \"T\"s",
+      "questions": [
+        {
+          "clue": "On a standard e-mail, a JPEG or PDF file is likely carried as one of these",
+          "choices": [
+            "enclosure",
+            "supplement",
+            "addendum",
+            "attachment"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Its name literally means \"a short burst of inconsequential information\" & \"chirps from birds\" #FYI",
+          "choices": [
+            "Facebook",
+            "Instagram",
+            "Twitter",
+            "LinkedIn"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Barhopping is out for people who practice this, abstinence from alcoholic beverages",
+          "choices": [
+            "teetotaling",
+            "teething",
+            "teasing",
+            "testing"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Megan Massacre of TLC's \"NY Ink\" is this type of artist",
+          "choices": [
+            "tattoo",
+            "tattoo removal",
+            "tattoo shop",
+            "tattoo artist"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The \"Joy of Cooking\" recipe for this flavor pudding includes dark brown sugar & heavy cream but not liquor",
+          "choices": [
+            "butterscotch chip",
+            "butterscotch candy",
+            "butterscotch sauce",
+            "butterscotch"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COOKING CLASS",
+      "questions": [
+        {
+          "clue": "From Latin for \"money\", it's the herb that traditionally flavors lamb",
+          "choices": [
+            "marjoram",
+            "thyme",
+            "mint",
+            "rosemary"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "White icing made to look like blocks of ice tops the cake named for this Eskimo dwelling",
+          "choices": [
+            "a yurt",
+            "a teepee",
+            "a cabin",
+            "an igloo"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Betty Crocker's recipe for Raggedy Ann Salad uses grated cheese for hair & these dried fruits for eyes",
+          "choices": [
+            "dates",
+            "apricots",
+            "raisins",
+            "currants"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It's fun to make the saltwater type of this candy because you get to pull it & stretch it before you cut it",
+          "choices": [
+            "fudge",
+            "brittle",
+            "nougat",
+            "taffy"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A baked potato becomes \"three men in a boat\" with a cheese sail & 3 of the button type of these fungi for the men",
+          "choices": [
+            "peas",
+            "mushrooms",
+            "olives",
+            "beans"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The LS 400 and the ES 250 were the first models of this luxury car line from Toyota",
+    "choices": [
+      "Lexus",
+      "Infiniti",
+      "Acura",
+      "Genesis"
+    ],
+    "correctIndex": 0,
+    "category": "CAR TREK"
+  }
+}

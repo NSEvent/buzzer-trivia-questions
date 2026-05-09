@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-16",
+  "categories": [
+    {
+      "name": "MIDDLE AGE MEN",
+      "questions": [
+        {
+          "clue": "This founder of the Franciscans was canonized in 1228, only 2 years after his death",
+          "choices": [
+            "St. Dominic",
+            "St. Francis of Assisi",
+            "St. Benedict",
+            "St. Augustine"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "His name is on none of his print jobs, so if you have one of his famous bibles from 1456, stop looking",
+          "choices": [
+            "William Caxton",
+            "Aldus Manutius",
+            "Johannes Gutenberg",
+            "Johannes Fust"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This poet had mooned over Beatrice Portinari for 9 years before she even spoke to him in 1283",
+          "choices": [
+            "Petrarch",
+            "Boccaccio",
+            "Dante",
+            "Virgil"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1057 he was killed in battle at Lumphanan in Aberdeenshire, not at Dunsinane Castle",
+          "choices": [
+            "Duncan",
+            "Macbeth",
+            "Macduff",
+            "Banquo"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 1381 John Ball & he led the English peasants in a rebellion against new taxes",
+          "choices": [
+            "Wat Tyler",
+            "Jack Cade",
+            "Kett",
+            "John Ball Jr."
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ARTS",
+      "questions": [
+        {
+          "clue": "Drummer Art Blakey was a real heavy cat in this style of music that preceded \"Messengers\" in his band's name",
+          "choices": [
+            "blues",
+            "rock",
+            "jazz",
+            "swing"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "He attended UCLA on a tennis scholarship & in 1965 won the U.S. collegiate men's singles title",
+          "choices": [
+            "Billie Jean King",
+            "John McEnroe",
+            "Jimmy Connors",
+            "Arthur Ashe"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "As in Louis Comfort Tiffany's work, an undulating line, often in the form of vine tendrils, is characteristic of this style",
+          "choices": [
+            "Art Nouveau",
+            "Art Deco",
+            "Baroque",
+            "Rococo"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "American philosopher Arthur Lovejoy's most famous work was \"The Great Chain of\" this",
+          "choices": [
+            "Existence",
+            "Reality",
+            "Being",
+            "Truth"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The full title of this modernist Stravinsky ballet includes \"Pictures from Pagan Russia in Two Parts\"",
+          "choices": [
+            "The Firebird",
+            "Petrushka",
+            "The Rite of Spring",
+            "Scheherazade"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WORLD LANDMARKS",
+      "questions": [
+        {
+          "clue": "Worshippers at this Jerusalem holy site insert bits of paper containing written prayers into its cracks",
+          "choices": [
+            "the Western Wall",
+            "the Temple Mount",
+            "the Dome of the Rock",
+            "the Wailing Wall"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This 13 1/2-ton London bell was first heard on radio on New Year's Eve, 1923",
+          "choices": [
+            "Elizabeth Tower",
+            "Big Ben",
+            "George IV",
+            "Westminster Abbey"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The pediment of his memorial contains a sculpture of the 5 members of the Declaration of Independence Drafting Committee",
+          "choices": [
+            "Madison",
+            "Jackson",
+            "Lincoln",
+            "Jefferson"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Around 1400 B.C. Thutmose IV ordered a team to dig out the buried front paws of this landmark",
+          "choices": [
+            "the Great Pyramid",
+            "the Sphinx",
+            "the Temple of Karnak",
+            "the Abu Simbel"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Sainte-Chappelle, with fabulous stained glass windows, stands near the more famous Notre-Dame Cathedral on this island",
+          "choices": [
+            "the \u00cele de la Cit\u00e9 (in Paris)",
+            "the Right Bank",
+            "Montmartre",
+            "the Bois de Boulogne"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Paul Brown Stadium",
+    "choices": [
+      "the Chiefs",
+      "the Raiders",
+      "the Broncos",
+      "the Bengals"
+    ],
+    "correctIndex": 3,
+    "category": "NFL HOME STADIUMS"
+  }
+}

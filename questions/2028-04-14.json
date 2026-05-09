@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-14",
+  "categories": [
+    {
+      "name": "TRAVEL FUN",
+      "questions": [
+        {
+          "clue": "For some chic shopping & great beaches, visit Mykonos, an island of this country",
+          "choices": [
+            "Italy",
+            "Spain",
+            "Greece",
+            "Turkey"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A snowman known as Bonhomme is the symbol of Le Carnaval d'Hiver, the winter carnival in this Canadian city",
+          "choices": [
+            "Montreal",
+            "Quebec City",
+            "Toronto",
+            "Vancouver"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "You won't want to miss the ancestral chateau of the Counts of Egmont at Gaasbeek in this Low Country",
+          "choices": [
+            "Netherlands",
+            "Luxembourg",
+            "France",
+            "Belgium"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Observe wild animals from this hotel where Princess Elizabeth became Queen of England",
+          "choices": [
+            "Amanjena",
+            "Thande Tented Camp",
+            "Angama Mara",
+            "Treetops"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Often made from yams, fufu are yummy dumplings served in Accra, the capital of this African country",
+          "choices": [
+            "Ghana",
+            "Nigeria",
+            "Senegal",
+            "Kenya"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ALL OVER",
+      "questions": [
+        {
+          "clue": "Baghdad lies on both sides of this river",
+          "choices": [
+            "the Euphrates",
+            "the Nile",
+            "the Tigris",
+            "the Jordan"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "April 1644 is recognized as the last month this dynasty was in power in China",
+          "choices": [
+            "Qing Dynasty",
+            "Yuan Dynasty",
+            "Ming Dynasty",
+            "Han Dynasty"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "You'll find Lungshan Temple in this capital city that's on an island",
+          "choices": [
+            "Manila",
+            "Jakarta",
+            "Honolulu",
+            "Taipei"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Tradition says this sea whose islands include Corfu & Ithaca was named for a Greek nymph",
+          "choices": [
+            "the Adriatic Sea",
+            "the Aegean Sea",
+            "the Ionian Sea",
+            "the Mediterranean Sea"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "His last song collection, \"Swan Song\", was written in 1828; his \"Unfinished Symphony\", back in 1822",
+          "choices": [
+            "Franz Liszt",
+            "Fr\u00e9d\u00e9ric Chopin",
+            "Franz Schubert",
+            "Robert Schumann"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LEADERS",
+      "questions": [
+        {
+          "clue": "Maxmilien Francois Marie Isidore de Robespierre was among the best-known leaders of this",
+          "choices": [
+            "the Girondins",
+            "the Sans-culottes",
+            "the Jacobins",
+            "the Committee of Public Safety"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "On Jan. 18, 1943 Mordecai Anielewicz led the uprising in this capital against German troops trying to ship Jews to the Treblinka death camp",
+          "choices": [
+            "Lublin",
+            "Lviv",
+            "Warsaw",
+            "Vilnius"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "U.S. vice president: 1989-1993",
+          "choices": [
+            "Al Gore",
+            "George H.W. Bush",
+            "Dick Cheney",
+            "Dan Quayle"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Viktor Orban is the anti-immigrant leader of this European country",
+          "choices": [
+            "Hungary",
+            "Romania",
+            "Poland",
+            "Serbia"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 2003 Liberians were happy that life was blah as this brutal leader turned over power to Moses Blah",
+          "choices": [
+            "(Sani) Abacha",
+            "(Idi) Amin",
+            "(Muammar) Gaddafi",
+            "(Charles) Taylor"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Minnie Riperton's song \"Lovin' You\" began as a lullaby to her daughter, this future \"SNL\" comic actress",
+    "choices": [
+      "Amy Poehler",
+      "Maya Rudolph",
+      "Kristen Wiig",
+      "Tina Fey"
+    ],
+    "correctIndex": 1,
+    "category": "RUDOLPH"
+  }
+}

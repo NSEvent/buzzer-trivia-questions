@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-14",
+  "categories": [
+    {
+      "name": "LITERARY CROSSWORD CLUES \"P\"",
+      "questions": [
+        {
+          "clue": "\"The Birthday Party\" playwright (6)",
+          "choices": [
+            "Poe",
+            "Plath",
+            "Pinter",
+            "Parker"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This meter is 5 feet long (10)",
+          "choices": [
+            "prose",
+            "pentameter",
+            "couplet",
+            "blankverse"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Ophelia's pop (8)",
+          "choices": [
+            "Laertes",
+            "Hamlet",
+            "Polonius",
+            "Claudius"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Russian writer who came to shove, 1799-1837 (7)",
+          "choices": [
+            "Lermont",
+            "Gogol",
+            "Tolstoy",
+            "Pushkin"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "One of Natty Bumppo's title vocations (10)",
+          "choices": [
+            "Hawkeye",
+            "Deerslayer",
+            "Pathfinder",
+            "Leatherstocking"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TV LOCALES",
+      "questions": [
+        {
+          "clue": "While \"The Walking Dead\" takes place primarily in the South, \"Fear the Walking Dead\" started in this city",
+          "choices": [
+            "Atlanta",
+            "Miami",
+            "Los Angeles",
+            "New Orleans"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "\"Breaking Bad\" takes place in this \"Land of Enchantment\" state",
+          "choices": [
+            "Arizona",
+            "Texas",
+            "Colorado",
+            "New Mexico"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The first season of \"Narcos\" tells the story of Pablo Escobar's rise to the top of the drug world in this country",
+          "choices": [
+            "Mexico",
+            "Colombia",
+            "Peru",
+            "Bolivia"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This title motorcycle gang revs up in Charming, California",
+          "choices": [
+            "the Hells Angels",
+            "the Sons of Anarchy",
+            "the Outlaws",
+            "the Bandidos"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Priyanka Chopra played an FBI recruit when this ABC drama with a place name title debuted in 2015",
+          "choices": [
+            "Nashville",
+            "Quantico",
+            "Empire",
+            "Chicago"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SHAKESPEAREAN CROSSWORD CLUES \"M\"",
+      "questions": [
+        {
+          "clue": "A bad month for Caesar (5)",
+          "choices": [
+            "March",
+            "April",
+            "June",
+            "July"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"Midsummer\" fairy with an insect name (4)",
+          "choices": [
+            "Fly",
+            "Bee",
+            "Wasp",
+            "Moth"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Romeo's mercurial pal (8)",
+          "choices": [
+            "Marcellus",
+            "Montague",
+            "Mucius",
+            "Mercutio"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Duncan's eldest son (7)",
+          "choices": [
+            "Malcolm",
+            "Macduff",
+            "Magnus",
+            "Morpheus"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Shakespeare's shortest tragedy (7)",
+          "choices": [
+            "Medea",
+            "Merope",
+            "Midas",
+            "Macbeth"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Schechter Poultry Corp. v. U.S. struck down the National Industrial Recovery Act, part of this program",
+    "choices": [
+      "the Fair Deal",
+      "the Great Society",
+      "the New Frontier",
+      "the New Deal"
+    ],
+    "correctIndex": 3,
+    "category": "SUPREME COURT DECISIONS"
+  }
+}

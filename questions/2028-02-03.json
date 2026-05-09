@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-03",
+  "categories": [
+    {
+      "name": "BALD IS BEAUTIFUL",
+      "questions": [
+        {
+          "clue": "This TV baseball announcer has hosted \"To Tell the Truth\" & \"Sale of the Century\"",
+          "choices": [
+            "Jackie Mason",
+            "Bill Kurtis",
+            "Joe Garagiola",
+            "Steve Allen"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "He wore a rug playing Archie Bunker's son-in-law; now a director, he wears whatever he wants",
+          "choices": [
+            "Michael J. Fox",
+            "Rob Reiner",
+            "Christopher Lloyd",
+            "John Hughes"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Famous for playing a Siamese king, he also played a royal on film in \"Solomon and Sheba\"\u2014he had hair in that one",
+          "choices": [
+            "Charlton Heston",
+            "Yul Brynner",
+            "Kirk Douglas",
+            "Burt Lancaster"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "She captioned a 2022 Instagram post, \"Happy Bald is Beautiful Day to all my brothers & sisters with no hair\"",
+          "choices": [
+            "Jenna Jameson",
+            "Jada Pinkett Smith",
+            "Lisa Bonet",
+            "Cybill Shepherd"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This political strategist's first success was helping Bob Casey get elected governor of Pennsylvania in 1986",
+          "choices": [
+            "Levin",
+            "Carville",
+            "Stephanopoulos",
+            "Manny"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PROPER NAMES",
+      "questions": [
+        {
+          "clue": "The name of this towerlike framework over an oil well comes from that of a 17th century hangman",
+          "choices": [
+            "a crane",
+            "a scaffold",
+            "a derrick",
+            "a tower"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "To play in water, or walk through it, like baseball player Boggs",
+          "choices": [
+            "Drain",
+            "Swim",
+            "Wade",
+            "Drown"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "To honor, as with one's presence",
+          "choices": [
+            "Honor",
+            "Grace",
+            "Respect",
+            "Regard"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A British nobleman ranking above a viscount & below a marquess",
+          "choices": [
+            "Earl",
+            "Duke",
+            "Baron",
+            "Count"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A female donkey, or an early spinning machine",
+          "choices": [
+            "a mule",
+            "a mare",
+            "a horse",
+            "a jenny"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "STICKY STUFF",
+      "questions": [
+        {
+          "clue": "Colonial America's \"triangle trade\" was composed of slaves, rum, & this sticky liquid",
+          "choices": [
+            "molasses",
+            "sugar",
+            "honey",
+            "treacle"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "After a rugby scrum, you might require what the Brits call a sticking plaster, one of these",
+          "choices": [
+            "a Band-Aid",
+            "a plaster",
+            "a gauze",
+            "a strip"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The logo for this product shows a worker in a hard hat hanging from the letter A",
+          "choices": [
+            "Loctite",
+            "E6000",
+            "Krazy Glue",
+            "Gorilla Glue"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1980 3M introduced these, which you can use to leave messages & reminders all over the place",
+          "choices": [
+            "Post-it notes",
+            "Memo pads",
+            "Sticky tabs",
+            "Reminder slips"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The silicone type of this window-sealing material makes an excellent adhesive",
+          "choices": [
+            "silicone",
+            "grout",
+            "caulk",
+            "sealant"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This Las Vegas hotel-casino is known for its Appian Way plaza shops as well as its Forum shops",
+    "choices": [
+      "The Venetian",
+      "The Bellagio",
+      "The Mirage",
+      "Caesars Palace"
+    ],
+    "correctIndex": 3,
+    "category": "SHOPPING U.S.A."
+  }
+}

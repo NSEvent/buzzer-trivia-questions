@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-11",
+  "categories": [
+    {
+      "name": "TWIN PEAKS",
+      "questions": [
+        {
+          "clue": "\"Presidential\" name of the sheriff played by Michael Ontkean, we assume the buck stops in his office",
+          "choices": [
+            "Harry S Truman",
+            "Richard M Nixon",
+            "Gerald R Ford",
+            "Lyndon B Johnson"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Mount Elbert & Longs Peak",
+          "choices": [
+            "the Alps",
+            "the Rockies",
+            "the Sierras",
+            "the Appalachians"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Lassen Peak & Mount Rainier",
+          "choices": [
+            "the Olympics",
+            "the Andes",
+            "the Cascades",
+            "the Alps"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Mont-Louis & Monte Perdido",
+          "choices": [
+            "the Pyrenees",
+            "the Alps",
+            "the Carpathians",
+            "the Urals"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "His 1st line on the show was: \"Diane. 11:30 a.m. February 24th. Entering the town of \"Twin Peaks\"",
+          "choices": [
+            "Special Agent Cooper (FBI agent)",
+            "Agent Dale Cooper (CIA operative)",
+            "Special Agent Cooper (DEA agent)",
+            "Special Agent Cooper (local sheriff)"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ELEMENTAL ETYMOLOGY",
+      "questions": [
+        {
+          "clue": "2 substances, borax & carbon, give us the name of this element used in nuclear control rods",
+          "choices": [
+            "carbon",
+            "boron",
+            "boron carbide",
+            "carbon dioxide"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Per Teodor Cleve named holmium in 1879 for his native city, this European capital",
+          "choices": [
+            "Copenhagen",
+            "Stockholm",
+            "Oslo",
+            "Helsinki"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Promethium is named for a man in Greek legend known for theft of this",
+          "choices": [
+            "light",
+            "knowledge",
+            "secrets",
+            "fire"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This noble gas is named for an element discovered by the Curies",
+          "choices": [
+            "krypton",
+            "argon",
+            "xenon",
+            "radon"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Etymologically, phosphorus refers to something that is \"bearing\" this",
+          "choices": [
+            "fire",
+            "water",
+            "air",
+            "light"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NOVEL VOCABULARY",
+      "questions": [
+        {
+          "clue": "Swipes, a slang term for weak beer, appears in his novel \"Bleak House\"",
+          "choices": [
+            "Jane Austen",
+            "Charles Dickens",
+            "Emily Bronte",
+            "George Eliot"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The word \"fairlings\" means presents bought at a fair in his novel \"Tess of the d'Urbervilles\"",
+          "choices": [
+            "Charlotte Bronte",
+            "Emily Bronte",
+            "George Eliot",
+            "Thomas Hardy"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In \"Daisy Miller\", the phrase \"a glass in one eye\" refers to this type of eyeglass",
+          "choices": [
+            "a pair of spectacles",
+            "a pair of glasses",
+            "a monocle",
+            "a blindfold"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Hawthorne used \"spiracles\" to mean airshafts in this novel with another architectural feature in the title",
+          "choices": [
+            "The Scarlet Letter",
+            "The House of the Seven Windows",
+            "The House of Mirth",
+            "The House of Seven Gables"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Swift says Gulliver made \"a voyage or two into the Levant\", which is on the shores of this sea",
+          "choices": [
+            "the Mediterranean Sea",
+            "the Atlantic Ocean",
+            "the Pacific Ocean",
+            "the Indian Ocean"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Bergamot is also called the \"balm\" of these creatures to which it's highly attractive",
+    "choices": [
+      "ants",
+      "bees",
+      "butterflies",
+      "beetles"
+    ],
+    "correctIndex": 1,
+    "category": "FLOWER"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-20",
+  "categories": [
+    {
+      "name": "POETIC WOMEN",
+      "questions": [
+        {
+          "clue": "Elizabeth Barrett Browning asked, \"How do I love thee?\", then answered her own question starting with these 5 words",
+          "choices": [
+            "I love thee purely",
+            "with my soul's depth",
+            "let me count the ways",
+            "to the level of every day"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In \"First Fig\" she wrote, \"My candle burns at both ends; it will not last the night\"",
+          "choices": [
+            "Sylvia Plath",
+            "Edna St. Vincent Millay",
+            "Virginia Woolf",
+            "Emily Dickinson"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A painter & a poet in her own right, Frieda Hughes still finds herself living in the shadow of her parents, Ted Hughes & her",
+          "choices": [
+            "Ted Hughes",
+            "Sylvia Plath",
+            "Anne Sexton",
+            "Louise Gl\u00fcck"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This Robert Browning title girl \"passes\" the time on her day off from a silk mill",
+          "choices": [
+            "Julia",
+            "Myla",
+            "Pippa",
+            "Gloriana"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Born Lucila Godoy Alcayaga in Vicuna, Chile, she was the first Latin American woman to win a Nobel Prize in literature",
+          "choices": [
+            "Isabel Allende",
+            "Claudia Lars",
+            "Gabriela Mistral",
+            "Alfonsina Storni"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CLASSIC CINEMA",
+      "questions": [
+        {
+          "clue": "Originally planned for Laughton & Lanchester, this film finally featured Bogart & Hepburn",
+          "choices": [
+            "The Maltese Falcon",
+            "Casablanca",
+            "To Have and Have Not",
+            "The African Queen"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This husband of Jessica Tandy made his screen debut in 1943 in Hitchcock's classic \"Shadow Of A Doubt\"",
+          "choices": [
+            "Hume Cronyn",
+            "Oskar Homolka",
+            "George Sanders",
+            "Joseph Cotten"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"His whole life was a million-to-one shot\" was the tagline for this 1976 Best Picture winner",
+          "choices": [
+            "Patton",
+            "Rocky",
+            "Apocalypse Now",
+            "One Flew Over the Cuckoo's Nest"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Hitchcock tells Cary Grant where to go",
+          "choices": [
+            "North by Northwest",
+            "Rear Window",
+            "Vertigo",
+            "Psycho"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Among the films he's directed are 1948's \"Oliver Twist\" & \"A Passage to India\"",
+          "choices": [
+            "David Lean",
+            "Stanley Kubrick",
+            "Orson Welles",
+            "John Huston"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"YO\"!",
+      "questions": [
+        {
+          "clue": "From the same species, Grogu is popularly known as \"Baby\" him",
+          "choices": [
+            "Jar Jar Binks",
+            "Plo Koon",
+            "Yoda",
+            "Yaddle"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This holiday celebrates Mexico's victory over France in an 1862 battle",
+          "choices": [
+            "Day of the Dead",
+            "Mexican Independence Day",
+            "Cinco de Mayo",
+            "Las Posadas"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "People magazine once named this cellist the \"Sexiest Classical Musician\"",
+          "choices": [
+            "Yo-Yo Ma",
+            "Itzhak Perlman",
+            "Pl\u00e1cido Domingo",
+            "Mischa Maisky"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In \"Catch-22\" this character says, \"Insanity is contagious\"",
+          "choices": [
+            "Milo",
+            "Captain Aardvark",
+            "Corporal Nately",
+            "Yossarian"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Smarter than the average bear, he stole picnic baskets from Jellystone Park",
+          "choices": [
+            "Boo Boo Bear",
+            "Winnie the Pooh",
+            "Paddington Bear",
+            "Yogi Bear"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The O'Connell & Sean O'Casey Bridges",
+    "choices": [
+      "the Thames",
+      "the Liffey",
+      "the Seine",
+      "the Danube"
+    ],
+    "correctIndex": 1,
+    "category": "BRIDGE ON THE RIVER"
+  }
+}

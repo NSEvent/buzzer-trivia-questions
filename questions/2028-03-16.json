@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-16",
+  "categories": [
+    {
+      "name": "PLACES",
+      "questions": [
+        {
+          "clue": "UAE is short for this Mideast nation",
+          "choices": [
+            "the United Kingdom of Great Britain",
+            "the United States of America",
+            "the United Nations Organization",
+            "the United Arab Emirates"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This Russian resort city that hosted the 2014 Winter Olympics also hosted some World Cup games in 2018",
+          "choices": [
+            "Vladivostok",
+            "Sochi",
+            "Yakutsk",
+            "Khabarovsk"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The city of Fukui, on this largest of Japan's islands, was devastated by an earthquake in 1948",
+          "choices": [
+            "Kyushu",
+            "Hokkaido",
+            "Honshu",
+            "Shikoku"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It's the name of this state, mate",
+          "choices": [
+            "Tasmania",
+            "Queensland",
+            "Victoria",
+            "New South Wales"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "There is some debate over which Johannes this city on the Highveld is named for",
+          "choices": [
+            "Kimberley",
+            "Johannesburg",
+            "Pietermaritzburg",
+            "Port Elizabeth"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ENGLAND",
+      "questions": [
+        {
+          "clue": "Because of Guy Fawkes , on opening day of this, Beefeaters check for kegs of gunpowder in the cellar",
+          "choices": [
+            "Westminster Abbey",
+            "Parliament",
+            "Tower of London",
+            "Buckingham Palace"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A memorial to John F. Kennedy, not King John, is at this historically significant site",
+          "choices": [
+            "Winchester",
+            "Canterbury",
+            "Salisbury",
+            "Runnymede"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A \"rock\" variety of game hen is named for this southwestern county of England",
+          "choices": [
+            "Dorset",
+            "Devon",
+            "Cornwall",
+            "Sussex"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This dialect in which \"lady\" becomes \"lydy\" is spoken primarily in London's East End",
+          "choices": [
+            "Geordie",
+            "cockney",
+            "Cockatrice",
+            "Yorkshire"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This Celtic language that's spoken by fewer than 15,000, mostly in the far SW, is recognized as a minority language in England",
+          "choices": [
+            "Welsh",
+            "Cornish",
+            "Manx",
+            "Breton"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PLAY ADJECTIVES",
+      "questions": [
+        {
+          "clue": "David Yazbek & Jeffrey Lane's musical \"____ ____ Scoundrels\"",
+          "choices": [
+            "Dirty Rotten",
+            "Dirty Old",
+            "Filthy Rich",
+            "Shady Little"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Tennessee Williams' \"____ Bird of Youth\"",
+          "choices": [
+            "Wild",
+            "Lonely",
+            "Sweet Bird of Youth",
+            "Lost"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Mark Medoff's \"Children of a ____ God\"",
+          "choices": [
+            "Greater",
+            "Lesser",
+            "Higher",
+            "Divine"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Edward Albee's \"A ____ Balance\"",
+          "choices": [
+            "Fragile",
+            "Delicate",
+            "Delirious",
+            "Fragrant"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Howard Sackler's \"The ____ ____ Hope\"",
+          "choices": [
+            "The Great White Hope",
+            "The Great Black Hope",
+            "The Great White Lion",
+            "The Great White Shark"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The soft underfur of a Tibetan goat gives this cashmere shawl its name, which is partly derived from Urdu",
+    "choices": [
+      "a mohair",
+      "a cashmere",
+      "a pashmina",
+      "a silk"
+    ],
+    "correctIndex": 2,
+    "category": "WHAT TO WEAR"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2027-05-22",
+  "categories": [
+    {
+      "name": "IF THEY MARRIED...",
+      "questions": [
+        {
+          "clue": "Comedienne O'Donnell weds 76ers head coach Maurice & is all aglow with this name",
+          "choices": [
+            "Julia Tressel",
+            "Katie Couric",
+            "Lara Spencer",
+            "Rosie Cheeks"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "If \"Entertainment Tonight\" anchor Mary married Irish actor Gabriel, she'd suffer with this hyphenated name",
+          "choices": [
+            "Hart-Byrne",
+            "Smith-Jones",
+            "Brown-Lee",
+            "Garcia-Rodriguez"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Ivanka's mom, the former Mrs. Trump, makes it legal with '70s chief justice Warren & becomes...",
+          "choices": [
+            "Nancy Reagan",
+            "Ivana Burger",
+            "Barbara Bush",
+            "Lady Bird"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "If Michelle & John Phillips' daughter wed screenwriter Robert, she'd have this name, like his 1974 Oscar-winning screenplay",
+          "choices": [
+            "Pamela Des Barres",
+            "Joni Mitchell",
+            "Carole King",
+            "Chynna Towne"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Becky from the novel \"Vanity Fair\" marries \"Sideways\" director Alexander & hyphenates to get this last name",
+          "choices": [
+            "Becky Sharp-Payne",
+            "Becky Sharp-Sideways",
+            "Becky Sharp-Hyphenate",
+            "Becky Sharp-Director"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE 1830s",
+      "questions": [
+        {
+          "clue": "In 1835 he was made commander of the Texan army",
+          "choices": [
+            "William B. Travis",
+            "Sam Houston",
+            "James Bowie",
+            "Stephen F. Austin"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "On April 6, 1830 this church was organized by Joseph Smith in Fayette, N.Y.",
+          "choices": [
+            "Catholic",
+            "Baptist",
+            "Methodist",
+            "Mormon"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 1837 in Machunk, Pennsylvania, this kind of coal was used to smelt iron for the first time",
+          "choices": [
+            "Bituminous",
+            "Lignite",
+            "Charcoal",
+            "Anthracite"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1831 the first U.S. political party to have a national convention was this one \"anti\" secret societies & oaths",
+          "choices": [
+            "the Whig Party",
+            "the Democratic-Republican Party",
+            "the Anti-Masonic Party",
+            "the Anti-Federalist Party"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1836 Richmond, Canada, just across the river from Detroit, was renamed this",
+          "choices": [
+            "Amherstburg",
+            "Buckingham",
+            "Windsor",
+            "Chatham"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WOMEN WRITERS",
+      "questions": [
+        {
+          "clue": "Anne has been convinced not to marry Wentworth in this woman's novel \"Persuasion\"",
+          "choices": [
+            "Mary Shelley",
+            "George Eliot",
+            "Jane Austen",
+            "Elizabeth Gaskell"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "She dedicated the second edition of \"Jane Eyre\" to novelist William Makepeace Thackeray",
+          "choices": [
+            "Emily Bronte",
+            "Elizabeth Barrett Browning",
+            "Harriet Beecher Stowe",
+            "Charlotte Bronte"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "She wrote the 1970 novel \"Play it as it Lays\" & the 2005 memoir \"The Year of Magical Thinking\"",
+          "choices": [
+            "Jamaica Kincaid",
+            "Joan Didion",
+            "Toni Morrison",
+            "Edith Wharton"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Short, dark creator of \"Big Blonde\", she was more famous for her wit around the Algonquin Round Table",
+          "choices": [
+            "Nora Ephron",
+            "Dorothy Sayers",
+            "Dorothy Parker",
+            "May Sarton"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1899 readers awakened to \"The Awakening\", written by this woman",
+          "choices": [
+            "Charlotte Perkins Gilman",
+            "Kate Chopin",
+            "Louisa May Alcott",
+            "Edith Wharton"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This first mate of the Pequod tries to talk captain Ahab out of his obsession with Moby Dick",
+    "choices": [
+      "Stubb",
+      "Flask",
+      "Starbuck",
+      "Fedallah"
+    ],
+    "correctIndex": 2,
+    "category": "LITERARY CHARACTERS"
+  },
+  "bonusRound": {
+    "clue": "(I'm Vincent Kartheiser of Mad Men.) The ruthless leader Commodus believed he was this god, the son of Zeus, & showed off his physical strength by fighting & dressing as a gladiator",
+    "choices": [
+      "Hercules",
+      "Apollo",
+      "Ares",
+      "Perseus"
+    ],
+    "correctIndex": 0,
+    "category": "DEMONS"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-24",
+  "categories": [
+    {
+      "name": "THE SWORD",
+      "questions": [
+        {
+          "clue": "When a medieval squire was ceremonially tapped with a sword, he became one of these",
+          "choices": [
+            "a squire",
+            "a knight",
+            "a baron",
+            "a page"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Uma Thurman is a master of the Hattori Hanzo katana in these films",
+          "choices": [
+            "Kill Bill Vol. 2",
+            "Kill Bill",
+            "Kill the Bill",
+            "Kill Bill: A New Beginning"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Mel Gibson hurled his broadsword in the air & cried, \"Freedom\" in this epic",
+          "choices": [
+            "Braveheart",
+            "Gladiator",
+            "Troy",
+            "Kingdom of Heaven"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Wesley Snipes slices his sword through vampires in this film trilogy",
+          "choices": [
+            "Underworld",
+            "Blade",
+            "Near Dark",
+            "Interview with the Vampire"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Edward Bulwer-Lytton wrote that this instrument \"is mightier than the sword\"",
+          "choices": [
+            "the keyboard",
+            "the quill",
+            "the pen",
+            "the typewriter"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FUN WITH ZIP CODES",
+      "questions": [
+        {
+          "clue": "This California city also includes 90211 & 90212",
+          "choices": [
+            "West Hollywood",
+            "Beverly Hills",
+            "Bel Air",
+            "Santa Monica"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In the '90s the Spiegel Catalog warehouse moved to Groveport, Ohio 43125 from this city 60609",
+          "choices": [
+            "Chicago",
+            "New York",
+            "Los Angeles",
+            "San Francisco"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "To promote the use of ZIP Codes, Ethel Merman recorded a jingle to the tune of this song from \"Song of the South\"",
+          "choices": [
+            "\"It's a Small World\"",
+            "\"Zip-A-Dee-Doo-Dah\"",
+            "\"Supercalifragilisticexpialidocious\"",
+            "\"The Bare Necessities\""
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The ZIP Code 12345 in Schenectady, New York lights up this company that began operations there in 1892",
+          "choices": [
+            "Westinghouse",
+            "Toshiba",
+            "Philips",
+            "General Electric"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "ZIP Codes go up to 99950, which belongs to a city in this state",
+          "choices": [
+            "Alaska",
+            "Hawaii",
+            "New York",
+            "California"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HERE COMES THE NEIGHBORHOOD",
+      "questions": [
+        {
+          "clue": "The State House shines from this hill in Boston",
+          "choices": [
+            "Beacon Hill",
+            "Copley Square",
+            "Commonwealth Avenue",
+            "Boston Public Garden"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Neil Simon title a play this Brooklyn neighborhood \"Memoirs\"",
+          "choices": [
+            "Manhattan Memoirs",
+            "Brighton Beach Memoirs",
+            "Queens Memories",
+            "Brooklyn Bridge Stories"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A real Charleston, S.C. neighborhood was the inspiration for this \"Row\" in the opera \"Porgy & Bess\"",
+          "choices": [
+            "Cabbage Row",
+            "Catfish Row",
+            "Pigeon Row",
+            "Oyster Row"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The Gaslamp Quarter is the happening part of this Southern California city",
+          "choices": [
+            "San Diego",
+            "Santa Barbara",
+            "San Jose",
+            "San Luis Obispo"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "NYC area adjoining & 1 letter different from SoHo",
+          "choices": [
+            "FiDi",
+            "TriBeCa",
+            "SoDo",
+            "NoHo"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1823 Mary Anning discovered the first full fossil skeleton of a \"sea dragon\", this long-necked marine reptile",
+    "choices": [
+      "a plesiosaur",
+      "a pterosaur",
+      "a mosasaur",
+      "a ichthyosaur"
+    ],
+    "correctIndex": 0,
+    "category": "WOMEN OF SCIENCE"
+  }
+}

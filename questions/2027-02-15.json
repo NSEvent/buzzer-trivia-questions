@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-15",
+  "categories": [
+    {
+      "name": "FRENCH CROSSWORD CLUES",
+      "questions": [
+        {
+          "clue": "Have a great trip! (3, 6)",
+          "choices": [
+            "bon voyage",
+            "safe travels",
+            "good luck",
+            "have fun"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "High fashion (5, 7)",
+          "choices": [
+            "high style",
+            "fancy dress",
+            "trendy mode",
+            "haute couture"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "& There you have it! (5)",
+          "choices": [
+            "there you go",
+            "voil\u00e0",
+            "it is done",
+            "end result"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A place de coiffure or de beaute (5)",
+          "choices": [
+            "salon",
+            "beauty shop",
+            "spa center",
+            "makeup studio"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Young foreign domestic (2 letters & 4 letters)",
+          "choices": [
+            "au pair",
+            "a la mode",
+            "en route",
+            "vis a vis"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COME FLY WITH ME",
+      "questions": [
+        {
+          "clue": "\"You are now free to move about the country\" on this airline, founded in Texas in 1971",
+          "choices": [
+            "Delta",
+            "United",
+            "Southwest",
+            "American"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 2008 this \"colorful\" airline got a new home at JFK's Terminal 5",
+          "choices": [
+            "American",
+            "United",
+            "JetBlue",
+            "Delta"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "We've got this low-cost airline, yes we do, we've got this airline with the NASDAQ symbol SAVE, how 'bout you?",
+          "choices": [
+            "Frontier",
+            "Spirit",
+            "Allegiant",
+            "Sun Country"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The hub of the national carrier of this country, launched in 1979, is in the seaport of Colombo",
+          "choices": [
+            "Sri Lanka",
+            "Maldives",
+            "Indonesia",
+            "India"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 2009 you could go one-way from Orlando to the Dublin head office of this airline for $242",
+          "choices": [
+            "KLM",
+            "Air France",
+            "British Airways",
+            "Aer Lingus"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FRENCH ARTS & CULTURE",
+      "questions": [
+        {
+          "clue": "An antique furniture style is named for this long-reigning French king of the late 17th century",
+          "choices": [
+            "Louis XIV",
+            "Henry IV",
+            "Charles VI",
+            "Louis XV"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1857 Flaubert was tried & nearly convicted of immorality due to the subject matter of this novel",
+          "choices": [
+            "The Stranger",
+            "Nana",
+            "Therese Raquin",
+            "Madame Bovary"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "At 15 in 1931 this \"La Vie En Rose\" singer was already supporting herself singing in Paris",
+          "choices": [
+            "Jos\u00e9phine Baker",
+            "(Edith) Piaf",
+            "Mireille Mathieu",
+            "Yvette Guilbert"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Giada De Laurentiis attended this French cooking school that today offers le grand diplome",
+          "choices": [
+            "Le Chef Paris",
+            "\u00c9cole Paul Bocuse",
+            "Le Cordon Bleu",
+            "Institut Gusto"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Danse macabre\" is one of this composer's symphonic poems",
+          "choices": [
+            "Richard Strauss",
+            "Saint-Sa\u00ebns",
+            "Pyotr Ilyich Tchaikovsky",
+            "Hector Berlioz"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"Anabasis\" chronicles the Greeks' 1500-mile retreat after fighting for Prince Cyrus of this empire",
+    "choices": [
+      "Ottoman Empire",
+      "Roman Empire",
+      "Byzantine Empire",
+      "Persian Empire"
+    ],
+    "correctIndex": 3,
+    "category": "ANCIENT GREEK SALAD"
+  }
+}

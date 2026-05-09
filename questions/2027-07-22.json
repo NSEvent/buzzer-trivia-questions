@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-22",
+  "categories": [
+    {
+      "name": "AUTHORS' RHYME TIME",
+      "questions": [
+        {
+          "clue": "Walker's castles",
+          "choices": [
+            "Cinderella's castles",
+            "Snow White's palaces",
+            "Alice's palaces",
+            "Sleeping Beauty's towers"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Ayn's rock groups",
+          "choices": [
+            "Ayn's music bands",
+            "Rand's bands",
+            "Rand's rock groups",
+            "Rand's orchestras"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Mr. McCourt's handles to start up Model T Fords",
+          "choices": [
+            "Frank's starters",
+            "Frank's cranks",
+            "Frank's levers",
+            "Frank's keys"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Eudora's Scottish sheepdogs",
+          "choices": [
+            "Welty's cats",
+            "Welty's dogs",
+            "Welty's shelties",
+            "Welty's sheep"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "O'Connor's sardine factories",
+          "choices": [
+            "Gore's fish markets",
+            "Carson's bait shops",
+            "King's seafood outlets",
+            "Flannery's canneries"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FROM THE U.S. CITIZENSHIP TEST",
+      "questions": [
+        {
+          "clue": "At 81, he was the oldest delegate to the Constitutional Convention",
+          "choices": [
+            "Franklin",
+            "Washington",
+            "Adams",
+            "Jefferson"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The 3 branches of the U.S. federal government",
+          "choices": [
+            "Military, Police & Civil",
+            "Executive, Judicial & Legislative",
+            "Senate, House & Courts",
+            "White, Capitol & Supreme"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "These \"Northern\" islands in the Pacific are a U.S. territory",
+          "choices": [
+            "the Northern Mariana Islands",
+            "the Hawaiian Islands",
+            "the Aleutian Islands",
+            "the Marshall Islands"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "When needed, it has the power to declare war upon other nations",
+          "choices": [
+            "Congress",
+            "Senate",
+            "Supreme Court",
+            "President"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It's the year in which the U.S. Constitution was written",
+          "choices": [
+            "1776",
+            "1787",
+            "1791",
+            "1800"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"C\" CITIES",
+      "questions": [
+        {
+          "clue": "Dar El-Beida is the Arabic name of this, Morocco's largest city",
+          "choices": [
+            "Algiers",
+            "Casablanca",
+            "Tunis",
+            "Rabat"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Its heart is Tivoli, an amusement park & garden",
+          "choices": [
+            "Oslo",
+            "Stockholm",
+            "Copenhagen",
+            "Helsinki"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The historic Teapot Dome is among the oil fields surrounding this Wyoming city",
+          "choices": [
+            "Laramie",
+            "Casper",
+            "Cheyenne",
+            "Rock Springs"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Est. in 1550, in 1570, 1730, 1751 & 1939 earthquakes & tidal floods devastated this Chilean city",
+          "choices": [
+            "Concepci\u00f3n",
+            "Concepcion",
+            "Coquimbo",
+            "Coihaique"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The Pinyin Chinese name for this southern port is Guangzhou",
+          "choices": [
+            "Chaozhou",
+            "Canton",
+            "Chongqing",
+            "Chengdu"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The title of this famed aria from \"Rigoletto\" is translated as \"woman is fickle\"",
+    "choices": [
+      "\"La Dona e Mobile\"",
+      "La Donna e Mobile",
+      "La Traviata",
+      "Rigoletto"
+    ],
+    "correctIndex": 0,
+    "category": "ARIAS"
+  }
+}

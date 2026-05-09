@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-26",
+  "categories": [
+    {
+      "name": "MEDIEVAL PEOPLE",
+      "questions": [
+        {
+          "clue": "It's believed in 1455 Johann Fust foreclosed on & took over this man's printing operation",
+          "choices": [
+            "Johannes Gutenberg",
+            "Conrad Sweynheim",
+            "Arnold Pannartz",
+            "Schweinar"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Appropriately, the third Pope of this name was a city boy, born in & later archbishop of Milan",
+          "choices": [
+            "Urban",
+            "Gregory",
+            "Leo",
+            "Benedict"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Mondino de' Luzzi revived this medical study; some found his dissections \"gross\"",
+          "choices": [
+            "anatomy",
+            "chemistry",
+            "astronomy",
+            "philosophy"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Ethelred the Unready managed to lose most of England to King Sweyn Forkbeard of this country",
+          "choices": [
+            "Norway",
+            "Sweden",
+            "Iceland",
+            "Denmark"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Spanish warrior, knight errant & star of his own epic, Rodrigo Diaz de Vivar was known by this name",
+          "choices": [
+            "El Cid",
+            "El Conquistador",
+            "Don Quixote",
+            "King Alfonso"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FAMOUS LAST WORDS",
+      "questions": [
+        {
+          "clue": "A woman facing the guillotine, 1793: \"Farewell, my children, I go to rejoin your father\"",
+          "choices": [
+            "Olympe de Gouges",
+            "Madame Royale",
+            "Charlotte Corday",
+            "Marie Antoinette"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1923 this Mexican bandit died beseeching a journalist, \"Don't let it end like this. Tell them I said something.\"",
+          "choices": [
+            "Emiliano Zapata",
+            "Pancho Villa",
+            "Pancho Pancho",
+            "General Huerta"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This 2-word phrase for a farewell performance is derived from the belief that a certain bird makes music as it dies",
+          "choices": [
+            "a swan song",
+            "a phoenix rising",
+            "a final bow",
+            "a swan dive"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This legend of animation wrote a name on a piece of paper before his 1966 death\u2014Kurt Russell; Kurt has no idea why",
+          "choices": [
+            "Mickey Mouse",
+            "Ub Iwerks",
+            "(Walt) Disney",
+            "John Lasseter"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "On televisions it refers to clarity of visual detail; legally, it's a verdict or final decision",
+          "choices": [
+            "a conclusion",
+            "a resolution",
+            "a settlement",
+            "a determination"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "EMPIRES",
+      "questions": [
+        {
+          "clue": "The Canary Islands are just about all that's left of this empire that once held much of the Americas",
+          "choices": [
+            "the British Empire",
+            "the Portuguese Empire",
+            "the Spanish Empire",
+            "the Dutch Empire"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "At the 1389 Battle of Kosovo, this empire's sultan routed the Serbs",
+          "choices": [
+            "Byzantine",
+            "Mongol",
+            "Ottoman",
+            "Seljuk"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The actual name for this empire was Tahuantinsuyu, Quechuan for \"Land of the Four Quarters\"",
+          "choices": [
+            "the Aztec Empire",
+            "the Incan Empire",
+            "the Mayan Empire",
+            "the Ottoman Empire"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The German empire of 1871-1918 consisted of 25 states, but this militaristic kingdom occupied 3/5 of it",
+          "choices": [
+            "Bavaria",
+            "Saxony",
+            "Prussia",
+            "W\u00fcrttemberg"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 811 this eastern empire's Nicephorus I invaded Bulgaria; the Bulgur Khan had his skull made into a drinking cup",
+          "choices": [
+            "Byzantine",
+            "Roman",
+            "Persian",
+            "Egyptian"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In the center of the Iranian flag is a stylized representation of this word",
+    "choices": [
+      "Muhammad",
+      "Allah",
+      "Islam",
+      "Mosque"
+    ],
+    "correctIndex": 1,
+    "category": "IRAN"
+  }
+}

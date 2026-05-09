@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-23",
+  "categories": [
+    {
+      "name": "TEENS IN LITERATURE",
+      "questions": [
+        {
+          "clue": "She's 16 at the beginning of \"Gone with the Wind\" & has a 17\" waist, \"the smallest in three counties\"",
+          "choices": [
+            "Melanie Hamilton",
+            "Ellen O'Hara",
+            "Scarlett O'Hara",
+            "Bonnie Blue Butler"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Chapter 2, part 4 of this Pasternak novel tells us \"Lara was only a little over sixteen but she was well developed\"",
+          "choices": [
+            "\"Doctor Zhivago\"",
+            "The Master and Margarita",
+            "Crime and Punishment",
+            "War and Peace"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "His foster child, Eppie, chooses to stay with him at the end of this classic novel by George Eliot",
+          "choices": [
+            "Silas Marner",
+            "George Eliot",
+            "Adam Bede",
+            "Dorothea Brooke"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "18-year-old Carrie Meeber moves to Chicago & gets a job in a shoe factory in this Theodore Dreiser novel",
+          "choices": [
+            "\"Sister Carrie\"",
+            "An American Tragedy",
+            "Sister of the Garter",
+            "Sisterhood of the Traveling Pants"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "\"Stuck in Neutral\" is a journey into the world of a teen with CP, this disorder",
+          "choices": [
+            "cerebral palsy",
+            "muscular dystrophy",
+            "cerebral vascular accident",
+            "spinal muscular atrophy"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SWIMMING & DIVING",
+      "questions": [
+        {
+          "clue": "Competition diving boards made of this metal appeared in the 1960s, making higher dives possible",
+          "choices": [
+            "steel",
+            "fiberglass",
+            "aluminum",
+            "alloy"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Of the 4 strokes used in competition, this one produces the slowest times",
+          "choices": [
+            "breaststroke",
+            "butterfly",
+            "backstroke",
+            "sidestroke"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Now a sportscaster, at age 13 she was youngest member of American team in 1960 Olympics",
+          "choices": [
+            "Kathleen Heddle",
+            "Shirley Babashoff",
+            "Debbie Meyer",
+            "Donna de Varona"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Diving meets consist of competition in springboard & this",
+          "choices": [
+            "trampoline",
+            "spring",
+            "boardwalk",
+            "platform"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Diving position where diver stays bent at hips with legs held straight & grasps the back of the knees",
+          "choices": [
+            "tuck",
+            "pike",
+            "straight",
+            "layout"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IT HAPPENED ON GROUNDHOG DAY",
+      "questions": [
+        {
+          "clue": "Jascha Heifetz, born Feb. 2, 1901, was giving concerts on this instrument by 1907",
+          "choices": [
+            "Violin",
+            "Piano",
+            "Cello",
+            "Viola"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1986 the Pope met in India with this exiled Buddhist leader",
+          "choices": [
+            "Nelson Mandela",
+            "Aung San Suu Kyi",
+            "Tenzin Gyatso",
+            "Dalai Lama"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "1940: This legendary singer debuts with the Tommy Dorsey Orchestra",
+          "choices": [
+            "Bing Crosby",
+            "Frank Sinatra",
+            "Dean Martin",
+            "Nat King Cole"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "1653: This city, later renamed New York City, is incorporated",
+          "choices": [
+            "New Rochelle",
+            "New Brunswick",
+            "New Haven",
+            "New Amsterdam"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "1848: The Treaty of Guadalupe Hidalgo is signed, ending this war",
+          "choices": [
+            "the Spanish-American War",
+            "the Mexican-American War",
+            "the Civil War",
+            "the Mexican Revolution"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Works by this British sculptor have holes to emphasize their 3-dimensional qualities",
+    "choices": [
+      "Alberto Giacometti",
+      "Barbara Hepworth",
+      "Henry Moore",
+      "Henry Moore's rival"
+    ],
+    "correctIndex": 2,
+    "category": "\"MOORE\" OR \"LES\""
+  }
+}

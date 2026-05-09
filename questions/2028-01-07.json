@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-07",
+  "categories": [
+    {
+      "name": "GOING DOWN IN HISTORY",
+      "questions": [
+        {
+          "clue": "In 1904's election Alton B. Parker & 80-year-old running mate Henry Davis went down to defeat against this pres.",
+          "choices": [
+            "Teddy Roosevelt",
+            "William McKinley",
+            "Grover Cleveland",
+            "Theodore Parker"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The first invasion with a main role for these troops was when the Nazi Fallschirmj\u00e4ger descended from the sky on Crete",
+          "choices": [
+            "the paratroopers",
+            "the marines",
+            "the commandos",
+            "the paratroops"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In 1941 Abe Reles, an informer on this homicidal \"corporation\", went down in history\u20146 stories straight down",
+          "choices": [
+            "The Five Families",
+            "The West Side Gang",
+            "The Murder Cycle",
+            "Murder, Inc."
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1886 PM Gladstone suffered defeat when he tried to get home rule for this island",
+          "choices": [
+            "Scotland",
+            "Wales",
+            "England",
+            "Ireland"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The documentary \"The Battle of Chile\" chronicles events leading to this politician's downfall",
+          "choices": [
+            "(Salvador) Allende",
+            "(Augusto) Pinochet",
+            "(Fidel) Castro",
+            "(Juan) Per\u00f3n"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MASCOTS",
+      "questions": [
+        {
+          "clue": "Sydney, Higgins & Big Ears are among the koala mascots used by this airline over the years",
+          "choices": [
+            "Virgin Australia",
+            "Qantas",
+            "Jetstar",
+            "Air New Zealand"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Misha, the mascot for the 1980 Summer Olympics in Moscow, was this type of animal",
+          "choices": [
+            "wolf",
+            "bear",
+            "eagle",
+            "lion"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 2011 thieves in Ireland made off with a statue of Mr. Bib, this tire company's mascot",
+          "choices": [
+            "Bridgestone",
+            "Goodyear",
+            "Pirelli",
+            "Michelin"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Originally named Jumpman, this Nintendo mascot got a new name for Donkey Kong Jr.",
+          "choices": [
+            "Luigi",
+            "Mario",
+            "Sonic",
+            "Pikachu"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "A Berkeley blog likened Stanford's unofficial mascot, one of these, to a \"constipated squid struggling with dinner\"",
+          "choices": [
+            "a bear",
+            "a cardinal",
+            "a tree frog",
+            "a tree"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE NEW YORK TIMES PULITZER WINNERS",
+      "questions": [
+        {
+          "clue": "(I'm David Barstow.) My Pulitzer-winning story about retired generals co-opted as analysts to sell the Iraq War was headlined this building's \"Hidden Hand\"",
+          "choices": [
+            "the Capitol",
+            "the White House",
+            "the Pentagon",
+            "the State Department"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "(I'm Nicholas Kristof.) In 2006 I won a Pulitzer Prize for commentary that raised public awareness of the genocide in this region of Sudan",
+          "choices": [
+            "Sahel",
+            "Sudan",
+            "Chad",
+            "Darfur"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "(I'm Linda Greenhouse.) I won a 1998 Pulitzer for covering the Supreme Court with articles like \"Why\" this name of a failed nominee \"Is Still a Verb in Politics 10 Years Later\"",
+          "choices": [
+            "Bork",
+            "Hill",
+            "Gorsuch",
+            "Kavanaugh"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "(Andrea Elliott delivers the clue.) Chronicling the life of an immigrant in Brooklyn who is one of these Muslim leaders of a mosque earned me a 2007 Pulitzer Prize",
+          "choices": [
+            "a sheikh",
+            "an imam",
+            "a sultan",
+            "a caliph"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "(I'm Carolyn Ryan.) In 2009 I was part of the team that won the Pulitzer for breaking news coverage of this New York governor & his stunning fall from grace",
+          "choices": [
+            "George Pataki",
+            "(Eliot) Spitzer",
+            "Mario Cuomo",
+            "Andrew Cuomo"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Cotton is a traditional fabric for this activity of making blankets into colorful art",
+    "choices": [
+      "weaving",
+      "knitting",
+      "crocheting",
+      "quilting"
+    ],
+    "correctIndex": 3,
+    "category": "FABRICS & TEXTILES"
+  }
+}

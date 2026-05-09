@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-18",
+  "categories": [
+    {
+      "name": "IT'S THE BERRIES",
+      "questions": [
+        {
+          "clue": "When this red berry is picked, the core & stem are left on the plant, creating the familiar center hole",
+          "choices": [
+            "a strawberry",
+            "a raspberry",
+            "a blackberry",
+            "a gooseberry"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "When picked ripe this red or black berry pulls away from its core, creating a hollow center",
+          "choices": [
+            "the blackberry",
+            "the raspberry",
+            "the strawberry",
+            "the elderberry"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "New England Indians made their pemmican with these bog berries",
+          "choices": [
+            "cranberries",
+            "lingonberries",
+            "gooseberries",
+            "currants"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Used in pancakes & muffins, this \"colorful\" berry is sometimes confused with the harder-seeded huckleberry",
+          "choices": [
+            "huckleberry",
+            "blueberry",
+            "juniper berry",
+            "mulberry"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Some botanists believe that this berry developed by a California judge in 1881 is a blackberry-raspberry hybrid",
+          "choices": [
+            "the boysenberry",
+            "the marionberry",
+            "the tayberry",
+            "the loganberry"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CLOWNING AROUND",
+      "questions": [
+        {
+          "clue": "In \"It\", he wrote about a monster disguised as a demonic clown named Pennywise",
+          "choices": [
+            "Stephen King",
+            "Dean Koontz",
+            "Peter Straub",
+            "Clive Barker"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Judy Collins hit the pop charts with this song in 1975 & again in 1977",
+          "choices": [
+            "Send in the Pirates",
+            "\"Send In The Clowns\"",
+            "Send in the Judges",
+            "Send in the Guests"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "On TV Damon Wayans played this irascible clown who \"don't play that\"",
+          "choices": [
+            "Bozo",
+            "Gomer",
+            "Homey",
+            "Poochie"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In a classic \"Mary Tyler Moore Show\" episode, this clown bites the dust when he's crushed by an elephant",
+          "choices": [
+            "Bozo",
+            "Rizzo",
+            "Chuckles",
+            "Patches"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This \"Born Yesterday\" star co-wrote the title tune for the 1965 film \"A Thousand Clowns\"",
+          "choices": [
+            "Judy Holliday",
+            "Brook Adams",
+            "Angela Lansbury",
+            "Shirley MacLaine"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MONTHS OF THE YEAR",
+      "questions": [
+        {
+          "clue": "It \"comes in like a lion and goes out like a lamb\"",
+          "choices": [
+            "April",
+            "November",
+            "October",
+            "March"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "During most of this month, it's spring in the U.S.; during part of it, summer",
+          "choices": [
+            "July",
+            "May",
+            "June",
+            "September"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This month that's also a female name is an anagram of the name Pilar",
+          "choices": [
+            "May",
+            "April",
+            "June",
+            "July"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The Germans sometimes call it Christmonat",
+          "choices": [
+            "November",
+            "October",
+            "September",
+            "December"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Bill Clinton was elected President during this month",
+          "choices": [
+            "October",
+            "November",
+            "September",
+            "August"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"Shattering Beauty\" is the title of a 2023 exhibit at the Murano Museum of this in Venice",
+    "choices": [
+      "Ceramic",
+      "Metal",
+      "Wood",
+      "Glass"
+    ],
+    "correctIndex": 3,
+    "category": "VACATION SPOTS"
+  }
+}

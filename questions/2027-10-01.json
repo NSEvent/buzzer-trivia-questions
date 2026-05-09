@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-01",
+  "categories": [
+    {
+      "name": "SANTA",
+      "questions": [
+        {
+          "clue": "You can sit on Santa's lap at this kind of store named for the way it's divided into different sections",
+          "choices": [
+            "grocery store",
+            "supermarket",
+            "convenience store",
+            "department store"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The name Santa Claus comes from the name of this saint who pays \"a visit\" in a famous poem",
+          "choices": [
+            "Saint Patrick",
+            "Saint Nicholas",
+            "Saint George",
+            "Saint Valentine"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Pedro de Mendoza visited what's now this South American country in 1536 & founded Santa Maria del Buen Aire",
+          "choices": [
+            "Argentina",
+            "Brazil",
+            "Chile",
+            "Uruguay"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Selective breeding at the King Ranch produced the Santa Gertrudis, a new heat-resistant breed of this",
+          "choices": [
+            "horses",
+            "sheep",
+            "cattle",
+            "pigs"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The Banana Slugs play sports for this campus of the University of California",
+          "choices": [
+            "Berkeley",
+            "Los Angeles",
+            "San Francisco",
+            "Santa Cruz"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "19th CENTURY AUTHORS",
+      "questions": [
+        {
+          "clue": "This author wrote that he \"wept and laughed, and wept again\" while creating \"A Christmas Carol\"",
+          "choices": [
+            "Mark Twain",
+            "Charles Dickens",
+            "Jane Austen",
+            "Herman Melville"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Her \"Wuthering Heights\" was published just 2 months after sister Charlotte's \"Jane Eyre\"",
+          "choices": [
+            "Charlotte Bront\u00eb",
+            "Virginia Woolf",
+            "Mary Shelley",
+            "Emily Bront\u00eb"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This English novelist introduced his semi-fictional county of Wessex in \"Far from the Madding Crowd\"",
+          "choices": [
+            "Thomas Hardy",
+            "Charles Dickens",
+            "George Eliot",
+            "William Thackeray"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"Persuasion\", the last book she completed before her death in 1817, was published posthumously",
+          "choices": [
+            "Bronte",
+            "Ainsworth",
+            "Disraeli",
+            "Austen"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Everyone \"walked in his own individual way the road to dusty death\" is a typical cheery line from him in \"Tess of the d'Urbervilles\"",
+          "choices": [
+            "Trollope",
+            "Gaskell",
+            "Reade",
+            "Hardy"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SIX FEET UNDER",
+      "questions": [
+        {
+          "clue": "The 6 feet (OK, legs) under an insect are typically attached to this, the middle of its 3 body sections",
+          "choices": [
+            "the abdomen",
+            "the prothorax",
+            "the head",
+            "the thorax"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"The best is yet to come\" says this swingin' singer's grave in California's Desert Memorial Park",
+          "choices": [
+            "(Dean) Martin",
+            "(Nat) King Cole",
+            "(Frank) Sinatra",
+            "(Louis) Armstrong"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "That's no fun! The Indian walking this usually reproduces via parthenogenesis",
+          "choices": [
+            "a lizard",
+            "a stick",
+            "a snake",
+            "a worm"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "New Englander whose epitaph, \"I had a lover's quarrel with the world\", is from his poem \"The Lesson For Today\"",
+          "choices": [
+            "(Robert) Frost",
+            "(Walt) Whitman",
+            "(Henry) Longfellow",
+            "(Edgar) Allan Poe"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "His tombstone says, \"He gave to man control over that dreadful scourge, yellow fever\"",
+          "choices": [
+            "William Gorgas",
+            "James Carroll",
+            "Walter Reed",
+            "Carlos Finlay"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The Sibelius Monument, resembling a collection of organ pipes forming a sound wave",
+    "choices": [
+      "Stockholm",
+      "Helsinki",
+      "Oslo",
+      "Copenhagen"
+    ],
+    "correctIndex": 1,
+    "category": "IN THE OLYMPIC CITY"
+  }
+}

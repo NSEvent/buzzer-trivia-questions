@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-12",
+  "categories": [
+    {
+      "name": "GOOD \"P.R.\"",
+      "questions": [
+        {
+          "clue": "This event is often held before a school football game to show spirit & to get the crowd excited",
+          "choices": [
+            "a school play",
+            "a band concert",
+            "a pep rally",
+            "a football practice"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "It has the domain extension .pr",
+          "choices": [
+            "Puerto Rico",
+            "Peru",
+            "Poland",
+            "Portugal"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Call them chicharrones or call them cracklins, they're still basically this snack",
+          "choices": [
+            "chicken skins",
+            "pork rinds",
+            "fried bacon",
+            "beef jerky"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A rodent that carries off items to store in its nest gives us this term for one who hoards useless articles",
+          "choices": [
+            "squirrel",
+            "pack rat",
+            "hamster",
+            "chipmunk"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This Latin phrase means \"determined by share\"",
+          "choices": [
+            "per capita",
+            "in situ",
+            "ex parte",
+            "pro rata"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "OUTDOORS",
+      "questions": [
+        {
+          "clue": "These sidewalk fixtures allow firefighters to tap into the municipal water supply",
+          "choices": [
+            "hydras",
+            "hydrants",
+            "hydrometers",
+            "hydrides"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "You can draw the pattern for hopscotch with Crayola's rhymingly named sidewalk this",
+          "choices": [
+            "crayons",
+            "charcoal",
+            "chalkboard",
+            "chalk"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Head outdoors for this 3-word game, also the object of the board game Stratego",
+          "choices": [
+            "capture the flag",
+            "hide and seek",
+            "treasure hunt",
+            "capture the castle"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Plaster Rock, New Brunswick hosts the championships of the pond version of this sport\u2014a frozen pond",
+          "choices": [
+            "curling",
+            "snowboarding",
+            "sledding",
+            "ice hockey"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "It's an outdoor structure used for a newsstand or Redbox rentals",
+          "choices": [
+            "shed",
+            "tent",
+            "kiosk",
+            "booth"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CHILDREN'S AUTHORS",
+      "questions": [
+        {
+          "clue": "This California first lady's \"What's Heaven?\" was inspired by the death of her grandmother, Rose Kennedy",
+          "choices": [
+            "Jackie Kennedy",
+            "Michelle Obama",
+            "Maria Shriver",
+            "Hillary Clinton"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Esther Forbes lived most of her life in this state & set her novel \"Johnny Tremain\" there",
+          "choices": [
+            "Vermont",
+            "New Hampshire",
+            "Connecticut",
+            "Massachusetts"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In addition to the \"Goosebumps\" series, he's also written the \"Fear Street\" series for older kids",
+          "choices": [
+            "J.K. Rowling",
+            "Stephen King",
+            "R(obert) L(awrence) Stine",
+            "Dr. Seuss"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This author of \"Goodnight Moon\" was a \"colorful\" character who kept perishable foods in a well",
+          "choices": [
+            "A.A. Milne",
+            "E.B. White",
+            "Beatrix Potter",
+            "Margaret Wise Brown"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Walter R. Brooks created Ed the talking horse (later seen on TV) & Freddy this talking farm animal",
+          "choices": [
+            "chicken",
+            "pig",
+            "goat",
+            "dog"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "We're not letting the Siamese cat out of the bag; in 1996 the baht, this country's currency, was in bad shape",
+    "choices": [
+      "Thailand",
+      "Vietnam",
+      "Malaysia",
+      "Indonesia"
+    ],
+    "correctIndex": 0,
+    "category": "COUNTRY MATTERS"
+  }
+}

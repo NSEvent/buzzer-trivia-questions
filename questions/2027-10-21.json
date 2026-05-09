@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-21",
+  "categories": [
+    {
+      "name": "THE '30S",
+      "questions": [
+        {
+          "clue": "In theater, Kaufman & Ferber's \"Dinner\" time",
+          "choices": [
+            "Seven thirty",
+            "Eight o'clock",
+            "Nine o'clock",
+            "Eleven fifty-nine"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Girlfriend Marion Davies helped save his empire by loaning him $1 million",
+          "choices": [
+            "Charles Lindbergh",
+            "William Randolph Hearst",
+            "Al Capone",
+            "Herbert Hoover"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Depression agency that served as patron of the arts",
+          "choices": [
+            "the CCC (Civilian Conservation Corps)",
+            "the WPA (Works Progress Administration)",
+            "the TVA (Tennessee Valley Authority)",
+            "the NRA (National Recovery Administration)"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In '33, Joe Zangara killed Chicago's mayor Cermak, but missed this main target",
+          "choices": [
+            "Al Smith",
+            "Hugh S. Johnson",
+            "Franklin Delano Roosevelt",
+            "George Norris"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1932, at age 90, he retired after almost 30 years on the Supreme Court",
+          "choices": [
+            "Benjamin Cardozo",
+            "Louis Brandeis",
+            "Harlan Fiske Stone",
+            "Oliver Wendell Holmes"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FROM THE LATIN FOR...",
+      "questions": [
+        {
+          "clue": "...\"to pull\", on the farm it comes in wheel & crawler types",
+          "choices": [
+            "plow",
+            "tractor",
+            "thresher",
+            "planter"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"Of the lungs\"",
+          "choices": [
+            "bronchial",
+            "pulmonary",
+            "cardiac",
+            "gastric"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Hell's border\", it's a region of uncertainty you can be in",
+          "choices": [
+            "limbo",
+            "purgatory",
+            "abyss",
+            "void"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"Goad\", it's another name for the American Recovery & Reinvestment Act",
+          "choices": [
+            "incentive",
+            "grant",
+            "stimulus",
+            "subsidy"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "...\"pour\" or \"melt\", it's an establishment where metal is cast in molds",
+          "choices": [
+            "factory",
+            "forge",
+            "mill",
+            "foundry"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IT'S A BIRD",
+      "questions": [
+        {
+          "clue": "Aka the pilomotor reflex, it's skin's response to cold or emotional stress",
+          "choices": [
+            "goose eggs",
+            "goose grass",
+            "goosebumps",
+            "goose flesh"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Leach's & Wilson's are among the \"storm\" types of this bird",
+          "choices": [
+            "a gull",
+            "a tern",
+            "a petrel",
+            "an albatross"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "These tropical eagles are named for a woman-bird hybrid of Greek mythology",
+          "choices": [
+            "a phoenix",
+            "an eagle",
+            "a harpy",
+            "a griffin"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Before it was a Marx Brothers film title, it meant something easy to do",
+          "choices": [
+            "duck soup",
+            "a piece of cake",
+            "a breeze",
+            "child's play"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The North American species of this huge bird has a great scientific name: Gymnogyps californiaus",
+          "choices": [
+            "the bald eagle",
+            "the Andean condor",
+            "the California condor",
+            "the golden eagle"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This Flaubert heroine just can't stop making eggs",
+    "choices": [
+      "Madame Bovary",
+      "Madame Ovary",
+      "Madame Butterfly",
+      "Madame Curie"
+    ],
+    "correctIndex": 1,
+    "category": "LITERARY LETTER DROP"
+  }
+}

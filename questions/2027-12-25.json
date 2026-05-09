@@ -1,0 +1,207 @@
+{
+  "date": "2027-12-25",
+  "categories": [
+    {
+      "name": "MUSIC CLASS",
+      "questions": [
+        {
+          "clue": "This type of singing that alternates between a low voice & falsetto is popular in the Alps & with Jewel",
+          "choices": [
+            "Singing",
+            "Yodeling",
+            "Yowling",
+            "Yawning"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Sliding one finger across all the harp strings, or drawing a fingertip over all the white piano keys",
+          "choices": [
+            "glissando",
+            "glissade",
+            "glitter",
+            "glacial"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "From the Greek for \"to cut short\" it's what's being done to the rhythm of the melody here",
+          "choices": [
+            "syncopate",
+            "syncopation",
+            "sync",
+            "syncopating"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "You may have studied these Chopin pieces whose name is French for \"studies\"",
+          "choices": [
+            "nocturnes",
+            "mazurkas",
+            "waltzes",
+            "\u00e9tudes"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This composer's works include a somber \"Funeral Ode in Memory of Lenin\" & a scintillating \"Sabre Dance\"",
+          "choices": [
+            "Dmitri Shostakovich",
+            "Sergei Prokofiev",
+            "Aram Khachaturian",
+            "Alexander Scriabin"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MODERN ART",
+      "questions": [
+        {
+          "clue": "The word that finishes the title of the self-portrait sold for over $47 million, \"Yo...\"",
+          "choices": [
+            "Matisse",
+            "Miro",
+            "Dal\u00ed",
+            "Picasso"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "His detractors dubbed him \"Jack the Dripper\"",
+          "choices": [
+            "Willem de Kooning",
+            "Mark Rothko",
+            "Jackson Pollock",
+            "Franz Kline"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Among his decadent black & white drawings is Salome holding the head of John the Baptist",
+          "choices": [
+            "(Aubrey) Beardsley",
+            "Gustave Moreau",
+            "Odilon Redon",
+            "Aloysius Stadler"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Yayoi Kusama is known for immersive exhibits called this math term \"Mirror Rooms\"; they seem to go on & on",
+          "choices": [
+            "black hole",
+            "paradox",
+            "infinity",
+            "vector"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This Russian-born artist's color field painting \"White Center\" sold for more than $70 million in 2007",
+          "choices": [
+            "Rothko",
+            "Pollock",
+            "Warhol",
+            "C\u00e9zanne"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "1933",
+      "questions": [
+        {
+          "clue": "The Glass-Steagall Act of 1933 established this corporation that guarantees the savings of bank customers",
+          "choices": [
+            "SEC (Securities and Exchange Commission)",
+            "TVA (Tennessee Valley Authority)",
+            "FHA (Federal Housing Administration)",
+            "FDIC (Federal Deposit Insurance Corporation)"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Time reported that children of Hameln, Germany proclaimed on his birthday in '33 \"You are now our Pied Piper\"",
+          "choices": [
+            "Stalin",
+            "Churchill",
+            "Mussolini",
+            "Hitler"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This gangster who boasted he could write his name on a wall with bullets was captured on September 26",
+          "choices": [
+            "Baby Face Nelson",
+            "Dillinger",
+            "Machine Gun Kelly",
+            "Pretty Boy Floyd"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "After years of running reprinted, condensed articles, this magazine published its first original signed article",
+          "choices": [
+            "Time",
+            "Life",
+            "Reader's Digest",
+            "Look"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Members of a British expedition climbed to within 1,000 feet of the summit of this highest mountain",
+          "choices": [
+            "K2",
+            "Mount Everest",
+            "Kangchenjunga",
+            "Makalu"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "NASA was one of the first to use this product I.D. system to keep track of millions of spacecraft parts",
+    "choices": [
+      "QR code",
+      "RFID tag",
+      "Holographic seal",
+      "bar code"
+    ],
+    "correctIndex": 3,
+    "category": "\"ODE\" TO JOY"
+  },
+  "bonusRound": {
+    "clue": "National Arbor Day",
+    "choices": [
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "correctIndex": 1,
+    "category": "MARK YOUR CALENDAR"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-28",
+  "categories": [
+    {
+      "name": "COWBOYS & INDIANS",
+      "questions": [
+        {
+          "clue": "This panhandle state, the \"Land of the Red Man\", boasts the Indian Hall of Fame",
+          "choices": [
+            "Texas",
+            "Kansas",
+            "Oklahoma",
+            "New Mexico"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Show which featured Wild Eagle, chief of the Hekawis, & Roaring Chicken, their medicine man",
+          "choices": [
+            "Bonanza",
+            "Gunsmoke",
+            "F Troop",
+            "The Rifleman"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1758, the colony of New Jersey established the 1st of these for Indians",
+          "choices": [
+            "mission",
+            "reservation",
+            "fort",
+            "tribe"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Once captured by John Smith, this Pawtuxet taught colonists Indian methods of planting & fertilizing corn",
+          "choices": [
+            "Pocahontas",
+            "Tonto",
+            "Squanto",
+            "Chingachgook"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Cowboys collect roaming cattle for sorting & branding at these \"circular\" events",
+          "choices": [
+            "a roundup",
+            "a gathering",
+            "a muster",
+            "a brand party"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TV: WHO PLAYED 'EM?",
+      "questions": [
+        {
+          "clue": "Elizabeth Jennings on \"The Americans\", & \"Felicity\"",
+          "choices": [
+            "Keri Russell",
+            "Nia Long",
+            "Sarah Michelle Gellar",
+            "Mena Suvari"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Peggy Olson on \"Mad Men\" & Offred on \"The Handmaid's Tale\"",
+          "choices": [
+            "January Jones",
+            "Elisabeth Shue",
+            "Elisabeth Moss",
+            "Kate Walsh"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Illya Kuryakin & Dr. Donald \"Ducky\" Mallard",
+          "choices": [
+            "Sean Connery",
+            "David McCallum",
+            "Michael Caine",
+            "Robert Redford"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Detective Mary Beth Lacey & Maxine Gray",
+          "choices": [
+            "Tyne Daly",
+            "Shelley Hack",
+            "Talia Shire",
+            "Joanna Cassidy"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Harry Hooperman & Paul Hennessy",
+          "choices": [
+            "Robert Stack",
+            "James Garner",
+            "Richard Crenna",
+            "John Ritter"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "APRIL",
+      "questions": [
+        {
+          "clue": "Tradition says this city was founded in April 753 B.C. by a guy who'd been raised by a wolf",
+          "choices": [
+            "Athens",
+            "Rome",
+            "Carthage",
+            "Troy"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In April 1952 the president seized these mills to help the Korean War effort; then the Supreme Court said he couldn't",
+          "choices": [
+            "copper",
+            "steel",
+            "aluminum",
+            "rubber"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This president died April 4, 1841 exactly one month after his inauguration",
+          "choices": [
+            "John Tyler",
+            "James K. Polk",
+            "William Henry Harrison",
+            "Zachary Taylor"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In April 2003 WorldCom, Inc. changed its brand name to this 3-letter one",
+          "choices": [
+            "MCI",
+            "MMS",
+            "MIC",
+            "MCM"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In April 1988 this state made Evan Mecham its ex-governor",
+          "choices": [
+            "California",
+            "Arizona",
+            "Nevada",
+            "Utah"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The ALP, it supported the Democrats in the 1936, 1940 & 1944 presidential elections & was dissolved in 1956",
+    "choices": [
+      "the American Labor Union",
+      "the American Labor Council",
+      "the American Labor Party",
+      "the American Labor League"
+    ],
+    "correctIndex": 2,
+    "category": "\"AMERICAN\" ORGANIZATIONS"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-06",
+  "categories": [
+    {
+      "name": "COVER ME",
+      "questions": [
+        {
+          "clue": "A bandage covering a wound, or a preparation covering a salad",
+          "choices": [
+            "salad oil",
+            "dressing",
+            "bandage tape",
+            "sauce"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"Easy, breezy, beautiful...\" is a pitch of this makeup brand",
+          "choices": [
+            "Cover Girl",
+            "Maybelline",
+            "Revlon",
+            "Est\u00e9e Lauder"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In 2023 Dolly Parton unveiled a cover of this anthemic Queen hit that should resonate with you, my friends",
+          "choices": [
+            "\"Bohemian Rhapsody\"",
+            "\"Don't Stop Me Now\"",
+            "\"We Are The Champions\"",
+            "\"Somebody To Love\""
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The Beatles recorded this dance classic at the end of their first album session; good idea, as it blew out John's voice",
+          "choices": [
+            "\"She Loves You\"",
+            "\"Twist And Shout\"",
+            "\"I Want To Hold Your Hand\"",
+            "\"Long Tall Sally\""
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "At a 2018 event honoring Fleetwood Mac, Miley Cyrus brought the house down with this Mac classic about \"snow-covered hills\"",
+          "choices": [
+            "\"Landslide\"",
+            "Rhiannon",
+            "Dreams",
+            "Go Your Own Way"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "OLD NEWSPAPERS",
+      "questions": [
+        {
+          "clue": "On January 1, 1788 the Universal Daily Register of London changed its name to this, which it has today",
+          "choices": [
+            "The Times",
+            "The Guardian",
+            "The Independent",
+            "The Telegraph"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Founded in 1703 in this city, the Wiener Zeitung is considered the world's oldest surviving daily newspaper",
+          "choices": [
+            "Paris",
+            "Vienna",
+            "Berlin",
+            "London"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The Cincinnati this was first published in 1841, more than a century before the \"National\" tabloid",
+          "choices": [
+            "Post",
+            "Journal",
+            "Enquirer",
+            "Tribune"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The name of this 19th century William Lloyd Garrison abolitionist newspaper reminds us of Simon Bolivar",
+          "choices": [
+            "The Emancipator",
+            "The Liberator",
+            "The Abolitionist",
+            "The Freedom Journal"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "French for \"current\", as in events, gives this city's over 250-year-old paper its name",
+          "choices": [
+            "Geneva",
+            "Brussels",
+            "Paris",
+            "Hartford"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE COMMONWEALTH",
+      "questions": [
+        {
+          "clue": "Nations in the Commonwealth maintain friendship & cooperation & acknowledge this person as the symbolic head",
+          "choices": [
+            "King George VI",
+            "Queen Elizabeth II",
+            "Queen Victoria",
+            "Prince Philip"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Commonwealth members run from A to Z, from Antigua & Barbuda to this African country",
+          "choices": [
+            "Zambia",
+            "South Africa",
+            "Ethiopia",
+            "Zimbabwe"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "After Pakistan left the Commonwealth in 1972, this nation promptly joined",
+          "choices": [
+            "Zimbabwe",
+            "Botswana",
+            "Bangladesh",
+            "Namibia"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Before the CW, some former U.K. colonies were known as these self-governing entities, from the Latin for \"Lord\"",
+          "choices": [
+            "protectorates",
+            "trusteeships",
+            "dominions",
+            "mandates"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A member since 1966, it's the only South American mainland country to be a member",
+          "choices": [
+            "Suriname",
+            "Guyana",
+            "Belize",
+            "Trinidad"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Despite their nickname, this famous North American force no longer patrols on horses",
+    "choices": [
+      "the Royal Canadian Mounted Police",
+      "the Texas Rangers",
+      "the Mounties",
+      "the Irish Guard"
+    ],
+    "correctIndex": 0,
+    "category": "THE POLICE"
+  }
+}

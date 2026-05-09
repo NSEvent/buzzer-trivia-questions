@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-03",
+  "categories": [
+    {
+      "name": "CANADIAN GEOGRAPHY",
+      "questions": [
+        {
+          "clue": "Made a British crown colony in 1849, this island aligned with British Columbia in 1866",
+          "choices": [
+            "Victoria",
+            "Salt Spring",
+            "Galiano",
+            "Vancouver"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This West Coast province is third largest in both area & population",
+          "choices": [
+            "British Columbia",
+            "Alberta",
+            "Saskatchewan",
+            "Manitoba"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Middle Island, Canada's southernmost point, is found in this eastern Great Lake",
+          "choices": [
+            "Lake Ontario",
+            "Lake Huron",
+            "Lake Michigan",
+            "Lake Erie"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In surface area, it's the largest lake within or on the borders of Canada",
+          "choices": [
+            "Huron",
+            "Superior",
+            "Great Slave",
+            "Great Bear"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The 2 principal parts of Niagara Falls are American Falls on the U.S. side & these falls on the Canadian side",
+          "choices": [
+            "Luna",
+            "Horseshoe",
+            "Crescent",
+            "Half"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MAY I HAVE A WORD WITH \"U\"?",
+      "questions": [
+        {
+          "clue": "On Feb. 15, 1898 it famously sank in Havana harbor",
+          "choices": [
+            "the U.S.S. Maine",
+            "the U.S.S. Arizona",
+            "the U.S.S. Indianapolis",
+            "the U.S.S. Cole"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It's my final offer, take it or leave it; I'm giving you this",
+          "choices": [
+            "a bribe",
+            "an ultimatum",
+            "a warning",
+            "a threat"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A \"raw\" yellowish-brown color, or a \"burnt\" reddish-brown",
+          "choices": [
+            "umber",
+            "ochre",
+            "sienna",
+            "taupe"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It's the part of the mind Freud termed the id",
+          "choices": [
+            "the subconscious",
+            "the preconscious",
+            "the ego",
+            "the unconscious"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Word used on the cover of a dictionary to indicate that it hasn't been reduced from a larger work",
+          "choices": [
+            "unbound",
+            "unabated",
+            "unabridged",
+            "uncut"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SPINGARN MEDAL WINNERS",
+      "questions": [
+        {
+          "clue": "2000: A TV host & media personality",
+          "choices": [
+            "Ellen DeGeneres",
+            "Jay Leno",
+            "Oprah Winfrey",
+            "Regis Philbin"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A lawyer when he won in 1946, he went on to be the first African-American on the Supreme Court",
+          "choices": [
+            "Constance Baker Motley",
+            "Shirley Chisholm",
+            "Thurgood Marshall",
+            "Ketanji Brown Jackson"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Ernest E. Just won in 1915 for his work, including how these smallest units of life function in eggs",
+          "choices": [
+            "cells",
+            "tissues",
+            "organs",
+            "proteins"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "At its charter conference in 1945, Mary McLeod Bethune was a consultant for interracial affairs",
+          "choices": [
+            "the League of Nations",
+            "the World Bank",
+            "the United Nations",
+            "the International Monetary Fund"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "1945: An actor, singer, activist & football All-American",
+          "choices": [
+            "Charles Gilpin",
+            "Ethel Waters",
+            "Paul Robeson",
+            "Bill Robinson"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1940, this \"star-studded\" oil co. began its Saturday sponsorship of Met radio broadcasts",
+    "choices": [
+      "Standard Oil",
+      "Texaco",
+      "Gulf Oil",
+      "Mobil"
+    ],
+    "correctIndex": 1,
+    "category": "METROPOLITAN OPERA"
+  }
+}

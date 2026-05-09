@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-15",
+  "categories": [
+    {
+      "name": "1845",
+      "questions": [
+        {
+          "clue": "New baseball rules said you put a runner out this way instead of plugging him with the ball\u2014sounds less fun",
+          "choices": [
+            "striking him out",
+            "throwing him out",
+            "catching him out",
+            "tagging him out"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Also named James, this 11th president reinforced James Monroe with his own doctrine",
+          "choices": [
+            "Taylor",
+            "Jackson",
+            "Van Buren",
+            "Polk"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Over 300' long, the Great Britain set sail as the first large oceangoing ship with a hull made of this",
+          "choices": [
+            "iron",
+            "steel",
+            "wood",
+            "brick"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The poke type of this was popular for ladies, especially those having bad hair days",
+          "choices": [
+            "a bonnet",
+            "a hat",
+            "a veil",
+            "a hood"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "John Couch Adams predicted the existence of this outer planet in 1845; it was found in 1846",
+          "choices": [
+            "Neptune",
+            "Uranus",
+            "Pluto",
+            "Saturn"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HALLMARK HALL OF FAME",
+      "questions": [
+        {
+          "clue": "In 1989 James Woods & James Garner starred in \"My Name is Bill W.\", about the origins of this group",
+          "choices": [
+            "Narcotics Anonymous",
+            "Alcoholics Anonymous",
+            "Al-Anon",
+            "Smart Recovery"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Since 1986 he's starred in \"Breathing Lessons\", \"Decoration Day\", \"My Name is Bill W.\" & \"Promise\"",
+          "choices": [
+            "Paul Newman",
+            "Jack Lemmon",
+            "Burt Lancaster",
+            "James Garner"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "His first play on the big or small screen was 1995's Hall of Fame production of \"The Piano Lesson\"",
+          "choices": [
+            "Tennessee Williams",
+            "(August) Wilson",
+            "Arthur Miller",
+            "Edward Albee"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 1962 Dorothy Stickney, Mildred Natwick, Boris Karloff & Tony Randall starred in this classic comedy",
+          "choices": [
+            "The Philadelphia Story",
+            "Arsenic & Old Lace",
+            "Arsenic and Old Boys",
+            "Arsenic & Old Wine"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Catherine Zeta-Jones appeared in the 1994 adaptation of this author's \"The Return of the Native\"",
+          "choices": [
+            "Austen",
+            "Dickens",
+            "Bronte",
+            "Hardy"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE ORCHESTRA",
+      "questions": [
+        {
+          "clue": "The conductor wields this stick",
+          "choices": [
+            "a mallet",
+            "a baton",
+            "a stick",
+            "a wand"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The woodwind section contains a \"contra\" & a regular type of this instrument",
+          "choices": [
+            "bass clarinet",
+            "contrabass",
+            "double bass",
+            "bassoon"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "When Rafael Fruhbeck de Burgos turns his back on the audience, he's not being rude, he's just doing this job",
+          "choices": [
+            "composing",
+            "directing",
+            "performing",
+            "conducting"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This type of \"woodwind\" has no reed & is commonly made of metal",
+          "choices": [
+            "a clarinet",
+            "a flute",
+            "a saxophone",
+            "a trumpet"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The \"kettle\" type of this spread through the world via Islamic culture",
+          "choices": [
+            "a bell",
+            "a drum",
+            "a gong",
+            "a tambourine"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "2019's ESPY Award for Upset of the Year went to this 25-1 underdog, the first heavyweight boxing champ of Mexican ancestry",
+    "choices": [
+      "Anthony Joshua",
+      "Deontay Wilder",
+      "Andy Ruiz Jr.",
+      "Tyson Fury"
+    ],
+    "correctIndex": 2,
+    "category": "SPORTS UPSETS"
+  }
+}

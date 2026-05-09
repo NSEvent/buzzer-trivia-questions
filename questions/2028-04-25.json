@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-25",
+  "categories": [
+    {
+      "name": "JULES VERNE",
+      "questions": [
+        {
+          "clue": "In Chapter 3 of this book wagers are made whether Phileas Fogg can complete his journey in the allotted time",
+          "choices": [
+            "Journey to the Center of the Earth",
+            "Twenty Thousand Leagues Under the Sea",
+            "The Mysterious Island",
+            "Around the World in Eighty Days"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This seagoing captain is described as \"an Indian, the Prince Dakkar, son of a rajah\"",
+          "choices": [
+            "Captain Ahab",
+            "Captain Hook",
+            "(Captain) Nemo",
+            "Commodore Perry"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Verne named the Nautilus in \"20,000 Leagues Under the Sea\" after the sub this steamboat inventor built in Paris in 1800",
+          "choices": [
+            "Livingston",
+            "Perkins",
+            "Hull",
+            "Fulton"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Verne was born on February 8, 1828 in this city, famous for its 1598 edict",
+          "choices": [
+            "Paris",
+            "Bordeaux",
+            "Lyon",
+            "Nantes"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Verne was encouraged to write by this friend, mentor & Musketeer creator",
+          "choices": [
+            "Victor Hugo",
+            "George Sand",
+            "Honore de Balzac",
+            "(Alexandre) Dumas"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "OH, WHAT A YEAR!",
+      "questions": [
+        {
+          "clue": "Founded in 1845, the Naval Academy at Annapolis first admitted women in this U.S. bicentennial year",
+          "choices": [
+            "1976",
+            "1972",
+            "1984",
+            "1968"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It was the most recent year that was a leap year",
+          "choices": [
+            "1996",
+            "2004",
+            "1992",
+            "2000"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Part of 3 Apollo moon missions, lunar roving vehicles were driven for the last time in this election year",
+          "choices": [
+            "1968",
+            "1976",
+            "1972",
+            "1964"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A Va. court house hosted a meeting between a son of a \"Light-Horse\" & a victorious Union general in this year",
+          "choices": [
+            "1861 (start of the Civil War)",
+            "1865 (to end the Civil War)",
+            "1877 (end of Reconstruction)",
+            "1803 (Louisiana Purchase)"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Napoleon sold the vast Louisiana Territory to the U.S. in this year",
+          "choices": [
+            "1812 (War of 1812)",
+            "1800 (Presidential election)",
+            "1846 (Oregon Treaty)",
+            "1803"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FOR PETE'S SAKE",
+      "questions": [
+        {
+          "clue": "He governed California for most of the '90s",
+          "choices": [
+            "Pete Wilson",
+            "George Deukmejian",
+            "Jerry Brown",
+            "Gray Davis"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The last name of this Peter, a British navy man, is on a Columbia River island & a Washington sound",
+          "choices": [
+            "Puget",
+            "Cook",
+            "Baker",
+            "Roberts"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Last name of the Peter whose hall in Boston was completed in 1742",
+          "choices": [
+            "Hancock",
+            "Quincy",
+            "Faneuil",
+            "Dudley"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1626 this Colonial gov. spent the best 60 Dutch guilders of his life when he bought Manhattan Island",
+          "choices": [
+            "Stuyvesant",
+            "Kieft",
+            "Minuit",
+            "Van Rensselaer"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Peter Cetera sang lead for Chicago, & this Peter sang lead for Herman's Hermits in the '60s",
+          "choices": [
+            "Peter Tork",
+            "Peter Frampton",
+            "Peter Noone",
+            "Peter Gabriel"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Von Humboldt Fleisher, Augie March, Moses Herzog",
+    "choices": [
+      "Philip Roth",
+      "John Updike",
+      "Saul Bellow",
+      "Bernard Malamud"
+    ],
+    "correctIndex": 2,
+    "category": "WHO CREATED THEM?"
+  }
+}

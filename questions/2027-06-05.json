@@ -1,0 +1,207 @@
+{
+  "date": "2027-06-05",
+  "categories": [
+    {
+      "name": "CHARACTERS IN MOVIES",
+      "questions": [
+        {
+          "clue": "George McFly, Dr. Emmett Brown, Biff Tannen",
+          "choices": [
+            "Back to School",
+            "Backdraft",
+            "Backlash",
+            "Back to the Future"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Bishop, Ripley, Rebecca \"Newt\" Jorden",
+          "choices": [
+            "Aliens",
+            "The Thing",
+            "Predator",
+            "Starship Troopers"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Ellis \"Red\" Redding, Andy Dufresne, Warden Norton",
+          "choices": [
+            "The Green Mile",
+            "The Shawshank",
+            "The Count of Monte Cristo",
+            "The Shawshank Redemption"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Dean Keaton, Fred Fenster, Roger \"Verbal\" Kint",
+          "choices": [
+            "The Departed",
+            "Pulp Fiction",
+            "The Usual Suspects",
+            "Reservoir Dogs"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Jules Winnfield, Butch Coolidge, \"The Wolf\"",
+          "choices": [
+            "Pulp Fiction",
+            "Reservoir Dogs",
+            "Jackie Brown",
+            "Kill Bill"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOME FURNISHINGS",
+      "questions": [
+        {
+          "clue": "One may be bar or foot",
+          "choices": [
+            "a stool",
+            "a bench",
+            "a chair",
+            "a sofa"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Use this appropriately named wire shelving unit to cool off your pies or to display your plants",
+          "choices": [
+            "a pantry shelf",
+            "a spice rack",
+            "a baker's rack",
+            "a wine rack"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Gee, you have one of these in your living room, & it really works",
+          "choices": [
+            "a record player",
+            "a gramophone",
+            "a stereo system",
+            "a radio"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "By definition, this type of china cabinet has a slightly projecting middle section",
+          "choices": [
+            "breakfront",
+            "curio",
+            "displaycase",
+            "hutch"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This upholstered dining room chair that sounds perfect for a clergyman guest is named for a school of design",
+          "choices": [
+            "a Mission chair",
+            "a Morris chair",
+            "a Parson chair",
+            "a Windsor chair"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RUSSIAN RULERS",
+      "questions": [
+        {
+          "clue": "This president of the Russian Federation was born in the Sverdlovsk Region in 1931",
+          "choices": [
+            "Mikhail Gorbachev",
+            "Dmitry Medvedev",
+            "Vladimir Putin",
+            "Boris Yeltsin"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1881 Alexander II was assassinated in this capital by bomb-throwing members of \"People's Will\"",
+          "choices": [
+            "St. Petersburg",
+            "Moscow",
+            "Kiev",
+            "Minsk"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In Russian she is called \"Ekaterina Velikaya\"",
+          "choices": [
+            "Catherine the Great",
+            "Marie Antoinette",
+            "Queen Elizabeth",
+            "Empress Sisi"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In his \"Testament\" he said, \"Stalin is too rude\" & called for his removal",
+          "choices": [
+            "Trotsky",
+            "Bukharin",
+            "Lenin",
+            "Zinoviev"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A grand prince of Moscow, he had himself crowned czar of Russia in 1547",
+          "choices": [
+            "Peter the Great",
+            "Ivan the Terrible",
+            "Ivan III",
+            "Boris Godunov"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Nothing to do with a sober marathon, it's a term for a rehearsal or practice",
+    "choices": [
+      "a full dress",
+      "a dry run",
+      "a sound check",
+      "a dress rehearsal"
+    ],
+    "correctIndex": 1,
+    "category": "3-LETTER, 3-LETTER"
+  },
+  "bonusRound": {
+    "clue": "Michael Rooker, of \"Walking Dead\" fame, donned the blue to play one of Star-Lord's many foils in this 2014 movie",
+    "choices": [
+      "The Suicide Squad",
+      "X-Men Origins: Wolverine",
+      "Deadpool",
+      "Guardians of the Galaxy"
+    ],
+    "correctIndex": 3,
+    "category": "THE BLUES"
+  }
+}

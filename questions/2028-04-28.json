@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-28",
+  "categories": [
+    {
+      "name": "NATIONAL MEMORIALS",
+      "questions": [
+        {
+          "clue": "Dedicated in November 1982, it now bears more than 58,000 names",
+          "choices": [
+            "the Korean War memorial",
+            "the World War II memorial",
+            "the American Legion memorial",
+            "the Vietnam War memorial"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Chamizal National Memorial in El Paso honors the peaceful 1963 settlement of a border dispute with this country",
+          "choices": [
+            "Guatemala",
+            "Mexico",
+            "Belize",
+            "Colombia"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Daniel Chester French designed the statue in this memorial, but it was the Piccirilli Brothers of N.Y. who carved it",
+          "choices": [
+            "the Jefferson Memorial",
+            "the Lincoln Memorial",
+            "the Washington Monument",
+            "the Grant Memorial"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Sculptor Gutzon Borglum hoped this memorial would last \"until the wind and the rain alone shall wear them away\"",
+          "choices": [
+            "Mount St. Helens",
+            "Custer National Cemetery",
+            "Mount Rushmore",
+            "Pike's Peak"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The Tampa Bay memorial named for this Spaniard has reenacted his coming ashore in 1539",
+          "choices": [
+            "(Hernando) Cortez",
+            "(Hernando) de Soto",
+            "(Juan) Ponce de Leon",
+            "(Francisco) Coronado"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "KNIVES OUT",
+      "questions": [
+        {
+          "clue": "Sometimes called an \"Arkansas toothpick\" , this knife bears the name of a hero of the Texas revolution",
+          "choices": [
+            "a Bowie dagger",
+            "a Bowie spear",
+            "a Bowie hatchet",
+            "a Bowie knife"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This knife has the name of a 6-letter bivalve; use the knife to pry it open & extract its meat",
+          "choices": [
+            "a scallop knife",
+            "a mussel knife",
+            "an oyster knife",
+            "a clam knife"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Quikut sold this Japanese-sounding 5-letter line of sharp cooking knives",
+          "choices": [
+            "Kensu",
+            "Ginsai",
+            "Ginsu",
+            "Jinsu"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Unlike the butcher's type, the Chinese version of this tool is a versatile vegetable slicer & all-around chef's knife",
+          "choices": [
+            "a machete",
+            "a paring knife",
+            "a butcher block",
+            "a cleaver"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The penknife derives its name from its use beginning in the 15th century to carve these writing implements",
+          "choices": [
+            "quills",
+            "pens",
+            "brushes",
+            "pencils"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LINCOLN",
+      "questions": [
+        {
+          "clue": "Abe once said, \"I have never had a thought politically that did not spring from\" this 1776 document",
+          "choices": [
+            "Declaration of Independence",
+            "Constitution of the United States",
+            "Emancipation Proclamation",
+            "Gettysburg Address"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "An urban legend says Abe's hands in the Lincoln Memorial are spelling these two letters in sign language",
+          "choices": [
+            "A & L",
+            "I & M",
+            "L & I",
+            "A & B"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This late gadfly of American letters showed Abe's dictatorial side in his novel \"Lincoln\"",
+          "choices": [
+            "John Updike",
+            "Toni Morrison",
+            "Gore Vidal",
+            "Don DeLillo"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The last episode of PBS' \"The Civil War\" is called \"The Better\" these \"of our Nature\", which Lincoln hoped would guide us",
+          "choices": [
+            "angels",
+            "demons",
+            "devils",
+            "angst"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1837 Lincoln left New Salem, Illinois for this capital",
+          "choices": [
+            "Peoria",
+            "Vandalia",
+            "Alton",
+            "Springfield"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Namibia & Mozambique",
+    "choices": [
+      "Botswana",
+      "Zimbabwe",
+      "Angola",
+      "South Africa"
+    ],
+    "correctIndex": 3,
+    "category": "IT BORDERS BOTH COUNTRIES"
+  }
+}

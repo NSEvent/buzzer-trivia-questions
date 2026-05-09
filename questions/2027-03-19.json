@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-19",
+  "categories": [
+    {
+      "name": "BRITISH NOVELISTS",
+      "questions": [
+        {
+          "clue": "He serialized \"The Old Curiosity Shop\" in his own weekly magazine, \"Master Humphrey's Clock\"",
+          "choices": [
+            "Charles Dickens",
+            "William Makepeace Thackeray",
+            "George Eliot",
+            "Anthony Trollope"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1929 this James Bond creator became a Moscow correspondent for Reuters",
+          "choices": [
+            "(Arthur) Conan Doyle",
+            "(Ian) Fleming",
+            "(Aldous) Huxley",
+            "(George) Orwell"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "James Hilton's father, a school headmaster, was an inspiration for the title character in \"Goodbye, Mr.\" him",
+          "choices": [
+            "Dr. Grimshawe",
+            "Mr. Gradgrind",
+            "Chips",
+            "Mr. Squeers"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The biography \"Pat and Roald\" covers his life with wife Patricia Neal",
+          "choices": [
+            "C.S. Lewis",
+            "Roald Dahl",
+            "J.R.R. Tolkien",
+            "Roald Amundsen"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Born in Japan, he's published 6 novels, including \"Never Let Me Go\"",
+          "choices": [
+            "(Haruki) Murakami",
+            "(Yukio) Mishima",
+            "(Kazuo) Ishiguro",
+            "(Banana) Yoshimoto"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AFRICAN COUNTRIES",
+      "questions": [
+        {
+          "clue": "The Ganda are one of its major ethnic groups",
+          "choices": [
+            "Uganda",
+            "Kenya",
+            "Rwanda",
+            "Tanzania"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Hassan II has been the king of this country since 1961",
+          "choices": [
+            "Algeria",
+            "Tunisia",
+            "Morocco",
+            "Egypt"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This country on the Atlantic coast is Africa's most populous",
+          "choices": [
+            "Ethiopia",
+            "South Africa",
+            "Ghana",
+            "Nigeria"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Formerly French, this large nation has its main cities like Oran up near the Mediterranean & a vast, largely empty south",
+          "choices": [
+            "Algeria",
+            "Morocco",
+            "Libya",
+            "Mali"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Festus Mogae is the president of this landlocked African republic once known as Bechuanaland",
+          "choices": [
+            "Zimbabwe",
+            "Namibia",
+            "Lesotho",
+            "Botswana"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AWARD-WINNERS",
+      "questions": [
+        {
+          "clue": "The 1st woman to receive the Lowell Thomas Electronic Journalism Award was this \"20/20\" co-host",
+          "choices": [
+            "Barbara Walters",
+            "Diane Sawyer",
+            "Katie Couric",
+            "Robin Roberts"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Well...God bless America; Reagan awarded this singer the Presidential Medal of Freedom in 1982",
+          "choices": [
+            "Frank Sinatra",
+            "Bob Hope",
+            "Kate Smith",
+            "Johnny Carson"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "She became the 1st woman to win an Emmy for hosting a game show, for her \"Just Men\" series in 1983",
+          "choices": [
+            "Rosalyn Carter",
+            "Betty White",
+            "Lucille Ball",
+            "Phyllis Diller"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The only American nominated for the \"Best Actor\" Oscar for 1983, he won it for \"Tender Mercies\"",
+          "choices": [
+            "Robert Duvall",
+            "Paul Newman",
+            "Jack Nicholson",
+            "Robert De Niro"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "She won a 1986 Tony for her performance in \"The Search for Signs of Intelligent Life in the Universe\"",
+          "choices": [
+            "Lily Tomlin",
+            "Rita Moreno",
+            "Cher",
+            "Jane Lynch"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The evacuation from this French seaport inspired Churchill's \"We Shall Fight on the Beaches\" speech",
+    "choices": [
+      "Dunkirk",
+      "Marseille",
+      "Calais",
+      "Le Havre"
+    ],
+    "correctIndex": 0,
+    "category": "WINSTON CHURCHILL"
+  }
+}

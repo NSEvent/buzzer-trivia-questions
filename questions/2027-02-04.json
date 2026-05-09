@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-04",
+  "categories": [
+    {
+      "name": "SPELL THAT NAME",
+      "questions": [
+        {
+          "clue": "Harry who sings calypso but doesn't explore on the Calypso",
+          "choices": [
+            "D-O-N-O-V-A-N",
+            "B-E-L-A-F-O-N-T-E",
+            "B-O-B-D-I-L-A-N-O",
+            "L-E-O-S-A-I-A"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The surname of evangelists Jim & Tammy Faye",
+          "choices": [
+            "O-C-O-N-E-L-L-E",
+            "B-A-K-K-E-R",
+            "S-E-P-P-A",
+            "M-A-R-R-I-A-G-E"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The last name of the 1988 Democratic vice-presidential nominee",
+          "choices": [
+            "C-L-A-Y-T-O-N",
+            "M-C-C-O-R-M-I-C-K",
+            "B-E-N-T-S-E-N",
+            "G-U-L-I-A-N-O"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This Huston menaces Michael Jackson in \"Captain Eo\"",
+          "choices": [
+            "A-R-I-A-N-A",
+            "J-O-A-N-A",
+            "A-N-N-A",
+            "A-N-J-E-L-I-C-A"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This Smith may not be a TV \"Angel\" anymore, but she still looks like one",
+          "choices": [
+            "J-E-N-N-I-F-E-R",
+            "J-A-C-L-Y-N",
+            "J-O-A-N-N-A",
+            "J-A-C-K-I-E"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FOREIGN FILMS",
+      "questions": [
+        {
+          "clue": "Originally a Swedish miniseries, this Ingmar Bergman film was called \"Scener ur ett aktenskap\"",
+          "choices": [
+            "Scenes from a Marriage",
+            "Scenes from a Divorce",
+            "Moments from a Marriage",
+            "Scenes from a Life"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In this 1981 film Jurgen Prochnow plays the captain of a WWII German submarine harassing Allied vessels",
+          "choices": [
+            "U-571",
+            "Das Boot",
+            "Das Lied von der Erde",
+            "Operation Crossbow"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A Foreign Language Oscar went to Menshov's 1979 film called this city \"Does Not Believe in Tears\"",
+          "choices": [
+            "Kiev",
+            "Leningrad",
+            "Moscow",
+            "Minsk"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Poet Pablo Neruda befriends the title character of this recent film set in Italy",
+          "choices": [
+            "The Postman",
+            "\"Il Postino\"",
+            "Amarcord",
+            "The Garden of the Finzi-Continis"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Luis Bu\u00f1uel directed a 1972 film about \"The Discreet Charm of\" this group",
+          "choices": [
+            "the Bourgeoisie",
+            "the Proletariat",
+            "the Aristocracy",
+            "the Bourgeoise"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "30-SECOND THEATER",
+      "questions": [
+        {
+          "clue": "Boy loses shadow, teaches 3 siblings to fly, battles pirates & refuses to grow up",
+          "choices": [
+            "Captain Hook",
+            "Wendy Darling",
+            "Tinker Bell",
+            "Peter Pan"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Diplomat has affair with Chinese opera diva who turns out to be a man; diplomat's career is ruined",
+          "choices": [
+            "\"M. Butterfly\"",
+            "The Last Emperor",
+            "The Painted Veil",
+            "Memoirs of a Geisha"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "HIV-positive artists & musicians sing in a Lower East Side loft",
+          "choices": [
+            "Hair",
+            "\"Rent\"",
+            "La Cage aux Folles",
+            "Hedwig and the Angry Inch"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Fading Southern belle visits sister & brutish brother-in-law; goes nuts",
+          "choices": [
+            "A Streetcar Named Desire",
+            "The Glass Menagerie",
+            "Cat on a Hot Tin Roof",
+            "Gone with the Wind"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Arms-maker's daughter joins Salvation Army to defy dad; he donates money to her cause; she quits in protest",
+          "choices": [
+            "Man and Superman",
+            "\"Major Barbara\"",
+            "Pygmalion",
+            "Mrs. Warren's Profession"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"A Journey to the Center of the Earth\" was first published in 1864 in this language",
+    "choices": [
+      "English (translated by Archibald Colquhoun)",
+      "German (published in Berlin)",
+      "French (written by Jules Verne)",
+      "Spanish (translated by Manuel Garc\u00eda"
+    ],
+    "correctIndex": 2,
+    "category": "BOOK REPORT"
+  }
+}

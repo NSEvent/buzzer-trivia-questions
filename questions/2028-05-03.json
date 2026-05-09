@@ -1,0 +1,196 @@
+{
+  "date": "2028-05-03",
+  "categories": [
+    {
+      "name": "STARTS WITH \"J\"",
+      "questions": [
+        {
+          "clue": "It can precede buzzer, ride or stick",
+          "choices": [
+            "juice",
+            "joyride",
+            "joy",
+            "jump"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Sorry, Mr. Morton, I swiped this treat, sponge cake with whipped cream & jam",
+          "choices": [
+            "jambalaya",
+            "jelly roll",
+            "juniper",
+            "jackfruit"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "An X-Men comic book character bears this name that comes from a title of Krishna",
+          "choices": [
+            "Joker",
+            "Jubilee",
+            "Juggernaut",
+            "Jean Grey"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Event an Olympian throws",
+          "choices": [
+            "javelin",
+            "jousting",
+            "jogging",
+            "jumping"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It was killed in rhyme with the vorpal blade",
+          "choices": [
+            "the Jabberwock",
+            "the Juggler",
+            "the Jester",
+            "the Jackal"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PUBLISHERS",
+      "questions": [
+        {
+          "clue": "In 2010 this website pulled Macmillan titles in a pricing dispute",
+          "choices": [
+            "eBay",
+            "Walmart",
+            "Barnes & Noble",
+            "Amazon"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "His father, once a U.S. Senator, gave him the S.F. Examiner; he himself served in the House, 1903-1907",
+          "choices": [
+            "Joseph Pulitzer",
+            "William Randolph Hearsey",
+            "Henry Luce",
+            "(William Randolph) Hearst"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Oh Contessa! I must tell you that it's based in Toronto & publishes 110 titles a month",
+          "choices": [
+            "St. Martin's Press",
+            "Harlequin",
+            "Simon & Schuster",
+            "Mills & Boon"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The name of audiobook publisher Tantor comes from an elephant in the series about this ape man",
+          "choices": [
+            "Ape",
+            "King",
+            "Chimp",
+            "Tarzan"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1990 William Collins & Sons was bought by News Corporation, which smushed this other publishing name in front",
+          "choices": [
+            "Mills",
+            "Harper",
+            "Bodley",
+            "Macmillan"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FAMOUS LAST WORDS",
+      "questions": [
+        {
+          "clue": "Among this naturalist's last words in 1882 were \"I am not the least afraid to die\"",
+          "choices": [
+            "Lyell",
+            "Darwin",
+            "Wallace",
+            "Huxley"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The final part of a musical piece, it was used as a title for Led Zeppelin's final album of studio recordings",
+          "choices": [
+            "finale",
+            "crescendo",
+            "prelude",
+            "coda"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A Mexican bandito, 1923: \"Don't let it end like this. Tell them I said something\"",
+          "choices": [
+            "Emiliano Zapata",
+            "Pancho Chacal",
+            "Plutarco Calles",
+            "Pancho Villa"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A composer, 1827: \"I shall hear in heaven\"",
+          "choices": [
+            "Wolfgang Mozart",
+            "Beethoven",
+            "Johann Bach",
+            "George Handel"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Decades after leading England through WWII, he declared, \"I'm so bored with it all\"",
+          "choices": [
+            "Clement Attlee",
+            "Neville Chamberlain",
+            "Dwight Eisenhower",
+            "Winston Churchill"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The first Oscar in the new Makeup category went to Rick Baker in 1982 for turning David Naughton into one of these (in London)",
+    "choices": [
+      "a zombie",
+      "a vampire",
+      "a ghost",
+      "a werewolf"
+    ],
+    "correctIndex": 3,
+    "category": "SCARY MOVIES"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2027-08-28",
+  "categories": [
+    {
+      "name": "\"O\" TOWN",
+      "questions": [
+        {
+          "clue": "The Hanshin Expressway, a major road between Kobe & this port city, collapsed in a 1995 earthquake",
+          "choices": [
+            "Kobe",
+            "Osaka",
+            "Tokyo",
+            "Yokohama"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This state capital lies at the southernmost edge of Puget Sound",
+          "choices": [
+            "Seattle",
+            "Tacoma",
+            "Olympia",
+            "Bellevue"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The Queen of England probably didn't use the dart in the map trick to make this city a capital in 1857",
+          "choices": [
+            "Toronto",
+            "Ottawa",
+            "Montreal",
+            "Quebec City"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "It's a village next to Chicago or a city next to Detroit",
+          "choices": [
+            "Oakland",
+            "Oakland Park",
+            "Oak Park",
+            "Olathe"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This Florida city of about 5,000 is just north of the large lake with which it shares its name",
+          "choices": [
+            "Orlando",
+            "Tampa",
+            "Naples",
+            "Okeechobee"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NEW ORLEANS",
+      "questions": [
+        {
+          "clue": "\"Crescent City\", New Orleans' nickname, comes from the sharp bend in this river at the French Quarter",
+          "choices": [
+            "the Mississippi River",
+            "the Missouri River",
+            "the Hudson River",
+            "the Rio Grande"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This nickname of the city was used as the title of a 1987 Dennis Quaid film set there",
+          "choices": [
+            "the Big Easy",
+            "the Windy City",
+            "the Big Apple",
+            "the Emerald City"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This jazz clarinetist has his own nightclub in the Hilton Hotel",
+          "choices": [
+            "Louis Armstrong",
+            "Pete Fountain",
+            "Wynton Marsalis",
+            "Eddie Condon"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "(Jimmy gives the clue) The name of this Mardi Gras cake goes back to when the person who found a treat inside it was royal for a day",
+          "choices": [
+            "a saint cake",
+            "a queen tart",
+            "a king cake",
+            "a prince pie"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The airport serving New Orleans is in this nearby city, also the name of the toy company that introduced the Easy-Bake Oven",
+          "choices": [
+            "Hasbro",
+            "Kenner",
+            "Mattel",
+            "Lego"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BUSINESS NAMES",
+      "questions": [
+        {
+          "clue": "One of the most powerful women in business, Karen Lynch became C-E-O of this healthcare co. & drugstore chain in 2021",
+          "choices": [
+            "CVS",
+            "WAL",
+            "Rite",
+            "AMC"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Starbucks was named for the first mate in this novel",
+          "choices": [
+            "Moby Dick",
+            "Captain Ahab",
+            "Queequeg",
+            "Ishmael"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Thank Mr. Coulombe for your dinner of cauliflower gnocchi & decent under-$5 wine; he gave his name to this store",
+          "choices": [
+            "Whole Foods",
+            "Trader Vic's",
+            "Trader Joe's",
+            "Costco"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The name of this Warren Buffett conglomerate goes back to 2 Massachusetts textile companies that merged in 1955",
+          "choices": [
+            "Dartmouth Holdings",
+            "Geico Insurance",
+            "Berkshire Hathaway",
+            "See's Candies"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Last name of Ferdinand, who designed the Volkswagen; his son Ferry designed the eponymous sports car",
+          "choices": [
+            "Volkswagen",
+            "Porsche",
+            "Ferrari",
+            "Lamborghini"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "2.2 billion people reside in 52 member countries, alphabetically from Antigua & Barbuda to this African nation",
+    "choices": [
+      "Zimbabwe",
+      "Zaire",
+      "Zambia",
+      "Zanzibar"
+    ],
+    "correctIndex": 2,
+    "category": "THE COMMONWEALTH"
+  },
+  "bonusRound": {
+    "clue": "Sorry if you're this 10-letter adjective that's derived from the Latin for \"teary\"",
+    "choices": [
+      "melancholy",
+      "sorrowful",
+      "tearful",
+      "lachrymose"
+    ],
+    "correctIndex": 3,
+    "category": "UNPACK YOUR ADJECTIVES"
+  }
+}

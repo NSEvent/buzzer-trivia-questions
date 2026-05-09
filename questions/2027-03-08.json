@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-08",
+  "categories": [
+    {
+      "name": "\"ITZ\" AT THE END",
+      "questions": [
+        {
+          "clue": "From the German for \"to spray\", it's a quick spray or squirt",
+          "choices": [
+            "spray",
+            "mist",
+            "spritz",
+            "splash"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Skiers who fall on their derrieres leave this German \"mark\" in the snow",
+          "choices": [
+            "a ski bump",
+            "a snow patch",
+            "a sitz mark",
+            "a glissade mark"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This 2-time Winter Olympics site has been known for its mineral springs since Roman times",
+          "choices": [
+            "Lake Geneva",
+            "Saint Moritz",
+            "Zermatt",
+            "St. Anton"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "John F. Kennedy's maternal grandfather sported this \"sweet\" nickname",
+          "choices": [
+            "Big Jack",
+            "\"Honey Fitz\"",
+            "Jack Kennedy",
+            "Joe Kennedy"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Nickname of Friedrich Christian Lang, director of the classic 1927 film \"Metropolis\"",
+          "choices": [
+            "Fritz",
+            "Fred",
+            "Frank",
+            "Felix"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LOUISIANA",
+      "questions": [
+        {
+          "clue": "Annual event called \"the greatest free show on earth\"",
+          "choices": [
+            "Carnival",
+            "Festival",
+            "Parade",
+            "Mardi Gras"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Louisiana became a state in this year in which the U.S. went to war with Great Britain",
+          "choices": [
+            "1803",
+            "1812",
+            "1815",
+            "1820"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The McIlhenny family of New Iberia are exclusive producers of this food item",
+          "choices": [
+            "Tabasco sauce",
+            "Hot sauce",
+            "Chili powder",
+            "Salsa"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "450 feet tall with 34 floors, the Capitol building in this Louisiana city is the tallest state Capitol",
+          "choices": [
+            "New Orleans",
+            "Shreveport",
+            "Baton Rouge",
+            "Lafayette"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Louisiana was included in that famous purchase bought from this Frenchman in 1803",
+          "choices": [
+            "Napoleon",
+            "Charlemagne",
+            "Louis XIV",
+            "Henry IV"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE BRITISH INVASION",
+      "questions": [
+        {
+          "clue": "These \"Hermits\" got their name because their lead singer resembled a character on TV's \"Rocky & His Friends\"",
+          "choices": [
+            "The Animals",
+            "Herman's Hermits",
+            "The Who",
+            "The Kinks"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"Play with Fire\" from this Group's 1965 album \"Out of Our Heads\" featured Phil Spector on bass",
+          "choices": [
+            "The Beatles",
+            "The Rolling Stones",
+            "The Who",
+            "The Kinks"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 1964 this London quintet was \"Glad All Over\" when it replaced the Beatles at the top of the U.K. charts",
+          "choices": [
+            "The Searchers",
+            "The Dave Clark Five",
+            "Herman's Hermits",
+            "The Hollies"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 1965 Eric Clapton left this group because of the commercial trend of its material such as \"For Your Love\"",
+          "choices": [
+            "The Animals",
+            "The Zombies",
+            "The Yardbirds",
+            "The Kinks"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "She had a string of hits in the U.S. beginning with \"I Only Want To Be With You\"",
+          "choices": [
+            "Dusty Springfield",
+            "Petula Clark",
+            "Cilla Black",
+            "Lulu"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Among her famous characters are Ramona Quimby & Henry Huggins",
+    "choices": [
+      "E.B. White",
+      "J.D. Salinger",
+      "Louise Fitzhugh",
+      "Beverly Cleary"
+    ],
+    "correctIndex": 3,
+    "category": "CHILDREN'S AUTHORS"
+  }
+}

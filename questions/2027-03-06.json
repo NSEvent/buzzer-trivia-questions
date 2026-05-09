@@ -1,0 +1,207 @@
+{
+  "date": "2027-03-06",
+  "categories": [
+    {
+      "name": "SCIENCE STUFF",
+      "questions": [
+        {
+          "clue": "Scientists have generated electrical currents by intentionally disrupting this process in plants",
+          "choices": [
+            "respiration",
+            "transpiration",
+            "fermentation",
+            "photosynthesis"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Marked by its billowy surface, pahoehoe is a term for a flow of this",
+          "choices": [
+            "magma",
+            "ash",
+            "pumice",
+            "lava"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This fact should stick to you: cobalt & samarium are used to make the permanent type of these",
+          "choices": [
+            "magnets",
+            "batteries",
+            "compasses",
+            "generators"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew shows off some animal footage on the monitor.) The Greek for \"imitator\" gave us this term for the camouflage ability the octopus is exhibiting here",
+          "choices": [
+            "camouflage",
+            "metamorphosis",
+            "mimicry",
+            "cryptic coloration"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Gravity became its own force during the rather brief grand unification era, from 10-43 to 10-35 seconds after this",
+          "choices": [
+            "the cosmic microwave background",
+            "the Big Bang",
+            "the inflationary epoch",
+            "the electroweak era"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MUSIC ON THE MAP",
+      "questions": [
+        {
+          "clue": "Though it's not their home, in 1967, the Bee Gees sang about this New England state",
+          "choices": [
+            "Rhode Island",
+            "New Hampshire",
+            "Connecticut",
+            "Massachusetts"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"I found my April dream\" in this country \"with you\"",
+          "choices": [
+            "Portugal",
+            "Spain",
+            "Greece",
+            "Italy"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"The kids in\" this Pennsylvania town \"are sharp as a pistol when they do\" this \"Stomp\"",
+          "choices": [
+            "\"The Bristol Stomp\"",
+            "\"The Philadelphia Stomp\"",
+            "\"The Scranton Stomp\"",
+            "\"The Pittsburgh Stomp\""
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Harry Belafonte's \"Mathilda\" took his money and ran there",
+          "choices": [
+            "Colombia",
+            "Venezuela",
+            "Peru",
+            "Brazil"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Meet me in this city & \"we will dance the hoochee koochee\" & \"I will be your tootsie wootsie\"",
+          "choices": [
+            "New York",
+            "Chicago",
+            "Philadelphia",
+            "St. Louis"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CLASSIC COUNTRY",
+      "questions": [
+        {
+          "clue": "In 1958, the first country music Grammy Award went to this Kingston Trio song",
+          "choices": [
+            "\"Tom Dooley\"",
+            "\"The Times They Are a-Changin\"",
+            "\"Scarlet Begonias\"",
+            "\"Maggie May\""
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Along with \"Troubles by the score\", Ray Price had these",
+          "choices": [
+            "heartaches by the number",
+            "sorrow by the mile",
+            "tears by the gallon",
+            "pain by the load"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The Texas Troubadour",
+          "choices": [
+            "Lefty Frizell",
+            "Hank Williams",
+            "Ernest Tubb",
+            "George Jones"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Type of music that's named after Bill Monroe's band",
+          "choices": [
+            "bluegrass music",
+            "old-time fiddle",
+            "bluegrass",
+            "bluegrass string"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Completes Merle Travis' description of his girl: \"So round, so firm, so...\"",
+          "choices": [
+            "fully loaded",
+            "fully packed",
+            "fully furnished",
+            "fully equipped"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The Martin Luther King Jr. National Historical Park in Atlanta includes MLK's birthplace & this church where he served as pastor",
+    "choices": [
+      "the Ebenezer Congregational Church",
+      "the First Baptist Church",
+      "the Ebenezer Methodist Church",
+      "the Ebenezer Baptist Church"
+    ],
+    "correctIndex": 3,
+    "category": "NATIONAL HISTORIC PARKS"
+  },
+  "bonusRound": {
+    "clue": "Unlike seeds of gymnosperms like conifers, the seeds of the flowering plants, also called these, are enclosed",
+    "choices": [
+      "gymnosperms",
+      "sporophytes",
+      "angiosperms",
+      "angiocarpes"
+    ],
+    "correctIndex": 2,
+    "category": "A SEEDY CATEGORY"
+  }
+}

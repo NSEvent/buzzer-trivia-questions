@@ -1,0 +1,207 @@
+{
+  "date": "2027-02-20",
+  "categories": [
+    {
+      "name": "SOUTHERN CITIES",
+      "questions": [
+        {
+          "clue": "Alexandria was part of the District of Columbia until 1846, when it was returned to this state",
+          "choices": [
+            "Maryland",
+            "Virginia",
+            "Kentucky",
+            "Tennessee"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Incorporated in 1828, Louisville became an important port on this river",
+          "choices": [
+            "Ohio River",
+            "Mississippi River",
+            "Columbia River",
+            "Hudson River"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Native Americans called the site of this Louisiana capital Istrouma",
+          "choices": [
+            "New Orleans",
+            "Mobile",
+            "Baton Rouge",
+            "Biloxi"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 2022 this South Carolina city topped Southern Living's list of the South's best cities for the fifth time",
+          "choices": [
+            "Savannah",
+            "Charlottesville",
+            "Asheville",
+            "Charleston"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Flagler Street divides this Florida city into northern & southern areas",
+          "choices": [
+            "Orlando",
+            "Miami",
+            "Tampa",
+            "Jacksonville"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"B\" GIRLS",
+      "questions": [
+        {
+          "clue": "She's Mrs. Dagwood Bumstead",
+          "choices": [
+            "Alice",
+            "Penny",
+            "Bunty",
+            "Blondie"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "At the age of 11, she joined Justin & Christina in the cast of the new \"Mickey Mouse Club\"",
+          "choices": [
+            "Christina Aguilera",
+            "Justin Timberlake",
+            "Kirsten Dunst",
+            "Britney Spears"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Scarlett O'Hara's daughter",
+          "choices": [
+            "Sue Ellen",
+            "Rhoppy",
+            "Bonnie Blue",
+            "Wade Hampton"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "10 days after her release from rehab following a 1947 narcotics arrest, this \"Lady\" sold out Carnegie Hall",
+          "choices": [
+            "Billie Holiday",
+            "Ella Fitzgerald",
+            "Dinah Washington",
+            "Sarah Vaughan"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This \"Empress of the Blues\" performed with Benny Goodman & Louis Armstrong, among others",
+          "choices": [
+            "Ma Rainey",
+            "Clara Smith",
+            "Ethel Waters",
+            "Bessie Smith"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ESCAPIST LITERATURE",
+      "questions": [
+        {
+          "clue": "Clark Howard's novel \"Six Against the Rock\" examines an ingenious plan for escape from this prison",
+          "choices": [
+            "Attica",
+            "Alcatraz",
+            "Sing Sing",
+            "Alcatraz Island"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A magician himself, Sid Fleischman penned \"Escape!: The Story of\" this legend",
+          "choices": [
+            "Blackstone",
+            "Harry Houdini",
+            "David Copperfield",
+            "Houdini"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "George & Eliza make it safely to Canada after escaping the Shelby plantation in this 1852 novel",
+          "choices": [
+            "Little House on the Prairie",
+            "The Adventures of Huckleberry Finn",
+            "Jane Eyre",
+            "Uncle Tom's Cabin"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This 1950 Paul Brickhill book that inspired a film tells of a mass breakout from Stalag Luft III",
+          "choices": [
+            "The Colditz Story",
+            "Where Eagles Dare",
+            "The Bridge on the River Kwai",
+            "The Great Escape"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The displaced title man escapes being put to death in this 1889 novel by accurately predicting a solar eclipse",
+          "choices": [
+            "The Prince and the Pauper",
+            "A Connecticut Yankee in King Arthur's Court",
+            "Rob Roy",
+            "Ivanhoe"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This \"Far from the Madding Crowd\" author's first published work under his own name was 1873's \"A Pair of Blue Eyes\"",
+    "choices": [
+      "(Charles) Dickens",
+      "(Thomas) Hardy",
+      "(Charlotte) Bronte",
+      "(Lewis) Carroll"
+    ],
+    "correctIndex": 1,
+    "category": "BRITISH NOVELISTS"
+  },
+  "bonusRound": {
+    "clue": "Have a cookie in Savannah & visit the birthplace of Juliette Gordon Low, who founded this group in 1912",
+    "choices": [
+      "the Boy Scouts",
+      "the Campfire Girls",
+      "the Girl Scouts",
+      "the Junior Daughters"
+    ],
+    "correctIndex": 2,
+    "category": "GEORGIA"
+  }
+}

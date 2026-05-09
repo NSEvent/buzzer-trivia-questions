@@ -1,0 +1,207 @@
+{
+  "date": "2028-02-05",
+  "categories": [
+    {
+      "name": "MONOPOLY",
+      "questions": [
+        {
+          "clue": "Piece of jewelry depicted on the Luxury Tax space",
+          "choices": [
+            "a gold bracelet",
+            "a silver necklace",
+            "a ruby earring",
+            "a diamond ring"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Early in the game it's recommended to pay this amount to get out of jail; later try the dice",
+          "choices": [
+            "$50",
+            "$100",
+            "$25",
+            "$200"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Monopoly was first produced by this company once run by siblings George & Charles",
+          "choices": [
+            "Hasbro",
+            "Milton Bradley",
+            "Parker Brothers",
+            "Waddingtons"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A railroad & an avenue are both named for this state",
+          "choices": [
+            "Pennsylvania",
+            "Massachusetts",
+            "Maryland",
+            "Connecticut"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Tokens that are household items include the iron & this sewing accessory",
+          "choices": [
+            "a needle",
+            "a spool of thread",
+            "a thimble",
+            "a seam ripper"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COLLEGE BOWL",
+      "questions": [
+        {
+          "clue": "When completed in 1923, this Ann Arbor school's Yost Field House was the first field house on a college campus",
+          "choices": [
+            "the University of Wisconsin",
+            "Ohio State University",
+            "the University of Illinois",
+            "the University of Michigan"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Following the Civil War, the University of Florida moved from Ocala to this city",
+          "choices": [
+            "Tallahassee",
+            "Jacksonville",
+            "Gainesville",
+            "St. Augustine"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1893 the Columbia Institution for the Instruction of the Deaf, Dumb & Blind became this",
+          "choices": [
+            "Gallaudet University",
+            "Howard University",
+            "Trinity College",
+            "Gallaudet"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "From 1953 to 1991 the University of Leipzig was named for this co-founder of scientific socialism",
+          "choices": [
+            "Friedrich Engels",
+            "Vladimir Lenin",
+            "Leon Trotsky",
+            "Karl Marx"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "College Station, home to this Texas school, got its name from the railroad station built to serve the college",
+          "choices": [
+            "Texas A&M",
+            "University of Texas",
+            "Texas Tech University",
+            "Baylor University"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"ICK\"Y WORDS",
+      "questions": [
+        {
+          "clue": "For years, advertisers have asked us to do this to \"your Bic\" lighter",
+          "choices": [
+            "light",
+            "flick",
+            "snap",
+            "strike"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"Heat\" suffered by infants in warm weather, causing a rash",
+          "choices": [
+            "chicken pox",
+            "roseola",
+            "scarlet fever",
+            "prickly heat"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Last name of the golfing great who was the first to twice win the British Open, Masters, PGA & U.S. Open",
+          "choices": [
+            "(Tiger) Woods",
+            "(Bobby) Jones",
+            "(Arnold) Palmer",
+            "(Jack) Nicklaus"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Slender & crisp, they're known as grissini in Italy",
+          "choices": [
+            "pretzel sticks",
+            "focaccia",
+            "garlic knots",
+            "breadsticks"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "It's the area over which a bailiff has jurisdiction",
+          "choices": [
+            "parish",
+            "precinct",
+            "bailiwick",
+            "ward"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This pungent Italian cheese with blue-green veins goes well with a hearty red wine",
+    "choices": [
+      "Roquefort",
+      "Gruy\u00e8re",
+      "Brie",
+      "Gorgonzola"
+    ],
+    "correctIndex": 3,
+    "category": "WINE & CHEESE"
+  },
+  "bonusRound": {
+    "clue": "It could be the reason The Dave Clark Five recorded it",
+    "choices": [
+      "Why",
+      "When",
+      "\"Because\"",
+      "How"
+    ],
+    "correctIndex": 2,
+    "category": "1-WORD SONGS"
+  }
+}

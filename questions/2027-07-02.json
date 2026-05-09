@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-02",
+  "categories": [
+    {
+      "name": "BEASTLY COMMON BONDS",
+      "questions": [
+        {
+          "clue": "Green tree, leopard, bull",
+          "choices": [
+            "lizards",
+            "turtles",
+            "Frogs",
+            "salamanders"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Mako, hammerhead, great white",
+          "choices": [
+            "whales",
+            "sharks",
+            "dolphins",
+            "rays"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "black spider, golden snub-nosed, red colobus",
+          "choices": [
+            "ape",
+            "monkey",
+            "lemur",
+            "tamarin"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Golden, bald, white-tailed",
+          "choices": [
+            "hawks",
+            "falcons",
+            "eagles",
+            "vultures"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "green crested, collared, anole",
+          "choices": [
+            "snake",
+            "turtle",
+            "dragon",
+            "lizard"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "EUROPEAN COMPOSERS",
+      "questions": [
+        {
+          "clue": "This German completed his \"Chromatic Fantasy And Fugue\" for harpsichord in 1730",
+          "choices": [
+            "George Frideric Handel",
+            "Frederick the Great",
+            "Dietrich Buxtehude",
+            "Johann Sebastian Bach"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Due to the poor reception of his 1904 premiere of \"Madame Butterfly\", he withdrew it to revise the score",
+          "choices": [
+            "Puccini",
+            "Verdi",
+            "Ponchielli",
+            "Donizetti"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "At the time of this \"New World\" composer's death in 1904, he was the director of the Prague Conservatory",
+          "choices": [
+            "Smetana",
+            "Mahler",
+            "Wolf",
+            "Dvorak"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This Bohemian composer set his masterpiece, \"The Bartered Bride\", in Bohemia",
+          "choices": [
+            "Anton\u00edn Dvo\u0159\u00e1k",
+            "Leo\u0161 Jan\u00e1\u010dek",
+            "Bedrich Smetana",
+            "Bed\u0159ich Smetana"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This \"Peter and the Wolf\" composer wrote the music for the classic film \"Alexander Nevsky\"",
+          "choices": [
+            "Shostakovich",
+            "Stravinsky",
+            "Prokofiev",
+            "Rachmaninoff"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FASHION",
+      "questions": [
+        {
+          "clue": "Aviator, wraparound & John Lennon are styles of these",
+          "choices": [
+            "Binoculars",
+            "Sunglasses",
+            "Goggles",
+            "Monocles"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In the 1930s & '40s, this boned & rigid garment for women gave way to the girdle",
+          "choices": [
+            "Stays",
+            "Busk",
+            "Corset",
+            "Corselet"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This term for an exaggeratedly full hairstyle can also apply to a full skirt",
+          "choices": [
+            "voluminous",
+            "helmet",
+            "bouffant",
+            "teased"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This winter coat echoes the name of a deadly sushi fish",
+          "choices": [
+            "anorak",
+            "parka",
+            "a puffer jacket (coat)",
+            "puffer vest"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "For 5 years Karl Lagerfeld has been updating the look created by this designer",
+          "choices": [
+            "Dior",
+            "(Coco) Chanel",
+            "Yves Saint Laurent",
+            "Givenchy"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "With a leg span of about 12 inches, the Goliath bird-eating spider is native to this continent",
+    "choices": [
+      "Africa",
+      "Asia",
+      "South America",
+      "North America"
+    ],
+    "correctIndex": 2,
+    "category": "CONTINENTAL"
+  }
+}

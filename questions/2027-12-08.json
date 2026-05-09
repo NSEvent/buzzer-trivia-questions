@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-08",
+  "categories": [
+    {
+      "name": "FOREIGN WORDS",
+      "questions": [
+        {
+          "clue": "In German, \"Ubermensch\"; in reruns, George Reeves",
+          "choices": [
+            "Superman",
+            "Batman",
+            "Superboy",
+            "Superhero"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Hebrew for \"order\", it's the ceremonial dinner taken in order on 1st night of Passover",
+          "choices": [
+            "Seder",
+            "Kosher",
+            "Shabbat",
+            "Matzah"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "German for armed uprising or riot; Hitler's failed in 1923",
+          "choices": [
+            "Reichstag",
+            "Blitzkrieg",
+            "putsch",
+            "Gestapo"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Japan, where employees take only half the time off they're entitled to, gave us karoshi, or \"death from\" this",
+          "choices": [
+            "overstress",
+            "overexertion",
+            "overwork",
+            "overload"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It's Dutch for \"night\", spelled the same as the German word",
+          "choices": [
+            "Nacht",
+            "Nachtigal",
+            "Nachtmahr",
+            "Nachtisch"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ROLE WITH THE PUNCHES",
+      "questions": [
+        {
+          "clue": "In 2001 he stung like a bee as \"Ali\"",
+          "choices": [
+            "Eddie Murphy",
+            "Will Smith",
+            "Martin Lawrence",
+            "Chris Tucker"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"Into the Ring\" & \"Cutman\" were episode titles of this Netflix series about a blind superhero whose dad was a boxer",
+          "choices": [
+            "Iron Fist",
+            "Punisher",
+            "Luke Cage",
+            "Daredevil"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In this film Russell Crowe as James J. Braddock defeats Max Baer in a big upset & lives happily ever after",
+          "choices": [
+            "Caddyshack",
+            "Cinderella Man",
+            "Raging Bull",
+            "The Hurricane"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 1975 his friends entered him into the Golden Gloves as a laugh; he'd later play a boxer on \"Taxi\"",
+          "choices": [
+            "Sylvester Stallone",
+            "Robert De Niro",
+            "Billy Zane",
+            "Tony Danza"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "He put up a good fight as Billy \"The Great\" hope in 2015's \"Southpaw\"",
+          "choices": [
+            "Jake Gyllenhaal",
+            "Michael B. Jordan",
+            "Tom Hardy",
+            "Dwayne Johnson"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MEDICAL DRAMA",
+      "questions": [
+        {
+          "clue": "It doesn't get more medical drama than this Port Charles-set soap that will celebrate its 60th anniversary in 2023",
+          "choices": [
+            "Days of Our Lives",
+            "General Hospital",
+            "The Bold and the Beautiful",
+            "Young and the Restless"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "We assume this actor was paid very handsomely for playing Dr. Doug Ross on \"ER\" starting in 1994",
+          "choices": [
+            "Clooney",
+            "Shatner",
+            "Cranston",
+            "Hughes"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Go ahead, make my day (& save it too)! In 2014 this actor, then age 83, saved a choking man by doing the Heimlich maneuver",
+          "choices": [
+            "Hoffman",
+            "Newman",
+            "Eastwood",
+            "Redford"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1943 Dr. Willem Kolff's artificial kidney pioneered this treatment of removing, purifying & returning blood",
+          "choices": [
+            "transfusion",
+            "perfusion",
+            "infusion",
+            "dialysis"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "There's a statue in Central Park of this heroic sled dog for helping run a diphtheria antitoxin to remote Alaskans in 1925",
+          "choices": [
+            "Togo",
+            "Leonhard",
+            "Seppala",
+            "Balto"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "I love Dr. Freud for using this term for strong feelings of attachment by a patient toward an analyst",
+    "choices": [
+      "projection",
+      "repression",
+      "displacement",
+      "transference"
+    ],
+    "correctIndex": 3,
+    "category": "IT'S IN YOUR MIND"
+  }
+}

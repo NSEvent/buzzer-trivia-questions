@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-21",
+  "categories": [
+    {
+      "name": "THE \"ND\"",
+      "questions": [
+        {
+          "clue": "It's the wide sash worn at the waist & fastened in back that's part of a man's formal suit",
+          "choices": [
+            "Ascot",
+            "Cravat",
+            "Cummerbund",
+            "Necktie"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Send letters back & forth",
+          "choices": [
+            "communicate",
+            "correspond",
+            "corroborate",
+            "coordinate"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "According to the U.S. Surgeon General, even occasional exposure to this type of smoke is harmful",
+          "choices": [
+            "third-hand",
+            "fourth-hand",
+            "second-hand",
+            "fifth-hand"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Emerson wrote, \"the only way to have\" one of these \"is to be one\"",
+          "choices": [
+            "a rival",
+            "a neighbor",
+            "a friend",
+            "a stranger"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This thick, succulent steak for 2 is traditionally served with Bearnaise sauce",
+          "choices": [
+            "Filet Mignon",
+            "Ribeye",
+            "T-Bone",
+            "Chateaubriand"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOLLYWOOD SQUARES",
+      "questions": [
+        {
+          "clue": "Now a star of gritty big-screen blockbusters, he tendered bar on \"Cheers\" for 8 years as a naive Indiana farmboy",
+          "choices": [
+            "Ted Danson",
+            "George Wendt",
+            "Woody Harrelson",
+            "John Ratzenberger"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "During its first season, Jaleel White joined this show as the ultra-nerdy Steve Urkel",
+          "choices": [
+            "Family Matters",
+            "Full House",
+            "Saved by the Bell",
+            "Family Ties"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In \"The Incredible Mr. Limpet\" this man played a nebbish-turned-fish who befuddled the Nazis",
+          "choices": [
+            "Bob Newhart",
+            "Bill Cosby",
+            "Don Knotts",
+            "Dick Van Dyke"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Her performances as the nerdy Lisa Loopner on \"Saturday Night Live\" were \"so funny I forgot to laugh\"",
+          "choices": [
+            "Jane Curtin",
+            "Laraine Newman",
+            "Gilda Radner",
+            "Garrett Morris"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Homer Simpson is often flummoxed by the behavior of this dweeby next-door neighbor",
+          "choices": [
+            "Chief Wiggum",
+            "Ned Flanders",
+            "Homer Simpson",
+            "Milhouse Van Houten"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE 1950's",
+      "questions": [
+        {
+          "clue": "This comedy duo's split-up was big news in 1956",
+          "choices": [
+            "Abbott & Costello",
+            "Bob Hope & Bing Crosby",
+            "Martin & Lewis",
+            "Lance & Lambert"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "San Francisco police confiscated this beat poet's epic \"Howl\" when it first came out",
+          "choices": [
+            "Allen Ginsberg",
+            "Jack Kerouac",
+            "William S. Burroughs",
+            "Gregory Corso"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In 1959, this int'l figure appeared on CBS' \"Person to Person\" in pajamas rather than fatigues",
+          "choices": [
+            "Mao Zedong",
+            "(Fidel) Castro",
+            "Nikita Khrushchev",
+            "Mohammad Mosaddeq"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Ezra Taft Benson, now prophet & pres. of the Mormon church, held this cabinet post in the '50s",
+          "choices": [
+            "Secretary of Agriculture",
+            "Secretary of Commerce",
+            "Secretary of the Interior",
+            "Postmaster General"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1952, 12-year-old Jimmy Boyd earned a fortune with this Christmas song hit",
+          "choices": [
+            "\"I Saw Mommy Kissing Santa Claus\"",
+            "Rudolph the Red-Nosed Reindeer",
+            "Jingle Bell Rock",
+            "Rockin' Around the Christmas Tree"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "First held in 1954, this annual jazz festival moved to Rhode Island's Fort Adams State Park in 1981",
+    "choices": [
+      "the Monterey Jazz Festival",
+      "the Newport Folk Festival",
+      "the Berkeley Jazz Festival",
+      "the Newport Jazz Festival"
+    ],
+    "correctIndex": 3,
+    "category": "STATE PARKS"
+  }
+}

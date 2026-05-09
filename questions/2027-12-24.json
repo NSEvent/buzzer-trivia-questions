@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-24",
+  "categories": [
+    {
+      "name": "THE WAR OF 1812",
+      "questions": [
+        {
+          "clue": "At the time of the war, Britain was involved in a long-standing struggle with this country",
+          "choices": [
+            "Spain",
+            "Russia",
+            "France",
+            "Portugal"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In April 1813 Americans briefly captured this capital of Upper Canada, then called York",
+          "choices": [
+            "Montreal",
+            "Vancouver",
+            "Halifax",
+            "Toronto"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This American naval ship destroyed the Cuerriere & the Java, among others",
+          "choices": [
+            "the Essex",
+            "the Constitution",
+            "the Chesapeake",
+            "the Wasp"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 1813 this naval officer supervised the building of American ships to strengthen the Navy's fleet on Lake Erie",
+          "choices": [
+            "Stephen Decatur",
+            "Isaac Hull",
+            "David Porter",
+            "Oliver Hazard Perry"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "(Sofia presents the clue.) The musket I'm holding, like the ones in the War of 1812, uses a firing mechanism known as this",
+          "choices": [
+            "a matchlock",
+            "a wheellock",
+            "a flintlock",
+            "a percussion cap"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"MONKEY\" SHINES",
+      "questions": [
+        {
+          "clue": "This term for a jungle gym dates back to the 1950s",
+          "choices": [
+            "Climbing vines",
+            "Playground swings",
+            "Monkey suit",
+            "Monkey bars"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Film in which Groucho Marx declares, \"Love flies out the door when money comes innuendo\"",
+          "choices": [
+            "A Night at the Opera",
+            "A Day at the Races",
+            "Go West",
+            "Monkey Business"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "John T. Scopes was the subject of it",
+          "choices": [
+            "To Kill a Mockingbird",
+            "\"Scopes Monkey Trial\"",
+            "Inherit the Wind",
+            "Evolution: The Story"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Usually \"thrown\", it's an obstacle that gets in the way of one's plans",
+          "choices": [
+            "Monkey wrench",
+            "Cobweb",
+            "Speed bump",
+            "Roadblock"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It follows \"Ab-a, dab-a, dab-a, dab-a, dab-a, dab-a, dab\"",
+          "choices": [
+            "Said the cat to the dog",
+            "Said the monkey to the chimp",
+            "Said the bear to the wolf",
+            "Said the fox to the deer"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "I MARRIED THIS SPORTS STAR",
+      "questions": [
+        {
+          "clue": "Spice Girl Victoria Adams, in 1999",
+          "choices": [
+            "Eric Cantona",
+            "David Beckham",
+            "Michael Owen",
+            "Alan Shearer"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Khloe Kardashian, in 2009",
+          "choices": [
+            "Kanye West",
+            "Lamar Odom",
+            "Kevin Durant",
+            "Chris Paul"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Kim Kardashian, in 2011",
+          "choices": [
+            "Kris Humphries",
+            "Derek Jeter",
+            "LeBron James",
+            "Tom Brady"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Janet Jones, in 1988",
+          "choices": [
+            "Michael Jordan",
+            "Magic Johnson",
+            "Pele",
+            "Wayne Gretzky"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Carrie Underwood, in 2010",
+          "choices": [
+            "Bradley Cooper",
+            "Ben Gibbard",
+            "Mike Fisher",
+            "Shia LaBeouf"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The reason the 1989 Rose Parade was not held on January 1",
+    "choices": [
+      "it rained heavily",
+      "there was a parades ban",
+      "the float count was low",
+      "it was a Sunday"
+    ],
+    "correctIndex": 3,
+    "category": "NEW YEAR'S DAY"
+  }
+}

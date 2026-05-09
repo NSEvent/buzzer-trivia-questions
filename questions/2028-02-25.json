@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-25",
+  "categories": [
+    {
+      "name": "INTERNATIONAL CINEMA SHOWCASE",
+      "questions": [
+        {
+          "clue": "\"Das Boot\" portrayed both boredom & terror aboard one of these German craft during World War II",
+          "choices": [
+            "a submarine",
+            "a battleship",
+            "a destroyer",
+            "a U-boat"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"The Motorcycle Diaries\" dramatized a life-changing road trip by this future ally of Fidel Castro",
+          "choices": [
+            "Che Guevara",
+            "Fidel Castro",
+            "Raul Castro",
+            "Camilo Cienfuegos"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "B\u00e9r\u00e9nice Bejo played 1920s actress Peppy Miller in this 2011 multi-Oscar winner from France",
+          "choices": [
+            "The Artist",
+            "Midnight in Paris",
+            "Amelie",
+            "La Vie en Rose"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"City of God\" is about 2 boys growing up in a violent favela in this South American country",
+          "choices": [
+            "Argentina",
+            "Brazil",
+            "Colombia",
+            "Peru"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The 2011 Oscar for Best Foreign Film went to director Asghar Farhadi's \"A Separation\", the first winner from this country",
+          "choices": [
+            "Iran",
+            "Turkey",
+            "Afghanistan",
+            "Iraq"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A BUNCH OF STUFF",
+      "questions": [
+        {
+          "clue": "According to USDA dietary guidelines, at least half of what you eat from this food group should be \"whole\"",
+          "choices": [
+            "grains",
+            "fruits",
+            "vegetables",
+            "dairy"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This Maryland city's intl. airport is officially named for Thurgood Marshall, who was born there",
+          "choices": [
+            "Washington",
+            "Philadelphia",
+            "Baltimore",
+            "Boston"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A tornado that struck Rochester, Minnesota in 1883 inspired 3 doctors with this last name to open a clinic",
+          "choices": [
+            "Cleveland",
+            "Clay",
+            "Johnson",
+            "Mayo"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "It's the 16-letter word for a 150th anniversary",
+          "choices": [
+            "a bicentennial celebration",
+            "a centennial gala event",
+            "a quincentennial observance",
+            "a sesquicentennial"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 2012 this 1972 presidential candidate passed away at age 90 in South Dakota",
+          "choices": [
+            "(George) McGovern",
+            "(Hubert) Humphrey",
+            "(Eugene) McCarthy",
+            "(LBJ)"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NAME THAT PREZ",
+      "questions": [
+        {
+          "clue": "Wearing No. 5, he's famous for a doctrine",
+          "choices": [
+            "Adams",
+            "Jackson",
+            "Monroe",
+            "Madison"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "From 1937 to 1940 his father was U.S. Ambassador to Great Britain",
+          "choices": [
+            "FDR",
+            "TR",
+            "JFK",
+            "Hoover"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "His reputed affair with Mrs. Mary Peck threatened to quash his presidential hopes in 1912",
+          "choices": [
+            "Woodrow Wilson",
+            "Warren G. Harding",
+            "Calvin Coolidge",
+            "Herbert Hoover"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The oldest to be inaugurated",
+          "choices": [
+            "Gerald Ford",
+            "Reagan",
+            "Richard Nixon",
+            "Ronald Reagan's VP"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Had been president of Columbia University",
+          "choices": [
+            "Harry Truman",
+            "Dwight David Eisenhower",
+            "Dwight D. Eisenhower Jr.",
+            "George Washington"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "As far as the Cold War goes, the Iron Curtain dealt with the Soviets & this curtain dealt with China",
+    "choices": [
+      "the Iron Dome",
+      "the Bamboo Curtain",
+      "the Silk Curtain",
+      "the Glass Wall"
+    ],
+    "correctIndex": 1,
+    "category": "METAPHORS BE WITH YOU"
+  }
+}

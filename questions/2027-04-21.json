@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-21",
+  "categories": [
+    {
+      "name": "ORES",
+      "questions": [
+        {
+          "clue": "About 6% of the ore mined for this mineral contains usable fibers",
+          "choices": [
+            "Asbestos",
+            "talc",
+            "clay",
+            "mica"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Cu2S is the chemical formula of chalcocite, mainly valued as an ore of this metal",
+          "choices": [
+            "silver",
+            "copper",
+            "gold",
+            "aluminum"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Goethite & magnetite are ores of this metal",
+          "choices": [
+            "lead",
+            "tin",
+            "nickel",
+            "iron"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Black jack & ruby jack are forms of the chief ore of this metal, symbol Zn",
+          "choices": [
+            "lead",
+            "zinc",
+            "cadmium",
+            "tin"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This principal ore of aluminum is also used for oil filtration & the making of abrasives",
+          "choices": [
+            "hematite",
+            "bauxite",
+            "magnetite",
+            "gypsum"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOLD THE FORT",
+      "questions": [
+        {
+          "clue": "Built by the British in 1764, Fort Erie was captured by American troops during this war",
+          "choices": [
+            "The American Revolution",
+            "The Mexican-American War",
+            "The War of 1812",
+            "The Spanish-American War"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Give yourself a pat on the back if you know that the Patton museum is located at this famous fort in Kentucky",
+          "choices": [
+            "West Point",
+            "Fort Lee",
+            "Fort Sumter",
+            "Fort Knox"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "During the 1840s Fort Smith in Arkansas was under the command of this general & future President",
+          "choices": [
+            "Taylor",
+            "Jackson",
+            "Grant",
+            "Scott"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Built by George Washington's troops in June 1754, you might say it was the mother of invention",
+          "choices": [
+            "Fort Necessity",
+            "Fort Ticonderoga",
+            "Fort Sumter",
+            "Fort McHenry"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This North Carolina fort \"boasts\" of being the \"home of the airborne & special operations forces\"",
+          "choices": [
+            "Fort Bragg",
+            "Fort Carson",
+            "Fort Hood",
+            "Fort Brandywine"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE BRITISH INVASION",
+      "questions": [
+        {
+          "clue": "This group famous for \"I'm Henry VIII, I Am\", didn't play instruments on most of their hits",
+          "choices": [
+            "Herman's Hermits",
+            "The Beatles",
+            "The Rolling Stones",
+            "The Who"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Featuring a frenzied solo, this British band's \"You Really Got Me\" soared to No. 1",
+          "choices": [
+            "The Beatles",
+            "The Kinks",
+            "The Animals",
+            "Led Zeppelin"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "On January 24, 1962 The Beatles signed a contract making this man their manager",
+          "choices": [
+            "George Martin",
+            "Dick James",
+            "Allen Klein",
+            "(Brian) Epstein"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Reg Presley not only sang lead on this group's hit \"Wild Thing\", he played the ocarina as well",
+          "choices": [
+            "The Kinks",
+            "The Who",
+            "The Troggs",
+            "The Zombies"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "He sang lead on the Animals' \"House of the Rising Sun\", their only chart-topper",
+          "choices": [
+            "Alan Price",
+            "Chas Chandler",
+            "Hilton Valentine",
+            "Eric Burdon"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Sure the northern lights are awesome, but check out the southern lights, also known as the Aurora this, seen over places like Tasmania",
+    "choices": [
+      "borealis",
+      "polaris",
+      "australis",
+      "zenith"
+    ],
+    "correctIndex": 2,
+    "category": "PHENOMENA"
+  }
+}

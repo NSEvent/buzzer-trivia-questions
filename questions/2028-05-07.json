@@ -1,0 +1,196 @@
+{
+  "date": "2028-05-07",
+  "categories": [
+    {
+      "name": "EASTER PARADE",
+      "questions": [
+        {
+          "clue": "The word Easter may come from \"Eostre\", the name of an Anglo-Saxon goddess of this season",
+          "choices": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Originally native to the Ryukyu Islands of Japan, the Easter type of this plant is a symbol of resurrection",
+          "choices": [
+            "the rose",
+            "the tulip",
+            "the lily",
+            "the daffodil"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Easter Island is located 2,300 miles away from this nation to which it belongs",
+          "choices": [
+            "Peru",
+            "Chile",
+            "Argentina",
+            "Brazil"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The Easter Rising was an armed rebellion against British rule in this country in 1916",
+          "choices": [
+            "Scotland",
+            "Ireland",
+            "Wales",
+            "Northern Ireland"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Thousands of New Yorkers traditionally stroll down this avenue on Easter showing off their new clothes",
+          "choices": [
+            "Fifth Avenue",
+            "Madison Avenue",
+            "Broadway",
+            "Park Avenue"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CELEBRITY INVENTIONS",
+      "questions": [
+        {
+          "clue": "On her patent for a cigar-holder ring, she's listed as Edith A. Kovacs",
+          "choices": [
+            "Edie Adams",
+            "Edie Bogo",
+            "Edie McClurg",
+            "Edie Falco"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Some 20 years after finishing his \"U.S.A.\" trilogy, he took out a patent on a soap-bubble gun",
+          "choices": [
+            "John Updike",
+            "John le Carre",
+            "John Dos Passos",
+            "John Steinbeck"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1969 a heartbeat alarm worn on the wrist was patented by Zeppo of this comedy team",
+          "choices": [
+            "the Three Stooges",
+            "the Marx Sisters",
+            "the Marx Brothers",
+            "the Laurel and Hardy"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This one-name comedian patented a new type of slot machine complete with watermelon smashing",
+          "choices": [
+            "Gallagher",
+            "Steve Allen",
+            "Red Skelton",
+            "Jackie Mason"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This actor loved to drum & developed a new way to tighten the skins",
+          "choices": [
+            "Bing Crosby",
+            "Bob Hope",
+            "(Marlon) Brando",
+            "Danny Kaye"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AROUND NEW YORK",
+      "questions": [
+        {
+          "clue": "Visit the boardwalk & ride the over 80-year-old Wonder Wheel at this nostalgic amusement resort",
+          "choices": [
+            "Santa Monica Pier",
+            "Cedar Point",
+            "Astroland",
+            "Coney Island"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "You'll hear some cutting remarks in the 47th St. \"district\" named for these brilliant items",
+          "choices": [
+            "rubies",
+            "diamonds",
+            "emeralds",
+            "sapphires"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Established in 1837 & famed for a cut of steak, this N.Y. restaurant is credited as the 1st to serve eggs Benny & lobster Newburg",
+          "choices": [
+            "Keegan's",
+            "Tavern on the Green",
+            "Delmonico's",
+            "Harry's Noodle House"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The Grand Concourse, a wide thoroughfare with tree-lined medians, is known as this Parisian street of the Bronx",
+          "choices": [
+            "the Fifth Avenue",
+            "the Via Appia",
+            "the Champs de Mars",
+            "the Champs-\u00c9lys\u00e9es"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A plaque at 65th & 3rd honors this spy who was hanged by the British on September 22, 1776",
+          "choices": [
+            "Nathan Hale",
+            "John Andre",
+            "Nathanael Greene",
+            "Samuel Culper"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "She received 2 1982 acting Oscar nominations, both for playing actresses\u2014a soap star & a '40s film star",
+    "choices": [
+      "Jessica Lange",
+      "Sissy Spacek",
+      "Sigourney Weaver",
+      "Kathleen Turner"
+    ],
+    "correctIndex": 0,
+    "category": "OSCAR"
+  }
+}

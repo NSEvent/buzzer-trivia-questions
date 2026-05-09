@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-12",
+  "categories": [
+    {
+      "name": "ITALIAN AMERICANS",
+      "questions": [
+        {
+          "clue": "\"The Pink Panther\" was one of 5 feature films released in 1964 with a score credited to this man",
+          "choices": [
+            "John Williams",
+            "Ennio Morricone",
+            "Nino Rota",
+            "Henry Mancini"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The son of an Italian- born bandmaster, he was the 1st NYC mayor this century to serve 3 consecutive terms",
+          "choices": [
+            "Fiorello La Guardia",
+            "Vito Marcantonio",
+            "La Guardia",
+            "Al Smith"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Poet Dana Gioia, the first in his family to go to college, heads this organization, the NEA",
+          "choices": [
+            "National Endowment for the Humanities",
+            "National Gallery of Art",
+            "the National Endowment for the Arts",
+            "Smithsonian Institution"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "As director of the National Institute of Allergy & Infectious Diseases, he became a fixture on TV during the COVID pandemic",
+          "choices": [
+            "Torres",
+            "Khan",
+            "Collins",
+            "Fauci"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The screenwriting credits on the \"Godfather\" films are shared by these 2 men, the director & the original book's author",
+          "choices": [
+            "Lucas & Spielberg",
+            "Kubrick & Nicholson",
+            "Scorsese & De Niro",
+            "Coppola & Puzo"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ANCESTORS",
+      "questions": [
+        {
+          "clue": "The letter A goes back to this Semitic letter now found in Hebrew",
+          "choices": [
+            "aleph",
+            "bet",
+            "gimel",
+            "dalet"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The dombra was the immediate ancestor of this Russian guitar-like instrument",
+          "choices": [
+            "the balaban",
+            "the domra",
+            "the balalaika",
+            "the kobyz"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The ancestor of this domesticated bird is the wild red jungle fowl",
+          "choices": [
+            "a turkey",
+            "a duck",
+            "a chicken",
+            "a goose"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Modern playing cards evolved from this deck now used to tell fortunes",
+          "choices": [
+            "oracle",
+            "runes",
+            "tarot",
+            "astrology"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This \"licorice stick\"s ancestor was the chalumeau; Johann Denner lengthened it & added 2 keys",
+          "choices": [
+            "the flute",
+            "the saxophone",
+            "the clarinet",
+            "the oboe"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WWII",
+      "questions": [
+        {
+          "clue": "On Dec. 7, 1944 this Russian & de Gaulle were meeting in Moscow to sign a Franco-Soviet pact",
+          "choices": [
+            "Josef Stalin",
+            "Vladimir Lenin",
+            "Leon Trotsky",
+            "Karl Marx"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "After Russia became our \"friend\", he was referred to in the press as \"Uncle Joe\"",
+          "choices": [
+            "Winston Churchill",
+            "Franklin Roosevelt",
+            "Charles de Gaulle",
+            "Joseph Stalin"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "20,000 Russian guns opened fire on this city in April of 1945",
+          "choices": [
+            "Dresden",
+            "Stalingrad",
+            "Berlin",
+            "Hamburg"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1941 \"Hap\"penstance made him chief of the new U.S. Army Air Forces",
+          "choices": [
+            "Jimmy Doolittle",
+            "Henry Arnold",
+            "Hap Arnold",
+            "Carl Spaatz"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A destroyer was named for this family of 5 brothers killed in the Battle of Guadalcanal",
+          "choices": [
+            "the Sullivans",
+            "the Raders",
+            "the McGee family",
+            "the Sullivan brothers"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "George Harrison song that says, \"I really want to see you\" & is the titled poet who was mad, bad & dangerous to know",
+    "choices": [
+      "My Sweet Lord Shelley",
+      "My Sweet Lord Keats",
+      "My Sweet Lord Byron",
+      "My Sweet Lord Wordsworth"
+    ],
+    "correctIndex": 2,
+    "category": "AUTHORS BEFORE & AFTER"
+  }
+}

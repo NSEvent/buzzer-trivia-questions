@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-08",
+  "categories": [
+    {
+      "name": "SUMMER",
+      "questions": [
+        {
+          "clue": "1982 Woody Allen movie whose title suggests he had a little help from Shakespeare",
+          "choices": [
+            "A Midsummer Night's Dream",
+            "Midsummer Madness",
+            "Summer's End",
+            "A Midsummer Night's Sex Comedy"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "As Summer Quinn, Nicole Eggert saved lives on this internationally syndicated series",
+          "choices": [
+            "Friends",
+            "ER",
+            "Baywatch",
+            "The X-Files"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The summer one of these is in Pushkin; the winter one is north of it in St. Petersburg",
+          "choices": [
+            "Museum",
+            "Palace",
+            "Cathedral",
+            "Bridge"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The largest herd of these in the world heads to the Pribilofs each summer to breed",
+          "choices": [
+            "walruses",
+            "penguins",
+            "seagulls",
+            "seals"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Tanglewood in the Berkshires is the summer home for this city's symphony orchestra",
+          "choices": [
+            "New York",
+            "Boston",
+            "Philadelphia",
+            "Washington"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOLIDAY",
+      "questions": [
+        {
+          "clue": "Before holidaying in potentially dangerous places, visit this U.S. govt. department's \"Travel Warnings\" website",
+          "choices": [
+            "the Treasury Department",
+            "the State Department",
+            "the Defense Department",
+            "the Interior Department"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "On a visit to this country, check out the Suceava monasteries & also take in a Transylvanian village or two",
+          "choices": [
+            "Hungary",
+            "Bulgaria",
+            "Serbia",
+            "Romania"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The tradition of kids helping kids by collecting money for UNICEF on this holiday began in 1950 in Pennsylvania",
+          "choices": [
+            "Christmas",
+            "Thanksgiving",
+            "Halloween",
+            "Easter"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This Canadian province's Islander Day in February gives everyone a holiday between Christmas & Easter",
+          "choices": [
+            "Newfoundland",
+            "Nova Scotia",
+            "Prince Edward Island",
+            "New Brunswick"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "If you travel to Morocco, \"come with me to\" the Berber castles known as these",
+          "choices": [
+            "the Medinas",
+            "the Kasbahs",
+            "the Riads",
+            "the Mosques"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RULERS",
+      "questions": [
+        {
+          "clue": "The 2nd Spanish queen named this Married her cousin Francisco in 1846 but didn't live with him",
+          "choices": [
+            "Eugenia",
+            "Maria",
+            "Charlotte",
+            "Isabella"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1724 this Russian leader saved sailors drowning in the Gulf of Finland, caught a chill & died",
+          "choices": [
+            "Ivan the Terrible",
+            "Peter the Great",
+            "Catherine the Great",
+            "Nicholas II"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In September 1762 the Archbishop of Novgorod anointed her empress",
+          "choices": [
+            "Empress Elizabeth",
+            "Catherine the Great",
+            "Catherine I",
+            "Tsarina Sophia"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This founder of the Capetian Dynasty succeeded his father as duke of the Franks in 956",
+          "choices": [
+            "Robert the Strong",
+            "Charles the Bald",
+            "Hugh Capet",
+            "Odo of France"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In bloodless \"Glorious Revolution\" of 1688, James II of England fled, & they became joint sovereigns",
+          "choices": [
+            "Queen Anne & Prince George",
+            "James II & Mary of Modena",
+            "Charles II & Catherine of Braganza",
+            "William III & Mary II"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "At 55%, an average dog is mostly this liquid, not meat",
+    "choices": [
+      "blood",
+      "water",
+      "plasma",
+      "saliva"
+    ],
+    "correctIndex": 1,
+    "category": "HOT DOG!"
+  }
+}

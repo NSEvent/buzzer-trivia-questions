@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-15",
+  "categories": [
+    {
+      "name": "SCANDALS",
+      "questions": [
+        {
+          "clue": "In 1989 this TV evangelist was convicted on 24 counts of fraud & conspiracy",
+          "choices": [
+            "Pat Robertson",
+            "Jimmy Swaggart",
+            "Oral Roberts",
+            "Jim Bakker"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Type of illegal \"trading\" that took Ivan Boesky from the heights of Wall Street to a $100 million penalty",
+          "choices": [
+            "Market manipulation",
+            "Insider trading",
+            "Rustling",
+            "Insider information"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Christie's must have laughed in 1997 as 2 workers at this auction house were suspended for smuggling",
+          "choices": [
+            "Bonhams",
+            "Phillips",
+            "Christie's",
+            "Sotheby's"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A complaint by Newt Gingrich about outside income led to this House speaker's 1989 resignation",
+          "choices": [
+            "Jim Wright",
+            "Tip O'Neill",
+            "Newt Gingrich",
+            "Tom Foley"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This 19th century fighter for Irish home rule was scandalously involved with a married woman named Kitty O'Shea",
+          "choices": [
+            "John Redmond",
+            "Daniel O'Connell",
+            "Michael Collins",
+            "Charles Parnell"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LAW & ORDER",
+      "questions": [
+        {
+          "clue": "One of the 1st modern organized police forces was this city's Metropolitan Police, set up in 1829",
+          "choices": [
+            "Paris",
+            "London",
+            "New York",
+            "Manchester"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "4-letter word for a charge or encumbrance placed on one's property to secure payment of a debt",
+          "choices": [
+            "pledge",
+            "bond",
+            "lien",
+            "warrant"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "He established the Irish constabulary as well as London's \"bobbies\"",
+          "choices": [
+            "Robert Peel",
+            "William Pitt",
+            "Edmund Burke",
+            "Henry Grattan"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In order to get a more objective trial, ask for a \"change of\" this to seek to have a case heard in a new jurisdiction",
+          "choices": [
+            "venue",
+            "jury",
+            "judge",
+            "trial"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This \"rule\" is a court order banning all parties involved in a case from discussing it publicly",
+          "choices": [
+            "a search warrant",
+            "an injunction",
+            "a gag rule",
+            "a subpoena"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FRENCH PHRASES",
+      "questions": [
+        {
+          "clue": "On the contrary, this is French for \"on the contrary\"",
+          "choices": [
+            "en fait",
+            "au contraire",
+            "par contre",
+            "tout \u00e0 fait"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Literally it means \"leave to do,\" & it has come to refer to gov't non-interference in commerce",
+          "choices": [
+            "laisser faire",
+            "laissez-passer",
+            "laisser tomber",
+            "laissez-faire"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The kid isn't really escaping from the picture frame; it's this style, meant to fool the eye",
+          "choices": [
+            "pointillism",
+            "impressionism",
+            "baroque",
+            "trompe-l'\u0153il"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Full discretionary power or freedom, like being handed a blank paper",
+          "choices": [
+            "laissez-faire",
+            "pro bono",
+            "ad hoc",
+            "carte blanche"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Strictly required according to etiquette or usage, such as wearing a bow tie with your tux",
+          "choices": [
+            "bon vivant",
+            "en vogue",
+            "je ne sais quoi",
+            "de rigueur"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "King Hassan II",
+    "choices": [
+      "Algeria",
+      "Tunisia",
+      "Senegal",
+      "Morocco"
+    ],
+    "correctIndex": 3,
+    "category": "THEIR NATIVE SOIL"
+  }
+}

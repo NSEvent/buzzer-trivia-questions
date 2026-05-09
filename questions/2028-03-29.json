@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-29",
+  "categories": [
+    {
+      "name": "SHERLOCK HOLMES",
+      "questions": [
+        {
+          "clue": "According to fan Sean Wright, the stories mention lay, briar, & cherrywood types of these, never calabash",
+          "choices": [
+            "cigars",
+            "pipes",
+            "tobacco",
+            "smoke"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This 1st Sherlock Holmes adventure was published in \"Beeton's Christmas Annual\" in 1887",
+          "choices": [
+            "The Sign of Four",
+            "The Hound of the Baskervilles",
+            "The Adventures of Sherlock Holmes",
+            "A Study in Scarlet"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This one-time Willy Wonka took on the title role in 1975's \"The Adventures of Sherlock Holmes' Smarter Brother\"",
+          "choices": [
+            "Charlie Chaplin",
+            "Gene Wilder",
+            "Peter Ustinov",
+            "Basil Rathbone"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Before \"Rain Man\", he directed \"Young Sherlock Holmes\", in which Holmes & Watson meet as boys at boarding school",
+          "choices": [
+            "Steven Spielberg",
+            "Barry Levinson",
+            "Francis Ford Coppola",
+            "Alfred Hitchcock"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "He was Sherlock's older brother by 7 years",
+          "choices": [
+            "Sheridan",
+            "Mycroft",
+            "Eurus",
+            "Sebastian"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SHOW ME THE MONEY!",
+      "questions": [
+        {
+          "clue": "He collected $25,000 for flying from New York to Paris in 1927",
+          "choices": [
+            "Charles Lindbergh",
+            "Amelia Earhart",
+            "Wiley Post",
+            "Charles Kingsford Smith"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "For each of these prestigious prizes you'll earn about 10 million kronor",
+          "choices": [
+            "Fields Medals",
+            "Nobel Prizes",
+            "Turing Awards",
+            "Pulitzer Prizes"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Here's a 100 baht note, worth about $3 with the late King Bhumibol of this Asian country",
+          "choices": [
+            "Malaysia",
+            "Laos",
+            "Thailand",
+            "Cambodia"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "About $2.80 of ours equals 10 of this currency in 2019 rates",
+          "choices": [
+            "a dram",
+            "a shekel",
+            "a shilling",
+            "a ducat"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "First minted during the Civil War, the U.S. 2-cent piece was the first coin with this slogan on it",
+          "choices": [
+            "E Pluribus Unum",
+            "Liberty",
+            "\"In God We Trust\"",
+            "United States of America"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE STAR-SPANGLED BANNER",
+      "questions": [
+        {
+          "clue": "It's the only color on the flag that's also mentioned in the song",
+          "choices": [
+            "white",
+            "blue",
+            "black",
+            "red"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Francis Scott Key wrote the words after the 1814 bombardment of this fort",
+          "choices": [
+            "Fort McHenry",
+            "Fort Ticonderoga",
+            "Fort Sumter",
+            "Fort Niagara"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "It's the very last word of the song",
+          "choices": [
+            "free",
+            "brave",
+            "home",
+            "land"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 2014 \"The Star-Spangled Banner\" was sung for the first time by an opera singer, this soprano",
+          "choices": [
+            "Maria Callas",
+            "Ren\u00e9e Fleming",
+            "Joan Sutherland",
+            "Kiri Te Kanawa"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's the U.S. state where the original poem was written",
+          "choices": [
+            "Virginia",
+            "Maryland",
+            "Delaware",
+            "Pennsylvania"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"Every Man a King\" was a slogan of this Louisiana governor",
+    "choices": [
+      "Earl Long",
+      "Jim Davis",
+      "Sam Jones",
+      "Huey Long"
+    ],
+    "correctIndex": 3,
+    "category": "POLITICAL TERMS"
+  }
+}

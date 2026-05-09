@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-27",
+  "categories": [
+    {
+      "name": "PROFESSIONAL SPORTS",
+      "questions": [
+        {
+          "clue": "In 1971 the NBA's San Diego Rockets moved to this city",
+          "choices": [
+            "Houston",
+            "San Antonio",
+            "Los Angeles",
+            "Dallas"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This San Francisco 49ers quarterback was named MVP of Super Bowls XVI, XIX & XXIV",
+          "choices": [
+            "Steve Young",
+            "Brett Favre",
+            "Tom Brady",
+            "Joe Montana"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 1968 this team's Carl Yastrzemski led the A.L. with a .301 avg., the lowest average to win a league title in MLB history",
+          "choices": [
+            "Boston Red Sox",
+            "New York Yankees",
+            "Chicago Cubs",
+            "Pittsburgh Pirates"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Only 2 players in NBA history have sunk over 8,500 career free throws: Moses Malone & this Jazz forward",
+          "choices": [
+            "John Stockton",
+            "Jason Kidd",
+            "Karl Malone",
+            "Steve Nash"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Of the 3 races in thoroughbred horse racing's Triple Crown, this one is run first",
+          "choices": [
+            "the Preakness Stakes",
+            "the Kentucky Derby",
+            "the Belmont Stakes",
+            "the Breeders' Cup"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SAY CHEESE",
+      "questions": [
+        {
+          "clue": "This name refers to natural cheddar made in the U.S. & is often confused with processed cheese",
+          "choices": [
+            "Swiss cheese",
+            "Cheddar cheese",
+            "American cheese",
+            "Mozzarella cheese"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Found in Greek salad, this cheese was first developed by shepherds near Athens",
+          "choices": [
+            "feta",
+            "parmesan",
+            "ricotta",
+            "mozzarella"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Cojack is a blend of Jack cheese & this one",
+          "choices": [
+            "cheddar",
+            "gouda",
+            "Colby",
+            "brie"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The \"Cheese Primer\" calls these 2 classics from the Netherlands \"two of the most unexciting cheeses imaginable\"",
+          "choices": [
+            "Brie & Camembert",
+            "Cheddar & Stilton",
+            "Edam & Gouda",
+            "Parmesan & Pecorino"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This blue cheese comes from a village near the vineyards of Sauternes, its classic companion",
+          "choices": [
+            "Roquefort",
+            "Gorgonzola",
+            "Blue Vein",
+            "Stilton"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"ODE\" TO JOY",
+      "questions": [
+        {
+          "clue": "7-letter word meaning to wear or eat away by the action of a chemical",
+          "choices": [
+            "oxidize",
+            "corrode",
+            "erode",
+            "dissolve"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "To collapse inward, like a building being leveled in a controlled explosion",
+          "choices": [
+            "implode",
+            "collapse",
+            "crumble",
+            "explode"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The 14 species of marmots are types of these",
+          "choices": [
+            "lagomorphs",
+            "carnivores",
+            "rodents",
+            "reptiles"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A battery has 2 of these: a positive anode & a negative cathode",
+          "choices": [
+            "terminals",
+            "conductors",
+            "electrodes",
+            "connectors"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It's Zimbabwe's old name, bwana",
+          "choices": [
+            "Northern Rhodesia",
+            "Basutoland",
+            "(Southern) Rhodesia",
+            "South Africa"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"Follow your nose\" to this popular breakfast cereal",
+    "choices": [
+      "Cocoa Puffs",
+      "Fiber One",
+      "Froot Loops",
+      "Captain Crunch"
+    ],
+    "correctIndex": 2,
+    "category": "\"OOP\"s"
+  }
+}

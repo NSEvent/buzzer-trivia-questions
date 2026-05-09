@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-11",
+  "categories": [
+    {
+      "name": "THE GREAT SEAL OF THE U.S.",
+      "questions": [
+        {
+          "clue": "Number of arrows or number of leaves on the olive branch",
+          "choices": [
+            "12",
+            "14",
+            "13",
+            "26"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "On the seal's reverse side this body part of \"Providence\" is seen",
+          "choices": [
+            "Hand",
+            "Head",
+            "Heart",
+            "Eye"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The first design of the reverse featured a scene from this biblical book with Moses on the shore of the Red Sea",
+          "choices": [
+            "Exodus",
+            "Leviticus",
+            "Genesis",
+            "Numbers"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Encyclopedia Americana says this body part on the seal is God's & it's there as a hope for divine favor",
+          "choices": [
+            "the ear",
+            "the hand",
+            "the eye",
+            "the heart"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The powers of peace & war held by Congress are represented by the olive branch & these weapons",
+          "choices": [
+            "the swords",
+            "the spears",
+            "the lances",
+            "the arrows"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PHYSICS",
+      "questions": [
+        {
+          "clue": "186,000 miles per second",
+          "choices": [
+            "the speed of light",
+            "the speed of sound",
+            "the speed of electricity",
+            "the speed of gravity"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The uncertainty principle states that a particle's momentum & this cannot be known at the same time",
+          "choices": [
+            "Velocity",
+            "Location",
+            "Time",
+            "Position"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "About 75% of all chemical elements are in this class of substances, all good conductors because of an abundance of free electrons",
+          "choices": [
+            "metalloids",
+            "alloys",
+            "metals",
+            "minerals"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Measured in Hertz, it's the term for the number of complete waves passing a certain point in a unit of time",
+          "choices": [
+            "wavelength",
+            "amplitude",
+            "velocity",
+            "frequency"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In the early 1900s the \"plum pudding\" model for the internal structure of these was replaced by the planetary model",
+          "choices": [
+            "the atom",
+            "the molecule",
+            "the nucleus",
+            "the electron"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "VIETNAM",
+      "questions": [
+        {
+          "clue": "Banh Chung are rice cakes made especially for Tet, this holiday",
+          "choices": [
+            "Mid-Autumn",
+            "Lunar New Year",
+            "Spring Festival",
+            "New Year's"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Cameras are banned in his tomb, tho he said \"nothing is more precious than independence and freedom\"",
+          "choices": [
+            "Nguyen Ai Quoc",
+            "Vo Nguyen Giap",
+            "Tran Quoc Vuong",
+            "Ho Chi Minh"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The country has 2 major river systems, the Red in the north & this one, known for its delta, in the south",
+          "choices": [
+            "the Nile",
+            "the Amazon",
+            "the Mekong",
+            "the Yangtze"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Vietnam's president & prime minister both have this family name, a very popular one there",
+          "choices": [
+            "Tran",
+            "Le",
+            "Nguyen",
+            "Ly"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The large \"S\" shape that is Vietnam juts out into this sea with a directional name",
+          "choices": [
+            "the East China Sea",
+            "the Arabian Sea",
+            "the Andaman Sea",
+            "the South China Sea"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1987 Sitiveni Rabuka led a military coup that overthrew the government of this Pacific island country",
+    "choices": [
+      "Tonga",
+      "Samoa",
+      "Fiji",
+      "Vanuatu"
+    ],
+    "correctIndex": 2,
+    "category": "\"F\" IN HISTORY"
+  }
+}

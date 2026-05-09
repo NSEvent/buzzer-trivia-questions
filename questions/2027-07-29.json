@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-29",
+  "categories": [
+    {
+      "name": "ON THE \"TOWN\"",
+      "questions": [
+        {
+          "clue": "The National Baseball Hall of Fame was founded there in 1939",
+          "choices": [
+            "Canton, Ohio",
+            "Arlington, Texas",
+            "Cooperstown, New York",
+            "Springfield, Illinois"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This industrial city & surrounding area in eastern Pennsylvania provided the title of a 1982 Billy Joel hit",
+          "choices": [
+            "Allentown",
+            "Bethlehem",
+            "Reading",
+            "Scranton"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Father Flanagan founded it in 1917",
+          "choices": [
+            "Boys Republic",
+            "Cub Scouts",
+            "Boy's Town",
+            "Boy Scouts of America"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Hear ye! Hear ye! Until newspapers came into wide use, 18th century townsfolk got their news from this person",
+          "choices": [
+            "the town crier",
+            "the town mayor",
+            "the town preacher",
+            "the town postmaster"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This play centers on the Gibbs & Webb families",
+          "choices": [
+            "Death of a Salesman",
+            "Our Town",
+            "Long Day's Journey Into Night",
+            "The Crucible"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TRACK & FIELD",
+      "questions": [
+        {
+          "clue": "In this event runners must clear 2 kinds of obstacles: hurdles & water jumps",
+          "choices": [
+            "a 400 meter dash",
+            "a high jump",
+            "a decathlon",
+            "a steeplechase"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1986 Jackie Joyner-Kersee was named the amateur athlete of the year; this sister-in-law won in 1988",
+          "choices": [
+            "Florence Griffith Joyner",
+            "Alice Coachman",
+            "Wilma Rudolph",
+            "Wyomia Tyus"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In this event, though athletes regularly clear nearly 20 feet, they mainly use their running momentum",
+          "choices": [
+            "the long jump",
+            "the triple jump",
+            "a pole spin",
+            "the pole vault"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This Ukrainian pole vaulter was No. 1 for 11 straight years \u2014 a record for any track & field event",
+          "choices": [
+            "Renaud Lavillenie",
+            "Derek Drouin",
+            "Steve Hooker",
+            "Sergei Bubka"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Flo Jo's sister-in-law, in the 1988 Olympics she set the world record for most total points in the heptathlon",
+          "choices": [
+            "Alice Coachman",
+            "Wyomia Tyus",
+            "Jackie Joyner-Kersee",
+            "Olga Kuznetsova"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE '50s",
+      "questions": [
+        {
+          "clue": "In 1954, these 2 words were added to the Pledge of Allegiance",
+          "choices": [
+            "one Nation",
+            "in God",
+            "under God",
+            "indivisible"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1952, Egypt's King Farouk was overthrown by officers led by Gen. Naguib & this lt. colonel",
+          "choices": [
+            "(Gamal Abdel) Nasser",
+            "Anwar Sadat",
+            "Tawfik Pasha",
+            "Muhammad Naguib"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A prosecuting attorney in the Rosenberg case, he later assisted Sen. Joe McCarthy",
+          "choices": [
+            "Gordon Bailey",
+            "Roy Horn",
+            "Roy Cohn",
+            "Roy Scheider"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "After this man lost a Senate race to JFK, Eisenhower made him U.N. ambassador",
+          "choices": [
+            "Henry Kissinger",
+            "Henry Cabot Lodge",
+            "Henry Wallace",
+            "Henry Cabot Lowell"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "He talked to teenagers in the top-selling nonfiction book of 1959, \"Twixt 12 & 20\"",
+          "choices": [
+            "Paul Anka",
+            "Ricky Nelson",
+            "Pat Boone",
+            "Bobby Rydell"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "It describes someone of grace & refined taste, or a mathematical proof that's simple & ingenious",
+    "choices": [
+      "simple",
+      "complex",
+      "elegant",
+      "abstract"
+    ],
+    "correctIndex": 2,
+    "category": "UNPACK YOUR ADJECTIVES"
+  }
+}

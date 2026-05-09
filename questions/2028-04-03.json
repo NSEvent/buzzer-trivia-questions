@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-03",
+  "categories": [
+    {
+      "name": "PRO FOOTBALL",
+      "questions": [
+        {
+          "clue": "This Chicago Bear finished his career in 1987 with an NFL record 16,726 rushing yards",
+          "choices": [
+            "Walter Payton",
+            "Emmitt Smith",
+            "Barry Sanders",
+            "Fran Tarkenton"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This University of Kentucky quarterback was the first player picked in the NFL's 1999 draft",
+          "choices": [
+            "Danny Wuerffel",
+            "Trent Green",
+            "Daunte Culpepper",
+            "Tim Couch"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "On July 29, 1986 this league won $3 in an antitrust suit against the NFL & folded 6 days later",
+          "choices": [
+            "USFL (United States Football League)",
+            "XFL",
+            "USFL",
+            "Arena Football League"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "For the point after touchdown, the pros put the ball on this yard line",
+          "choices": [
+            "the 1 yard line",
+            "the 15 yard line",
+            "the 20 yard line",
+            "the 2 yard line"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The Cincinnati Bengals' home stadium is named for this man who built a dynasty with another Ohio team",
+          "choices": [
+            "Tom Benson",
+            "Bill Bidwill",
+            "Paul Brown",
+            "Wayne Valley"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ACTRESSES & THEIR ROLES",
+      "questions": [
+        {
+          "clue": "When Margaret Lockwood played this title role onstage in 1957, her teenage daughter Julia played Wendy",
+          "choices": [
+            "Peter Pan",
+            "Cinderella",
+            "Alice Liddell",
+            "Dorothy Gale"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"Cheers\" to this actress who plays a romance expert & owner of \"Veronica's Closet\"",
+          "choices": [
+            "Shelley Long",
+            "Kirstie Alley",
+            "Rhea Perlman",
+            "Woody Harrelson"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This gap-toothed model played a vampiress in \"Once Bitten\", which Leonard Maltin described as \"pretty anemic\"",
+          "choices": [
+            "Bo Derek",
+            "Lauren Hutton",
+            "Kim Basinger",
+            "Sally Field"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In her 20s, Rosemary de Camp played 43-year-old James Cagney's mother in this film about George M. Cohan",
+          "choices": [
+            "The Song of Bernadette",
+            "Going My Way",
+            "The Jolson Story",
+            "Yankee Doodle Dandy"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Ellen Corby played Esther, better known as Grandma, on this series set in Virginia",
+          "choices": [
+            "Petticoat Junction",
+            "The Beverly Hillbillies",
+            "The Waltons",
+            "Green Acres"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "3-LETTER NAMES",
+      "questions": [
+        {
+          "clue": "Johnson's first, Bobby's last, Dick Patten's \"middle\"",
+          "choices": [
+            "Lee",
+            "Kay",
+            "Van",
+            "Joy"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Blue-eyed Peter O'Toole played a Tibetan priest in 1984 TV movie of this Kipling tale",
+          "choices": [
+            "Rama",
+            "Shiva",
+            "Sita",
+            "Kim"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Patricia Neal won a 1963 Oscar playing housekeeper to this Paul Newman character",
+          "choices": [
+            "Hank",
+            "Hud",
+            "Bull",
+            "Ride"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This Bobby was the first player ever to win MVP 3 consecutive years in the NHL",
+          "choices": [
+            "Brett",
+            "Saku",
+            "Mario",
+            "Orr"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Among the roles this Sandra played were \"Gidget\" & Mrs. Bobby Darin",
+          "choices": [
+            "Jane Fonda",
+            "Pam Grier",
+            "Sandra Dee",
+            "Linda Evans"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Pastry bags are often used to do this to cakes",
+    "choices": [
+      "slice them",
+      "frost them (decorate them)",
+      "glaze them",
+      "bake them"
+    ],
+    "correctIndex": 1,
+    "category": "COOKING"
+  }
+}

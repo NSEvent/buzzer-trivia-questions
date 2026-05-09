@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-25",
+  "categories": [
+    {
+      "name": "TV GAME SHOWS",
+      "questions": [
+        {
+          "clue": "Summer reruns of this prime time NBC game show were entitled \"The Best of Groucho\"",
+          "choices": [
+            "You Bet Your Life",
+            "What's My Line",
+            "To Tell the Truth",
+            "I've Got a Secret"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "During much of its original run on NBC, \"Jeopardy!\" followed this Peter Marshall game show",
+          "choices": [
+            "To Tell the Truth",
+            "Hollywood Squares",
+            "I've Got a Secret",
+            "What's My Line"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Future playwright Neil Simon was a stunt writer & James Dean a stunt tester for this Bud Collyer game show",
+          "choices": [
+            "What's My Line",
+            "To Tell the Truth",
+            "I've Got a Secret",
+            "Beat The Clock"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Once contestants reached $8,000 on this '50s show, they answered questions from the Revlon isolation booth",
+          "choices": [
+            "Twenty One",
+            "The $64,000 Challenge",
+            "The $64,000 Question",
+            "Tic-Tac-Dough"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1978 Billy Crystal cleared all 6 categories in a record 26 sec. on the $20,000 version of this Dick Clark show",
+          "choices": [
+            "Match Game",
+            "To Tell the Truth",
+            "Pyramid",
+            "Password"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "VICTORIAN VERSE",
+      "questions": [
+        {
+          "clue": "The Victorians loved these supernatural little creatures, often spelled with an \"E\" in place of an \"I\", as in Yeats' \"The Stolen Child\"",
+          "choices": [
+            "fairies",
+            "faeries",
+            "pixies",
+            "sprites"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The last verse of the first version of this Tennyson poem begins, \"When can their glory fade? O the wild charge they made!\"",
+          "choices": [
+            "The Charge of the Heavy Brigade",
+            "The Last Stand",
+            "Balaclava",
+            "\"The Charge of the Light Brigade\""
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In his \"Departmental Ditties\", Kipling wrote, \"A woman is only a woman, but a good cigar is\" this",
+          "choices": [
+            "a smoke",
+            "a cigar",
+            "a pleasure",
+            "a luxury"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"In silver armour\", this Tennyson knight \"saw the grail, the Holy Grail, descend upon the shrine\"",
+          "choices": [
+            "Galahad",
+            "Lancelot",
+            "Gawain",
+            "Bors"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A.E. Housman hadn't visited Shropshire when he used it in the title of this 1896 collection",
+          "choices": [
+            "A Suffolk Boy",
+            "A Kentish Youth",
+            "A Shropshire Lad",
+            "A Dorset Lad"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FOR THE SOLE",
+      "questions": [
+        {
+          "clue": "The Kyrie 2 & the Kobe XI are basketball shoes from this company",
+          "choices": [
+            "Adidas",
+            "Puma",
+            "Under Armour",
+            "Nike"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Part of this online retailer's logo looks like a shoe with a \"Z\" in the sole",
+          "choices": [
+            "Zara",
+            "Zara Home",
+            "Zappos",
+            "Zillow"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1989 Reebok introduced this hot-selling inflatable sports shoe",
+          "choices": [
+            "Air Jordans",
+            "Pumps",
+            "Chuck Taylors",
+            "Converse High Tops"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A character in an Oliver Goldsmith story lends her name to this term for a smug, well-behaved person",
+          "choices": [
+            "goody two-glasses",
+            "goody two-socks",
+            "goody two-shoes",
+            "goody two-skins"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In Vanity Fair Rupert Murdoch described this man as \"a very political old monk shuffling around in Gucci shoes\"",
+          "choices": [
+            "the Dalai Lama",
+            "the Pope",
+            "the Dalai Lama's brother",
+            "a Tibetan monk"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Meaning \"under the penalty\", you've been served! (with this word from Latin, right now)",
+    "choices": [
+      "subpoena duces tecum",
+      "subpoena",
+      "habeas corpus",
+      "writ of certiorari"
+    ],
+    "correctIndex": 1,
+    "category": "A RED-HOT LATIN LAWYER"
+  }
+}

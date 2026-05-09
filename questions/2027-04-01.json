@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-01",
+  "categories": [
+    {
+      "name": "ACCENTS",
+      "questions": [
+        {
+          "clue": "Speaking with a burr is mainly associated with this land",
+          "choices": [
+            "Scotland",
+            "Ireland",
+            "Wales",
+            "England"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In Latin America, this word of thanks is pronounced with a soft \"C\"; in most of Spain, the \"C\" is said as a \"th\"",
+          "choices": [
+            "por favor",
+            "gracias",
+            "de nada",
+            "buenos dias"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Ewan McGregor called the Midwest accent he used for this TV show based on a movie the hardest one he'd ever done",
+          "choices": [
+            "Fargo",
+            "Chicago",
+            "Boston",
+            "Philadelphia"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Peter Sellers served in this country during WWII & used the accent in \"The Party\"",
+          "choices": [
+            "Japan",
+            "India",
+            "China",
+            "Korea"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Even fellow Canadians can have trouble understanding people from this \"New\"est province",
+          "choices": [
+            "Nova Scotia",
+            "Prince Edward Island",
+            "Newfoundland",
+            "Labrador"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "OXFORD",
+      "questions": [
+        {
+          "clue": "2nd & 3rd year history students examine the \"Troubles, 1965-85\" in this political division of the United Kingdom",
+          "choices": [
+            "Republic of Ireland",
+            "Northern Ireland",
+            "Scotland",
+            "Wales"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The ceremony called Encaenia awards this type of degree, as in 2000 to Judi Dench",
+          "choices": [
+            "honorary degree",
+            "master's degree",
+            "doctorate",
+            "bachelor's degree"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Oxonians do it in a flat-bottomed boat in summer term; across the pond we do it on fourth down",
+          "choices": [
+            "kicker",
+            "punt",
+            "safety",
+            "hail mary"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "1st year law folks take courses in torts, contracts & trusts \"to qualify as a solicitor or\" this job pleading in higher courts",
+          "choices": [
+            "a barrister",
+            "a solicitor",
+            "a judge",
+            "a barrister general"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Worcester County is home to this state's town of Oxford, incorporated 1713",
+          "choices": [
+            "New York",
+            "Massachusetts",
+            "Connecticut",
+            "Vermont"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TOOL TIME",
+      "questions": [
+        {
+          "clue": "When it \"falls\", you're fired",
+          "choices": [
+            "the hammer",
+            "the sword",
+            "the gavel",
+            "the axe"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "(Back to the garage.) These are all examples of this tool. (Mine's for big jobs.)",
+          "choices": [
+            "saws",
+            "hammers",
+            "chisels",
+            "drills"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The working tools of a blacksmith include a bellows, a hammer & one of these sturdy, iron hammering blocks",
+          "choices": [
+            "an anvil",
+            "a chisel",
+            "a vice",
+            "a tongs"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "(Here we go! Back to the garage.) It's the machine that powers Alex's nail gun",
+          "choices": [
+            "a compressor",
+            "a motor",
+            "a pump",
+            "a generator"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This term for forceps or pliers also refers to little kids",
+          "choices": [
+            "pliers",
+            "nippers",
+            "cutters",
+            "wrenches"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "At 17 he composed an overture for \"A Midsummer Night's Dream\"; he later wrote the \"Wedding March\" for it",
+    "choices": [
+      "Beethoven",
+      "Brahms",
+      "Schumann",
+      "Mendelssohn"
+    ],
+    "correctIndex": 3,
+    "category": "EUROPEAN COMPOSERS"
+  }
+}

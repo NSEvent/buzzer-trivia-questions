@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-16",
+  "categories": [
+    {
+      "name": "HISPANIC AMERICANS",
+      "questions": [
+        {
+          "clue": "In Puerto Rico 1/3 of fertile women were undergoing this, many without consent; Dr. Helen Rodriguez Trias fought the practice",
+          "choices": [
+            "sterilization",
+            "vasectomy",
+            "ablation",
+            "contraception"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This senator & presidential candidate was born in Canada but moved to Houston around age 4",
+          "choices": [
+            "Marco Rubio",
+            "Jeb Bush",
+            "(Ted) Cruz",
+            "Rick Scott"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Oscar Hijuelos was the first Hispanic American to win a fiction Pulitzer, for the book called these fellows \"Play Songs of Love\"",
+          "choices": [
+            "The Lost City",
+            "Mothers of Mango Street",
+            "The Mambo Kings",
+            "Like Water for Chocolate"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Once Lt. Castillo on \"Miami Vice\", in 1996 he won 2 Bravo Awards for positive portrayals of Latinos",
+          "choices": [
+            "George Lopez",
+            "Edward James Olmos",
+            "Cheech Marin",
+            "Jimmy Smits"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Last name of twins Joaquin, in Congress since 2013, & Juli\u00e1n, formerly a mayor of San Antonio & HUD secretary",
+          "choices": [
+            "Rodriguez",
+            "Garcia",
+            "Mendoza",
+            "Castro"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IN THE \"ZONE\"",
+      "questions": [
+        {
+          "clue": "A cheesy, meaty Italian turnover",
+          "choices": [
+            "a burrito",
+            "a calzone",
+            "a quesadilla",
+            "a empanada"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "An MTV show is titled this, where you don't want to be if you're trying to start a romance",
+          "choices": [
+            "The Single Life",
+            "The Dating Pool",
+            "The Bachelor Suite",
+            "The Friend Zone"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This neutral area of ground between hostile forces serves to prevent conflict",
+          "choices": [
+            "a no-fly zone",
+            "a quarantine zone",
+            "a demilitarized zone",
+            "a buffer state"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Martin Landau had 3 hours to find a hidden bomb in \"The Jeopardy Room\", a 1964 episode of this series",
+          "choices": [
+            "The Outer Limits",
+            "Alfred Hitchcock Presents",
+            "Star Trek",
+            "The Twilight Zone"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This zone is between 23 1/2 degrees north & south latitude; is it hot out here?",
+          "choices": [
+            "the temperate zone",
+            "the tropical zone",
+            "the arid zone",
+            "the polar zone"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LITERARY QUOTATIONS",
+      "questions": [
+        {
+          "clue": "To Horace, \"Dulce et decorum est pro patria mori\", it is lovely & honorable to die for this; WWI poet Wilfred Owen called that a lie",
+          "choices": [
+            "one's country",
+            "one's king",
+            "one's honor",
+            "one's friends"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This 17th century work says, \"What we see there are not giants but windmills\"",
+          "choices": [
+            "Pride and Prejudice",
+            "Moby Dick",
+            "Don Quixote",
+            "The Odyssey"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"Her hair was long, her foot was light, and her eyes were wild\" is Keats on this belle dame who is without pity, not without thanks",
+          "choices": [
+            "sans pareil",
+            "sans merci",
+            "sans facon",
+            "sans peur"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In \"Tropic of Cancer\", he wrote, \"I have no money, no resources, no hopes. I am the happiest man alive\"",
+          "choices": [
+            "Fitzgerald",
+            "Miller",
+            "Hemingway",
+            "Faulkner"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In Dickens, these famous words precede \"It was the age of wisdom, it was the age of foolishness\"",
+          "choices": [
+            "\"It was the best of times, it was the worst of times\"",
+            "It was a year of hope, it was a year of despair",
+            "It was the best of days, it was the worst of days",
+            "It was the age of reason, it was the age of darkness"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This female anthropologist also wrote \"Growing Up in New Guinea\"",
+    "choices": [
+      "Margaret Mead",
+      "Ruth Benedict",
+      "Franz Boas",
+      "Bronislaw Malinowski"
+    ],
+    "correctIndex": 0,
+    "category": "\"M\" & \"M\"s"
+  }
+}

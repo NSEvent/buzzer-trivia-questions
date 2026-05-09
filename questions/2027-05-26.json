@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-26",
+  "categories": [
+    {
+      "name": "ON VALENTINE'S DAY",
+      "questions": [
+        {
+          "clue": "Feb. 14 is also the feast day of this Catholic saint who developed for the Slavs an alphabet that bears his name",
+          "choices": [
+            "St. Nicholas",
+            "St. Cyril",
+            "St. George",
+            "St. Patrick"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Valentine's Day events in this U.S. city include a 1929 massacre & the 1920 founding of the League of Women Voters",
+          "choices": [
+            "Boston",
+            "Philadelphia",
+            "Chicago",
+            "New York"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "1949: The Israeli parliament, called this, meets for the first time",
+          "choices": [
+            "the Duma",
+            "the Knesset",
+            "the Riksdag",
+            "the Bundestag"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "1803: This Chief Justice declares any act of congress that goes against the Constitution is illegal & void",
+          "choices": [
+            "Adams",
+            "Marshall",
+            "Jefferson",
+            "Madison"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "1989: This religious leader issues a fatwa against Salman Rushdie, encouraging Muslims to kill him",
+          "choices": [
+            "Ayatollah Montazeri",
+            "Grand Ayatollah Sistani",
+            "Ayatollah Khomeini",
+            "Grand Ayatollah Khamenei"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PRESIDENTIAL BIOGRAPHIES",
+      "questions": [
+        {
+          "clue": "\"Twilight at Monticello\"",
+          "choices": [
+            "Madison",
+            "Monroe",
+            "Adams",
+            "Jefferson"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"Man from Plains\"",
+          "choices": [
+            "Bill Clinton",
+            "Barack Obama",
+            "George W. Bush",
+            "Jimmy Carter"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This president \"and Reconstruction\" & \"The Impeachment and Trial of\" him",
+          "choices": [
+            "Abraham Lincoln",
+            "Andrew Johnson",
+            "Ulysses S. Grant",
+            "William Howard Taft"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A book about \"The Political Murder\" of this president calls Charles Guiteau \"the odd little man\"",
+          "choices": [
+            "Arthur",
+            "McKinley",
+            "Harrison",
+            "Garfield"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"An Honest President: The Life and Presidencies of\" him",
+          "choices": [
+            "(William) McKinley",
+            "(Grover) Cleveland",
+            "(Theodore) Roosevelt",
+            "(Benjamin) Harrison"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AUTHOR! AUTHOR!",
+      "questions": [
+        {
+          "clue": "\"Marjorie Morningstar\", \"The Caine Mutiny\"",
+          "choices": [
+            "Ernest Hemingway",
+            "Herman Wouk",
+            "John Steinbeck",
+            "J.D. Salinger"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "\"Of Love and Shadows\", \"The House of the Spirits\"",
+          "choices": [
+            "Gabriel Garc\u00eda M\u00e1rquez",
+            "Jorge Luis Borges",
+            "Isabel Allende",
+            "Mario Vargas Llosa"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This African-American author's works include the 500,000-year-spanning \"Temple of My Familiar\"",
+          "choices": [
+            "Toni Morrison",
+            "Alice Walker",
+            "Maya Angelou",
+            "Zora Neale Hurston"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"The House of Mirth\", \"Ethan Frome\"",
+          "choices": [
+            "Kate Chopin",
+            "Edna St. Vincent Millay",
+            "Gertrude Stein",
+            "Edith Wharton"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"Northanger Abbey\"",
+          "choices": [
+            "Jane Austen",
+            "Virginia Woolf",
+            "Charlotte Bronte",
+            "George Eliot"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A backpack for a hiker",
+    "choices": [
+      "a rucksack",
+      "a satchel",
+      "a knapsack",
+      "a duffel bag"
+    ],
+    "correctIndex": 2,
+    "category": "SILENT \"K\""
+  }
+}

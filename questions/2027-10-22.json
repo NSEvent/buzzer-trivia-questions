@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-22",
+  "categories": [
+    {
+      "name": "CAPITAL CITY BIRTHPLACES",
+      "questions": [
+        {
+          "clue": "Hideki Tojo",
+          "choices": [
+            "Osaka",
+            "Kyoto",
+            "Tokyo",
+            "Nagoya"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Ilie Nastase",
+          "choices": [
+            "Cluj-Napoca, Romania",
+            "Timi\u0219oara, Romania",
+            "Bucharest, Romania",
+            "Ia\u0219i, Romania"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Wassily Kandinsky",
+          "choices": [
+            "Moscow",
+            "Saint Petersburg",
+            "Novosibirsk",
+            "Yekaterinburg"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Andy Garcia",
+          "choices": [
+            "Santiago",
+            "Lima",
+            "Havana",
+            "Buenos Aires"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Jorge Luis Borges, 1899",
+          "choices": [
+            "Montevideo",
+            "Santiago",
+            "Lima",
+            "Buenos Aires"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BRITISH POETRY",
+      "questions": [
+        {
+          "clue": "John Donne wrote, \"Death, be not\" this, \"though some have called thee mighty & dreadful\"",
+          "choices": [
+            "vain",
+            "weak",
+            "fierce",
+            "proud"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The golden flowers that danced in Wordworth's poem \"I wandered lonely as a cloud\"",
+          "choices": [
+            "daffodils",
+            "tulips",
+            "roses",
+            "lilies"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In this 1798 poem a sailor laments, \"With my cross-bow I shot the albatross\"",
+          "choices": [
+            "The Rime of the Ancient Mariner",
+            "The Lady of Shalott",
+            "Kubla Khan",
+            "The Raven"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Robert Browning wrote, \"Oh, to be in England now that\" this month's \"there\"",
+          "choices": [
+            "May",
+            "June",
+            "April",
+            "July"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Tennyson wrote \"Crossing the Bar\" at age 80 & made this request to all future publishers",
+          "choices": [
+            "burn all his manuscripts",
+            "put it last in his books",
+            "publish it first",
+            "include a preface"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SECRET IDENTITIES",
+      "questions": [
+        {
+          "clue": "TV's Barbara Gordon",
+          "choices": [
+            "Batgirl",
+            "Superman",
+            "Wonder Woman",
+            "Catwoman"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Edmond Dantes",
+          "choices": [
+            "The Count of Monte Cristo",
+            "The Man in the Iron Mask",
+            "The Count of Essex",
+            "D'Artagnan"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The original Robin, the Boy Wonder",
+          "choices": [
+            "Jason Todd",
+            "Tim Drake",
+            "Dick Grayson",
+            "Damian Wayne"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Wonder Woman",
+          "choices": [
+            "Diana Prince",
+            "Barbara Gordon",
+            "Harley Quinn",
+            "Poison Ivy"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Dick Grayson",
+          "choices": [
+            "Robin",
+            "Nightwing",
+            "Batgirl",
+            "Red Hood"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "These gastropods are often served a la Bourguignonne \u2014 bathed in a parsley, garlic & butter sauce",
+    "choices": [
+      "mussels",
+      "snails",
+      "oysters",
+      "clams"
+    ],
+    "correctIndex": 1,
+    "category": "DELICACIES"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-08",
+  "categories": [
+    {
+      "name": "SHELLFISH",
+      "questions": [
+        {
+          "clue": "Pacific coast species of this shellfish include the Pismo & the Geoduck, which can weigh as much as five pounds",
+          "choices": [
+            "oysters",
+            "mussels",
+            "abalone",
+            "clams"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 2004 the city of Reggio Emilia, Italy passed a law banning the killing of this shellfish by dropping it in boiling water",
+          "choices": [
+            "crab",
+            "crawfish",
+            "lobster",
+            "crayfish"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This mollusk is easily recognized by its fan-shaped shell that has an earlike projection at each end of the hinge",
+          "choices": [
+            "a mussel",
+            "an oyster",
+            "a scallop",
+            "a conch"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Some McDonald's restaurants in Maine & eastern Canada sell a tasty shellfish roll called this",
+          "choices": [
+            "a Clam Chowder",
+            "a Shrimp Po Boy",
+            "a McLobster",
+            "a Crab Cake"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The West Coast of the U.S. produces the Kumamoto type of these; chase them down your gullet with a crisp sauvignon blanc",
+          "choices": [
+            "clams",
+            "scallops",
+            "oysters",
+            "mussels"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LET'S HAVE LEFTOVERS",
+      "questions": [
+        {
+          "clue": "Have leftover bread? Perfect for breadcrumbs, or cube it to make these, which give your salad crunch",
+          "choices": [
+            "nuggets",
+            "dippers",
+            "croutons",
+            "crumbles"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "It's the French-derived name of both the baking dish & a layered type of food item, a perfect way to serve leftovers",
+          "choices": [
+            "lasagna",
+            "paella",
+            "gumbo",
+            "casserole"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Right after Easter comes a national week for this dish, made from leftover items decorated for Easter",
+          "choices": [
+            "egg salad",
+            "potato salad",
+            "pasta salad",
+            "tuna salad"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Using negotiations & protests, this organization got McDonald's to improve conditions for its farmed animals",
+          "choices": [
+            "NAACP",
+            "PETA",
+            "NSCA",
+            "HSUS"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Johnny Mercer immortalized in song the railway that linked by train (& name) Atchison, Topeka & this city",
+          "choices": [
+            "Santa Monica",
+            "Santa Fe",
+            "San Francisco",
+            "Santa Barbara"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DOLLS",
+      "questions": [
+        {
+          "clue": "It's said Napoleon liked dolls, but by age 7 was more attached to these toy figures",
+          "choices": [
+            "knights",
+            "gladiators",
+            "soldiers",
+            "samurai"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "When Mattel introduced this male doll in 1961 he had fuzzy hair that came off if it got wet",
+          "choices": [
+            "Barbie",
+            "G.I. Joe",
+            "Ken",
+            "Action Man"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Popular prize on circus midways, artist Rose O'Neill modeled it on her baby brother",
+          "choices": [
+            "Cabbage Patch Kid",
+            "Kewpie doll",
+            "Barbie doll",
+            "Baby Annabell"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The Tressy doll of the 1960s had a brass key in her back to rewind this",
+          "choices": [
+            "eyes",
+            "mouth",
+            "hair",
+            "arms"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Cartoonist John Gruelle introduced this popular doll in 1918, & her twin brother in 1920",
+          "choices": [
+            "Gladys the Good",
+            "Raggedy Ann",
+            "Petra the Playful",
+            "Mabel the Merry"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "(Cheryl plays a new game.) The deck in this game, which originated with Asian immigrants, has a 53rd card: a joker, which can be used as a wild card",
+    "choices": [
+      "baccarat",
+      "pai gow",
+      "poker",
+      "blackjack"
+    ],
+    "correctIndex": 1,
+    "category": "GAMBLING"
+  }
+}

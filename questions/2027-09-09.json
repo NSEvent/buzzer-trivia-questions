@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-09",
+  "categories": [
+    {
+      "name": "EASY MATH",
+      "questions": [
+        {
+          "clue": "Sum of the fingers & toes on your hands & right foot minus the toes on your left foot",
+          "choices": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "A 720 cubic foot room 10' x 9' is this many feet high",
+          "choices": [
+            "7 feet",
+            "9 feet",
+            "10 feet",
+            "8 feet"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A numeral is a symbol used to denote one of these",
+          "choices": [
+            "a digit",
+            "a symbol",
+            "a word",
+            "a number"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Basic operation in which you would use a minuend",
+          "choices": [
+            "addition",
+            "subtraction",
+            "multiplication",
+            "division"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Decimal equivalent of 3/4",
+          "choices": [
+            ".75",
+            ".25",
+            ".50",
+            ".10"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SONGS FROM DISNEY FILMS",
+      "questions": [
+        {
+          "clue": "\"I'm Late\" & \"March of the Cards\"",
+          "choices": [
+            "Peter Pan",
+            "Cinderella",
+            "Snow White",
+            "Alice in Wonderland"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"A Whole New World\"",
+          "choices": [
+            "Aladdin",
+            "Pocahontas",
+            "The Little Mermaid",
+            "Aladdin's Genie"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"When I See an Elephant Fly\"",
+          "choices": [
+            "Dumbo",
+            "Bambi",
+            "Pinocchio",
+            "The Lion King"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"You've Got a Friend in Me\"",
+          "choices": [
+            "Finding Nemo",
+            "A Bug's Life",
+            "Toy Story",
+            "Cars"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It's the film that featured the following Let's get together, yeah, yeah, yeah...",
+          "choices": [
+            "The Little Mermaid",
+            "Aladdin",
+            "The Parent Trap",
+            "Cinderella"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PHENOMENA",
+      "questions": [
+        {
+          "clue": "This \"super\" stellar phenomenon\u2014a big bang, so to speak\u2014comes in 2 main types: thermonuclear & core-collapse",
+          "choices": [
+            "a black hole",
+            "a supernova",
+            "a neutron star",
+            "a solar flare"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The dangerous thinning of this atmospheric layer is most pronounced over the poles",
+          "choices": [
+            "the carbon layer",
+            "the stratosphere",
+            "the ozone layer",
+            "the ionosphere"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This \"super\" phenomenon, a lack of electrical resistance, occurs in certain materials below about -425 degrees F.",
+          "choices": [
+            "supercooling",
+            "supernova",
+            "superconductivity",
+            "superposition"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1816 one of these natural phenomena in Asia affected the weather & made it the \"year without a summer\" globally",
+          "choices": [
+            "a solar eclipse",
+            "a tsunami",
+            "a volcanic eruption",
+            "a drought"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "These creatures started mysteriously falling from the sky in Dubuque, Iowa on June 16, 1882",
+          "choices": [
+            "frogs",
+            "toads",
+            "salamanders",
+            "newts"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Of relatively light color, IPA is short for \"India\" this rhyming term",
+    "choices": [
+      "pilsner lager",
+      "porter stout",
+      "pale ale",
+      "malt liquor"
+    ],
+    "correctIndex": 2,
+    "category": "BEER"
+  }
+}

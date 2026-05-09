@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-14",
+  "categories": [
+    {
+      "name": "\"OO\" 7-LETTER WORDS",
+      "questions": [
+        {
+          "clue": "Head & Shoulders or Prell",
+          "choices": [
+            "shampoo",
+            "condition",
+            "shaving",
+            "soapbox"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In this billiards game, players have 15 red balls to shoot as well as 6 balls of other colors",
+          "choices": [
+            "snooker",
+            "billiards",
+            "pooling",
+            "croquet"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Traditionally, it was red & found at the end of a freight train",
+          "choices": [
+            "a gondola",
+            "a caboose",
+            "a boxcar",
+            "a flatbed"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "It can describe moonshine whiskey, or be a deceptive play in football",
+          "choices": [
+            "bootleg",
+            "counterfeit",
+            "illegal",
+            "moonlit"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A sharp, often virulent satire, perhaps a \"National\" one",
+          "choices": [
+            "a parody",
+            "a caricature",
+            "a lampoon",
+            "a satire"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CROSSWORD CLUES \"D\"",
+      "questions": [
+        {
+          "clue": "Predicament you might be caught on the horns of (7)",
+          "choices": [
+            "quagmire",
+            "predicament",
+            "impasse",
+            "dilemma"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Gamblin' guy Nathan (7)",
+          "choices": [
+            "Delaware",
+            "Denver",
+            "Detroit",
+            "Dublin"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Ghostly twin (12)",
+          "choices": [
+            "doppelganger",
+            "a double",
+            "a twin",
+            "a clone"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The Ten Commandments (9)",
+          "choices": [
+            "the Apostolic Code",
+            "the Moral Law",
+            "the Decalogue",
+            "the Covenant"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Rastafarian hair style (10)",
+          "choices": [
+            "loclocks",
+            "dreadlocks",
+            "dreadknots",
+            "dreadstrands"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE VOICE",
+      "questions": [
+        {
+          "clue": "The Zulus, Maoris & Eskimos practice this art, but it's hard to imagine Nanook & Mortimer Snerd",
+          "choices": [
+            "puppetry",
+            "ventriloquy",
+            "ventriloquist",
+            "ventriloquism"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Frank Welker has voiced both Fred & this mystery-solving mutt",
+          "choices": [
+            "Scooby-Doo",
+            "Scrappy-Doo",
+            "Scooby Snack",
+            "Mystery Machine"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In \"Looney Tunes: Back in Action\", Billy West brought this noted \"wabbit hunter\" to life",
+          "choices": [
+            "Elmer Fudd",
+            "Sylvester Cat",
+            "Porky Pig",
+            "Daffy Duck"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Playing a 10-year-old boy named Timmy Turner on this \"magical\" Nick cartoon is Tara Strong work",
+          "choices": [
+            "Danny Phantom",
+            "Jimmy Neutron",
+            "The Fairly OddParents",
+            "Teen Titans"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Elizabeth Banks hit the bricks as Wyldstyle in this 2014 film",
+          "choices": [
+            "The Lego Batman Movie",
+            "Minions: The Rise of Gru",
+            "The Lego Ninjago Movie",
+            "The Lego Movie"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1987 this famous Christian left the house of Jean Patou & launched a solo couture collection",
+    "choices": [
+      "Yves Saint Laurent",
+      "Christian Lacroix",
+      "Gianni Versace",
+      "Karl Lagerfeld"
+    ],
+    "correctIndex": 1,
+    "category": "FASHION DESIGNERS"
+  }
+}

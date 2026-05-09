@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-01",
+  "categories": [
+    {
+      "name": "TOP OF THE CHARTS",
+      "questions": [
+        {
+          "clue": "In Oct. 2005 this \"Girl\"y hit by Gwen Stefani became the first single to exceed 1 million digital downloads",
+          "choices": [
+            "Crush Girl",
+            "Shy Girl",
+            "Wild Girl",
+            "\"Hollaback Girl\""
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Doin' some \"Jive Talkin'\"",
+          "choices": [
+            "The Bee Gees",
+            "The Beach Boys",
+            "The Osmonds",
+            "The Jackson 5"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Suggesting, \"Come See About Me\"",
+          "choices": [
+            "The Marvelettes",
+            "The Supremes",
+            "The Vandellas",
+            "The Chiffons"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"Soulful\", the debut album by this \"American Idol\" winner, reached No. 1 in December 2003",
+          "choices": [
+            "(Ruben) Studdard",
+            "Fantasia Barrino",
+            "Adam Lambert",
+            "Taylor Hicks"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Insisting, \"I Can't Go For That (No Can Do)\"",
+          "choices": [
+            "Eurythmics",
+            "Hall & Oates",
+            "Duran Duran",
+            "Wham!"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SHAKESPEARE IN LOVE",
+      "questions": [
+        {
+          "clue": "Jessica states that \"love is blind\" as she elopes (with dad Shylock's ducats) in this comedy",
+          "choices": [
+            "A Midsummer Night's Dream",
+            "The Taming of the Shrew",
+            "Much Ado About Nothing",
+            "The Merchant of Venice"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "He declares his love to Ophelia in a letter saying, \"Doubt Truth to be a liar, but never doubt I love\"",
+          "choices": [
+            "Hamlet",
+            "Macbeth",
+            "Othello",
+            "Romeo"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "She says, \"My only love sprung from my only hate!\"",
+          "choices": [
+            "Rosalind",
+            "Juliet",
+            "Desdemona",
+            "Portia"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Will's only play with \"love\" in the title",
+          "choices": [
+            "All's Well That Ends Well",
+            "Much Ado About Nothing",
+            "Love's Labour's Lost",
+            "A Midsummer Night's Dream"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The first line of this comedy is \"If music be the food of love, play on\"",
+          "choices": [
+            "Twelfth Night",
+            "As You Like It",
+            "The Taming of the Shrew",
+            "Measure for Measure"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CLASSIC GAMES",
+      "questions": [
+        {
+          "clue": "It's \"the game that ties you up in knots\"",
+          "choices": [
+            "Jenga",
+            "Twister",
+            "Rope",
+            "Loom"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Anthony Pratt, a solicitor's clerk, invented this classic whodunit board game",
+          "choices": [
+            "Monopoly",
+            "Scrabble",
+            "Clue",
+            "Chess"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The name of this word search game with lettered cubes means \"bewilder\"",
+          "choices": [
+            "Scrabble",
+            "Boggle",
+            "Words With Friends",
+            "Bananagrams"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "If you don't accept this challenge in backgammon, you must resign & pay the current stake",
+          "choices": [
+            "the redoubling",
+            "the pass",
+            "the double",
+            "the stake"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The \"popomatic\" keeps you from having to find lost dice playing this Milton Bradley race & chase game",
+          "choices": [
+            "Candy Land",
+            "Sorry",
+            "Game of Life",
+            "Trouble"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 2009 this US Airways pilot miraculously landed an Airbus A320 & its 150 passengers in the Hudson River",
+    "choices": [
+      "Hudson",
+      "Chesley",
+      "Sheehan",
+      "Sullenberger (Sully)"
+    ],
+    "correctIndex": 3,
+    "category": "21st CENTURY NEWS"
+  }
+}

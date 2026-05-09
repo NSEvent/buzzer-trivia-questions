@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-04",
+  "categories": [
+    {
+      "name": "THE \"IN\" CROWD",
+      "questions": [
+        {
+          "clue": "A perpetual patient",
+          "choices": [
+            "convalescent",
+            "chronic",
+            "invalid",
+            "hypochondriac"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Paul Muni & Ed Begley starred as opposing lawyers in this 1955 play based on the Scopes trial",
+          "choices": [
+            "Inherit the Wind",
+            "To Kill a Mockingbird",
+            "The Crucible",
+            "Arrested Development"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "It's burned during religious ceremonies to produce a pleasant fragrance",
+          "choices": [
+            "cologne",
+            "perfume",
+            "sandalwood",
+            "incense"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The weather when it's cold & stormy",
+          "choices": [
+            "incisive",
+            "inclement",
+            "incomprehensible",
+            "inconceivable"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "What a hen does when she sits on her eggs",
+          "choices": [
+            "brood",
+            "nestle",
+            "hatch",
+            "incubate"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LEFT TO YOUR OWN DEVICES",
+      "questions": [
+        {
+          "clue": "The name of this ancient device used for calculations is from the Latin for \"counting board\"",
+          "choices": [
+            "a calculator",
+            "a compass",
+            "an abacus",
+            "a telescope"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The ionization type of this safety device responds better to leaping flames; the photoelectric, to smoldering",
+          "choices": [
+            "a fire alarm",
+            "a smoke detector",
+            "a carbon monoxide detector",
+            "a motion sensor"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The Jugs radar gun has been measuring this in baseball since 1971, too late for Bob Feller or Steve Dalkowski",
+          "choices": [
+            "batting average",
+            "era",
+            "pitch speed",
+            "strikeout count"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "When it uses gravity to transfer liquid from one level to a lower one, a tube becomes one of these devices",
+          "choices": [
+            "a vacuum",
+            "a pump",
+            "a siphon",
+            "a filter"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "When this device is \"on hook\", the speech circuit is disabled & the ringing circuit is connected",
+          "choices": [
+            "a phone",
+            "a radio",
+            "a walkie-talkie",
+            "a pager"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FACES",
+      "questions": [
+        {
+          "clue": "His face is on the $10 bill",
+          "choices": [
+            "Aaron Burr",
+            "Alexander Hamilton",
+            "Thomas Jefferson",
+            "Benjamin Franklin"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This Chicago businessman looks like he might be taking in a ballgame",
+          "choices": [
+            "Philip K. Wrigley",
+            "(William) Wrigley",
+            "Walter Wrigley",
+            "George Wrigley"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This former South Carolina governor has represented the United States in the United Nations",
+          "choices": [
+            "(Nikki) Haley",
+            "Ben Carson",
+            "Samantha Power",
+            "Susan Rice"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This journalist won a Pulitzer Prize for his stories on predatory behavior in Hollywood",
+          "choices": [
+            "(Ronan) Farrow",
+            "Matt Taibbi",
+            "Jodi Kantor",
+            "Jodi Rudoren"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This precocious little girl first appeared in the comics in 1933 as the niece of an aunt named Fritzi",
+          "choices": [
+            "Peanuts",
+            "L'il Abner",
+            "Betty",
+            "Nancy"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This geographic area is estimated to generate more than 60% of the Earth's airborne dust",
+    "choices": [
+      "the Sahara",
+      "the Atacama",
+      "the Gobi",
+      "the Arabian"
+    ],
+    "correctIndex": 0,
+    "category": "DUST TO DUST"
+  }
+}

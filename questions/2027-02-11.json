@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-11",
+  "categories": [
+    {
+      "name": "DOUBLE \"L\"",
+      "questions": [
+        {
+          "clue": "Repetitive literary device illustrated in \"Peter Piper picked a peck of pickled peppers\"",
+          "choices": [
+            "assonance",
+            "consonance",
+            "onomatopoeia",
+            "alliteration"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Combatants shoot pellets of colored gel at each other in this game",
+          "choices": [
+            "paintball",
+            "laser tag",
+            "airsoft",
+            "wargame"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A streetcar",
+          "choices": [
+            "bus",
+            "tram",
+            "trolley",
+            "monorail"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A 6-story steel column in this Texas Panhandle city commemorates helium, which is found in abundance there",
+          "choices": [
+            "Amarillo",
+            "El Paso",
+            "Dallas",
+            "Houston"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Prince Charles is the duke of it",
+          "choices": [
+            "Cornwall",
+            "Lancashire",
+            "Kent",
+            "Suffolk"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RECENT TV",
+      "questions": [
+        {
+          "clue": "Despite the inconvenience of being killed in a movie, Phil Coulson made it to the small screen as an \"Agent of\" this",
+          "choices": [
+            "F.R.I.E.N.D.S.",
+            "S.H.I.E.L.D.",
+            "A.V.E.N.G.E.R.S.",
+            "C.A.T.S."
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Ichabod Crane napped for 2 centuries, but at least he awoke with his head still atop his shoulders on this drama",
+          "choices": [
+            "Sleepy Hollow",
+            "Penny Dreadful",
+            "Dracula",
+            "Frankenstein"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Spoiler alert! In 2013, via a governor's veto, Hershel lost another important body part on this AMC show",
+          "choices": [
+            "Better Call Saul",
+            "Fear the Walking Dead",
+            "The Walking Dead",
+            "Into the Badlands"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "On HBO Camille Preaker, a reporter played by this multi-Oscar nominee, must be careful of \"Sharp Objects\"",
+          "choices": [
+            "Jessica Chastain",
+            "Anne Hathaway",
+            "Natalie Portman",
+            "Amy Adams"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"3 things Titus Andromedon does not do\" on this Netflix show\u2014\"apologies, drag & calculus\"",
+          "choices": [
+            "Brooklyn Nine-Nine",
+            "Parks and Recreation",
+            "the Unbreakable Kimmy Schmidt",
+            "The Good Place"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WATERFALLS",
+      "questions": [
+        {
+          "clue": "The 2 principal parts of this U.S.-Canadian cataract are separated by Goat Island",
+          "choices": [
+            "Victoria Falls",
+            "Angel Falls",
+            "Niagara Falls",
+            "Yosemite Falls"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Much of the electrical power for this mainland area of Newfoundland comes from Churchill Falls",
+          "choices": [
+            "Labrador",
+            "Newfoundland",
+            "Quebec",
+            "Nova Scotia"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The spectacular blue-green color of Havasu Falls in this natural wonder is due to the high content of travertine",
+          "choices": [
+            "the Grand Tetons",
+            "the Great Smoky Mountains",
+            "the Grand Prismatic Spring",
+            "the Grand Canyon"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A series of famous namesake cataracts on this river is located 11 miles above its confluence with the Parana River",
+          "choices": [
+            "the Orinoco River",
+            "the Iguazu River",
+            "the Magdalena River",
+            "the Amazon River"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The Khone Cataract on this river in Laos discharges the largest volume of water of any falls",
+          "choices": [
+            "Mekong River",
+            "the Irrawaddy River",
+            "the Chao Phraya River",
+            "the Salween River"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Heavy skirts & modesty were 2 factors in the use of this piece of equestrian gear",
+    "choices": [
+      "a saddle blanket",
+      "a breastplate",
+      "a stirrup iron",
+      "a sidesaddle"
+    ],
+    "correctIndex": 3,
+    "category": "\"SIDE\" EFFECTS"
+  }
+}

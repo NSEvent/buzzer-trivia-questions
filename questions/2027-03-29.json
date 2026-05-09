@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-29",
+  "categories": [
+    {
+      "name": "CHARLES DICKENS",
+      "questions": [
+        {
+          "clue": "Britannica says Dickens tossed off this holiday story while writing \"Martin Chuzzlewit\"",
+          "choices": [
+            "Oliver Twist",
+            "David Copperfield",
+            "Great Expectations",
+            "A Christmas Carol"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In \"Bleak House\" Dickens wrote, \"I only ask to be free\"; these insects \"are free\"",
+          "choices": [
+            "beetles",
+            "butterflies",
+            "moths",
+            "dragonflies"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 1836 Dickens published his stories & essays from magazines & newspapers in the book \"Sketches by\" him",
+          "choices": [
+            "Boz",
+            "Pickwick Papers",
+            "Nicholas Nickleby",
+            "The Old Curiosity Shop"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This 1854 work attacks the utilitarian philosophy fostered by industrialization",
+          "choices": [
+            "David Copperfield",
+            "Great Expectations",
+            "Hard Times",
+            "Oliver Twist"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "1838-39 work that exposed the ragged schools in the north of England & helped get them abolished",
+          "choices": [
+            "Oliver Twist",
+            "David Copperfield",
+            "A Tale of Two Cities",
+            "Nicholas Nickleby"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HELLO!",
+      "questions": [
+        {
+          "clue": "A doorbell begins \"Hello!\", the opening number for this hit 2011 religious-themed Broadway musical",
+          "choices": [
+            "Jesus Christ Superstar",
+            "Godspell",
+            "Les Mis\u00e9rables",
+            "Book of Mormon"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This greeting is a shortening of Hebrew for \"Peace be with you\"",
+          "choices": [
+            "salaam",
+            "peace",
+            "namaste",
+            "shalom"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This grandmaster made his opening move on March 9, 1943 in Chicago",
+          "choices": [
+            "Bobby Fischer",
+            "Garry Kasparov",
+            "Bobby Byrne",
+            "Samuel Reshevsky"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Unlike a more popular synonym, welina means \"greetings\" in this language but does not mean \"goodbye\"",
+          "choices": [
+            "M\u0101ori",
+            "Samoan",
+            "Tongan",
+            "Hawaiian"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This 2-word Spanish greeting means \"what's happening\"",
+          "choices": [
+            "que tal",
+            "que hay",
+            "que pasa",
+            "que onda"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE 1830s",
+      "questions": [
+        {
+          "clue": "Tradition says it cracked in 1835 while tolling the death of John Marshall",
+          "choices": [
+            "Freedom Bell",
+            "Liberty Bell",
+            "Independence Bell",
+            "Constitution Bell"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In January 1833 British ships arrived in this island group, forcing the Argentinians there to leave",
+          "choices": [
+            "the Malvinas",
+            "the South Georgia",
+            "the Shetlands",
+            "the Falklands"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 1837 his first collection of stories appeared under the title \"Twice-Told Tales\"",
+          "choices": [
+            "(Charles) Dickens",
+            "(Nathaniel) Hawthorne",
+            "(Herman) Melville",
+            "(Edgar Allan) Poe"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This Boston abolitionist began publication of \"The Liberator\" in 1831",
+          "choices": [
+            "Theodore Weld",
+            "William Lloyd Garrison",
+            "Frederick Douglass",
+            "Harriet Tubman"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 1832 an expedition led by Henry Schoolcraft discovered the source of the Mississippi at this Minnesota lake",
+          "choices": [
+            "Lake Itasca",
+            "Lake Superior",
+            "Lake Michigan",
+            "Crater Lake"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Among the duties of these hard-working insects is dispersing the seeds of plants like bloodroot",
+    "choices": [
+      "a bee",
+      "an ant",
+      "a beetle",
+      "a fly"
+    ],
+    "correctIndex": 1,
+    "category": "A SEEDY CATEGORY"
+  }
+}

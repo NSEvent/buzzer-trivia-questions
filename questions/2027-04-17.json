@@ -1,0 +1,207 @@
+{
+  "date": "2027-04-17",
+  "categories": [
+    {
+      "name": "GRAMMAR",
+      "questions": [
+        {
+          "clue": "In standard usage this equals a positive, so \"I didn't do nothing\" means \"I did something\"",
+          "choices": [
+            "a litotes",
+            "a hyperbole",
+            "an irony",
+            "a double negative"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A modifier located too far from the word it's modifying is called this",
+          "choices": [
+            "a dangling modifier",
+            "a squinting modifier",
+            "a misplaced adjective",
+            "misplaced"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A verb form ending in \"ing\" used as a noun is a gerund; used as an adjective it's this",
+          "choices": [
+            "a participial phrase",
+            "participle",
+            "a present tense",
+            "a gerundive"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Complete listing of the forms of a verb",
+          "choices": [
+            "a conjugation",
+            "a declension",
+            "a paradigm",
+            "a conjugational table"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "From Greek \"to arrange together\", it deals with the way words are put together to form phrases",
+          "choices": [
+            "semantics",
+            "grammar",
+            "syntax",
+            "phonetics"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RECENT NONFICTION",
+      "questions": [
+        {
+          "clue": "\"The Yankee Years\", by this ex-manager & co-writer Tom Verducci",
+          "choices": [
+            "Joe Torre",
+            "Billy Martin",
+            "Tony La Russa",
+            "Bob Lemon"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Sheryl Sandberg's \"Option B\" is about \"facing adversity\", such as this tragedy that befell her in May 2015",
+          "choices": [
+            "losing her home",
+            "developing cancer",
+            "becoming a widow",
+            "getting divorced"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Michael Pollan's \"How to Change Your Mind\" sees therapeutic value in psilocybin, the active ingredient in \"magic\" these",
+          "choices": [
+            "truffles",
+            "mushrooms",
+            "fungi",
+            "plants"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"The Zookeeper's Wife\" finds herself hiding Jews smuggled out of this capital's ghetto in WWII",
+          "choices": [
+            "Berlin",
+            "Warsaw",
+            "Vienna",
+            "Prague"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The \"super\" version of this pop culture/ business analysis hybrid from Steven Levitt & Stephen Dubner",
+          "choices": [
+            "Thinking, Fast and Slow",
+            "The Tipping Point",
+            "Freakonomics",
+            "Sapiens"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE NATIONAL WOMEN'S HALL OF FAME",
+      "questions": [
+        {
+          "clue": "The Hall of Fame bio on her says her \"first love was the airplane, then captivating the public imagination\"",
+          "choices": [
+            "Amelia",
+            "Amelia Mary Earhart",
+            "Beryl Markham",
+            "Earhart"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Now president of the American Red Cross, the 1st woman Secretary of Transportation was inducted in 1995",
+          "choices": [
+            "Elizabeth Warren",
+            "Elizabeth Dole",
+            "Hillary Clinton",
+            "Madeleine Albright"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Membership tripled after Wilma Mankiller became the 1st woman chief of this Native American nation",
+          "choices": [
+            "the Navajo",
+            "the Sioux",
+            "the Iroquois",
+            "the Cherokee"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The mother church of the faith she founded in Boston is a monument to this 19th-century woman",
+          "choices": [
+            "Elizabeth Cady Stanton",
+            "Susan B. Anthony",
+            "Sojourner Truth",
+            "Mary Baker Eddy"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "3 African-American women were in the first class of 1973: Mary Bethune, Harriet Tubman & this opera singer",
+          "choices": [
+            "Leontyne Price",
+            "Minnie Riperton",
+            "Ella Fitzgerald",
+            "Marian Anderson"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "When Columbus acquired his flagship, it was called La Gallega; he changed its name to this",
+    "choices": [
+      "the Nina",
+      "the Pinta",
+      "the Santa Mar\u00eda",
+      "the Victoria"
+    ],
+    "correctIndex": 2,
+    "category": "FAMOUS SHIPS"
+  },
+  "bonusRound": {
+    "clue": "That restaurant with the fries you love probably has installed this, also called an interceptor",
+    "choices": [
+      "a sink trap",
+      "a sewer pipe",
+      "a water filter",
+      "a grease trap"
+    ],
+    "correctIndex": 3,
+    "category": "IT'S A TRAP!"
+  }
+}

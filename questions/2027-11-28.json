@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-28",
+  "categories": [
+    {
+      "name": "CATHEDRALS & CHURCHES",
+      "questions": [
+        {
+          "clue": "St. Andrew's Church in this Ukranian city stands on a site where St. Andrew reputedly erected a cross",
+          "choices": [
+            "Kiev",
+            "Lviv",
+            "Odessa",
+            "Kharkiv"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "James Renwick designed this Fifth Avenue cathedral in the Gothic Revival style",
+          "choices": [
+            "Trinity Church",
+            "St. Thomas Church",
+            "St. Patrick's Cathedral",
+            "Grace Church"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Whisper words to the wall in this London cathedral's Whispering Gallery & it will repeat them",
+          "choices": [
+            "Westminster Abbey",
+            "Southwark Cathedral",
+            "St. George's Chapel",
+            "St. Paul's Cathedral"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The beautiful cathedral in this city SW of Paris was the site of King Henry IV's coronation in 1594",
+          "choices": [
+            "Reims",
+            "Notre-Dame",
+            "Chartres",
+            "Bourges"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The cathedral of this northern Italian city looks quite fashionable with its 135 marble spires",
+          "choices": [
+            "Rome",
+            "Venice",
+            "Milan",
+            "Florence"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COUNTRY ROADS",
+      "questions": [
+        {
+          "clue": "Home of Mumbai's stock exchange, Dalal Street is India's answer to this New York City thoroughfare",
+          "choices": [
+            "Fifth Avenue",
+            "Wall Street",
+            "Bourbon Street",
+            "Canal Street"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The Snowy Mountains Highway, the Tasman Highway",
+          "choices": [
+            "Canada",
+            "New Zealand",
+            "South Africa",
+            "Australia"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Also the title of an Eddy Grant hit, it was London's first shopping street with a certain type of illumination",
+          "choices": [
+            "Madison Avenue",
+            "Broadway",
+            "Electric Avenue",
+            "Oxford Street"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Valtatie 8, running north from Turku along the Gulf of Bothnia",
+          "choices": [
+            "Sweden",
+            "Finland",
+            "Norway",
+            "Denmark"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The Subic-Clark-Tarlac Expressway",
+          "choices": [
+            "Indonesia",
+            "Vietnam",
+            "Malaysia",
+            "the Philippines"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GEOGRAPHIC NICKNAMES",
+      "questions": [
+        {
+          "clue": "\"The Land of the Tulip\"",
+          "choices": [
+            "Belgium",
+            "Germany",
+            "the Netherlands",
+            "France"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Runnymede, England is sometimes referred to as the \"Birthplace\" of this document",
+          "choices": [
+            "the Magna Carta",
+            "the Bill of Rights",
+            "the Declaration of Independence",
+            "the Magna Verba"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Under John Calvin, this city became the \"Rome of Protestantism\"",
+          "choices": [
+            "Geneva",
+            "Zurich",
+            "Strasbourg",
+            "Basel"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "German city that's \"The Mother of Diets\"",
+          "choices": [
+            "Augsburg",
+            "Worms",
+            "Wittenberg",
+            "Nuremberg"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"The Bay of Giant Tides\"",
+          "choices": [
+            "the Bay of Biscay",
+            "the Bay of Fundy",
+            "the Gulf of Mexico",
+            "the Chedabucto Bay"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Swordsman helps inarticulate rival win the girl of his own dreams; confesses secret years later & dies content",
+    "choices": [
+      "Edmond Dant\u00e8s",
+      "Cyrano de Bergerac",
+      "Rashomon",
+      "Lysander"
+    ],
+    "correctIndex": 1,
+    "category": "30-SECOND THEATER"
+  }
+}

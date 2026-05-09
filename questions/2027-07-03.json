@@ -1,0 +1,207 @@
+{
+  "date": "2027-07-03",
+  "categories": [
+    {
+      "name": "CAPTAINS COURAGEOUS",
+      "questions": [
+        {
+          "clue": "In 1642 & 1643 this Dutch captain circumnavigated Australia without seeing it",
+          "choices": [
+            "(Abel) Tasman",
+            "Willem Barentsz",
+            "Jan van Riebeeck",
+            "Abel Janszoon Tasman's rival"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Edward J. Smith became captain of the Olympic in 1910 & of this sister ship 2 years later",
+          "choices": [
+            "the Lusitania",
+            "the Britannic",
+            "the Titanic",
+            "the Mauretania"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 1612 he published his \"Map of Virginia, with a Description of the Country...\"",
+          "choices": [
+            "Captain James Cook",
+            "Sir Walter Raleigh",
+            "Pocahontas' father",
+            "(Captain) John Smith"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Isaac Hull captained this ship to victory over the British frigate Guerriere during the War of 1812",
+          "choices": [
+            "the Chesapeake",
+            "the Constitution's enemy",
+            "the USS Java",
+            "the Constitution"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1804 he received a captain's commission for burning the Philadelphia in Tripoli's harbor",
+          "choices": [
+            "Stephen Decatur",
+            "John Paul Jones",
+            "Oliver Hazard Perry",
+            "Thomas Macdonough"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CROSSWORD CLUES \"T\"",
+      "questions": [
+        {
+          "clue": "Dorothy's doggie (4)",
+          "choices": [
+            "Tiger",
+            "Toto",
+            "Trixie",
+            "Tinker"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "They grasp ice cubes or escargots (5)",
+          "choices": [
+            "tubes",
+            "tools",
+            "tongs",
+            "twigs"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A romantic rendezvous (5)",
+          "choices": [
+            "trips",
+            "trams",
+            "tryst",
+            "trots"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Sholem Aleichem's dairyman (5)",
+          "choices": [
+            "Tevye",
+            "Tobias",
+            "Tuvia",
+            "Tamar"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Puccini's Pekingese princess (8)",
+          "choices": [
+            "Turandot",
+            "Turkistan",
+            "Tosca",
+            "Tristan"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "EYE",
+      "questions": [
+        {
+          "clue": "The irises of an albino look pink because the blood vessels in this part of the eye are visible",
+          "choices": [
+            "Retina",
+            "Cornea",
+            "Iris",
+            "Sclera"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The Venetians in the late Renaissance are credited with first using this, rather than metal, for artificial eyes",
+          "choices": [
+            "wood",
+            "metal",
+            "plastic",
+            "glass"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "As the etymology suggests, photoreceptors are eye cells specialized to receive this",
+          "choices": [
+            "sound",
+            "heat",
+            "air",
+            "light"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The lacrimal glands lubricate the eyeball itself; the meibomian glands lubricate these",
+          "choices": [
+            "the cornea",
+            "the retina",
+            "the eyelids",
+            "the iris"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A degenerative eye disease is known as RP, for this \"pigmentosa\"",
+          "choices": [
+            "choroiditis",
+            "retinitis",
+            "uveitis",
+            "scleritis"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In the 1799 Fries Rebellion, Pennsylvania took up arms against a tax on this, including land & slaves",
+    "choices": [
+      "salt",
+      "property",
+      "iron",
+      "grain"
+    ],
+    "correctIndex": 1,
+    "category": "REBELS WITH A CAUSE"
+  },
+  "bonusRound": {
+    "clue": "Gu\u00f0mundsd\u00f3ttir is the last name of this one-time Sugarcube singer",
+    "choices": [
+      "Katrina",
+      "Arona",
+      "Gloria",
+      "Bj\u00f6rk"
+    ],
+    "correctIndex": 3,
+    "category": "\"B\" GIRLS"
+  }
+}

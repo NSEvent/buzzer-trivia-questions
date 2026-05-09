@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-10",
+  "categories": [
+    {
+      "name": "EUROPEAN COMPOSERS",
+      "questions": [
+        {
+          "clue": "His son Carl Philipp Emanuel was famous for his \"Essay on the True Art of Playing Keyboard Instruments\"",
+          "choices": [
+            "Johann Christian Bach",
+            "Carl Philipp Emanuel Bach",
+            "Wilhelm Friedemann Bach",
+            "Johann Sebastian Bach"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This Russian was known for his \"Scythian Suite\" before he wrote \"Peter And The Wolf\"",
+          "choices": [
+            "Sergei Prokofiev",
+            "Dmitri Shostakovich",
+            "Sergei Rachmaninoff",
+            "Igor Stravinsky"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Haydn called this \"Magic Flute\" composer the greatest composer he knew \"either personally or by reputation\"",
+          "choices": [
+            "Haydn",
+            "Beethoven",
+            "Gluck",
+            "Mozart"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This Austrian lieder composer often performed at parties but gave only one public concert, in 1828",
+          "choices": [
+            "Franz Schubert",
+            "Robert Schumann",
+            "Felix Mendelssohn",
+            "Franz Liszt"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1971 Pierre Boulez became the first Frenchman to serve as music director of this great American orchestra",
+          "choices": [
+            "Boston Symphony Orchestra",
+            "Chicago Symphony Orchestra",
+            "New York Philharmonic",
+            "Philadelphia Orchestra"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THEY MAKE THAT",
+      "questions": [
+        {
+          "clue": "Scotch Adhesive Dots are sticky business",
+          "choices": [
+            "4K",
+            "3M",
+            "2X",
+            "1A"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The WetJet mop starter kit",
+          "choices": [
+            "Bissell",
+            "Swiffer",
+            "Vileda",
+            "O-Cedar"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The Air Zoom Mariah Flyknit Racer",
+          "choices": [
+            "Adidas",
+            "Puma",
+            "Nike",
+            "Under Armour"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The XE sports sedan",
+          "choices": [
+            "Ford",
+            "Toyota",
+            "Jaguar",
+            "Honda"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The Storjorm bathroom mirror with built-in light",
+          "choices": [
+            "Walmart",
+            "Target",
+            "Costco",
+            "IKEA"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "UTENSILS",
+      "questions": [
+        {
+          "clue": "Types of this include boning & paring",
+          "choices": [
+            "knives",
+            "spoons",
+            "forks",
+            "ladles"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Be it eggs or cream, you can whip it real good with this 5-letter wire utensil",
+          "choices": [
+            "a whisk",
+            "a fork",
+            "a spoon",
+            "a knife"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Name for utensils used to \"write\" on wax tablets or \"read\" a phonograph record",
+          "choices": [
+            "a stylus",
+            "a chisel",
+            "a needle",
+            "a quill"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Tool completing the line from \"As you Like It\"; \"Well said: That was laid on with a...",
+          "choices": [
+            "trowel",
+            "a trow",
+            "a trowel of love",
+            "a trowel tool"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It's the utensil that's used to pound or grind substances in a mortar",
+          "choices": [
+            "a mallet",
+            "a pestle",
+            "a pestle tool",
+            "a pestle stick"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "He was born in Minneapolis in 1958, the son of jazz musician John Nelson",
+    "choices": [
+      "Prince",
+      "Prince William",
+      "Prince Charming",
+      "Prince Harry"
+    ],
+    "correctIndex": 0,
+    "category": "MUSICAL NOBILITY"
+  }
+}

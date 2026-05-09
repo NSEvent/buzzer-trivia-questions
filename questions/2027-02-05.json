@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-05",
+  "categories": [
+    {
+      "name": "JINGLES ALL THE WAY",
+      "questions": [
+        {
+          "clue": "\"Double your pleasure, double your fun\" with this gum",
+          "choices": [
+            "Doublemint gum",
+            "Extra gum",
+            "Orbit gum",
+            "Wrigley's gum"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This motorcycle company likes to \"Let the good times roll\"",
+          "choices": [
+            "Kawasaki",
+            "Honda",
+            "Suzuki",
+            "Yamaha"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"I am stuck on\" this brand, 'cause this brand's \"stuck on me\"",
+          "choices": [
+            "Band-Aid",
+            "Duct Tape",
+            "Super Glue",
+            "Scotch Tape"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"I want my baby back baby back baby back... baby back ribs\" from this place",
+          "choices": [
+            "TGI Fridays",
+            "Olive Garden",
+            "Applebee's",
+            "Chili's"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"My bologna has a first name, it's\" this; \"my bologna has a second name, it's\" this; just say 'em, don't spell 'em",
+          "choices": [
+            "Oscar Mayer",
+            "John Smith",
+            "Uncle Sam",
+            "Bert Parks"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "READER'S DIGEST",
+      "questions": [
+        {
+          "clue": "Jake Barnes, Lady Brett & friends go to Spain; Lady Brett has an affair with a bullfighter, then returns to her fiance",
+          "choices": [
+            "For Whom the Bell Tolls",
+            "A Farewell to Arms",
+            "The Old Man and the Sea",
+            "The Sun Also Rises"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Stephen Dedalus' childhood, school days & early manhood, when he decides to leave Dublin for Paris to become a writer",
+          "choices": [
+            "Portrait of the Artist as a Young Man",
+            "The Sound and the Fury",
+            "The Catcher in the Rye",
+            "Great Expectations"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Lucy Honeychurch & her chaperon get the wrong room in Florence; Lucy falls for George, gets engaged to Cecil, weds George",
+          "choices": [
+            "Howards End",
+            "A Passage to India",
+            "A Room with a View",
+            "Sons and Lovers"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Spencer Johnson's bestseller on adapting to change is titled \"Who Moved\" this",
+          "choices": [
+            "The Big Move",
+            "It",
+            "My Cheese",
+            "Lost Keys"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Clyde Griffiths gets Roberta pregnant, falls in love with rich girl Sondra, lets Roberta drown, is executed",
+          "choices": [
+            "An American Tragedy",
+            "The Great Gatsby",
+            "The Grapes of Wrath",
+            "East of Eden"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SICKNESS & HEALTH",
+      "questions": [
+        {
+          "clue": "First aid books say you should not induce this if a person has swallowed a petroleum product",
+          "choices": [
+            "vomiting",
+            "coughing",
+            "sneezing",
+            "choking"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Fainting is caused by a sudden drop in this",
+          "choices": [
+            "body temperature",
+            "heart rate",
+            "blood pressure",
+            "blood sugar"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Symptoms of Tourette's syndrome include blinking, twitching, & other kinds of these",
+          "choices": [
+            "twitches",
+            "tics",
+            "spasms",
+            "jitters"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "From the Greek for \"inflation\", it's a lung condition in which the air sacs become overstretched",
+          "choices": [
+            "asthma",
+            "bronchitis",
+            "emphysema",
+            "pneumonia"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Crystalline bodies made up mainly of cholesterol; they can also form in the bile duct",
+          "choices": [
+            "kidney stones",
+            "uric crystals",
+            "gall stones",
+            "bone spurs"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Bill Campbell",
+    "choices": [
+      "Chicago",
+      "Boston",
+      "Seattle",
+      "Atlanta"
+    ],
+    "correctIndex": 3,
+    "category": "HE'S THE MAYOR"
+  }
+}

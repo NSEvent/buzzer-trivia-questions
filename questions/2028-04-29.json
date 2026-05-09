@@ -1,0 +1,207 @@
+{
+  "date": "2028-04-29",
+  "categories": [
+    {
+      "name": "SPEARS",
+      "questions": [
+        {
+          "clue": "Using your stick as a spear calls for a 5-minute penalty in this sport",
+          "choices": [
+            "Field hockey",
+            "Lacrosse",
+            "Rugby",
+            "Ice hockey"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A piece of equipment you may use in this underwater sport is the Hawaiian sling",
+          "choices": [
+            "Snorkeling",
+            "Scuba diving",
+            "Surfing",
+            "Spearfishing"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Considered a type of spear, this dagger attached to a rifle muzzle dates from the 17th century",
+          "choices": [
+            "Bayonet",
+            "Trench knife",
+            "Karambit",
+            "Dirk"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The famous formation of Greek foot soldiers who carried spears up to 20 feet long",
+          "choices": [
+            "Centurion",
+            "Legionnaire",
+            "Praetorian",
+            "Phalanx"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "British lancers were killed charging up the \"Valley of Death\" in this battle of the Crimean War",
+          "choices": [
+            "the Battle of Inkermann",
+            "the Battle of Balaclava",
+            "the Battle of Alma",
+            "the Siege of Sevastopol"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOW SYMBOLIC",
+      "questions": [
+        {
+          "clue": "A plum = spring in these poems, as in Ransetsu's \"On the plum tree, one blossom, one blossomworth of warmth\"",
+          "choices": [
+            "a haibun",
+            "a tanka",
+            "a senryu",
+            "a haiku"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "2 dots & a horizontal line make an obelus, which we use to signify this basic math operation",
+          "choices": [
+            "division",
+            "multiplication",
+            "subtraction",
+            "addition"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A longtime symbol of purity, it's more a symbol of greed in \"Heart of Darkness\" & in modern ecology",
+          "choices": [
+            "ivies",
+            "ivory",
+            "ivory soap",
+            "ivory tower"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Like laurel, it's a female first name & a symbolic plant, representing love in the bouquets of British royal brides",
+          "choices": [
+            "rose",
+            "violet",
+            "jasmine",
+            "myrtle"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Later seen as racist, lawn jockeys may have meant a house was part of this 19th c. network leading to liberty",
+          "choices": [
+            "the Underground Railroad",
+            "the Liberty Bell",
+            "the Emancipation Proclamation",
+            "the Abolitionist Society"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"OLD\"",
+      "questions": [
+        {
+          "clue": "The morals trial of author Oscar Wilde was held at this London landmark",
+          "choices": [
+            "Tower of London",
+            "Westminster Abbey",
+            "Buckingham Palace",
+            "Old Bailey"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Because its tail is usually clipped, this shaggy dog is also called a bobtail",
+          "choices": [
+            "the Australian Shepherd",
+            "the Shetland Sheepdog",
+            "the Belgian Tervuren",
+            "the Old English sheepdog"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "For its loyalty to the British Crown, Charles II gave Virginia this nickname",
+          "choices": [
+            "the New Frontier",
+            "the Old Dominion",
+            "the Old World",
+            "the Old South"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In song, Stephen Foster said these people stay \"way down upon the Swanee River\"",
+          "choices": [
+            "the young folks away",
+            "the old folks at home",
+            "the old neighbors near",
+            "the old folks here"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "He also made the REO automobile",
+          "choices": [
+            "(Ransom Eli) Ely",
+            "(Ransom Eli) Oakes",
+            "(Ransom Eli) Orton",
+            "(Ransom Eli) Olds"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Saint-Simon was a founder of the \"Christian\" type of this, also a movement to redistribute property",
+    "choices": [
+      "Communism",
+      "Socialism",
+      "Capitalism",
+      "Anarchism"
+    ],
+    "correctIndex": 1,
+    "category": "-ISMs"
+  },
+  "bonusRound": {
+    "clue": "Tiberius was the Caesar of the King James Bible line do this \"to Caesar the things that are Caesar's\"",
+    "choices": [
+      "give",
+      "pay",
+      "render",
+      "offer"
+    ],
+    "correctIndex": 2,
+    "category": "ROMAN EMPERORS"
+  }
+}

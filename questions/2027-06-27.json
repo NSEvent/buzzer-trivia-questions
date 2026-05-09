@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-27",
+  "categories": [
+    {
+      "name": "FRENCH FOOD",
+      "questions": [
+        {
+          "clue": "What the potage du jour is",
+          "choices": [
+            "the bread of the day",
+            "the salad of the day",
+            "the meat of the day",
+            "the soup of the day"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The black type of this hard-to-find edible fungus grows in the French region of Perigord",
+          "choices": [
+            "a mushroom",
+            "a potato",
+            "a trichina",
+            "a truffle"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Those crazy French: raisin is this fruit (what we call a raisin is raisin sec to them)",
+          "choices": [
+            "a berry",
+            "a grape",
+            "an olive",
+            "a cherry"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Riz (rice) is often paired with haricots (these)",
+          "choices": [
+            "peas",
+            "beans",
+            "corn",
+            "lentils"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Tuna, olives & hard-boiled eggs are ingredients in the salad made in this style named for a city on the French Riviera",
+          "choices": [
+            "Caesar",
+            "Cobb",
+            "Nicoise",
+            "Chef"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WOMEN IN THE NEWS",
+      "questions": [
+        {
+          "clue": "In 1987, this \"Love Story\" star became an editor-at-large for Architectural Digest",
+          "choices": [
+            "Jane Fonda",
+            "Goldie Hawn",
+            "Barbra Streisand",
+            "Ali MacGraw"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Jacqueline du Pre, inspiration for a play, \"Duet For One\", was famous for playing this instrument",
+          "choices": [
+            "the violin",
+            "the piano",
+            "the flute",
+            "the cello"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In September 1987, the press revealed that Jillie Mack had done this secretly on August 7, 1987",
+          "choices": [
+            "marry Tom Selleck",
+            "adopt a child",
+            "buy a mansion",
+            "run for office"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In 1987, she was given another title, \"The Princess Royal\", for her charity work",
+          "choices": [
+            "Queen Elizabeth II",
+            "Princess Diana",
+            "Princess Anne",
+            "Duchess of Cornwall"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In election here in '80, Vigdis Finnbogaddotir became 1st elected female president in the world",
+          "choices": [
+            "Norway",
+            "Iceland",
+            "Sweden",
+            "Finland"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NAVAL BATTLES",
+      "questions": [
+        {
+          "clue": "Sir Francis Drake was second in command when the British defeated this fleet in 1588",
+          "choices": [
+            "the French Navy",
+            "the Dutch Fleet",
+            "the Spanish Armada",
+            "the British Royal Navy"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "On March 9, 1862 these 2 ironclads fought for 4 hours with neither ship receiving much damage",
+          "choices": [
+            "the USS Constitution",
+            "the HMS Victory",
+            "the Monitor & the Merrimac",
+            "the CSS Virginia"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In this 1805 battle near Cadiz, Spain, no British ships were lost, but Napoleon lost about 20",
+          "choices": [
+            "Copenhagen",
+            "Santiago",
+            "Trafalgar",
+            "Cherbourg"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Russia used the first ship-to-ship explosive shells in 1853, during this war",
+          "choices": [
+            "the Boer War",
+            "the Crimean War",
+            "the Russo-Japanese War",
+            "the Mexican-American War"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The U.S. lost the destroyer Hammann & the aircraft carrier Yorktown in this June 1942 battle in the north Pacific",
+          "choices": [
+            "Midway",
+            "Coral Sea",
+            "Philippine Sea",
+            "Guadalcanal"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "She was the third actress to play Chris Cagney, but she played the role the longest",
+    "choices": [
+      "Melanie Griffith",
+      "Daryl Hannah",
+      "Kate Jackson",
+      "Sharon Gless"
+    ],
+    "correctIndex": 3,
+    "category": "TV BLONDES"
+  }
+}

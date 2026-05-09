@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-19",
+  "categories": [
+    {
+      "name": "SMALL ISLANDS",
+      "questions": [
+        {
+          "clue": "In the 19th century, Italy tried to establish a penal colony on this small, barren island, the setting for a Dumas novel",
+          "choices": [
+            "Monte Cristo",
+            "Elba",
+            "Capraia",
+            "Ponza"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This atoll 1,300 miles NW of Honolulu, the site of a 1942 naval battle, is actually 2 small islands: Sand & Eastern",
+          "choices": [
+            "Wake",
+            "Jarvis",
+            "Palmyra",
+            "Midway"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Among the islands in this lake are Pelee Island, Ontario & Kelleys Island, Ohio",
+          "choices": [
+            "Lake Erie",
+            "Lake Ontario",
+            "Lake Huron",
+            "Lake Superior"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Longwood House on this South Atlantic island is now a Napoleon museum owned by the French government",
+          "choices": [
+            "Ascension",
+            "Bouvet",
+            "Tristan da Cunha",
+            "St. Helena"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In Roman times, the Dahlak Archipelago off Eritrea in this sea was famous for its pearl fisheries",
+          "choices": [
+            "Black Sea",
+            "Red Sea",
+            "Mediterranean Sea",
+            "Caspian Sea"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BOWLING",
+      "questions": [
+        {
+          "clue": "The highest score you can get in any frame with a spare",
+          "choices": [
+            "300",
+            "290",
+            "100",
+            "20"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Traditionally, the soles on the left & right bowling shoes are different: one is rubber, one is this",
+          "choices": [
+            "rubber",
+            "leather",
+            "suede",
+            "plastic"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 1895 the son-in-law of this \"Br\"and's founder organized the first American Bowling Congress",
+          "choices": [
+            "Brunswick",
+            "AMF",
+            "Storm",
+            "Ebonite"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "So, this form where you knock down slenderer items is popular in New England & eastern Canada? Most illuminating",
+          "choices": [
+            "tenpin bowling",
+            "duckpin bowling",
+            "candlepin bowling",
+            "ninepin bowling"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Bedposts\" is a term for this dreaded split",
+          "choices": [
+            "7-10",
+            "4-6-10",
+            "7-8-10",
+            "3-4-10"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE BRITISH PARLIAMENT",
+      "questions": [
+        {
+          "clue": "The last non-royal to lie in state in Parliament was this former prime minister who died in January 1965",
+          "choices": [
+            "Attlee",
+            "Macmillan",
+            "Churchill",
+            "Harold Wilson"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A \"green paper\" covers an issue for discussion; this color paper is the basis for a bill to be put before Parliament",
+          "choices": [
+            "blue",
+            "yellow",
+            "red",
+            "white"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This time when ministers get grilled by the opposition would be a good quiz show title",
+          "choices": [
+            "ministerial questions",
+            "parliamentary inquiry",
+            "opposition hour",
+            "question time"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Neither the House of Commons nor the House of Lords can pass laws without the presence of this ornamental club",
+          "choices": [
+            "the staff",
+            "the mallet",
+            "the mace",
+            "the scepter"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Smoking is prohibited in Parliament but the entrance to the chamber has a box for this smokeless tobacco",
+          "choices": [
+            "chewing tobacco",
+            "snus",
+            "tobacco pouch",
+            "snuff"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Following Alan Greenspan at the Fed: B.B.",
+    "choices": [
+      "Ben Stein",
+      "Bernie Sanders",
+      "Bill Bernanke",
+      "Ben Bernanke"
+    ],
+    "correctIndex": 3,
+    "category": "FOLLOW THE LEADER"
+  }
+}

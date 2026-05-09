@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-10",
+  "categories": [
+    {
+      "name": "TALK TO THE HAND",
+      "questions": [
+        {
+          "clue": "Useful when performing magic, this 3-word skill refers to manual dexterity employed in doing tricks",
+          "choices": [
+            "magic trick",
+            "hand gesture",
+            "sleight of hand",
+            "finger snap"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "On film, Charlton Heston memorably said, \"Take your stinking\" these \"off me, you damned dirty ape!\"",
+          "choices": [
+            "claws",
+            "paws",
+            "paws and feet",
+            "claws off"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Ambrose Bierce defined this divination practice as \"the 947th method... of obtaining money by false pretences\"",
+          "choices": [
+            "tarot reading",
+            "palm reading",
+            "palmistry",
+            "crystal gazing"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This twisting action done out of grief or concern can also mean showing an exaggerated amount of those emotions",
+          "choices": [
+            "wringing your hands",
+            "clenching your fists",
+            "folding your arms",
+            "waving your hands"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This digit only has 2 phalanges",
+          "choices": [
+            "the index finger",
+            "the pinky",
+            "the thumb",
+            "the ring finger"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ARCHITECTURE TERMS",
+      "questions": [
+        {
+          "clue": "A campanile is a usually freestanding one of these housing a bell",
+          "choices": [
+            "a tower",
+            "a spire",
+            "a dome",
+            "a turret"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Miss this term for the main body of a church & it sounds like you don't know Jack",
+          "choices": [
+            "the nave",
+            "the aisle",
+            "the apse",
+            "the transept"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The horseshoe or keyhole type of this curved span above an opening is associated with Islamic architecture",
+          "choices": [
+            "a vault",
+            "an arch",
+            "an arcade",
+            "a dome"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Along with Tuscan, Ionic, Corinthian & composite, it's the 5th of the orders in ancient architecture",
+          "choices": [
+            "Aeolic",
+            "Doric",
+            "Ionic",
+            "Tuscan"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The construction technique of vertical posts & crosspieces is called \"post & lintel\" or \"post &\" this",
+          "choices": [
+            "beam",
+            "column",
+            "arch",
+            "truss"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CANDY",
+      "questions": [
+        {
+          "clue": "The milk of 50,000 cows goes into 1 day's production of this Penn. company's chocolate",
+          "choices": [
+            "Nestle",
+            "Mars",
+            "Hershey",
+            "Lindt"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "For a 1920's promotion, biplanes used these to drop Baby Ruth bars over cities & towns",
+          "choices": [
+            "small baskets",
+            "silk ribbons",
+            "little parachutes",
+            "paper bags"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "You'll find Godiva Chocolatier's flagship store on the Grand' Place in this Belgian capital",
+          "choices": [
+            "Antwerp",
+            "Ghent",
+            "Bruges",
+            "Brussels"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This candy bar with a \"chic street\" name has been around since 1936",
+          "choices": [
+            "Park Avenue",
+            "5th Avenue",
+            "Madison Avenue",
+            "Wall Street"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This Dallas-based department store calls its chocolate, caramel & nut confections Texas brags",
+          "choices": [
+            "Lord & Taylor",
+            "Neiman Marcus",
+            "Marshall Field's",
+            "Rich's"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "There's a silent L in this word for silently sneaking up on prey",
+    "choices": [
+      "prowl",
+      "sneak",
+      "creep",
+      "stalk"
+    ],
+    "correctIndex": 3,
+    "category": "SILENT \"L\""
+  }
+}

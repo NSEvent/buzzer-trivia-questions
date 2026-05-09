@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-01",
+  "categories": [
+    {
+      "name": "SUCCESSORS",
+      "questions": [
+        {
+          "clue": "He succeeded his uncle as king of the Huns c. 433, at first sharing the throne with his brother Bleda",
+          "choices": [
+            "Bleda",
+            "Attila",
+            "Rugila",
+            "Balkan"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In April 1989 A. Bartlett Giamatti succeeded Peter Ueberroth in this post",
+          "choices": [
+            "president of MLB",
+            "commissioner of football",
+            "commissioner of baseball",
+            "general manager of baseball"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "He took over from Ehud Barak as prime minister of Israel",
+          "choices": [
+            "Ariel Sharon",
+            "Yitzhak Rabin",
+            "Benjamin Netanyahu",
+            "Shimon Peres"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In 1998 David Remnick succeeded her as editor of the New Yorker",
+          "choices": [
+            "Tina Brown",
+            "Robert Gottlieb",
+            "David Grann",
+            "Susan Cheever"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "He preceded & succeeded Benjamin Disraeli as British prime minister",
+          "choices": [
+            "Robert Peel",
+            "William Gladstone",
+            "Lord Palmerston",
+            "Arthur Balfour"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LOST ART",
+      "questions": [
+        {
+          "clue": "His marble \"David\" would be hard to lose, but his smaller bronze \"David\" has been missing since the 18th century",
+          "choices": [
+            "Michelangelo",
+            "Donatello",
+            "Cellini",
+            "Bernini"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Overshadowed by flowers, leis crafted with these, from creatures like the apapane, are now rare in Hawaii",
+          "choices": [
+            "leather",
+            "shells",
+            "sequins",
+            "feathers"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "It's the state sport of Maryland, but competitors there ride at rings with their lances, not at each other",
+          "choices": [
+            "archery",
+            "sailing",
+            "polo",
+            "jousting"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Leutze's first version of \"Washington\" doing this was destroyed in a 1942 bombing of Bremen",
+          "choices": [
+            "boarding the Hessian",
+            "crossing the Delaware",
+            "landing on the ice",
+            "fleeing the enemy"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 1577, one year after he died, his mighty \"Battle of Cadore\" was lost in a fire at the doge's palace",
+          "choices": [
+            "Titian",
+            "Leonardo",
+            "Raphael",
+            "Michelangelo"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE SHIELD",
+      "questions": [
+        {
+          "clue": "The targe, a wooden shield of this country north of England, was in use from the 12th c. through the rebellion of 1745",
+          "choices": [
+            "England",
+            "Ireland",
+            "Wales",
+            "Scotland"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Israel's national emergency medical service, Magen David Adom, is this color shield of David",
+          "choices": [
+            "blue",
+            "green",
+            "red",
+            "yellow"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "When threatened, Roman legions joined shields to form a box called a testudo, the Latin term for this reptile",
+          "choices": [
+            "a tortoise",
+            "a salamander",
+            "a turtle",
+            "a gecko"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The shield of these Catholic \"knights\", founded in 1882, bears a sword & axe",
+          "choices": [
+            "Knights of Columbus",
+            "Knights Templar",
+            "Sons of Union",
+            "Knights of Malta"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Hoplites, ancient warriors of Thebes & other parts of this land, got their name from a shield called the hoplon",
+          "choices": [
+            "Greece",
+            "Rome",
+            "Persia",
+            "Egypt"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Gran Malvina is the name in Argentina for a major island in this group",
+    "choices": [
+      "the Galapagos Islands",
+      "the Shetland Islands",
+      "the Falklands",
+      "the Falkland Islands"
+    ],
+    "correctIndex": 3,
+    "category": "ISLANDS & PENINSULAS"
+  }
+}

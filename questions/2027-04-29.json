@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-29",
+  "categories": [
+    {
+      "name": "HIGHWAYS & BYWAYS",
+      "questions": [
+        {
+          "clue": "Streets in this state capital include Roger Street, Williams Street & Friendship Street",
+          "choices": [
+            "Boston (Massachusetts)",
+            "Hartford (Connecticut)",
+            "Augusta (Maine)",
+            "Providence (Rhode Island)"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "You'll find the Winter Garden theatre at 1634 this street",
+          "choices": [
+            "Fifth Avenue",
+            "Broadway",
+            "Park Avenue",
+            "Madison Avenue"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This city's Las Ramblas is a favorite meeting place for young Catalonians & a mecca for street artists",
+          "choices": [
+            "Barcelona",
+            "Madrid",
+            "Lisbon",
+            "Rome"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In 1973 West Germany set a speed limit of 62 mph on this due to the oil crisis; it was soon repealed",
+          "choices": [
+            "the Route 66",
+            "the M25",
+            "the Autobahn",
+            "the N\u00fcrburgring"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The Bank of England is \"The Old Lady of\" this street; the London Stock Exchange was there until 2004",
+          "choices": [
+            "Fleet Street",
+            "Whitehall",
+            "Threadneedle Street",
+            "Regent Street"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DICTATORS & TYRANTS",
+      "questions": [
+        {
+          "clue": "On Sept. 9, 1948 the DPRK, aka North Korea, was established with this man as its supreme leader",
+          "choices": [
+            "Kim Jong-il",
+            "Kim Il-sung",
+            "Park Chung-hee",
+            "Syngman Rhee"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "By murdering all his brothers around 1413, Mehmed I took power as the fifth ruler of this empire",
+          "choices": [
+            "the Ottoman Empire",
+            "the Byzantine Empire",
+            "the Safavid Empire",
+            "the Mamluk Sultanate"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In 1964 the legislature of this Caribbean country ratified a new constitution making Papa Doc Duvalier president for life",
+          "choices": [
+            "Haiti",
+            "Cuba",
+            "Dominican Republic",
+            "Jamaica"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Ending his family's long dictatorial rule of Nicaragua, he was forced into exile by the Sandinistas in 1979",
+          "choices": [
+            "Anastasio Somoza",
+            "Fulgencio Batista",
+            "Rafael Trujillo",
+            "Anastasio Somoza Debayle"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Communist leader Enver Hoxha made this Balkan nation a fortress of paranoia & isolation",
+          "choices": [
+            "Yugoslavia",
+            "Albania",
+            "Romania",
+            "Bulgaria"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GOING TO PIECES",
+      "questions": [
+        {
+          "clue": "Take stock as pieces of paper rain down from buildings in New York during this type of parade",
+          "choices": [
+            "a ticker-tape parade",
+            "a balloon parade",
+            "a confetti celebration",
+            "a ticker-tape festival"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Reese's Pieces got a big boost in sales after appearing in this film; the script had specified M&Ms, Spielberg's favorite candy",
+          "choices": [
+            "Jaws",
+            "Star Wars",
+            "E.T.",
+            "Close Encounters"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The U.S. hasn't minted these, between a penny & a nickel, since 1872",
+          "choices": [
+            "a three-cent coin",
+            "a two-cent coin",
+            "a half-dollar coin",
+            "a ten-cent coin"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Every Christmas, the Indiana post office in the town named for him postmarks a half a million pieces of mail",
+          "choices": [
+            "Santa Claus",
+            "Father Christmas",
+            "Saint Nicholas",
+            "the Christmas Spirit"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This type of \"piece\" sounds like a smoking pipe, but it's an article written to flatter or glorify the subject",
+          "choices": [
+            "(a) rave (review)",
+            "(a) puff (pastry)",
+            "(a) puff (piece)",
+            "(a) puff (cloud)"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Old bones & old wooden doors do it when moved",
+    "choices": [
+      "creak",
+      "clang",
+      "bang",
+      "snap"
+    ],
+    "correctIndex": 0,
+    "category": "ONOMATOPOETIC WORDS"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-01",
+  "categories": [
+    {
+      "name": "NORTH & SOUTH",
+      "questions": [
+        {
+          "clue": "On April 14, 1865 General Robert Anderson raised the same flag he'd lowered over this fort four years before",
+          "choices": [
+            "Fort Sumter",
+            "Fort McHenry",
+            "Fort Ticonderoga",
+            "Fort Monroe"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In December 1864 the rank of Vice Admiral was created for this hero of Mobile Bay",
+          "choices": [
+            "George Dewey",
+            "David Dixon Porter",
+            "Winfield Scott",
+            "(David) Farragut"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew shows a map on the monitor.) If you fly due south from Belize, you'll pass over these two countries on your way to El Salvador",
+          "choices": [
+            "Honduras & Guatemala",
+            "Guatemala & El Salvador",
+            "Mexico & Costa Rica",
+            "Panama & Nicaragua"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "(Kelly of the Clue Crew shows a map on the monitor.) Head due north from Lida, Belarus & you'll pass through these three countries on your way to the Gulf of Finland",
+          "choices": [
+            "Poland, Lithuania & Belarus",
+            "Finland, Sweden & Denmark",
+            "Lithuania, Latvia & Estonia",
+            "Ukraine, Poland & Lithuania"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The next country due north of Australia's northernmost point is this 3-named one",
+          "choices": [
+            "East Timor",
+            "Indonesia",
+            "Solomon Islands",
+            "Papua New Guinea"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SCIENCE TIMELINE",
+      "questions": [
+        {
+          "clue": "1796: In a pioneering lecture, Georges Cuvier uses the mastodon to show that this can & does happen to animal species",
+          "choices": [
+            "mutation",
+            "extinction",
+            "adaptation",
+            "speciation"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "1912: Max von Laue discovers the diffraction of these bursts of short-wavelength radiation",
+          "choices": [
+            "X-ray",
+            "Gamma ray",
+            "Ultraviolet",
+            "Infrared"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "1842: This Austrian physicist relates the observed frequency of a wave to the motion of its source",
+          "choices": [
+            "Heisenberg",
+            "Planck",
+            "Doppler",
+            "Einstein"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Around 450 B.C.: Empedocles posits that all matter is made of these 4 classical elements",
+          "choices": [
+            "earth, fire, air & water",
+            "salt, pepper, sugar & spice",
+            "wood, stone, metal & clay",
+            "blood, bile, phlegm & spirits"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Named for a Shakespearean couple, these 2 large moons of Uranus were discovered in 1787",
+          "choices": [
+            "Miranda & Ariel",
+            "Titania & Ariel",
+            "Oberon & Miranda",
+            "Titania & Oberon"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "KITCHEN UTENSILS",
+      "questions": [
+        {
+          "clue": "A typical one of these beverage openers has a metal spiral with a transverse handle attached",
+          "choices": [
+            "Bottle opener",
+            "Corkscrew",
+            "Can opener",
+            "Wine key"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "What the Japanese call hashi, we call these eating utensils",
+          "choices": [
+            "spoons",
+            "chopsticks",
+            "forks",
+            "sticks"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "From an Old English word for \"to load\", it's the deep-bowled, long-handled spoon used for serving soup",
+          "choices": [
+            "spatula",
+            "whisk",
+            "ladle",
+            "slotted spoon"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "When buying one of these to test for doneness in meat, choose one with a thin probe that will let less juice out",
+          "choices": [
+            "Instant Read Thermometer",
+            "Meat Thermometer",
+            "Oven Thermometer",
+            "Meat Fork"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This device has a small receptacle in which to place the clove & a plunger to push down on it",
+          "choices": [
+            "peeler",
+            "zester",
+            "garlic press",
+            "masher"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "It's one of the few animals commonly called by its genus and species names",
+    "choices": [
+      "a Python regius",
+      "a Cobra naja",
+      "a Boa constrictor",
+      "a Viper atrox"
+    ],
+    "correctIndex": 2,
+    "category": "\"B.C.\""
+  }
+}

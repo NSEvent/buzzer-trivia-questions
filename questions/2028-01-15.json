@@ -1,0 +1,207 @@
+{
+  "date": "2028-01-15",
+  "categories": [
+    {
+      "name": "SHEEP-POURRI",
+      "questions": [
+        {
+          "clue": "In Australia a sheep farm is called one of these, the second \"S\" in the l.S.S.",
+          "choices": [
+            "ranch",
+            "farm",
+            "station",
+            "pasture"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "One of the first recordings of a human voice is of Edison reading this rhyme in 1877",
+          "choices": [
+            "Twinkle Twinkle Little Star",
+            "Baa Baa Black Sheep",
+            "Mary Queen of Scots",
+            "\"Mary Had a Little Lamb\""
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Better-known name of World War II's marine air squadron 214",
+          "choices": [
+            "Red Devils squadron",
+            "Blue Angels squadron",
+            "Flying Tigers squadron",
+            "Black Sheep squadron"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In \"Little Boy Blue\" \"the sheep's\" here, \"the cow's in the corn\"",
+          "choices": [
+            "the garden",
+            "the valley",
+            "the hillside",
+            "the meadow"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This \"Perfect Sleeper\" mattress company has used numbered sheep in its TV ads",
+          "choices": [
+            "Serta",
+            "Sealy",
+            "Simmons",
+            "Tempur-Pedic"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "EXCLAMATIONS!",
+      "questions": [
+        {
+          "clue": "A skateboarding Bart Simpson has been known to exclaim this word used by surfers",
+          "choices": [
+            "yeehaw!",
+            "cowabunga!",
+            "woohoo!",
+            "sweet!"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "From the Dutch for \"hold fast\", it's a pirate's order to stop",
+          "choices": [
+            "Halt!",
+            "Avast!",
+            "Stop!",
+            "Cease!"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Booyah!\" caught on in the '90s when it was used by Stuart Scott & by football player character Rod Tidwell in this movie",
+          "choices": [
+            "Any Given Sunday",
+            "Rudy",
+            "The Replacements",
+            "Jerry Maguire"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In a less-than-inspiring ending to this actress's early film, \"Alice Adams\", she responds to a declaration of love with \"Gee whiz!\"",
+          "choices": [
+            "Bette Davis",
+            "Jean Harlow",
+            "Rosalind Russell",
+            "Katharine Hepburn"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "2 words meaning \"great, amazing\", it's how Andy on \"Parks & Rec\" responds to April's \"I love you\"",
+          "choices": [
+            "totally tubular!",
+            "super rad!",
+            "way cool!",
+            "awesome sauce!"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FRENCH CUISINE",
+      "questions": [
+        {
+          "clue": "These little fish are dusted with salt, quick-fried & marinated to make anchois Marines",
+          "choices": [
+            "sardines",
+            "herring",
+            "anchovies",
+            "whitebait"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Sucre de pomme, a specialty of Rouen, is a confection made from sugar & this fruit",
+          "choices": [
+            "apples",
+            "pears",
+            "grapes",
+            "quinces"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Used as a garnish, oeufs files are these, poached to make them form long threads",
+          "choices": [
+            "eggs",
+            "fish",
+            "shrimp",
+            "sauce"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Fontainebleau, a soft, cow's-milk type of this dairy product, is often served with sugar for dessert",
+          "choices": [
+            "yogurt",
+            "cream",
+            "cheese",
+            "butter"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Fraises cardinal are these berries chilled, covered with raspberry puree & sprinkled with slivered almonds",
+          "choices": [
+            "raspberries",
+            "blackberries",
+            "blueberries",
+            "strawberries"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The shield on this country's flag is based on one carried by the Maasai people",
+    "choices": [
+      "Kenya",
+      "Ethiopia",
+      "Somalia",
+      "Tanzania"
+    ],
+    "correctIndex": 0,
+    "category": "RUN IT UP THE FLAGPOLE"
+  },
+  "bonusRound": {
+    "clue": "Harald V succeeded his father, Olav V, as king of this Scandinavian country in 1991",
+    "choices": [
+      "Sweden",
+      "Denmark",
+      "Finland",
+      "Norway"
+    ],
+    "correctIndex": 3,
+    "category": "CURRENT MONARCHS"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-05",
+  "categories": [
+    {
+      "name": "AVIAN POETRY",
+      "questions": [
+        {
+          "clue": "\"A wonderful bird is\" this, \"his bill will hold more than his belican\"",
+          "choices": [
+            "a stork",
+            "a pelican",
+            "an albatross",
+            "a heron"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Paul Laurence Dunbar wrote, \"I know why\" this \"sings, ah me, when his wing is bruised and his bosom sore\"",
+          "choices": [
+            "a pelican",
+            "the caged bird",
+            "a stork",
+            "a heron"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "John Keats called this bird immortal; \"Thou wast not born for death\"",
+          "choices": [
+            "a pelican",
+            "a stork",
+            "a nightingale",
+            "a heron"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"And a good south wind sprung up behind\"; it \"did follow, and every day, for food or play, came to the mariner's hollo!\"",
+          "choices": [
+            "a pelican",
+            "a stork",
+            "a heron",
+            "the albatross"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "10 of her 1,800 poems were published in her lifetime; one was \"These Are the Days When Birds Come Back\u2014\"",
+          "choices": [
+            "Whitman",
+            "Dickinson",
+            "Longfellow",
+            "Thoreau"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "REALLY BAD DATES",
+      "questions": [
+        {
+          "clue": "On April 3, 1974, during an 18-hour period, 148 of these touched down, ravaging towns in the Midwest",
+          "choices": [
+            "hurricanes",
+            "typhoons",
+            "cyclones",
+            "tornadoes"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "On Feb. 3, 1998 a low-flying jet clipped a ski lift cable, killing 20 in the Dolomite Mountains in this country",
+          "choices": [
+            "France",
+            "Switzerland",
+            "Austria",
+            "Italy"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A freak flood swept away a bridge, causing an Auckland-bound train to crash on Dec. 24, 1953 in this nation",
+          "choices": [
+            "New Zealand",
+            "Australia",
+            "Japan",
+            "Chile"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "On June 19, 1756 146 British prisoners were packed into the dungeon in India that was given this nickname",
+          "choices": [
+            "White House of Delhi",
+            "Black Hole of Calcutta",
+            "Red Fort of Agra",
+            "Green Palace of Mumbai"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This hurricane devastated Central America October 26-31, 1998",
+          "choices": [
+            "Hurricane Andrew",
+            "Hurricane Katrina",
+            "Typhoon Haiyan",
+            "Hurricane Mitch"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "LET'S GET MARRIED",
+      "questions": [
+        {
+          "clue": "About his mother's remarriage, Hamlet disdainfully remarks, \"Frailty thy name is\" this",
+          "choices": [
+            "fool",
+            "woman",
+            "king",
+            "earth"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Their 1469 marriage was politically arranged to unite 2 Iberian kingdoms",
+          "choices": [
+            "Henry VIII & Anne Boleyn",
+            "Louis XIV & Marie Antoinette",
+            "Charles V & Isabella of Portugal",
+            "Ferdinand & Isabella"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "He must have liked the family; Thomas Seymour married this English king's widow & later tried to marry his daughter",
+          "choices": [
+            "Edward VI",
+            "Richard III",
+            "Henry VIII",
+            "James I"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Anne Hathaway was 26 & pregnant when she married this 18-year old in 1582",
+          "choices": [
+            "Christopher Marlowe",
+            "Ben Jonson",
+            "William Shakespeare",
+            "John Donne"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The marriage of this pair in 1614 brought peace between the Jamestown Colony & local Native Americans",
+          "choices": [
+            "Squanto & Massasoit",
+            "Pocahontas & John Rolfe",
+            "Tecumseh & Tenskwatawa",
+            "Little Bighorn & Custer"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "3,300 feet up in the Mojave, Yucca Valley, California is in this type of area & has a nature museum named for it",
+    "choices": [
+      "a tropical rainforest",
+      "a coastal wetland",
+      "a high desert",
+      "an alpine meadow"
+    ],
+    "correctIndex": 2,
+    "category": "\"H.D.\""
+  }
+}

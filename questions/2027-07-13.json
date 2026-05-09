@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-13",
+  "categories": [
+    {
+      "name": "MUSIC TERMS",
+      "questions": [
+        {
+          "clue": "This male voice range falls between tenor & bass",
+          "choices": [
+            "alto",
+            "countertenor",
+            "bass-baritone",
+            "baritone"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "These liturgical songs of the Catholic Church bear the name of a 6th century pope said to have formulated & organized them",
+          "choices": [
+            "Byzantine chants",
+            "Gregorian chants",
+            "Ambrosian chants",
+            "Mozartian masses"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A direction to singers, the term \"bouche ferm\u00e9e\" literally means that your mouth should be this",
+          "choices": [
+            "open",
+            "closed",
+            "shut",
+            "pressed"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The 2 arias for the Queen of the Night in Mozart's \"Magic Flute\" are for this type of soprano",
+          "choices": [
+            "dramatic",
+            "lyric",
+            "spinto",
+            "coloratura"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "String players debate how much of this technique to use; a little adds warmth... too much & you get the nanny goat effect",
+          "choices": [
+            "portamento",
+            "vibrato",
+            "legato",
+            "staccato"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WHATCHAMACALLIT",
+      "questions": [
+        {
+          "clue": "Because it operates like an old execution device, your average paper cutter also goes by this name",
+          "choices": [
+            "the chopping block",
+            "a guillotine press",
+            "a guillotine",
+            "the headman's axe"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This hybrid breed gets its curls from the dog alluded to in the latter part of its name",
+          "choices": [
+            "a Goldendoodle",
+            "a Labradoodle",
+            "a Cockapoo",
+            "a Dorgi"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew shows a diagram on a monitor.) In the pronunciation of the word \"circus\", the \"U\" is an unstressed vowel & is marked with what looks like an inverted \"e\", called this",
+          "choices": [
+            "a diacritic",
+            "a schwa",
+            "a breve",
+            "a tilde"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "It's the tallest type of tree named for a Cherokee",
+          "choices": [
+            "Redwood",
+            "Sequoia",
+            "Baobab",
+            "Cypress"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's the 3-letter word for an apple seed or any of the spots on a pair of dice",
+          "choices": [
+            "a dot",
+            "a spot",
+            "a pip",
+            "a mark"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "I LOVE A MYSTERY",
+      "questions": [
+        {
+          "clue": "He reworked his aborted 1940s comic book \"Mike Danger\" into a novel & created Mike Hammer",
+          "choices": [
+            "Dashiell Hammett",
+            "Raymond Chandler",
+            "Ross Macdonald",
+            "Mickey Spillane"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This detective was 18 when she began her career in \"The Secret of the Old Clock\", so she's 98 today",
+          "choices": [
+            "Tom Swift",
+            "Nancy Drew",
+            "Hardy Boys",
+            "Boxcar Children"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In this Dashiell Hammett novel, Effie Perine describes her boss' client by saying, \"She's a knockout\"",
+          "choices": [
+            "The Maltese Falcon",
+            "The Big Sleep",
+            "The Long Goodbye",
+            "Red Harvest"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Author who began his \"Deadly Sins\" series in 1973 with \"The First Deadly Sin\"",
+          "choices": [
+            "Lawrence Sanders",
+            "Sidney Sheldon",
+            "Frank McCourt",
+            "James Patterson"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This Agatha Christie spinster first appeared in print in the 1926 short story \"The Tuesday Night Club\"",
+          "choices": [
+            "Hercule Poirot",
+            "Nero Wolfe",
+            "Philip Marlowe",
+            "Miss Marple"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This president's son & grandson were Ohio senators; a great-grandson, Ohio's governor",
+    "choices": [
+      "William Henry Harrison",
+      "Rutherford B. Hayes",
+      "William Howard Taft",
+      "Benjamin Harrison"
+    ],
+    "correctIndex": 2,
+    "category": "BORN TO RUN"
+  }
+}

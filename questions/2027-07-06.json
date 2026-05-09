@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-06",
+  "categories": [
+    {
+      "name": "TV TITLE REFERENCES",
+      "questions": [
+        {
+          "clue": "On a primetime ABC soap, Teri Hatcher, Felicity Huffman & their neighbors on Wisteria Lane",
+          "choices": [
+            "Beverly Hills 90210",
+            "Desperate Housewives",
+            "Six Feet Under",
+            "Melrose Place"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The town in Washington State where Laura Palmer was murdered",
+          "choices": [
+            "Fargo",
+            "Twin Cities",
+            "Lake Superior",
+            "Twin Peaks"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Patricia Arquette, who sees dead people",
+          "choices": [
+            "The Medium",
+            "The Sixth Sense",
+            "Dark Angel",
+            "Lost"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The McCallister brothers, one of whom becomes president in 2040",
+          "choices": [
+            "Jack & Bobby",
+            "Boston Public",
+            "The West Wing",
+            "Sons of Anarchy"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Animated U.S. father Stan Smith",
+          "choices": [
+            "Family Guy",
+            "American Dad",
+            "The Simpsons",
+            "Futurama"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DAYTIME TV",
+      "questions": [
+        {
+          "clue": "Between 1972 & 2015 Bob Barker came on down to host 6,731 episodes of this game show",
+          "choices": [
+            "Wheel of Fortune",
+            "Jeopardy!",
+            "Let's Make a Deal",
+            "The Price is Right"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Hoda Kotb & Jenna Bush Hager are part of this morning show that's been on since 1952",
+          "choices": [
+            "Good Morning America",
+            "The View",
+            "Today",
+            "CBS This Morning"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Winning the 2020 Daytime Emmy for Best Entertainment Talk Show host was this newcomer & pop singer",
+          "choices": [
+            "Kelly Clarkson",
+            "Ellen DeGeneres",
+            "Carrie Ann Inaba",
+            "Jennifer Hudson"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Despite leaving & coming back, as of 2020 Joy Behar has co-hosted this show longer than any of the other co-hosts",
+          "choices": [
+            "The Talk",
+            "Live! with Kelly",
+            "The Rachel Ray Show",
+            "The View"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A 2020 episode title of his show was \"My Husband Blames Me for his Drug Use\"",
+          "choices": [
+            "Dr. Oz",
+            "Dr. Dre",
+            "Dr. Pepper",
+            "Dr. Phil"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AUSTRIA",
+      "questions": [
+        {
+          "clue": "The Winter Olympics have been held in this scenic city twice, 1964 & 1976",
+          "choices": [
+            "Vienna",
+            "Innsbruck",
+            "Salzburg",
+            "Graz"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Before the Roman conquest in 14 B.C., this Gaelic tribe inhabited the country",
+          "choices": [
+            "the Romans",
+            "the Celts",
+            "the Vikings",
+            "the Gauls"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This ruggedly beautiful Alpine province is cut in 2 by territory ceded to Italy after WWI",
+          "choices": [
+            "Carinthia",
+            "Salzburg",
+            "Tyrol",
+            "Styria"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1914 this Hapsburg emperor declared war on Serbia, thus starting World War I",
+          "choices": [
+            "Maximilian",
+            "Franz Ferdinand",
+            "Franz Joseph",
+            "Rudolf"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Some 71% of Austria is covered by this mountain range compared to 62% of Switzerland",
+          "choices": [
+            "Alps",
+            "Pyrenees",
+            "Carpathians",
+            "Apennines"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In April a U.S. plane & a Chinese fighter jet collided & in February a U.S. sub hit a boat from this country",
+    "choices": [
+      "Russia",
+      "China",
+      "Japan",
+      "North Korea"
+    ],
+    "correctIndex": 2,
+    "category": "2001"
+  }
+}

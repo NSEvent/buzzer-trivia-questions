@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-18",
+  "categories": [
+    {
+      "name": "OSCAR WINNERS' RHYME TIME",
+      "questions": [
+        {
+          "clue": "Witherspoon's parts",
+          "choices": [
+            "Chocolates covered",
+            "Candy wrappers",
+            "Snack mix",
+            "Reese's pieces"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Paquin's plantains",
+          "choices": [
+            "Julia's bananas",
+            "Anne's fruits",
+            "Meryl's snacks",
+            "Anna's bananas"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Landau's milk boxes",
+          "choices": [
+            "Stone's containers",
+            "Hilary's boxes",
+            "Meryl's cartons",
+            "Martin's cartons"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Hilary's financial institutions",
+          "choices": [
+            "Kidman's vaults",
+            "Streep's banks",
+            "Swank's banks",
+            "Fonda's institutions"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "McDaniel's hamburgers",
+          "choices": [
+            "Hattie's buns",
+            "Hattie's fries",
+            "Hattie's patties",
+            "Hattie's shakes"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BLACK AMERICA",
+      "questions": [
+        {
+          "clue": "Ralph Bunche was the first black American to win the Nobel Peace Prize & this civil rights leader was second",
+          "choices": [
+            "Malcolm X",
+            "Rosa Parks",
+            "Thurgood Marshall",
+            "Martin Luther King, Jr."
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "By order of Pres. Reagan, boxer Joe Louis was buried in this cemetery in 1981",
+          "choices": [
+            "Woodlawn Cemetery",
+            "Acalanes Cemetery",
+            "Arlington National Cemetery",
+            "Fort Rosecrans National Cemetery"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Born & raised at Tuskegee Institute, he was celebrity star at 1984 Olympics closing",
+          "choices": [
+            "Michael Jackson",
+            "Lionel Richie",
+            "Lionel Hampton",
+            "Lionel Messi"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Matthew Henson is famous for planting a flag on this part of the world",
+          "choices": [
+            "the South Pole",
+            "the Arctic Ocean",
+            "the North Pole",
+            "Greenland"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This Black Muslim minister born Louis Eugene Walcott once worked as a professional calypso singer",
+          "choices": [
+            "Louis Farrakhan",
+            "Malcolm X",
+            "Elijah Muhammad",
+            "Nation of Islam"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE ROOM WHERE IT HAPPENS",
+      "questions": [
+        {
+          "clue": "Indoor games like 20 Questions are named for it",
+          "choices": [
+            "the attic",
+            "the basement",
+            "the library",
+            "the parlor"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Highlights for children has been called \"that ubiquitous magazine\" there",
+          "choices": [
+            "a dentist office",
+            "a doctor's office",
+            "a waiting room",
+            "a waiting area"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Archaeologists have recently identified the curia of Pompey, the room where this man was murdered",
+          "choices": [
+            "Julius Caesar",
+            "Augustus",
+            "Brutus",
+            "Cicero"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In 1618 in a room of Prague Castle, imperial agents Slavata & Borita of Martinic left the room this way",
+          "choices": [
+            "through the door",
+            "by the stairs",
+            "along the wall",
+            "through the window"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A sleeveless garment + 2 letters; it's where clergy dress",
+          "choices": [
+            "a vestry",
+            "a sacristy",
+            "a chapel",
+            "a sanctuary"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Luck, or great wealth",
+    "choices": [
+      "fortune cookie",
+      "fortune teller",
+      "fortune favored",
+      "fortune"
+    ],
+    "correctIndex": 3,
+    "category": "ALSO A MAGAZINE"
+  }
+}

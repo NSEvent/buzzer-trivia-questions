@@ -1,0 +1,207 @@
+{
+  "date": "2027-02-13",
+  "categories": [
+    {
+      "name": "IRAQ",
+      "questions": [
+        {
+          "clue": "After this country's 1948 independence, the armies of Transjordan & Iraq invaded",
+          "choices": [
+            "Syria",
+            "Israel",
+            "Lebanon",
+            "Jordan"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In 2003 the USA's 75th Exploitation Task Force searched Iraq for these, WMDs for short, but didn't find any",
+          "choices": [
+            "nuclear reactors",
+            "chemical weapons",
+            "biological agents",
+            "weapons of mass destruction"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Iraq once produced most of the world's supply of this fruit & is replanting after millions of palm trees were destroyed",
+          "choices": [
+            "olive",
+            "fig",
+            "pomegranate",
+            "date"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "It's the foreign capital city occupied by Iraqi forces in 1990",
+          "choices": [
+            "Bahrain",
+            "Qatar",
+            "Kuwait City",
+            "Kuwait"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Iraq's international currency code is IQD, with the \"D\" representing this",
+          "choices": [
+            "the dirham",
+            "the dinar",
+            "the dollar",
+            "the ducat"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "11-LETTER WORDS",
+      "questions": [
+        {
+          "clue": "A less serious offense, such as shoplifting, often punished with less than one year in prison",
+          "choices": [
+            "misdemeanor",
+            "felony",
+            "infraction",
+            "misdemeanours"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Describing a whole order of mammals, this adjective is from the Latin for \"flesh eating\"",
+          "choices": [
+            "carnivorous",
+            "carnivore",
+            "carnivory",
+            "carnivalesque"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Carl's Jr. burgers have been this, cooked on a rack at high heat & maybe even burned a little",
+          "choices": [
+            "grilled",
+            "charbroiled (chargrilled)",
+            "broiled",
+            "charcoal"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This ancient flying reptile had a wing span of up to 35 feet",
+          "choices": [
+            "pterodactyl",
+            "plesiosaurus",
+            "mosasaurus",
+            "archaeopteryx"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It's grape science, especially with regard to winemaking",
+          "choices": [
+            "viticulture",
+            "enology",
+            "sommelier",
+            "viniculture"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"TAG\", YOU'RE IT",
+      "questions": [
+        {
+          "clue": "Rhyming adjective for a diverse group that gets a job done",
+          "choices": [
+            "raggedy",
+            "hodgepodge",
+            "ragtag",
+            "motley"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This brand is now part of Whirlpool & makes ranges & refrigerators as well as washing machines",
+          "choices": [
+            "Frigidaire",
+            "KitchenAid",
+            "Westinghouse",
+            "Maytag"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "From the Italian for \"to cut\", it's pasta cut into long, flat strips",
+          "choices": [
+            "fettuccine",
+            "spaghetti",
+            "tagliatelle",
+            "rigatoni"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "To make someone angry or even make him your enemy",
+          "choices": [
+            "pacify",
+            "antagonize",
+            "reassure",
+            "propitiate"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's the lower house in the German legislative systeme",
+          "choices": [
+            "Bundesrat",
+            "the Bundestag",
+            "Reichstag",
+            "Landtag"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Because a fair-skinned population moved to a sunny climate, Australians guard against this cancer of pigment-producing skin cells",
+    "choices": [
+      "basal cell carcinoma",
+      "melanoma",
+      "squamous cell carcinoma",
+      "actinic keratosis"
+    ],
+    "correctIndex": 1,
+    "category": "CLIMATE"
+  },
+  "bonusRound": {
+    "clue": "The Mayflower's cooper (who made & repaired barrels); his descendants with wife Priscilla include Dan Quayle & John Adams",
+    "choices": [
+      "John Alden",
+      "Myles Standish",
+      "William Brewster",
+      "Edward Winslow"
+    ],
+    "correctIndex": 0,
+    "category": "THE PILGRIMS"
+  }
+}

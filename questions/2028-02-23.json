@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-23",
+  "categories": [
+    {
+      "name": "PAINTING & SCULPTURE",
+      "questions": [
+        {
+          "clue": "It's the dominant color in Picasso's melancholy 1903 painting \"The Tragedy\"",
+          "choices": [
+            "green",
+            "black",
+            "blue",
+            "red"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "If this paint that has one egg yolk binder is applied too thickly, it may crack",
+          "choices": [
+            "tempera",
+            "acrylic",
+            "oil",
+            "watercolor"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Found on an Aegean island in 1820, at 6'8\" she'd make a great basketball player if she had arms",
+          "choices": [
+            "the Venus de Milo",
+            "the Venus de Medici",
+            "the Winged Victory",
+            "the David"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This Frenchman's life-sized 1781 marble statue of Voltaire is in the Comedie Francaise in Paris",
+          "choices": [
+            "Auguste Rodin",
+            "Jean-Baptiste Carpeaux",
+            "Jean-Antoine Houdon",
+            "Antoine-Louis Barye"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In the 1730s this British artist painted \"A Harlot's Progress\" as well as \"A Rake's Progress\"",
+          "choices": [
+            "George Frideric Handel",
+            "(William) Hogarth",
+            "Thomas Gainsborough",
+            "John Constable"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ANCIENT GREECE",
+      "questions": [
+        {
+          "clue": "When he sacked Thebes in 335 B.C., he ordered that the house in which Pindar the poet once lived be saved",
+          "choices": [
+            "Julius",
+            "Pompey",
+            "Augustus",
+            "Alexander"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This seat of the most celebrated oracle of ancient Greece was considered the center of the universe",
+          "choices": [
+            "Delphi",
+            "Dodona",
+            "Olympia",
+            "Delos"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The possession of Amazon Queen Hippolyta that is captured by Hercules",
+          "choices": [
+            "his sword",
+            "her helmet",
+            "his shield",
+            "her girdle"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Found around 900 B.C., it became a military state some 300 years later",
+          "choices": [
+            "Athens",
+            "Thebes",
+            "Corinth",
+            "Sparta"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This Greek \"Father of Tragedy\" fought in the Battle of Marathon, which he included in an epitaph he wrote for himself",
+          "choices": [
+            "Sophocles",
+            "Euripides",
+            "Aeschylus",
+            "Plato"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SAFETY FIRST",
+      "questions": [
+        {
+          "clue": "In the U.S. this service branch establishes & enforces boating regulations",
+          "choices": [
+            "the Navy",
+            "the Army",
+            "the Coast Guard",
+            "the Marines"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "You're a lumberjack & you won't be okay if this item lacks a hand guard & throttle interlock",
+          "choices": [
+            "axe",
+            "saw",
+            "chainsaw",
+            "drill"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Respirators can help prevent coal workers' pneumoconiosis, better known as this",
+          "choices": [
+            "white lung condition",
+            "grey lung syndrome",
+            "dusty lung disorder",
+            "black lung disease"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Uvex specializes in protecting these, as with its innovative Astrospec line",
+          "choices": [
+            "ears",
+            "hands",
+            "eyes",
+            "lungs"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Adding things up, about 1/3 of all accidental injuries happen here & it's the No. 2 spot for accidental death",
+          "choices": [
+            "in the home",
+            "at work",
+            "on the road",
+            "at school"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Martin Luther King's purpose in traveling to this city in March 1968 was to support striking sanitation workers",
+    "choices": [
+      "Memphis",
+      "Selma",
+      "Birmingham",
+      "Atlanta"
+    ],
+    "correctIndex": 0,
+    "category": "CIVIL RIGHTS HEROES"
+  }
+}

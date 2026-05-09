@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-13",
+  "categories": [
+    {
+      "name": "THE PARENT COMPANY",
+      "questions": [
+        {
+          "clue": "Almay Cosmetics & Charlie Fragrances: this creation of Charles Revson",
+          "choices": [
+            "Avon",
+            "Revlon",
+            "Estee",
+            "L'Oreal"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Care for a beverage? Coke owns Minute Maid; this owns Gatorade",
+          "choices": [
+            "Pepsi",
+            "Coca",
+            "Dr Pepper",
+            "Keurig"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "ABC Broadcasting: this entertainment company",
+          "choices": [
+            "Viacom",
+            "Warner",
+            "Disney",
+            "NBC"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It provides YouTube, & you can Google that",
+          "choices": [
+            "Amazon",
+            "Alphabet",
+            "Microsoft",
+            "Meta"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "DreamWorks Animation is under NBCUniversal, which is under this cable provider",
+          "choices": [
+            "Time Warner",
+            "Comcast",
+            "Discovery",
+            "Paramount"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A PASSION FOR FASHION",
+      "questions": [
+        {
+          "clue": "(Sofia of the Clue Crew points to the small green crocodile patch on the breast of her pink shirt.) My shirt features the logo of a sportswear company named for this French athlete",
+          "choices": [
+            "Nike",
+            "Adidas",
+            "Lacoste",
+            "Puma"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Trading on its century-old name, this Ohio company abbreviated A&F sells casual clothes & accessories",
+          "choices": [
+            "Gap Inc.",
+            "J.Crew",
+            "Old Navy",
+            "Abercrombie & Fitch"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew wears a black brimmed hat.) A city in western Germany shares its name with this fashionable hat",
+          "choices": [
+            "a fedora",
+            "a bowler",
+            "a homburg",
+            "a beret"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "From the French for \"made of linen\", it's a fancy name for women's underwear",
+          "choices": [
+            "lingerie",
+            "lingot",
+            "lingua",
+            "linguini"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "He's the clothing designer who gave us Tommy Girl cologne",
+          "choices": [
+            "Tommy Lee",
+            "Tommy Boy",
+            "Tommy Hilfiger",
+            "Tommy Tune"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GRAY MATTERS",
+      "questions": [
+        {
+          "clue": "Gore Vidal adapted this military-school novel for TV, 1st screenplay he's taken credit for since 1964",
+          "choices": [
+            "Dress Code",
+            "Dress Rehearsal",
+            "Dress Gray",
+            "Dress Circle"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This \"cerebral\" layer has sensory, motor & associative areas, the latter helping you play \"Jeopardy!\"",
+          "choices": [
+            "Cerebellum",
+            "Cortex",
+            "Medulla",
+            "Thalamus"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Neurons & glia are the brain's 2 main types of these basic biological units",
+          "choices": [
+            "Cells",
+            "Tissues",
+            "Organs",
+            "Molecules"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"She ain't what she used to be\"",
+          "choices": [
+            "the Old Gray Stallion",
+            "the Gray Mare",
+            "the Old Gray Horse",
+            "the Old Gray Mare"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Though still alive at the time, Confederate raider John S. Mosby earned this nickname",
+          "choices": [
+            "\"the Stonewall\"",
+            "the \"Gray Ghost\"",
+            "\"the Rebel\"",
+            "\"the Phantom\""
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Females are the dominant sex in the troops of this accurately named species of primate, native to Madagascar",
+    "choices": [
+      "a ring-tailed cat",
+      "a ring-tailed raccoon",
+      "a ring-tailed fox",
+      "a ring-tailed lemur"
+    ],
+    "correctIndex": 3,
+    "category": "WITH THIS RING"
+  }
+}

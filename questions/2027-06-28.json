@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-28",
+  "categories": [
+    {
+      "name": "INTO AFRICA",
+      "questions": [
+        {
+          "clue": "Italy invaded this north African country in 1911 & took control in 1912",
+          "choices": [
+            "Tunisia",
+            "Libya",
+            "Egypt",
+            "Algeria"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The snows of this Tanzanian mountain include the Dome of Kibo, which has a 1.2-mile-wide crater",
+          "choices": [
+            "Kenya",
+            "Kilimanjaro",
+            "Meru",
+            "Rwenzori"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Aside from the Republic of the Congo, one of the 3 countries once known together as French Equatorial Africa",
+          "choices": [
+            "(1 of) Chad, Gabon & the Central African Republic",
+            "Cameroon",
+            "Mali",
+            "Senegal"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The Basotho people are the majority in this country of 2 million",
+          "choices": [
+            "Eswatini",
+            "Botswana",
+            "Lesotho",
+            "Namibia"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Of the 5 African countries that border the Mediterranean, it's the largest in area",
+          "choices": [
+            "Morocco",
+            "Algeria",
+            "Libya",
+            "Tunisia"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MEDICINAL PLANTS",
+      "questions": [
+        {
+          "clue": "For a time parsley & sage were used as remedies for this; now Minoxidil is giving it a try",
+          "choices": [
+            "hair loss",
+            "thinning hair",
+            "hair fall",
+            "baldness"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Many keep a pot of this succulent member of the lily family in the kitchen to treat minor burns",
+          "choices": [
+            "Cactus",
+            "Succulent",
+            "Aloe",
+            "Euphorbia"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Comfrey helps bruises & sprains & even helps these knit together",
+          "choices": [
+            "muscles",
+            "bones",
+            "tendons",
+            "ligaments"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Andeans mix this plant's leaves with lime & chew them medicinally; the U.S. Govt. tries to eradicate it",
+          "choices": [
+            "tobacco",
+            "pepper",
+            "coca",
+            "mint"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "From the Latin for \"little calendar\", it's a versatile antiseptic also taken internally",
+          "choices": [
+            "calendula",
+            "chamomile",
+            "echinacea",
+            "lavender"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A LA \"CART\"",
+      "questions": [
+        {
+          "clue": "While 2 of its wheels head toward produce, 1 goes to dairy, the other to checkout",
+          "choices": [
+            "a shopping cart",
+            "a wheelbarrow",
+            "a hand truck",
+            "a shopping trolley"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Literally \"blank document\", it's the 2-word French term for unconditional authority",
+          "choices": [
+            "carte noire",
+            "carte blanche",
+            "carte grise",
+            "carte bleue"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Don't put this writer of 1644's \"Principles of Philosophy\" before the horse",
+          "choices": [
+            "Rene Descartes",
+            "Blaise Pascal",
+            "Gottfried Leibniz",
+            "Ren\u00e9 Descartes Jr."
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "One of the best-known examples of this 6-letter term is OPEC",
+          "choices": [
+            "an alliance",
+            "a trust",
+            "an oligopoly",
+            "a cartel"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Yeesh! Random House defines this body part as \"gristle\"",
+          "choices": [
+            "carton",
+            "cartoon",
+            "cartouche",
+            "cartilage"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "December 5, 1782 in Kinderhook, New York",
+    "choices": [
+      "Grover Cleveland",
+      "Martin Van Buren",
+      "James Buchanan",
+      "John Adams"
+    ],
+    "correctIndex": 1,
+    "category": "PRESIDENTIAL BIRTHPLACES"
+  }
+}

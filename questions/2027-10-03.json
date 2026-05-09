@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-03",
+  "categories": [
+    {
+      "name": "ASSUME THE POSITION",
+      "questions": [
+        {
+          "clue": "Thurman Munson, Roger Bresnahan, Johnny Bench",
+          "choices": [
+            "catchers",
+            "pitchers",
+            "first basemen",
+            "right fielders"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In February 2008 he officially assumed the presidency of Cuba",
+          "choices": [
+            "Fidel Castro",
+            "Che Guevara",
+            "Ra\u00fal Castro",
+            "Manuel Pi\u00f1eiro"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Nelson \"Old Poison\" Stewart, Stan Mikita, Wayne Gretzky",
+          "choices": [
+            "defensemen",
+            "centermen",
+            "goalies",
+            "wingers"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "On this leader's death in 2004, Hahmoud Abbas, also known as Abu Mazen, assumed chairmanship of the PLO",
+          "choices": [
+            "Mahmoud Abbas",
+            "Marwan Barghouthi",
+            "Yasser Arafat",
+            "Saeb Erekat"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "He became King of England in 1399 after forcing his cousin Richard II from the throne",
+          "choices": [
+            "Edward III",
+            "Richard III",
+            "Henry IV",
+            "Henry V"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SING \"OUT\"",
+      "questions": [
+        {
+          "clue": "Song that says, \"I want you to want me, I need you so badly, I can't think of anything but you\"",
+          "choices": [
+            "Going Out Of My Head",
+            "Going Out On A Limb",
+            "Going To The Movies",
+            "Going Overboard"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "1970 Diana Ross hit also heard at the 1984 Summer Olympics opening ceremonies",
+          "choices": [
+            "Ain't No Mountain High Enough",
+            "You're All I Need To Get By",
+            "Reach Out And Touch Somebody's Hand",
+            "Chain Reaction"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 2004 indie rockers Franz Ferdinand declared, \"You say you don't know; I say\" this title",
+          "choices": [
+            "\"Take Me Out\"",
+            "\"Take My Hand\"",
+            "\"Take Me Home\"",
+            "\"Take Me There\""
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Bruno Mars sang, \"You make me feel like I've been\" this title \"for too long\"",
+          "choices": [
+            "Uptown Funk",
+            "Treasure",
+            "Grenade",
+            "\"Locked Out Of Heaven\""
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"We can\" do this \"and get it straight or say goodnight\", sang the Beatles in a 1966 No. 1 hit",
+          "choices": [
+            "Strawberry Fields Forever",
+            "Penny Lane",
+            "Eleanor Rigby",
+            "\"We Can Work It Out\""
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A SALT",
+      "questions": [
+        {
+          "clue": "The gabelle, an unpopular salt tax, was a contributing spark to this upheaval & was repealed in the midst of it, in 1790",
+          "choices": [
+            "the American Revolution",
+            "the Russian Revolution",
+            "the Industrial Revolution",
+            "the French Revolution"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Found in mineral waters, these 5-letter salts are named for the English town where they were first prepared",
+          "choices": [
+            "Epsom",
+            "Baking",
+            "Rock",
+            "Sea"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Savvy cooks prefer this salt, not for religious purposes but because its coarse texture makes it easier to pinch & dispense",
+          "choices": [
+            "sea salt",
+            "table salt",
+            "kosher salt",
+            "fleur de sel"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The combination of ammonium carbonate & perfume sniffed as a stimulant to relieve fainting or headache goes by this 2-word term",
+          "choices": [
+            "smoke detectors",
+            "smelling mice",
+            "smoking pipes",
+            "smelling salts"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "As early as 1727 Johann Schulze discovered the light sensitivity of salts of this element but no images were made",
+          "choices": [
+            "gold",
+            "platinum",
+            "copper",
+            "silver"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Let's assess this one-syllable term referring to the uncertainty an insurance company exposes itself to in a policy",
+    "choices": [
+      "chance",
+      "risk",
+      "gamble",
+      "luck"
+    ],
+    "correctIndex": 1,
+    "category": "DANGEROUS"
+  }
+}

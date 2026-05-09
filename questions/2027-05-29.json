@@ -1,0 +1,207 @@
+{
+  "date": "2027-05-29",
+  "categories": [
+    {
+      "name": "ANAGRAMS OF EACH OTHER",
+      "questions": [
+        {
+          "clue": "To cast a ballot & to refuse to allow something",
+          "choices": [
+            "bill & block",
+            "cast & block",
+            "vote & ban",
+            "vote & veto"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Where cheese is made & where thoughts are jotted",
+          "choices": [
+            "barn & brain",
+            "dairy & diary",
+            "field & file",
+            "cheese & sheet"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A magical elixir & a choice",
+          "choices": [
+            "drink & pick",
+            "brew & choose",
+            "potion & option",
+            "tonic & pick"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "One brightens your face & the other is dumped on you in \"Double Dare\"",
+          "choices": [
+            "glow & goop",
+            "laugh & muck",
+            "smile & slime",
+            "grin & sludge"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "3 responses: showy fall flower, shocking weapon & fixed gaze",
+          "choices": [
+            "roast, rose & stomp",
+            "taser, aster & stare",
+            "steer, teary & tears",
+            "rater, retie & treat"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "U.S. FRANCHISES",
+      "questions": [
+        {
+          "clue": "\"Oh thank heaven for\" this chain of convenience stores & for its Slurpees",
+          "choices": [
+            "8-Easy",
+            "7-Eleven",
+            "7-Ease",
+            "1-Stop"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Completes the name of the business started in 2009 after the founder cracked his cell phone screen: uBreak...",
+          "choices": [
+            "uBreakiFix",
+            "uBreakMyPhone",
+            "uBreakiRepair",
+            "uFixItNow"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Hilton doesn't own Holiday Inn but does own this other \"H\" \"Inn\"",
+          "choices": [
+            "Holiday Inn",
+            "Hampton Inn",
+            "Hilton Hotels",
+            "Best Western"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Out west you'll find this convenience store at Arco stations, morning or night",
+          "choices": [
+            "AM-PM",
+            "7-Eleven",
+            "Wawa",
+            "QuikTrip"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This specialty comes between \"Nothing\" & \"Cakes\" in the punning name of a franchisee",
+          "choices": [
+            "Carrot",
+            "Red Velvet",
+            "Bundt",
+            "Chocolate Chip"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SPICES",
+      "questions": [
+        {
+          "clue": "The essential oil from this member of the myrtle family is used to treat toothaches",
+          "choices": [
+            "mint",
+            "cloves",
+            "sage",
+            "thyme"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Trinidad lacked spices used in India but created its own type of this blend used in the island's unofficial national dish",
+          "choices": [
+            "curry",
+            "garam masala",
+            "berbere",
+            "sambal"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The spices in Starbucks pumpkin spice latte topping are cinnamon, clove, ginger & this",
+          "choices": [
+            "allspice",
+            "cardamom",
+            "nutmeg",
+            "cinnamon"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Curcumin is a yellow pigment of this spice sometimes known as Indian saffron",
+          "choices": [
+            "saffron",
+            "paprika",
+            "turmeric",
+            "ginger"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Ouzo & pastis are flavored with this spice that tastes like licorice or fennel",
+          "choices": [
+            "anise",
+            "fennel",
+            "tarragon",
+            "mint"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Einstein? Beethoven? No thanks, I'd rather hang out with Dean, Sammy, Frank & the rest of this group",
+    "choices": [
+      "the Rat Pack",
+      "the Beatles",
+      "the Rat Boys",
+      "the Lounge Lizards"
+    ],
+    "correctIndex": 0,
+    "category": "THE JEOPARDY! TIME MACHINE"
+  },
+  "bonusRound": {
+    "clue": "Zeus' gift to Epithemeus was this \"all-gifted\" woman",
+    "choices": [
+      "Pandora",
+      "Helen",
+      "Aphrodite",
+      "Circe"
+    ],
+    "correctIndex": 0,
+    "category": "GIFTS"
+  }
+}

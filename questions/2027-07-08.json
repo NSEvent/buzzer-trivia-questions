@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-08",
+  "categories": [
+    {
+      "name": "IT'S ME, MARGARET",
+      "questions": [
+        {
+          "clue": "She entered the House of Commons in 1959; a higher post awaited",
+          "choices": [
+            "(Margaret) Thatcher",
+            "Theresa May",
+            "Angela Merkel",
+            "Indira Gandhi"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Season 2 of this Netflix show featured the lavish wedding of Princess Margaret, played by Vanessa Kirby",
+          "choices": [
+            "Bridgerton",
+            "The Crown",
+            "Downton Abbey",
+            "Victoria"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In 1939 this actress starred with Judy Garland in \"Babes in Arms\" in black-&-white & \"The Wizard of Oz\" in green",
+          "choices": [
+            "(Margaret) Hamilton",
+            "Judy Holliday",
+            "Lucille Ball",
+            "Ginger Rogers"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In \"Animal Crackers\", this actor tells Margaret Dumont, \"Ever since I met you, I've swept you off my feet\"",
+          "choices": [
+            "Harpo Marx",
+            "Kirk Douglas",
+            "Bing Crosby",
+            "Groucho Marx"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In the '90s this comic starred in \"All-American Girl\", the first sitcom about an Asian-American family",
+          "choices": [
+            "(Sandra) Oh",
+            "(Margaret) Cho",
+            "(Gina) Rodriguez",
+            "(Awkwafina) Ng"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE FOREST FOR THE TREES",
+      "questions": [
+        {
+          "clue": "What's left of this forest where Robin Hood hid out is mostly pine trees",
+          "choices": [
+            "Black Forest",
+            "Sherwood Forest",
+            "Olympic National Forest",
+            "Petrified Forest"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Legend says pirates spitting out date seeds gave us Vai, a vast forest of these trees on Crete",
+          "choices": [
+            "eucalyptus",
+            "baobab",
+            "banyan",
+            "palms"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Check out Multnomah Falls, boasting a drop of more than 600 feet in this state's Columbia River Gorge National Scenic Area",
+          "choices": [
+            "Washington",
+            "California",
+            "Oregon",
+            "Montana"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "What-ho! An ex-royal hunting ground & now largely pine plantations, this historic forest lies between Worksop & Nottingham",
+          "choices": [
+            "Sherborne",
+            "Sheringham",
+            "Sherfield",
+            "Sherwood"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "2/3 of Connecticut is largely forested with this tree, such as the \"Charter\" one famous in the state's history",
+          "choices": [
+            "maple",
+            "pine",
+            "elm",
+            "oak"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "KINGLY NICKNAMES",
+      "questions": [
+        {
+          "clue": "The \"Kodak King\"",
+          "choices": [
+            "Coca-Cola King",
+            "Hudson Maxim",
+            "Thomas Edison",
+            "(George) Eastman"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The \"Standard Oil King\"",
+          "choices": [
+            "Cornelius Vanderbilt",
+            "(John D.) Rockefeller",
+            "Andrew Carnegie",
+            "J.P. Morgan"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Among this president's nicknames were Sir Veto & King Andy",
+          "choices": [
+            "Ulysses Grant",
+            "Andrew Johnson",
+            "James Polk",
+            "John Adams"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"King of the Daredevils\"",
+          "choices": [
+            "Bullfrog Bill",
+            "Danger Dan",
+            "Thriller Tom",
+            "Evel Knievel"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Little Richard is the King of Rock 'n' Roll & this \"I Got You (I Feel Good)\" singer is the King of Soul",
+          "choices": [
+            "Ray Charles",
+            "Sam Cooke",
+            "James Brown",
+            "Otis Redding"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Olivia de Havilland lost out on supporting actress to Hattie McDaniel, both nominated for roles in this film",
+    "choices": [
+      "The Wizard of Oz",
+      "Citizen Kane",
+      "Casablanca",
+      "Gone with the Wind"
+    ],
+    "correctIndex": 3,
+    "category": "OSCAR-WINNING ACTRESSES"
+  }
+}

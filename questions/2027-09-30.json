@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-30",
+  "categories": [
+    {
+      "name": "FABRICS",
+      "questions": [
+        {
+          "clue": "Nankeen is a durable, yellowish fabric that was originally handloomed in this country",
+          "choices": [
+            "India",
+            "Japan",
+            "Egypt",
+            "China"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Sateen, which has a satinlike finish, is usually made from this natural fiber",
+          "choices": [
+            "silk",
+            "cotton",
+            "wool",
+            "linen"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In \"The Duel\" by Eugene Field, the gingham dog has a frenzied fight with a cat made of this",
+          "choices": [
+            "flannel",
+            "muslin",
+            "denim",
+            "calico"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Napoleon said, \"What is the throne?\u2014a bit of wood gilded and covered with\" this fabric",
+          "choices": [
+            "velvet",
+            "silk",
+            "satin",
+            "brocade"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Light fabric named for the cobwebs that appear around the end of summer when goose is eaten",
+          "choices": [
+            "chiffon",
+            "gossamer",
+            "muslin",
+            "organza"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "KIDS IN LIT",
+      "questions": [
+        {
+          "clue": "He joined the Auror Department under Kingsley Shacklebolt at age 17",
+          "choices": [
+            "Harry Potter",
+            "Ron Weasley",
+            "Neville Longbottom",
+            "Draco Malfoy"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Violet invents, Klaus remembers everything he reads & Sunny likes to bite things in this book series",
+          "choices": [
+            "The Baby-Sitters Club",
+            "Artemis Fowl",
+            "A Series of Unfortunate Events",
+            "Percy Jackson and the Olympians"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In 2007 Greg Heffley's adventures began in \"A Novel of Cartoons\", book 1 of this series",
+          "choices": [
+            "Dog Man",
+            "Captain Underpants",
+            "Wings of Fire",
+            "Diary of a Wimpy Kid"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "First name of young Master Fowl, the 12-year-old millionaire/genius who kidnaps a fairy",
+          "choices": [
+            "Artemis",
+            "Basil",
+            "Julius",
+            "Marcus"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Atticus Finch's 6-year-old daughter Jean Louise is better known by this nickname",
+          "choices": [
+            "\"Scout\"",
+            "Dill",
+            "Jem",
+            "Calpurnia"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "OPUS & OPERA",
+      "questions": [
+        {
+          "clue": "This meanie in \"Hansel and Gretel\" was written for a mezzo-soprano but is sometimes sung by a tenor",
+          "choices": [
+            "the hunter",
+            "the fairy",
+            "the woodcutter",
+            "the witch"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It's the title of Elgar's Opus 78 & of Andrew Lloyd Webber's musical, Opus No. unknown, featuring actors on roller skates",
+          "choices": [
+            "Cats",
+            "Starlight Express",
+            "Mozart and the Salieri",
+            "The Phantom of the Opera"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "His sole opera, \"Fidelio\", tells a tale of a young woman disguising herself as a boy",
+          "choices": [
+            "Mozart",
+            "Schubert",
+            "Haydn",
+            "Beethoven"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "These are repetitions of a theme with changes; Paganini's Opus 9 is these on \"God Save the King\"",
+          "choices": [
+            "arpeggios",
+            "variations",
+            "cadenzas",
+            "fugues"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "His Opus 68 is \"From the Bohemian Forest\", composed around 1883",
+          "choices": [
+            "Smetana",
+            "Jan\u00e1\u010dek",
+            "Dvo\u0159\u00e1k",
+            "Brahms"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The monument to the Battle of Midway",
+    "choices": [
+      "Boston, Massachusetts",
+      "Annapolis, Maryland",
+      "Denver, Colorado",
+      "Atlanta, Georgia"
+    ],
+    "correctIndex": 1,
+    "category": "IN THE STATE CAPITAL"
+  }
+}

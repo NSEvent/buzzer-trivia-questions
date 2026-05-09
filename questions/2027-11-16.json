@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-16",
+  "categories": [
+    {
+      "name": "CROSSWORD CLUES \"X\"",
+      "questions": [
+        {
+          "clue": "Hater of foreigners (9)",
+          "choices": [
+            "homophobe",
+            "misogynist",
+            "misanthrope",
+            "xenophobe"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Coleridge place (6)",
+          "choices": [
+            "Xanadu",
+            "Camelot",
+            "Avalon",
+            "Eden"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Founder of the extra-ability X-Men (6)",
+          "choices": [
+            "Erik Lensherr",
+            "Scott Summers",
+            "(Charles) Xavier",
+            "Ororo Munroe"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Element discovered by Ramsay & Travers (5)",
+          "choices": [
+            "xenon",
+            "neon",
+            "argon",
+            "krypton"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The hard tissue of a plant (5)",
+          "choices": [
+            "phloem",
+            "xeris",
+            "xylem",
+            "xyloid"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ON THE MONEY",
+      "questions": [
+        {
+          "clue": "Befitting his importance, this 13th century conqueror appears on Mongolia's larger currency",
+          "choices": [
+            "Attila Hun",
+            "Genghis Khan",
+            "Kublai Khan",
+            "Tamerlane"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This building had to appear on a note\u2014it's on the back of the $10 bill",
+          "choices": [
+            "the U.S. Treasury",
+            "the White House",
+            "the Capitol",
+            "the Fed Reserve"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The $10 bill features this hippest of treasury secretaries",
+          "choices": [
+            "Franklin",
+            "Jackson",
+            "Lincoln",
+            "Hamilton"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Cuba features this Marxist revolutionary & buddy of Fidel on its 3-peso note",
+          "choices": [
+            "Fidel Castro",
+            "Che Guevara",
+            "Raul Castro",
+            "Camilo Cienfuegos"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "A Washington, D.C. structure dedicated in 1922 is on the back of this bill",
+          "choices": [
+            "the $5 bill",
+            "the $1 bill",
+            "the $10 bill",
+            "the $20 bill"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE LANGUAGE OF FOOD",
+      "questions": [
+        {
+          "clue": "Humiliated by saying something stupid? You've got this \"on your face\"",
+          "choices": [
+            "chicken",
+            "fish",
+            "egg",
+            "pie"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "\"Life is just a bowl of\" these; one sour type is the dark mahogany red morello",
+          "choices": [
+            "apples",
+            "cherries",
+            "grapes",
+            "oranges"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In Acts, \"The disciples came together to\" do this alliterative thing, eat together",
+          "choices": [
+            "share a meal",
+            "pass the salt",
+            "break bread",
+            "cut the cake"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"The proof is in\" this, which can be thickened with anything from eggs to cornstarch to flour",
+          "choices": [
+            "the soup",
+            "the pudding",
+            "the dessert",
+            "the main course"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "You \"eat\" this 2-word non-treat when forced to apologize; a literal version is the viscera & other deer parts",
+          "choices": [
+            "bitter pills",
+            "hard lessons",
+            "cold turkey",
+            "humble pie"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Dustin Hoffman starred as this controversial entertainer in a 1974 biopic",
+    "choices": [
+      "Bob Dylan",
+      "Jerry Lewis",
+      "Lenny Bruce",
+      "Jack Nicholson"
+    ],
+    "correctIndex": 2,
+    "category": "BRUCE ALMIGHTY"
+  }
+}

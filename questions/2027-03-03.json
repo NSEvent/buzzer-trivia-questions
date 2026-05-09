@@ -1,0 +1,196 @@
+{
+  "date": "2027-03-03",
+  "categories": [
+    {
+      "name": "COUNTIES BY STATE",
+      "questions": [
+        {
+          "clue": "Accomack, Albemarle, Appomattox",
+          "choices": [
+            "Massachusetts",
+            "Pennsylvania",
+            "Virginia",
+            "Connecticut"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Baca, Bent, Boulder",
+          "choices": [
+            "Montana",
+            "Wyoming",
+            "Utah",
+            "Colorado"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Whitley, Wayne, Wabash",
+          "choices": [
+            "Ohio",
+            "Indiana",
+            "Kentucky",
+            "Michigan"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Oswego, Onondaga, Oneida",
+          "choices": [
+            "New Jersey",
+            "Connecticut",
+            "Massachusetts",
+            "New York"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Seneca, Summit, Sandusky",
+          "choices": [
+            "Michigan",
+            "Pennsylvania",
+            "Ohio",
+            "New York"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TIME MAGAZINE'S PERSON OF THE YEAR",
+      "questions": [
+        {
+          "clue": "1981: This electrician & union leader",
+          "choices": [
+            "Solidarity",
+            "Kaczynski",
+            "Mazowiecki",
+            "Wa\u0142\u0119sa"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "2002: WorldCom's Cynthia Cooper, the FBI's Coleen Rowley & Enron's Sherron Watkins, called this type of informer",
+          "choices": [
+            "a snitch",
+            "a rat",
+            "a whistleblower",
+            "a stool pigeon"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "2017: \"The Silence Breakers\" about harassment & assault, including this actress, a singer's daughter",
+          "choices": [
+            "Gwyneth Paltrow",
+            "Ashley Judd",
+            "Mindy Kaling",
+            "Kerry Washington"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "1968: The astronauts of this Apollo mission, the first manned one to orbit the Moon",
+          "choices": [
+            "Apollo 11",
+            "Apollo 8",
+            "Apollo 13",
+            "Apollo 10"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Among the controversial choices: 1938, Hitler; 1939 & '42, this man",
+          "choices": [
+            "Mussolini",
+            "Churchill",
+            "Roosevelt",
+            "Stalin"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "GET INTO SHAPE",
+      "questions": [
+        {
+          "clue": "Shape or name of the most famous building in the 20301-1400 zip code",
+          "choices": [
+            "the Pentagon",
+            "the Empire State",
+            "the White House",
+            "the Capitol"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "As of fall 2002 Whoopi is no longer the center one",
+          "choices": [
+            "triangle",
+            "circle",
+            "square",
+            "rectangle"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In the Old West, you did this to \"the wagons\" when there was an attack",
+          "choices": [
+            "burn",
+            "abandon",
+            "circle",
+            "repair"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "If someone needs change for an icosahedron, a polyhedron with this many faces, you can give him 2 decahedrons",
+          "choices": [
+            "20",
+            "10",
+            "12",
+            "24"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Clavate is club-shaped, & if hit with a club, you might see shapes that are stellate, meaning like these",
+          "choices": [
+            "crosses",
+            "diamonds",
+            "circles",
+            "stars"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "1776: Adam Weishaupt forms this \"enlightened\" Bavarian secret society",
+    "choices": [
+      "the Illuminati",
+      "the Freemasons",
+      "the Rosicrucians",
+      "the Skull and Bones"
+    ],
+    "correctIndex": 0,
+    "category": "IT HAPPENED IN MAY"
+  }
+}

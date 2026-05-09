@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-08",
+  "categories": [
+    {
+      "name": "LITERARY CANNIBALS",
+      "questions": [
+        {
+          "clue": "Sondheim show in which A. Lansbury suggested \"Shepherd's pie peppered with actual shepherd on top\"",
+          "choices": [
+            "Sweeney Todd",
+            "Les Mis\u00e9rables",
+            "The Phantom of the Opera",
+            "Cabaret"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Saying he'd \"cannibalized\" them, he used his own short stories as basis for his Philip Marlowe novels",
+          "choices": [
+            "Dashiell Hammett",
+            "Ross Macdonald",
+            "Raymond Chandler",
+            "Mickey Spillane"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Sebastian Venable became a street gang's seaside snack in this Tennessee Williams play",
+          "choices": [
+            "A Streetcar Named Desire",
+            "The Glass Menagerie",
+            "Suddenly Last Summer",
+            "Cat on a Hot Tin Roof"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "She wrote \"Cannibals & Missionaries\", but was better known for \"The Group\"",
+          "choices": [
+            "Jillian Kennedy",
+            "Ethel Mannin",
+            "Mary McCarthy",
+            "Kathleen Norris"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The witch fattened this boy up for her \"Grimm\" dinner, but Gretel only got to eat crab-shells",
+          "choices": [
+            "Gretel",
+            "Rapunzel",
+            "Snow White",
+            "Hansel"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SONG LYRICS",
+      "questions": [
+        {
+          "clue": "When he's \"Hoppin' down the bunny trail, hippity hoppin' Easter's on its way\"",
+          "choices": [
+            "Peter Cottontail",
+            "Rabbit",
+            "Easter Bunny",
+            "Peter Piper"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In \"Oklahoma!\" Laurey sings, \"Out of my dreams & into\" these \"I long to fly\"",
+          "choices": [
+            "reality",
+            "your heart",
+            "your arms",
+            "my arms"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"Mine eyes have seen the glory of\" this 5-word phrase",
+          "choices": [
+            "glory of the Lord",
+            "the judgment day",
+            "the end of time",
+            "the coming of the Lord"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "\"Another bride, another June, another sunny honeymoon; another season, another reason\" for doin' this",
+          "choices": [
+            "Makin' Love",
+            "Makin' Memories",
+            "\"Makin' Whoopee\"",
+            "Makin' Music"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Saturday night is the loneliest night in the week... The night my sweetie and I used to\" do this",
+          "choices": [
+            "dancing in the street",
+            "dancing in the dark",
+            "dancing till dawn",
+            "dancing cheek to cheek"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FAMILIAR NUMBERS",
+      "questions": [
+        {
+          "clue": "Title number of Truffaut \"Blows\" in a 1959 film",
+          "choices": [
+            "300",
+            "500",
+            "400",
+            "100"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Call toll-free to name this No. of Norse warriors that could pass side-by-side through a door in mythical Valhalla",
+          "choices": [
+            "600",
+            "800",
+            "900",
+            "700"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Poetically, \"Into the jaws of death, into the mouth of hell rode\" this number",
+          "choices": [
+            "the 100",
+            "the 300",
+            "the 500",
+            "the 600"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In a recurring sketch, Conan O'Brien predicts the future \"In the year\" this",
+          "choices": [
+            "2001",
+            "2002",
+            "2003",
+            "2000"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Patricia Schultz has prepared a long bucket list with her book this many \"Places to See Before You Die\"",
+          "choices": [
+            "1,000",
+            "500",
+            "750",
+            "1,500"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Last name of the singer of \"What a Wonderful World\" in '67 & the man who got a moon's eye view of it in '69",
+    "choices": [
+      "Armstrong",
+      "Collins",
+      "Glover",
+      "Parker"
+    ],
+    "correctIndex": 0,
+    "category": "THIS OR THAT"
+  }
+}

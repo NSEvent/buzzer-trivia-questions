@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-10",
+  "categories": [
+    {
+      "name": "WEDDING SONGS",
+      "questions": [
+        {
+          "clue": "\"Tenerife Sea\" & \"Thinking Out Loud\" by this redheaded Brit have fast become top choices for first dances",
+          "choices": [
+            "Sam Smith",
+            "Ed Sheeran",
+            "James Blunt",
+            "Harry Styles"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This Percy Sledge No. 1 hit is a perennial favorite at weddings",
+          "choices": [
+            "Unchained Melody",
+            "At Last",
+            "\"When A Man Loves A Woman\"",
+            "Can't Help Falling in Love"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"Everybody clap your\" buzzer & name this song by DJ Casper that has grandmas criss-crossing & foot stomping at weddings",
+          "choices": [
+            "the Macarena",
+            "the Worm",
+            "the \"Cha Cha Slide\"",
+            "the Electric Slide"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A popular choice for \"Twilight\" fans is this one by Christina Perri with a perfectly \"millennial\" title",
+          "choices": [
+            "\"A Thousand Years\"",
+            "All of Me",
+            "Make You Feel My Love",
+            "Lover"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This song by The Isley Brothers began as an improvised call-&-response riff on their cover of \"Lonely Teardrops\"",
+          "choices": [
+            "Twist and Shout",
+            "I Want You Back",
+            "\"Shout\"",
+            "My Girl"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MOVIE SOUNDTRACKS",
+      "questions": [
+        {
+          "clue": "Cameron Crowe created the \"Singles\" movie soundtrack with grunge music he discovered in this city",
+          "choices": [
+            "Portland",
+            "Seattle",
+            "San Francisco",
+            "Los Angeles"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Simple Minds' \"Don't You (Forget About Me)\" is a No. 1 hit from the soundtrack to this 1985 John Hughes film",
+          "choices": [
+            "Ferris Bueller's Day Off",
+            "Sixteen Candles",
+            "Say Anything",
+            "The Breakfast Club"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "(This is Alison Krauss.) 3 of my songs, including \"I'll Fly Away\", are on the multi-Platinum soundtrack to this Coen Brothers film",
+          "choices": [
+            "Fargo",
+            "O Brother, Where Art Thou",
+            "No Country for Old Men",
+            "True Grit"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This director of 1978's \"Halloween\" adapted the film's iconic theme song for the 2018 sequel with son Cody",
+          "choices": [
+            "Curtis Hanson",
+            "David Fincher",
+            "John Carpenter",
+            "Wes Craven"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The soundtrack for this 2017 Hugh Jackman movie was in the top 10 for more than 30 weeks",
+          "choices": [
+            "Bohemian Rhapsody",
+            "Rocketman",
+            "The Greatest Showman",
+            "Mamma Mia!"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TV ACTORS & ROLES",
+      "questions": [
+        {
+          "clue": "Oscar winner Jose Ferrer plays snooty Stephanie's snobby daddy on this sitcom",
+          "choices": [
+            "The Mary Tyler Moore Show",
+            "Rhoda",
+            "Newhart",
+            "Bob Newhart Show"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "(Hi, I'm Richard Kind of Spin City.) I played Mark, the ex-husband of Jamie Buchman's friend Fran, on this NBC sitcom",
+          "choices": [
+            "Friends",
+            "Seinfeld",
+            "Mad About You",
+            "Frasier"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "He was Karen Arnold's boyfriend on \"The Wonder Years\" before playing Ross on \"Friends\"",
+          "choices": [
+            "Matthew Perry",
+            "Courteney Cox",
+            "Lisa Kudrow",
+            "David Schwimmer"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1991 Emmys went to Patricia Wettig & Timothy Busfield, who played couple Nancy & Elliot on this show",
+          "choices": [
+            "thirteen",
+            "six feet under",
+            "grey's anatomy",
+            "thirtysomething"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1949 this \"60 Minutes\" reporter was an actor; he played Lt. Kidd on \"Stand By for Crime\"",
+          "choices": [
+            "Dan Rather",
+            "Mike Wallace",
+            "Bob Schieffer",
+            "Ed Bradley"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "State this man whose jersey was retired in 1997",
+    "choices": [
+      "Joe Montana",
+      "Terry Bradshaw",
+      "Tom Brady",
+      "Peyton Manning"
+    ],
+    "correctIndex": 0,
+    "category": "RETIRED JERSEYS"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2027-12-04",
+  "categories": [
+    {
+      "name": "CONQUERORS",
+      "questions": [
+        {
+          "clue": "In 1099, this group under Godfrey of Bouillon captured Jerusalem",
+          "choices": [
+            "the Saracens",
+            "the Crusaders",
+            "the Byzantines",
+            "the Ottomans"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This Spaniard's 1533 execution of Atahualpa, the Incan leader, led to Spain's conquest of Peru",
+          "choices": [
+            "Cortez",
+            "Balboa",
+            "Magellan",
+            "Pizarro"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Noted for his cruelty, this first Russian czar conquered much of Siberia",
+          "choices": [
+            "Peter the Great",
+            "Ivan III",
+            "Catherine the Great",
+            "Ivan the Terrible"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Under the rule of this \"terrible\" czar, Russia expanded its territory into Siberia",
+          "choices": [
+            "Ivan",
+            "Peter",
+            "Vasily",
+            "Boris"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In 1398 Tamerlane not only conquered Delhi in this country but burned it down",
+          "choices": [
+            "China",
+            "Pakistan",
+            "Afghanistan",
+            "India"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "REMEMBERING THE '90s",
+      "questions": [
+        {
+          "clue": "The Gulf War was triggered by the occupation of this country",
+          "choices": [
+            "Iraq",
+            "Iran",
+            "Kuwait",
+            "Saudi Arabia"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This blonde proved that \"Les\" is more when she joined the \"60 Minutes\" team in 1991",
+          "choices": [
+            "(Mike) Wallace",
+            "(Morley) Safer",
+            "(Ed) Bradley",
+            "(Leslie) Stahl"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 1990, 100 years after this artist's suicide, medical researchers said that he may have suffered from Meniere's disease",
+          "choices": [
+            "Monet",
+            "van Gogh",
+            "Degas",
+            "Cezanne"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 1999 she was the commencement speaker at CCNY (perhaps lining up some votes for 2000)",
+          "choices": [
+            "Al Gore",
+            "Hillary Clinton",
+            "George H.W. Bush",
+            "Ralph Nader"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Introduced in 1990, it's the bestselling SUV of the decade",
+          "choices": [
+            "Jeep Cherokee",
+            "Chevy Blazer",
+            "Toyota 4Runner",
+            "Ford Explorer"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "I'LL TAKE MANHATTAN",
+      "questions": [
+        {
+          "clue": "When dining at this Oscar-winning actor's Tribeca Grill, look for the artworks by his father, Robert, senior",
+          "choices": [
+            "Jack Nicholson",
+            "Robert De Niro",
+            "Morgan Freeman",
+            "Al Pacino"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Frank Lloyd Wright designed this unusual circular museum on Fifth Avenue",
+          "choices": [
+            "Guggenheim",
+            "Whitney",
+            "MoMA",
+            "Metropolitan Museum"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew reports from Times Square in New York.) In the Roaring '20s, Times Square nightclubs included the El Fey, hosted by this gal from Waco",
+          "choices": [
+            "Mae West",
+            "Lily Tomlin",
+            "Groucho Marx",
+            "Texas Guinan"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Take in a show at the Public Theater or Shakespeare in the Park, both founded by this producer/director",
+          "choices": [
+            "Lin-Manuel Miranda",
+            "Arthur Miller",
+            "Oskar Eustis",
+            "(Joseph) Papp"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The Delacorte Theater in this park is the summer home of the New York Shakespeare Festival",
+          "choices": [
+            "Prospect Park",
+            "Riverside Park",
+            "Central Park",
+            "Battery Park"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A monument marks the spot where this \"colorful\" 2-word object was driven into the ground on May 10, 1869 in Utah",
+    "choices": [
+      "the golden spike",
+      "the silver spike",
+      "the final rivet",
+      "the iron track"
+    ],
+    "correctIndex": 0,
+    "category": "THE WESTERN U.S."
+  },
+  "bonusRound": {
+    "clue": "Hurricanes don't hit our middle, as this \"effect\" of the rotating earth on wind flow increases the further you get from the equator",
+    "choices": [
+      "the Doppler",
+      "the Foucault",
+      "the Bernoulli",
+      "the Coriolis"
+    ],
+    "correctIndex": 3,
+    "category": "EARTH"
+  }
+}

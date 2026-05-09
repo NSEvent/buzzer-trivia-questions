@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-05",
+  "categories": [
+    {
+      "name": "INTERIORS",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "A tieback is a strip of material used to tie back one of these",
+          "choices": [
+            "Shade",
+            "Blind",
+            "Shutter",
+            "Curtain"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 400,
+          "clue": "This bed with scroll-like ends was named for its resemblance to a form of winter transportation",
+          "choices": [
+            "Canopy bed",
+            "Platform bed",
+            "Trundle bed",
+            "Sleigh bed"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 600,
+          "clue": "This suite at the Regent Beverly Wilshire boasts 3 sitting rooms, a dining room & sunken marble tubs",
+          "choices": [
+            "the Royal Suite",
+            "the Penthouse Suite",
+            "the Presidential Suite",
+            "the Ambassador Suite"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "(Hi, I'm Paige Davis, host of TLC's \"Trading Spaces\") Use a kind of map called a bagua to get your space in balance according to this system",
+          "choices": [
+            "Vastu Shastra",
+            "Wabi-sabi",
+            "Hygge",
+            "feng shui"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 1000,
+          "clue": "A synonym for \"feast\" is found in the name of this upholstered bench usually placed along a wall",
+          "choices": [
+            "banquette",
+            "Ottoman",
+            "Settee",
+            "Chaise longue"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "name": "THE DREADED OPERA CATEGORY",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "In Rossini's take on this tale, Alex Trebek's favorite opera, not a fairy but the prince's tutor gets the heroine to the ball",
+          "choices": [
+            "Cinderella",
+            "Sleeping Beauty",
+            "Snow White",
+            "Rapunzel"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "value": 400,
+          "clue": "French for \"again\", it's the word audiences shout to get a diva to sing one more time",
+          "choices": [
+            "Bis!",
+            "Bravo!",
+            "\\\"Encore!\\\"",
+            "Magnifique!"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "In \"The Maid of Orleans\", this saint has a lot at stake; by the opera's end, she's tied to a stake",
+          "choices": [
+            "Saint Catherine",
+            "Saint Cecilia",
+            "Saint Agnes",
+            "Joan of Arc"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "value": 800,
+          "clue": "The land on which this London \"Garden\" opera house sits was once part of a monastery",
+          "choices": [
+            "Sadler's Wells",
+            "English National Opera",
+            "Covent Garden",
+            "Royal Albert Hall"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "Characters in this operetta include captain Richard Warrington & Marietta d'Altena",
+          "choices": [
+            "The Merry Widow",
+            "Die Fledermaus",
+            "The Pirates of Penzance",
+            "Naughty Marietta"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "name": "BIRDIES",
+      "questions": [
+        {
+          "value": 200,
+          "clue": "World Book calls it the \"night watchman of our gardens\\\"",
+          "choices": [
+            "the nighthawk",
+            "the nightjar",
+            "the owl",
+            "the nightingale"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 400,
+          "clue": "This high-altitude scavenger perches atop Ecuador's flag",
+          "choices": [
+            "the quetzal",
+            "the toucan",
+            "the condor",
+            "the harpy eagle"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 600,
+          "clue": "The Egyptian plover is also called this \"bird\", as it is known to clean food from the teeth of that reptile",
+          "choices": [
+            "a lizard bird",
+            "a river bird",
+            "a crocodile bird",
+            "a gator bird"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 800,
+          "clue": "\\\"All the little birds on Jaybird Street love to hear\" this bird \"go tweet, tweet, tweet\\\"",
+          "choices": [
+            "When the Red, Red Robin",
+            "Blackbird",
+            "\\\"Rockin' Robin\\\"",
+            "Fly Like an Eagle"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "value": 1000,
+          "clue": "This Australian kingfisher is sometimes called a laughing jackass",
+          "choices": [
+            "the cassowary",
+            "the lorikeet",
+            "the kookaburra",
+            "the galah"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "category": "PARIS",
+    "clue": "Napoleon's tomb is in this building, built by Louis XIV for disabled soldiers",
+    "choices": [
+      "(H\u00f4tel des) Invalides",
+      "the Panth\u00e9on",
+      "the Grand Palais",
+      "the Palais Royal"
+    ],
+    "correctIndex": 0
+  }
+}

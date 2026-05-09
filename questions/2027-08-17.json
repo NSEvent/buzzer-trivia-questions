@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-17",
+  "categories": [
+    {
+      "name": "19th CENTURY PERSONALITIES",
+      "questions": [
+        {
+          "clue": "In 1898 William Henry Pickering discovered Phoebe, the ninth satellite of this ringed planet",
+          "choices": [
+            "Jupiter",
+            "Uranus",
+            "Neptune",
+            "Saturn"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Appropriately, this Bohemian composer wrote his symphony \"From the New World\" while living in the U.S.",
+          "choices": [
+            "Smetana",
+            "Dvo\u0159\u00e1k",
+            "Mussorgsky",
+            "Grieg"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "When the Paris stock exchange crashed in 1883, Paul Gauguin lost this day job, which changed his life",
+          "choices": [
+            "a banker",
+            "a broker",
+            "a stockbroker",
+            "a dealer"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In 1849 this \"fishy\" guy who would later be on the $10,000 bill was elected to the U.S. Senate",
+          "choices": [
+            "Salmon P. Adams",
+            "Simon P. Chase",
+            "Samuel P. Chase",
+            "Salmon P. Chase"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This Hungarian piano virtuoso was scandalously involved with the married Princess Carolyne Sayn-Wittgenstein",
+          "choices": [
+            "Robert Schumann",
+            "Johannes Brahms",
+            "Fr\u00e9d\u00e9ric Chopin",
+            "Franz Liszt"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BRAZIL",
+      "questions": [
+        {
+          "clue": "Francisco de Orellana said he ran into this race of warrior women while looking for El Dorado's gold",
+          "choices": [
+            "Amazons",
+            "Valkyries",
+            "Sirens",
+            "Pardons"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Fodor's calls it the \"largest, wealthiest metropolis in all of South America\"",
+          "choices": [
+            "Buenos Aires",
+            "Rio de Janeiro",
+            "Sao Paulo",
+            "Bogot\u00e1"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "What the Brazilians call \"futebol\" we call this",
+          "choices": [
+            "football",
+            "soccer",
+            "rugby",
+            "cricket"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Between 1960 & 1980 the population of this city went from under 150,000 to more than 1,000,000",
+          "choices": [
+            "Cuiaba",
+            "Brasilia",
+            "Campo Grande",
+            "Goi\u00e2nia"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "A Brazilian bidding you \"bom dia\" is telling you this in Portuguese, the official language",
+          "choices": [
+            "good night",
+            "good day (good morning)",
+            "good luck",
+            "good job"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"M\"ISCELLANY",
+      "questions": [
+        {
+          "clue": "The gel type of this beauty treatment resists chipping longer",
+          "choices": [
+            "pedicure",
+            "mannequin",
+            "manicure",
+            "maneuver"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "A Boy Scout wears the ones he's earned on a sash",
+          "choices": [
+            "rank patches",
+            "uniform pins",
+            "merit badges",
+            "honor cords"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Prepare meat for grilling using rubs, brines or perhaps a red chile-citrus one of these",
+          "choices": [
+            "a brine",
+            "a rub",
+            "a marinade",
+            "a glaze"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "It's no illusion: In 2024 this hotel on the Las Vegas Strip shut its doors for good to make way for a new Hard Rock Hotel",
+          "choices": [
+            "the Bellagio",
+            "the Venetian",
+            "the Excalibur",
+            "the Mirage"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Latin for \"to send\" contributed to this word meaning to emancipate someone from slavery",
+          "choices": [
+            "manumission",
+            "manumit",
+            "emancipate",
+            "liberate"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "It's named for Lady Penh, who found a bronze Buddha there",
+    "choices": [
+      "Vientiane",
+      "Bangkok",
+      "Siem Reap",
+      "Phnom Penh"
+    ],
+    "correctIndex": 3,
+    "category": "FARAWAY PLACES"
+  }
+}

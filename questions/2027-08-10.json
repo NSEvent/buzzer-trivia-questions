@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-10",
+  "categories": [
+    {
+      "name": "THE LETTER OF THE LAW",
+      "questions": [
+        {
+          "clue": "M: If it can go wrong, it will",
+          "choices": [
+            "Hick's Law",
+            "Hanlon's Razor",
+            "Parkinson's Law",
+            "Murphy's law"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "B: Chemistry law saying pressure of a gas at constant temperature varies inversely with volume",
+          "choices": [
+            "Charles'",
+            "Gay-Lussac's",
+            "Amontons'",
+            "Boyle's"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "F: Type of accountant who investigates the money side of crimes & tells the court about it",
+          "choices": [
+            "forensic",
+            "criminal",
+            "tax",
+            "public"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "S: From the Latin for \"to furnish\", it means to persuade someone to commit perjury",
+          "choices": [
+            "subdue",
+            "suborn",
+            "sublime",
+            "submerge"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "M: 1996 federal law requiring law enforcement to notify communities of sex offenders",
+          "choices": [
+            "Megan's Law",
+            "Julian's Law",
+            "Molly's Statute",
+            "Madison's Act"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "KISS MY GRITS!",
+      "questions": [
+        {
+          "clue": "Developed in Louisiana, praline is a sweet traditionally made with brown sugar & these nuts",
+          "choices": [
+            "peculiars",
+            "peculiarities",
+            "pecans",
+            "peculiaries"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This green pod, often a gumbo ingredient, is also called gumbo",
+          "choices": [
+            "chili pepper",
+            "okra",
+            "bell pepper",
+            "green bean"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The hip-hop group that sings \"Let's Get It Started\" shares its name with this ingredient of Hoppin' John",
+          "choices": [
+            "the White Eyed Peas",
+            "the Blue Eyed Peas",
+            "the Gray Eyed Peas",
+            "the Black Eyed Peas"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "It's said that yapping dogs were fed these fried dumplings to keep quiet, hence their name",
+          "choices": [
+            "quiet treats",
+            "hush puppies",
+            "silence buns",
+            "hush biscuits"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This \"colorful\" southern gravy is made from ham drippings, hot coffee & water",
+          "choices": [
+            "blue-eye (blue gravy)",
+            "red-eye (red gravy)",
+            "black-eye (black gravy)",
+            "green-eye (green gravy)"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "UNDERWATER",
+      "questions": [
+        {
+          "clue": "These fabled creatures who are part fish lure men to live with them underwater",
+          "choices": [
+            "sirens",
+            "mermaids",
+            "nereids",
+            "tritons"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "An underwater memorial to the USS Arizona is found at this Honolulu location",
+          "choices": [
+            "Ford Island",
+            "Pearl Harbor",
+            "Battleship Row",
+            "Waiowulu Bay"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Sharks Underwater Grill is a dining experience at this theme park in Orlando",
+          "choices": [
+            "Disney World",
+            "Universal Studios",
+            "Sea World",
+            "Busch Gardens"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Visit this \"Dry\" park in the straits of Florida & get wet in its many snorkeling adventures",
+          "choices": [
+            "Everglades",
+            "Dry Tortugas",
+            "Big Cypress",
+            "Biscayne"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "He's written over 20 books featuring underwater adventurer Dirk Pitt, including 2014's \"Havana Storm\"",
+          "choices": [
+            "(Clive) Cussler",
+            "James Clavell",
+            "Tom Clancy",
+            "Clive Barker"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In an ordered pair, the first value is the abscissa, the second value is called this",
+    "choices": [
+      "the ordinate",
+      "the abscissa",
+      "the axis",
+      "the origin"
+    ],
+    "correctIndex": 0,
+    "category": "ALGEBRA"
+  }
+}

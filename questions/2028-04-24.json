@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-24",
+  "categories": [
+    {
+      "name": "AUSTRIA",
+      "questions": [
+        {
+          "clue": "Though a Western nation, Austria's coat of arms has an eagle w/these 2 Soviet symbols in its talons",
+          "choices": [
+            "the cross & star",
+            "the hammer & sickle",
+            "the lion & shield",
+            "the crown & sword"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The Bundesrat & the Nationalrat aren't Austria's mascots but these",
+          "choices": [
+            "Chancellery Buildings",
+            "Imperial Palaces",
+            "State Museums",
+            "Houses of Parliament"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "These birds return annually to roost in their chimney nests in the city of Rust",
+          "choices": [
+            "swallows",
+            "storks",
+            "sparrows",
+            "pigeons"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "If you want to be served a breaded veal cutlet in an Austrian restaurant, ask for this",
+          "choices": [
+            "wiener schnitzel",
+            "schnitzel wienar",
+            "wiener cutlet",
+            "wiener style"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Austria's basic unit of currency, it sounds just like an obsolete coin in Britain",
+          "choices": [
+            "Taler",
+            "Florin",
+            "Schilling",
+            "Gulden"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "EUROPEAN ART",
+      "questions": [
+        {
+          "clue": "An 1898 exhibit in Amsterdam devoted to this old master has been called the first blockbuster art show",
+          "choices": [
+            "Vermeer",
+            "Rubens",
+            "Rembrandt",
+            "Hals"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Bernini's 1623 statue of this Biblical hero has his privates covered, unlike Donatello's or Michelangelo's",
+          "choices": [
+            "Goliath",
+            "Samson",
+            "John",
+            "\"David\""
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "At St. Peter's Basilica, you can see this Michelangelo masterpiece carved from a single block of marble",
+          "choices": [
+            "the Pieta",
+            "the Moses",
+            "the Dying Slave",
+            "the Last Judgment"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This \"Liberty Leading the People\" artist also painted \"The Battle of Poitiers\"",
+          "choices": [
+            "Delacroix",
+            "Monet",
+            "Manet",
+            "Renoir"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "When you think of Renaissance art, the Italian name of this masterpiece should spring to mind",
+          "choices": [
+            "Guernica",
+            "La primavera",
+            "The Persistence of Memory",
+            "Las Meninas"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "KENNEDY CENTER HONOREES",
+      "questions": [
+        {
+          "clue": "As of 1995 he's been the only talk show host honored",
+          "choices": [
+            "David Letterman",
+            "Jay Leno",
+            "Arsenio Hall",
+            "Johnny Carson"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "There were good vibes all around when this jazz musician picked up his award in 1992",
+          "choices": [
+            "Miles Davis",
+            "Dizzy Gillespie",
+            "Louis Armstrong",
+            "Lionel Hampton"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "She was a child star, an ambassador & in 1998, a Kennedy Center honoree",
+          "choices": [
+            "Shirley Temple Black",
+            "Audrey Hepburn",
+            "Grace Kelly",
+            "Jane Fonda"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In 1984 children from the United Nations School Chorus sang the praises of this beloved comedian & actor",
+          "choices": [
+            "Danny Kaye",
+            "Bob Hope",
+            "Jack Benny",
+            "Red Skelton"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In December 1994 this political protester & former member of The Weavers picked up an award",
+          "choices": [
+            "Pete Seeger",
+            "Woody Guthrie",
+            "Peggy Seeger",
+            "Joan Baez"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Jerk of all grades & messer of nine",
+    "choices": [
+      "Jack of all trades & master of some",
+      "Jack of all trades & master of none",
+      "Jack of all trades & master of many",
+      "Jack of all trades & master of one"
+    ],
+    "correctIndex": 1,
+    "category": "FIX THE PROVERB"
+  }
+}

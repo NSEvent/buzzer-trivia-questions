@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-03",
+  "categories": [
+    {
+      "name": "4-LETTER WORDS WITH 3 VOWELS",
+      "questions": [
+        {
+          "clue": "French for \"handsome\", he's a girl's boyfriend",
+          "choices": [
+            "a pal",
+            "a mate",
+            "a beau",
+            "a suitor"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Your invisible glow",
+          "choices": [
+            "aura",
+            "a halo",
+            "a glow",
+            "a light"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Pupu platters aplenty at this party",
+          "choices": [
+            "a picnic",
+            "a banquet",
+            "a wedding",
+            "a luau"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A blunted dueling sword for competition",
+          "choices": [
+            "a foil",
+            "an epee",
+            "a rapier",
+            "a saber"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "An orchestra player blows a 3-octave range on this",
+          "choices": [
+            "an oboe",
+            "a flute",
+            "a horn",
+            "a pipe"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE 9th CENTURY",
+      "questions": [
+        {
+          "clue": "In 801 Louis, son of this Frankish king conquered Barcelona",
+          "choices": [
+            "Charlemagne",
+            "Clovis",
+            "Charibert",
+            "Dagobert"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Around 895 this group led by Arpad moved into the Hungarian plain",
+          "choices": [
+            "Vikings",
+            "Magyars",
+            "Huns",
+            "Avars"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This country's Harold I consolidated his rule with a victory at Hafrs Fjord in 872",
+          "choices": [
+            "Sweden",
+            "Norway",
+            "Denmark",
+            "Iceland"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This English king known as \"the Great\" succeeded his brother Ethelred in 871 & ruled for 28 years",
+          "choices": [
+            "Edward",
+            "Alfred",
+            "Cnut",
+            "Harold"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The University of al-Karaouine in this Moroccan city known for its hats was founded in 859 & is the world's oldest",
+          "choices": [
+            "Casablanca",
+            "Marrakesh",
+            "Fez",
+            "Tunis"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FANTASTIC BEASTS",
+      "questions": [
+        {
+          "clue": "This creature was spawned when Perseus decapitated Medusa",
+          "choices": [
+            "Chimera",
+            "Sphinx",
+            "Pegasus",
+            "Cerberus"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Delphyne was a female dragon whose job it was to guard this person at Delphi",
+          "choices": [
+            "Apollo",
+            "the Oracle",
+            "Zeus",
+            "Hermes"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The puk is a small, household one of these fire-breathers that protects the home & brings treasure to its master",
+          "choices": [
+            "a dragon",
+            "a wyvern",
+            "a drake",
+            "a basilisk"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Hercules had to deal with the quickness of the Ceryneian hind, a type of this animal",
+          "choices": [
+            "a deer",
+            "a hare",
+            "a goat",
+            "a elk"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "In Hindu mythology Hanuman is a devoted helper of the god Rama & the king of these creatures",
+          "choices": [
+            "a monkey",
+            "a bear",
+            "a lemur",
+            "a baboon"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A geisha's fee is figured in \"sticks\", about a stick an hour; the term originated as the time it took a stick of this to burn",
+    "choices": [
+      "incense",
+      "candle",
+      "taper",
+      "wax"
+    ],
+    "correctIndex": 0,
+    "category": "IT'S ABOUT TIME"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-09",
+  "categories": [
+    {
+      "name": "THE SENATE",
+      "questions": [
+        {
+          "clue": "This long-winded delaying tactic can be used in the Senate, but not in the House",
+          "choices": [
+            "cloture",
+            "hold",
+            "filibuster",
+            "rider"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Longtime foe of gov't waste, his congressional directory biography reads it its entirety, \"Wisconsin\"",
+          "choices": [
+            "Jackson",
+            "Kaiser",
+            "McCarren",
+            "Proxmire"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This Mississippi Senator is #1 on seniority list, having served since Nov. 5, 1947",
+          "choices": [
+            "Strom Thurmond",
+            "Richard Russell",
+            "(John) Stennis",
+            "John Sparkman"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Senate Minority Leader Bob Dole is this state's senior Senator",
+          "choices": [
+            "California",
+            "Kansas",
+            "Ohio",
+            "Michigan"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Length of a Senate term",
+          "choices": [
+            "4 years",
+            "8 years",
+            "6 years",
+            "2 years"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MUSIC VIDEOS",
+      "questions": [
+        {
+          "clue": "The 2-hour video of their \"Invisible Touch Tour\" was made at London's Wembley Stadium",
+          "choices": [
+            "Queen",
+            "Pink Floyd",
+            "The Rolling Stones",
+            "Genesis"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This group uses rap music on their \"Paul's Boutique\" video, called a pop music equivalent of a maelstrom",
+          "choices": [
+            "Beastie Boys",
+            "Run-DMC",
+            "A Tribe Called Quest",
+            "Public Enemy"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This former \"Moesha\" star rides around on the bus in her \"Who Is She 2 U\" video",
+          "choices": [
+            "Brandy",
+            "Tatyana Ali",
+            "Brandy Norwood",
+            "Keshia Knight Pulliam"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Her \"Never Too Far\" video sure \"Glitter\"ed",
+          "choices": [
+            "Britney Spears",
+            "Mariah Carey",
+            "Christina Aguilera",
+            "Janet Jackson"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In this group's \"Emotion\" video, one of the members pours bleach over her ex's clothes",
+          "choices": [
+            "TLC",
+            "Spice Girls",
+            "Destiny's Child",
+            "The Pussycat Dolls"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BY HALVES",
+      "questions": [
+        {
+          "clue": "Nickname of Melissa Gilbert's character on \"Little House on the Prairie\"",
+          "choices": [
+            "Laura",
+            "Carrie",
+            "Mary",
+            "Half Pint"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A \"half\" this is a dive that includes a half backward somersault & ends facing the board",
+          "choices": [
+            "kick",
+            "flip",
+            "roll",
+            "turn"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "According to Tennyson, the Light Brigade moved into the Valley of Death by these increments",
+          "choices": [
+            "full miles",
+            "half-leagues",
+            "quarter leagues",
+            "double leagues"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "For thorium-234 it's about 25 days; for thorium-232, about 14 billion years",
+          "choices": [
+            "half-life",
+            "full-cycle",
+            "decay-rate",
+            "atomic-weight"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Increments by which the Light Brigade charged into the Valley of Death",
+          "choices": [
+            "half a league (onward)",
+            "half a mile forward",
+            "half a league back",
+            "half a league left"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The movement of a soul from one body to another & a flight from, say, New York to Dublin",
+    "choices": [
+      "transatlantic & transmigration",
+      "transoceanic & transmigration",
+      "transatlantic & transmission",
+      "transatlantic & transmutation"
+    ],
+    "correctIndex": 0,
+    "category": "PREFIXED PAIRS"
+  }
+}

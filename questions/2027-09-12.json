@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-12",
+  "categories": [
+    {
+      "name": "OH, THE HUMANITIES!",
+      "questions": [
+        {
+          "clue": "Last name of Lucian, a certain psychoanalyst's grandson; his '50s paintings keyed on realistic nudes, for some reason",
+          "choices": [
+            "Jung",
+            "Adler",
+            "Lacan",
+            "Freud"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Keep incredibly calm & carry on; Britannica says \"tranquillity of mind\" is key to this ancient Greek philosophy",
+          "choices": [
+            "Epicureanism",
+            "Cynicism",
+            "Platonism",
+            "Stoicism"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "1874's \"The Moldau\" by this composer depicts his beloved Czech landscape",
+          "choices": [
+            "Antonin Dvorak",
+            "Bedrich Smetana",
+            "Leo Janacek",
+            "Josef Suk"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Considered the first Italian humanist, this 14th century author had his own sonnet form",
+          "choices": [
+            "Dante",
+            "Boccaccio",
+            "Petrarch",
+            "Cicero"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Humanities Magazine is published by this government unit headed by William Ferris",
+          "choices": [
+            "National Endowment for the Humanities",
+            "National Endowment for the Arts",
+            "Smithsonian Institution",
+            "National Historical Preservation Fund"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WEATHER GEAR",
+      "questions": [
+        {
+          "clue": "To avoid the sun's glare at the beach, wear these tinted accessories",
+          "choices": [
+            "safety goggles",
+            "winter sunglasses",
+            "aviator shades",
+            "sunglasses"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A soft Eskimo boot made of reindeer or seal skin",
+          "choices": [
+            "a moccasin",
+            "a snow boot",
+            "a mukluk",
+            "a chukka"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "These sunglasses were introduced in 1929; the \"Who's that behind those...\" ads began in the 1960s",
+          "choices": [
+            "Oakley Optics",
+            "Foster Grants",
+            "Ray-Ban",
+            "Maui Jim"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Its parts include ribs, stretchers & a crook handle",
+          "choices": [
+            "a cane",
+            "a parasol",
+            "a walking stick",
+            "an umbrella"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "A small cylinder of fur or cloth into which the hands are inserted for warmth",
+          "choices": [
+            "a mitten",
+            "a glove",
+            "Muff",
+            "a scarf"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "3-LETTER ABBREV.",
+      "questions": [
+        {
+          "clue": "\"Show your card & save\" when you belong to this organization that provides maps & roadside service",
+          "choices": [
+            "IRS",
+            "AAA",
+            "FDA",
+            "FBI"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Readouts on digital watches & calculators use this 3-letter technology invented by James Fergason",
+          "choices": [
+            "LED",
+            "CRT",
+            "LCD",
+            "OLED"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A religious group: LDS",
+          "choices": [
+            "Jehovah",
+            "Latter Day Saints",
+            "Quakers",
+            "Mormons"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "For tax purposes, the total amount you earned less deductions: AGI",
+          "choices": [
+            "net income",
+            "taxable income",
+            "adjusted gross income",
+            "total revenue"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Mister Rogers' Neighborhood\" & \"Masterpiece Theater\" are found here",
+          "choices": [
+            "NBC",
+            "PBS",
+            "ABC",
+            "CNN"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Afraid of being an out-caste\" this \"Dark Angel\" star passed her Indian mother off as her maid",
+    "choices": [
+      "Marlene Dietrich",
+      "Merle Oberon",
+      "Greta Garbo",
+      "Ingrid Bergman"
+    ],
+    "correctIndex": 1,
+    "category": "CELEBRITY SECRETS"
+  }
+}

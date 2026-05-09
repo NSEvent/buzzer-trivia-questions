@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-29",
+  "categories": [
+    {
+      "name": "THE CALIFORNIANS",
+      "questions": [
+        {
+          "clue": "Shyeah, this Chief Justice known for his commission spoke for the Court in Brown v. Board of Education, you know?",
+          "choices": [
+            "Warren",
+            "Rehnquist",
+            "Burger",
+            "Taft"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Whoa! This guy moved to Cali in 1852, got a near-monopoly in its railroads & founded a university? Nice!",
+          "choices": [
+            "Collis Huntington",
+            "Mark Hopkins",
+            "Charles Crocker",
+            "(Leland) Stanford"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Like, for sure not a native, this father of the H-bomb totally helped create Lawrence Livermore Lab at U.C. Berkeley",
+          "choices": [
+            "Fermi",
+            "Teller",
+            "Oppenheimer",
+            "Rabi"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Like, for sure not a native, this \"father of the H-bomb\" totally helped create Lawrence Livermore Lab at UC Berkeley",
+          "choices": [
+            "J. Robert Oppenheimer",
+            "Edward Teller",
+            "Niels Bohr",
+            "Enrico Fermi"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 2010 the Cali Hall of Fame inducted this Facebook dude, even though he's totally from New York for reals",
+          "choices": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Larry Page",
+            "Mark Zuckerberg"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THEIR MIDDLE INITIAL",
+      "questions": [
+        {
+          "clue": "Of journalist & broadcaster Edward Murrow",
+          "choices": [
+            "R.",
+            "J.",
+            "M.",
+            "K."
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Of President Rutherford Hayes",
+          "choices": [
+            "B.",
+            "A.",
+            "C.",
+            "D."
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Writer Hunter Thompson",
+          "choices": [
+            "W.",
+            "S.",
+            "P.",
+            "T."
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Of sci-fi & fantasy author Ursula Le Guin",
+          "choices": [
+            "M.",
+            "K.",
+            "A.",
+            "L."
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Of statesman & Chief Justice Salmon Chase",
+          "choices": [
+            "W.",
+            "P.",
+            "J.",
+            "R."
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MOUNTAIN",
+      "questions": [
+        {
+          "clue": "In Kashmir: 28,250 feet",
+          "choices": [
+            "Kangchenjunga",
+            "Lhotse",
+            "Makalu",
+            "K2 (Mount Godwin-Austen)"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The highest peak in the Rocky Mountains is 14,400-foot Mount Elbert in this state",
+          "choices": [
+            "Colorado",
+            "Wyoming",
+            "Utah",
+            "Montana"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Follow the Presidential Trail in the Black Hills for a great view of this 5,725-foot mountain",
+          "choices": [
+            "Mount Washington",
+            "Mount Hood",
+            "Mt. Rushmore",
+            "Mount Shasta"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This 1,500-mile-long mountain range stretches along Africa's Maghrib, the western arm of the Arab world",
+          "choices": [
+            "the Alps",
+            "the Atlas",
+            "the Andes",
+            "the Pyrenees"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The area around this peak, the highest summit outside of Asia, was the site of Incan ritual sacrifices 500 years ago",
+          "choices": [
+            "Mount Everest",
+            "Mount Kilimanjaro",
+            "Denali",
+            "Mount Aconcagua"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Scouse, the accent for this port city on England's West Coast, comes from lobscouse, a sailor's dish",
+    "choices": [
+      "Manchester",
+      "Liverpool",
+      "Bristol",
+      "Newcastle"
+    ],
+    "correctIndex": 1,
+    "category": "ACCENTS"
+  }
+}

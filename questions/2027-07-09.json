@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-09",
+  "categories": [
+    {
+      "name": "SOUNDS LIKE A RAPPER",
+      "questions": [
+        {
+          "clue": "\"It's\" one of these \"that blows nobody any good\"",
+          "choices": [
+            "a bad dream",
+            "an ill wind",
+            "a cold shoulder",
+            "a heavy burden"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "It opens every one of a given set of locks",
+          "choices": [
+            "skeleton key",
+            "baker's dozen",
+            "magic wand",
+            "master key"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Abbreviation for the sandwich that might be made with Peter Pan & Welch's",
+          "choices": [
+            "KFC",
+            "PB&J",
+            "TV",
+            "CD"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Lack of movement in traffic\u2014especially at an intersection or in politics",
+          "choices": [
+            "standstill",
+            "deadlock",
+            "traffic jam",
+            "gridlock"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Completed in 1955, this bridge crosses the Hudson near Nyack",
+          "choices": [
+            "the George Washington",
+            "the Verrazzano",
+            "the Tappan Zee",
+            "the Bronx-Whitestone"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOT MOVIES",
+      "questions": [
+        {
+          "clue": "Poitier & Steiger made sparks fly in this '67 Oscar winner",
+          "choices": [
+            "In the Heat of the Night",
+            "Guess Who's Coming to Dinner",
+            "To Sir, with Love",
+            "Lilies of the Field"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "1st movie that newlyweds Newman & Woodward made together",
+          "choices": [
+            "Sweet Bird of Youth",
+            "Cat on a Hot Tin Roof",
+            "The Long, Hot Summer",
+            "Some Came Running"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Steve McQueen & Paul Newman did some of their own stunts in this 1974 special-effects extravaganza",
+          "choices": [
+            "The Poseidon Adventure",
+            "Earthquake",
+            "Airport 1975",
+            "The Towering Inferno"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Hedy Lamarr sued Mel Brooks over the \"use\" of her name in this 1974 comedy & eventually settled out of court",
+          "choices": [
+            "Young Frankenstein",
+            "History of the World, Part I",
+            "The Producers",
+            "Blazing Saddles"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This 1981 dramatic film about Stone Age man won the Academy Award for Best Makeup",
+          "choices": [
+            "Quest for Fire",
+            "Conan the Barbarian",
+            "The Clan of the Cave Bear",
+            "One Million Years B.C."
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"AA\"",
+      "questions": [
+        {
+          "clue": "Tums & Rolaids are competitors of this antacid introduced in 1949",
+          "choices": [
+            "Pepto-Bismol",
+            "Rennie",
+            "Gaviscon",
+            "Maalox"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "He had 2,297 Major League RBIs",
+          "choices": [
+            "Albert Pujols",
+            "Hank Aaron",
+            "Nap Lajoie",
+            "Stan Musial"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "From the Arabic, it's a low bow, or a salutation meaning \"peace\"",
+          "choices": [
+            "shaklam",
+            "namaste",
+            "salutation",
+            "salaam"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "\"Godfather\" actor James & his son Scott",
+          "choices": [
+            "Robert Duvall",
+            "Marlon Brando",
+            "James Caan",
+            "Joe Pesci"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This former province of South Africa was bounded by Cape Province on the west",
+          "choices": [
+            "Zululand",
+            "Basutoland",
+            "Transvaal",
+            "Natal"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Benedictine, this breed of dog known for its rescues, was reported to weigh in at 357 pounds... woof!",
+    "choices": [
+      "a Great Dane",
+      "a St. Bernard",
+      "a Saint Hubert",
+      "an English Mastiff"
+    ],
+    "correctIndex": 1,
+    "category": "HEAVY"
+  }
+}

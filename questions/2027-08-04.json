@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-04",
+  "categories": [
+    {
+      "name": "MEN & WOMEN OF LETTERS",
+      "questions": [
+        {
+          "clue": "Edward Morgan",
+          "choices": [
+            "(E.M.) Forster",
+            "(E.A.) Poe",
+            "(E.B.) White",
+            "(E.L.) Doctorow"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Henry Louis",
+          "choices": [
+            "(H.L.) Mencken",
+            "(H.G.) Wells",
+            "(H.R.) Haggard",
+            "(H.P.) Lovecraft"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The very British Pelham Grenville...",
+          "choices": [
+            "(A.A.) Milne",
+            "(P.G.) Wodehouse",
+            "(P.D.) James",
+            "(J.K.) Rowling"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Henry Louis...",
+          "choices": [
+            "H.L. Mencken",
+            "H.G. Wells",
+            "H.R. Haggard",
+            "H.P. Lovecraft"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Virginia Cleo...",
+          "choices": [
+            "V. C. Anderson",
+            "V.C. Andrews",
+            "V. C. Adams",
+            "V. C. Archer"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FOOD HISTORY",
+      "questions": [
+        {
+          "clue": "It's not anything space-y but a malted dairy product that gave its name to this candy bar first sold in 1924",
+          "choices": [
+            "Baby Ruth",
+            "Three Musketeers",
+            "Milky Way",
+            "Mounds"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Louis XIV, \"The Sun King\", liked this fruit so much he had a grove of them at Versailles, so he always had days with sunshine",
+          "choices": [
+            "lemons",
+            "peaches",
+            "grapes",
+            "oranges"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Sam Panopoulos gave this name to the pizza he created; it's been called a \"Canadian treasure\" & \"a Polynesian perversion\"",
+          "choices": [
+            "a Hawaiian pizza",
+            "a Mediterranean pizza",
+            "a tropical pizza",
+            "a Pacific pizza"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This British dessert was first used to liven up some leftover cake with booze; its name also means \"something of little significance\"",
+          "choices": [
+            "a trivium",
+            "a trifecta",
+            "a triviality",
+            "a trifle"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Miners in San Francisco used Lactobacillus sanfrancisco in the air to make this",
+          "choices": [
+            "yeast bread",
+            "rye bread",
+            "sourdough (bread)",
+            "focaccia"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FAMOUS ELEPHANTS",
+      "questions": [
+        {
+          "clue": "In 2003 86-year-old Lin Wang, the oldest-known Asian elephant, died in this Taiwanese capital",
+          "choices": [
+            "Taipei",
+            "Kaohsiung",
+            "Taichung",
+            "Hsinchu"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Surus was said to be the bravest of the war elephants that crossed the Alps with this Carthaginian",
+          "choices": [
+            "Hannibal Barca",
+            "Hamilcar Barca",
+            "Hannibal",
+            "Hanno the Navigator"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "On Jan. 4, 1903 this inventor executed an elephant named Topsy to prove the \"dangers\" of alternating current",
+          "choices": [
+            "Nikola Tesla",
+            "Thomas Edison",
+            "George Westinghouse",
+            "Thomas Edison's rival"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In the late 19th century a circus elephant named for this bare-knuckle champ boxed with a glove on his trunk",
+          "choices": [
+            "James J. Jeffries",
+            "Billy Conn",
+            "Jack Johnson",
+            "John L. Sullivan"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Elephants hate climbing hills, but the remains of \"Icy Mike\" were found at 14,000' on this, Africa's 2nd-highest peak",
+          "choices": [
+            "Mount Kenya",
+            "Mount Kilimanjaro",
+            "Mount Elgon",
+            "Mount Cameroon"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In \"O Brother, Where Art Thou?\" George Clooney insists he's this, a Latin word for the father of a family",
+    "choices": [
+      "paterfamilias",
+      "patriarchate",
+      "familiaer",
+      "patroclus"
+    ],
+    "correctIndex": 0,
+    "category": "FAMILY TIES"
+  }
+}

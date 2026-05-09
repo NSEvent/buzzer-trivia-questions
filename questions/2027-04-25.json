@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-25",
+  "categories": [
+    {
+      "name": "TV GUIDE SAYS",
+      "questions": [
+        {
+          "clue": "\"Crockett and Tubbs catch a gubernatorial candidate with his pants down\"",
+          "choices": [
+            "Baywatch",
+            "Hawaii Five-0",
+            "South Beach",
+            "Miami Vice"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"Geordi finds himself drawn romantically to a starfleet lieutenant who is suspected of murder\"",
+          "choices": [
+            "Star Trek: Deep Space Nine",
+            "Star Trek: The Next Generation",
+            "Star Trek: Voyager",
+            "Babylon 5"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Furio begins work as Tony's newest enforcer\"",
+          "choices": [
+            "The Sopranos",
+            "Breaking Bad",
+            "Boardwalk Empire",
+            "The Wire"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "\"Grissom and Catherine investigate the murder of a despised comic who died onstage\"",
+          "choices": [
+            "NCIS",
+            "Criminal Minds",
+            "Law & Order",
+            "CSI"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"A deadly foe attacks Wesen in Portland\"",
+          "choices": [
+            "Supernatural",
+            "Sleepy Hollow",
+            "Grimm",
+            "True Blood"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "KIDS' BOOKS",
+      "questions": [
+        {
+          "clue": "Jeff Kinney admits that in school, he qualified for this title adjective of his 12-novel series",
+          "choices": [
+            "wimpy",
+            "nervous",
+            "shy",
+            "timid"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In \"Finding Buck McHenry\", a kid thinks a janitor is a baseball great from the time of these segregated leagues",
+          "choices": [
+            "the Minor Leagues",
+            "the Negro Leagues",
+            "the Negro American League",
+            "the Pacific Coast League"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This 1982 Roald Dahl work about a large fellow became a 2016 film",
+          "choices": [
+            "GGB",
+            "BFG",
+            "BFR",
+            "BRG"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "She is the smallest of the 12 girls who live in a vine-covered house in Paris",
+          "choices": [
+            "Madeline",
+            "Genevieve",
+            "Hazel",
+            "Celeste"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This 2-word title of Chelsea Clinton's book about determined women was coined by Sen. McConnell about Sen. Warren",
+          "choices": [
+            "Stronger Together",
+            "Rise Up",
+            "She Persisted",
+            "Never Back Down"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COMMERCIAL SLOGANS",
+      "questions": [
+        {
+          "clue": "\"I'm lovin' it\" at this global chain",
+          "choices": [
+            "Burger King",
+            "Wendy's",
+            "McDonald's",
+            "Taco Bell"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "\"You're gonna love it in an instant\", though usually in the morning",
+          "choices": [
+            "Nestle Carnation",
+            "Carnation Instant Breakfast",
+            "Kellogg's Ensure",
+            "Boost High Protein"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "We've been instructed to \"Protect this house\" with this company's sports apparel",
+          "choices": [
+            "Nike",
+            "Adidas",
+            "Puma",
+            "Under Armour"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "\"Helping investors help themselves\" was used by this man's discount brokerage",
+          "choices": [
+            "Bernie Madoff",
+            "Ira Rennert",
+            "Martin Shkreli",
+            "Charles Schwab"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "For many years Sprite commanded us to \"Obey\" this",
+          "choices": [
+            "your hunger",
+            "your thirst",
+            "your fatigue",
+            "your sadness"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "When Petruchio asks her to kiss him, she replies, \"What, in the midst of the street?\"",
+    "choices": [
+      "Rosalind",
+      "Portia",
+      "Ophelia",
+      "Kate"
+    ],
+    "correctIndex": 3,
+    "category": "SHAKESPEARE'S WOMEN"
+  }
+}

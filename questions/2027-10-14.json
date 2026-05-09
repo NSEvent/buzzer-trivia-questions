@@ -1,0 +1,196 @@
+{
+  "date": "2027-10-14",
+  "categories": [
+    {
+      "name": "BASEBALL NICKNAMES",
+      "questions": [
+        {
+          "clue": "\"Leo the Lip\"",
+          "choices": [
+            "Leo Durocher",
+            "Casey Stengel",
+            "Joe McCarthy",
+            "Earl Weaver"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"Doctor K\"",
+          "choices": [
+            "Tom Glavine",
+            "Greg Maddux",
+            "Pedro Martinez",
+            "Dwight Gooden"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A '90s Rangers, now Tigers, catcher: \"Pudge\"",
+          "choices": [
+            "Mike Piazza",
+            "Buster Posey",
+            "Yogi Berra",
+            "Ivan Rodriguez"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "That's \"Mr. November\" to you",
+          "choices": [
+            "Joe DiMaggio",
+            "Derek Jeter",
+            "Lou Gehrig",
+            "Mickey Mantle"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"The Rocket\"",
+          "choices": [
+            "Roger Clemens",
+            "Nolan Ryan",
+            "Greg Maddux",
+            "Tom Glavine"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TEEN-LETTER WORDS",
+      "questions": [
+        {
+          "clue": "Mirowski & Mower developed the implantable one of these medical devices\u2014clear!",
+          "choices": [
+            "a pacemaker",
+            "a ventilator",
+            "a defibrillator",
+            "a catheter"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "\"U\" know this term that refers specifically to a junior or senior in college",
+          "choices": [
+            "freshman",
+            "sophomore",
+            "undergraduate",
+            "upperclassman"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "17 letters: The philosophy of Thoreau & Emerson",
+          "choices": [
+            "Existentialism",
+            "Pragmatism",
+            "Utilitarianism",
+            "Transcendentalism"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "It's the \"VC\" in \"VCR\"; are you even old enough to remember it?",
+          "choices": [
+            "videodisc",
+            "videophone",
+            "videoconferencing",
+            "videocassette"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "13 letters: Swiss & Portuguese are 2 of these",
+          "choices": [
+            "demographics",
+            "citizenships",
+            "ethnicities",
+            "nationalities"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PUBLICATIONS",
+      "questions": [
+        {
+          "clue": "\"The O List\" naming some of her favorite products is a regular feature of her O Magazine",
+          "choices": [
+            "Marie Claire",
+            "Anna Wintour",
+            "Oprah Winfrey",
+            "Martha Stewart"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1955 Norman Mailer helped found this alternative NYC newsweekly",
+          "choices": [
+            "the New Yorker",
+            "the Village Pump",
+            "the Village Voice",
+            "the Greenwich Village"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The oldest continuously published almanac in the U.S.",
+          "choices": [
+            "The Old Farmer's Wife",
+            "The (Old) Farmer's Almanac",
+            "The New Farmer's Almanac",
+            "The Farmer's Old Almanac"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Employees protested when William Shaw was retired as editor of this magazine after 35 years",
+          "choices": [
+            "The New York Times",
+            "The New Yorker",
+            "The New Yorker Magazine",
+            "The New Yorker Weekly"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Published by the Massachusetts Medical Society, its roots go back to 1812",
+          "choices": [
+            "New England Medical Journal",
+            "New England Journal of Science",
+            "New England Journal of Medicine",
+            "New England Journal of Health"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Huxley: \"A squat grey building of only 34 stories. Over the main entrance the words, Central London Hatchery\"",
+    "choices": [
+      "Brave New Society",
+      "Brave New Future",
+      "Brave New Times",
+      "Brave New World"
+    ],
+    "correctIndex": 3,
+    "category": "LITERARY OPENINGS"
+  }
+}

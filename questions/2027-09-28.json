@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-28",
+  "categories": [
+    {
+      "name": "\"BLACK\"",
+      "questions": [
+        {
+          "clue": "By mid-19th c. this tribal group claimed Great Plains lands twice the size of New England",
+          "choices": [
+            "the Blackfeet",
+            "the Cheyenne",
+            "the Sioux",
+            "the Comanche"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Negative vote used especially against admitting one to membership in a club",
+          "choices": [
+            "blacklisting",
+            "blackballed",
+            "blackmailing",
+            "blackballing"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "An essay that promoted kindness to animals inspired Anna Sewell to write this novel",
+          "choices": [
+            "Black Hawk",
+            "Black Beauty",
+            "Black Orchid",
+            "Black Swan"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A horned pagan god, not necessarily Satan, was the deity originally worshipped in this service",
+          "choices": [
+            "a black rite",
+            "a black ritual",
+            "a black ceremony",
+            "a black mass"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In the late 70s, annual compensation to U.S. miners who had this disease totalled some $1 billion",
+          "choices": [
+            "white coal disease",
+            "black lung disease",
+            "brown spot illness",
+            "gray tissue disorder"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "10-LETTER \"W\"ORDS",
+      "questions": [
+        {
+          "clue": "Monday, Tuesday, Wednesday, Thursday & Friday evenings",
+          "choices": [
+            "weekends",
+            "weekday",
+            "weekdays",
+            "weeknights"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A shy person at a dance or party",
+          "choices": [
+            "wallflower",
+            "wallpaper",
+            "warflower",
+            "wispflame"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Term for a tornado or whirlwind that occurs over a lake or ocean",
+          "choices": [
+            "a waterspout",
+            "a watermills",
+            "a watersports",
+            "a waterways"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Perfect for a picnic is the picnic or ice-box variety of this fruit",
+          "choices": [
+            "watermelon",
+            "watercress",
+            "wallflower",
+            "wastebasket"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "From the German, it's a strong desire to travel",
+          "choices": [
+            "wallpaper",
+            "warehouse",
+            "wanderlust",
+            "warrantee"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE POLICE",
+      "questions": [
+        {
+          "clue": "The record of a criminal's arrests is known as this kind of \"sheet\"",
+          "choices": [
+            "a rap album",
+            "a rap sheet",
+            "a rap song",
+            "a rap battle"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "When this 4-letter word ends in \"C\", it's slang for a drugs officer; when it ends in \"K\", it's an informant",
+          "choices": [
+            "guru",
+            "narc",
+            "vibe",
+            "mope"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "James Gordon holds this post in Gotham City; Howard Safir holds it in Gotham, i.e. NYC",
+          "choices": [
+            "chief of staff",
+            "police captain",
+            "city marshal",
+            "police commissioner"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "To find a suspect, the police may issue an APB, which stands for this",
+          "choices": [
+            "all persons bound",
+            "all points bulletin",
+            "any point broken",
+            "active patrol briefing"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"Cop\" may be from initials for \"constable on patrol\", or it may be short for this metal used for badges",
+          "choices": [
+            "bronze",
+            "silver",
+            "brass",
+            "copper"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Description of high-end liquor or perhaps its harder-to-reach placement",
+    "choices": [
+      "first-class",
+      "top-shelf",
+      "premium-grade",
+      "high-altitude"
+    ],
+    "correctIndex": 1,
+    "category": "2-WORD RESPONSES"
+  }
+}

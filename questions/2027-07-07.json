@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-07",
+  "categories": [
+    {
+      "name": "GAS",
+      "questions": [
+        {
+          "clue": "In gas station names, these numbers, 10 digits apart, follow Phillips & Union",
+          "choices": [
+            "55 & 65",
+            "66 & 76",
+            "77 & 88",
+            "88 & 99"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "HCN, it's the gas chambers deadly gas",
+          "choices": [
+            "carbon monoxide",
+            "hydrogen sulfide",
+            "phosphine",
+            "hydrogen cyanide"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Having learned from the Hindenburg, modern airships use helium in place of this explosive gas",
+          "choices": [
+            "acetylene",
+            "hydrogen",
+            "methane",
+            "ammonia"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "C4H10 chemically, it's used in refrigeration & in cigarette lighters",
+          "choices": [
+            "butane",
+            "propane",
+            "methane",
+            "ethane"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It's the common name for nitrous oxide, often used in dentistry to relieve pain",
+          "choices": [
+            "laughing gas",
+            "nitrous cream",
+            "happy air",
+            "dental mist"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ISLANDS OF THE SOUTH PACIFIC",
+      "questions": [
+        {
+          "clue": "In 1862 Peruvian slave raiders carried away about 1/3 of this Chilean island's population, but not the big heads",
+          "choices": [
+            "Galapagos Islands",
+            "Easter Island",
+            "Hawaii",
+            "Fiji"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The Isthmus of Taravao separates the 2 sections that make up this largest French Polynesian island",
+          "choices": [
+            "Bora Bora",
+            "Moorea",
+            "Tahiti",
+            "Huahine"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "At 4,341 feet, Mount Victoria on Viti Levu is the tallest peak in this Pacific archipelago",
+          "choices": [
+            "Samoa",
+            "Tonga",
+            "New Caledonia",
+            "Fiji"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "James A. Michener once called this island 143 miles northwest of Tahiti the world's most beautiful island island",
+          "choices": [
+            "Moorea",
+            "Raiatea",
+            "Bora Bora",
+            "Tetiaroa"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Current king Taufa'ahau Tupou IV was the first person in this nation's history to earn a college degree",
+          "choices": [
+            "Fiji",
+            "Samoa",
+            "Niue",
+            "Tonga"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE PRISONER",
+      "questions": [
+        {
+          "clue": "On Dec. 8, 1992 a U.S. federal judge in Miami ruled this Panamanian a prisoner of war",
+          "choices": [
+            "Marcos Perez Jimenez",
+            "Manuel Noriega",
+            "Alberto Fujimori",
+            "Augusto Pinochet"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Andrew Fastow, who cooked the books for this Houston-based power company, got 6 years",
+          "choices": [
+            "ARCO",
+            "ENBR",
+            "TXU",
+            "ENRON"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "After his conversion on the road to Damascus, he was sent to prison for taking a Gentile into temple precincts",
+          "choices": [
+            "(St.) Peter",
+            "(St.) Paul",
+            "(St.) John",
+            "(St.) James"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "After Sam Waksal, CEO of Imclone, got busted in 2002, this celeb gal pal of his also went to the big house",
+          "choices": [
+            "Paris Hilton",
+            "Nicole Richie",
+            "Martha Stewart",
+            "Barbara Bush"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This Dublin-born man was released from prison bankrupt in 1897; \"The Ballad Of Reading Gaol\" was released in 1898",
+          "choices": [
+            "Robert Louis Stevenson",
+            "Thomas Hardy",
+            "Arthur Conan Doyle",
+            "Oscar Wilde"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The Library has Steve Ditko's drawings for this webslinger's origin story containing notes by Stan Lee",
+    "choices": [
+      "Spider-Man",
+      "Superman",
+      "Batman",
+      "Iron Man"
+    ],
+    "correctIndex": 0,
+    "category": "THE LIBRARY OF CONGRESS"
+  }
+}

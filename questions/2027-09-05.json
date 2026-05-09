@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-05",
+  "categories": [
+    {
+      "name": "HELLO KITTY",
+      "questions": [
+        {
+          "clue": "One theory says that this endearing cat sound is caused by the vibration of the false vocal cords",
+          "choices": [
+            "a hiss",
+            "a meow",
+            "a chirp",
+            "a purr"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The Turkish Angora is named for this Turkish city",
+          "choices": [
+            "Istanbul",
+            "Izmir",
+            "Ankara",
+            "Antalya"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Because its smell is exciting to cats, this aromatic herb of the mint family is often used as a stuffing for cat toys",
+          "choices": [
+            "catnip",
+            "lavender",
+            "mint",
+            "valerian"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The face of this fastest cat has black lines that curve from the eye's inner corner to the mouth's outer corners",
+          "choices": [
+            "a lion",
+            "a jaguar",
+            "a cheetah",
+            "a leopard"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 2004 she wrote the controversial \"The Family: The Real Story of the Bush Dynasty\"",
+          "choices": [
+            "Kitty Kelley",
+            "Janet Reno",
+            "Hillary Clinton",
+            "Condoleezza Rice"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WOMEN'S FIRSTS",
+      "questions": [
+        {
+          "clue": "In 1900 Margaret Abbott wasn't teed off when she became the 1st woman to win Olympic gold in this sport",
+          "choices": [
+            "tennis",
+            "cricket",
+            "golf",
+            "croquet"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "6 years after Chuck Yeager, Jacqueline Cochran became the 1st woman to do this",
+          "choices": [
+            "Break the light barrier",
+            "Break the ocean barrier",
+            "Break the space barrier",
+            "Break the sound barrier"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "In 1889 Anna Bissell helped America clean these as the USA's first female CEO",
+          "choices": [
+            "windows",
+            "carpets",
+            "cars",
+            "clothes"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 2007 Drew Gilpin Faust became the first female president in this university's 371-year history",
+          "choices": [
+            "Yale",
+            "Princeton",
+            "Columbia",
+            "Harvard"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "It was the field of Maria Mitchell, the first woman member of the American Academy of Arts & Sciences",
+          "choices": [
+            "physics",
+            "astronomy",
+            "chemistry",
+            "biology"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BRITISH ROYAL HOUSES",
+      "questions": [
+        {
+          "clue": "Elizabeth I",
+          "choices": [
+            "Stuart",
+            "Lancaster",
+            "York",
+            "Tudor"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "By right of conquest in 1066 came the house with this geographic name",
+          "choices": [
+            "Plantagenet",
+            "Norman",
+            "Tudor",
+            "Saxon"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Even after marrying a Mountbatten, Queen Elizabeth II said this house would remain",
+          "choices": [
+            "Windsor",
+            "Tudor",
+            "Stuart",
+            "Wessex"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "George III",
+          "choices": [
+            "Tudor",
+            "Plantagenet",
+            "Hanover",
+            "York"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This house that collapsed in 9 days bore the name of an ill-fated lady",
+          "choices": [
+            "Lancaster",
+            "York",
+            "Grey",
+            "Plantagenet"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Netflix' \"Cursed\" centers on Nimue, a gifted girl destined to become this Arthurian sword giver",
+    "choices": [
+      "Merlin the Wizard",
+      "the Lady of the Lake",
+      "King Arthur himself",
+      "Sir Lancelot"
+    ],
+    "correctIndex": 1,
+    "category": "TV DRAMA"
+  }
+}

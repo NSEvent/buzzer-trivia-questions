@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-05",
+  "categories": [
+    {
+      "name": "3-SYLLABLE WORDS",
+      "questions": [
+        {
+          "clue": "A meeting for discussion, or the Big Ten",
+          "choices": [
+            "association",
+            "summit",
+            "conference",
+            "symposium"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "For 2, 5 & 11, it is 6",
+          "choices": [
+            "median",
+            "mean",
+            "standard",
+            "average"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The name of this piece of direct mail advertising means \"indirect\"",
+          "choices": [
+            "Flyer",
+            "Brochure",
+            "Leaflet",
+            "Circular"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "To pound, crush or grind into a powder",
+          "choices": [
+            "Shatter",
+            "Mash",
+            "Grind",
+            "pulverize"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In a classic Kurt Weill song, \"The days grow short when you reach\" this month on the calendar",
+          "choices": [
+            "December",
+            "November",
+            "September",
+            "October"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ENDS IN \"ELLA\"",
+      "questions": [
+        {
+          "clue": "Ms. Poppins' \"parachute\"",
+          "choices": [
+            "a kite",
+            "a scarf",
+            "an umbrella",
+            "a hat"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This female first name is Italian for \"beautiful\"",
+          "choices": [
+            "Sofia",
+            "Giovanna",
+            "Chiara",
+            "Bella"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "From the French for \"lemon oil\", this aromatic oil is used in perfumes & insect repellants",
+          "choices": [
+            "lavender",
+            "citronella",
+            "eucalyptus",
+            "peppermint"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A Hollywood rivalry began when Hedda \"scooped\" her by announcing the divorce of FDR's son James",
+          "choices": [
+            "Dorothy Parker",
+            "Sheilah Graham",
+            "Louella Collins",
+            "Louella Parsons"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "These whiplike projections are used for locomotion by one-celled organisms",
+          "choices": [
+            "tongue",
+            "tail",
+            "limb",
+            "flagella"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ON THE BOOKSHELF",
+      "questions": [
+        {
+          "clue": "Tracy Chevalier's \"Girl with a Pearl Earring\" imagines the young woman who inspired a masterpiece by this Dutch painter",
+          "choices": [
+            "Rembrandt",
+            "Rubens",
+            "Vermeer",
+            "Hals"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The appetite for this 2008 dystopian bestseller, the first in a series, has yet to be quenched",
+          "choices": [
+            "The Maze Runner",
+            "The Hunger Games",
+            "Divergent",
+            "The Giver"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Black Boy\" is this \"Native Son\" author's autobiography",
+          "choices": [
+            "James Baldwin",
+            "(Richard) Wright",
+            "Ralph Ellison",
+            "Langston Hughes"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"Inkspell\" & \"Inkdeath\" are sequels to this book",
+          "choices": [
+            "Inkspell",
+            "Inkheart",
+            "Inkdeath",
+            "Dragon Rider"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "\"Wolf Hall\" is the first in a planned trilogy of books about the rise & fall of this adviser to Henry VIII",
+          "choices": [
+            "Thomas More",
+            "Cardinal Wolsey",
+            "Anne Boleyn",
+            "(Thomas) Cromwell"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The kitazawa seed co. can help you grow the greens of this 4-syllable flower with edible as well as symbolic value in Japan",
+    "choices": [
+      "azalea",
+      "camellia",
+      "chrysanthemum",
+      "cherry blossom"
+    ],
+    "correctIndex": 2,
+    "category": "THE VEGETABLE GARDEN"
+  }
+}

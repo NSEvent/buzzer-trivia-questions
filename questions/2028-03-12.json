@@ -1,0 +1,196 @@
+{
+  "date": "2028-03-12",
+  "categories": [
+    {
+      "name": "ANIMATED CHARACTERS",
+      "questions": [
+        {
+          "clue": "Chuck Jones' golden rule for this rascally rabbit was that he must always be provoked",
+          "choices": [
+            "Daffy Duck",
+            "Bugs Bunny",
+            "Porky Pig",
+            "Yosemite Sam"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Boy explorer Tintin has a white fox terrier named this",
+          "choices": [
+            "Milou",
+            "Fido",
+            "Pluto",
+            "Snowy"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "On Fox he runs a burger joint that tries to lure customers with grand re-re-re-openings",
+          "choices": [
+            "Tobias Wilson",
+            "Tina Belcher",
+            "Bob Belcher",
+            "Jimmy Pesto"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This mouse in \"An American Tail\" is named for Steven Spielberg's grandfather",
+          "choices": [
+            "Tony",
+            "Fievel",
+            "Wylie",
+            "Gussie"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Mojo Jojo & Professor Utonium are characters on this cartoon",
+          "choices": [
+            "The Incredibles",
+            "SpongeBob SquarePants",
+            "The Powerpuff Girls",
+            "Fairly OddParents"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TV ROBOTS",
+      "questions": [
+        {
+          "clue": "On \"Star Trek: The Next Generation\", Brent Spiner was part of Starfleet as this android",
+          "choices": [
+            "R2-D2",
+            "Data",
+            "C-3PO",
+            "WALL-E"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Jean Vander Pyl, TV\"s Wilma Flintstone, was also the voice of Rosie the Robot, the maid on this cartoon series",
+          "choices": [
+            "The Jetsons",
+            "The Flintstones",
+            "Scooby-Doo",
+            "Top Cat"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "The dulcet tones of this TV show's robot often intoned the line \"Danger, Will Robinson\"",
+          "choices": [
+            "Doctor Who",
+            "Babylon 5",
+            "Lost in Space",
+            "Futurama"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Crow T. Robot was a B-movie commentator on this cult TV show",
+          "choices": [
+            "Mystery Science Theater 3000",
+            "Robot Chicken",
+            "Futurama",
+            "Rick and Morty"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The Cylons were robotic soldiers out to wipe out the humans on this TV series that debuted in 1978",
+          "choices": [
+            "Battlestar Galactica",
+            "Babylon 5",
+            "Space: 1999",
+            "The Expanse"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "OLD, ODD & OBSCURE WORDS",
+      "questions": [
+        {
+          "clue": "There's no \"beating around\" this archaic term for a wineshop or tavern",
+          "choices": [
+            "tavern",
+            "pub",
+            "bush",
+            "inn"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "(Cheryl of the Clue Crew speaks from a library.) In \"Robinson Crusoe\" the name of this amphibian means \"a loop to hold a sword\"; today, it's the name of this type of fastener",
+          "choices": [
+            "a hook",
+            "a buckle",
+            "a frog",
+            "a snap"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"Lachrymiform\" literally means shaped like this",
+          "choices": [
+            "a teardrop",
+            "a teapot",
+            "a raindrop",
+            "a soap bubble"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "It's probably been a while since you've seen a typewriter; remember this 6-letter term for the roller?",
+          "choices": [
+            "a carriage",
+            "a piston",
+            "a clutch",
+            "a platen"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "An ichnite or ichnolite is a fossilized one of these, perhaps from a sasquatch?",
+          "choices": [
+            "a footprint",
+            "a toothmark",
+            "a scratch",
+            "a handprint"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Nicknamed \"The Incorruptible\", he was arrested, tried & guillotined in July 1794",
+    "choices": [
+      "Robespierre",
+      "Danton",
+      "Louis XVI",
+      "Marat"
+    ],
+    "correctIndex": 0,
+    "category": "DESPOTS & DICTATORS"
+  }
+}

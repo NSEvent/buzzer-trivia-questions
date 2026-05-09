@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-07",
+  "categories": [
+    {
+      "name": "INVASIONS",
+      "questions": [
+        {
+          "clue": "In 409 Spain was invaded by this Germanic people who did more than damage property & spray graffiti",
+          "choices": [
+            "the Vandals",
+            "the Goths",
+            "Huns",
+            "Ostrogoths"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Germany's August 1914 invasion of this country, beginning with an assault on Li\u00e8ge, brought Britain into World War I",
+          "choices": [
+            "Luxembourg",
+            "France",
+            "Switzerland",
+            "Belgium"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Information minister \"Comical Ali\" said in 2003, \"There are no American infidels in\" this city\u2014\"never!\"",
+          "choices": [
+            "Bassra",
+            "Baghdad",
+            "Mosul",
+            "Kuwait City"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Liberalization under Alexander Dubcek led the USSR to invade this then-country & restore hardline communism in 1968",
+          "choices": [
+            "Czechoslovakia",
+            "Hungary",
+            "Poland",
+            "East Germany"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "On May 1, 2003, 6 weeks after the invasion of Iraq, George W. Bush stood under a banner bearing these 2 words",
+          "choices": [
+            "Victory achieved",
+            "Mission accomplished",
+            "Democracy delivered",
+            "Freedom secured"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"MOTHER\", \"FATHER\", \"SISTER\", \"BROTHER\"",
+      "questions": [
+        {
+          "clue": "According to George Orwell, he \"is watching you\"",
+          "choices": [
+            "Little Sister",
+            "Dear Mother",
+            "Big Brother",
+            "Big Mother"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Your native language",
+          "choices": [
+            "father tongue",
+            "mother tongue",
+            "sister tongue",
+            "brother tongue"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "In a Brecht play, she schleps through the 30 Years' War as her children are taken from her one by one",
+          "choices": [
+            "Mother Peace",
+            "Father Courage",
+            "Mother Courage",
+            "Sister Bravery"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Dostoyevsky's last novel",
+          "choices": [
+            "Crime and Punishment",
+            "\"The Brothers Karamazov\"",
+            "Notes from Underground",
+            "Demons"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This Chekhov play concerns Olga, Masha & Irina Prozorov",
+          "choices": [
+            "The Cherry Orchard",
+            "Uncle Vanya",
+            "The Three Sisters",
+            "The Seagull"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TESTS",
+      "questions": [
+        {
+          "clue": "1st used in early 1920s, this projective test was named after its creator, a Swiss psychiatrist",
+          "choices": [
+            "Thematic Apperception",
+            "Rosenberg",
+            "Buck",
+            "Rorschach"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "In 1905, Frenchmen Alfred Binet & Theodore Simon developed the 1st scales for measuring this",
+          "choices": [
+            "intelligence quotient, I.Q.",
+            "cognitive ability, C.A.",
+            "mental age, M.A.",
+            "general intelligence, G.I."
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Named for the Swiss psychiatrist who devised it, this inkblot test was put into use in 1921",
+          "choices": [
+            "the Thematic Apperception Test",
+            "the Minnesota Multiphasic Inventory",
+            "the Rorschach test",
+            "the Myers-Briggs Type Indicator"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Number of states requiring this for a marriage license has declined but may go up again due to AIDS scare",
+          "choices": [
+            "a blood test",
+            "a drug screen",
+            "a genetic profile",
+            "a vaccination record"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "To work for this independent gov't agency, you may be required to take a clerk & carrier exam",
+          "choices": [
+            "the FBI",
+            "the Post Office",
+            "the Census Bureau",
+            "the IRS"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "They're the two states whose postal abbreviations end with the letter \"C\"",
+    "choices": [
+      "North & South Dakota (ND & SD)",
+      "New York & New Jersey (NY & NJ)",
+      "North & South Carolina (NC & SC)",
+      "Oregon & Washington (OR & WA)"
+    ],
+    "correctIndex": 2,
+    "category": "STATE POSTAL ABBREVIATIONS"
+  }
+}

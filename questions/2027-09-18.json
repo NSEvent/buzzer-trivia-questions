@@ -1,0 +1,207 @@
+{
+  "date": "2027-09-18",
+  "categories": [
+    {
+      "name": "MISSOURI LOVES COMPANY",
+      "questions": [
+        {
+          "clue": "You'll see lots of stars on the St. Louis Walk of Fame, including that of this \"King of Ragtime\"",
+          "choices": [
+            "Jelly Roll Morton",
+            "Eubie Blake",
+            "James P. Johnson",
+            "(Scott) Joplin"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "At Westminster College, there's a memorial & library honoring this man who gave his \"iron curtain\" speech on campus in 1946",
+          "choices": [
+            "(Winston) Churchill",
+            "Harry Truman",
+            "Franklin Roosevelt",
+            "Dwight Eisenhower"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "With more than 40 theaters & 100 live shows, this city calls itself the \"live music show capital of the world\"",
+          "choices": [
+            "Nashville",
+            "Austin",
+            "Memphis",
+            "Branson"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A June 26, 2010 re-ride to celebrate the 150th anniv. of the Pony Express ended with a procession through this city",
+          "choices": [
+            "Kansas City",
+            "Liberty",
+            "St. Joseph",
+            "Independence"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "A natl. monument near Diamond, Missouri preserves the birthplace of this \"plant doctor\" born a slave around 1864",
+          "choices": [
+            "(Frederick) Douglass",
+            "(George Washington) Carver",
+            "(Harriet) Tubman",
+            "(Booker T.) Washington"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE OTTOMAN EMPIRE",
+      "questions": [
+        {
+          "clue": "Just like Rome, this Ottoman capital, formerly Constantinople, was built on 7 hills",
+          "choices": [
+            "Istanbul",
+            "Athens",
+            "Rome",
+            "Cairo"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1566 this \"Magnificent\" sultan was succeeded by his not-so-magnificent son Selim II, \"the Sot\"",
+          "choices": [
+            "Mehmed",
+            "Murad",
+            "Bayezid",
+            "Suleiman"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Mehmed VI, the last sultan of the once great Ottoman Empire, fled his office in this century",
+          "choices": [
+            "the 20th century",
+            "the 19th century",
+            "the 21st century",
+            "the 18th century"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Capturing Mesopotamia in 1534 gave the Ottomans access to this large gulf to the south",
+          "choices": [
+            "the Red Sea",
+            "the Persian Gulf",
+            "the Caspian Sea",
+            "the Arabian Gulf"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In 1683 an Allied European Army relieved this Hapsburg capital from a 2-month siege by Ottoman forces",
+          "choices": [
+            "Vienna",
+            "Budapest",
+            "Prague",
+            "Warsaw"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ANAGRAMMED NAMES",
+      "questions": [
+        {
+          "clue": "Talk show hostess Winfrey & 1 of the Marx Brothers",
+          "choices": [
+            "Oprah & Harpo",
+            "Oprah & Chico",
+            "Oprah & Gummo",
+            "Oprah & Groucho"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Olsen of Olsen & Johnson & one-time Giants' manager Durocher",
+          "choices": [
+            "Ole & Leo",
+            "Ole & Al",
+            "Ole & Sam",
+            "Ole & Curly"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Banks & Dunne",
+          "choices": [
+            "Irene & Ernie",
+            "Anne & Ben",
+            "Babe & Nell",
+            "Ella & Frank"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Lincoln & Arthur",
+          "choices": [
+            "Bob & Sue",
+            "Tom & Amy",
+            "Sam & Lee",
+            "Abe & Bea"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Campion & Chretien",
+          "choices": [
+            "Mary & Pete",
+            "Kate & Joe",
+            "Lisa & Dan",
+            "Jane & Jean"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "There's a body joint within this verb that means to irritate you",
+    "choices": [
+      "vex",
+      "bother",
+      "rankle",
+      "pique"
+    ],
+    "correctIndex": 2,
+    "category": "ANGRY WORDS"
+  },
+  "bonusRound": {
+    "clue": "\"Who's Afraid of Virginia Woolf?\" (1966)",
+    "choices": [
+      "Stanley Kubrick",
+      "Mike Nichols",
+      "Franklin Schaffner",
+      "Elia Kazan"
+    ],
+    "correctIndex": 1,
+    "category": "DIRECTORS' FIRST FEATURES"
+  }
+}

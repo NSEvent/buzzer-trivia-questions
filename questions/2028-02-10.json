@@ -1,0 +1,196 @@
+{
+  "date": "2028-02-10",
+  "categories": [
+    {
+      "name": "WHAT ARE YOU MADE OF?",
+      "questions": [
+        {
+          "clue": "Moses by Michelangelo at San Pietro in Vincoli, Rome",
+          "choices": [
+            "granite",
+            "limestone",
+            "marble",
+            "terracotta"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Benne wafers & tahini both contain these seeds",
+          "choices": [
+            "pumpkin seeds",
+            "sunflower seeds",
+            "sesame seeds",
+            "poppy seeds"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Thor Heyerdahl's Kon-Tiki raft: logs of this wood",
+          "choices": [
+            "balsa wood",
+            "pine wood",
+            "oak wood",
+            "teak wood"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "St. John the Baptist by Donatello at Siena Cathedral",
+          "choices": [
+            "cast iron",
+            "bronze",
+            "copper",
+            "silver"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's the wheat in common to soba noodles & blini",
+          "choices": [
+            "buckwheat",
+            "rye flour",
+            "quinoa",
+            "millet"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HBO",
+      "questions": [
+        {
+          "clue": "\"Big Love\", about a polygamist & his 3 wives, is set in this state",
+          "choices": [
+            "Idaho",
+            "Wyoming",
+            "Montana",
+            "Utah"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Bill Paxton juggles 3 wives & 7 kids on this series",
+          "choices": [
+            "The Sopranos",
+            "Deadwood",
+            "Six Feet Under",
+            "Big Love"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "On the 7th episode of \"Rome\", this warring general & rival of Julius Caesar is killed after fleeing to Egypt",
+          "choices": [
+            "Crassus",
+            "Pompey",
+            "Cicero",
+            "Brutus"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This show follows the trials & tribulations of a 2-man digi-folk band from New Zealand",
+          "choices": [
+            "The Lonely Island",
+            "Tenacious D",
+            "Flight of the Conchords",
+            "Barenaked Ladies"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Based on an Israeli series, this show follows psychoanalyst Paul Weston through his week",
+          "choices": [
+            "In Treatment",
+            "Six Feet Under",
+            "Weeds",
+            "Six Days Seven Nights"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CELEBRITY QUOTES",
+      "questions": [
+        {
+          "clue": "My dog Ron is on the cover of my album that includes \"Jessie's Girl\"",
+          "choices": [
+            "Rick Springfield",
+            "Billy Joel",
+            "Michael Bolton",
+            "Christopher Cross"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In a taped message in 1974 she said \"I have chosen to stay and fight...I have been given the name Tania",
+          "choices": [
+            "Sylvia Likens",
+            "Elizabeth Smart",
+            "Patty Jenkins",
+            "Patty Hearst"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "8-time Oscar winner who said, \"what I need is a script about a girl who isn't poor & doesn't hate clothes\"",
+          "choices": [
+            "Dorothy Jeakins",
+            "Edith Head",
+            "Walter Plunkett",
+            "Edith Kent"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Bartlett's credits this much-maligned musician with quote \"I cry all the way to the bank\"",
+          "choices": [
+            "Elton John",
+            "Cher",
+            "Liberace",
+            "Madonna"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Famous B'way couple who turned down movie offers saying, \"we can be bought, but we can't be bored\"",
+          "choices": [
+            "Audrey Hepburn & Mel Ferrer",
+            "Lunt & Fontanne",
+            "Grace Kelly & Prince Rainier",
+            "Lauren Bacall & Humphrey Bogart"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 2003 & 2004 Louise Gl\u00fcck held this esteemed position",
+    "choices": [
+      "poet laureate",
+      "poet in residence",
+      "surgeon general",
+      "national ambassador"
+    ],
+    "correctIndex": 0,
+    "category": "WOMEN POETS"
+  }
+}

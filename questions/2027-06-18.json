@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-18",
+  "categories": [
+    {
+      "name": "LANDS O' LAKES",
+      "questions": [
+        {
+          "clue": "This high South American lake straddles the border between Bolivia & Peru",
+          "choices": [
+            "Lake Baikal",
+            "Lake Malawi",
+            "Lake Tanganyika",
+            "Lake Titicaca"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Entebbe is a key Ugandan port on this, the world's second-largest freshwater lake",
+          "choices": [
+            "Lake Superior",
+            "Lake Huron",
+            "Lake Victoria",
+            "Lake Winnipeg"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In Europe, Lake Como",
+          "choices": [
+            "France",
+            "Switzerland",
+            "Austria",
+            "Italy"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Lake Chapala",
+          "choices": [
+            "Guatemala",
+            "Costa Rica",
+            "Honduras",
+            "Mexico"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Great Slave Lake",
+          "choices": [
+            "United States",
+            "Canada",
+            "Mexico",
+            "Greenland"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "REPUBLICANS",
+      "questions": [
+        {
+          "clue": "This Virginian spent about $20 million challenging Charles Robb in 1994, but lost",
+          "choices": [
+            "Oliver North",
+            "Olympia Snowe",
+            "Rick Santorum",
+            "Jeb Bush"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Relentless in his pursuit of conservative ideals, he was named Time's Man of the Year for 1995",
+          "choices": [
+            "George W. Bush",
+            "Newt Gingrich",
+            "Rudy Giuliani",
+            "Bob Dole"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This Wyoming senator is probably best known as author of the 1986 Immigration Reform Act",
+          "choices": [
+            "Mike Enzi",
+            "(Alan) Simpson",
+            "Craig Thomas",
+            "John Barrasso"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This deep-voiced Illinois senator was minority leader from 1959 to 1969",
+          "choices": [
+            "Lyndon B. Johnson",
+            "Hubert Humphrey",
+            "(Everett) Dirksen",
+            "Charles Percy"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The House Minority Leader is Congressman Robert Michel of this state",
+          "choices": [
+            "Indiana",
+            "Illinois",
+            "Pennsylvania",
+            "New York"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CHRISTOPHER COLUMBUS",
+      "questions": [
+        {
+          "clue": "In Spanish his name was Cristobal Colon, & in Italian, this",
+          "choices": [
+            "Marco Polo",
+            "Amerigo Vespucci",
+            "Juan Ponce de Leon",
+            "Christoforo Colombo"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "There's no truth to the story that she had to pawn her jewels to finance Columbus' first voyage",
+          "choices": [
+            "Queen Victoria",
+            "Catherine the Great",
+            "Empress Maria Theresa",
+            "Queen Isabella"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "This flagship of Columbus' first voyage was chartered from Juan de la Cosa & was his largest ship",
+          "choices": [
+            "the Santa Maria",
+            "the Pinta",
+            "the Ni\u00f1a",
+            "the Victoria"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "On Oct. 12, 1492 Columbus reached the New World & landed at an island he called this, Spanish for \"holy savior\"",
+          "choices": [
+            "San Juan",
+            "San Salvador",
+            "Santa Clara",
+            "San Diego"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In the lawsuits that followed, a Columbus descendant got the title Duke of this, also Zorro's family",
+          "choices": [
+            "de Alarc\u00f3n",
+            "de Guzm\u00e1n",
+            "de Mendoza",
+            "de la Vega"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This hymn says, \"Above the earth rang out the angel chorus that hailed our Savior's birth\"",
+    "choices": [
+      "Joy To The World",
+      "Hark The Herald Angels Sing",
+      "Silent Night",
+      "\"Go Tell It On The Mountain\""
+    ],
+    "correctIndex": 3,
+    "category": "\"COME\" & \"GO\""
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-27",
+  "categories": [
+    {
+      "name": "1789",
+      "questions": [
+        {
+          "clue": "Congress established this department in 1789 & made a mint out of it",
+          "choices": [
+            "the Department of State",
+            "the Department of War",
+            "the Department of Justice",
+            "the Department of the Treasury"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The 1st American novel was published in this city and, fortunately, wasn't banned",
+          "choices": [
+            "Philadelphia",
+            "New York",
+            "Boston",
+            "Charleston"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Now totaling over $1 trillion, it began 11 days after Treasury was established in 1789",
+          "choices": [
+            "the national debt",
+            "the national budget",
+            "the federal deficit",
+            "the public credit"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This Benelux country's independence from Austria lasted only a year",
+          "choices": [
+            "Netherlands",
+            "Belgium",
+            "Luxembourg",
+            "Switzerland"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Galvani was ridiculed when he made these animals' legs twitch by electricity",
+          "choices": [
+            "mice",
+            "frogs",
+            "rabbits",
+            "rats"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"R\" WE THERE YET?",
+      "questions": [
+        {
+          "clue": "This Pennsylvania place gave its name to a railroad line seen on Monopoly boards",
+          "choices": [
+            "Lehigh",
+            "Central",
+            "Reading",
+            "Susquehanna"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "It's about 30 miles north of Carson City on Interstate 580",
+          "choices": [
+            "Sacramento",
+            "Reno",
+            "Spokane",
+            "Boise"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The name of this state of northwest India means \"land of the kings\"",
+          "choices": [
+            "Rajasthan",
+            "Bihar",
+            "Odisha",
+            "Gujarat"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The national monument called this Bridge is in Utah, not on the way to Asgard",
+          "choices": [
+            "Delicate Arch",
+            "Navajo Bridge",
+            "Sandstone Bridge",
+            "Rainbow Bridge"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "McMurdo Sound is an inlet of this, which, despite its name, is a deep bay of the Southern Ocean",
+          "choices": [
+            "the Weddell Sea",
+            "the Amundsen Sea",
+            "the Ross Sea",
+            "the Bellingshausen Sea"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "TREES & FLOWERS",
+      "questions": [
+        {
+          "clue": "Guinness says the most paid for a tree, $51,000, was for a Washington state Starkspur bearing this fruit",
+          "choices": [
+            "pears",
+            "crabapples",
+            "apples",
+            "cherries"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This large main root found on some trees can extend down 15' or more",
+          "choices": [
+            "the tap root",
+            "the fibrous root",
+            "the aerial root",
+            "the prop root"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This tree that quickly fills in burned-over land comes in quaking & large-toothed varieties",
+          "choices": [
+            "the aspen",
+            "the oak",
+            "the maple",
+            "the birch"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Salix is the genus for this tree, a source for an acid used in pain relievers",
+          "choices": [
+            "willow",
+            "the pine",
+            "the elm",
+            "the cedar"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Over 1,000 stigmas from this flower are necessary to get even a small amount of saffron seasoning",
+          "choices": [
+            "a daisy",
+            "a crocus",
+            "a tulip",
+            "a lily"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Legendary banker who helped found the U.S. Steel Corporation in 1901",
+    "choices": [
+      "John D. Rockefeller",
+      "Andrew Carnegie",
+      "J.P. Morgan",
+      "Cornelius Vanderbilt"
+    ],
+    "correctIndex": 2,
+    "category": "TURN OF THE CENTURY"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-21",
+  "categories": [
+    {
+      "name": "SALAD DAYS",
+      "questions": [
+        {
+          "clue": "The main ingredient in Thousand Island dressing is this creamy emulsion",
+          "choices": [
+            "mayonnaise",
+            "ketchup",
+            "mustard",
+            "sour cream"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "(Sofia of the Clue Crew at the Waldorf-Astoria.) The original Waldorf salad had only apples, celery & mayo, but now it's standard to add these nuts",
+          "choices": [
+            "pecans",
+            "almonds",
+            "walnuts",
+            "pine nuts"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Some say this salad of crabmeat on a bed of lettuce in a chili sauce was created at Seattle's Olympic Club",
+          "choices": [
+            "Chef Salad",
+            "Cobb Salad",
+            "Crab Louie",
+            "Tuna Salad"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This type of orange adds a sweet tang to the classic Chinese chicken salad",
+          "choices": [
+            "tangerine",
+            "clementine",
+            "mandarin",
+            "pomelo"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The phrase \"salad days\", meaning youth, comes from his \"Antony and Cleopatra\"",
+          "choices": [
+            "Christopher Marlowe",
+            "William Shakespeare",
+            "Ben Jonson",
+            "John Webster"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SPEECH",
+      "questions": [
+        {
+          "clue": "As Chief Justice, this ex-pres. spoke on legal reform & warned his talk was \"dry to the point of satisfying the Anti-Saloon League\"",
+          "choices": [
+            "Roosevelt",
+            "Wilson",
+            "Taft",
+            "Hoover"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 632 he gave his farewell sermon & revealed the last verse of the Koran",
+          "choices": [
+            "Abu Bakr",
+            "Mohammed",
+            "Ali",
+            "Umar"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Type of \"stop\" heard in a Cockney pronounciation of \"little\"",
+          "choices": [
+            "velar stop",
+            "glottal stop",
+            "uvular trill",
+            "labial fricative"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In 1653 Oliver Cromwell dismissed the remnant called this anatomy-named \"Parliament\" with abuse & \"in the name of God\u2014go!\"",
+          "choices": [
+            "the Long Parliament",
+            "the Rump Parliament",
+            "the Convention Parliament",
+            "the Cavalier Parliament"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The Beatitudes as well as the Lord's Prayer are included in this speech",
+          "choices": [
+            "the Sermon at Antioch",
+            "the Sermon on the Mountaintop",
+            "the Sermon on the Mount",
+            "the Beatitudes Discourse"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "QUEENS OF ENGLAND",
+      "questions": [
+        {
+          "clue": "In 1559 she signed the Act of Supremacy establishing the monarch as head of the Church of England",
+          "choices": [
+            "Mary I",
+            "Elizabeth I",
+            "Anne Boleyn",
+            "Jane Grey"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "His wife, Henrietta Maria, fled to France in 1644 & never saw him again; he was executed in 1649",
+          "choices": [
+            "Charles I",
+            "James II",
+            "William III",
+            "George I"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In 1137, at the age of 15, she inherited the independent state of Aquitaine for her father William X",
+          "choices": [
+            "Matilda",
+            "Adela",
+            "Alys",
+            "Eleanor"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "We don't know if his teenage wife, Isabel of Angouleme, was ever called Isabel Lackland",
+          "choices": [
+            "King Henry II",
+            "King Richard I",
+            "King Stephen",
+            "King John"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "On Feb. 12, 1554 this 9-day queen & her husband were beheaded for their involvement in Wyatt's Rebellion",
+          "choices": [
+            "Lady Jane Grey",
+            "Lady Catherine Grey",
+            "Lady Mary Grey",
+            "Lady Elizabeth Grey"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1903 Otto Nordenskjold named a channel in Antarctica for this country's crown prince Gustav",
+    "choices": [
+      "Norway (& Sweden)",
+      "Denmark (& Norway)",
+      "Russia (& USSR)",
+      "Germany (& Prussia)"
+    ],
+    "correctIndex": 0,
+    "category": "CHANNEL SURFING"
+  }
+}

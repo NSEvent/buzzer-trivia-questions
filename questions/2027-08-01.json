@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-01",
+  "categories": [
+    {
+      "name": "WHAT'S THAT CALLED?",
+      "questions": [
+        {
+          "clue": "On this berry whose 2 main varieties are red & black, the little beads are called drupelets",
+          "choices": [
+            "blackberries",
+            "strawberries",
+            "blueberries",
+            "raspberries"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It's the notch that fits on the bowstring in the non-business end of an arrow",
+          "choices": [
+            "the nock",
+            "the fletching",
+            "the shaft",
+            "the tip"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew finishes chalking up his pool cue.) Keep track of this part of the table, where I'm suavely setting down my chalk",
+          "choices": [
+            "the cushion",
+            "the rail",
+            "the felt",
+            "the pocket"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Four-letter word for a raised platform, like the one for the veep & speaker at the State of the Union address",
+          "choices": [
+            "a podium",
+            "a stage",
+            "a dais",
+            "a platform"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It's the full-length robe worn by Catholic clergy: white for popes, red for Cardinals, black for priests",
+          "choices": [
+            "the cassock",
+            "the alb",
+            "the surplice",
+            "the cope"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A PLACE IN THE SUN",
+      "questions": [
+        {
+          "clue": "The colossus is long gone, but on this sunny island of Greece you can visit the Acropolis of Lindos",
+          "choices": [
+            "Rhodes",
+            "Crete",
+            "Corfu",
+            "Santorini"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Take the 3:10 to this Arizona town where there's a 90% chance of sunshine, tops in the country",
+          "choices": [
+            "Tucson",
+            "Phoenix",
+            "Yuma",
+            "Nogales"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "There's a 76% chance of sun in this Colorado town that's Spanish for, um, \"town\"",
+          "choices": [
+            "Pueblo",
+            "Denver",
+            "Aurora",
+            "Arvada"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "After flying over the Nazca Lines in this country, get away to Huacachina, an oasis in the middle of the desert",
+          "choices": [
+            "Bolivia",
+            "Chile",
+            "Peru",
+            "Ecuador"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "It looks like a different planet, but one of the hottest places on Earth is Dallol, in this largest Horn of Africa country",
+          "choices": [
+            "Kenya",
+            "Ethiopia",
+            "Somalia",
+            "Sudan"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HOT \"ROD\"s",
+      "questions": [
+        {
+          "clue": "There's the signpost up ahead... it says \"He was a WWII paratrooper, a boxer & a 1960 Emmy winner\"; your next stop: him",
+          "choices": [
+            "Rod Stewart",
+            "Rodney Dangerfield",
+            "Rodney King",
+            "Rod Serling"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It may be shocking to know you can act as one of these to divert attention from other targets of inquiry",
+          "choices": [
+            "a red herring",
+            "a smokescreen",
+            "a distraction technique",
+            "a lightning rod"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "His 5th century B.C. writings traced the struggles between the Greeks & the Persian Empire",
+          "choices": [
+            "Thucydides",
+            "Herodotus",
+            "Xenophon",
+            "Plutarch"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Entombing his still-living sister Madeline, always a social faux pas, wasn't this Poe boy's best move",
+          "choices": [
+            "Roderick Usher",
+            "Ligeia",
+            "Lenore",
+            "Annabel Lee"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Noah's great-grandson, he was remembered as a mighty hunter",
+          "choices": [
+            "Cain",
+            "Abel",
+            "Enoch",
+            "Nimrod"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In 1990 P.M. V.P. Singh's plan to reserve government jobs for low castes caused protests in the country",
+    "choices": [
+      "Pakistan",
+      "India",
+      "Bangladesh",
+      "Sri Lanka"
+    ],
+    "correctIndex": 1,
+    "category": "THIRD WORLD"
+  }
+}

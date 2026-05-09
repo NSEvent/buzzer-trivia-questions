@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-12",
+  "categories": [
+    {
+      "name": "NATIONAL COATS OF ARMS",
+      "questions": [
+        {
+          "clue": "The symbols on its coat of arms represent Aragon, Castile & other historic kingdoms",
+          "choices": [
+            "France",
+            "Spain",
+            "Portugal",
+            "Italy"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This object appears on Switzerland's coat of arms as well as its flag",
+          "choices": [
+            "a star",
+            "a shield",
+            "a cross",
+            "a crown"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The eagle on Egypt's coat of arms is a symbol of this 12th century Muslim warrior",
+          "choices": [
+            "Saladin",
+            "Nasser",
+            "Sadat",
+            "Mubarak"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "The white lion with a double tail on its coat of arms was granted to Bohemia in the 1100s",
+          "choices": [
+            "Hungary",
+            "the Czech Republic",
+            "Austria",
+            "Poland"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The 3 blue lions on this country's coat of arms also appear on the city arms of Tallinn, its capital",
+          "choices": [
+            "Latvia",
+            "Lithuania",
+            "Estonia",
+            "Finland"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FOUND IN TRANSLATION",
+      "questions": [
+        {
+          "clue": "\"Ende Gut, Alles Gut\" is the German title of this Shakespeare play",
+          "choices": [
+            "Much Ado About Nothing",
+            "The Taming of the Shrew",
+            "As You Like It",
+            "All's Well That Ends Well"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A facetious, often bawdy tribute banquet",
+          "choices": [
+            "a roast",
+            "a banquet",
+            "a gala",
+            "a reception"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Amazon.fr lists works by this U.S. author (with a French name), such as his \"Hondo, L'Homme du Desert\"",
+          "choices": [
+            "Zane Grey",
+            "Buster Keaton",
+            "Jack London",
+            "Louis L'Amour"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Irregular plural word for multiple layers of something",
+          "choices": [
+            "stratum",
+            "layers",
+            "levels",
+            "strata"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Push the blue button in your GM car to get this helpful trademarked service",
+          "choices": [
+            "MyChevy",
+            "OnStar",
+            "CarCare",
+            "AutoAssist"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FAIRIES & FOLKLORE",
+      "questions": [
+        {
+          "clue": "Since leprechauns are shoemakers, they often wear aprons made of this",
+          "choices": [
+            "suede",
+            "canvas",
+            "denim",
+            "leather"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Sometimes this mischievous spirit's name follows \"hob\" & sometimes it stands alone",
+          "choices": [
+            "sprite",
+            "pixie",
+            "troll",
+            "goblin"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "A wailing fairy whose name is derived from the Irish meaning \"woman of Fairyland\"",
+          "choices": [
+            "dryad",
+            "nymph",
+            "spirit",
+            "banshee"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Kobolds, who are most associated with this country, often live underground in caves or mines",
+          "choices": [
+            "France",
+            "Germany",
+            "England",
+            "Scotland"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "These household fairies usually wear hats or hoods of the color found in their names",
+          "choices": [
+            "elves",
+            "pixies",
+            "trolls",
+            "brownies"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "1988: \"My Stepmother...\"",
+    "choices": [
+      "Is Not Human",
+      "Loves Me",
+      "Is an Alien",
+      "Is My Wife"
+    ],
+    "correctIndex": 2,
+    "category": "COMPLETES THE FILM TITLE"
+  }
+}

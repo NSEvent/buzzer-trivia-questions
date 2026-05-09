@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-20",
+  "categories": [
+    {
+      "name": "MODERN LINGO",
+      "questions": [
+        {
+          "clue": "Some websites like to curate to your tastes, creating what's called an FYP, this for short",
+          "choices": [
+            "feed flow",
+            "for you page",
+            "smart list",
+            "view mode"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This 3-letter word means \"amazing\"; in a Rae Sremmurd song title, it precedes \"Like Bic\"",
+          "choices": [
+            "Lit Like Vodka",
+            "Lit Like Beer",
+            "\"Lit Like Bic\"",
+            "Lit Like Wine"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Stop with the doomscrolling! Embrace this 2-word phrase that suggests coming into contact with a fescue or Bermuda type",
+          "choices": [
+            "touch grass",
+            "touch dirt",
+            "touch ground",
+            "touch soil"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Also called the \"Brotherly Shove\" by Philadelphia Eagles fans, this rhyming phrase refers to a furious short-yardage gainer",
+          "choices": [
+            "the Shove Push",
+            "the Tush Push",
+            "the Bro Tackle",
+            "the Push Shove"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This 6-letter adjective is a combination of words meaning famished & mad",
+          "choices": [
+            "furious",
+            "hangry",
+            "starving",
+            "irritated"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CELEBRITY SIBLING SURNAMES",
+      "questions": [
+        {
+          "clue": "Liam, Chris & the lesser-known Luke",
+          "choices": [
+            "Hemsworth",
+            "Hemming",
+            "Hemsley",
+            "Hemsby"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Producer/director Garry & comic actress/director Penny",
+          "choices": [
+            "Smith",
+            "Jones",
+            "Brown",
+            "Marshall"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Kelly, Jack & the seldom-seen Aimee",
+          "choices": [
+            "Osborne",
+            "Osbourne",
+            "Osgood",
+            "Osborn"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Donnie & Mark, the pride of Dorchester",
+          "choices": [
+            "Wahlberg",
+            "Baldwin",
+            "Dern",
+            "Phoenix"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Of British singer Lily & brother Alfie from \"Game of Thrones\"",
+          "choices": [
+            "Baldwin",
+            "Allen",
+            "Firth",
+            "Cumberbatch"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "VICE-PRESIDENTS",
+      "questions": [
+        {
+          "clue": "Reportedly, this \"Rough Rider\" once compared McKinley's backbone to a chocolate eclair",
+          "choices": [
+            "Teddy Roosevelt",
+            "William Howard Taft",
+            "Henry Wallace",
+            "John Adams"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "3 years after the famous duel, he was tried for treason & acquitted",
+          "choices": [
+            "Aaron Burr",
+            "Thomas Jefferson",
+            "Alexander Hamilton",
+            "John Jay"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Called our richest vice president, he was only the 2nd ever to be appointed",
+          "choices": [
+            "Carter",
+            "Biden",
+            "Rockefeller",
+            "Pence"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Lincoln's V.P. who like Lyndon Johnson's, had the initials \"H.H.\"",
+          "choices": [
+            "John Adams",
+            "Thomas Jefferson",
+            "Hannibal Hamlin",
+            "Martin Van Buren"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Later vice president, he 1st visited the capital while leading Boy Scouts from Minnesota",
+          "choices": [
+            "Lyndon Johnson",
+            "Hubert Humphrey",
+            "Richard Nixon",
+            "Gerald Ford"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "He graduated from West Point in 1915 & returned to school in 1948 as president of Columbia University",
+    "choices": [
+      "Kennedy",
+      "Johnson",
+      "Eisenhower",
+      "Nixon"
+    ],
+    "correctIndex": 2,
+    "category": "BACK TO SCHOOL"
+  }
+}

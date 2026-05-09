@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-07",
+  "categories": [
+    {
+      "name": "3-NAMED PEOPLE",
+      "questions": [
+        {
+          "clue": "Her \"An Old-Fashioned Girl\" wasn't quite as popular as her \"Little Women\"",
+          "choices": [
+            "Alcott",
+            "Branche",
+            "Whitney",
+            "Cather"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Many students learn the history of African Americans from John Hope Franklin's antonym-titled history \"From ____ to ____\"",
+          "choices": [
+            "From Slavery to Freedom",
+            "From Bondage to Emancipation",
+            "From Chains to Freedom",
+            "From Slavery to Equality"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In the first issue of his newspaper the Liberator, he called for the immediate emancipation of all slaves",
+          "choices": [
+            "(Frederick) Douglass",
+            "(Harriet) Tubman",
+            "(William Lloyd) Garrison",
+            "(Sojourner) Truth"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "She's the first Black woman on the Supreme Court & the first justice to have been a federal public defender",
+          "choices": [
+            "Justice (Sonia) Sotomayor",
+            "Justice (Elena) Kagan",
+            "Justice (Ketanji Brown) Jackson",
+            "Justice (Clarence) Thomas"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Just days after the Scopes monkey trial ended, this statesman who assisted the prosecution died",
+          "choices": [
+            "Grover Cleveland",
+            "William Jennings Bryan",
+            "Theodore Roosevelt",
+            "Woodrow Wilson"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DEUS EX MACHINA",
+      "questions": [
+        {
+          "clue": "Milan, Mariner & Mountaineer are all makes of this auto brand",
+          "choices": [
+            "Mercury",
+            "Pontiac",
+            "Chevrolet",
+            "Buick"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The Swedish company Poseidon helps you with this pastime with products like hoses, regulators & pressure gauges",
+          "choices": [
+            "scuba tripping",
+            "snorkeling",
+            "scuba diving",
+            "freediving"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "A hundred eyes had Argos, a good name for a company that watches the Earth via these",
+          "choices": [
+            "drones",
+            "satellites",
+            "radars",
+            "rovers"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Flywire & Lunalite are innovations from the \"labs\" of this company named for a goddess of victory",
+          "choices": [
+            "Adidas",
+            "Puma",
+            "Under Armour",
+            "Nike"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Canon has a camera that shares a name with this 3-letter dawn goddess",
+          "choices": [
+            "Dawn",
+            "Eos",
+            "Aur",
+            "Lux"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ALL SAINTS",
+      "questions": [
+        {
+          "clue": "Its state's second-most populous city, this capital is built on bluffs along a curve in the Mississippi River",
+          "choices": [
+            "St. Paul",
+            "St. Louis",
+            "Minneapolis",
+            "Baton Rouge"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Name shared by saints of Antioch & Laconi & a society founder",
+          "choices": [
+            "St. Francis",
+            "St. Benedict",
+            "St. Ignatius",
+            "St. Thomas"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Exiled abroad a couple of times, the well-traveled Anselm has this as his emblem",
+          "choices": [
+            "a sword",
+            "a dove",
+            "a crown",
+            "a ship"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "1919's Treaty of Saint-Germain recognized the independence of several countries & the end of this family's empire",
+          "choices": [
+            "the Ottomans",
+            "the Habsburgs",
+            "the Hohenzollerns",
+            "the Romanovs"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "St. Gerasimus, like Androcles, is credited with befriending one of these by pulling a thorn from its paw",
+          "choices": [
+            "a bear",
+            "a wolf",
+            "a lion",
+            "a snake"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The bells in this 12th century Italian tower are no longer rung; we just hope they don't fall out",
+    "choices": [
+      "Leaning Tower of London",
+      "Leaning Tower of Paris",
+      "Leaning Tower of Pisa",
+      "Leaning Tower of Berlin"
+    ],
+    "correctIndex": 2,
+    "category": "THE BELLS"
+  }
+}

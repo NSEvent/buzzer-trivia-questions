@@ -1,0 +1,196 @@
+{
+  "date": "2027-08-18",
+  "categories": [
+    {
+      "name": "CHIEF JUSTICES",
+      "questions": [
+        {
+          "clue": "Before becoming the 17th chief in 2005, he argued before the Court 39 times, his side winning 25",
+          "choices": [
+            "John Roberts",
+            "William Rehnquist",
+            "Earl Warren",
+            "Sandra Day O'Connor"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "This Chief Justice was really on the money, the $10,000 bill, in fact",
+          "choices": [
+            "John Jay",
+            "Oliver Wendell Holmes",
+            "Charles Evans Hughes",
+            "Salmon P. Chase"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Dred Scott's nemesis, he was rejected as an associate in 1835 but a new Senate confirmed him as chief the next year",
+          "choices": [
+            "Edward Douglass White",
+            "Salmon P. Chase",
+            "Roger B. Taney",
+            "Melville Fuller"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Assistant U.S. Attorney General from 1953 to 1956, he later won the Medal of Freedom; how delicious!",
+          "choices": [
+            "Earl Warren",
+            "Fred Vinson",
+            "Warren Burger",
+            "Harlan Fiske Stone"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This man who led 2 branches of govt. in one way or another resigned in 1930 due to ill health & was dead a month later",
+          "choices": [
+            "Hughes",
+            "Stone",
+            "White",
+            "Taft"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WICKED",
+      "questions": [
+        {
+          "clue": "I'm Elphaba\u2014\"Wicked\" is based on Gregory Maguire's 1995 novel subtitled \"The Life & Times of\" this character",
+          "choices": [
+            "the Wicked Witch of the East",
+            "the Wicked Witch of the West",
+            "the Wicked Witch of the South",
+            "the Wicked Witch of the North"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "My name is Madame Morribile & \"weather is my specialty\", which creates a huge plot twist when I conjure up this weather phenomenon",
+          "choices": [
+            "the tornado",
+            "the blizzard",
+            "the hurricane",
+            "the thunderstorm"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "I, Galinda, try to teach my less fortunate college roommate Elphaba to be more like me in this show-stopping number \"Follow my lead / And, yes, indeed / You / Will / Be...\"",
+          "choices": [
+            "No Good Deed",
+            "Defying Gravity",
+            "\"Popular\"",
+            "For Good"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Fiyero here\u2014I've been the love interest of both Elphaba & Galinda for 10 years, since the show opened on Broadway in 2003, the night before this holiday (fitting for a show about 2 witches)",
+          "choices": [
+            "Thanksgiving",
+            "Halloween",
+            "Christmas",
+            "Easter"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In the '70s nearly a million Cambodians died under the regime of this Khmer Rouge leader",
+          "choices": [
+            "Pol Leun",
+            "Nuon Chea",
+            "Pol Pot",
+            "Khieu Samphan"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ENGLISH LIT.",
+      "questions": [
+        {
+          "clue": "Dickens thought about calling this novel \"The Copperfield Survey of the World as it Rolled\"",
+          "choices": [
+            "Oliver Twist",
+            "David Copperfield",
+            "Great Expectations",
+            "Bleak House"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This \"Tom Jones\" author's title heroine \"Amelia\" was based on his late wife, Charlotte",
+          "choices": [
+            "(Henry) Fielding",
+            "(Samuel) Richardson",
+            "(Tobias) Smollett",
+            "(Laurence) Sterne"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This older sister of Osbert & Sacheverell Sitwell published her 1st volume of verse in 1915",
+          "choices": [
+            "Edith (Sitwell)",
+            "Margaret (Sitwell)",
+            "Dorothy (Sitwell)",
+            "Edith (O'Keefe)"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "His novel \"The Mayor of Casterbridge\" opens near the village of Weydon-Priors in Upper Wessex",
+          "choices": [
+            "Charles Dickens",
+            "George Eliot",
+            "Anthony Trollope",
+            "Thomas Hardy"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Rima the Bird Girl is the daughter of an evil spirit named Didi in this \"colorful\" novel by W.H. Hudson",
+          "choices": [
+            "Green Mansions",
+            "The Man Who Would Be King",
+            "The Jungle Book",
+            "King Solomon's Mines"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Richard III's brother, the third Duke of Clarence is said to have drowned in this potent potable",
+    "choices": [
+      "sherry",
+      "brandy",
+      "wine (Malmsey)",
+      "port"
+    ],
+    "correctIndex": 2,
+    "category": "LESSER KNOWN NAMES"
+  }
+}

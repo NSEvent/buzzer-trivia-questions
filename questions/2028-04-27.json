@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-27",
+  "categories": [
+    {
+      "name": "LARGE & IN CHARGE",
+      "questions": [
+        {
+          "clue": "After her husband Albert's death in 1861, she put on weight & ballooned up to a 46-inch waist",
+          "choices": [
+            "Empress Eugenie",
+            "Queen Charlotte",
+            "Empress Maria Theresa",
+            "Queen Victoria"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This Australian state didn't add an \"H\" to the last word in its name when the obese Sir George Reid was premier",
+          "choices": [
+            "South Australia",
+            "New Zealand",
+            "North Queensland",
+            "New South Wales"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "At over 6'5\", Filip Vujanovic is large & in charge of this Balkan nation whose name means \"black mountain\"",
+          "choices": [
+            "Bosnia",
+            "Croatia",
+            "Montenegro",
+            "Serbia"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Haf\u00fe\u00f3r Bj\u00f6rnsson played Gregor Clegane aka the Mountain on this show",
+          "choices": [
+            "Vikings",
+            "The Witcher",
+            "House of the Dragon",
+            "Game of Thrones"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "This giant female lepidopteran has been terrorizing Japan in monster movies since 1961",
+          "choices": [
+            "Battra",
+            "Mothra",
+            "Rodan",
+            "Gigan"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CONGRESSIONAL DISTRICTS",
+      "questions": [
+        {
+          "clue": "In this state the 1st district is the skinny part & the 2nd is the bulgy part by Wyoming",
+          "choices": [
+            "Nevada",
+            "Idaho",
+            "Utah",
+            "Oregon"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Limiting immigration is one of the main causes of Rep. Lamar Smith, from this state's 21st district",
+          "choices": [
+            "California",
+            "Texas",
+            "Florida",
+            "New York"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "The states with only one district covering the whole state include these three large bordering ones",
+          "choices": [
+            "Maine, New Hampshire, Vermont",
+            "Colorado, New Mexico, Arizona",
+            "Montana, South Dakota, North Dakota",
+            "Washington, Oregon, Nevada"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Charlie Melancon represents Houma, New Iberia & Chalmette for this state's 3rd, y'all",
+          "choices": [
+            "Mississippi",
+            "Louisiana",
+            "Texas",
+            "Florida"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Woonsocket & Pawtucket are served by Patrick Kennedy of this state's 1st district",
+          "choices": [
+            "Rhode Island",
+            "Connecticut",
+            "Massachusetts",
+            "New Hampshire"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "RED, WHITE OR BLUE",
+      "questions": [
+        {
+          "clue": "It's rolled out at special events for the stars to walk on",
+          "choices": [
+            "a green carpet",
+            "a gold curtain",
+            "a red carpet",
+            "a purple runner"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The largest living animal on earth has this color in its name",
+          "choices": [
+            "a green sea turtle",
+            "a red panda",
+            "a blue whale",
+            "a blue jay"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It's the name for a \"special\" restaurant meal served at a set price",
+          "choices": [
+            "a red plate special",
+            "a blue plate special",
+            "a green plate special",
+            "a blue ticket special"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Jack London's follow-up doggie tale to \"The Call of the Wild\"",
+          "choices": [
+            "White Fang",
+            "Black Fang",
+            "Grey Fang",
+            "Red Fang"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It's the only one in the title of an Oscar-winning song",
+          "choices": [
+            "\"White Horses\"",
+            "\"White Lies\"",
+            "\"White Christmas\"",
+            "\"White Wings\""
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Head to the Southeast Pacific if you're ready for a fight with the Humboldt, or jumbo flying, species of this cephalopod",
+    "choices": [
+      "octopus",
+      "crab",
+      "lobster",
+      "squid"
+    ],
+    "correctIndex": 3,
+    "category": "OCEAN LIFE"
+  }
+}

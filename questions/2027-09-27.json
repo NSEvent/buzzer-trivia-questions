@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-27",
+  "categories": [
+    {
+      "name": "A PLACE IN HISTORY",
+      "questions": [
+        {
+          "clue": "With dueling illegal, Alexander Hamilton & Aaron Burr shot it out at Weehawken, New Jersey, a quiet spot along this river",
+          "choices": [
+            "the Delaware",
+            "the Potomac",
+            "the Hudson",
+            "the Connecticut"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In 1066 William the Conqueror had the first documented coronation at this site",
+          "choices": [
+            "Canterbury Cathedral",
+            "St. Paul's Cathedral",
+            "Westminster Abbey",
+            "York Minster"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In the 17th century Cardinal Richelieu began using this as a state prison; in the 18th, it drew a big crowd outside",
+          "choices": [
+            "the Tower of London",
+            "the Bastille",
+            "the Conciergerie",
+            "Bastille Day"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The last major conflict of the War of 1812, the battle of this city took place in January 1815, after the war had ended",
+          "choices": [
+            "Battle of Saratoga",
+            "Battle of Gettysburg",
+            "Battle of Yorktown",
+            "Battle of New Orleans"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 1309 Clement V moved the papacy to what is now this French city, using lack of security in Rome as an excuse",
+          "choices": [
+            "Lyon",
+            "Bordeaux",
+            "Avignon",
+            "Marseille"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MAY",
+      "questions": [
+        {
+          "clue": "This institution was formally dedicated May 1, 1847 in Washington, D.C.",
+          "choices": [
+            "Smithsonian Institution",
+            "Library of Congress",
+            "National Gallery of Art",
+            "National Archives"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In the astrological calendar, May is spanned by these 2 zodiacal signs",
+          "choices": [
+            "Aries & Taurus",
+            "Gemini & Cancer",
+            "Taurus & Gemini",
+            "Leo & Virgo"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "May 15, 1756: This European war begins when England declares war on France",
+          "choices": [
+            "The Seven Years' War",
+            "The Napoleonic Wars",
+            "The Hundred Years War",
+            "The War of Spanish Succession"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "May 10, 1941: He parachutes into Scotland with a \"peace plan\"",
+          "choices": [
+            "(Hermann) G\u00f6ring",
+            "(Rudolf) Hess",
+            "(Joachim) von Ribbentrop",
+            "(Heinrich) Himmler"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "May 13, 1787: 11 ships leave England on a voyage that ends by establishing a penal colony here",
+          "choices": [
+            "New Zealand",
+            "South Africa",
+            "Van Diemen's Land",
+            "Australia"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CHESS PAINS",
+      "questions": [
+        {
+          "clue": "In the endgame, 2 opposing ones of these pieces that always move on the same color often leads to a draw",
+          "choices": [
+            "bishops",
+            "knights",
+            "rooks",
+            "queens"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 2008 Ukrainian star Vassily Ivanchuk stormed out of a Chess Olympiad rather than submit to one of these tests",
+          "choices": [
+            "a polygraph test",
+            "a drug test",
+            "a medical exam",
+            "a background check"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A guy looking over a game making annoying suggestions is doing this, from a Yiddish word",
+          "choices": [
+            "spying",
+            "critiquing",
+            "interfering",
+            "kibitz"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In the newspaper, your dumb move that lost a knight would be followed by this symbol, maybe 2 of them",
+          "choices": [
+            "exclamation points",
+            "hash signs",
+            "pound symbols",
+            "question marks"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "(Jimmy of the Clue Crew plays chess with Cheryl.) By moving my rook, I've given my opponent the nasty shock of discovered this",
+          "choices": [
+            "checkmate",
+            "check",
+            "stalemate",
+            "draw"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The male of the Adelie species of this bird may lose 40% of his weight during mating & incubation",
+    "choices": [
+      "the albatross",
+      "the petrel",
+      "the shearwater",
+      "the penguin"
+    ],
+    "correctIndex": 3,
+    "category": "7-LETTER BIRDS"
+  }
+}

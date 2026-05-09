@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-24",
+  "categories": [
+    {
+      "name": "MONEY, MONEY, MONEY",
+      "questions": [
+        {
+          "clue": "Ulysses S. Grant appears on this U.S. bill",
+          "choices": [
+            "the $20",
+            "the $50",
+            "the $100",
+            "the $10"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "The name of this coin issued in the 1100s by Roger II of Sicily, Duke of Apulia, now refers to an admission ticket",
+          "choices": [
+            "duro",
+            "ducat",
+            "dinar",
+            "dollar"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Norfolk Island & the Republic of Kiribati use this country's dollar",
+          "choices": [
+            "Canada",
+            "Australia",
+            "New Zealand",
+            "Singapore"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "English settlers in the New World used this word from Algonquian for beads used as Indian money",
+          "choices": [
+            "shell",
+            "cowrie",
+            "bead",
+            "wampum"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In 2004 a new version of this coin depicted the peace medal Lewis & Clark gave to Indians during their exploration",
+          "choices": [
+            "a penny",
+            "a nickel",
+            "a dime",
+            "a quarter"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ART MOVEMENTS",
+      "questions": [
+        {
+          "clue": "The Incoherents had fun with art: Eug\u00e8ne Bataille depicted this Leonardo da Vinci gal enjoying a pipe",
+          "choices": [
+            "the Mona Lisa",
+            "the Last Supper",
+            "Vitruvian Man",
+            "The Birth of Venus"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Dali dabbled in this form of art, which tries to reveal a new & higher reality",
+          "choices": [
+            "cubism",
+            "surrealism",
+            "futurism",
+            "dadaism"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "New York City's Chrysler Building exemplifies this 1920s style using zigzag forms & chrome ornamentation",
+          "choices": [
+            "bauhaus",
+            "art nouveau",
+            "art deco",
+            "modernism"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Named for Orpheus, Orphism was an offshoot of this other \"-ism\" of Georges Braque",
+          "choices": [
+            "Fauvism",
+            "Dadaism",
+            "Surrealism",
+            "Cubism"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "As the name of this 18th century movement suggested, it tried to recreate the art of Greece & Rome",
+          "choices": [
+            "romanticism",
+            "baroque",
+            "impressionism",
+            "neoclassical"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "IT'S A \"LOCK\"",
+      "questions": [
+        {
+          "clue": "You might hide a tuft of your sweetheart's hair in this small pendant",
+          "choices": [
+            "brooch",
+            "locket",
+            "pendant",
+            "charm"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Cubical term for a foolish person",
+          "choices": [
+            "a blockhead",
+            "an empty vessel",
+            "a dull wit",
+            "a heavy mind"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "One of his most famous works was \"An Essay Concerning Human Understanding\"",
+          "choices": [
+            "Thomas Hobbes",
+            "George Berkeley",
+            "John Locke",
+            "David Hume"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "This company has been a leader in identity theft protection since its founding in 2005",
+          "choices": [
+            "IdentityForce",
+            "LifeLock",
+            "Identity Guard",
+            "LifeSecure"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In the U.S. most imitation crab & lobster are made from this fish of the cod family",
+          "choices": [
+            "haddock",
+            "whiting",
+            "cod",
+            "pollock"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "With a population of over 2 million, this capital of Uzbekistan is central Asia's largest city",
+    "choices": [
+      "Samarkand",
+      "Tashkent",
+      "Bukhara",
+      "Khiva"
+    ],
+    "correctIndex": 1,
+    "category": "ASIAN CITIES"
+  }
+}

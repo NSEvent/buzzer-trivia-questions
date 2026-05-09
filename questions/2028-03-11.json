@@ -1,0 +1,207 @@
+{
+  "date": "2028-03-11",
+  "categories": [
+    {
+      "name": "TV DRAMA",
+      "questions": [
+        {
+          "clue": "This is the longest-running medical drama & also the longest-running daytime drama still on television",
+          "choices": [
+            "Days of Our Lives",
+            "The Young and the Restless",
+            "General Hospital",
+            "One Life to Live"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "She starred on dramas like \"The Leftovers\" & \"The Gilded Age\"",
+          "choices": [
+            "Elizabeth Debicki",
+            "Michelle Dockery",
+            "Julia Garner",
+            "Carrie Coon"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Eddie Marsan, Dash Mihok & Jon Voight play family members of this Showtime title character",
+          "choices": [
+            "Ray Garcia",
+            "Ray Donovan",
+            "Ray Romano",
+            "Ray Liotta"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Post \"Spider-Man\", he played a devout detective investigating fundamentalism & murder in \"Under the Banner of Heaven\"",
+          "choices": [
+            "Jake Gyllenhaal",
+            "Joaquin Phoenix",
+            "Andrew Garfield",
+            "Ryan Gosling"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "President Obama said his favorite character on \"The Wire\" was this stickup man portrayed by Michael K. Williams",
+          "choices": [
+            "Stringer Bell",
+            "Omar (Little)",
+            "Proposition Joe",
+            "Marlo Stanfield"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "INTERNATIONAL STARS",
+      "questions": [
+        {
+          "clue": "This Frenchman has played Christopher Columbus & Cyrano de Bergerac",
+          "choices": [
+            "Jean Reno",
+            "Lambert Wilson",
+            "Vincent Cassel",
+            "Gerard Depardieu"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "We assume Baryshnikov took his first graceful steps in this capital of Latvia, his birthplace",
+          "choices": [
+            "Tallinn",
+            "Riga",
+            "Vilnius",
+            "Helsinki"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Natalie Portman",
+          "choices": [
+            "France",
+            "Canada",
+            "Israel",
+            "United States"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Jan Troell's 1971 film \"The Emigrants\" earned this Norwegian her first Oscar nomination",
+          "choices": [
+            "Liv Ullmann",
+            "Astrid Henning-Jensen",
+            "Liv Elwegaard",
+            "Else Jarlbak"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Her film \"Never on Sunday\" was set in Piraeus & she later represented Piraeus in the Greek parliament",
+          "choices": [
+            "Irene Papas",
+            "Katina Paxinou",
+            "Melina Mercouri",
+            "Sophia Loren"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BIG SCREEN BRAINBUSTERS",
+      "questions": [
+        {
+          "clue": "Regarding the food of the future, Charlton Heston reveals it's people! in this \"colorful\" film",
+          "choices": [
+            "Soylent Green",
+            "Logan's Run",
+            "Silent Running",
+            "Soylent Red"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In \"The Final Countdown\", this aircraft carrier travels back in time to just before the attack on Pearl Harbor",
+          "choices": [
+            "Enterprise",
+            "Lexington",
+            "Bunker Hill",
+            "Nimitz"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "John Leguizamo, Patrick Swayze & this man \"dragged\" through 1995's \"To Wong Foo, Thanks for Everything, Julie Newmar\"",
+          "choices": [
+            "Denzel Washington",
+            "Samuel L. Jackson",
+            "Will Smith",
+            "Wesley Snipes"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Playing Zira, she was the only performer to appear in each of the first 3 \"Planet Of The Apes\" movies",
+          "choices": [
+            "Kim Hunter",
+            "Jeanne Moreau",
+            "Mia Farrow",
+            "Jane Wyman"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Chicago newspaperman Jimmy Stewart helps a woman prove her son's innocence in this 1948 classic",
+          "choices": [
+            "Rope",
+            "Vertigo",
+            "North by Northwest",
+            "Call Northside 777"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Martin Van Buren, William Henry Harrison & John Tyler were these number presidents",
+    "choices": [
+      "8, 9, & 10",
+      "7, 8, & 9",
+      "9, 10, & 11",
+      "6, 7, & 8"
+    ],
+    "correctIndex": 0,
+    "category": "CONSECUTIVE NUMBERS"
+  },
+  "bonusRound": {
+    "clue": "It's a popular dairy product from Sargento",
+    "choices": [
+      "cheese curds",
+      "cheese slices",
+      "cheese wheels",
+      "string cheese"
+    ],
+    "correctIndex": 3,
+    "category": "STRINGING YOU ALONG"
+  }
+}

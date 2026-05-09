@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-11",
+  "categories": [
+    {
+      "name": "PRESIDENTIAL PASTIMES",
+      "questions": [
+        {
+          "clue": "John Quincy Adams loved to \"rack 'em up\" after buying the first one of these for the White House",
+          "choices": [
+            "a billiard table",
+            "a ping pong table",
+            "a foosball table",
+            "a pool table"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Woodrow Wilson had the patience to play the Canfield version of this card game",
+          "choices": [
+            "hearts",
+            "bridge",
+            "solitaire",
+            "poker"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "President Clinton not only enjoyed listening to music but playing this instrument as well, even on TV",
+          "choices": [
+            "the trumpet",
+            "the guitar",
+            "the saxophone",
+            "the piano"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "He enjoyed gambling on the ponies; he also bred racehorses at his Hermitage home",
+          "choices": [
+            "Thomas Jefferson",
+            "Andrew Jackson",
+            "Abraham Lincoln",
+            "Theodore Roosevelt"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "& in other news... during a fishing trip in Georgia in 1979, Jimmy Carter was attacked by a \"killer\" one of these",
+          "choices": [
+            "a rabbit",
+            "a bear",
+            "a shark",
+            "a snake"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "A PHRASE OF TURN",
+      "questions": [
+        {
+          "clue": "It precedes \"And Shout\" in an Isley Brothers tune",
+          "choices": [
+            "\"Twist\"",
+            "Shout",
+            "Twist and Shout",
+            "Shout and Twist"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "From the Latin for \"roll\", it means to move in a curving orbit; your mom thinks \"the world\" does it \"around you\"",
+          "choices": [
+            "rotate",
+            "revolve",
+            "revolve around",
+            "spin"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "To change one's loyalties, perhaps \"from a Communist country\", like Baryshnikov did",
+          "choices": [
+            "defect",
+            "defy",
+            "deviate",
+            "diverge"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "This word for a graceful turn is from French for \"spinning top\"",
+          "choices": [
+            "waltz",
+            "pirouette",
+            "pirouetting",
+            "spiral"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "Meaning to cause to turn on an axis, it's time to do this to \"the farm crops\"",
+          "choices": [
+            "spin",
+            "twirl",
+            "rotate",
+            "revolve"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "POLI SCI",
+      "questions": [
+        {
+          "clue": "The idea that the political spectrum is an arc with far right & far left bending toward each other is this lucky symbol theory",
+          "choices": [
+            "a rainbow",
+            "a horseshoe magnet",
+            "a lucky charm",
+            "a horseshoe"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "This term first referred to where the Conservatives sat in the French assembly",
+          "choices": [
+            "Left wing",
+            "Center stage",
+            "Far right",
+            "Right wing"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The high seas territorial limit for U.S. was originally set at this, their range of cannons at the time",
+          "choices": [
+            "12 nautical miles",
+            "3 (nautical) miles",
+            "120 nautical miles",
+            "200 nautical miles"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Nickname for appropriation bills that are \"pieces of bacon\" for a congressman's \"folks back home\"",
+          "choices": [
+            "riders and amendments",
+            "pork barrel",
+            "earmarked spending",
+            "logrolling tactics"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's the 3-word doctrine that the individual branches of government are distinct & shall not infringe on the others' authority",
+          "choices": [
+            "checks and balances",
+            "federalism doctrine",
+            "executive privilege",
+            "separation of powers"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This Englishman's 900-page novel \"Nicholas Nickleby\" became a 9-hour play & a miniseries",
+    "choices": [
+      "William Thackeray",
+      "George Eliot",
+      "Charlotte Bront\u00eb",
+      "Charles Dickens"
+    ],
+    "correctIndex": 3,
+    "category": "BIG BOOKS"
+  }
+}

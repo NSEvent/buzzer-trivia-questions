@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-02",
+  "categories": [
+    {
+      "name": "\"ER\"",
+      "questions": [
+        {
+          "clue": "To wear away, geologically speaking",
+          "choices": [
+            "corrode",
+            "weather",
+            "erode",
+            "decay"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This small northern weasel is also known as a stoat",
+          "choices": [
+            "ferret",
+            "marten",
+            "ermine",
+            "weasel"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "9-letter adjective meaning incorrect or mistaken",
+          "choices": [
+            "incorrect",
+            "faulty",
+            "erroneous",
+            "mistaken"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "A short journey made to accomplish an object or task",
+          "choices": [
+            "an errand",
+            "a mission",
+            "a trek",
+            "a quest"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "Asmara is this African nation's capital",
+          "choices": [
+            "Ethiopia",
+            "Eritrea",
+            "Somalia",
+            "Djibouti"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SPANISH CITIES",
+      "questions": [
+        {
+          "clue": "Now a museum, the house of this artist who painted \"A View of Toledo\" is in Toledo",
+          "choices": [
+            "Diego Velazquez",
+            "Francisco Goya",
+            "Pablo Picasso",
+            "El Greco"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "According to legend, this second-largest city was founded by Hamilcar Barca around 230 B.C.",
+          "choices": [
+            "Barcelona",
+            "Valencia",
+            "Seville",
+            "Malaga"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This city where St. Teresa was born is one of Spain's great religious centers",
+          "choices": [
+            "Toledo",
+            "Avila",
+            "Salamanca",
+            "Leon"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "A 2,000-year-old Roman aqueduct serves as a symbol of this city that shares its name with a famous guitarist",
+          "choices": [
+            "Barcelona",
+            "Segovia",
+            "Valencia",
+            "Seville"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This home of El Greco is famous for its fine steel swords",
+          "choices": [
+            "Toledo",
+            "Madrid",
+            "Granada",
+            "Bilbao"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FICTIONAL ANIMALS",
+      "questions": [
+        {
+          "clue": "Garfield the cat craves this Italian dish",
+          "choices": [
+            "pizza",
+            "spaghetti",
+            "lasagna",
+            "pancakes"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Major, the prize boar, said man was an enemy & urged residents here to rebel",
+          "choices": [
+            "Animal Farm",
+            "Watership Down",
+            "Winnie-the-Pooh",
+            "Charlotte's Web"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A nasty, ugly troll threatens to gobble up this ruminant trio",
+          "choices": [
+            "the Three Little Pigs",
+            "the Three Blind Mice",
+            "the Three Musketeers",
+            "the Three Billy Goats Gruff"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In Great Britain this inquisitive monkey is known as Zozo",
+          "choices": [
+            "Freddy the Bear",
+            "Curious George",
+            "Curious Jimmy",
+            "Cheeky Macaque"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The reindeer in \"A Visit from St. Nicholas\" who shares his name with a Roman god",
+          "choices": [
+            "Pluto",
+            "Jupiter",
+            "Mercury",
+            "Cupid"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In the 1770s, this pamphleteer wrote \"African Slavery in America\", an article condemning slavery",
+    "choices": [
+      "Thomas Jefferson",
+      "Benjamin Franklin",
+      "Thomas Paine",
+      "Samuel Adams"
+    ],
+    "correctIndex": 2,
+    "category": "18th CENTURY AMERICANS"
+  }
+}

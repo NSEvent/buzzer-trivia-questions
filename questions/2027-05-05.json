@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-05",
+  "categories": [
+    {
+      "name": "20th CENTURY FOX HISTORY",
+      "questions": [
+        {
+          "clue": "In 1940, this odd couple comedy duo left Hal Roach Studios & soon signed with 20th Century Fox",
+          "choices": [
+            "Laurel & Hardy",
+            "Abbott & Costello",
+            "Martin & Lewis",
+            "Marx Brothers"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "10 years after Newman & Redford, Tom Berenger & William Katt played this duo in their early days",
+          "choices": [
+            "Dick Tracy & Commissioner Gordon",
+            "Bonnie & Clyde",
+            "Butch Cassidy & the Sundance Kid",
+            "Splendor & Glory"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This actor plies Zac Efron with showbiz dreams, shots of booze & dancing in \"The Greatest Showman\"",
+          "choices": [
+            "Ian McKellen",
+            "Hugh Jackman",
+            "Patrick Stewart",
+            "Tom Hanks"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "In \"History of the World, Part I\" he plays a waiter at the Last Supper & asks if the diners want separate checks",
+          "choices": [
+            "Gene Wilder",
+            "Mel Brooks",
+            "Robin Williams",
+            "Steve Martin"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "The bombing of Pearl Harbor is featured in this Richard Fleischer epic! epic! epic!",
+          "choices": [
+            "Midway",
+            "Tora! Tora! Tora! is a movie",
+            "Tora! Tora! Tora!",
+            "Pearl Harbor 1941"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "NAMES IN FASHION",
+      "questions": [
+        {
+          "clue": "Yves Saint Laurent's first boutique was called \"Rive Gauche\", French for this part of the Seine",
+          "choices": [
+            "the Left Bank",
+            "the Right Bank",
+            "the North Shore",
+            "the River Bank"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1990 this designer opened her flagship bridal salon at the Carlyle Hotel in New York City",
+          "choices": [
+            "(Vera) Wang",
+            "Donald Trump",
+            "Michael Bloomberg",
+            "Ivan Boesky"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Sure to please your little girl is a pair of kids' sneakers for $2,400, with rhinestones & a red rubber sole from this designer",
+          "choices": [
+            "(Christian) Louboutin",
+            "Jimmy Choo",
+            "Manolo Blahnik",
+            "Roger Vivier"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Fashion royalty\u2014here's this Belgian-born designer & icon & Talita, her princess granddaughter, a designer in her own right",
+          "choices": [
+            "Coco Chanel",
+            "Yves Saint Laurent",
+            "Diane von Furstenberg",
+            "Christian Dior"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "The Row & Elizabeth and James are fashion brands from these twin sisters",
+          "choices": [
+            "the Hadids",
+            "the Hiltons",
+            "the Kerrs",
+            "the Olsens"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MULTIPLE CHOICE",
+      "questions": [
+        {
+          "clue": "Of the 50, it's the state with the highest zip code numbers",
+          "choices": [
+            "Alaska",
+            "Hawaii",
+            "Alaska is correct",
+            "Montana"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Of the 39 Presidents, 1 whose face is on the top selling Halloween mask bought by adults",
+          "choices": [
+            "Gerald Ford",
+            "Richard Nixon",
+            "Ronald Reagan",
+            "George H.W. Bush"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Of the 12, month in which the 1985 NHL regular season play began",
+          "choices": [
+            "September",
+            "November",
+            "October",
+            "December"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Of the more than 1000 guest stars on \"The Love Boat\", this guitarist has been on the most\u20149 times",
+          "choices": [
+            "Bob Denver",
+            "Gavin MacLeod",
+            "Lauren Tewes",
+            "Charo"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "It's the lowest common multiple of 5 & 14",
+          "choices": [
+            "70",
+            "35",
+            "98",
+            "56"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A \"Native Son\" of Mississippi, this African-American author died in 1960 & is buried in Paris",
+    "choices": [
+      "James Baldwin",
+      "Richard Wright",
+      "Langston Hughes",
+      "Richard Pryor"
+    ],
+    "correctIndex": 1,
+    "category": "FOR RICHARD"
+  }
+}

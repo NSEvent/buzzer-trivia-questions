@@ -1,0 +1,196 @@
+{
+  "date": "2027-09-16",
+  "categories": [
+    {
+      "name": "IVY LEAGUE SCHOOLS",
+      "questions": [
+        {
+          "clue": "Founded in Warren, Rhode Island, it moved to Providence in 1770",
+          "choices": [
+            "Harvard",
+            "Yale",
+            "Dartmouth",
+            "Brown"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "It's home to the Lauder Institute of Management & the Wharton School of Business",
+          "choices": [
+            "Harvard University",
+            "Columbia University",
+            "Penn (the University of Pennsylvania)",
+            "Dartmouth College"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Part of Penn, this business school once had the goal of its grads becoming \"pillars of the state\"",
+          "choices": [
+            "Harvard",
+            "Columbia",
+            "Cornell",
+            "Wharton"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The Woodrow Wilson School of Public & International Affairs is located at this university",
+          "choices": [
+            "Princeton",
+            "Columbia",
+            "Cornell",
+            "Yale"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "The prestigious Haffenreffer Museum of Anthropology in Bristol, R.I. is owned by this university",
+          "choices": [
+            "Harvard University",
+            "Yale University",
+            "Princeton University",
+            "Brown University"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE FAB FOUR",
+      "questions": [
+        {
+          "clue": "\"Nobody ever hears him, or the sound he appears to make, and he never seems to notice\"",
+          "choices": [
+            "the man in the iron mask",
+            "the boy with the balloon",
+            "the girl with the dragon tattoo",
+            "\"the fool on the hill\""
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The Beatles' involvement with gurus in 1967 led to this album & accompanying TV special",
+          "choices": [
+            "The Magical Mystery Tour",
+            "The Yellow Submarine",
+            "Sgt. Pepper's Lonely Hearts Club Band",
+            "Abbey Road"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "George learned to play guitar in his teens & learned to play this Asian string instrument in his 20s",
+          "choices": [
+            "a sitar",
+            "a tabla",
+            "a banjo",
+            "a mandolin"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "All 4 Beatles came from this city",
+          "choices": [
+            "Manchester",
+            "London",
+            "Liverpool",
+            "Birmingham"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "At the 1990 Grammys he received a Lifetime Achievement Award",
+          "choices": [
+            "John Lennon",
+            "Paul McCartney",
+            "George Harrison",
+            "Ringo Starr"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CASTLES & CHATEAUX",
+      "questions": [
+        {
+          "clue": "This royal family's name came from one of their 1st castles, \"Habichtsburg\", Hawk's Castle",
+          "choices": [
+            "Vikings",
+            "Normans",
+            "Plantagenets",
+            "Hapsburgs"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Charles VII gave a chateau to \"La Beaute\", who was the 1st \"official\" 1 of these to a French king",
+          "choices": [
+            "queen",
+            "concubine",
+            "mistress",
+            "sister"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Playwright who penned part of \"Le Bourgeois gentilhomme\" at the Chateau de Chambord",
+          "choices": [
+            "Beaumarchais",
+            "Moli\u00e8re",
+            "Racine",
+            "Corneille"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This castle on the River Dee is the British sovereign's private residence in Scotland",
+          "choices": [
+            "Glamis",
+            "Falkland",
+            "Dunrobin",
+            "Balmoral"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The opulent Chateau d'Artigny was built by this 20th century French perfume king",
+          "choices": [
+            "Ernest Beaux",
+            "Jacques Guerlain",
+            "Fran\u00e7ois Coty",
+            "Francois Demachy"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Sec'y of State under Carter, he resigned because he could not support plan to rescue hostages in Iran",
+    "choices": [
+      "Cyrus Vance",
+      "Edmund Muskie",
+      "Zbigniew Brzezinski",
+      "Warren Christopher"
+    ],
+    "correctIndex": 0,
+    "category": "WEST VIRGINIANS"
+  }
+}

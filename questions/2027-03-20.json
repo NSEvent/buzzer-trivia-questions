@@ -1,0 +1,207 @@
+{
+  "date": "2027-03-20",
+  "categories": [
+    {
+      "name": "SECOND-LARGEST CITIES",
+      "questions": [
+        {
+          "clue": "This seaport is the second most populous city in France",
+          "choices": [
+            "Lyon",
+            "Marseille",
+            "Toulouse",
+            "Nice"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Rio de Janeiro",
+          "choices": [
+            "Brazil",
+            "Argentina",
+            "Chile",
+            "Peru"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Porto, 263,000",
+          "choices": [
+            "Portugal",
+            "Spain",
+            "Greece",
+            "Italy"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Durban, 2.4 million",
+          "choices": [
+            "Kenya",
+            "Nigeria",
+            "South Africa",
+            "Egypt"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In Africa: Buchanan",
+          "choices": [
+            "Guinea",
+            "Sierra Leone",
+            "Liberia",
+            "Ghana"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COUNTRY NICKNAMES",
+      "questions": [
+        {
+          "clue": "\"The Tear Drop of India\"",
+          "choices": [
+            "Maldives",
+            "Sri Lanka",
+            "Myanmar",
+            "Bhutan"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Indonesia has been dubbed the \"Emerald\" of this great circle",
+          "choices": [
+            "the Tropic of Cancer",
+            "the Arctic Circle",
+            "the Tropic of Capricorn",
+            "the equator"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "\"The Land of the White Elephant\", AKA \"The Land of Smiles\"",
+          "choices": [
+            "Laos",
+            "Thailand",
+            "Myanmar",
+            "Cambodia"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "\"The Bread Basket of Europe\", it stretches from Uzhgorod to Luhansk",
+          "choices": [
+            "the Bread Basket of Africa",
+            "the Fruit Bowl of Asia",
+            "the Grain Barn of the Americas",
+            "the Ukraine"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Canada's nickname has these 2 words before \"North\"",
+          "choices": [
+            "Great Green",
+            "Great White",
+            "Great Blue",
+            "Great Red"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ON \"Q\"",
+      "questions": [
+        {
+          "clue": "Made with eggs, cheese & other fillings in a pastry shell, it's what real men don't eat",
+          "choices": [
+            "Quinoa",
+            "Quiche",
+            "Quark",
+            "Quahog"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Where you keep your arrows",
+          "choices": [
+            "quilt",
+            "quark",
+            "quiver",
+            "quahog"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It once meant wise or skilled; now it means old-fashioned & charming",
+          "choices": [
+            "rustic",
+            "vintage",
+            "antique",
+            "quaint"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "A senior barrister in an English high court is one of these counsels",
+          "choices": [
+            "King's counsel",
+            "Senior counsel",
+            "Royal counsel",
+            "Queen's counsel"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "In Chapter X of \"Alice in Wonderland\", this French square dance gets top billing along with a lobster",
+          "choices": [
+            "a gavotte",
+            "a minuet",
+            "a quadrille",
+            "a contredanse"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "To make a big deal out of something minor is to make a mountain out of this",
+    "choices": [
+      "a boulder",
+      "a molehill",
+      "a hill",
+      "a mound"
+    ],
+    "correctIndex": 1,
+    "category": "ANIMAL WORDS & PHRASES"
+  },
+  "bonusRound": {
+    "clue": "What he said in his inaugural: \"We admit of no govt. by divine right\"; what he should have said: \"I need a heavier coat!\"",
+    "choices": [
+      "William Henry Harrison",
+      "John Quincy Adams",
+      "Zachary Taylor",
+      "James Monroe"
+    ],
+    "correctIndex": 0,
+    "category": "THE PREZ SEZ"
+  }
+}

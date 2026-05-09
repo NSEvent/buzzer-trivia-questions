@@ -1,0 +1,207 @@
+{
+  "date": "2027-09-25",
+  "categories": [
+    {
+      "name": "WORLD OF BEERS",
+      "questions": [
+        {
+          "clue": "Gold Star & Maccabee",
+          "choices": [
+            "Germany",
+            "Czech Republic",
+            "Austria",
+            "Israel"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Cooper's Extra Stout & Foster's lager",
+          "choices": [
+            "New Zealand",
+            "South Africa",
+            "Canada",
+            "Australia"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "First brewed in 1842, Pilsner Urquell from this Central European republic is based on a beer first made in the Middle Ages",
+          "choices": [
+            "Poland",
+            "Hungary",
+            "Slovakia",
+            "the Czech Republic"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Trappist monks in this small European country make Chimay & use the income to support their charitable works",
+          "choices": [
+            "Netherlands",
+            "Germany",
+            "France",
+            "Belgium"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Kirin & Sapporo",
+          "choices": [
+            "China",
+            "Japan",
+            "Korea",
+            "Vietnam"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COLORFUL LIT",
+      "questions": [
+        {
+          "clue": "Turned into a movie & a Broadway musical: \"The Color ____\"",
+          "choices": [
+            "purple",
+            "orange",
+            "blue",
+            "green"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Thomas Harris introduced the world to Hannibal Lecter in this 1981 novel",
+          "choices": [
+            "\"Red Dragon\"",
+            "\"Black Swan\"",
+            "\"Red Riding Hood\"",
+            "\"Blue Beetle\""
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "By Erik Larson, about \"Murder, Magic and Madness at the Fair\": \"The Devil in the ____ City\"",
+          "choices": [
+            "Black",
+            "Red",
+            "White",
+            "Blue"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Much of this Stephen King serial novel takes place at Cold Mountain Penitentiary",
+          "choices": [
+            "\"Rita Hayworth and Shawshank Redemption\"",
+            "\"The Green Mile\"",
+            "\"The Stand\"",
+            "\"Misery\""
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "By Martha Hall Kelley about 3 women whose lives intersect during World War II & the Holocaust: \"____ Girls\"",
+          "choices": [
+            "lily of the valley",
+            "rose",
+            "lavender",
+            "lilac"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WILD THINGS",
+      "questions": [
+        {
+          "clue": "Kublai Khan kept this fastest cat as a pet; you can't & shouldn't",
+          "choices": [
+            "the jaguar",
+            "the serval",
+            "the ocelot",
+            "the cheetah"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Bred in captivity, dozens of these rare \"masked\" weasels were introduced into the Wyoming wilderness in 1991",
+          "choices": [
+            "Weasels",
+            "Minks",
+            "Ferrets",
+            "Stoats"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The rough skin of these fish that make up the order Selachii was once made into a type of sandpaper called shagreen",
+          "choices": [
+            "skates",
+            "sharks",
+            "rays",
+            "dogfish"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This 5-letter so-called cat excretes a musk that is used in the making of perfumes",
+          "choices": [
+            "the ferret",
+            "the weasel",
+            "the civet",
+            "the stoat"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Mambas are members of this venomous snake family that is famed for its hood",
+          "choices": [
+            "the cobra",
+            "the viper",
+            "the mamba",
+            "the adder"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Catching these is the main economic activity of Clipperton Island, a French Pacific atoll",
+    "choices": [
+      "salmon",
+      "shark",
+      "whale",
+      "tuna"
+    ],
+    "correctIndex": 3,
+    "category": "\"TU\" MUCH"
+  },
+  "bonusRound": {
+    "clue": "It's the most famous of Italy's blue-veined cheeses",
+    "choices": [
+      "Parmigiano",
+      "Mozzarella",
+      "Pecorino",
+      "Gorgonzola"
+    ],
+    "correctIndex": 3,
+    "category": "ITALIAN CUISINE"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2028-04-15",
+  "categories": [
+    {
+      "name": "HOLIDAYS",
+      "questions": [
+        {
+          "clue": "On the 9th day of the 9th month, the Chinese spend the day flying these toys",
+          "choices": [
+            "butterflies",
+            "balloons",
+            "paper cranes",
+            "kites"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "Festivals in Dutch-American communities are highlighted by Klompen Dances, named for these",
+          "choices": [
+            "Wooden Shoes",
+            "Galoshes",
+            "Clogs",
+            "Rubber Boots"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "In Alaska, the last Monday in March is a state holiday honoring this Secretary of State",
+          "choices": [
+            "(William) Henry Seward",
+            "(Alphonso) Taft",
+            "(Edmund) Randolph",
+            "(William) Seward"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1999 New Hampshire was the last state to make this January event a paid state holiday",
+          "choices": [
+            "Lincoln Birthday",
+            "Columbus Day",
+            "Martin Luther King Day",
+            "Presidents' Day"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "Until 1752, the 13 colonies observed Annunciation Day, the 25th of this month, as New Year's",
+          "choices": [
+            "January",
+            "March",
+            "April",
+            "December"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MUSICAL STATES",
+      "questions": [
+        {
+          "clue": "This progressive rock band from Topeka blew into the Top 10 in 1978 with \"Dust in the Wind\"",
+          "choices": [
+            "Kansas",
+            "Illinois",
+            "Nebraska",
+            "Oklahoma"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In 1967 the Bee Gees sang, \"The lights all went out in\" this state \"the day I left her standing on her own\"",
+          "choices": [
+            "Virginia",
+            "Massachusetts",
+            "Connecticut",
+            "New Hampshire"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "This state precedes \"Rain\" in an Elvis song title & \"Woman\" in the title of a Neil Diamond hit",
+          "choices": [
+            "Mississippi",
+            "Louisiana",
+            "Tennessee",
+            "Kentucky"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1966 the Mamas & the Papas were \"Dreamin'\" about this state \"on such a winter's day\"",
+          "choices": [
+            "Arizona",
+            "Colorado",
+            "California",
+            "Hawaii"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1987 George Strait sang, \"All my ex's live in\" this state, \"and that's why I hang my hat in Tennessee\"",
+          "choices": [
+            "Oklahoma",
+            "Arkansas",
+            "Missouri",
+            "Texas"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ANAGRAMS",
+      "questions": [
+        {
+          "clue": "It's the only color Carol ever wears",
+          "choices": [
+            "purple",
+            "coral (from Carol)",
+            "scarlet",
+            "crimson"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "If you know where to look, you can find this brand of cigarettes",
+          "choices": [
+            "Marlboro",
+            "Camel",
+            "Kool (from look)",
+            "Lucky"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "If you don't know the last name of this founder of Time Magazine here's your clue",
+          "choices": [
+            "Warner (from clue)",
+            "Branson (from clue)",
+            "Murry (from clue)",
+            "Luce (from clue)"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Unfortunately, these were discounted from the tax returns",
+          "choices": [
+            "additions",
+            "expenditures",
+            "revenues",
+            "deductions"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Don't forget the Hollandaise sauce: BE DECENT GIGS",
+          "choices": [
+            "eggs Florentine",
+            "eggs Royale",
+            "eggs Sardou",
+            "eggs Benedict"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A bright red Ford Torino & voice-overs by Antonio Fargas (aka Huggy Bear) are in the game of this '70s cop show",
+    "choices": [
+      "Starsky & Hutch",
+      "Cagney & Lacey",
+      "Miami Vice",
+      "Hill Street Blues"
+    ],
+    "correctIndex": 0,
+    "category": "NEW VIDEO GAMES"
+  },
+  "bonusRound": {
+    "clue": "In 1790 some British sailors landed at this island & then stripped & burned the HMS Bounty",
+    "choices": [
+      "Pitcairn",
+      "Fakaafo",
+      "Kiritimati",
+      "Nukufetau"
+    ],
+    "correctIndex": 0,
+    "category": "\"P\"s ON EARTH"
+  }
+}

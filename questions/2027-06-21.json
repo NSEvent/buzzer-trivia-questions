@@ -1,0 +1,196 @@
+{
+  "date": "2027-06-21",
+  "categories": [
+    {
+      "name": "RUSSIAN WORDS & PHRASES",
+      "questions": [
+        {
+          "clue": "Babushka means this relative, or the scarf she might tie under her chin",
+          "choices": [
+            "mother",
+            "grandmother",
+            "sister",
+            "aunt"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "In the U.S. we have astronauts: in Russia they're called this",
+          "choices": [
+            "astronauts",
+            "spies",
+            "pilots",
+            "cosmonauts"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "If you're using a balalaika, you're trying to make beautiful this",
+          "choices": [
+            "music",
+            "noise",
+            "silence",
+            "chaos"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "If I consider you a tovarich, I think of you as one of these, so come closer",
+          "choices": [
+            "an enemy",
+            "a friend",
+            "a stranger",
+            "a colleague"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "It's the Soviet-era system of forced labor camps",
+          "choices": [
+            "kolkhoz",
+            "sputnik",
+            "perestroika",
+            "gulags"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DISCO",
+      "questions": [
+        {
+          "clue": "ABBA sang about a \"Dancing\" one, Hot Chocolate about a \"Disco\" one",
+          "choices": [
+            "a Man",
+            "a Girl",
+            "a Queen",
+            "a Boy"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Jumping on the disco bandwagon, she recorded \"The Main Event\"",
+          "choices": [
+            "Cher",
+            "Liza Minnelli",
+            "Barbra Streisand",
+            "Donna Summer"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "This \"Play That Funky Music\" group got its name from a flavor of cough drops",
+          "choices": [
+            "The Knack",
+            "Wild Cherry",
+            "Earth, Wind & Fire",
+            "KC and the Sunshine Band"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "It's what K.C. & the Sunshine Band wanted you to \"(Shake, Shake, Shake) Shake\"",
+          "choices": [
+            "your hips",
+            "your knees",
+            "your shoulders",
+            "your booty"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "She recorded her first hit, \"Love To Love You Baby\", in Germany",
+          "choices": [
+            "Cher",
+            "Donna Summer",
+            "Barbra Streisand",
+            "Diana Ross"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WATCH THE BIRDIE",
+      "questions": [
+        {
+          "clue": "The emperor & king species of this can dive to a depth of over 780 feet",
+          "choices": [
+            "Albatross",
+            "Frigatebird",
+            "Penguin",
+            "Cormorant"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This third president, an early bird-watcher, kept a bird that he would let fly around his office",
+          "choices": [
+            "Monroe",
+            "Adams",
+            "Jackson",
+            "Jefferson"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "There are Williamson's & red-breasted species of this bird, but you may be more familiar with the yellow-bellied",
+          "choices": [
+            "a woodpecker",
+            "a sapsucker",
+            "a jay",
+            "a magpie"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Gracie Lantz provided this bird's voice, but Mel Blanc originated the \"Ha-ha-ha-ha-ha!\" laugh",
+          "choices": [
+            "Bugs Bunny",
+            "Woody Woodpecker",
+            "Daffy Duck",
+            "Porky Pig"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "During the mating season a male tern carries this prey & shows it off to the females",
+          "choices": [
+            "a crab",
+            "a shrimp",
+            "a fish",
+            "a squid"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "All of a computer's components & peripherals connect to this; ATX is the main design today",
+    "choices": [
+      "a motherboard",
+      "a graphics card",
+      "a power supply",
+      "a hard drive"
+    ],
+    "correctIndex": 0,
+    "category": "FAMILIAL PHRASES"
+  }
+}

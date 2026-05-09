@@ -1,0 +1,196 @@
+{
+  "date": "2027-12-05",
+  "categories": [
+    {
+      "name": "DUBLINERS",
+      "questions": [
+        {
+          "clue": "This nemesis of Napoleon was born in Dublin where his father, the Earl of Mornington, was a music professor",
+          "choices": [
+            "Catherine the Great",
+            "Wellington",
+            "George Washington",
+            "Admiral Nelson"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Dublin-born Brenda Fricker won an Oscar for playing Daniel Day-Lewis' mother in this 1989 film",
+          "choices": [
+            "Sex and the City",
+            "My Beautiful Laundrette",
+            "Calvary",
+            "My Left Foot"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "He's the Dublin-born bishop & scholar who placed the creation in the year 4004 B.C.",
+          "choices": [
+            "Archbishop Laud",
+            "Pope Gregory I",
+            "Cardinal Mazarin",
+            "Bishop James Usher"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Plays the therapist on \"In Treatment\"",
+          "choices": [
+            "Gabriel Byrne",
+            "Ciaran Hinds",
+            "Colm Meaney",
+            "Brendan Gleeson"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This poet & dramatist was director of Dublin's Abbey Theatre until his death in 1939",
+          "choices": [
+            "Yeats",
+            "Synge",
+            "O'Casey",
+            "Brennan"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "ASIAN LITERATURE",
+      "questions": [
+        {
+          "clue": "In the Iraqi novel \"The President's Gardens\", Abdullah spends 2 decades as a P.O.W. in this country after the 1980s war",
+          "choices": [
+            "Iraq",
+            "Turkey",
+            "Syria",
+            "Iran"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "The Pali canon is a collection of the oldest & most sacred texts of the Theravada branch of this religion",
+          "choices": [
+            "Hinduism",
+            "Jainism",
+            "Sikhism",
+            "Buddhism"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Derenik Demirjyan & Hrant Matevosyan are 20th century writers from this former Soviet republic",
+          "choices": [
+            "Georgia",
+            "Azerbaijan",
+            "Kazakhstan",
+            "Armenia"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The ancient \"I Ching\" of China is also known as the \"Book of\" these",
+          "choices": [
+            "Changes",
+            "Wisdom",
+            "Yin Yang",
+            "Destiny"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This Pulitzer Prize-winner by Vietnamese-American author Viet Thanh Nguyen begins, \"I am a spy... a man of two faces\"",
+          "choices": [
+            "The Sympathies",
+            "The Sympathizer",
+            "The Refugees",
+            "The Displaced"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "MEDALS & DECORATIONS",
+      "questions": [
+        {
+          "clue": "In 1912 Norway issued a South Pole medal for members of this explorer's expedition",
+          "choices": [
+            "Scott",
+            "Shackleton",
+            "Amundsen",
+            "Hillary"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "While the George Cross is inscribed \"For Gallantry\", this British cross is inscribed \"For Valor\"",
+          "choices": [
+            "Distinguished Service Order",
+            "Military Cross",
+            "Victoria Cross",
+            "Albert Cross"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The Order of Two Niles is one of the decorations given out by this country, not Egypt",
+          "choices": [
+            "Sudan",
+            "Kenya",
+            "Ethiopia",
+            "Uganda"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In 1813, King Friedrich Wilhelm III created this top award for military valor",
+          "choices": [
+            "Iron Cross",
+            "Knight's Cross",
+            "Pour le M\u00e9rite",
+            "Order of the Red Eagle"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "This decoration for heroism, instituted in 1856, is Great Britain's highest honor",
+          "choices": [
+            "George Cross",
+            "the Victoria Cross",
+            "Albert Medal",
+            "Order of the British Empire"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Francois Boucher, a favorite of Madame de Pompadour, held the title of \"1st Painter\" to this French king",
+    "choices": [
+      "Louis XIV",
+      "Louis XV",
+      "Napoleon Bonaparte",
+      "Henry IV"
+    ],
+    "correctIndex": 1,
+    "category": "EUROPEAN ARTISTS"
+  }
+}

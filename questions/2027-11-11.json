@@ -1,0 +1,196 @@
+{
+  "date": "2027-11-11",
+  "categories": [
+    {
+      "name": "LAW",
+      "questions": [
+        {
+          "clue": "It's defined as one who could testify regarding what he had seen",
+          "choices": [
+            "Hearsay",
+            "Surveillance",
+            "Eyewitness",
+            "Testimony"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "In Latin legal lingo it means \"by the fact itself\"",
+          "choices": [
+            "Res Judicata",
+            "Ipso Facto",
+            "Habeas Corpus",
+            "Stare Decisis"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "Creative works not protected by copyright & land that has never been privately owned are in this",
+          "choices": [
+            "the intellectual property",
+            "the black market",
+            "the public domain",
+            "the gray area"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "To avoid litigation, this type of insurance or divorce avoids affixing blame",
+          "choices": [
+            "at-fault",
+            "no-fault",
+            "uncontested",
+            "mediation"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "From Romans 2:14, \"these, having not the law, are\" this",
+          "choices": [
+            "a light unto the Gentiles",
+            "a servant of sin",
+            "a child of wrath",
+            "a law unto themselves"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CLICHES",
+      "questions": [
+        {
+          "clue": "Dating back to the Bible, to give up or fail in an endeavor is to \"fall by\" this",
+          "choices": [
+            "the wayside",
+            "the ways of the world",
+            "the edge of oblivion",
+            "the path of destruction"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Like protecting a ship from a storm, when you prepare for trouble, you do this",
+          "choices": [
+            "shore up the bulwarks",
+            "secure the mainmast",
+            "belay the quarrels",
+            "batten down the hatches"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Chairman Mao is said to have coined this phrase which means something ineffective",
+          "choices": [
+            "paper tiger",
+            "paper shield",
+            "paper lion",
+            "paper dragon"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "In toasty terms, to be keenly aware of one's own interests is to \"know\" this",
+          "choices": [
+            "The pen is mightier than the sword",
+            "The grass is always greener",
+            "Which side your bread is buttered on",
+            "Every dog has his day"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "\"Cut to the chase\" means \"get to the point\"; you've hurt someone deeply if you've \"cut to\" this other speedy word",
+          "choices": [
+            "quick",
+            "slow",
+            "hard",
+            "fast"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "STUFF",
+      "questions": [
+        {
+          "clue": "The lawyer who made famous the line \"If it doesn't fit, you must acquit\"",
+          "choices": [
+            "Johnnie Cochran",
+            "F. Lee Bailey",
+            "Gerry Spence",
+            "Alan Dershowitz"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "[Jimmy] I've made this dish with chicken, sausage and vegetables but instead of okra we use fil&eacute powder to thicken and flavor it",
+          "choices": [
+            "jambalaya",
+            "red beans and rice",
+            "gumbo",
+            "beignets"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "In Europe, it extends underwater for 31 miles from Cheriton to Sangatte",
+          "choices": [
+            "the Eurotunnel",
+            "the Channel Tunnel",
+            "the undersea rail",
+            "the Chunnel"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1997 French Polynesia celebrated the 50th anniversary of this Thor Heyerdahl raft",
+          "choices": [
+            "Ra A",
+            "the Balsa",
+            "Thor's Boat",
+            "Kon-Tiki"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "An 8,000-piece collection of this fencing material is featured at Oklahoma's Natl. Cowboy & Western Heritage Museum",
+          "choices": [
+            "razor wire",
+            "chain link",
+            "cotton twine",
+            "barbed wire"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This fish takes its name from its unique defensive behavior",
+    "choices": [
+      "a blowfish",
+      "a porcupine fish",
+      "a puffer fish",
+      "a balloon fish"
+    ],
+    "correctIndex": 2,
+    "category": "GONE FISHIN\\'"
+  }
+}

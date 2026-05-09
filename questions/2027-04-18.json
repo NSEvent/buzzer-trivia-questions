@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-18",
+  "categories": [
+    {
+      "name": "ON THE NOSE",
+      "questions": [
+        {
+          "clue": "This phrase means to forcefully remind someone of what they've done wrong, much like how a puppy might be trained",
+          "choices": [
+            "rub their nose in it",
+            "hold their feet to the fire",
+            "make them eat crow",
+            "lay it on the line"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "These are the 4 groups of air-filled chambers in the facial bones near the nose",
+          "choices": [
+            "the sinuses",
+            "the arteries",
+            "the lymph nodes",
+            "the ducts"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Since its U.S. debut \"Day\" in 2015, this colorfully named campaign to end child poverty has raised more than $421 million",
+          "choices": [
+            "Pink Ribbon Campaign",
+            "Yellow Ribbon Project",
+            "Red Nose Day",
+            "Blue Ribbon Initiative"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "If you're really working hard on something, you (proverbially) have your nose to this wheel-shaped device",
+          "choices": [
+            "the steering wheel",
+            "the accelerator",
+            "the gear shift",
+            "the grindstone"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "National Geographic notes that the male of this primate species use their fleshy pendulous noses to attract mates",
+          "choices": [
+            "ring-tailed lemurs",
+            "proboscis monkeys",
+            "bald uakaris",
+            "spider monkeys"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "CHESTER A. ARTHUR",
+      "questions": [
+        {
+          "clue": "Arthur was the first person to walk across this bridge when it opened to the public May 24, 1883",
+          "choices": [
+            "the Manhattan Bridge",
+            "the Williamsburg Bridge",
+            "the Brooklyn Bridge",
+            "the George Washington Bridge"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "As a lawyer, Chester got better treatment for blacks in this city's streetcar system",
+          "choices": [
+            "Washington DC",
+            "Philadelphia",
+            "New York City",
+            "Boston"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "It's what the \"A.\" stands for",
+          "choices": [
+            "Andrew",
+            "Alfred",
+            "Alan",
+            "Arthur"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Some claimed Chester was born here, & therefore ineligible to be president",
+          "choices": [
+            "Canada",
+            "Mexico",
+            "Puerto Rico",
+            "Alaska"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "He was nicknamed \"The Gentleman\" this",
+          "choices": [
+            "Judge",
+            "Sheriff",
+            "Boss",
+            "Mayor"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "VARIETY PACK",
+      "questions": [
+        {
+          "clue": "This log traditionally goes into the fireplace at Christmas",
+          "choices": [
+            "firewood",
+            "kindling",
+            "yule log",
+            "charcoal"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Mittendorf's Dot is a congenital whitish-gray dot on the lens of this organ",
+          "choices": [
+            "the nose",
+            "the ear",
+            "the mouth",
+            "the eye"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The Latin word talpa, meaning \"mole\", gives us the word for this brownish gray color that resembles moleskin",
+          "choices": [
+            "taupe",
+            "beige",
+            "khaki",
+            "olive"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "A prefix referring to skin, or a Jewish-American sausage also called kishke",
+          "choices": [
+            "epidermis",
+            "derma",
+            "subcutaneous",
+            "cutaneous"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "According to Hawaiian legend, anyone who removes a piece of volcanic rock will be cursed by this fire goddess",
+          "choices": [
+            "Laka",
+            "Papah\u0101naumoku\u0101kea",
+            "N\u0101maka",
+            "Pele"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Ironically, Seth Boyden never legally protected his process to make the high-gloss leather with this name",
+    "choices": [
+      "copyright",
+      "trademark",
+      "patent",
+      "license"
+    ],
+    "correctIndex": 2,
+    "category": "LEATHER"
+  }
+}

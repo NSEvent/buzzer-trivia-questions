@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-20",
+  "categories": [
+    {
+      "name": "ON THE BOOKSHELF",
+      "questions": [
+        {
+          "clue": "He concludes Dickens' \"A Christmas Carol\" by saying, \"God bless us, every one\"",
+          "choices": [
+            "Tiny Tim",
+            "Bob Cratchit",
+            "Scrooge",
+            "Marley"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "\"Blood Sport\" is part one of this Stephen King novel; part two is \"Prom Night\"",
+          "choices": [
+            "Pet Sematary",
+            "Carrie",
+            "Shining",
+            "It"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Raise high the roof beam, carpenters and Seymour: an introduction\" is a collection by him",
+          "choices": [
+            "Fitzgerald",
+            "Kerouac",
+            "Salinger",
+            "Orwell"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "\"The Final Days\" was Woodward & Bernstein's sequel to this nonfiction bestseller",
+          "choices": [
+            "Watergate",
+            "Deep Throat",
+            "All the President's Men",
+            "J Edgar"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "President Obama & Amazon both named as their favorite novel of 2015 Lauren Groff's \"Fates and\" these",
+          "choices": [
+            "Fools",
+            "Furies",
+            "Fables",
+            "Flames"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FUN STUFF",
+      "questions": [
+        {
+          "clue": "The Boston Model 1800 is one of these for pencils; the Slydart is one for darts",
+          "choices": [
+            "a sharpener",
+            "a container",
+            "a tool",
+            "a device"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Hey, gang, let's put on a show in this building, like in the musical \"Summer Stock\"",
+          "choices": [
+            "the shed",
+            "the barn",
+            "the attic",
+            "the garage"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "At NYC's Tisch Children's Zoo, a Vietnamese pot-bellied this is available for petting",
+          "choices": [
+            "goat",
+            "sheep",
+            "pig",
+            "rabbit"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Total number of cards used to play Old Maid (without any jokers)",
+          "choices": [
+            "50",
+            "52",
+            "51",
+            "54"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This 155-year-old chocolate co. named for an Italian is based in San Francisco, a city named for an Italian",
+          "choices": [
+            "Nestle",
+            "Cadbury",
+            "Lindt",
+            "Ghirardelli"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "HUNGARY",
+      "questions": [
+        {
+          "clue": "In 1867 Hungary & this country established a dual monarchy that lasted until the end of World War I",
+          "choices": [
+            "Prussia",
+            "Bavaria",
+            "Austria",
+            "Bohemia"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Hungary's Ferenc Puskas, \"The Galloping Major\", was one of the first international superstars of this sport",
+          "choices": [
+            "rugby",
+            "basketball",
+            "tennis",
+            "soccer"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "An important river of Central Europe & Hungary, the Tisza is a tributary of this much longer river",
+          "choices": [
+            "the Danube",
+            "the Volga",
+            "the Rhine",
+            "the Elbe"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "Under a treaty following WWI, Hungary lost about 2/3 of its territory, including Transylvania, to this country",
+          "choices": [
+            "Austria",
+            "Serbia",
+            "Romania",
+            "Czechoslovakia"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1982 Hungary joined this organization, the IMF, which arranges economic aid to its members",
+          "choices": [
+            "World Bank",
+            "International Monetary Fund",
+            "European Union",
+            "World Trade Organization"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "A small film role: an unknown has a \"bit part\", but a famous person makes this guest appearance",
+    "choices": [
+      "supporting role",
+      "lead actor",
+      "cameo",
+      "stunt double"
+    ],
+    "correctIndex": 2,
+    "category": "SHOW BIZ JOBS"
+  }
+}

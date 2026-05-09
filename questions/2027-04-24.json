@@ -1,0 +1,207 @@
+{
+  "date": "2027-04-24",
+  "categories": [
+    {
+      "name": "JAILHOUSE ROCK",
+      "questions": [
+        {
+          "clue": "Al Capone & Machine Gun Kelly did time on this rock in San Francisco Bay",
+          "choices": [
+            "Robinson Crusoe Island",
+            "Alcatraz",
+            "Satan's Island",
+            "Alcatraz Island Prison"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Accused Kurdish terrorist Abdullah Ocalan is the sole inmate held on this country's rocky island of Imrali",
+          "choices": [
+            "Greece",
+            "Syria",
+            "Turkey",
+            "Iran"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The infamous penal colony on this rocky islet off the coast of South America opened in 1852",
+          "choices": [
+            "Elba Island",
+            "Devil's Tower",
+            "Satan's Rock",
+            "Devil's Island"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "This chateau on a tiny rock in the Mediterranean was a prison in real life, not just in \"The Count of Monte Cristo\"",
+          "choices": [
+            "the Palace of Versailles",
+            "the Ch\u00e2teau d'If",
+            "the Tower of London",
+            "the Ch\u00e2teau de Chambord"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This \"Chateau\" on a tiny rock in the Mediterranean was a prison in real life, not just in \"The Count of Monte Cristo\"",
+          "choices": [
+            "Tower of London",
+            "Alcatraz Island",
+            "Castle Krakatoa",
+            "Ch\u00e2teau d'If"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FEMINISM",
+      "questions": [
+        {
+          "clue": "Perhaps inspired by Shirley Muldowney, in 1990 Saudi Arabian women protested their exclusion from this activity",
+          "choices": [
+            "driving",
+            "voting",
+            "working",
+            "drinking"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "It passed Congress in the 1970s by a combined 438-31 but was never ratified by 3/4 of the states",
+          "choices": [
+            "Civil Rights Act",
+            "Voting Rights Act",
+            "Affirmative Action Plan",
+            "Equal Rights Amendment (ERA)"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The work of Laura X (no relation to Malcolm) led to March being designated this every year",
+          "choices": [
+            "Women's Equality Day",
+            "International Women's Day",
+            "Mother's Day",
+            "Women's History Month"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1836 the Grimke sisters pioneered women's right to speak in public when they flounced around denouncing this",
+          "choices": [
+            "prohibition",
+            "temperance",
+            "abstinence",
+            "slavery"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Naomi Wolf wrote \"Misconceptions: Truth, Lies, and the Unexpected on the Journey to\" this",
+          "choices": [
+            "Fatherhood",
+            "Parenthood",
+            "Marriage",
+            "Motherhood"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "COUNTRY RHYME TIME",
+      "questions": [
+        {
+          "clue": "A large extended family in Yokohama",
+          "choices": [
+            "a China box",
+            "a Korea clan",
+            "a India pack",
+            "a Japan clan"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A Baghdad paper bag",
+          "choices": [
+            "an Iran bag",
+            "an Iraq sack",
+            "a Turkey sack",
+            "a Syria pack"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "A father in a landlocked central African country",
+          "choices": [
+            "a Chad lad",
+            "a Chad pad",
+            "a Chad dad",
+            "a Chad sad"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Sheep wool in Thessaloniki",
+          "choices": [
+            "Greece fleece",
+            "Greece cheese",
+            "Greece breeze",
+            "Greece peace"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "A citrus fruit from Sanaa",
+          "choices": [
+            "an Oman lime",
+            "a Saudi grape",
+            "a Qatar melon",
+            "a Yemen lemon"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "This Brit's poem \"La Belle Dame sans Merci\" says, \"She looked at me as she did love, And made sweet moan\"",
+    "choices": [
+      "John Milton",
+      "John Keats",
+      "John Donne",
+      "John Dryden"
+    ],
+    "correctIndex": 1,
+    "category": "THE LANGUAGE OF LOVE"
+  },
+  "bonusRound": {
+    "clue": "\"Royal\" bandleader whose first two names were Edward Kennedy",
+    "choices": [
+      "Count Basie",
+      "Duke Ellington",
+      "Glenn Miller",
+      "Benny Goodman"
+    ],
+    "correctIndex": 1,
+    "category": "BIG BANDS"
+  }
+}

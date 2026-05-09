@@ -1,0 +1,196 @@
+{
+  "date": "2027-07-26",
+  "categories": [
+    {
+      "name": "IN THE OCEAN",
+      "questions": [
+        {
+          "clue": "The book \"Seas & Oceans\" says this creature resembles a gherkin",
+          "choices": [
+            "a sea slug",
+            "a sea anemone",
+            "a sea cucumber",
+            "a sea lettuce"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "From the Latin \"lacuna\", pool, it's a body of brackish water separated from the sea by a reef",
+          "choices": [
+            "a bay",
+            "a strait",
+            "a lagoon",
+            "a fjord"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The Sunda Double Trench",
+          "choices": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Southern"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The Lomonosov Ridge",
+          "choices": [
+            "Arctic",
+            "Atlantic",
+            "Pacific",
+            "Southern"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "It's the largest coral mass on earth",
+          "choices": [
+            "the Belize Barrier Reef",
+            "the Red Sea Coral",
+            "the Florida Reef",
+            "the Great Barrier Reef"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "PASTA GLOSSARY",
+      "questions": [
+        {
+          "clue": "The bow-tie shaped farfalle gets its name from the Italian word for this insect",
+          "choices": [
+            "butterfly",
+            "moth",
+            "beetle",
+            "fly"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "These long ribbons of pasta have a name meaning \"little tongues\"",
+          "choices": [
+            "linguine",
+            "spaghetti",
+            "tagliatelle",
+            "pappardelle"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Conchiglie are these, usually ridged",
+          "choices": [
+            "tubes",
+            "shells",
+            "rings",
+            "spirals"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The name of this totally tubular pasta is said to mean \"little mustaches\"",
+          "choices": [
+            "fettuccine",
+            "penne",
+            "macaroni",
+            "mostaccioli"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Little disks, orecchiette are named for their resemblance to these body parts",
+          "choices": [
+            "little eyes",
+            "little bells",
+            "little spoons",
+            "the ears"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WE'RE NO. 1!",
+      "questions": [
+        {
+          "clue": "On \"Star Trek\", when Captain Picard calls for Number 1, this officer comes running",
+          "choices": [
+            "Lt. Worf",
+            "Dr. Crusher",
+            "Commander Riker",
+            "Wesley Crusher"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Joycelyn Elders was the first African-American to hold this post created in 1870 to direct the Marine Hospital Service",
+          "choices": [
+            "Secretary of Health",
+            "Chief Medical Officer",
+            "Surgeon General",
+            "Public Health Director"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "\"We had joy, we had fun, we had\" this 1974 Terry Jacks hit",
+          "choices": [
+            "Yesterday Once More",
+            "Hotel California",
+            "Summer Breeze",
+            "\"Seasons In The Sun\""
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1983 we chowed down on a Vegemite sandwich with this \"Down Under\" group",
+          "choices": [
+            "Men at Work",
+            "AC/DC",
+            "INXS",
+            "Crowded House"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "\"The Tower Treasure\" is book No. 1 in a series of the adventures of these brothers",
+          "choices": [
+            "Hardy Boys",
+            "Nancy Drew",
+            "Goosebumps",
+            "Magic School Bus"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "The Munster Express",
+    "choices": [
+      "Ireland",
+      "Wales",
+      "Scotland",
+      "England"
+    ],
+    "correctIndex": 0,
+    "category": "WORLD PRESS"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2027-04-19",
+  "categories": [
+    {
+      "name": "GREEK TRAGEDY & COMEDY",
+      "questions": [
+        {
+          "clue": "Deus ex machina, a popular theatrical device, means this \"from the machine\"",
+          "choices": [
+            "Spirit",
+            "God",
+            "Fate",
+            "Oracle"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This was the term for a leading actor; a secondary actor was called a deuteragonist",
+          "choices": [
+            "a protagonist",
+            "a tritagonist",
+            "a choragus",
+            "a chorus"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "This master of old comedy wrote many plays, but \"The Birds\" is one of only 11 that have survived",
+          "choices": [
+            "Menander",
+            "Euripides",
+            "Plautus",
+            "Aristophanes"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "The \"Oresteia\" is a trilogy of plays about this man, Agamemnon's son",
+          "choices": [
+            "Orestes",
+            "Oedipus",
+            "Electra",
+            "Orestus"
+          ],
+          "correctIndex": 0,
+          "value": 800
+        },
+        {
+          "clue": "These costume accessories that covered the actors' heads had open mouths & attached hair",
+          "choices": [
+            "helmets",
+            "wigs",
+            "masks",
+            "headbands"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BANKING & FINANCE",
+      "questions": [
+        {
+          "clue": "Come on get \"A.P.Y.\"; A.P.Y. is short for this, money earned from a savings account over a specific amount of time",
+          "choices": [
+            "annual percentage rate",
+            "annual percentage yield",
+            "interest rate",
+            "simple interest"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "Invest $10,000 at 4%, add $100 per month & in 10 years you'll have nearly $30,000; the oft-cited \"miracle of\" this 2-word phrase",
+          "choices": [
+            "simple interest",
+            "capital gains",
+            "dividend growth",
+            "compound interest"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Securities as well as your funds for that new house\u2014congrats!\u2014can be held by a third party on behalf of the 2 others in this",
+          "choices": [
+            "trust fund",
+            "lien",
+            "escrow",
+            "mortgage"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The Fed says bigger banks can risk more because Uncle Sam won't let them go under, this 4-word principle",
+          "choices": [
+            "cannot be saved",
+            "too large to save",
+            "beyond repair",
+            "too big to fail"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "It's a contract that gives someone the right, but not the obligation, to buy or sell something before a certain date",
+          "choices": [
+            "a futures contract",
+            "a forward deal",
+            "an option",
+            "a swap agreement"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FILL IN THE SONG TITLE",
+      "questions": [
+        {
+          "clue": "Katy Perry: \"Waking Up In ____\"",
+          "choices": [
+            "Vegas",
+            "Paris",
+            "London",
+            "New York"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Cobra Starship featuring Leighton Meester: \"Good Girls ____ ____\"",
+          "choices": [
+            "Stay Good",
+            "Run Fast",
+            "Go Bad",
+            "Act Wild"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Whitney Houston: \"____ Dollar Bill\"",
+          "choices": [
+            "Billion",
+            "Thousand",
+            "Hundred",
+            "Million"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "Carrie Underwood & her Louisville Slugger: \"B.H.C.\"",
+          "choices": [
+            "Before He Left",
+            "Before He Lied",
+            "Before He Gave",
+            "\"Before He Cheats\""
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Alicia Keys: \"N.O.\"",
+          "choices": [
+            "\"No One\"",
+            "No Way",
+            "No One Else",
+            "No One Here"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "On September 3, this U.S. ambassador to Britain sent news that England declared war on Germany",
+    "choices": [
+      "Joseph McCarthy",
+      "Joseph Kennedy Sr.",
+      "Joseph Stalin",
+      "Joseph Goebbels"
+    ],
+    "correctIndex": 1,
+    "category": "1939"
+  }
+}

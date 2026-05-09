@@ -1,0 +1,196 @@
+{
+  "date": "2027-02-03",
+  "categories": [
+    {
+      "name": "PUT ME IN, COACH!",
+      "questions": [
+        {
+          "clue": "Notre Dame's football coach from 1918 to 1930, he had a winning percentage of .881, the highest in NCAA history",
+          "choices": [
+            "Rockne",
+            "Wooden",
+            "Syracuse",
+            "UCLA"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "Bob Kersee coached this woman, his wife, to 4 world championships, 2 in the heptathlon & 2 in the long jump",
+          "choices": [
+            "Jackie Joyner-Kersee",
+            "Florence Griffith",
+            "Alice Coachman",
+            "Wilma Rudolph"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "With 4 for the Pittsburgh Steelers, he won more Super Bowls than any other NFL coach",
+          "choices": [
+            "Chuck Noll",
+            "Bill Belichick",
+            "Tom Landry",
+            "Don Shula"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "On Jan. 16, 2008 this former Indiana coach won his record 900th basketball game, guiding Texas Tech over Texas A&M",
+          "choices": [
+            "John Wooden",
+            "Mike Krzyzewski",
+            "Dean Smith",
+            "(Bobby) Knight"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Put me in at this soccer position also called halfback\u2014I can help on both offense & defense",
+          "choices": [
+            "forward",
+            "goalkeeper",
+            "midfielder",
+            "defender"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "AMERICAN BUSINESS",
+      "questions": [
+        {
+          "clue": "The first product sold door-to-door by this firm was its Little Dot perfume set",
+          "choices": [
+            "Avon (known then as the California Perfume Co.)",
+            "Avon",
+            "Avon Products",
+            "Avon Cosmetics"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "The first brand of frozen orange juice concentrate undoubtedly took more than 60 seconds to develop",
+          "choices": [
+            "Sunkist",
+            "Tropicana",
+            "Minute Mate",
+            "Minute Maid"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "If you buy Yuban, Sanka, Brim, Maxim, or Maxwell House, you're getting your coffee from this co.",
+          "choices": [
+            "Kraft Foods",
+            "Nabisco",
+            "Pillsbury",
+            "General Foods"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "In 1859, the world's 1st successful oil well was drilled just outside this Penn. town",
+          "choices": [
+            "Bradford",
+            "Oil Creek",
+            "Titusville",
+            "Venango"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This Iowa-based company developed the agitating washing machine in 1922 & a dryer 31 years later",
+          "choices": [
+            "Maytag",
+            "Whirlpool",
+            "GE",
+            "Speed Queen"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "\"EX\" MARKS THE SPOT",
+      "questions": [
+        {
+          "clue": "It's a concentrated flavoring, often in liquid form, such as almond or vanilla",
+          "choices": [
+            "an infusion",
+            "a distillate",
+            "an essence",
+            "an extract"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "A person appointed to carry out a will is called this",
+          "choices": [
+            "an administrator",
+            "an attorney",
+            "an executor",
+            "a beneficiary"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "The 3 in (x+y)3, for example",
+          "choices": [
+            "the base",
+            "the coefficient",
+            "the exponent",
+            "the variable"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "In Norman times it was the king's countinghouse; today it's the name applied to Britain's public funds",
+          "choices": [
+            "Treasury",
+            "Exchequer",
+            "Chancery",
+            "Exhibition"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "From the Latin meaning \"higher\" or \"ever upward\", it's the state motto of New York",
+          "choices": [
+            "Empire",
+            "Liberty",
+            "\"Excelsior\"",
+            "Glory"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Best boiled or baked, the Hubbard type of this vegetable is rich in vitamin A",
+    "choices": [
+      "Pumpkin",
+      "Zucchini",
+      "Cucumber",
+      "Squash"
+    ],
+    "correctIndex": 3,
+    "category": "WHAT'S COOKIN'?"
+  }
+}

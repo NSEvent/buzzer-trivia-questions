@@ -1,0 +1,196 @@
+{
+  "date": "2028-04-23",
+  "categories": [
+    {
+      "name": "ANGELS",
+      "questions": [
+        {
+          "clue": "This \"crusade\"ing evangelist wrote the 1975 book \"Angels: God's Secret Agents\"",
+          "choices": [
+            "Norman Vincent Peale",
+            "Oral Roberts",
+            "Billy Graham",
+            "Jimmy Swaggart"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The address of Angel Stadium is on a street named for this singing cowboy",
+          "choices": [
+            "Roy Rogers",
+            "Tex Ritter",
+            "Gene Autry",
+            "Slim Pickens"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Sportswriters refer to the Angels as these appropriate circular items, like the one in the team's logo",
+          "choices": [
+            "the Rings",
+            "the Orbits",
+            "the Halos",
+            "the Spheres"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "The tagline to this 1996 John Travolta film was \"He's an angel... not a saint\"",
+          "choices": [
+            "City of Angels",
+            "Urban Angel",
+            "Guardian Angel",
+            "Michael"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "With an appropriate-sounding name, John Dye plays the angel of this on \"Touched By An Angel\"",
+          "choices": [
+            "Angel of Mercy",
+            "Angel of Death",
+            "Angel of Hope",
+            "Angel of Love"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "BODY LANGUAGE",
+      "questions": [
+        {
+          "clue": "\"An albatross around one's ____\"",
+          "choices": [
+            "back",
+            "neck",
+            "head",
+            "heart"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "If you have a desire to travel, these are \"itchy\"",
+          "choices": [
+            "your mind",
+            "your eyes",
+            "your soul",
+            "your feet"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "Something that's very expensive is said to cost these 2 body parts",
+          "choices": [
+            "arm & a leg",
+            "two hands",
+            "a kidney",
+            "both ears"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "One stage of a journey",
+          "choices": [
+            "step",
+            "walk",
+            "leg",
+            "trek"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "When it comes before \"the burden\" or \"the blame\", it's a synonym for \"assume\"",
+          "choices": [
+            "back",
+            "chest",
+            "shoulder",
+            "head"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "THE GOOD LIFE",
+      "questions": [
+        {
+          "clue": "Florally speaking, you can be rolling in clover or lying on a bed of these",
+          "choices": [
+            "Lilies",
+            "Tulips",
+            "Roses",
+            "Daisies"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "The part \"of luxury\" you \"live in\"",
+          "choices": [
+            "Lap",
+            "Suite",
+            "Palm",
+            "Ease"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "Connoisseurs know that the Franc variety of this grape is less full-bodied than the Sauvignon",
+          "choices": [
+            "Merlot",
+            "Cabernet",
+            "Pinot",
+            "Shiraz"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "6-letter word for a beauty treatment that covers the area from forehead to chin",
+          "choices": [
+            "Manicure",
+            "Massage",
+            "Pedicure",
+            "Facial"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "You're blessed with luck if you're born with this piece of flatware in your mouth",
+          "choices": [
+            "Golden fork",
+            "Platinum knife",
+            "Bronze plate",
+            "Silver spoon"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "\"Hospital Caregiver Mrs. Onassis\"",
+    "choices": [
+      "Dr. House",
+      "Nurse Jackie",
+      "Dr. Cox",
+      "Grey Sloan"
+    ],
+    "correctIndex": 1,
+    "category": "TV SHOWS IN OTHER WORDS"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2028-01-26",
+  "categories": [
+    {
+      "name": "BLACK HISTORY MONTH",
+      "questions": [
+        {
+          "clue": "In September 2004 she made history on TV by giving a brand new car to each member of her audience",
+          "choices": [
+            "Maya Angelou",
+            "Whoopi Goldberg",
+            "Oprah (Winfrey)",
+            "Robin Roberts"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "Jackie Robinson broke baseball's color line in 1947 when he was signed by this team",
+          "choices": [
+            "the Giants",
+            "the Cardinals",
+            "the Dodgers",
+            "the Yankees"
+          ],
+          "correctIndex": 2,
+          "value": 400
+        },
+        {
+          "clue": "Kweisi Mfume left the House of Representatives to head this civil rights organization in February 1996",
+          "choices": [
+            "the Urban League",
+            "the NAACP",
+            "the ACLU",
+            "the SCLC"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "The army's last black regiment, the 24th infantry, was disbanded in October 1951, during this war",
+          "choices": [
+            "the Vietnam War",
+            "the Korean War",
+            "World War II",
+            "the Gulf War"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In July 1881 this famous college opened in Alabama with Booker T. Washington as its first principal",
+          "choices": [
+            "Tuskegee",
+            "Howard",
+            "Morehouse",
+            "Fisk"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "FAMILY FEUD",
+      "questions": [
+        {
+          "clue": "This \"Splendid Splinter\" of Red Sox fame saw his family splinter over what to do with his body after his death in 2002",
+          "choices": [
+            "Carl Yastrzemski",
+            "Jimmie Foxx",
+            "Babe Ruth",
+            "Ted Williams"
+          ],
+          "correctIndex": 3,
+          "value": 200
+        },
+        {
+          "clue": "\"Boyfights\", a series of videos created by George Bluth Sr. on this sitcom, featured his sons Michael & G.O.B. brawling",
+          "choices": [
+            "Seinfeld",
+            "The Office",
+            "Scrubs",
+            "Arrested Development"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "She thought sis Olivia de Havilland would \"spring across the table and grab me by the hair\" after she won a 1941 Oscar",
+          "choices": [
+            "Bette Davis",
+            "Ingrid Bergman",
+            "Joan Fontaine",
+            "Olivia Newton-John"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Feuding doesn't get much worse than patricide, as it does in this Dostoyevsky novel, his last",
+          "choices": [
+            "Crime and Punishment",
+            "The Brothers Karamazov",
+            "War and Peace",
+            "Anna Karenina"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "This 1857 Flaubert title character has an unfortunate affair to remember, leading to suicide",
+          "choices": [
+            "Emma Bovary",
+            "Madame Bovary",
+            "Louise Boverie",
+            "Mademoiselle Bovary"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "DISCOVER",
+      "questions": [
+        {
+          "clue": "Near the top of the \"100 Top Stories of 2013\" was the announcement that atmospheric levels of this gas topped 400 ppm",
+          "choices": [
+            "CO2 (carbon dioxide)",
+            "Methane",
+            "Ozone",
+            "Sulfur Dioxide"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "While studying the sun with a spectroscope, Pierre Janssen & Sir Norman Lockyer discovered this element in 1868",
+          "choices": [
+            "helium",
+            "hydrogen",
+            "oxygen",
+            "neon"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "A wilderness doctor's must-have list includes this everyday pill, as a blood thinner in case of heart attack",
+          "choices": [
+            "ibuprofen",
+            "aspirin",
+            "acetaminophen",
+            "penicillin"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "Biochemist Henrik Dam shared a Nobel Prize for discovering this vitamin vital to blood clotting",
+          "choices": [
+            "vitamin C",
+            "vitamin D",
+            "vitamin K",
+            "vitamin B12"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "In 1958, using data from a satellite, this physicist discovered 2 radiation belts encircling the Earth",
+          "choices": [
+            "Sputnik",
+            "Gagarin",
+            "Armstrong",
+            "Van Allen"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Apartment No. 1901, Elliot Bay Towers, Seattle was home to this befuddled radio headshrinker",
+    "choices": [
+      "Niles Crane",
+      "Martin Crane",
+      "Freddy Benz",
+      "Frasier Crane"
+    ],
+    "correctIndex": 3,
+    "category": "TV SHOW ADDRESSES"
+  }
+}

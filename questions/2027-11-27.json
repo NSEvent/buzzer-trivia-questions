@@ -1,0 +1,207 @@
+{
+  "date": "2027-11-27",
+  "categories": [
+    {
+      "name": "MIRRORS",
+      "questions": [
+        {
+          "clue": "A 2001 experiment found not just primates but these aquatic mammals recognize themselves in mirrors",
+          "choices": [
+            "dolphins",
+            "whales",
+            "seals",
+            "otters"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "There is evidence that Precolumbian Mesoamericans used this black volcanic rock with a Roman name to make mirrors",
+          "choices": [
+            "basalt",
+            "obsidian",
+            "flint",
+            "lava"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "\"Equine\" name for a mirror mounted on a frame that can be tilted",
+          "choices": [
+            "a full length mirror",
+            "a cheval glass",
+            "a chevalier glass",
+            "a chevalier mirror"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "On June 28, 1919, this was signed in the Hall of Mirrors",
+          "choices": [
+            "the Treaty of Paris",
+            "the Treaty of Versailles",
+            "the League of Nations Charter",
+            "the Fourteen Points"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "In the 18th c. James Short cut the distortion with the first truly parabolic & elliptical mirrors for these",
+          "choices": [
+            "microscopes",
+            "telescopes",
+            "periscopes",
+            "kaleidoscopes"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "SAND",
+      "questions": [
+        {
+          "clue": "These fruits, popular at Thanksgiving, are grown in sand-covered bogs in the northeastern U.S.",
+          "choices": [
+            "blueberries",
+            "cranberries",
+            "raspberries",
+            "blackberries"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "To classify sand by grain size, Johan Udden painstakingly put sample after sample through this kitchen item",
+          "choices": [
+            "a sieve",
+            "a strainer",
+            "a colander",
+            "a filter"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "At Augusta National, these are filled with North Carolina feldspar",
+          "choices": [
+            "sand traps",
+            "water hazards",
+            "bunkers",
+            "sand bunkers"
+          ],
+          "correctIndex": 0,
+          "value": 600
+        },
+        {
+          "clue": "We don't know who counted them, but more than half of earth's sand grains are made of this mineral",
+          "choices": [
+            "feldspar",
+            "calcite",
+            "olivine",
+            "quartz"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "Synchronized grain motion explains the \"singing\" these, like the ones at Nevada's Sand Mountain",
+          "choices": [
+            "deltas",
+            "dunes",
+            "oases",
+            "basins"
+          ],
+          "correctIndex": 1,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "OREGON",
+      "questions": [
+        {
+          "clue": "In Oregon, this secretary takes over if the governor resigns, dies or is removed from office",
+          "choices": [
+            "the Governor of Washington",
+            "the Secretary of State",
+            "the Attorney General",
+            "the Lieutenant Governor"
+          ],
+          "correctIndex": 1,
+          "value": 200
+        },
+        {
+          "clue": "This river flows through Eugene & Portland",
+          "choices": [
+            "the Columbia",
+            "the Willamette",
+            "the Rogue",
+            "the Umpqua"
+          ],
+          "correctIndex": 1,
+          "value": 400
+        },
+        {
+          "clue": "From its many gardens, Portland has earned the nickname \"City of\" these flowers",
+          "choices": [
+            "lilacs",
+            "orchids",
+            "roses",
+            "tulips"
+          ],
+          "correctIndex": 2,
+          "value": 600
+        },
+        {
+          "clue": "Highest mountain in Oregon, it's named for a British admiral, not a gangster",
+          "choices": [
+            "Mount Rainier",
+            "Mount Shasta",
+            "Mount St. Helens",
+            "Mount Hood"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "The Columbia River Maritime Museum is an attraction in this city named for a fur tycoon",
+          "choices": [
+            "Astoria",
+            "Portland",
+            "Eugene",
+            "Salem"
+          ],
+          "correctIndex": 0,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "In this sport the short track is an oval, 364 feet in circumference",
+    "choices": [
+      "figure skating",
+      "speed skating",
+      "short track cycling",
+      "speed skiing"
+    ],
+    "correctIndex": 1,
+    "category": "WINTER SPORTS"
+  },
+  "bonusRound": {
+    "clue": "This 1920s scandal erupted when Secretary of the Interior Albert Fall leased govt. oil fields to private individuals",
+    "choices": [
+      "Teapot Dome",
+      "Panama Canal",
+      "Louisiana Purchase",
+      "Alaska Purchase"
+    ],
+    "correctIndex": 0,
+    "category": "AMERICA SINCE 1900"
+  }
+}

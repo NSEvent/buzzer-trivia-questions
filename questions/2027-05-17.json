@@ -1,0 +1,196 @@
+{
+  "date": "2027-05-17",
+  "categories": [
+    {
+      "name": "PITCHERS",
+      "questions": [
+        {
+          "clue": "\"Don't leave home without\" this company, \"AXP\" on the Dow",
+          "choices": [
+            "Visa Inc",
+            "Mastercard",
+            "American Express",
+            "American Airlines"
+          ],
+          "correctIndex": 2,
+          "value": 200
+        },
+        {
+          "clue": "This strikeout king's last season, 1993, was marred by injuries & a fistfight with Robin Ventura",
+          "choices": [
+            "Nolan Ryan",
+            "Roger Clemens",
+            "Greg Maddux",
+            "Tom Glavine"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "\"A sandwich is a sandwich, but\" this \"is a meal\"",
+          "choices": [
+            "a Big Mac",
+            "a Whopper",
+            "a Filet-O-Fish",
+            "a Manwich"
+          ],
+          "correctIndex": 3,
+          "value": 600
+        },
+        {
+          "clue": "\"Raise your hand if you're\" this deodorant",
+          "choices": [
+            "Dove",
+            "Dove Men+Care",
+            "Sure",
+            "Dove Shampoo"
+          ],
+          "correctIndex": 2,
+          "value": 800
+        },
+        {
+          "clue": "This pitcher named for a U.S. president was played by Ronald Reagan in \"The Winning Team\"",
+          "choices": [
+            "Thomas Jefferson",
+            "Andrew Jackson",
+            "Grover Cleveland Alexander",
+            "Dwight Eisenhower"
+          ],
+          "correctIndex": 2,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "WOMEN ON U.S. STAMPS",
+      "questions": [
+        {
+          "clue": "This Nobel Prize-winning nun was featured on a 2010 stamp",
+          "choices": [
+            "Mother Teresa",
+            "Florence Nightingale",
+            "Clara Barton",
+            "Jane Goodall"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "1902: The first First Lady",
+          "choices": [
+            "Martha Washington",
+            "Abigail Adams",
+            "Dolley Madison",
+            "Martha Jefferson"
+          ],
+          "correctIndex": 0,
+          "value": 400
+        },
+        {
+          "clue": "With the Columbus commemorative stamps in 1893, she became the first woman to be depicted on a U.S. stamp",
+          "choices": [
+            "Queen Victoria",
+            "Queen Isabella",
+            "Catherine de' Medici",
+            "Queen Elizabeth"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "1994: A Shoshone guide for a famous expedition",
+          "choices": [
+            "Jane Addams",
+            "Rosa Parks",
+            "Amelia Earhart",
+            "Sacagawea"
+          ],
+          "correctIndex": 3,
+          "value": 800
+        },
+        {
+          "clue": "\"God Bless America\" & this beloved singer who was honored on a stamp in 2010",
+          "choices": [
+            "Ella Fitzgerald",
+            "Billie Holiday",
+            "Bessie Smith",
+            "Kate Smith"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "JUMP",
+      "questions": [
+        {
+          "clue": "Before a big jump in a 1969 film, the Sundance Kid says, \"I can't swim\" & this character says, \"The fall will probably kill ya\"",
+          "choices": [
+            "Butch Cassidy",
+            "Jesse James",
+            "Wild Bill Hickok",
+            "Jedediah Smith"
+          ],
+          "correctIndex": 0,
+          "value": 200
+        },
+        {
+          "clue": "In the Bohr model of the atom, energy is released when one of these jumps to a specified orbit about the nucleus",
+          "choices": [
+            "a proton",
+            "a neutron",
+            "a photon",
+            "an electron"
+          ],
+          "correctIndex": 3,
+          "value": 400
+        },
+        {
+          "clue": "The Travel Channel Online has a fantasy flight of their 1903 flyer jumping 8 SUVs",
+          "choices": [
+            "the Orville Wright",
+            "the Wright Brothers",
+            "the Wilbur Brothers",
+            "the Flyer Crew"
+          ],
+          "correctIndex": 1,
+          "value": 600
+        },
+        {
+          "clue": "This actor who played Superman jumps from a plane in \"M.I.\u2014Fallout\" but can't fly & needs to be rescued by Tom Cruise",
+          "choices": [
+            "Henry Fonda",
+            "(Henry) Cavill",
+            "Christopher Reeve",
+            "George Reeves"
+          ],
+          "correctIndex": 1,
+          "value": 800
+        },
+        {
+          "clue": "You have to be nuts to try a quadruple one of these jumps, named for figure skater Alois",
+          "choices": [
+            "Axel",
+            "Salchow",
+            "Toe loop",
+            "Lutz"
+          ],
+          "correctIndex": 3,
+          "value": 1000
+        }
+      ]
+    }
+  ],
+  "dailyDouble": {
+    "clue": "Take the kids to Drumnadrochit to see the exhibition devoted to this beast, then go outside & search for it yourself",
+    "choices": [
+      "the Kraken",
+      "the Lake Monsters",
+      "the Loch Ness monster",
+      "the Nessie creature"
+    ],
+    "correctIndex": 2,
+    "category": "TAKE THE KIDS!"
+  }
+}
